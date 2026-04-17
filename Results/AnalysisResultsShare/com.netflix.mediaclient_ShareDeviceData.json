@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Partners: If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law. For example, depending on what Partner services you use, we may share personal information so that Netflix content and features can be suggested to you in the Partner's user interface. Partners may process your personal information for the following purposes: to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Partners: If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law. For example, depending on what Partner services you use, we may share personal information so that Netflix content and features can be suggested to you in the Partner's user interface. Partners may process your personal information for the following purposes: to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Other Players\nInformation such as your game handle, your gameplay, chat, and user-generated content (including personal information and other information you provide in these features), and your online status will be publicly available to other players when you participate in a Netflix game with features such as leaderboards, local multiplayer, online multiplayer, chat, Netflix game controller, and user-generated content. Note that some games may allow you to play with players from other (non-Netflix) versions of the game, and in that case, this information will be available to those players. Please use good judgment when using chat and user-generated content functions (note that even if you remove text chat, or user-generated content, players that have already seen that information may have saved it).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Partners: If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law. For example, depending on what Partner services you use, we may share personal information so that Netflix content and features can be suggested to you in the Partner's user interface. Partners may process your personal information for the following purposes: to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Advertising Companies: We may disclose certain personal information to Advertising Companies (see definition above) in order to select Advertisements shown on Netflix, to facilitate interaction with Advertisements, and to measure and improve effectiveness of Advertisements. These companies may process your personal information for the following purposes: to support Advertisements.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may collect your log data generated while you are using our services/applications (through our products or third party products). This log data may include information such as your device's Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our service/application, the time/date of your use of the service/application, and other statistics.",
+      "lang": "English"
+    }
+  ]
+}

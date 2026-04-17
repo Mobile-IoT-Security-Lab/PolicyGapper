@@ -1,0 +1,59 @@
+{
+  "sharedData": [
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "Analytics, Account management",
+      "type": "Personal info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "Analytics, Account management",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://volkraft.com/wallcraftparallax/privacy_policy_en"
+}

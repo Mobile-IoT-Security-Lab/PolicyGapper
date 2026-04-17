@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "We use personal information of users within the scopes mentioned in \"Collecting Personal Information & Its Purpose\". We do not use personal information of users beyond those scopes without the consent of users, or share with external parties. However, for social log-in, we may share information in order to process social log-in.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We use personal information of users within the scopes mentioned in \"Collecting Personal Information & Its Purpose\". We do not use personal information of users beyond those scopes without the consent of users, or share with external parties. However, for social log-in, we may share information in order to process social log-in.",
+      "lang": "English"
+    }
+  ]
+}

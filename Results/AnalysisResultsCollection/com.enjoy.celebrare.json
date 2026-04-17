@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "When you access Service with a device, this Usage Data may include information such as the type of device you use, your device unique ID, the IP address of your device, your device operating system, the type of Internet browser you use, unique device identifiers and other diagnostic data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "While using our Service, we may also collect the following information: sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "While using our Service, we may also collect the following information: sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "While using our Service, we may also collect the following information: sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "While using our Service, we may also collect the following information: sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Other Data\nWhile using our Service, we may also collect the following information: sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data.",
+      "lang": "en"
+    }
+  ]
+}

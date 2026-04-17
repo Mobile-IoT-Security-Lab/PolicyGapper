@@ -1,0 +1,14 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information about you and your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services of interest to you.",
+      "justification": "The policy states that third-party advertising companies use information about user visits to this and other websites to provide personalized ads. This constitutes sharing of 'Web browsing history' for 'Advertising or marketing' purposes.",
+      "how_to_fix": "In your Google Play Console, declare that 'Web browsing history' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

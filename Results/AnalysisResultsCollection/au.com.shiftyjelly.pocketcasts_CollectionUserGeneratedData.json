@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• Communications with Us: You may also provide us with information when you provide us feedback or communicate with our support team. When you communicate with us via form, email, phone, or otherwise, we store a copy of our communications (including any call recordings as permitted by applicable law). You can choose not to provide us with certain information, but this may limit the features of the Services you are able to use.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "• Communications with Us: You may also provide us with information when you provide us feedback or communicate with our support team. When you communicate with us via form, email, phone, or otherwise, we store a copy of our communications (including any call recordings as permitted by applicable law). You can choose not to provide us with certain information, but this may limit the features of the Services you are able to use.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "In the last 12 months, we collected the following categories of personal information, depending on the Services used:\n• Identifiers (like your name, email address, and device and online identifiers);\n• Commercial information (your billing information and purchase history, for example);\n• Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);\n• Internet or other electronic network activity information (such as your usage of our Services);\n• Geolocation data (such as your location based on your IP address); and\n• Audio, electronic, visual or similar information (such as the custom audio files you upload);",
+      "lang": "en"
+    }
+  ]
+}

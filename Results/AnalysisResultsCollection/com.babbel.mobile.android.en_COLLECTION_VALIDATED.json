@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "2.1.4 We process feedback and information you provide in\nstudies, research projects, surveys or (video) interviews.",
+      "justification": "The privacy policy states that 'Other User generated content' is collected, as evidenced by the text: 'We process feedback and information you provide in studies, research projects, surveys or (video) interviews.'. This data type is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Other User generated content' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Examples\nBrowsing history, search history, information regarding consumer's interaction\nwith a website, application, or advertisement.",
+      "justification": "The privacy policy states that 'In-app search history' is collected, as evidenced by the text: 'search history, information regarding consumer's interaction with a... application'. This data type is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'In-app search history' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Examples\nBrowsing history, search history, information regarding consumer's interaction\nwith a website, application, or advertisement.",
+      "justification": "The privacy policy states that 'Web browsing history' is collected, as evidenced by the text: 'Browsing history... information regarding consumer's interaction with a website, application, or advertisement.'. This data type is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "2.1.1 If you are a Babbel user, we process the Personal Data that you provide when you register with Babbel, when you complete your profile, sign up for a subscription, purchase other content or interact with a specific service. This includes, for example, your name and email address, device information, as well as your payment details (including bank information, account number and/or the card you use for payment). You may choose to provide us with your mobile number in order to use certain services.",
+      "justification": "The privacy policy states that 'Email address' is collected, as evidenced by the text: 'we process the Personal Data that you provide when you register... This includes... your... email address'. This data type is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Email address' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "2.1.1 If you are a Babbel user, we process the Personal Data that you provide when you register with Babbel, when you complete your profile, sign up for a subscription, purchase other content or interact with a specific service. This includes, for example, your name and email address, device information, as well as your payment details (including bank information, account number and/or the card you use for payment). You may choose to provide us with your mobile number in order to use certain services.",
+      "justification": "The privacy policy states that 'Phone number' is collected, as evidenced by the text: 'You may choose to provide us with your mobile number'. This data type is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Phone number' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "2.1.1 If you are a Babbel user, we process the Personal Data that you provide when you register with Babbel, when you complete your profile, sign up for a subscription, purchase other content or interact with a specific service. This includes, for example, your name and email address, device information, as well as your payment details (including bank information, account number and/or the card you use for payment). You may choose to provide us with your mobile number in order to use certain services.",
+      "justification": "The privacy policy states that 'User payment info' is collected, as evidenced by the text: 'we process... your payment details (including bank information, account number and/or the card you use for payment)'. This data type is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'User payment info' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "If you get in touch with our customer support team (e.g. via email or our Al customer service chatbot \"Bab\") or otherwise provide feedback to us, we process your contact data as well as the content of your inquiry and feedback. We will furthermore process metadata, such as information on your subscriptions (including payment information) and information regarding your browser or the mobile device you are using when accessing our services.",
+      "justification": "The privacy policy states that 'Emails' are collected, as evidenced by the text: 'If you get in touch with our customer support team (e.g. via email...)... we process... the content of your inquiry'. This data type is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Emails' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "If you get in touch with our customer support team (e.g. via email or our Al customer service chatbot \"Bab\") or otherwise provide feedback to us, we process your contact data as well as the content of your inquiry and feedback. We will furthermore process metadata, such as information on your subscriptions (including payment information) and information regarding your browser or the mobile device you are using when accessing our services.",
+      "justification": "The privacy policy states that 'Other in-app messages' are collected, as evidenced by the text: 'If you get in touch with our customer support team (e.g. via... our Al customer service chatbot \"Bab\")... we process... the content of your inquiry'. This data type is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

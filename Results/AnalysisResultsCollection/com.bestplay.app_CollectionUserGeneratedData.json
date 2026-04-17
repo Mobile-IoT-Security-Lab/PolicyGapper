@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "For reasons of fraud prevention, payouts that users earn through the use of the App will only be possible after additional user verification via a selfie taken with the device's camera when first requesting a payout. Consent to the processing of personal data therefore already applies to the processing of these photos. I acknowledge that selfies are also special-category personal data per Art. 9 para. 1 GDPR and expressly consent to the processing described below.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "When contacting us via the App/email, your details are stored for the purpose of processing the enquiry and, if applicable, follow-up questions based on your consent based on the legal basis of Art. 6 (1) a. GDPR or fulfilling your request based on Art. 6 (1) b. GDPR.",
+      "lang": "en"
+    }
+  ]
+}

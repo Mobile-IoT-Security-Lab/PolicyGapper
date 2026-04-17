@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "■ Business Partners: We may share limited data such as: Contact details and demographic information, ... with our business partners with whom we collaborate to provide you the best services or promotional offers. This is only done with your explicit consent and is strictly controlled under confidentiality agreements, ensuring compliance with privacy laws and limiting use to the agreed purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "■ Business Partners: We may share limited data such as: Contact details and demographic information, ... with our business partners with whom we collaborate to provide you the best services or promotional offers. This is only done with your explicit consent and is strictly controlled under confidentiality agreements, ensuring compliance with privacy laws and limiting use to the agreed purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "■ Business Partners: We may share limited data such as: Contact details and demographic information, ... with our business partners with whom we collaborate to provide you the best services or promotional offers. This is only done with your explicit consent and is strictly controlled under confidentiality agreements, ensuring compliance with privacy laws and limiting use to the agreed purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "■ Business Partners: We may share limited data such as: Contact details and demographic information, ... with our business partners with whom we collaborate to provide you the best services or promotional offers. This is only done with your explicit consent and is strictly controlled under confidentiality agreements, ensuring compliance with privacy laws and limiting use to the agreed purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "■ Business Partners: We may share limited data such as: Contact details and demographic information, ... with our business partners with whom we collaborate to provide you the best services or promotional offers. This is only done with your explicit consent and is strictly controlled under confidentiality agreements, ensuring compliance with privacy laws and limiting use to the agreed purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "■ Business Partners: We may share limited data such as: Contact details and demographic information, ... with our business partners with whom we collaborate to provide you the best services or promotional offers. This is only done with your explicit consent and is strictly controlled under confidentiality agreements, ensuring compliance with privacy laws and limiting use to the agreed purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "■ Business Partners: We may share limited data such as: Contact details and demographic information, ... with our business partners with whom we collaborate to provide you the best services or promotional offers. This is only done with your explicit consent and is strictly controlled under confidentiality agreements, ensuring compliance with privacy laws and limiting use to the agreed purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "■ Service Providers: We engage various service providers who perform functions on our behalf. For instance, we may share personal information such as: Names, email addresses, service usage data, and transaction histories, ... with companies that help us with IT services, customer service, and payment processing like Google play. These service providers are bound by strict data protection clauses and are only allowed to use your personal information as directed by us to provide the specific services.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "| Information about how you use the Service, such as the time you access the Service and how long you access it for, the approximate location that you access the Service from, the site from which you came and the site to which you are going when you leave the Service, the pages you visit, the links you click, your interactions on the Service and other actions you take on the Service. | We use this information to operate the Service and present it to you in the correct format for your device. | The processing is necessary for the performance of a contract with you. |",
+      "justification": "The privacy policy states this data is collected to operate the service, implying it is sent off-device. No exemptions for on-device processing or end-to-end encryption are mentioned.",
+      "how_to_fix": "Declare the collection of 'App interactions' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you use our Service, we may collect the following Personal Data:\n•\n•\n•\nProfile information, such as name, gender, age group and hobbies and interests;\n• Language learning information, such as native language, language learning\ngoals and priorities, previous experience learning English and current proficiency\nlevel;\n• Subscription information, such as the start date and duration of the subscription\nto the Service that you purchase and any free trial periods;\nPurchase information, namely confirmation that you have purchased a\nsubscription to the Service through your App Store Account;\n• Your email address;\n• the Al tutor or avatar you select on the Service;\n• Recordings and transcripts of your conversations with the Al tutor on the\nService;\n• Your lesson plan and progress;\n• Your preferences, such as the preferences you set for push notifications, app\ninterface language and email communications.",
+      "justification": "The privacy policy explicitly states collection of 'Recordings and transcripts of your conversations with the Al tutor', which is user-generated content sent off-device for the AI service to function. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Other user-generated content' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "| Information about how you use the Service, such as the time you access the Service and how long you access it for, the approximate location that you access the Service from, the site from which you came and the site to which you are going when you leave the Service, the pages you visit, the links you click, your interactions on the Service and other actions you take on the Service. | We use this information to operate the Service and present it to you in the correct format for your device. | The processing is necessary for the performance of a contract with you. |",
+      "justification": "The privacy policy states that 'other actions you take on the Service' are collected to operate the service, implying off-device processing. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Other actions' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "| Information about how you use the Service, such as the time you access the Service and how long you access it for, the approximate location that you access the Service from, the site from which you came and the site to which you are going when you leave the Service, the pages you visit, the links you click, your interactions on the Service and other actions you take on the Service. | We use this information to operate the Service and present it to you in the correct format for your device. | The processing is necessary for the performance of a contract with you. |",
+      "justification": "The privacy policy states collection of 'the site from which you came and the site to which you are going when you leave the Service', which constitutes web browsing history. This data is used to operate the service, implying it is sent off-device. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Usage Data may include information such as your Device's Internet Protocol address\n(e.g. IP address), browser type, browser version, the pages of our Service that you\nvisit, the time and date of your visit, the time spent on those pages, unique device\nidentifiers and other diagnostic data.",
+      "justification": "The privacy policy states that 'diagnostic data' is collected. This data is sent off-device for analysis and is not subject to any collection exemptions.",
+      "how_to_fix": "Declare the collection of 'Crash logs' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).\nExamples: A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some Personal Data included in this category may overlap with other categories.\nCollected: Yes.",
+      "justification": "The privacy policy explicitly lists 'address' as an example of data collected under a specific legal category and confirms 'Collected: Yes'. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Address' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).\nExamples: A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some Personal Data included in this category may overlap with other categories.\nCollected: Yes.",
+      "justification": "The privacy policy explicitly lists 'telephone number' as an example of data collected under a specific legal category and confirms 'Collected: Yes'. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Phone number' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Category C: Protected classification characteristics under California or federal law.\nExamples: Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).\nCollected: Yes.",
+      "justification": "The privacy policy explicitly lists 'race, color, ancestry, national origin' as examples of data collected under a specific legal category and confirms 'Collected: Yes'. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Race and ethnicity' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Category C: Protected classification characteristics under California or federal law.\nExamples: Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).\nCollected: Yes.",
+      "justification": "The privacy policy explicitly lists 'religion or creed' as an example of data collected under a specific legal category and confirms 'Collected: Yes'. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Political or religious beliefs' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Category C: Protected classification characteristics under California or federal law.\nExamples: Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).\nCollected: Yes.",
+      "justification": "The privacy policy explicitly lists 'sexual orientation' as an example of data collected under a specific legal category and confirms 'Collected: Yes'. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Sexual orientation' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Category C: Protected classification characteristics under California or federal law.\nExamples: Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).\nCollected: Yes.",
+      "justification": "The privacy policy lists several data types (e.g., 'marital status', 'veteran or military status') that fall under 'Other info' and confirms 'Collected: Yes'. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Other info' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).\nExamples: A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some Personal Data included in this category may overlap with other categories.\nCollected: Yes.",
+      "justification": "The privacy policy explicitly lists 'bank account number, credit card number, debit card number' as examples of data collected and confirms 'Collected: Yes'. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'User payment info' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Category D: Commercial information.\nExamples: Records and history of products or services purchased or considered.\nCollected: Yes.",
+      "justification": "The privacy policy explicitly states collection of 'Records and history of products or services purchased' and confirms 'Collected: Yes'. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).\nExamples: A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some Personal Data included in this category may overlap with other categories.\nCollected: Yes.",
+      "justification": "The privacy policy explicitly lists 'any other financial information' as an example of data collected and confirms 'Collected: Yes'. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Other financial info' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Category C: Protected classification characteristics under California or federal law.\nExamples: Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).\nCollected: Yes.",
+      "justification": "The privacy policy explicitly lists 'medical condition, physical or mental disability' as examples of data collected and confirms 'Collected: Yes'. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Health info' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Information about how you use the Service, such as the time you access the Service and how long you access it for, the approximate location that you access the Service from, the site from which you came and the site to which you are going when you leave the Service, the pages you visit, the links you click, your interactions on the Service and other actions you take on the Service.",
+      "justification": "The privacy policy explicitly states collection of 'the approximate location that you access the Service from', implying it is sent off-device. No collection exemptions apply.",
+      "how_to_fix": "Declare the collection of 'Approximate location' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "If you contact us about our Service, we will collect the following Personal Data:\n• Contact details (including your name and email address);\n• The subject matter and content of your enquiry or any other correspondence\nbetween you and us.",
+      "justification": "The policy states that the 'content of your enquiry or any other correspondence' is collected when you contact the developer. This data is sent off-device by definition and is not exempt.",
+      "how_to_fix": "Declare the collection of 'Emails' in the app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "When you use our Service, we may collect the following Personal Data:\n•\n•\n•\nProfile information, such as name, gender, age group and hobbies and interests;\n• Language learning information, such as native language, language learning\ngoals and priorities, previous experience learning English and current proficiency\nlevel;\n• Subscription information, such as the start date and duration of the subscription\nto the Service that you purchase and any free trial periods;\nPurchase information, namely confirmation that you have purchased a\nsubscription to the Service through your App Store Account;\n• Your email address;\n• the Al tutor or avatar you select on the Service;\n• Recordings and transcripts of your conversations with the Al tutor on the\nService;\n• Your lesson plan and progress;\n• Your preferences, such as the preferences you set for push notifications, app\ninterface language and email communications.",
+      "justification": "The policy states collection of 'Recordings and transcripts of your conversations with the Al tutor on the Service', which are a form of in-app messages. This data is sent off-device to function and is not exempt.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

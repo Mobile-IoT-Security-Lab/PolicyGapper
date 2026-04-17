@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We rely on third-party advertising networks and other advertising technology providers (“AdTech Providers”) to serve targeted online ads at users of other companies' websites, games and online services. These ads are targeted at users that we or AdTech Providers believe would be interested in our Services. To enable these targeted ads, we may disclose the following types of personal data about players of our mobile games and viewers of our ads to AdTech Providers:\n• Identifier For Advertisers (IDFA) and Google Advertising ID\n• IP address\n• What Services of ours they have used\n• Date and time of when they used our Services\n• Inferred interests",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We rely on third-party advertising networks and other advertising technology providers (“AdTech Providers”) to serve targeted online ads at users of other companies' websites, games and online services. These ads are targeted at users that we or AdTech Providers believe would be interested in our Services. To enable these targeted ads, we may disclose the following types of personal data about players of our mobile games and viewers of our ads to AdTech Providers:\n• Identifier For Advertisers (IDFA) and Google Advertising ID\n• IP address\n• What Services of ours they have used\n• Date and time of when they used our Services\n• Inferred interests",
+      "lang": "English"
+    }
+  ]
+}

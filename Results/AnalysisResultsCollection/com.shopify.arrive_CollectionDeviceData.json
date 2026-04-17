@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "When you browse or shop with Shopify Merchants, we receive information about your activity on the Shopify Merchant site, including information about your browsing and search activity, the products and services you place in your cart and/or purchase, your billing and shipping information, transaction details and your payment information.",
+      "lang": "English"
+    }
+  ]
+}

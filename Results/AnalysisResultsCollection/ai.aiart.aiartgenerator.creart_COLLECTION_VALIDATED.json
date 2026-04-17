@@ -1,0 +1,69 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The privacy policy states that in case of an app error, 'Log Data' is collected via third-party products. This data includes device information and usage statistics, which falls under the 'Diagnostics' data type and is explicitly sent off-device.",
+      "how_to_fix": "Declare 'Diagnostics' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The privacy policy states that 'Log Data' is collected, including IP address, device name, OS version, and usage statistics. This information is used to analyze app performance and errors, corresponding to the 'Other app performance data' type.",
+      "how_to_fix": "Declare 'Other app performance data' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The privacy policy explicitly mentions the collection of the device's 'Internet Protocol (“IP”) address'. An IP address is used to determine a user's approximate location and must be declared as such.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited mobile device's camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.",
+      "reason_of_removal": "On-device processing",
+      "justification": "The policy mentions requiring access to the device's 'camera' and 'storage' but does not state that photos are transmitted off the device. Accessing data without sending it off-device is exempt from the 'collected' disclosure requirement.",
+      "how_to_fix": "No action needed as the policy does not confirm this data is collected (sent off-device). If the app does send this data off-device, update the privacy policy to be explicit about collection and transmission.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited mobile device's camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.",
+      "reason_of_removal": "On-device processing",
+      "justification": "The policy mentions requiring access to the device's 'camera' and 'storage' but does not state that videos are transmitted off the device. Accessing data without sending it off-device is exempt from the 'collected' disclosure requirement.",
+      "how_to_fix": "No action needed as the policy does not confirm this data is collected (sent off-device). If the app does send this data off-device, update the privacy policy to be explicit about collection and transmission.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited mobile device's camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.",
+      "reason_of_removal": "On-device processing",
+      "justification": "The policy mentions requiring access to the device's 'storage' but does not state that music files are transmitted off the device. Accessing data without sending it off-device is exempt from the 'collected' disclosure requirement.",
+      "how_to_fix": "No action needed as the policy does not confirm this data is collected (sent off-device). If the app does send this data off-device, update the privacy policy to be explicit about collection and transmission.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited mobile device's camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.",
+      "reason_of_removal": "On-device processing",
+      "justification": "The policy mentions requiring access to the device's 'storage' but does not state that audio files are transmitted off the device. Accessing data without sending it off-device is exempt from the 'collected' disclosure requirement.",
+      "how_to_fix": "No action needed as the policy does not confirm this data is collected (sent off-device). If the app does send this data off-device, update the privacy policy to be explicit about collection and transmission.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited mobile device's camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.",
+      "reason_of_removal": "On-device processing",
+      "justification": "The policy mentions requiring access to the device's 'storage' but does not state that files and docs are transmitted off the device. Accessing data without sending it off-device is exempt from the 'collected' disclosure requirement.",
+      "how_to_fix": "No action needed as the policy does not confirm this data is collected (sent off-device). If the app does send this data off-device, update the privacy policy to be explicit about collection and transmission.",
+      "lang": "en"
+    }
+  ]
+}
+```

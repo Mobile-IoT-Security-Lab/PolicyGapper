@@ -1,0 +1,80 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Analytics\nWe may use third-party Service providers to monitor and analyze the use of our Service.\n• Google Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google\nuses the data collected to track and monitor the use of our Service. This data is shared with other Google\nservices. Google may use the collected data to contextualise and personalise the ads of its own advertising\nnetwork.",
+      "justification": "The policy states that data collected by Google Analytics is 'shared with other Google services' and that Google 'may use the collected data to contextualise and personalise the ads of its own advertising network.' This indicates Google is not acting solely as a service provider but is using the data for its own purposes, which constitutes 'sharing' under Google Play policy.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'App interactions' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Analytics\nWe may use third-party Service providers to monitor and analyze the use of our Service.\n• Google Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google\nuses the data collected to track and monitor the use of our Service. This data is shared with other Google\nservices. Google may use the collected data to contextualise and personalise the ads of its own advertising\nnetwork.",
+      "justification": "The policy states that data collected by Google Analytics is 'shared with other Google services' and that Google 'may use the collected data to contextualise and personalise the ads of its own advertising network.' This indicates Google is not acting solely as a service provider but is using the data for its own purposes, which constitutes 'sharing' under Google Play policy.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'Other actions' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Advertising\nWe may use Service providers to show advertisements to You to help support and maintain Our Service.\n• Google AdSense & DoubleClick Cookie\nGoogle, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick\ncookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites\non the Internet.",
+      "justification": "The policy states that Google and its partners use cookies to serve ads based on a user's visit to 'other websites on the Internet.' This is a form of sharing data with third parties for advertising purposes.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'Web browsing history' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Analytics\nWe may use third-party Service providers to monitor and analyze the use of our Service.\n• Google Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google\nuses the data collected to track and monitor the use of our Service. This data is shared with other Google\nservices. Google may use the collected data to contextualise and personalise the ads of its own advertising\nnetwork.",
+      "justification": "The policy states that data collected by Google Analytics is 'shared with other Google services' and that Google 'may use the collected data to contextualise and personalise the ads of its own advertising network.' This indicates Google is not acting solely as a service provider but is using the data for its own purposes, which constitutes 'sharing' under Google Play policy.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'Diagnostics' is shared with third parties for 'Advertising or marketing' and/or 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Analytics\nWe may use third-party Service providers to monitor and analyze the use of our Service.\n• Google Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google\nuses the data collected to track and monitor the use of our Service. This data is shared with other Google\nservices. Google may use the collected data to contextualise and personalise the ads of its own advertising\nnetwork.",
+      "justification": "The policy states that data collected by Google Analytics is 'shared with other Google services' and that Google 'may use the collected data to contextualise and personalise the ads of its own advertising network.' This indicates Google is not acting solely as a service provider but is using the data for its own purposes, which constitutes 'sharing' under Google Play policy.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'Device or other IDs' is shared with third parties for 'Advertising or marketing' and/or 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+      "justification": "The policy explicitly states that user information is shared with 'Business partners' for them to offer their own 'products, services or promotions.' This is a clear case of sharing with a third party for their own marketing purposes.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'Name' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+      "justification": "The policy explicitly states that user information is shared with 'Business partners' for them to offer their own 'products, services or promotions.' This is a clear case of sharing with a third party for their own marketing purposes.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'Email address' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Behavioral Remarketing\nThe Company uses remarketing services to advertise on third party websites to You after You visited our\nService. We and Our third-party vendors use cookies to inform, optimize and serve ads based on Your past\nvisits to our Service.",
+      "justification": "The policy describes using 'third-party vendors' for remarketing services to serve ads. This constitutes sharing data with third parties for advertising purposes.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'User IDs' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Analytics\nWe may use third-party Service providers to monitor and analyze the use of our Service.\n• Google Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google\nuses the data collected to track and monitor the use of our Service. This data is shared with other Google\nservices. Google may use the collected data to contextualise and personalise the ads of its own advertising\nnetwork.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy reference describes general analytics for monitoring service use but does not explicitly mention the collection or sharing of 'Crash logs'.",
+      "how_to_fix": "No action needed for this specific policy text. If you do collect crash logs (e.g., via Firebase Crashlytics), ensure it is described in your policy and declared in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Analytics - We use third party analytics tools, Google Analytics, to help us measure traffic and usage\ntrends for the Service. Google Analytics collects information such as device, location and app usage\ninformation. We may use the information get from Google Analytics only to customize and personalize\nyour App experience for statistical purposes and analytics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states that information from Google Analytics is used 'only to customize and personalize your App experience for statistical purposes and analytics.' This indicates Google is acting as a service provider processing data on the developer's behalf for first-party purposes, which is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this use case is exempt from 'sharing' disclosure. Ensure you have a contract with the service provider that meets Google Play's requirements.",
+      "lang": "English"
+    }
+  ]
+}
+```

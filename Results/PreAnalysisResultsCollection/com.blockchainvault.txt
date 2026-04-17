@@ -1,0 +1,288 @@
+PRIVACY POLICY
+Last Updated: March 19, 2025
+SocialChain, its parent, and affiliates ("SocialChain") recognize that people who use Pi Network applications value their privacy. This
+Privacy Policy (the "Policy") describes how SocialChain ("we", "our", or "us") collects, uses, shares, and stores personal information of its
+users from the Pi Network mobile application, the Pi Browser mobile application, the Pi Node desktop software, Pi applications on Pi Apps
+Platform including Pi Wallet, Pi KYC, Pi Developer portal and the website, https://minepi.com/ (the "Site") with regard to the Pi Digital
+Currency ("Pi"). This Policy applies to the Site, applications, products and services (collectively, "Services") on or in which it is posted,
+linked, or referenced.
+
+---
+
+By using the Services, you accept the terms of this Policy and our Terms of Use, located at https://socialchain.app/tos, and consent to our
+collection, use, disclosure, and retention of your information as described in this Policy. If you have not done so already, please also review
+our Terms of Use. The Terms of Use contain provisions that limit our liability to you and require you to resolve any dispute with us on an
+individual basis and not as part of any class or representative action. IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY
+POLICY OR OUR TERMS OF USE, THEN PLEASE DO NOT USE ANY OF THE SERVICES.
+
+---
+
+WHAT WE COLLECT
+We collect personal information about you in the following ways: 1) from you when you voluntarily submit information directly to us; 2)
+using automated technology, including when you visit our Site, social media, or communications; and 3) using third party sources, including
+our service providers, analytics providers, and social media companies. Automated technology collects information from your mobile device
+and includes cookies, web beacons, local shared objects, or other similar technology. More information is given below in the "Cookies and
+Other Technology" section below.
+
+---
+
+We may make full use of all information that is de-identified, aggregated, or otherwise not in personally identifiable form. We may combine
+data collected from third party sources.
+
+---
+
+Information you give us
+Information we collect from you includes:
+• Contact and identity information, such as your name, phone number, email address, Facebook name, username;
+•
+•
+•
+User-created content, such as your chat messages, comments, likes, thumb-ups/downs, arts and graphics in social applications
+including chats and forums;
+Network information regarding transactions, such as transactions you send or receive.
+Feedback and correspondence, such as information you provide in your responses to surveys, when you participate in community
+research activities, report a problem with Service, receive customer support or otherwise correspond with us;
+• Marketing information, such your preferences for receiving marketing communications and ads and details about how you engage
+with them.
+
+---
+
+Know Your Customer Verification Information
+Separate from the personal data collected in our app and from other sources as set forth herein, and to comply with industry
+regulatory standards and government orders in different areas such as Anti-Money Laundering (AML), Know-Your-Client (KYC),
+and Counter-Terrorist Financing (CTF), SocialChain collects personal information such as identity documents (including passport,
+driver's license, national identity card, state ID card, tax ID number, passport number, driver's license details, national identity card
+details, visa information, selfie images, selfie videos etc.), proof of address, source of fund declaration, purposes of fund documents,
+and source of wealth ("KYC Data"). This KYC data is collected and used solely to verify the identity of Pi Network members
+("Pioneers"), and to be compliant with regulatory requirements and the SocialChain policy that only real human beings can receive
+Pi. SocialChain's KYC process is multifaceted and incorporates the use of real human beings and Al technology. We utilize AI
+technology in our KYC process for enhanced efficiency and security. Personal information collected for identity verification may be
+processed using AI algorithms. We use ChatGPT to automate identity verification and enhance security measures. By using our
+KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC
+process.
+
+---
+
+Information we get from others
+We may get information about you from other third party sources and we may add this to information we get from your use of the Services.
+Such information may include:
+•
+•
+We may collect information that other users provide about you when they use our services. For example, if another user allows us to
+collect information from their device phonebook or email contacts and you're one of that user's contacts-we may combine the
+information we collect from that user's phonebook or email contacts with other information we have collected about you. We may
+also obtain information from other companies. For example, we offers the option for you to login to our services through your
+Facebook account and Apple sign-in. With your authorization through Facebook, Google or iOS, these companies will give us the
+information that you consent to send us.
+Social Media Widgets: Our Site may include social media features, such as the Facebook logins, “like” button and widgets, such as
+the "share this" button. These features may collect your personal information and track your use of the Site. These social media
+features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the
+privacy policy of the company providing such functionality.
+
+---
+
+Information automatically collected when you use our services
+When you use our services, we collect information about your usage of our apps, activities you have through our servers, such as how many
+times you mine, how many security circle members you add, the number of friends you invite to our apps, browsing history in the Pi
+Browser application, your usage information of Pi apps.
+
+--- [PAGE BREAK] ---
+
+Account information. We collect information about account status, language, Pi data, account behavior data.
+
+---
+
+Device Information. We collect device-specific information, such as the hardware model, operating system version, advertising identifier,
+unique application identifiers, unique device identifiers, browser type, language, wireless network, and mobile network information
+(including the mobile phone number).
+
+---
+
+Device Phonebook. If you're using our mobile app, we may-with your consent-collect information from your device's phonebook.
+
+---
+
+Location Information. By using our services, you acknowledge that we may collect information about your location. With your consent, we
+may also collect information about your precise location using methods that include GPS, wireless networks, cell towers, Wi-Fi access
+points, and other sensors, such as gyroscopes, accelerometers, and compasses. If you are a Pi Node -meaning you run the desktop software
+of Pi Node downloadable from link https://node.minepi.com/ - your IP address is public.
+
+---
+
+Log Information. We also collect log information when you use our website. That information includes, among other things:
+• details about how you've used our services
+•
+device information, such as your web browser type, operating system and language
+access times
+pages viewed
+IP address
+identifiers associated with cookies or other technologies that may uniquely identify your device or browser
+pages you visited before or after navigating to our website.
+the pages or features of our Site to which a user browsed and the time spent on those pages or features, the frequency with which the
+Site is used by a user, search terms, the links on our Site that a user clicked on or used, and other statistics.
+
+---
+
+We may use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to
+gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level. For
+more information, please see the section entitled "Cookies Policy" below.
+
+---
+
+We also use Google Analytics to help us offer you an optimized user experience. You can find more information about Google Analytics' use
+of your personal data here: https://policies.google.com/privacy?hl=en
+
+---
+
+HOW WE USE INFORMATION
+To provide our service
+We will use your information in the following ways:
+• develop, operate, improve, deliver, maintain, and protect our services,
+communicate with you, to send information, including confirmations, technical notices, updates, security alerts, and support and
+administrative messages, etc..
+• monitor and analyze usage,
+•
+•
+•
+personalize the services by, among other things, suggesting friends or message templates, or customizing the content we show you,
+including ads,
+enhance the safety and security of our products and services
+verify your identity, and protect, investigate, and deter against fraudulent, unauthorized, or illegal activity,
+use information we've collected from cookies and other technology to enhance the services and your experience with them.
+
+--- [PAGE BREAK] ---
+
+•
+We do not share any data with ad networks directly. However the ad networks used inside our apps may request directly from your
+phone's operating system, such as iOS or Android, an anonymized advertising identifier in order to for them to serve you with more
+relevant ads.
+
+---
+
+USERS OUTSIDE OF THE UNITED STATES
+We welcome users from all over the world, but wherever you live or use our services, we operate our services from the United States. This
+means that we may collect your personal information from, transfer it to, and store and process it in the United States and other countries
+whose local data-protection and privacy laws may offer fewer protections than those in your country of residence or from any country where
+you use or access the services.
+
+---
+
+HOW INFORMATION IS SECURED
+We retain information we collect as long as it is necessary and relevant to fulfill the purposes outlined in this Privacy Policy. In addition, we
+retain personal information to comply with applicable law where required, prevent fraud, resolve disputes, troubleshoot problems, assist
+with any investigation, enforce our Terms of Use, and other actions permitted by law. To determine the appropriate retention period for
+personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from
+unauthorized use or disclosure of your personal information, the purposes for which we process your personal information and whether we
+can achieve those purposes through other means, and the applicable legal requirements.
+
+---
+
+INFORMATION CHOICES AND CHANGES
+Accessing, Updating, Correcting, and Deleting your Information
+You may access information that you have voluntarily provided through your account on the Services, and may review, or request that it be
+corrected, or deleted by logging into your account in the Pi mobile application and visiting the user profile screen. For further requests in
+regard to personal data access, you may 1) submit a request ticket through this link, or 2) make a request through
+https://prighter.com/q/16457313501. You can request to correct contact choices, opt-out of our sharing with others, and correct your personal
+information and preferences, subject to applicable law and SocialChain terms of service. If you choose to withdraw your consent from the
+collection, processing, and transfer of your information then we will be unable to provide you with a service and your account will be
+deleted. Data subjects have the right to withdraw their consent at any time and we will honor your request. However, because your consent
+to the sharing of information is necessary for our ability to verifying the identity of Pioneers so as to be compliant with regulatory
+requirements and the SocialChain policy that only real human beings can receive Pi, without your consent we cannot provide you with our
+service.
+
+---
+
+CHILDREN
+Our services are not intended for and we don't direct them to anyone under 13. And that's why we do not knowingly collect personal
+information from anyone under 13. Consistent with the requirements of the Children's Online Privacy Protection Act (COPPA), if we learn
+that we have received any information directly from a child under age 16 without first receiving his or her parent's verified consent, we will
+use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the child that he or she cannot use
+the Site and subsequently we will delete that information.
+
+--- [PAGE BREAK] ---
+
+Sensitive Data
+Some of the information you provide us may constitute sensitive data as defined in the GDPR (also referred to as special categories of
+personal data), including identification of your race or ethnicity on government-issued identification documents.
+
+---
+
+Use for New Purposes
+We may use your personal information for reasons not described in this Privacy Policy, where we are permitted by law to do so and where
+the reason is compatible with the purpose for which we collected it. If we need to use your personal information for an unrelated purpose,
+we will notify you and explain the applicable legal basis for that use. If we have relied upon your consent for a particular use of your
+personal information, we will seek your consent for any unrelated purpose.
+
+---
+
+The collection, processing, and transfer of your information is necessary for our ability to provide you with our service. Without your
+consent we will be unable to authenticate your account, verify your identity, facilitate mining, establish security circles along with various
+other actions necessary for providing you with our service. As a result, if you decline to consent to the collection, processing, and transfer of
+your data we will be unable to provide you with our service.
+
+---
+
+COOKIES POLICY
+We understand that your privacy is important to you and are committed to being transparent about the technologies we use. In the spirit of
+transparency, this policy provides detailed information about how and when we use cookies on our Site.
+
+---
+
+Do we use Cookies?
+Yes. We and our marketing partners, affiliates, and analytics or service providers use cookies, web beacons, or pixels and other technologies
+to ensure everyone who uses the Site has the best possible experience.
+
+--- [PAGE BREAK] ---
+
+What is a Cookie?
+A cookie ("Cookie") is a small text file that is placed on your hard drive by a web page server. Cookies contain information that can later be
+read by a web server in the domain that issued the cookie to you. Some of the cookies will only be used if you use certain features or select
+certain preferences, and some Cookies will always be used. You can find out more about each Cookie by viewing our current Cookie list
+below. We update this list periodically, so there may be additional Cookies that are not yet listed. Web beacons, tags and scripts may be used
+in the Site or in emails to help us to deliver Cookies, count visits, understand usage and campaign effectiveness and determine whether an
+email has been opened and acted upon. We may receive reports based on the use of these technologies by our service/analytics providers on
+an individual and aggregated basis.
+
+---
+
+Why do we use Cookies?
+We generally use Cookies for the following purposes:
+• To recognize new or past customers.
+•
+To store your password if you are registered on our Site.
+To improve our Site and to better understand your visits on our platforms and Site.
+• To integrate with third party social media websites.
+• To observe your behaviors and browsing activities over time across multiple websites or other platforms.
+
+---
+
+Some Cookies are necessary for certain uses of the Site, and without such Cookies, we would not be able to provide many services that you
+need to properly use the Site. These Cookies, for example, allow us to operate our Site so you may access it as you have requested and let us
+recognize that you have created an account and have logged into that account to access Site content. They also include Cookies that enable
+us to remember your previous actions within the same browsing session and secure our Sites.
+
+---
+
+We also use functional Cookies and Cookies from third parties for analysis, marketing and security purposes. Functional Cookies enable
+certain parts of the site to work properly and your user preferences to remain known. Analysis Cookies, among other things, collect
+information on how visitors use our Site, the content and products that users view most frequently, and the effectiveness of our third party
+advertising. Advertising Cookies assist in delivering ads to relevant audiences and having our ads appear at the top of search results.
+Security cookies, such as CAPTCHA, ensure that users are human. Cookies are either "session" Cookies which are deleted when you end
+your browser session, or “persistent,” which remain until their deletion by you (discussed below) or the party who served the Cookie. Full
+details on all of the Cookies used on the Site are available at our Cookie Disclosure table below.
+
+---
+
+We may link the information collected by Cookies with other information we collect from you pursuant to this Privacy Policy and use the
+combined information as set forth herein. Similarly, the third parties who serve Cookies on our Site may link your name or email address to
+other information they collect, which may include past purchases made offline or online, or your online usage information. If you are
+located in the European Economic Area, you have certain rights that are described above under the header "Notice to EU Data Subjects",
+including the right to inspect and correct or delete the data that we have about you.
+
+---
+
+Cookies Disclosure
+| Name of Cookie/Identifier | What does the Cookie generally do (e.g., website function and administration, analytics, marketing)? | Is it a 1st or 3rd party Cookie and what is the name of the party providing it? | What type of Cookie is it (persistent or session)? | What is the duration of the Cookie on the website (if not cleared by the user)? |
+|---|---|---|---|---|
+| Google Analytics | Analytics | 3rd - Google | Persistent | 2 years |
+| minepi_session | Maintaining user experience continuity | 1st - Pi Network | Persistent | 9 days |

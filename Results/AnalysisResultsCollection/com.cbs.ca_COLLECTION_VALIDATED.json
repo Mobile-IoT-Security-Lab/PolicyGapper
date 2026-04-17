@@ -1,0 +1,133 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "The information we collect varies based on the Paramount Services that you use. We collect and receive personal information associated with you and your device automatically when you use certain Paramount Services, including when you interact with the Paramount Services on sites, platforms, and services operated by other companies (“Third-Party Services”). Your device could include your computer, mobile device, gaming system, smart TV, or other streaming devices. We collect and receive device IDs and other unique identifiers and online activity data using device-based tracking technologies such as cookies, pixels, tags, beacons, scripts, and similar technologies. On certain pages of the Paramount Services, we use third-party tools to help us look at mouse movements, clicks, keystrokes, data or text entered, and the pages you visit. For more information about tracking technologies, please see the “Cookies and other tracking technologies” section below.",
+      "justification": "The policy states the service uses tools to look at 'keystrokes, data or text entered, and the pages you visit,' which constitutes the collection of in-app search history and user activity.",
+      "how_to_fix": "Declare the collection of 'In-app search history' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you post or share comments or other content when using the Paramount Services, we collect information about that content, such as your username, screen name, comments, likes, interests, status, and pictures. You may choose to post audio or visual content, such as photos, videos, or recordings when using certain Paramount Services, or when granting us access to your camera or microphone while using interactive features of the Paramount Services.",
+      "justification": "The policy explicitly states that when users 'post or share comments or other content,' the service collects information about that content, including comments, likes, interests, and status.",
+      "how_to_fix": "Declare the collection of 'Other user-generated content' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "When you post or share comments or other content when using the Paramount Services, we collect information about that content, such as your username, screen name, comments, likes, interests, status, and pictures. You may choose to post audio or visual content, such as photos, videos, or recordings when using certain Paramount Services, or when granting us access to your camera or microphone while using interactive features of the Paramount Services.",
+      "justification": "The policy states the service collects user actions such as 'comments, likes, interests, status' when users post or share content.",
+      "how_to_fix": "Declare the collection of 'Other actions' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Marketing and Advertising: Examples include collecting information about your use of the Paramount Services, interactions with advertisements, your browsing habits, and other preferences so that we can deliver more relevant and meaningful advertising to you on the Paramount Services or on Third-Party Services.",
+      "justification": "The policy explicitly states the collection of information about 'your browsing habits' for marketing and advertising purposes.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "When you purchase a product, subscription, or event ticket from us, we collect payment and identity verification information, including your name, email address, physical address, payment method, card details, and billing address. We retain information about the transactions you make on the Paramount Services, including purchase history.",
+      "justification": "The policy states that 'physical address' and 'billing address' are collected when a user makes a purchase.",
+      "how_to_fix": "Declare the collection of 'Address' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you sign up for the Paramount Services or email communications, enter or participate in our contests, giveaways or competitions, sweepstakes, and promotions, or attend one of our events, we collect the information you provide, such as your name, username and password, email address, phone number, date of birth and information about your preferences and interests. On some of the Paramount Services, you may provide us with demographic data, such as age and gender.",
+      "justification": "The policy explicitly states that 'phone number' is collected when users sign up for services or participate in promotions.",
+      "how_to_fix": "Declare the collection of 'Phone number' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "When we conduct or sponsor market research activities such as surveys and product testing we collect the information you provide, such as your name, email address, and certain demographic data, such as your age, gender, race, and ethnicity. We also collect information about your preferences and interests, as well as your opinions on the Paramount Services in the context of market research.",
+      "justification": "The policy states that demographic data, including 'race, and ethnicity,' is collected during market research activities like surveys.",
+      "how_to_fix": "Declare the collection of 'Race and ethnicity' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "When you sign up for the Paramount Services or email communications, enter or participate in our contests, giveaways or competitions, sweepstakes, and promotions, or attend one of our events, we collect the information you provide, such as your name, username and password, email address, phone number, date of birth and information about your preferences and interests. On some of the Paramount Services, you may provide us with demographic data, such as age and gender.",
+      "justification": "The policy states the service collects 'preferences and interests' and 'demographic data, such as age and gender,' which falls under the 'Other info' data type.",
+      "how_to_fix": "Declare the collection of 'Other info' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "When you purchase a product, subscription, or event ticket from us, we collect payment and identity verification information, including your name, email address, physical address, payment method, card details, and billing address. We retain information about the transactions you make on the Paramount Services, including purchase history.",
+      "justification": "The policy states that 'payment method' and 'card details' are collected when a user makes a purchase.",
+      "how_to_fix": "Declare the collection of 'User payment info' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "When you purchase a product, subscription, or event ticket from us, we collect payment and identity verification information, including your name, email address, physical address, payment method, card details, and billing address. We retain information about the transactions you make on the Paramount Services, including purchase history.",
+      "justification": "The policy explicitly states that the service retains 'purchase history' from user transactions.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We also collect and receive device identifiers, such as IP address (including approximate location information), advertising ID, cookie ID, media access control (MAC) address, and other unique identifiers.",
+      "justification": "The policy states that the service collects 'IP address (including approximate location information).'",
+      "how_to_fix": "Declare the collection of 'Approximate location' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We collect the information you provide when you contact us directly or provide feedback, comments, or suggestions on the Paramount Services, including but not limited to, recordings of customer service interactions, chat transcripts, files you attach, and email, text, or other correspondence.",
+      "justification": "The policy states that 'email... or other correspondence' is collected when users contact the service directly.",
+      "how_to_fix": "Declare the collection of 'Emails' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "We collect the information you provide when you contact us directly or provide feedback, comments, or suggestions on the Paramount Services, including but not limited to, recordings of customer service interactions, chat transcripts, files you attach, and email, text, or other correspondence.",
+      "justification": "The policy states that 'text, or other correspondence' is collected when users contact the service directly, which covers SMS or MMS.",
+      "how_to_fix": "Declare the collection of 'SMS or MMS' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "When you post or share comments or other content when using the Paramount Services, we collect information about that content, such as your username, screen name, comments, likes, interests, status, and pictures. You may choose to post audio or visual content, such as photos, videos, or recordings when using certain Paramount Services, or when granting us access to your camera or microphone while using interactive features of the Paramount Services.",
+      "justification": "The policy states that users may choose to post 'visual content, such as photos,' which are collected by the service.",
+      "how_to_fix": "Declare the collection of 'Photos' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "When you post or share comments or other content when using the Paramount Services, we collect information about that content, such as your username, screen name, comments, likes, interests, status, and pictures. You may choose to post audio or visual content, such as photos, videos, or recordings when using certain Paramount Services, or when granting us access to your camera or microphone while using interactive features of the Paramount Services.",
+      "justification": "The policy states that users may choose to post 'visual content, such as... videos,' which are collected by the service.",
+      "how_to_fix": "Declare the collection of 'Videos' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "When you post or share comments or other content when using the Paramount Services, we collect information about that content, such as your username, screen name, comments, likes, interests, status, and pictures. You may choose to post audio or visual content, such as photos, videos, or recordings when using certain Paramount Services, or when granting us access to your camera or microphone while using interactive features of the Paramount Services.",
+      "justification": "The policy states that users may choose to post 'audio... content, such as... recordings,' which are collected by the service.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "When you post or share comments or other content when using the Paramount Services, we collect information about that content, such as your username, screen name, comments, likes, interests, status, and pictures. You may choose to post audio or visual content, such as photos, videos, or recordings when using certain Paramount Services, or when granting us access to your camera or microphone while using interactive features of the Paramount Services.",
+      "justification": "The policy states that users may choose to post 'audio... content, such as... recordings,' which covers other audio files and are collected by the service.",
+      "how_to_fix": "Declare the collection of 'Other audio files' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "We collect the information you provide when you contact us directly or provide feedback, comments, or suggestions on the Paramount Services, including but not limited to, recordings of customer service interactions, chat transcripts, files you attach, and email, text, or other correspondence.",
+      "justification": "The policy explicitly states that the service collects 'files you attach' when a user contacts them.",
+      "how_to_fix": "Declare the collection of 'Files and docs' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

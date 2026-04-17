@@ -1,0 +1,52 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Other user-generated content",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "Financial info"
+    },
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://gencraft.com/privacy"
+}

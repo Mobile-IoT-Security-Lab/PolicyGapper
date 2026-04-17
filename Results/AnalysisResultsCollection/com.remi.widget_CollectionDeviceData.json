@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "| Profiling Data: When you use our App we may display advertisements, our partners, the advertisers may place an SDK (as detailed below) and collect certain data on you for the purpose of displaying advertisement. If you wish to prevent the display of advertisements or other identifiers for interest-based advertising, you may change your device settings to reset such advertisement or opt-out of such advertising (typically, this is available under the “Privacy” or \"Ads\" section in your device settings). Please note that if you reset your advertising settings or opt-out of interest based advertising, you may still see advertisements in our App, but those ads will not be targeted for you. Please note that such actions may result in a less enjoyable user experience. | Our partners will process this data to manage and deliver advertisements more effectively and personally, including contextual, behavioral and interests-based advertising based on your activity, preferences or other data available to us or to our business partners and advertisers, including for re-targeting purposes. | We process this information based on your consent as required under your jurisdiction provided through our cookie manager or similar technologies. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "| Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third- party service providers) such as \"Log Data\" or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics. | In most cases, this data will not include Personal Data, however we treat this information as Personal Data as we may be able to reasonably identify you. | We process this data set for our legitimate Interest of protecting our App and Services and optimizing the App and Services. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "| Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third- party service providers) such as \"Log Data\" or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics. | In most cases, this data will not include Personal Data, however we treat this information as Personal Data as we may be able to reasonably identify you. | We process this data set for our legitimate Interest of protecting our App and Services and optimizing the App and Services. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "| List of Installed App: When you install our App, we may collect information from your device, that may include a list of your installed Apps. This data may contain identity information and therefore we treat it as Personal Data. | We use this data in order to maintain, support, improve, protect and manage our App and Services. | We will base the processing of this data set on your consent through the organic in-app permissions |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "| Contact Information: If you voluntarily contact us, you may be required to provide us with certain information such as your name, job title, company name, email address (\"Contact Information\") and any additional information you decide to share with us. | We will use this data to respond to your inquiry. Members Club Registration: If you choose to register to our Members Club, we will you your Contact Information in order to send you Offers and marketing materials. | We process such Contact Information subject to our legitimate interest. We may keep such correspondence if we are legally required to. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "| Profiling Data: When you use our App we may display advertisements, our partners, the advertisers may place an SDK (as detailed below) and collect certain data on you for the purpose of displaying advertisement. If you wish to prevent the display of advertisements or other identifiers for interest-based advertising, you may change your device settings to reset such advertisement or opt-out of such advertising (typically, this is available under the “Privacy” or \"Ads\" section in your device settings). Please note that if you reset your advertising settings or opt-out of interest based advertising, you may still see advertisements in our App, but those ads will not be targeted for you. Please note that such actions may result in a less enjoyable user experience. | Our partners will process this data to manage and deliver advertisements more effectively and personally, including contextual, behavioral and interests-based advertising based on your activity, preferences or other data available to us or to our business partners and advertisers, including for re-targeting purposes. | We process this information based on your consent as required under your jurisdiction provided through our cookie manager or similar technologies. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "| Advertisers: • AdMob • AdColony • Applovin • Chocolate Platform • Facebook Audience Network • Index Exchange • Media.net • Mobfox • OpenX • PubMatic • Rubicon • Sharethrough • Yieldmo And as may be updated from time to time (collectively \"Advertisers\"). | The Advertisers are advertising Service Providers. Their targeted advertising SDKs collect information about your browsing activity across multiple websites and online services in order to provide you with relevant advertisements on the App and Services of third parties. The information collected using these advertising SDK does not disclose your identity, and helps us analyze the effectiveness of our advertising. | • AdColony: https://www.adcolony.com/privacy-policy/ • AdMob: https://policies.google.com/privacy?hl=en • Applovin: https://www.applovin.com/privacy/ • Chocolate Platform: https://chocolateplatform.com/privacy- policy/ • Facebook Audience Network: https://www.facebook.com/about/privacy/ • Index Exchange: https://www.indexexchange.com/privacy/ • Media.net: https://www.media.net/privacy- policy/ • Mobfox: https://www.mobfox.com/privacy- policy/ • OpenX: https://www.openx.com/legal/privacy-policy/ • PubMatic: https://pubmatic.com/legal/privacy/ • Rubicon: https://www.rubicon.com/privacy- policy/ • Sharethrough: https://www.sharethrough.com/privacy- center • Yieldmo: https://yieldmo.com/privacy- policy/ |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "| Firebase | • Remote Config- data • storage and processing location • Crashlytics- data • Cloud Messaging • data encryption • security purpose • a/b testing • in-app messaging • predictions • analytics | Firebase Privacy Policy: https://firebase.google.com/support/privacy |",
+      "lang": "English"
+    }
+  ]
+}

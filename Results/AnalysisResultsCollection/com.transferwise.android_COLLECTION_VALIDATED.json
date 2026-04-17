@@ -1,0 +1,93 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We collect information about how you use our services, such as the pages you view, the features you use, and the actions you take. We use this information to understand how our users interact with our services, to improve our services, and to personalize your experience.",
+      "justification": "The privacy policy explicitly states that user actions are collected, mentioning 'the features you use, and the actions you take'. This data is used for service improvement and personalization, indicating it is sent off-device for processing.",
+      "how_to_fix": "Declare the collection of 'Other actions' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use cookies and similar technologies to collect information about your browsing activities over time and across different websites. This information may include a unique identifier for your device. We use this information to personalize your experience, to provide you with targeted advertising, and to analyze how our services are used.",
+      "justification": "The policy states the collection of 'browsing activities over time and across different websites' for purposes like targeted advertising and analysis, which requires the data to be sent off-device.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Special categories of personal data. We do not intentionally collect any “special categories of personal data” (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on the nature of your payment, the recipient’s name may indicate some of this information. We will only use this information to execute your payment instruction. We may also receive special categories of personal data if you have provided it to us in a customer support query. We will only use this information to deal with your query.",
+      "justification": "The policy acknowledges that information indicating 'race or ethnicity' may be collected indirectly through payment details or customer support queries and is processed to fulfill these services, which occurs off-device.",
+      "how_to_fix": "Declare the collection of 'Race and ethnicity' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Special categories of personal data. We do not intentionally collect any “special categories of personal data” (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on the nature of your payment, the recipient’s name may indicate some of this information. We will only use this information to execute your payment instruction. We may also receive special categories of personal data if you have provided it to us in a customer support query. We will only use this information to deal with your query.",
+      "justification": "The policy acknowledges that information indicating 'religious or philosophical beliefs' or 'political opinions' may be collected indirectly through payment details or customer support queries and is processed off-device to fulfill these services.",
+      "how_to_fix": "Declare the collection of 'Political or religious beliefs' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Special categories of personal data. We do not intentionally collect any “special categories of personal data” (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on the nature of your payment, the recipient’s name may indicate some of this information. We will only use this information to execute your payment instruction. We may also receive special categories of personal data if you have provided it to us in a customer support query. We will only use this information to deal with your query.",
+      "justification": "The policy acknowledges that information indicating 'sex life, sexual orientation' may be collected indirectly through payment details or customer support queries and is processed off-device to fulfill these services.",
+      "how_to_fix": "Declare the collection of 'Sexual orientation' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "Information from credit reference agencies. If you use our Services to make or receive payments, we may obtain information about you from credit reference agencies to help us verify your identity, perform a credit check, and assess your credit profile.",
+      "justification": "The policy states that information from credit reference agencies is obtained to 'perform a credit check, and assess your credit profile'. This is an off-device activity involving third-party data sources.",
+      "how_to_fix": "Declare the collection of 'Credit score' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Special categories of personal data. We do not intentionally collect any “special categories of personal data” (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on the nature of your payment, the recipient’s name may indicate some of this information. We will only use this information to execute your payment instruction. We may also receive special categories of personal data if you have provided it to us in a customer support query. We will only use this information to deal with your query.",
+      "justification": "The policy acknowledges that 'information about your health' may be collected indirectly through payment details or customer support queries and is processed off-device to fulfill these services.",
+      "how_to_fix": "Declare the collection of 'Health info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "This may include information you give us when you register for an Account, use our Services, or correspond with us by phone, email or otherwise. This information may include your name, address, email address, phone number, date of birth, national insurance number, a photograph or other image of you, your signature, copies of your identity documents and other information you provide to create an Account and use our Services.",
+      "justification": "The policy explicitly lists 'email address' as information collected when a user registers for an account or corresponds with the company. This data is sent off-device for account management and communication.",
+      "how_to_fix": "Declare the collection of 'Emails' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may also collect information from your device, including, for example, your device’s location, and information about your contacts, calendar, and photos, with your consent.",
+      "justification": "The policy states that 'photos' may be collected from the user's device. There is no mention of on-device-only processing, so it must be assumed the data is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Photos' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "This may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use, your login information, products you viewed or searched for, your marketing preferences, your survey responses, information you provide to our support team, your social media account information, your voice, when you contact our support team, and other information from your interaction with us.",
+      "justification": "The policy explicitly states that 'your voice' is collected 'when you contact our support team'. This is an off-device interaction.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "We may also collect information from your device, including, for example, your device’s location, and information about your contacts, calendar, and photos, with your consent.",
+      "justification": "The policy states that information from the user's 'calendar' may be collected from the device. As there is no mention of on-device-only processing, it must be assumed the data is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Calendar events' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, device information; information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number; your location.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy reference explicitly describes data collected from the 'Website' (e.g., 'URL clickstream to, through and from our Website'). Data collected solely from sources other than the mobile app is exempt from declaration in the app's Data Safety section.",
+      "how_to_fix": "No action is required for the app's Data Safety section regarding this finding, as it pertains to website data collection, which is out of scope.",
+      "lang": "English"
+    }
+  ]
+}
+```

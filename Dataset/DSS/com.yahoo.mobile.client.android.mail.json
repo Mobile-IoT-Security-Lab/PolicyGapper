@@ -1,0 +1,143 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Location"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Account management",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": 1,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Emails",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Messages"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Financial info"
+    },
+    {
+      "data": "Files and docs",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "Files and docs"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Name",
+      "optional": 1,
+      "purpose": "App functionality, Developer communications, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Contacts",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "Contacts"
+    },
+    {
+      "data": "Photos",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "Photos and videos"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://policies.yahoo.com/xw/en/yahoo/privacy/directory/international/index.htm"
+}

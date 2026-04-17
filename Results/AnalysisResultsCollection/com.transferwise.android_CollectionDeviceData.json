@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We collect information about how you use our services, such as the pages you view, the features you use, and the actions you take. We use this information to understand how our users interact with our services, to improve our services, and to personalize your experience.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use cookies and similar technologies to collect information about your browsing activities over time and across different websites. This information may include a unique identifier for your device. We use this information to personalize your experience, to provide you with targeted advertising, and to analyze how our services are used.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• Credentials:the User's Profile name and password that are required to access the Account and use the Service;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "3. The User has the obligation to inform ROMEO immediately about any inaccuracies in the offer provided or the payment details described, including the price. The User cannot hold ROMEO to any offer for Additional Services and/or price if the User should in all reasonableness have known that this offer and/or the price are/is an obvious mistake or obvious error in writing.",
+      "lang": "English"
+    }
+  ]
+}

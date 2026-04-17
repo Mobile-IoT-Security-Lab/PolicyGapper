@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Third-party marketing\nWe will get your express opt-in consent before we share your personal data with any third party for marketing purposes. Visit our consent manager where you can view and make certain decisions about your personal data use.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Third-party marketing\nWe will get your express opt-in consent before we share your personal data with any third party for marketing purposes. Visit our consent manager where you can view and make certain decisions about your personal data use.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Third-party marketing\nWe will get your express opt-in consent before we share your personal data with any third party for marketing purposes. Visit our consent manager where you can view and make certain decisions about your personal data use.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Third-party marketing\nWe will get your express opt-in consent before we share your personal data with any third party for marketing purposes. Visit our consent manager where you can view and make certain decisions about your personal data use.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Communications with BeReal: When you report a concern with our App, respond to a survey, request assistance, we collect the following data: • Your email address, • Content of communication with us, • Photos you may decide to share with us, • Copies of government issued identification (only when strictly required to identify you with certainty), • Identifiers (e.g., phone numbers or email address), • Any other information you may decide to share with us.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Chat Data: when you use the BeReals chat function, we collect the messages, photos and videos you share with your friends within the chat.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Communications with BeReal: When you report a concern with our App, respond to a survey, request assistance, we collect the following data: • Your email address, • Content of communication with us, • Photos you may decide to share with us, • Copies of government issued identification (only when strictly required to identify you with certainty), • Identifiers (e.g., phone numbers or email address), • Any other information you may decide to share with us.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Address Book Data: You can decide to allow BeReal to access your address book to identify the friends in your Address Book who may already be on BeReal or to recommend you new friends. We do not access your Address Book without your permission. Bear in mind that even if you don't agree to share your Address Book with us, we can still make personalized friends' suggestions to you based on your contact details that we received from your friends who use our app (see below). You can revoke your permission to access your Address Book Data at any time through your device settings. Once access is revoked, we will no longer collect or update contact information from your address book, and previously uploaded contact data will be deleted within a reasonable time.",
+      "lang": "en"
+    }
+  ]
+}

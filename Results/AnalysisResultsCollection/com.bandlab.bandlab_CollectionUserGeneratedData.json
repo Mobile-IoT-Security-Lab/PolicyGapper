@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "g) To allow other users (including Band Members) to communicate with you to the extent that enable this feature (e.g. by activating Chat in BandLab or by opting in to a Band Member's updates);",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "2.3. Content which you upload to the Services, which allows others to identify you (e.g. photos of you, audio recordings or text containing your name, voice, status updates, comments on content which refer to you).",
+"lang": "en"
+},
+{
+"data_type": "Music files",
+"policy_reference": "2.3. Content which you upload to the Services, which allows others to identify you (e.g. photos of you, audio recordings or text containing your name, voice, status updates, comments on content which refer to you).",
+"lang": "en"
+}
+]
+}

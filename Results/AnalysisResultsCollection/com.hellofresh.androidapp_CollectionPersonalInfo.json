@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• Profile data, such as your username and password that you set to establish an online account with us, and other information you include in your account profile.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Precise geolocation data, such as when you authorize our mobile application to access your location.",
+      "lang": "English"
+    }
+  ]
+}

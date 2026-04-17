@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Forum content: You may post messages and other content in help forums or message boards within the Service. This information is\nstored within the Service and other users can see it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "If you use an ad-supported version of the Service, advertising companies use cookies and similar technologies to collect information\nabout how you use it, and to serve you ads tailored to your interests in the Service and elsewhere. See our Cookie Notice for more infor-\nmation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "If you use an ad-supported version of the Service, advertising companies use cookies and similar technologies to collect information\nabout how you use it, and to serve you ads tailored to your interests in the Service and elsewhere. See our Cookie Notice for more infor-\nmation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Our sites and applications use both session and persistent cookies to enable you to sign in and use our sites and applications, store your\npreferences and settings within them; analyze how they perform, personalize your experience with them, provide interest-based adver-\ntising and for other lawful purposes. We may also use other similar technologies for these purposes, such unique device identifiers, and\nthird-party software embedded in our mobile applications. In some cases, these cookies and similar technologies are used by third\nparties.",
+      "lang": "English"
+    }
+  ]
+}

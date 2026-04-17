@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content(for example, user bios, notes, or open-ended responses)",
+      "policy_reference": "Depending on your (optional) consent, we may use the content of any user reviews you submit to our website for marketing purposes on our website and third party websites. You may object to this processing at any time by sending an email to privacy@ticketswap.com.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Based on the country of your bank, we are required to ask some of personal details, which are processed and verified by Stripe:\n• City\n• Address\n• Postal code\n• State\n• Date of birth\n• Last 4 digits of Social Security Number (SSN)",
+      "lang": "English"
+    }
+  ]
+}

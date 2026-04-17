@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Product research and development We use the information we have to develop, test and improve our Platform and Services, by conducting surveys and research, and testing and troubleshooting new products and features.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Product research and development We use the information we have to develop, test and improve our Platform and Services, by conducting surveys and research, and testing and troubleshooting new products and features.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Dream Space only collects specific personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, email address, Country of residence.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Dream Space only collects specific personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, email address, Country of residence.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Dream Space only collects specific personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, email address, Country of residence.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Dream Space only collects specific personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, email address, Country of residence.",
+      "lang": "en"
+    }
+  ]
+}

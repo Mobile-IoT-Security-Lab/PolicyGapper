@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Our app displays advertisements to support our services and enhance your user experience. To make the ads more relevant to you, we may collect and use certain information about your activities within our app, including but not limited to: Device identifiers and technical information about your device (such as model, operating system version, and IP address); Information about your interactions with the ads (such as click-throughs and time spent viewing an ad); Information about your app usage patterns, preferences, and geographic location.",
+      "lang": "English"
+    }
+  ]
+}

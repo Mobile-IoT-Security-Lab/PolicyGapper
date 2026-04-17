@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We may process information contained in or relating to any communication that you send to us\n(\"correspondence data\"). The correspondence data may include the content of your feedback, or\ncomment and any metadata included in the communication. Our website will generate the metadata\nassociated with communications made using the website contact forms. The correspondence data\nmay be processed for the purposes of communicating with you and record-keeping. The legal basis\nfor this processing is our legitimate interests, namely addressing your feedback or concerns and the\ncontinuing improvement of websites and products.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We use cookies on our website. A cookie is a file containing an identifier (a string of letters and\nnumbers) that is sent by a web server to a web browser and is stored by the browser. The identifier\nis then sent back to the server each time the browser requests a page from the server.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may process your information included in your personal profile on our websites, in our apps, and in our products (\"profile data\"). The profile data may include your name, address, telephone number, email address, educational details, and employment details and other preferences related to product use. The profile data may be processed for the purposes of enabling and monitoring your use of our websites, and products. The legal basis for this processing is our legitimate interests, namely the proper administration of our websites, apps, and products, the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may process your information included in your personal profile on our websites, in our apps, and in our products (\"profile data\"). The profile data may include your name, address, telephone number, email address, educational details, and employment details and other preferences related to product use. The profile data may be processed for the purposes of enabling and monitoring your use of our websites, and products. The legal basis for this processing is our legitimate interests, namely the proper administration of our websites, apps, and products, the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Your personal data is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems and are required to keep the information confidential. In addition, all personal and credit card information you supply is encrypted via Secure Socket Layer (SSL) technology.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may process information relating to transactions, including purchases of products, or products that you sell, through our websites and products (\"transaction data\"). The transaction data may",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We may process information contained in or relating to any communication that you send to us (\"correspondence data\"). The correspondence data may include the content of your feedback, or comment and any metadata included in the communication. Our website will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests, namely addressing your feedback or concerns and the continuing improvement of websites and products.",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "•Information push partners. In order to provide you with the information push function, the partner's SDK or other similar applications will be embedded in the software, and the relevant SDK retrieves your unique device ID (AndroidID) and a list of running applications.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Information about your use of the Platforms. We may collect information about your operation on the Platforms, mainly including information that you click, browse, download, share, and your search record, video editing acts, or any other information provided during your use of ourServices, so that we could provide you with the functions of the Platforms.",
+      "lang": "English"
+    }
+  ]
+}

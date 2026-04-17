@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator's own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, AdQuick, and Parse.ly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator's own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, AdQuick, and Parse.ly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator's own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, AdQuick, and Parse.ly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator's own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, AdQuick, and Parse.ly.",
+      "lang": "English"
+    }
+  ]
+}

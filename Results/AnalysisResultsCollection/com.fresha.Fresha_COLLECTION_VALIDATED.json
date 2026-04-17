@@ -1,0 +1,122 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "As you use your account, we may collect information about your:\n•\npurchase history, including product orders or appointment bookings, or Fresha gift card or\nPartner voucher purchase and use;\n• favourites (e.g. your favourite salon or gym);\n• account settings;\n• social login information;\n•\nsecurely saved payment methods;\n•\nwe may also collect information, if you provide it, about your preferences, referrals, or how you found\nout about our Services, or other user generated content (e.g. profile photo, reviews); and\n• details in accordance with our Cookie Notice.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "As you use your account, we may collect information about your:\n•\npurchase history, including product orders or appointment bookings, or Fresha gift card or\nPartner voucher purchase and use;\n• favourites (e.g. your favourite salon or gym);\n• account settings;\n• social login information;\n•\nsecurely saved payment methods;\n•\nwe may also collect information, if you provide it, about your preferences, referrals, or how you found\nout about our Services, or other user generated content (e.g. profile photo, reviews); and\n• details in accordance with our Cookie Notice.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "When you create a Fresha account using any of our Services including to purchase and use a Fresha gift card, we may collect your:\n• first and last name;\n• date of birth\n•\ngender\n• email address;\n• address;\n•\nmobile phone number(s),\n•\nyour photo, if uploaded (optional).\n•\nIf you choose to use your Google, Facebook, or Apple account to sign into Fresha, we will get an\naccess token that enables this sign-in process (granting us access to your first and last name, email,\nuser ID and (apart from Apple) your profile photo).\n• We assign unique user IDs or other account-level IDs to your Fresha account.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "When you create a Fresha account using any of our Services including to purchase and use a Fresha gift card, we may collect your:\n• first and last name;\n• date of birth\n•\ngender\n• email address;\n• address;\n•\nmobile phone number(s),\n•\nyour photo, if uploaded (optional).\n•\nIf you choose to use your Google, Facebook, or Apple account to sign into Fresha, we will get an\naccess token that enables this sign-in process (granting us access to your first and last name, email,\nuser ID and (apart from Apple) your profile photo).\n• We assign unique user IDs or other account-level IDs to your Fresha account.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you create a Fresha account using any of our Services including to purchase and use a Fresha gift card, we may collect your:\n• first and last name;\n• date of birth\n•\ngender\n• email address;\n• address;\n•\nmobile phone number(s),\n•\nyour photo, if uploaded (optional).\n•\nIf you choose to use your Google, Facebook, or Apple account to sign into Fresha, we will get an\naccess token that enables this sign-in process (granting us access to your first and last name, email,\nuser ID and (apart from Apple) your profile photo).\n• We assign unique user IDs or other account-level IDs to your Fresha account.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "When you create a Fresha account using any of our Services including to purchase and use a Fresha gift card, we may collect your:\n• first and last name;\n• date of birth\n•\ngender\n• email address;\n• address;\n•\nmobile phone number(s),\n•\nyour photo, if uploaded (optional).\n•\nIf you choose to use your Google, Facebook, or Apple account to sign into Fresha, we will get an\naccess token that enables this sign-in process (granting us access to your first and last name, email,\nuser ID and (apart from Apple) your profile photo).\n• We assign unique user IDs or other account-level IDs to your Fresha account.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payments made on our Services are made through our payment gateway provider, Adyen N.V., (\"Adyen\")\n(or, if you are in the UAE, Checkout MENA FFZ LLC (\"Checkout\")). You will be providing credit or debit card\ninformation directly to Adyen (or Checkout), which operates a secure server to process payment details,\nencrypting your credit/debit card information and authorising payment. Fresha can view pseudonymized\ncardholder and card details. In addition, Fresha stores the following card information:\n• card brand,\n• card holder name,\n• card's last four digits,\n• card expiry month and expiry year.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "As you use your account, we may collect information about your:\n•\npurchase history, including product orders or appointment bookings, or Fresha gift card or\nPartner voucher purchase and use;\n• favourites (e.g. your favourite salon or gym);\n• account settings;\n• social login information;\n•\nsecurely saved payment methods;\n•\nwe may also collect information, if you provide it, about your preferences, referrals, or how you found\nout about our Services, or other user generated content (e.g. profile photo, reviews); and\n• details in accordance with our Cookie Notice.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "You may provide Partners with consultation, order and booking information (like date and time of your\nappointment). Partners may also ask you, via consultation forms on our Services, for health information\n(for example if you are pregnant) or other sensitive information (called \"special category data\").",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Communications information includes your correspondence with us, for example if you get in touch with our Customer Service team about an order or booking or to report a problem with our Site. This includes:\n• emails,\n•\ntexts, in-app messaging & other digital messaging,\n•\n•\ncalls,\nletters,\n•\nany in-person conversations you have with us.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "Communications information includes your correspondence with us, for example if you get in touch with our Customer Service team about an order or booking or to report a problem with our Site. This includes:\n• emails,\n•\ntexts, in-app messaging & other digital messaging,\n•\n•\ncalls,\nletters,\n•\nany in-person conversations you have with us.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Communications information includes your correspondence with us, for example if you get in touch with our Customer Service team about an order or booking or to report a problem with our Site. This includes:\n• emails,\n•\ntexts, in-app messaging & other digital messaging,\n•\n•\ncalls,\nletters,\n•\nany in-person conversations you have with us.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "When you create a Fresha account using any of our Services including to purchase and use a Fresha gift card, we may collect your:\n• first and last name;\n• date of birth\n•\ngender\n• email address;\n• address;\n•\nmobile phone number(s),\n•\nyour photo, if uploaded (optional).\n•\nIf you choose to use your Google, Facebook, or Apple account to sign into Fresha, we will get an\naccess token that enables this sign-in process (granting us access to your first and last name, email,\nuser ID and (apart from Apple) your profile photo).\n• We assign unique user IDs or other account-level IDs to your Fresha account.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Communications information includes your correspondence with us, for example if you get in touch with our Customer Service team about an order or booking or to report a problem with our Site. This includes:\n• emails,\n•\ntexts, in-app messaging & other digital messaging,\n•\n•\ncalls,\nletters,\n•\nany in-person conversations you have with us.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Information about your visit may include the full Uniform Resource Locators (URL), clickstream to, through and from our Site (including date and time), pages and services you viewed or searched for, demographic information (including age and gender), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), traceable campaign links (e.g. in emails, or via tracking URLs), methods used to browse away from the page, and any phone number used to call our customer service number or social media handle used to connect with our customer service team and our social media accounts.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The privacy policy mentions collecting this data in the context of visiting 'our Site', which is exempt from the app's Data Safety declaration.",
+      "how_to_fix": "No action required. This data type does not need to be declared as it meets exemption criteria.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Information about your visit may include the full Uniform Resource Locators (URL), clickstream to, through and from our Site (including date and time), pages and services you viewed or searched for, demographic information (including age and gender), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), traceable campaign links (e.g. in emails, or via tracking URLs), methods used to browse away from the page, and any phone number used to call our customer service number or social media handle used to connect with our customer service team and our social media accounts.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The privacy policy mentions collecting this data in the context of visiting 'our Site', which is exempt from the app's Data Safety declaration.",
+      "how_to_fix": "No action required. This data type does not need to be declared as it meets exemption criteria.",
+      "lang": "English"
+    }
+  ]
+}
+```

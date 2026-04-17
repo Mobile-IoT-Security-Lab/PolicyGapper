@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "36. The following data are stored on the User's mobile device: an encrypted unique Application identifier – it is stored on the device until the Application is removed. The identifier of the Application and information about the brand, model and hardware identifier of the mobile device are sent to the Controller in the process of device registration in the Application and are used to unambiguously identify the Application and the mobile device.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "34. Data collected automatically may be used by the Controller to improve the quality of the services provided, in particular in the event of an error in the Application. In the situation described above, data collected automatically will concern the error in the Application, including the condition of the User's mobile device at the time of the error occurrence, identification of the User's mobile device, physical location of the User's mobile device at the time of the occurrence of error.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "34. Data collected automatically may be used by the Controller to improve the quality of the services provided, in particular in the event of an error in the Application. In the situation described above, data collected automatically will concern the error in the Application, including the condition of the User's mobile device at the time of the error occurrence, identification of the User's mobile device, physical location of the User's mobile device at the time of the occurrence of error.",
+      "lang": "English"
+    }
+  ]
+}

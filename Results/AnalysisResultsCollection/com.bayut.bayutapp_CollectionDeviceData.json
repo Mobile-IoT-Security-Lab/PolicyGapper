@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "| BayutGPT Data | Our 'BayutGPT' feature is powered by artificial intelligence and enables you to ask questions about the service or a specific property you are interested in. You must be a registered user on the Platform to use this service. Please keep in mind that you interact with ‘BayutGPT' through a free-text box, which means that we do not control the information you may input or the response output. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "| Behavioural Data | Inferred or assumed information relating to your behaviour and interests based on your activity on the Platform. This is most often collated and grouped into 'segments' on an aggregated basis. |",
+      "lang": "English"
+    }
+  ]
+}

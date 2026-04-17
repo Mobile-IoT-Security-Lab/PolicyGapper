@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "b. When completing his/her profile, the Client could provide additional information, such as details on his/her physical characteristics (including height, weight, body type and sexual preferences), background (including education, financial situation, housing situation and ownership of a vehicle), personality (including purpose of acquaintance, sociability and attitude towards children), lifestyle (including attitude towards alcohol and smoking), date of birth, interests and other details about the Client, as well as content, such as pictures and photos.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "f. When communicating with other Clients through a chat in the App: the contents of the relevant chat (including cases when such contents include Personal Data);",
+      "lang": "en"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "The Client can connect Client's account to a social network (including but not limited to Facebook) by way of registering through the corresponding social network. After connecting his/her account in a social network, the Client would be able to add the personal information from his/her profile in corresponding social network to his/her profile in the Service. The following information could be received by the Client from the social network: the Client's name, ID within the respective social network, photo, email address, IP address, phone number, age, gender, preferred language, country, information about the Client's device, location, list of friends in the social network, data on the use of other networks (as contained in the respective social network). By connecting his/her Client's account with the Company to a social network, the Client gives an explicit consent to the processing of the Client's Personal Data contained in his/her account in the respective social network.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "The Client can connect Client's account to a social network (including but not limited to Facebook) by way of registering through the corresponding social network. After connecting his/her account in a social network, the Client would be able to add the personal information from his/her profile in corresponding social network to his/her profile in the Service. The following information could be received by the Client from the social network: the Client's name, ID within the respective social network, photo, email address, IP address, phone number, age, gender, preferred language, country, information about the Client's device, location, list of friends in the social network, data on the use of other networks (as contained in the respective social network). By connecting his/her Client's account with the Company to a social network, the Client gives an explicit consent to the processing of the Client's Personal Data contained in his/her account in the respective social network.",
+      "lang": "en"
+    }
+  ]
+}

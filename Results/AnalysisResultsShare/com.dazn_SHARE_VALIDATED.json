@@ -1,0 +1,78 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may share your information with third party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the DAZN Service and other websites, apps or online services, based on information relating to your access to and use of the DAZN Service and other websites, apps or online services on any of your devices, as well as on information received from third parties. To do so, these companies may place or recognise a unique cookie on your browser (including through use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognise you across the devices you use, such as a mobile phone and a laptop.",
+      "justification": "The policy states that information related to the use of the service is shared with third-party advertising companies for serving interest-based ads. This can include in-app search history.",
+      "how_to_fix": "In the Data Safety section of the Play Console, declare that 'In-app search history' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may share your information with third party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the DAZN Service and other websites, apps or online services, based on information relating to your access to and use of the DAZN Service and other websites, apps or online services on any of your devices, as well as on information received from third parties. To do so, these companies may place or recognise a unique cookie on your browser (including through use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognise you across the devices you use, such as a mobile phone and a laptop.",
+      "justification": "The policy explicitly states that information about the use of 'other websites, apps or online services' is shared with third-party advertising companies, which constitutes sharing of web browsing history.",
+      "how_to_fix": "In the Data Safety section of the Play Console, declare that 'Web browsing history' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We may share your personal data with: ... (c) third parties for marketing purposes, where we have your consent to do so in accordance with applicable law (for example, if you opt-in to receiving marketing communications from third parties). These third parties may include (i) our commercial partners, being any third party with whom we have a commercial relationship, such as our content licensors (e.g. sports rights holders), distribution partners, and promotional partners; and (ii) our media partners, being any third party that is a media agency, advertising network, or other media services partner;",
+      "reason_of_removal": "User consent exemption",
+      "justification": "The policy states that personal data is shared with third parties for marketing purposes only after receiving user consent (opt-in). This qualifies for an exemption under the Google Play User Data policy, as it is considered a user-initiated action.",
+      "how_to_fix": "No action is required for this item as it falls under a policy exemption for data shared based on user consent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may share your personal data with: ... (c) third parties for marketing purposes, where we have your consent to do so in accordance with applicable law (for example, if you opt-in to receiving marketing communications from third parties). These third parties may include (i) our commercial partners, being any third party with whom we have a commercial relationship, such as our content licensors (e.g. sports rights holders), distribution partners, and promotional partners; and (ii) our media partners, being any third party that is a media agency, advertising network, or other media services partner;",
+      "reason_of_removal": "User consent exemption",
+      "justification": "The policy states that personal data is shared with third parties for marketing purposes only after receiving user consent (opt-in). This qualifies for an exemption under the Google Play User Data policy, as it is considered a user-initiated action.",
+      "how_to_fix": "No action is required for this item as it falls under a policy exemption for data shared based on user consent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may share your personal data with: ... (c) third parties for marketing purposes, where we have your consent to do so in accordance with applicable law (for example, if you opt-in to receiving marketing communications from third parties). These third parties may include (i) our commercial partners, being any third party with whom we have a commercial relationship, such as our content licensors (e.g. sports rights holders), distribution partners, and promotional partners; and (ii) our media partners, being any third party that is a media agency, advertising network, or other media services partner;",
+      "reason_of_removal": "User consent exemption",
+      "justification": "The policy states that personal data is shared with third parties for marketing purposes only after receiving user consent (opt-in). This qualifies for an exemption under the Google Play User Data policy, as it is considered a user-initiated action.",
+      "how_to_fix": "No action is required for this item as it falls under a policy exemption for data shared based on user consent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may share your personal data with: ... (c) third parties for marketing purposes, where we have your consent to do so in accordance with applicable law (for example, if you opt-in to receiving marketing communications from third parties). These third parties may include (i) our commercial partners, being any third party with whom we have a commercial relationship, such as our content licensors (e.g. sports rights holders), distribution partners, and promotional partners; and (ii) our media partners, being any third party that is a media agency, advertising network, or other media services partner;",
+      "reason_of_removal": "User consent exemption",
+      "justification": "The policy states that personal data is shared with third parties for marketing purposes only after receiving user consent (opt-in). This qualifies for an exemption under the Google Play User Data policy, as it is considered a user-initiated action.",
+      "how_to_fix": "No action is required for this item as it falls under a policy exemption for data shared based on user consent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may share your personal data with: ... (c) third parties for marketing purposes, where we have your consent to do so in accordance with applicable law (for example, if you opt-in to receiving marketing communications from third parties). These third parties may include (i) our commercial partners, being any third party with whom we have a commercial relationship, such as our content licensors (e.g. sports rights holders), distribution partners, and promotional partners; and (ii) our media partners, being any third party that is a media agency, advertising network, or other media services partner;",
+      "reason_of_removal": "User consent exemption",
+      "justification": "The policy states that personal data is shared with third parties for marketing purposes only after receiving user consent (opt-in). This qualifies for an exemption under the Google Play User Data policy, as it is considered a user-initiated action.",
+      "how_to_fix": "No action is required for this item as it falls under a policy exemption for data shared based on user consent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may share your personal data with: ... (c) third parties for marketing purposes, where we have your consent to do so in accordance with applicable law (for example, if you opt-in to receiving marketing communications from third parties). These third parties may include (i) our commercial partners, being any third party with whom we have a commercial relationship, such as our content licensors (e.g. sports rights holders), distribution partners, and promotional partners; and (ii) our media partners, being any third party that is a media agency, advertising network, or other media services partner;",
+      "reason_of_removal": "User consent exemption",
+      "justification": "The policy states that personal data is shared with third parties for marketing purposes only after receiving user consent (opt-in). This qualifies for an exemption under the Google Play User Data policy, as it is considered a user-initiated action.",
+      "how_to_fix": "No action is required for this item as it falls under a policy exemption for data shared based on user consent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may share your personal data with: ... (c) third parties for marketing purposes, where we have your consent to do so in accordance with applicable law (for example, if you opt-in to receiving marketing communications from third parties). These third parties may include (i) our commercial partners, being any third party with whom we have a commercial relationship, such as our content licensors (e.g. sports rights holders), distribution partners, and promotional partners; and (ii) our media partners, being any third party that is a media agency, advertising network, or other media services partner;",
+      "reason_of_removal": "User consent exemption",
+      "justification": "The policy states that personal data is shared with third parties for marketing purposes only after receiving user consent (opt-in). This qualifies for an exemption under the Google Play User Data policy, as it is considered a user-initiated action.",
+      "how_to_fix": "No action is required for this item as it falls under a policy exemption for data shared based on user consent.",
+      "lang": "English"
+    }
+  ]
+}
+```

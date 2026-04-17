@@ -1,0 +1,28 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We use users' selfies exclusively for the purpose of fraud prevention and to ensure that bonuses have not been earned through the automated, fraudulent use of software. For this purpose, a photo (\"selfie\") is saved when your face is recorded using your device's camera. We use the recording to create an individual and anonymous digital user ID that is used to check whether the bonus has actually been earned by a real person and whether this person has already requested or received a bonus with another account. For reasons of data economy, this is only necessary if you want to receive bonuses. If you do not want to receive bonuses, you can use the App fully without providing any selfies. The selfies will not be used by us for any other purposes and we will delete them 4 weeks after your bonus has been disbursed.",
+      "justification": "The privacy policy states that user selfies are collected and saved ('a photo (\\\"selfie\\\") is saved') for fraud prevention and user verification. This data is sent off-device to create a user ID and is stored for 4 weeks. This qualifies as collected 'Other User generated content'.",
+      "how_to_fix": "Declare 'Other User generated content' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "For reasons of fraud prevention, payouts that users earn through the use of the App will only be possible after additional user verification via a selfie taken with the device's camera when first requesting a payout. Consent to the processing of personal data therefore already applies to the processing of these photos. I acknowledge that selfies are also special-category personal data per Art. 9 para. 1 GDPR and expressly consent to the processing described below.",
+      "justification": "The privacy policy explicitly states that selfies (photos) are collected for user verification before payouts. This data is processed off-device to enable financial transactions and is therefore considered 'collected'.",
+      "how_to_fix": "Declare 'Photos' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "When contacting us via the App/email, your details are stored for the purpose of processing the enquiry and, if applicable, follow-up questions based on your consent based on the legal basis of Art. 6 (1) a. GDPR or fulfilling your request based on Art. 6 (1) b. GDPR.",
+      "justification": "The privacy policy states that when a user contacts the developer via the app, their details are 'stored for the purpose of processing the enquiry'. This indicates the data is sent off-device and retained, qualifying as collected 'Other in-app messages'.",
+      "how_to_fix": "Declare 'Other in-app messages' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

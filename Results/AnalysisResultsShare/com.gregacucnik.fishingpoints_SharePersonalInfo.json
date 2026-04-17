@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "8.1 In certain circumstances, we may share your Personal Data with third parties without further notice to you, unless required by the law, as set forth below:\n(a) Vendors and Service Providers. To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Data with service providers, including hosting, cloud services and other information technology services providers; email communication software providers and email newsletter providers; sales services; customer relationship management, customer engagement, and customer feedback services; payment processors; security services; advertising partners; social networks; vendors and analytics services. Pursuant to our instructions, these parties will access, process or store Personal Data in the course of performing their duties to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "8.1 In certain circumstances, we may share your Personal Data with third parties without further notice to you, unless required by the law, as set forth below:\n(a) Vendors and Service Providers. To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Data with service providers, including hosting, cloud services and other information technology services providers; email communication software providers and email newsletter providers; sales services; customer relationship management, customer engagement, and customer feedback services; payment processors; security services; advertising partners; social networks; vendors and analytics services. Pursuant to our instructions, these parties will access, process or store Personal Data in the course of performing their duties to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "8.1 In certain circumstances, we may share your Personal Data with third parties without further notice to you, unless required by the law, as set forth below:\n(a) Vendors and Service Providers. To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Data with service providers, including hosting, cloud services and other information technology services providers; email communication software providers and email newsletter providers; sales services; customer relationship management, customer engagement, and customer feedback services; payment processors; security services; advertising partners; social networks; vendors and analytics services. Pursuant to our instructions, these parties will access, process or store Personal Data in the course of performing their duties to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "8.1 In certain circumstances, we may share your Personal Data with third parties without further notice to you, unless required by the law, as set forth below:\n(a) Vendors and Service Providers. To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Data with service providers, including hosting, cloud services and other information technology services providers; email communication software providers and email newsletter providers; sales services; customer relationship management, customer engagement, and customer feedback services; payment processors; security services; advertising partners; social networks; vendors and analytics services. Pursuant to our instructions, these parties will access, process or store Personal Data in the course of performing their duties to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "By using our app and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purchased content with Apple or Google, as part of our efforts to resolve refund requests. This information may include details about how you have accessed and interacted with the purchased content. The purpose of sharing this data is to help Apple or Google make an informed decision regarding refund requests. We ensure that such data sharing is done in compliance with Apple's and Google's policies and only as necessary to process your requests.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "(a) Approximate/precise location permission (non-continuous). Used for accessing the User's approximate/precise device location. This Application may collect, use, and share User location Data in order to provide location-based services. The geographic location of the User is determined in a manner that isn't continuous and only during app usage. This means that it is impossible for this Application to derive the approximate position of the User on a continuous basis.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "List of Installed App:\nWhen you install our\nApp, we may collect\ninformation from your\ndevice, that may include\na list of your installed\nApps.\nThis data may contain\nidentity information and\ntherefore we treat it as\nPersonal Data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Contact Information:\nIf you voluntarily contact\nus, you may be required\nto provide us with\ncertain information\nsuch as your name, job title,\ncompany name, email\naddress (\"Contact\nInformation\") and any\nadditional information\nyou decide to share with\nus.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Providers. Their\ntargeted advertising\nSDKs collect\ninformation about\nyour browsing activity\nacross multiple\nwebsites and online\nservices in order to\nprovide you with\nrelevant\nadvertisements on the\nApp and Services of\nthird parties. The\ninformation collected\nusing these\nadvertising SDK does\nnot disclose your\nidentity, and helps us\nanalyze the\neffectiveness of our\nadvertising.",
+      "lang": "English"
+    }
+  ]
+}

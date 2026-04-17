@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Terms of Service), you will also need to provide your name, last name, and country of residence. If you register for our Business Services, you further need to provide your company name (which may be a limited liability company or a sole trader) and will be able to provide your address and VAT number. Please note that we are unable to provide the basic services for registered users or any Paid Services unless you provide the above stated personal data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Terms of Service), you will also need to provide your name, last name, and country of residence. If you register for our Business Services, you further need to provide your company name (which may be a limited liability company or a sole trader) and will be able to provide your address and VAT number. Please note that we are unable to provide the basic services for registered users or any Paid Services unless you provide the above stated personal data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "When creating a user account on the Website or through our Apps, you are required to provide the following information; email address and password. If you connect to the Service using credentials from a Third Party Service (as defined in the Terms of Use) (e.g. Facebook), you authorize us to collect your authentication information, such as your username and encrypted access credentials. We may also, following your prior consent, collect other information available on or through your Third Party Service's account, including, for example, your name, profile picture, country, hometown, email address, date",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "If you are using our Services through an App on a mobile device, we may provide features that rely on the use of additional information on your mobile device or require access to certain services on your mobile device that will enhance your experience but are not required to use the Service. For example, you may give us your authorization to gather the specific location of your mobile device. However, in order for us to gather or use the specific location of your mobile device you must first give your explicit permission. Any such information gathered will only be used for the specific purpose explained at the time we ask for your permission. If you have given us your permission to gather and use your location, you will always have the ability to withdraw such permission by changing the settings of your mobile device.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "•\nVoice and audio information\n•\nPurchase activity\n•\nPeople with whom you communicate or share content\n•\nActivity on third-party sites and apps that use our services\n•\nChrome browsing history you've synced with your Google Account",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Your Chrome browsing history is only saved to your account if you've enabled Chrome synchronization with your Google Account. Learn more",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+"lang": "en"
+},
+{
+"data_type": "SMS or MMS",
+"policy_reference": "If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "We use your information to deliver our services, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.",
+"lang": "en"
+}
+]
+}

@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Advertising partners - We may also share your data collected through our sites with our advertising partners, as set out in our cookie policy. These partners help us deliver relevant advertising across our sites. For example, we use Google Ad Manager to assist us with the delivery of relevant ads. These partners may also generate their own identifier from your device or email address for the purpose of personalised advertising. You can find details about these partners' use of data and opt out of their identifiers through the following links:\nLiveRamp: https://liveramp.uk/privacy/service-privacy-policy/ and opt out - https://liveramp.uk/privacy/your-rights/\nID5: Privacy policy - https://id5.io/platform-privacy-policy/ and opt out - https://id5-sync.com/privacy\nLotame: Privacy policy - https://www.lotame.com/privacy/privacy-notices/services/ and opt out - https://www.lotame.com/privacy/privacy-manager/\nThe Trade Desk: Privacy policy - https://www.thetradedesk.com/us/privacy and opt out - https://adsrvr.org/\nEUID: Privacy policy - https://www.transparentadvertising.eu/privacy and opt out - https://www.transparentadvertising.eu/\nUID2: Privacy policy - https://transparentadvertising.com/privacy and opt out - https://www.transparentadvertising.com/",
+      "lang": "English"
+    }
+  ]
+}

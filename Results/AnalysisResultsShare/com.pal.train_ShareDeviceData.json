@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may disclose your Automatically Collected Information to third-party marketing partners to provide customized advertising. This allows us to tailor your experience with content that may be of interest and offer better travel experiences. For more details, please refer to our Cookie Statement.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may disclose your Automatically Collected Information to third-party marketing partners to provide customized advertising. This allows us to tailor your experience with content that may be of interest and offer better travel experiences. For more details, please refer to our Cookie Statement.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may disclose your Automatically Collected Information to third-party marketing partners to provide customized advertising. This allows us to tailor your experience with content that may be of interest and offer better travel experiences. For more details, please refer to our Cookie Statement.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Our marketing activities also involve cross-device tracking, where third parties collect information on your online activities via cookies across multiple linked devices and combine this information to tailor the advertisement that you see across the Internet to your interests (commonly known as Internet based advertising). See our Cookie Statement for more details.",
+      "lang": "English"
+    }
+  ]
+}

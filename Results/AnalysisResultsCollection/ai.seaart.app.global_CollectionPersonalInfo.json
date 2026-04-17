@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• information you provide when seeking help from us such as your name, telephone number and records of the issues you experience;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "billing information, such as your name, payment card number and payment account details;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Demographic data (such as to determine the coarse location of your IP address)",
+      "lang": "English"
+    }
+  ]
+}

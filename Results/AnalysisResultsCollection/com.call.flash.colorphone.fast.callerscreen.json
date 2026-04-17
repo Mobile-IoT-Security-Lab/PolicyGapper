@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may allow the third-party online advertising network such as Google Admob and Facebook ads to collect information about your use of our App over time for playing or displaying ads that may be of interest to you. To personalize the content of promotional communications relating to products and services offered by third parties on Google AdMob. You can find more information on how Google AdMob processes your personal data by visiting Google's Privacy & Terms.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "● Read your contacts\nWhen the phone receives an incoming call, you need to read the phone contact to ensure that the application can be\nused normally.\nPurpose : When the phone calls, the screen of the call show can be displayed normally.",
+      "lang": "en"
+    }
+  ]
+}

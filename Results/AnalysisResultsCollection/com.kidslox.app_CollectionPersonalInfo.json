@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "If you make any direct purchases from us (that is, purchases not made through an app store), your credit card or debit card information (such as card type and expiration date) and other financial data that we need to process your payment may be collected and stored by the payment processors with which we work. In addition, the payment processors generally provide us with some limited information related to you, such as a unique token that enables you to make additional purchases using the information they've stored, including recurring payments if you authorize automatic renewals, and your card's type, expiration date, and certain digits of your card number.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "If you make any direct purchases from us (that is, purchases not made through an app store), your credit card or debit card information (such as card type and expiration date) and other financial data that we need to process your payment may be collected and stored by the payment processors with which we work. In addition, the payment processors generally provide us with some limited information related to you, such as a unique token that enables you to make additional purchases using the information they've stored, including recurring payments if you authorize automatic renewals, and your card's type, expiration date, and certain digits of your card number.",
+      "lang": "English"
+    }
+  ]
+}

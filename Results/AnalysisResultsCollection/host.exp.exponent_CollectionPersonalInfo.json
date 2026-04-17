@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Information you provide directly to us:\n•\n•\n•\n•\n•\n•\nContact Information, like name and email address.\nSign-In Information, including your username, password, and\nsite registrations.\nProfile Information and Survey Responses, including feedback,\ncompany name, website, location, bio, GitHub or Twitter usernames, and\nsurvey responses.\nTransaction and Billing Data, including your bank account and payment card\ndetails (credit card number, expiration date, and credit card security code,\nwhere needed to complete a transaction) and billing address.\nCommercial information, including records of products or services\npurchased, obtained, or considered, or other purchasing or consuming\nhistories or tendencies.\nWhen end-users use apps made with Expo, we may collect the end-users'\npush tokens, if you are utilizing Expo's push notification service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Information you provide directly to us:\n•\n•\n•\n•\n•\n•\nContact Information, like name and email address.\nSign-In Information, including your username, password, and\nsite registrations.\nProfile Information and Survey Responses, including feedback,\ncompany name, website, location, bio, GitHub or Twitter usernames, and\nsurvey responses.\nTransaction and Billing Data, including your bank account and payment card\ndetails (credit card number, expiration date, and credit card security code,\nwhere needed to complete a transaction) and billing address.\nCommercial information, including records of products or services\npurchased, obtained, or considered, or other purchasing or consuming\nhistories or tendencies.\nWhen end-users use apps made with Expo, we may collect the end-users'\npush tokens, if you are utilizing Expo's push notification service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Information you provide directly to us:\n•\n•\n•\n•\n•\n•\nContact Information, like name and email address.\nSign-In Information, including your username, password, and\nsite registrations.\nProfile Information and Survey Responses, including feedback,\ncompany name, website, location, bio, GitHub or Twitter usernames, and\nsurvey responses.\nTransaction and Billing Data, including your bank account and payment card\ndetails (credit card number, expiration date, and credit card security code,\nwhere needed to complete a transaction) and billing address.\nCommercial information, including records of products or services\npurchased, obtained, or considered, or other purchasing or consuming\nhistories or tendencies.\nWhen end-users use apps made with Expo, we may collect the end-users'\npush tokens, if you are utilizing Expo's push notification service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Information you provide directly to us:\n•\n•\n•\n•\n•\n•\nContact Information, like name and email address.\nSign-In Information, including your username, password, and\nsite registrations.\nProfile Information and Survey Responses, including feedback,\ncompany name, website, location, bio, GitHub or Twitter usernames, and\nsurvey responses.\nTransaction and Billing Data, including your bank account and payment card\ndetails (credit card number, expiration date, and credit card security code,\nwhere needed to complete a transaction) and billing address.\nCommercial information, including records of products or services\npurchased, obtained, or considered, or other purchasing or consuming\nhistories or tendencies.\nWhen end-users use apps made with Expo, we may collect the end-users'\npush tokens, if you are utilizing Expo's push notification service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Information you provide directly to us:\n•\n•\n•\n•\n•\n•\nContact Information, like name and email address.\nSign-In Information, including your username, password, and\nsite registrations.\nProfile Information and Survey Responses, including feedback,\ncompany name, website, location, bio, GitHub or Twitter usernames, and\nsurvey responses.\nTransaction and Billing Data, including your bank account and payment card\ndetails (credit card number, expiration date, and credit card security code,\nwhere needed to complete a transaction) and billing address.\nCommercial information, including records of products or services\npurchased, obtained, or considered, or other purchasing or consuming\nhistories or tendencies.\nWhen end-users use apps made with Expo, we may collect the end-users'\npush tokens, if you are utilizing Expo's push notification service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Information you provide directly to us:\n•\n•\n•\n•\n•\n•\nContact Information, like name and email address.\nSign-In Information, including your username, password, and\nsite registrations.\nProfile Information and Survey Responses, including feedback,\ncompany name, website, location, bio, GitHub or Twitter usernames, and\nsurvey responses.\nTransaction and Billing Data, including your bank account and payment card\ndetails (credit card number, expiration date, and credit card security code,\nwhere needed to complete a transaction) and billing address.\nCommercial information, including records of products or services\npurchased, obtained, or considered, or other purchasing or consuming\nhistories or tendencies.\nWhen end-users use apps made with Expo, we may collect the end-users'\npush tokens, if you are utilizing Expo's push notification service.",
+      "lang": "English"
+    }
+  ]
+}

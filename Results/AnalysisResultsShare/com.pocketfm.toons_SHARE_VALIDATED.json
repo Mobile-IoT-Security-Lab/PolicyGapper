@@ -1,0 +1,61 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "When we engage in digital advertising, we may share the following categories of personal information for purposes of cross-context behavioral advertising, or use them for targeted advertising: personal identifiers (IP address,); and internet or other electronic activity information.\nThese categories of personal information are shared for cross-context behavioral advertising or targeted advertising with, advertising networks and other companies that facilitate digital advertising. We engage in such sharing to facilitate digital advertising that is able to reach people that are most likely to be interested in the Services we provide. We do so by allowing third parties to place cookies or other tracking technologies on our website that may collect information about your online activities over time and across different websites or applications. For more information about the use of cookies and other tracking technologies, see the section \"Our Use of Cookies and Analytics\" below.",
+      "justification": "The policy states data is shared with third-party 'advertising networks' for 'cross-context behavioral advertising.' This is not a service provider relationship and constitutes 'sharing' that must be declared under Google Play's policy.",
+      "how_to_fix": "In the Data Safety section, declare that 'Other actions' data is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "When we engage in digital advertising, we may share the following categories of personal information for purposes of cross-context behavioral advertising, or use them for targeted advertising: personal identifiers (IP address,); and internet or other electronic activity information.\nThese categories of personal information are shared for cross-context behavioral advertising or targeted advertising with, advertising networks and other companies that facilitate digital advertising. We engage in such sharing to facilitate digital advertising that is able to reach people that are most likely to be interested in the Services we provide. We do so by allowing third parties to place cookies or other tracking technologies on our website that may collect information about your online activities over time and across different websites or applications. For more information about the use of cookies and other tracking technologies, see the section \"Our Use of Cookies and Analytics\" below.",
+      "justification": "The policy states 'information about your online activities over time and across different websites' is shared with 'advertising networks' for 'cross-context behavioral advertising.' This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "In the Data Safety section, declare that 'Web browsing history' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "When we engage in digital advertising, we may share the following categories of personal information for purposes of cross-context behavioral advertising, or use them for targeted advertising: personal identifiers (IP address,); and internet or other electronic activity information.",
+      "justification": "The policy states 'personal identifiers' are shared for 'cross-context behavioral advertising.' This is considered 'sharing' with third parties and must be declared in the Data Safety section.",
+      "how_to_fix": "In the Data Safety section, declare that 'User IDs' (as a form of personal identifier) are 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may also disclose your personal information as required or permitted by law to comply with a subpoena or similar legal process or government request, or when we believe in good faith that disclosure is legally required or otherwise necessary to protect our rights and property or the rights, property or safety of others, including to law enforcement agencies, and judicial and regulatory authorities. We may also disclose your personal information to third parties to help detect and protect against fraud or data security vulnerabilities. And we may disclose or transfer your personal information to a third party in the event of an actual or potential sale, merger, reorganization of our entity or other restructuring.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy states data is disclosed to comply with legal processes or government requests. This is an explicit exemption from 'sharing' disclosure under Google Play's User Data policy.",
+      "how_to_fix": "No action needed. This disclosure is not required in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may also disclose your personal information as required or permitted by law to comply with a subpoena or similar legal process or government request, or when we believe in good faith that disclosure is legally required or otherwise necessary to protect our rights and property or the rights, property or safety of others, including to law enforcement agencies, and judicial and regulatory authorities. We may also disclose your personal information to third parties to help detect and protect against fraud or data security vulnerabilities. And we may disclose or transfer your personal information to a third party in the event of an actual or potential sale, merger, reorganization of our entity or other restructuring.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy states data is disclosed to comply with legal processes or government requests. This is an explicit exemption from 'sharing' disclosure under Google Play's User Data policy.",
+      "how_to_fix": "No action needed. This disclosure is not required in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Personal\nidentifiers:\nname, email\naddress,\ncontact\nnumber,\naccount\nname, profile\nphoto/image\nIP address.\nInternet or\nother\nelectronic\nactivity\ninformation:\ninformation\nregarding\nyour\ninteraction\nwith our\nTo share\npersonal\ninformation\nwith third\nparties that\nacquire or\nare\ninterested in\nacquiring all\nor part of our\nassets or\nshares, or\nthat\nsucceeds it\nin carrying\non our\nbusiness\nTo comply\nwith our\nlegal or\nregulatory\nobligations\n(Article 6(1)\n(c), GDPR)\nWe have a\nlegitimate\ninterest to\nmanage our\nbusiness\nincluding for\nlegal,\npersonnel,\nadministrative\nand\nmanagement\npurposes",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy states data is shared to 'comply with our legal or regulatory obligations' or as part of a business acquisition. These are exempt from the 'sharing' disclosure requirement in the Data Safety section.",
+      "how_to_fix": "No action needed. This disclosure is not required in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Personal\nidentifiers:\nname, email\naddress,\ncontact\nnumber,\naccount\nname, profile\nphoto/image\nIP address.\nInternet or\nother\nelectronic\nactivity\ninformation:\ninformation\nregarding\nyour\ninteraction\nwith our\nTo share\npersonal\ninformation\nwith third\nparties that\nacquire or\nare\ninterested in\nacquiring all\nor part of our\nassets or\nshares, or\nthat\nsucceeds it\nin carrying\non our\nbusiness\nTo comply\nwith our\nlegal or\nregulatory\nobligations\n(Article 6(1)\n(c), GDPR)\nWe have a\nlegitimate\ninterest to\nmanage our\nbusiness\nincluding for\nlegal,\npersonnel,\nadministrative\nand\nmanagement\npurposes",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy states data (including 'profile photo/image') is shared to 'comply with our legal or regulatory obligations' or as part of a business acquisition. These are exempt from the 'sharing' disclosure requirement in the Data Safety section.",
+      "how_to_fix": "No action needed. This disclosure is not required in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

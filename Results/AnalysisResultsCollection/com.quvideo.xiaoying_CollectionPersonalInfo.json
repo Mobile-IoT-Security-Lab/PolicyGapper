@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment and subscription data, needed to complete transactions and process your subscription, such as your payment card or bank account information (collected by our payment processors on our behalf) and transaction history.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Other data that you provide to us, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Device and log information. When you use our Services through the Platforms, in order to make sure you use our Services normally and the functions operating smoothly and safely, improve and optimize your use experience, Carryout advertisement putting and message push, and protect your account security, we will collect your device and log information as follows:Include unique device identifier, gaid, device model, system language, country, advertising identifier, operating system, system version number, IP address, software version number, access network, network quality data, and service log information.",
+      "lang": "English"
+    }
+  ]
+}

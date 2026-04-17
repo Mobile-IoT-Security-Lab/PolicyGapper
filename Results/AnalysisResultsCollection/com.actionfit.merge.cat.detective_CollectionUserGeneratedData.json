@@ -1,0 +1,29 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+"lang": "en"
+},
+{
+"data_type": "SMS or MMS",
+"policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+"lang": "en"
+},
+{
+"data_type": "Calendar events",
+"policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+"lang": "en"
+}
+]
+}

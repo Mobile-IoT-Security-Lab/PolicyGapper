@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Our Services provided to you may contain our service provider's Application Programming Interfaces (APIs) or Software Development Kits (SDKs), which may have tracking tools of such service providers. These third parties may use cookies, APIs and SDKs on our Services and collect and analyze user information. In addition, some third-party SDKs may allow advertisers to collect information in order to provide content that is more relevant to you. Third parties may access your information such as your device identifiers, region (defined as the location where a given language is used), location information and IP address under their respective privacy policies. If you want to know more about such third parties, you may send an email to compliance@meitu.com(please quote “Wink” in your email title).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Our Services provided to you may contain our service provider's Application Programming Interfaces (APIs) or Software Development Kits (SDKs), which may have tracking tools of such service providers. These third parties may use cookies, APIs and SDKs on our Services and collect and analyze user information. In addition, some third-party SDKs may allow advertisers to collect information in order to provide content that is more relevant to you. Third parties may access your information such as your device identifiers, region (defined as the location where a given language is used), location information and IP address under their respective privacy policies. If you want to know more about such third parties, you may send an email to compliance@meitu.com(please quote “Wink” in your email title).",
+      "lang": "English"
+    }
+  ]
+}

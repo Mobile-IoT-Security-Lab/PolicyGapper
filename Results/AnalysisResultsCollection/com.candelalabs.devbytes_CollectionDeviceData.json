@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If You communicate with Us, by, for example, email or letter, any information provided in such communication may be collected and stored by DevBytes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "(ii) URL Request Submission: Whenever you access a page, we submit a request which includes the URL of the page you're on. This is purely to determine if the URL is pertinent (i.e., relating to tech or dev articles).",
+      "lang": "English"
+    }
+  ]
+}

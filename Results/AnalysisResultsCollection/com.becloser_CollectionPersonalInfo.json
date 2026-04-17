@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We also automatically collect certain information about your device and use of our Services, including: Device information (device type, operating system, unique device identifiers) Usage information (features used, time spent, interactions) Log information (IP address, access times, app crashes) Location information (if you grant permission)",
+      "lang": "English"
+    }
+  ]
+}

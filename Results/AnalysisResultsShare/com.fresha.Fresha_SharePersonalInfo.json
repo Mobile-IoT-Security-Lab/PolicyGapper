@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We use this contact and marketing preference information to\n• send you offers, updates, promotions, newsletter(s), insights and other marketing material.\n•\n•\nsend you with a personalised marketing, including offers, features, services, products and Partners we\nthink you may be interested in.\nworking with digital advertising partners.\n• if you work for a company we are interested in partnering with, we may contact you about our\nServices and opportunities with Fresha.\n•\ncontact you to ask for feedback, including through surveys and other marketing research.\n• details in accordance with our Cookie Notice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We use this contact and marketing preference information to\n• send you offers, updates, promotions, newsletter(s), insights and other marketing material.\n•\n•\nsend you with a personalised marketing, including offers, features, services, products and Partners we\nthink you may be interested in.\nworking with digital advertising partners.\n• if you work for a company we are interested in partnering with, we may contact you about our\nServices and opportunities with Fresha.\n•\ncontact you to ask for feedback, including through surveys and other marketing research.\n• details in accordance with our Cookie Notice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Location data includes country location (based on your full or partial IP address and/or Google\nAnalytics information) which we use to provide location services (if you ask or permit us to), so\nthat we can deliver content, advertising or other services that are dependent on knowing where\nyou are, like checking for fraudulent transactions.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "6.3.2.4. When using Comera Souq third-party services, if you choose to share data or content with those services, you are directing us to send that information to the third party. For example, if you use a backup service through Comera (like backing up chats to Google Drive or iCloud), or you order a product via an integrated marketplace, you are consenting to share relevant data with that provider. Those third parties will receive the data needed to fulfill your request (such as your chat content for backup, or your name and address for an e-commerce order).",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy explicitly states that data is shared only when the user chooses to use a third-party service, directs the app to send the information, or consents to the sharing for a specific action (e.g., an e-commerce order). This falls under the user-initiated action exemption.",
+      "how_to_fix": "No action required. This type of data sharing is exempt from disclosure as 'sharing' in the Data Safety section because it is initiated and consented to by the user.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "4.1.2. Data Shared by Comera: To facilitate the integration, we might share limited data with the third-party service. For instance, if a Comera Souq game or service needs to identify your Comera account, we may confirm your user ID or phone number, or if you choose to use an Al chatbot, we may transmit your query to the Al service provider to get a response. We will only share the minimum data necessary for the service to operate, and only with your initiation. No third-party service receives your Comera messages or contacts from us, unless you actively invoke that service to do so.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states that data is shared 'only with your initiation' to facilitate a third-party service requested by the user. This falls under the user-initiated action exemption.",
+      "how_to_fix": "No action required. This type of data sharing is exempt from disclosure as 'sharing' in the Data Safety section because it is initiated by the user.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "6.3.2.4. When using Comera Souq third-party services, if you choose to share data or content with those services, you are directing us to send that information to the third party. For example, if you use a backup service through Comera (like backing up chats to Google Drive or iCloud), or you order a product via an integrated marketplace, you are consenting to share relevant data with that provider. Those third parties will receive the data needed to fulfill your request (such as your chat content for backup, or your name and address for an e-commerce order).",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy explicitly states that data is shared only when the user chooses to use a third-party service, directs the app to send the information, or consents to the sharing for a specific action (e.g., an e-commerce order). This falls under the user-initiated action exemption.",
+      "how_to_fix": "No action required. This type of data sharing is exempt from disclosure as 'sharing' in the Data Safety section because it is initiated and consented to by the user.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "4.1.2. Data Shared by Comera: To facilitate the integration, we might share limited data with the third-party service. For instance, if a Comera Souq game or service needs to identify your Comera account, we may confirm your user ID or phone number, or if you choose to use an Al chatbot, we may transmit your query to the Al service provider to get a response. We will only share the minimum data necessary for the service to operate, and only with your initiation. No third-party service receives your Comera messages or contacts from us, unless you actively invoke that service to do so.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states that data is shared 'only with your initiation' to facilitate a third-party service requested by the user. This falls under the user-initiated action exemption.",
+      "how_to_fix": "No action required. This type of data sharing is exempt from disclosure as 'sharing' in the Data Safety section because it is initiated by the user.",
+      "lang": "English"
+    }
+  ]
+}
+```

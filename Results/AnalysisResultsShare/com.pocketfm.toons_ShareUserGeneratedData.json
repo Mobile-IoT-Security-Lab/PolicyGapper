@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "Personal\nidentifiers:\nname, email\naddress,\ncontact\nnumber,\naccount\nname, profile\nphoto/image\nIP address.\nInternet or\nother\nelectronic\nactivity\ninformation:\ninformation\nregarding\nyour\ninteraction\nwith our\nTo share\npersonal\ninformation\nwith third\nparties that\nacquire or\nare\ninterested in\nacquiring all\nor part of our\nassets or\nshares, or\nthat\nsucceeds it\nin carrying\non our\nbusiness\nTo comply\nwith our\nlegal or\nregulatory\nobligations\n(Article 6(1)\n(c), GDPR)\nWe have a\nlegitimate\ninterest to\nmanage our\nbusiness\nincluding for\nlegal,\npersonnel,\nadministrative\nand\nmanagement\npurposes",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Personal\nidentifiers:\nname, email\naddress,\ncontact\nnumber,\naccount\nname, profile\nphoto/image\nIP address.\nInternet or\nother\nelectronic\nactivity\ninformation:\ninformation\nregarding\nyour\ninteraction\nwith our\nTo share\npersonal\ninformation\nwith third\nparties that\nacquire or\nare\ninterested in\nacquiring all\nor part of our\nassets or\nshares, or\nthat\nsucceeds it\nin carrying\non our\nbusiness\nTo comply\nwith our\nlegal or\nregulatory\nobligations\n(Article 6(1)\n(c), GDPR)\nWe have a\nlegitimate\ninterest to\nmanage our\nbusiness\nincluding for\nlegal,\npersonnel,\nadministrative\nand\nmanagement\npurposes",
+      "lang": "English"
+    }
+  ]
+}

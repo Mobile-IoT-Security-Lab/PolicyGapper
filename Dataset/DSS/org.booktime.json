@@ -1,0 +1,38 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": 1,
+      "purpose": "Analytics, Developer communications, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Personalization, Account management",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Committed to follow the Play Families Policy",
+      "description": "The developer has committed to follow the Play Families Policy for this app. <a href=\"https://support.google.com/googleplay/android-developer/answer/9893335\" target=\"_blank\">See the policy</a>"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.booktime.org/en/privacy/"
+}

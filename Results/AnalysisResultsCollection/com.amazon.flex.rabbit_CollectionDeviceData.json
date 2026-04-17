@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "As a result of the above actions, you might supply us with information such as: • Your name, phone number, email address, home address, date of birth, driver's license and photo ID, national identification number, photos, vehicle information, login credentials, information that we use for payment purposes, feedback on routing and the delivery experience, and information regarding on-road accidents or other incidents.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Route data, including when you pick up and deliver parcels or freight and your progress through delivery/shipment routes, activity classification (e.g. walking, driving), and data collected through device sensors such as position and movement;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may also use device identifiers, cookies, and other technologies on devices, applications, web pages, and other Amazon Transportation Technologies to collect browsing, usage, or other technical information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Metrics such as your rate of successful or on time deliveries to enable us to manage your or your Transportation Company's compliance with agreed service standards.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Seller Account Information\nWe collect certain information from you when\nyou set up an Etsy Seller account, and use\nthe Services.\n•\nSeller Details: Your name, email\naddress, country of residence, phone\nnumber, date of birth, taxpayer\naddress, and Etsy shop name. For\nsellers established as incorporated or\nother form of legal entities, the name,\naddress and date of birth of all\nindividuals who own or control 25% or\nmore of the entity (\"beneficial owners\")\n• Seller Payment Information: Your\nbank country, bank account details,\nbilling address and other payment\ninformation (e.g., credit or debit card\ndetails or PayPal credentials)\n• Shop Preferences: Your preferred\nlanguage, country, and currency\n•\nBusiness/Tax Information: Your tax\nand government-issued identification\nnumbers",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Survey Responses and Market Research\nYou may choose to provide certain\ninformation in connection with surveys,\nresearch, and other feedback mechanisms.\n•\nDemographic information, including\nyour age, gender, work status, region,\nand neighborhood type (e.g., rural,\nsuburban, or urban), and if you are\nlocated in the US, your income,\neducation, and race/ethnicity\n•\nBusiness and selling information, such\nas the size of your business, any other\nselling channels you use, and your\nbusiness income breakdown (by\npercentage) for each selling channel\n•\nAny additional information you may\nprovide",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Buyer Public Profile Information\nAs a Buyer on Etsy, you can choose to\nprovide your name and other information in\nconnection with your account and activity.\nOther people will be able to see your profile\ninformation. Your saved product listings that\nare grouped by you (“Favorites and\nCollections\") may also be visible publicly,\ndepending on your settings. You can edit,\nremove, or limit this information through your\naccount settings.\n• Regional Information: Your country,\npreferred language, and currency\n• Your name\n•\nBirthday\n•\nGender\n•\nLocation\n• Profile photo\n•\nYour bio\n• Favorites and Collections\n• Who you follow and your followers\n• Linked third-party accounts (e.g.,\nsocial media, \"sign-in with\")\n• Product reviews\n•\nRegistry information (e.g., name,\npartner name, wedding or special\nevent date, delivery information, items\non your registry)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "Survey Responses and Market Research\nYou may choose to provide certain\ninformation in connection with surveys,\nresearch, and other feedback mechanisms.\n•\nDemographic information, including\nyour age, gender, work status, region,\nand neighborhood type (e.g., rural,\nsuburban, or urban), and if you are\nlocated in the US, your income,\neducation, and race/ethnicity\n•\nBusiness and selling information, such\nas the size of your business, any other\nselling channels you use, and your\nbusiness income breakdown (by\npercentage) for each selling channel\n•\nAny additional information you may\nprovide",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "General Location Information\nWe collect your general location information\nfor things like tailoring our Services to your\nlocation, to estimate postage costs, and for\nsecurity, sanctions and fraud prevention\npurposes. See Section 2 for further details on\nhow we use this information.\n•\nIP addresses and other information\nlike your zip or post code, to estimate\nyour general location (e.g., country,\nstate, or city)\n• The general location you set in your\nregional preferences on the Site or\nApps",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Precise Location Information\nWe collect your precise geo-location where\nyou have given us permission to do so\nthrough your device-based settings. See\nSection 2 for further detail.\n• Your precise geo-location collected\nfrom your device",
+      "lang": "English"
+    }
+  ]
+}

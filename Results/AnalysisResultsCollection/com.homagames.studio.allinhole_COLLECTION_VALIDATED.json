@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• identification data (e.g., name, ID), birth date, contact information (e.g., e-mail address, twitter/discord ID), and connection data (e.g., login, password) when you choose to connect your Game Account to the Game; technical data (e.g., IP address, device information as device's mark and model, operating system, network used, screen size); • data relating to your use of the Services (e.g., Games played, progress and purchases in-Game, achievements, ad viewed in-Game, time stamp and duration of the connection, interactions through the text chat feature); • geolocation at the country level; • any personal data contained in correspondence you send to us, if any; and • in case of litigation, data relating to the disputed facts and information, documents, and exhibits collected to establish the facts likely to be charged.",
+      "justification": "The policy states collection of 'interactions through the text chat feature' and 'any personal data contained in correspondence you send to us', which are forms of user-generated content.",
+      "how_to_fix": "Declare 'Other user-generated content' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "To show personalized advertisements (e.g., to track the content you access in connection with the Services and your online behaviour, to deliver, target and improve advertising of our Games and Apps and our partner's services).",
+      "justification": "The policy mentions the app will 'track the content you access in connection with the Services and your online behaviour' for advertising purposes, which implies collection of web browsing history.",
+      "how_to_fix": "Declare 'Web browsing history' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "• identification data (e.g., name, ID), birth date, contact information (e.g., e-mail address, twitter/discord ID), and connection data (e.g., login, password) when you choose to connect your Game Account to the Game; technical data (e.g., IP address, device information as device's mark and model, operating system, network used, screen size); • data relating to your use of the Services (e.g., Games played, progress and purchases in-Game, achievements, ad viewed in-Game, time stamp and duration of the connection, interactions through the text chat feature); • geolocation at the country level; • any personal data contained in correspondence you send to us, if any; and • in case of litigation, data relating to the disputed facts and information, documents, and exhibits collected to establish the facts likely to be charged.",
+      "justification": "The policy explicitly states the collection of 'identification data (e.g., name, ID)'.",
+      "how_to_fix": "Declare 'Name' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "• identification data (e.g., name, ID), birth date, contact information (e.g., e-mail address, twitter/discord ID), and connection data (e.g., login, password) when you choose to connect your Game Account to the Game; technical data (e.g., IP address, device information as device's mark and model, operating system, network used, screen size); • data relating to your use of the Services (e.g., Games played, progress and purchases in-Game, achievements, ad viewed in-Game, time stamp and duration of the connection, interactions through the text chat feature); • geolocation at the country level; • any personal data contained in correspondence you send to us, if any; and • in case of litigation, data relating to the disputed facts and information, documents, and exhibits collected to establish the facts likely to be charged.",
+      "justification": "The policy mentions collecting various data points like 'birth date', 'technical data (e.g., IP address, device information)', and 'data relating to your use of the Services (e.g., Games played, progress and purchases)', which fall under 'Other info'.",
+      "how_to_fix": "Declare 'Other info' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• identification data (e.g., name, ID), birth date, contact information (e.g., e-mail address, twitter/discord ID), and connection data (e.g., login, password) when you choose to connect your Game Account to the Game; technical data (e.g., IP address, device information as device's mark and model, operating system, network used, screen size); • data relating to your use of the Services (e.g., Games played, progress and purchases in-Game, achievements, ad viewed in-Game, time stamp and duration of the connection, interactions through the text chat feature); • geolocation at the country level; • any personal data contained in correspondence you send to us, if any; and • in case of litigation, data relating to the disputed facts and information, documents, and exhibits collected to establish the facts likely to be charged.",
+      "justification": "The policy states the collection of 'geolocation at the country level', which is considered 'Approximate location'.",
+      "how_to_fix": "Declare 'Approximate location' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "• identification data (e.g., name, ID), birth date, contact information (e.g., e-mail address, twitter/discord ID), and connection data (e.g., login, password) when you choose to connect your Game Account to the Game; technical data (e.g., IP address, device information as device's mark and model, operating system, network used, screen size); • data relating to your use of the Services (e.g., Games played, progress and purchases in-Game, achievements, ad viewed in-Game, time stamp and duration of the connection, interactions through the text chat feature); • geolocation at the country level; • any personal data contained in correspondence you send to us, if any; and • in case of litigation, data relating to the disputed facts and information, documents, and exhibits collected to establish the facts likely to be charged.",
+      "justification": "The policy states the collection of 'contact information (e.g., e-mail address)'.",
+      "how_to_fix": "Declare 'Email address' in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• identification data (e.g., name, ID), birth date, contact information (e.g., e-mail address, twitter/discord ID), and connection data (e.g., login, password) when you choose to connect your Game Account to the Game; technical data (e.g., IP address, device information as device's mark and model, operating system, network used, screen size); • data relating to your use of the Services (e.g., Games played, progress and purchases in-Game, achievements, ad viewed in-Game, time stamp and duration of the connection, interactions through the text chat feature); • geolocation at the country level; • any personal data contained in correspondence you send to us, if any; and • in case of litigation, data relating to the disputed facts and information, documents, and exhibits collected to establish the facts likely to be charged.",
+      "justification": "The policy mentions collecting 'interactions through the text chat feature' and 'correspondence you send to us', which are types of in-app messages.",
+      "how_to_fix": "Declare 'Other in-app messages' in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• identification data (e.g., name, ID), birth date, contact information (e.g., e-mail address, twitter/discord ID), and connection data (e.g., login, password) when you choose to connect your Game Account to the Game; technical data (e.g., IP address, device information as device's mark and model, operating system, network used, screen size); • data relating to your use of the Services (e.g., Games played, progress and purchases in-Game, achievements, ad viewed in-Game, time stamp and duration of the connection, interactions through the text chat feature); • geolocation at the country level; • any personal data contained in correspondence you send to us, if any; and • in case of litigation, data relating to the disputed facts and information, documents, and exhibits collected to establish the facts likely to be charged.",
+      "justification": "The policy states that in case of litigation, the app collects 'documents, and exhibits', which corresponds to 'Files and docs'.",
+      "how_to_fix": "Declare 'Files and docs' in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

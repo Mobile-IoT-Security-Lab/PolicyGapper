@@ -1,0 +1,45 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.\nThese websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.",
+      "justification": "The policy states that embedded content from 'other websites' can 'monitor your interaction with that embedded content' and 'embed additional third-party tracking'. This indicates app interaction data is shared with third parties.",
+      "how_to_fix": "Declare in the Data Safety section that 'App interactions' data is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.\nThese websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.",
+      "justification": "The policy states that embedded content from 'other websites' can 'monitor your interaction with that embedded content'. User actions are a form of interaction, indicating this data is shared with third parties.",
+      "how_to_fix": "Declare in the Data Safety section that 'Other actions' (under App activity) is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.\nThese websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.",
+      "justification": "The policy mentions that 'other websites' may 'use cookies' and 'embed additional third-party tracking'. Cookies and tracking technologies typically involve the collection and sharing of Device or other IDs.",
+      "how_to_fix": "Declare in the Data Safety section that 'Device or other IDs' is shared with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.\nThese websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy refers to embedded 'images' as content the user interacts with, not the collection or sharing of the user's own photos from their device.",
+      "how_to_fix": "No action needed. The policy does not indicate collection or sharing of the user's photos.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.\nThese websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy refers to embedded 'videos' as content the user interacts with, not the collection or sharing of the user's own videos from their device.",
+      "how_to_fix": "No action needed. The policy does not indicate collection or sharing of the user's videos.",
+      "lang": "English"
+    }
+  ]
+}
+```

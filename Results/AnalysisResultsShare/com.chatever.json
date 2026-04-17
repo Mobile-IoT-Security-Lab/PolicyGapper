@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Analytics\nWe may use third-party Service Providers to monitor and analyze the use of our Service.\nGoogle Analytics: Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.\nFor more information on the privacy practices of Google, please visit the Google Privacy Terms web page:\nhttp://www.google.com/intl/en/policies/privacy/",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "6.2. The Company may disclose the Client's Personal Data with third parties in the following cases:\na. Other Clients of the Company_ :\nThe Client shares information with other Clients of the Company by way of voluntarily disclosing information on the\nService (including but not limited to information in Client's profile).\nIt is in the Client's discretion to choose the information to be disclosed with the Service and the Company rescinds from\nresponsibility for the other Clients of the Service regarding the way they might use such information, disclosed by the\nClient.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Analytics\nWe may use third-party Service Providers to monitor and analyze the use of our Service.\nGoogle Analytics: Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.\nFor more information on the privacy practices of Google, please visit the Google Privacy Terms web page:\nhttp://www.google.com/intl/en/policies/privacy/",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "In the past 12 months, we have disclosed the following categories of personal information for business purposes:\n•\n•\n•\n•\nIdentifiers (e.g., name, email, IP address).\nCommercial information (e.g., interactions with our app).\nInternet activity (e.g., usage data).\nGeolocation data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "In the past 12 months, we have disclosed the following categories of personal information for business purposes:\n•\n•\n•\n•\nIdentifiers (e.g., name, email, IP address).\nCommercial information (e.g., interactions with our app).\nInternet activity (e.g., usage data).\nGeolocation data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "3. How We Use and Share Personal Information\nThe purposes and ways of use of personal information are described in correspondent provisions of Privacy Policy.\nWe may disclose your personal information to a third party for a business purpose to:\nService providers who assist in operations (e.g., analytics, payment processing).\n•\nAffiliates or partners as necessary for providing services.\nLaw enforcement or government agencies as required by law.\nAs part of corporate transactions (e.g., mergers, acquisitions).\nIn the past 12 months, we have disclosed the following categories of personal information for business purposes:\n•\n•\n•\n•\nIdentifiers (e.g., name, email, IP address).\nCommercial information (e.g., interactions with our app).\nInternet activity (e.g., usage data).\nGeolocation data.",
+      "lang": "English"
+    }
+  ]
+}

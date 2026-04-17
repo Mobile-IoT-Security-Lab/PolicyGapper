@@ -1,0 +1,35 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Device type, operating system, language, region, app usage statistics, and interactions within the app. This information is collected to help us improve app performance and enhance the user experience.",
+      "justification": "The privacy policy explicitly states that 'app usage statistics' and 'interactions within the app' are collected and sent off-device to 'improve app performance', which requires a declaration under Google Play's Data Safety policy.",
+      "how_to_fix": "Declare the collection of 'App interactions' in the 'Data collected' section of your Google Play Console's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Device type, operating system, language, region, app usage statistics, and interactions within the app. This information is collected to help us improve app performance and enhance the user experience.",
+      "justification": "The privacy policy states that data is collected to 'improve app performance'. This falls under the 'Diagnostics' data type and is sent off-device, requiring a declaration.",
+      "how_to_fix": "Declare the collection of 'Diagnostics' in the 'Data collected' section of your Google Play Console's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may use or allow third-party services (such as advertising networks and analytics tools) to collect anonymous information. This may include general device information, app usage data, and region/language settings. The purpose of this data collection is to display relevant advertisements, measure app performance, and improve our services.",
+      "justification": "The privacy policy explicitly states that data is collected to 'measure app performance' by the app or third-party services. This data is sent off-device and must be declared.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in the 'Data collected' section of your Google Play Console's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Advertising & Analytics Data:\nWe may use or allow third-party services (such as advertising networks and\nanalytics tools) to collect anonymous information.\nThis may include general device information, app usage data, and region/language\nsettings.\nThe purpose of this data collection is to display relevant advertisements, measure\napp performance, and improve our services.",
+      "justification": "The privacy policy states that 'region' settings are collected by third-party services for advertising and analytics. Collection of region data is considered 'Approximate location' and must be declared as it is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Approximate location' in the 'Data collected' section of your Google Play Console's Data Safety form.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

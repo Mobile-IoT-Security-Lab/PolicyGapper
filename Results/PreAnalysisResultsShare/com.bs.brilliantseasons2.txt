@@ -1,0 +1,96 @@
+Information collection and Use
+
+For a better experience, the app may request access to certain device permissions
+(such as camera or storage) to function properly, but it does not collect or store
+personal information. However, the app may use third-party services that may
+collect personal information as part of their operations. These third-party services
+may include:
+•
+Google Play Services
+•
+Google Analytics for Firebase
+•
+Firebase Crashlytics by Google
+These services may collect non-personally identifiable data, including Log Data,
+such as device name, operating system version, IP address, app configuration
+details, and usage statistics. Additionally, depending on their terms, they may also
+collect personal information. This data is used solely for monitoring app
+performance, identifying causes for app crashes, and improving the app's
+functionality. The legal basis for this processing is legitimate interest in maintaining
+and enhancing app performance. We encourage users to review the privacy policies
+of these third-party services to understand how they handle data.
+
+---
+
+User Rights under GDPR
+Since we do not directly collect or store personal information, we do not process
+user data. However, users have rights under the General Data Protection Regulation
+(GDPR) concerning data collected by third-party services, including:
+• The right to access, modify, or delete any personal data collected by third-
+party services.
+• The right to object to data processing, where applicable.
+• The right to withdraw consent (if applicable) for third-party services that rely
+on consent-based processing.
+• The right to request data portability from relevant third-party providers.
+To exercise these rights, users should refer to the respective privacy policies of
+third-party services used by the app and follow their instructions for managing
+data.
+
+---
+
+Retention of information
+As the developer does not directly handle any personal information, there is no
+storage or retention of personally identifiable data by us. However, third-party
+service providers may retain usage data, including personal information, for
+analytical and operational purposes, as outlined in their respective privacy policies.
+
+---
+
+Opting Out of Data Collection
+Users who wish to limit data collection by third-party services may:
+• Adjust their device settings to limit app permissions.
+•
+Disable interest-based ads via their Google or Apple account settings.
+•
+Use Google Play or Apple App Store privacy settings to manage third-party
+data sharing.
+
+---
+
+Transfer of information
+Since the app does not collect or store personal information directly, there is no
+transfer of such data by us. However, analytics and crash reports processed by
+third-party services may involve data transfers in accordance with their privacy
+policies and applicable data protection laws.
+
+---
+
+Privacy of children
+The app does not knowingly collect any personal information from children under
+the age of 13. Since no user accounts are created and no personal data is stored,
+there is no risk of unauthorized data collection from minors. If you believe that a
+child has provided personal information to a third-party service used by the app,
+please contact the respective service provider to request deletion.
+
+---
+
+Links to other resources
+The Mobile Application and Services may contain links to external resources that
+are not owned or controlled by us. We are not responsible for the privacy practices
+of third parties and encourage users to review their privacy policies before
+interacting with their services.
+
+---
+
+Information security
+We strive to maintain high security standards to protect non-personally identifiable
+data processed by third-party services. However, no digital system is entirely
+secure, and we cannot guarantee the absolute security of transmitted data.
+
+---
+
+Data breach
+As we do not collect or store personal information, there is no risk of a personal
+data breach from our direct handling of user data. In the event of a security
+incident affecting third-party services, users will be notified by those service
+providers in accordance with their privacy policies and applicable laws.

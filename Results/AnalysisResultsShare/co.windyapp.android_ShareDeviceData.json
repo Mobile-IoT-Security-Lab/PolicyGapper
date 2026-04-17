@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "1.2.2 For analytics purposes, we use UserX Analytics (https://userx.pro/) provided by BUMPIN L.L.C-FZ and Microsoft Clarity provided by Microsoft Corporation (https://clarity.microsoft.com/), which, in addition to collecting standard anonymized usage data (such as taps, swipes, and virtual device identifiers), also captures anonymized screenshots during app usage. All collected data are ANONYMIZED on the side of end-user devices and DOES NOT CONTAIN any personal, financial or payment information, other sensitive data, or user-generated private content. All transmitted data DOESN'T CONTAIN any information resulting from the device camera, microphone, or other user inputs in the Application. All transmitted data is protected by SSL encryption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "1.2.2 For analytics purposes, we use UserX Analytics (https://userx.pro/) provided by BUMPIN L.L.C-FZ and Microsoft Clarity provided by Microsoft Corporation (https://clarity.microsoft.com/), which, in addition to collecting standard anonymized usage data (such as taps, swipes, and virtual device identifiers), also captures anonymized screenshots during app usage. All collected data are ANONYMIZED on the side of end-user devices and DOES NOT CONTAIN any personal, financial or payment information, other sensitive data, or user-generated private content. All transmitted data DOESN'T CONTAIN any information resulting from the device camera, microphone, or other user inputs in the Application. All transmitted data is protected by SSL encryption.",
+      "lang": "English"
+    }
+  ]
+}

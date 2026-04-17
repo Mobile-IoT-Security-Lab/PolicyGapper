@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "In all such circumstances you may provide Your Personal Data such as name, contact number, postal address, email address, username, height, weight, profile photo, Your location data (if you allow access), including, without limitation, the real-time geographic location of Your device that is used along with the Product or Service. Further, all Users of our Products and Services are part of the COVENET® Network, and during an alert by a COVENET® Network User or for provision of certain features and services, we may use your wearable device to collect publicly broadcasted technical data of other devices near You.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "In all such circumstances you may provide Your Personal Data such as name, contact number, postal address, email address, username, height, weight, profile photo, Your location data (if you allow access), including, without limitation, the real-time geographic location of Your device that is used along with the Product or Service. Further, all Users of our Products and Services are part of the COVENET® Network, and during an alert by a COVENET® Network User or for provision of certain features and services, we may use your wearable device to collect publicly broadcasted technical data of other devices near You.",
+      "lang": "English"
+    }
+  ]
+}

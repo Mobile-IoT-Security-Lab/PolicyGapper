@@ -1,0 +1,23 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We work with other companies who help us run our business (“Service Providers\"). These companies provide services to help us operate and improve the Application, including assisting with debugging and crash analytics. These Service Providers may only process personal information pursuant to our instructions and in compliance both with this Application Privacy Policy, Cloudflare's Privacy Policy and other applicable confidentiality and security measures and regulations.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states data is shared with 'Service Providers' who process it 'pursuant to our instructions' to help operate the application. This falls under the service provider exemption in Google Play's User Data policy, which does not require disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This data sharing does not need to be declared in the 'Data shared' section of the Data Safety form due to the service provider exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We work with other companies who help us run our business (“Service Providers\"). These companies provide services to help us operate and improve the Application, including assisting with debugging and crash analytics. These Service Providers may only process personal information pursuant to our instructions and in compliance both with this Application Privacy Policy, Cloudflare's Privacy Policy and other applicable confidentiality and security measures and regulations.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states data is shared with 'Service Providers' who process it 'pursuant to our instructions' to help operate the application. This falls under the service provider exemption in Google Play's User Data policy, which does not require disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This data sharing does not need to be declared in the 'Data shared' section of the Data Safety form due to the service provider exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

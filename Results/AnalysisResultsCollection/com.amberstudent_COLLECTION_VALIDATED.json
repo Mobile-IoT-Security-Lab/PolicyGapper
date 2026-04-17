@@ -1,0 +1,79 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We collect the following information:\nIP address, browser type, operating system type and platforms, Login information, URL\ninformational, Page interactions like clicking and scrolling and phone number or email you used to",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy reference mentions 'browser type' and 'URL informational', indicating data collection from a website, not the mobile app.",
+      "how_to_fix": "This data type does not need to be declared as 'collected' in the app's Data Safety section because the collection occurs outside the mobile app. No action is required for this item.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect the following information:\nIP address, browser type, operating system type and platforms, Login information, URL\ninformational, Page interactions like clicking and scrolling and phone number or email you used to",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy reference mentions 'browser type' and 'URL informational', indicating data collection from a website, not the mobile app.",
+      "how_to_fix": "This data type does not need to be declared as 'collected' in the app's Data Safety section because the collection occurs outside the mobile app. No action is required for this item.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "You can give us the information by filling the request form at Amber, over call, email or at various offline promotional events. The informational you give us may include your name, phone number, email id. For booking your accommodation at Amber you may need to give further personal information (ex. Birth date, country of origin, guarantor's details, University name etc) on call or email or other messaging services as necessary",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy describes data collection via 'request form at Amber, over call, email or at various offline promotional events', which are methods outside of the mobile app.",
+      "how_to_fix": "This data type does not need to be declared as 'collected' in the app's Data Safety section because the collection occurs outside the mobile app. No action is required for this item.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "You can give us the information by filling the request form at Amber, over call, email or at various offline promotional events. The informational you give us may include your name, phone number, email id. For booking your accommodation at Amber you may need to give further personal information (ex. Birth date, country of origin, guarantor's details, University name etc) on call or email or other messaging services as necessary",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy describes data collection via 'request form at Amber, over call, email or at various offline promotional events', which are methods outside of the mobile app.",
+      "how_to_fix": "This data type does not need to be declared as 'collected' in the app's Data Safety section because the collection occurs outside the mobile app. No action is required for this item.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "You can give us the information by filling the request form at Amber, over call, email or at various offline promotional events. The informational you give us may include your name, phone number, email id. For booking your accommodation at Amber you may need to give further personal information (ex. Birth date, country of origin, guarantor's details, University name etc) on call or email or other messaging services as necessary",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy describes data collection via 'request form at Amber, over call, email or at various offline promotional events', which are methods outside of the mobile app.",
+      "how_to_fix": "This data type does not need to be declared as 'collected' in the app's Data Safety section because the collection occurs outside the mobile app. No action is required for this item.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "You can give us the information by filling the request form at Amber, over call, email or at various offline promotional events. The informational you give us may include your name, phone number, email id. For booking your accommodation at Amber you may need to give further personal information (ex. Birth date, country of origin, guarantor's details, University name etc) on call or email or other messaging services as necessary",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy describes data collection via 'request form at Amber, over call, email or at various offline promotional events', which are methods outside of the mobile app.",
+      "how_to_fix": "This data type does not need to be declared as 'collected' in the app's Data Safety section because the collection occurs outside the mobile app. No action is required for this item.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Using our online chat functionality may also mean that we collect information on your country and IP address. This information will not be used for any purpose other than to enhance the functionality the website.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy explicitly states the data is collected to 'enhance the functionality the website', confirming the collection source is not the mobile app.",
+      "how_to_fix": "This data type does not need to be declared as 'collected' in the app's Data Safety section because the collection occurs outside the mobile app. No action is required for this item.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "You can give us the information by filling the request form at Amber, over call, email or at various offline promotional events. The informational you give us may include your name, phone number, email id. For booking your accommodation at Amber you may need to give further personal information (ex. Birth date, country of origin, guarantor's details, University name etc) on call or email or other messaging services as necessary",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy describes data collection via 'request form at Amber, over call, email or at various offline promotional events', which are methods outside of the mobile app.",
+      "how_to_fix": "This data type does not need to be declared as 'collected' in the app's Data Safety section because the collection occurs outside the mobile app. No action is required for this item.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "You can give us the information by filling the request form at Amber, over call, email or at various offline promotional events. The informational you give us may include your name, phone number, email id. For booking your accommodation at Amber you may need to give further personal information (ex. Birth date, country of origin, guarantor's details, University name etc) on call or email or other messaging services as necessary",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy describes data collection via 'request form at Amber, over call, email or at various offline promotional events', which are methods outside of the mobile app.",
+      "how_to_fix": "This data type does not need to be declared as 'collected' in the app's Data Safety section because the collection occurs outside the mobile app. No action is required for this item.",
+      "lang": "en"
+    }
+  ]
+}
+```

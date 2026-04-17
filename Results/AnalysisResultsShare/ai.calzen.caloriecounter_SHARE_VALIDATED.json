@@ -1,0 +1,71 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may receive information about you from third-party analytics providers, such as Amplitude, Firebase, Appsflyer, Facebook SDK, and Apphud. This information may include usage details, geographic location, and demographic information.",
+      "justification": "The privacy policy states that information, including geographic location, is shared with third-party analytics providers like Amplitude, Firebase, Appsflyer, and Facebook SDK. This is not explicitly defined as a service provider relationship (e.g., 'on our behalf'), so it must be declared as sharing.",
+      "how_to_fix": "Declare in the 'Data safety' section of the Play Console that 'Approximate location' is shared with third parties for 'Analytics'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We use the OpenAI GPT API to enhance the features within the app. This means that the food photos, calorie tracking requests, and nutritional queries you input into the app may be processed by the GPT API to provide you with accurate calorie, macro, and health score calculations.",
+      "reason_of_removal": "Exempt - Service Provider",
+      "justification": "The policy indicates OpenAI's API is used to provide core app functionality (calorie calculations) on the developer's behalf. This qualifies as a service provider, which is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This is a valid service provider exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may use third-party companies and individuals to facilitate our service (e.g., maintenance services, database management, web analytics, and payment processing), or to assist us in analyzing how our service is used. These third parties may have access to your Personal Information but only to perform these tasks on our behalf.",
+      "reason_of_removal": "Exempt - Service Provider",
+      "justification": "The policy explicitly states that third parties 'perform these tasks on our behalf,' which directly meets the criteria for the service provider exemption.",
+      "how_to_fix": "No action needed. This is a valid service provider exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "We use the OpenAI GPT API to enhance the features within the app. This means that the food photos, calorie tracking requests, and nutritional queries you input into the app may be processed by the GPT API to provide you with accurate calorie, macro, and health score calculations.",
+      "reason_of_removal": "Exempt - Service Provider",
+      "justification": "The policy indicates OpenAI's API is used to provide core app functionality (health score calculations) on the developer's behalf. This qualifies as a service provider, which is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This is a valid service provider exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "We use the OpenAI GPT API to enhance the features within the app. This means that the food photos, calorie tracking requests, and nutritional queries you input into the app may be processed by the GPT API to provide you with accurate calorie, macro, and health score calculations.",
+      "reason_of_removal": "Exempt - Service Provider",
+      "justification": "The policy indicates OpenAI's API is used to provide core app functionality (macro calculations) on the developer's behalf. This qualifies as a service provider, which is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This is a valid service provider exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may receive information about you from third-party analytics providers, such as Amplitude, Firebase, Appsflyer, Facebook SDK, and Apphud. This information may include usage details, geographic location, and demographic information.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference to 'geographic location' from analytics providers does not substantiate the sharing of 'Precise location' (e.g., GPS data). The data type is inconsistent with the evidence.",
+      "how_to_fix": "No action needed as the policy does not indicate this data is shared. If the app does share precise location, the policy must be updated to reflect this.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We use the OpenAI GPT API to enhance the features within the app. This means that the food photos, calorie tracking requests, and nutritional queries you input into the app may be processed by the GPT API to provide you with accurate calorie, macro, and health score calculations.",
+      "reason_of_removal": "Exempt - Service Provider",
+      "justification": "The policy indicates 'nutritional queries' are processed by OpenAI's API to provide core app functionality on the developer's behalf. This qualifies as a service provider, which is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This is a valid service provider exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We use the OpenAI GPT API to enhance the features within the app. This means that the food photos, calorie tracking requests, and nutritional queries you input into the app may be processed by the GPT API to provide you with accurate calorie, macro, and health score calculations.",
+      "reason_of_removal": "Exempt - Service Provider",
+      "justification": "The policy indicates 'food photos' are processed by OpenAI's API to provide core app functionality on the developer's behalf. This qualifies as a service provider, which is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This is a valid service provider exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

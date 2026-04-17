@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "With Partner Restaurants/Merchant: While you place a request to order food through the EatSure Platform, your information is provided to us and to the restaurants/merchants with whom you may choose to order. In order to facilitate your online food order processing, we provide your information to that restaurant/merchant in a similar manner as if you had made a food order directly with the restaurant. If you provide a mobile phone number, EatSure may send you text messages regarding the order's delivery status.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may also allow third parties to provide audience measurement and analytics services for us, to serve advertisements on our behalf across the Internet, and to track and report on the performance of those advertisements. These entities may use cookies, web beacons, SDKs and other technologies to identify your device when you visit the EatSure Platform and use our Services, as well as when you visit other online sites and services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "With Partner Restaurants/Merchant: While you place a request to order food through the EatSure Platform, your information is provided to us and to the restaurants/merchants with whom you may choose to order. In order to facilitate your online food order processing, we provide your information to that restaurant/merchant in a similar manner as if you had made a food order directly with the restaurant. If you provide a mobile phone number, EatSure may send you text messages regarding the order's delivery status.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Create or update your EatSure account, which may include your name, email, phone number, login name and password, address, payment or banking information, date of birth and profile picture. If you sign in to the EatSure Platform through third-party sign-in services such as Facebook, Google Plus or Gmail or any other social networking or similar site (collectively, “SNS”), an option of which may be provided to you by EatSure at its sole discretion, you will be allowing us to pass through and receive from the SNS your log-in information and other user data; or",
+      "lang": "English"
+    }
+  ]
+}

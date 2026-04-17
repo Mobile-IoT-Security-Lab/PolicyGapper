@@ -1,0 +1,9 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "When a user sign In Astroyogi, we keep a record of their communication with Astrologers to help they reach most relevant Astrologers who can provide consultation for specific issues or concerns. We may use user's email address to inform them about our services, such as letting them know about upcoming changes or improvements.",
+"lang": "en"
+}
+]
+}

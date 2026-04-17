@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "SMS or MMS",
+"policy_reference": "This policy applies to information we collect:\n•\n•\n•\nOn this Website.\nIn email, text, and other electronic messages between you and this Website.\n• Through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based\ninteraction between you and this Website.\nWhen you interact with our advertising and applications on third-party websites and services, if those applications or advertising\ninclude links to this policy.",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "This policy applies to information we collect:\n•\n•\n•\nOn this Website.\nIn email, text, and other electronic messages between you and this Website.\n• Through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based\ninteraction between you and this Website.\nWhen you interact with our advertising and applications on third-party websites and services, if those applications or advertising\ninclude links to this policy.",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use\nour Website, subscribing to our service, uploading or posting material, or requesting further services. We may also ask you for\ninformation when you report a problem with our Website.",
+"lang": "en"
+}
+]
+}

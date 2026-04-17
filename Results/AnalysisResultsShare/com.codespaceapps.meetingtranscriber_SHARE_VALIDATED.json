@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Company may also transfer your personal data to services providers of our Company, third parties such as Facebook SDK, Adjust and Firebase Analytics which are embedded into our service for the following purposes:\n• Sharing identity, communication and transaction security information with authorized public institutions and organizations for the purpose of execution of activities in compliance with legislation, monitor and execution of legal affairs, informing authorized persons, institutions and organizations.\n• Sharing identity and contact information to manage after-sales support services, conduct business activities and manage customer relationship management processes.",
+      "reason_of_removal": "Service Provider / Legal Purposes Exemption",
+      "justification": "The policy states data is transferred to 'services providers of our Company' (e.g., Facebook SDK, Adjust, Firebase Analytics) for app-related purposes and to 'authorized public institutions' for legal compliance.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure under the service provider and legal purposes clauses of the Google Play User Data Policy. No action is required in the Data Safety form for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Company may also transfer your personal data to services providers of our Company, third parties such as Facebook SDK, Adjust and Firebase Analytics which are embedded into our service for the following purposes:\n• Sharing identity, communication and transaction security information with authorized public institutions and organizations for the purpose of execution of activities in compliance with legislation, monitor and execution of legal affairs, informing authorized persons, institutions and organizations.\n• Sharing identity and contact information to manage after-sales support services, conduct business activities and manage customer relationship management processes.",
+      "reason_of_removal": "Service Provider / Legal Purposes Exemption",
+      "justification": "The policy states data is transferred to 'services providers of our Company' (e.g., Facebook SDK, Adjust, Firebase Analytics) for app-related purposes and to 'authorized public institutions' for legal compliance.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure under the service provider and legal purposes clauses of the Google Play User Data Policy. No action is required in the Data Safety form for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Company may also transfer your personal data to services providers of our Company, third parties such as Facebook SDK, Adjust and Firebase Analytics which are embedded into our service for the following purposes:\n• Sharing identity, communication and transaction security information with authorized public institutions and organizations for the purpose of execution of activities in compliance with legislation, monitor and execution of legal affairs, informing authorized persons, institutions and organizations.\n• Sharing identity and contact information to manage after-sales support services, conduct business activities and manage customer relationship management processes.",
+      "reason_of_removal": "Service Provider / Legal Purposes Exemption",
+      "justification": "The policy states data is transferred to 'services providers of our Company' (e.g., Facebook SDK, Adjust, Firebase Analytics) for app-related purposes and to 'authorized public institutions' for legal compliance.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure under the service provider and legal purposes clauses of the Google Play User Data Policy. No action is required in the Data Safety form for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Company may also transfer your personal data to services providers of our Company, third parties such as Facebook SDK, Adjust and Firebase Analytics which are embedded into our service for the following purposes:\n• Sharing identity, communication and transaction security information with authorized public institutions and organizations for the purpose of execution of activities in compliance with legislation, monitor and execution of legal affairs, informing authorized persons, institutions and organizations.\n• Sharing identity and contact information to manage after-sales support services, conduct business activities and manage customer relationship management processes.",
+      "reason_of_removal": "Service Provider / Legal Purposes Exemption",
+      "justification": "The policy states data is transferred to 'services providers of our Company' (e.g., Facebook SDK, Adjust, Firebase Analytics) for app-related purposes and to 'authorized public institutions' for legal compliance.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure under the service provider and legal purposes clauses of the Google Play User Data Policy. No action is required in the Data Safety form for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Company may also transfer your personal data to services providers of our Company, third parties such as Facebook SDK, Adjust and Firebase Analytics which are embedded into our service for the following purposes:\n• Sharing identity, communication and transaction security information with authorized public institutions and organizations for the purpose of execution of activities in compliance with legislation, monitor and execution of legal affairs, informing authorized persons, institutions and organizations.\n• Sharing identity and contact information to manage after-sales support services, conduct business activities and manage customer relationship management processes.",
+      "reason_of_removal": "Service Provider / Legal Purposes Exemption",
+      "justification": "The policy states data is transferred to 'services providers of our Company' (e.g., Facebook SDK, Adjust, Firebase Analytics) for app-related purposes and to 'authorized public institutions' for legal compliance.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure under the service provider and legal purposes clauses of the Google Play User Data Policy. No action is required in the Data Safety form for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Company may also transfer your personal data to services providers of our Company, third parties such as Facebook SDK, Adjust and Firebase Analytics which are embedded into our service for the following purposes:\n• Sharing identity, communication and transaction security information with authorized public institutions and organizations for the purpose of execution of activities in compliance with legislation, monitor and execution of legal affairs, informing authorized persons, institutions and organizations.\n• Sharing identity and contact information to manage after-sales support services, conduct business activities and manage customer relationship management processes.",
+      "reason_of_removal": "Service Provider / Legal Purposes Exemption",
+      "justification": "The policy states data is transferred to 'services providers of our Company' (e.g., Facebook SDK, Adjust, Firebase Analytics) for app-related purposes and to 'authorized public institutions' for legal compliance.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure under the service provider and legal purposes clauses of the Google Play User Data Policy. No action is required in the Data Safety form for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Company may also transfer your personal data to services providers of our Company, third parties such as Facebook SDK, Adjust and Firebase Analytics which are embedded into our service for the following purposes:\n• Sharing identity, communication and transaction security information with authorized public institutions and organizations for the purpose of execution of activities in compliance with legislation, monitor and execution of legal affairs, informing authorized persons, institutions and organizations.\n• Sharing identity and contact information to manage after-sales support services, conduct business activities and manage customer relationship management processes.",
+      "reason_of_removal": "Service Provider / Legal Purposes Exemption",
+      "justification": "The policy states data is transferred to 'services providers of our Company' (e.g., Facebook SDK, Adjust, Firebase Analytics) for app-related purposes and to 'authorized public institutions' for legal compliance.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure under the service provider and legal purposes clauses of the Google Play User Data Policy. No action is required in the Data Safety form for this specific transfer.",
+      "lang": "English"
+    }
+  ]
+}
+```

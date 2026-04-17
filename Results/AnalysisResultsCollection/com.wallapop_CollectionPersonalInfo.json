@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "• Collected data: name, surname, first name, ID number, passport, VAT information, postal address, date and place of birth, bank card details, bank account details, country of residence.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Additionally, if you give us your consent, Wallapop will also process the location of your device to inform you of the items that are closest to you, thus allowing you to enjoy our services in a complete way.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "When you purchase services or physical goods from us, you may provide us information like your shipping address or delivery instructions. We use this information for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase.",
+      "justification": "The privacy policy states that this data is collected for purchases, which can occur within the app.",
+      "how_to_fix": "Declare 'Address' as a collected data type in the app's Data Safety section in Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "For example, if you add a credit card or other payment method to your Google Account, you can use it to buy things across our services, like apps in the Play Store. We may also ask for other information, like a business tax ID, to help process your payment. In some cases, we may also need to verify your identity and may ask you for information to do this.",
+      "justification": "The privacy policy states that payment information is collected to process payments for services, which can be initiated from the app.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in the app's Data Safety section in Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+      "justification": "The privacy policy states that email content is collected when using the developer's services. If the app has email functionality, this applies.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in the app's Data Safety section in Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "•\nVoice and audio information\n•\nPurchase activity\n•\nPeople with whom you communicate or share content\n•\nActivity on third-party sites and apps that use our services\n•\nChrome browsing history you've synced with your Google Account",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy describes data collection from sources outside the specific mobile app, such as 'third-party sites and apps' and 'Chrome browsing history'.",
+      "how_to_fix": "No action required as this data collection appears to be exempt from declaration for this specific app.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Your Chrome browsing history is only saved to your account if you've enabled Chrome synchronization with your Google Account. Learn more",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy explicitly states this data is collected via the Chrome synchronization service, which is a separate service/app, not necessarily the app under review.",
+      "how_to_fix": "No action required as this data collection appears to be exempt from declaration for this specific app.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:\n\n•\nTerms you search for\n•\nVideos you watch\n•\nViews and interactions with content and ads\n•\nVoice and audio information\n•\nPurchase activity\n•\nPeople with whom you communicate or share content\n•\nActivity on third-party sites and apps that use our services\n•\nChrome browsing history you've synced with your Google Account",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy describes data collection from sources outside the specific mobile app, such as 'third-party sites and apps' and 'Chrome browsing history'.",
+      "how_to_fix": "No action required as this data collection appears to be exempt from declaration for this specific app.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states this data is collected from other specific apps and devices (Fitbit, Pixel Watch, Google Fit), which are sources other than the mobile application under review.",
+      "how_to_fix": "No action required as this data collection appears to be exempt from declaration for this specific app.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states this data is collected from other specific apps and devices (Fitbit, Pixel Watch, Google Fit), which are sources other than the mobile application under review.",
+      "how_to_fix": "No action required as this data collection appears to be exempt from declaration for this specific app.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "For example, if you watch videos about baking on YouTube, you may see more ads that relate to baking as you browse the web. We also may use your IP address to determine your approximate location, so that we can serve you ads for a nearby pizza delivery service if you search for “pizza.\" Learn more about Google ads and why you may see particular ads.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy reference explicitly mentions 'as you browse the web' as the context for this data collection, indicating it occurs outside of a specific mobile app.",
+      "how_to_fix": "No action required as this data collection appears to be exempt from declaration for this specific app.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "When you're signed in to your Google Account and search on Google, you can see search results from the public web, along with relevant information from the content you have in other Google products, like Gmail or Google Calendar. This can include things like the status of your upcoming flights, restaurant, and hotel reservations, or your photos. Learn more",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy describes using data that was collected by other Google products (e.g., Google Calendar), not necessarily collected by the app under review.",
+      "how_to_fix": "No action required as this data collection appears to be exempt from declaration for this specific app.",
+      "lang": "en"
+    }
+  ]
+}
+```

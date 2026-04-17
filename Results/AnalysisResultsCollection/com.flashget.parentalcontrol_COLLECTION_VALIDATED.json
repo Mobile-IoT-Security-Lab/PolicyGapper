@@ -1,0 +1,115 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "3 \"Tap\" behaviour information when you use and operate FlashGet (e.g. the behaviour of tapping \"File Transferring\" button, \"Apps\", \"Backup\" button, etc.) | • Develop new Services • Improve our Services • Statistical analysis",
+      "justification": "The privacy policy states that the app collects information about user tap behavior and interactions for service improvement and statistical analysis. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'App interactions' in the 'App activity' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "6 Information when you communicate with us whether in person, through our websites, via email, through other feedback channels provided by us, including: • Your contact details (this may include your social media account if that is the way you communicate with us) • The details of your communications with us • Log files you submitted from within FlashGet for product support | • Answer any issues or concerns • Monitor customer communications for quality improvement and training purposes • Develop new services • Improve our Services • Personalise our Services • Troubleshoot",
+      "justification": "The policy mentions that users can submit 'Log files... from within FlashGet for product support'. This data is sent off-device for troubleshooting and is not exempt.",
+      "how_to_fix": "Declare 'Crash logs' in the 'App info and performance' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "6 Information when you communicate with us whether in person, through our websites, via email, through other feedback channels provided by us, including: • Your contact details (this may include your social media account if that is the way you communicate with us) • The details of your communications with us • Log files you submitted from within FlashGet for product support | • Answer any issues or concerns • Monitor customer communications for quality improvement and training purposes • Develop new services • Improve our Services • Personalise our Services • Troubleshoot",
+      "justification": "The policy states that 'Log files' are submitted by the user for product support and troubleshooting. This constitutes diagnostic data sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Diagnostics' in the 'App info and performance' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "2 When you access and use our Services, we will collect: • IP address • Your account settings • Your account preferences • Device information, such as your IMEI, IMSI, MAC, Android ID, operating system version, system language, CPU model, memory, hard disk and its usage, etc. | • Provision of Services • Identify issues with our Services • Improve our Services",
+      "justification": "The policy explicitly lists the collection of various device and performance information (IP address, IMEI, OS version, etc.) to provide and improve services. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Other app performance data' in the 'App info and performance' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "justification": "The policy states that 'Your full name' is collected during account setup for business users. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Name' in the 'Personal info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "justification": "The policy clearly states that 'Your email address' is collected during the account setup process. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Email address' in the 'Personal info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "justification": "The policy states that a 'username' is collected during account setup, which serves as a user ID. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'User IDs' in the 'Personal info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "justification": "The policy states that 'Your company address' is collected for business users during account setup. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Address' in the 'Personal info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "justification": "The policy states that a 'phone number' is collected for business users during account setup. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Phone number' in the 'Personal info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "5 Information on transaction, e.g. when you purchase our Services | • Complete the transaction • Store as transaction history for future reference",
+      "justification": "The policy mentions collecting 'Information on transaction' when users purchase services, which implies the collection of payment information. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'User payment info' in the 'Financial info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "5 Information on transaction, e.g. when you purchase our Services | • Complete the transaction • Store as transaction history for future reference",
+      "justification": "The policy explicitly states that transaction information is stored as 'transaction history for future reference'. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Purchase history' in the 'Financial info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "justification": "The policy states that 'IP address' is collected. IP address can be used to determine a user's approximate location. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Approximate location' in the 'Location' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "| 6 Information when you communicate with us whether in person, through our websites, via email, through other feedback channels provided by us, including: • Your contact details (this may include your social media account if that is the way you communicate with us) • The details of your communications with us • Log files you submitted from within FlashGet for product support | • Answer any issues or concerns • Monitor customer communications for quality improvement and training purposes • Develop new services • Improve our Services • Personalise our Services • Troubleshoot |",
+      "justification": "The policy states that users can submit 'Log files... from within FlashGet for product support'. These files are collected by the app and sent off-device. This is not exempt.",
+      "how_to_fix": "Declare 'Files and docs' in the 'Files and docs' section of the Data Safety form.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "| 1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience |",
+      "reason_of_removal": "Inconsistent: The policy reference mentions collecting the user's 'email address' for account setup, not the content of their 'Emails'.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "| 6 Information when you communicate with us whether in person, through our websites, via email, through other feedback channels provided by us, including: • Your contact details (this may include your social media account if that is the way you communicate with us) • The details of your communications with us • Log files you submitted from within FlashGet for product support | • Answer any issues or concerns • Monitor customer communications for quality improvement and training purposes • Develop new services • Improve our Services • Personalise our Services • Troubleshoot |",
+      "reason_of_removal": "Exempt (Websites collection): The policy states this data is collected when users communicate via various channels, including 'through our websites, via email', which are outside the mobile app.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "en"
+    }
+  ]
+}
+```

@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Link to the privacy policy of third-party service providers used by the app\n■ Google Play Services\n■ AdMob\n■ Google Analytics for Firebase\n■ Firebase Crashlytics\n■ Other Open ID Provider",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Link to the privacy policy of third-party service providers used by the app\n■ Google Play Services\n■ AdMob\n■ Google Analytics for Firebase\n■ Firebase Crashlytics\n■ Other Open ID Provider",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Link to the privacy policy of third-party service providers used by the app\n■ Google Play Services\n■ AdMob\n■ Google Analytics for Firebase\n■ Firebase Crashlytics\n■ Other Open ID Provider",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "lang": "English"
+    }
+  ]
+}

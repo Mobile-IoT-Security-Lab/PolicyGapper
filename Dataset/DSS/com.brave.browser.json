@@ -1,0 +1,11 @@
+{
+  "sharedData": [],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Independent security review",
+      "description": "This app has been independently validated against a global security standard. <a href=\"https://appdefensealliance.dev/masa\" target=\"_blank\">See details</a>"
+    }
+  ],
+  "privacyPolicyUrl": "https://brave.com/privacy/"
+}

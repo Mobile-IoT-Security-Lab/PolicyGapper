@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "In the past 12 months, we have disclosed the following categories of personal information for business purposes:\n•\n•\n•\n•\nIdentifiers (e.g., name, email, IP address).\nCommercial information (e.g., interactions with our app).\nInternet activity (e.g., usage data).\nGeolocation data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "In the past 12 months, we have disclosed the following categories of personal information for business purposes:\n•\n•\n•\n•\nIdentifiers (e.g., name, email, IP address).\nCommercial information (e.g., interactions with our app).\nInternet activity (e.g., usage data).\nGeolocation data.",
+      "lang": "English"
+    }
+  ]
+}

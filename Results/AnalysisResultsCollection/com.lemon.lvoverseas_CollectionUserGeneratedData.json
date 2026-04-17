@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "Information When You Contact Us. When you contact us, we collect the information you send us, such as proof of identity or age, feedback or inquiries about your use of the Services or information about possible violations of our Terms of Service, Community Guidelines, or other policies.",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "Your Email Contacts. Where available, if you are a registered user on our website and you choose to sign-up or log-in to the Services using Google and expressly agree to synchronize your Google contacts, we will collect the Gmail addresses of your contacts.",
+"lang": "en"
+}
+]
+}

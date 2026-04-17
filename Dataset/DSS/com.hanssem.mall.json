@@ -1,0 +1,82 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Web browsing history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Photos",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "In-app search history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "Financial info"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "http://mall.hanssem.com/customer/customerPrivacy.do"
+}

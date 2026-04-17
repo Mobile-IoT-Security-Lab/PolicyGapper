@@ -1,0 +1,24 @@
+Our products (“service”, "we," "us," or "our") collects information from you and
+your device in order to provide better service and a better user experience. Your
+privacy is a top priority to us, and this Privacy Policy explains how we collect,
+use, and protect your information.
+---
+What information we use and how we use it:
+We may collect and use only non-personal information to have a better understanding in user's
+behaviour, to solve problems in products and services, to improve our products, services and
+advertising, the information such as the date of install, click of app, frequency of use, country,
+equipment and channel, etc, we make these data NOT direct association with any specific individual.
+---
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+However, Non-personal information collected may be used only to identify potential cases of abuse.
+---
+Third Party SDKs or tools used in our apps:
+We may, at any point in time, use one or more third party SDKs, tools or softwares from trusted
+sources in our applications for any of (but not limited to) the below reasons -
+1. Capturing Analytics, data & information to further improve our apps & services
+2. Enable monetization through advertising or subscriptions
+3. Enable in-app messaging, notifications to users
+4. Host data & content to display within the app
+Some of the commonly used third party tools in the app are Google AdMob, Facebook Audience
+Network, One Signal, Firebase, Crashlytics and Google Play Services. We may at any time add or
+remove any of the new or existing third party softwares.

@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you get in touch with us for any reason, you will do so by e-mail or via an in-app feedback form. During that process, we will collect your name and e-mail address as well as the contents of your e-mail, so that we can review it and where needed reply.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We might also use the information we collect for statistical purposes and for generating special reports (for example, to detect any possible technical problems or monitor performance). Any analysis is done anonymously in a way that individual users cannot be tracked or traced.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We might also use the information we collect for statistical purposes and for generating special reports (for example, to detect any possible technical problems or monitor performance). Any analysis is done anonymously in a way that individual users cannot be tracked or traced.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "The Aloha Browser has a built-in function for web searches which allows you to customize the search engine used in the browser address bar (Google, Bing, DuckDuckGo, Yahoo, YouTube, Wikipedia, Aloha Find, and more) to perform the search. You can always change your default provider in the settings menu. The amount of information which is processed is your IP and the search query which is transmitted to the search engine of your choice with an HTTP request. Just like any other third-party website you might access, use of any search engine is subject to the terms of service and privacy policy offered by the specific search engine provider. For information on the web search services data collection, please visit the search provider's privacy policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "If you get in touch with us for any reason, you will do so by e-mail or via an in-app feedback form. During that process, we will collect your name and e-mail address as well as the contents of your e-mail, so that we can review it and where needed reply.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "If you get in touch with us for any reason, you will do so by e-mail or via an in-app feedback form. During that process, we will collect your name and e-mail address as well as the contents of your e-mail, so that we can review it and where needed reply.",
+      "lang": "en"
+    }
+  ]
+}

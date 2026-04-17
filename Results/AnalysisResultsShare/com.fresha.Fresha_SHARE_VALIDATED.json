@@ -1,0 +1,44 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We use this contact and marketing preference information to\n• send you offers, updates, promotions, newsletter(s), insights and other marketing material.\n•\n•\nsend you with a personalised marketing, including offers, features, services, products and Partners we\nthink you may be interested in.\nworking with digital advertising partners.\n• if you work for a company we are interested in partnering with, we may contact you about our\nServices and opportunities with Fresha.\n•\ncontact you to ask for feedback, including through surveys and other marketing research.\n• details in accordance with our Cookie Notice.",
+      "justification": "The privacy policy states data is used for 'working with digital advertising partners' for personalized marketing. This is a non-exempt form of data sharing with third parties for advertising purposes.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Name' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We use this contact and marketing preference information to\n• send you offers, updates, promotions, newsletter(s), insights and other marketing material.\n•\n•\nsend you with a personalised marketing, including offers, features, services, products and Partners we\nthink you may be interested in.\nworking with digital advertising partners.\n• if you work for a company we are interested in partnering with, we may contact you about our\nServices and opportunities with Fresha.\n•\ncontact you to ask for feedback, including through surveys and other marketing research.\n• details in accordance with our Cookie Notice.",
+      "justification": "The privacy policy states data is used for 'working with digital advertising partners' for personalized marketing. This is a non-exempt form of data sharing with third parties for advertising purposes.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Email address' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Location data includes country location (based on your full or partial IP address and/or Google\nAnalytics information) which we use to provide location services (if you ask or permit us to), so\nthat we can deliver content, advertising or other services that are dependent on knowing where\nyou are, like checking for fraudulent transactions.",
+      "justification": "The policy states that location data is used to 'deliver content, advertising or other services'. Sharing data with third parties for advertising is not an exempt practice.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Approximate location' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We may also share your information with:\n•\n•\n•\nany member of our company group, which means our ultimate holding company and its subsidiaries,\nand/or our subsidiaries who may support our processing of personal data under this Notice.\nour service providers, organisations who process your personal data on our behalf and in accordance\nwith our instructions and the data protection law.\n• This includes supporting the services we offer through the Site, in particular those providing\nwebsite and data hosting services, distributing communications we send, supporting or\nupdating marketing lists, customer support, facilitating feedback on our services, digital\ninvoicing and payment processing providers who provide secure payment processing services,\nand providing IT support services from time to time.\n• These organisations (which may include third party suppliers, agents, sub-contractors and/or\nother companies in our group) will only use your information to the extent necessary to perform\ntheir support functions.\nin certain circumstances, our digital marketing partners.\n• if you create a Partner Account with us by using a Referral Link the Partner who the Referral Link\nrelates to may view the progression of your Partner Account\n• if we run surveys, competitions, promotional campaigns, offers or other occasional activities and\nyou opt-in, we may share certain information with our commercial partners (for example, if you chose\nto enter into a prize draw we run with a third party). We will provide more detailed privacy information\nat the time.\n•\nour auditors, legal advisers and other professional advisers;\n• if we sell or buy any business or assets, in which case we will disclose your personal data to the\nprospective seller or buyer.\n•\nany person to whom disclosure is necessary to enable us to protect our rights, property, or safety,\nour clients, or other third parties, and to enforce our rights under this Notice or under any\nagreement (for example, our Terms of Use and Terms of Service) with you. This includes exchanging\ninformation with other companies and organisations for the purposes of detecting and preventing\nfraud and cyber-crime.if required to do so by court order or if we are under a duty to disclose your\ninformation in order to comply with (and/or where we believe we are under a duty to comply with) any\nlegal obligation. This includes exchanging information with law enforcement agencies, regulators, or\nother similar government bodies.",
+      "justification": "The policy explicitly states information may be shared with non-exempt third parties, such as 'digital marketing partners' and a 'prospective seller or buyer' of the business. These activities require a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Emails' are 'Shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you leave a public review for a Partner (or any of their products in their shop on our Services), your rating, review, review date, and first name and last initial will be published on Fresha. Other Fresha users and members of the public may be able to see your reviews. Reviews may be published or syndicated on third party websites. Public reviews will survive the termination or expiry of the Fresha Terms of service.",
+      "reason_of_removal": "Exempted from sharing disclosure (User-initiated action).",
+      "justification": "The policy describes the user voluntarily publishing a review for public visibility. This is a user-initiated action where the user reasonably expects the data to be shared, which is exempt from the 'sharing' disclosure requirement.",
+      "how_to_fix": "No action required. This sharing practice does not need to be declared as 'Shared' in the Data Safety form because it falls under the user-initiated action exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We collect information about your use of our Services, such as the pages you view, the searches you make, the ads you see, the posts you make, the communications you send and receive, and the time, frequency, and duration of your visits.",
+      "justification": "The privacy policy states the collection of 'the posts you make, the communications you send and receive', which is classified as 'Other user-generated content'.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We collect information about your use of our Services, such as the pages you view, the searches you make, the ads you see, the posts you make, the communications you send and receive, and the time, frequency, and duration of your visits.",
+      "justification": "The privacy policy states the collection of user activities like 'the pages you view, the searches you make, the ads you see... and the time, frequency, and duration of your visits', which corresponds to the 'Other actions' data type.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may also collect information about your online activities on other websites or services, such as the websites you visit before and after you visit our Services. We may use this information to personalize your experience and to show you more relevant ads.",
+      "justification": "The privacy policy explicitly states the collection of 'information about your online activities on other websites or services, such as the websites you visit before and after you visit our Services'.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may also collect information about your device, such as your IP address, browser type, operating system, and referring URLs. We may use this information to diagnose and troubleshoot problems with our Services, to prevent fraud, and to improve the security of our Services.",
+      "justification": "The privacy policy states that device information like 'IP address, browser type, operating system' is collected to 'diagnose and troubleshoot problems with our Services', which falls under the 'Diagnostics' data type.",
+      "how_to_fix": "Declare 'Diagnostics' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Depending on the choices you make when logging in to our Services or during the process of engaging our Services, you may opt to give the following additional personal data: Your name, address, phone number and email address; Your age and/or date of birth; Your gender; Your photograph, ‘avatar’ or other image; Your interests and preferences; Your location; Your social media accounts.",
+      "justification": "The privacy policy lists the collection of data such as 'Your interests and preferences' and 'Your social media accounts', which are examples of 'Other info'.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number), and the security code associated with your payment instrument. All payment data is stored by our payment processor and you should review its privacy policies and contact the payment processor directly to respond to your questions.",
+      "justification": "The privacy policy states the collection of 'payment instrument number (such as a credit card number), and the security code associated with your payment instrument' for payment processing.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may also collect information about your subscriptions with us, the ads you have posted and/or promoted, and the services you have purchased from us.",
+      "justification": "The privacy policy mentions collecting 'information about your subscriptions with us... and the services you have purchased from us', which constitutes 'Purchase history'.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We automatically collect certain information when you visit, use or navigate our Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.",
+      "justification": "The privacy policy states the automatic collection of 'country, location' and 'IP address', which are used to determine a user's approximate location.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

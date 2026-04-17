@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "This means that when you use our services, we have no way to create a history of your search queries or the sites you browse. For example, we may know that we got a lot of searches for \"cute cat pictures\" today, but we don't know who actually performed those searches. That is, viewing search results on DuckDuckGo is anonymous. And we only save these anonymous search queries – completely disconnected from any unique identifiers like IP addresses — for just enough time to analyze anonymous trends like popular searches, so that we can better serve you. For local search results in particular, we've further engineered a solution to shield your precise location from us and our content providers that sends us a random location nearish to you, which we also never log to disk.",
+      "lang": "English"
+    }
+  ]
+}

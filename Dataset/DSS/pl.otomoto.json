@@ -1,0 +1,112 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Files and docs",
+      "optional": 1,
+      "purpose": "Account management",
+      "type": "Files and docs"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Messages"
+    },
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": 0,
+      "purpose": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Financial info"
+    },
+    {
+      "data": "Other financial info",
+      "optional": 0,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Photos",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://pomoc.otomoto.pl/otomotohelpcenter/s/article/polityka-prywatnosci"
+}

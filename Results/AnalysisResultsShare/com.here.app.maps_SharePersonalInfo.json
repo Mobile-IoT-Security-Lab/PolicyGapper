@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "When you book a ride with your chosen Transport Provider, we provide the relevant Transport Provider with the following information: your name, phone number, pick-up and drop-off locations, pick up time, and any additional information that you chose to provide us with.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you book a ride with your chosen Transport Provider, we provide the relevant Transport Provider with the following information: your name, phone number, pick-up and drop-off locations, pick up time, and any additional information that you chose to provide us with.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "When you book a ride with your chosen Transport Provider, we provide the relevant Transport Provider with the following information: your name, phone number, pick-up and drop-off locations, pick up time, and any additional information that you chose to provide us with.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "When you book a ride with your chosen Transport Provider, we provide the relevant Transport Provider with the following information: your name, phone number, pick-up and drop-off locations, pick up time, and any additional information that you chose to provide us with.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "The Service may also include behaviorally profiled advertisements. For the purposes of providing relevant advertisements to you, we may share your device specific advertising ID to advertising networks.",
+      "lang": "English"
+    }
+  ]
+}

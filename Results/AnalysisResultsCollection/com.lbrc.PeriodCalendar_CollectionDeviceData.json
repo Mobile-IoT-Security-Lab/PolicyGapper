@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "By default, your User Data will only be stored locally on the device from which you access the App. We cannot access your User Data if it is only stored on your device. If you so choose, you may elect to have up back-up your User Data, in which case we will upload it to Google Cloud. The Data Processing and Security Terms for Google Cloud may be reviewed at https://cloud.google.com/terms/data-processing-terms.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We may collect and share your device ID and crash log data with third-party services for analytics and advertising purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may collect and share your device ID and crash log data with third-party services for analytics and advertising purposes.",
+      "lang": "English"
+    }
+  ]
+}

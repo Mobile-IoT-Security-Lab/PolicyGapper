@@ -1,0 +1,14 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Apphud\nApphud is a subscription management service. We use it to collect the information about the in-app purchases and subscriptions.\nPrivacy policy: https://legal.apphud.com/privacy.",
+      "justification": "The policy explicitly states the app uses the Apphud service to 'collect the information about the in-app purchases and subscriptions.' This data is sent off-device to a third party, which constitutes collection under Google Play's policy. It does not qualify for any exemptions.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in your app's Data Safety section in the Google Play Console. You must also disclose that this data is shared with a third party (Apphud).",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

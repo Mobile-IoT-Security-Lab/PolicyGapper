@@ -1,0 +1,46 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Health info",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Health and fitness"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "Messages"
+    },
+    {
+      "data": "Other info",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Photos",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://calzen.ai/privacy"
+}

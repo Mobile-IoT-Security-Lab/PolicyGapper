@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "When you decide to pair a Device, we will process its MAC-address. The MAC-address is required to support remote control and connectivity, and we may use it for troubleshooting and device analytics.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "When you decide to pair a Device, we will process its MAC-address. The MAC-address is required to support remote control and connectivity, and we may use it for troubleshooting and device analytics.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We collect your personal data when you create an account.\nThe personal data we collect may include your name, email address, shipping address, country, language. We also process information on your App usage, including your session, login and authentication information, which we use to manage your account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "If you log in via social media, the personal data we collect may include your basic public profile (e.g., full/short name, profile photo, identifier, gender, profile URL, birthday, homepage, and location) and your email address, which we use for authentication purposes. In this case, your social media provider may collect information on the fact that you are using the App and logging in using your social media account. Please read your social media provider's Privacy Notice (e.g., Facebook, Google, Apple) to learn about their privacy practices, including, what type of personal data they collect, and how they use, process and protect them.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Weather and Air Quality information. When enabling this permission, the App shares your geo-location data (based on GPS, latitude and longitude) with a third party to provide you with a location map with air quality information in the Homepage of the App. This third party is AirMatters.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Weather and Air Quality information. When enabling this permission, the App shares your geo-location data (based on GPS, latitude and longitude) with a third party to provide you with a location map with air quality information in the Homepage of the App. This third party is AirMatters.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "The App may request your permission to access your mobile device's storage capabilities, sensors or other features (e.g. photos, agenda, contacts, camera, Wi-Fi, geo-location, or Bluetooth). We require access when strictly necessary to provide the Services as detailed below.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "The App may request your permission to access your mobile device's storage capabilities, sensors or other features (e.g. photos, agenda, contacts, camera, Wi-Fi, geo-location, or Bluetooth). We require access when strictly necessary to provide the Services as detailed below.",
+      "lang": "en"
+    }
+  ]
+}

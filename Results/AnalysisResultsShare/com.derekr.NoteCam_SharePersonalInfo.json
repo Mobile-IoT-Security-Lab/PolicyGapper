@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "The App uses third-party services, Google AdMob, to display advertisements. These services may collect:\n•\nDevice information (e.g., model, OS version)\n•\n•\nAdvertising ID (e.g., Google Advertising ID)\n•\nUsage data (e.g., ad impressions, interactions)",
+      "lang": "English"
+    }
+  ]
+}

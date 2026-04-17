@@ -1,0 +1,95 @@
+{
+  "sharedData": [
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Emails",
+      "optional": 1,
+      "purpose": "App functionality, Developer communications, Advertising or marketing, Account management",
+      "type": "Messages"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 1,
+      "purpose": "App functionality, Developer communications, Advertising or marketing",
+      "type": "Messages"
+    },
+    {
+      "data": "Fitness info",
+      "optional": 1,
+      "purpose": "App functionality, Personalization",
+      "type": "Health and fitness"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    },
+    {
+      "data": "Photos",
+      "optional": 1,
+      "purpose": "App functionality, Developer communications",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": 1,
+      "purpose": "App functionality, Developer communications",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Other actions",
+      "optional": 0,
+      "purpose": "Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "App functionality, Developer communications, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 1,
+      "purpose": "App functionality, Developer communications, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": 0,
+      "purpose": "App functionality, Developer communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://fitnessonline.app/privacypolicy.html"
+}

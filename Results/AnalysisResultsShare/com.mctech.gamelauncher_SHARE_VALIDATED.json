@@ -1,0 +1,31 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes using 'third-party products' to collect error and log data. This is a standard service provider function (e.g., a crash reporting SDK) where the third party processes data solely on the developer's behalf. Per Google Play policy, this is not considered 'sharing'.",
+      "how_to_fix": "This data transfer does not need to be disclosed as 'sharing'. Ensure you declare the *collection* of 'Crash logs' in your Data Safety form and specify it is not shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes using 'third-party products' to collect diagnostic data (e.g., app configuration, OS version, statistics) following an error. This is a standard service provider function where the third party processes data solely on the developer's behalf. Per Google Play policy, this is not considered 'sharing'.",
+      "how_to_fix": "This data transfer does not need to be disclosed as 'sharing'. Ensure you declare the *collection* of 'Diagnostics' in your Data Safety form and specify it is not shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states an IP address is collected via 'third-party products' for error logging. An IP address can infer approximate location. This is a standard service provider function where the third party processes data solely on the developer's behalf. Per Google Play policy, this is not considered 'sharing'.",
+      "how_to_fix": "This data transfer does not need to be disclosed as 'sharing'. Ensure you declare the *collection* of 'Approximate location' in your Data Safety form and specify it is not shared.",
+      "lang": "English"
+    }
+  ]
+}
+```

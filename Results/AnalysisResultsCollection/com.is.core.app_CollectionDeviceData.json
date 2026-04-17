@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Like most online services, we use cookies and similar tracking technologies in our app and website to store preferences and gather analytics data. For example, cookies help us keep you logged in on our web portal and remember your choices. We also use cookies or mobile SDKs to analyze how users interact with our Services (e.g., which features are most used) and to customize your experience. You can manage cookie preferences via our website's cookie settings or your browser settings. For mobile app analytics, you can reset your advertising identifier or opt out of personalized ads in your device settings. For more information, please see our Cookie Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Al Features Comera Souq may offer Al-driven features, such as an Al chatbot or smart assistant. If you choose to use these features, the content you input (e.g. your chatbot queries or messages) will be processed by the Al service provider to generate responses.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When creating a Comera account, you provide your mobile phone number and a profile name or nickname. You may also add an optional profile photo and status message to your profile.",
+      "lang": "English"
+    }
+  ]
+}

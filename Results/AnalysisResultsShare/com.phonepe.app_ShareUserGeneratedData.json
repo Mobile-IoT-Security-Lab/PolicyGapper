@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "• to validate, process and/or share your KYC information, nominee details with other intermediaries, Regulated Entities (REs), non-banking financial companies, or AMCs, or financial institutions, or with any other service providers as may be required",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• to validate, process and/or share your KYC information, nominee details with other intermediaries, Regulated Entities (REs), non-banking financial companies, or AMCs, or financial institutions, or with any other service providers as may be required",
+      "lang": "English"
+    }
+  ]
+}

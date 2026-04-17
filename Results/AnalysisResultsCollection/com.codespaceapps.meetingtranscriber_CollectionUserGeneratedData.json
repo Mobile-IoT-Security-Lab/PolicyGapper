@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "| User content | messages, posts, communication, statements, information, phrases, entries, text, questions, materials, files, documents, links, images, photos, videos, visual and audio records, voice recording, graphics, media, responses, answers, choices, and any content, record or data that you provide, upload, transmit, create, store, use, edit or share with or through Application. |",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "| User content | messages, posts, communication, statements, information, phrases, entries, text, questions, materials, files, documents, links, images, photos, videos, visual and audio records, voice recording, graphics, media, responses, answers, choices, and any content, record or data that you provide, upload, transmit, create, store, use, edit or share with or through Application. |",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "| User content | messages, posts, communication, statements, information, phrases, entries, text, questions, materials, files, documents, links, images, photos, videos, visual and audio records, voice recording, graphics, media, responses, answers, choices, and any content, record or data that you provide, upload, transmit, create, store, use, edit or share with or through Application. |",
+"lang": "en"
+}
+]
+}

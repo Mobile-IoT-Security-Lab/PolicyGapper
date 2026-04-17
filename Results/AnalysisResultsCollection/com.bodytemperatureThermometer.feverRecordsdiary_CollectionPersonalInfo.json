@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "For statistical evaluations, after opening the app, the IP address, the operating system version, date and time and the manufacturer of the device as well as details of the used device are recorded. These data are partially deleted and anonymized after 14 days, so that they can no longer be assigned to a user.",
+      "lang": "English"
+    }
+  ]
+}

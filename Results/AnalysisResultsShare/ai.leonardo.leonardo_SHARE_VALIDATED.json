@@ -1,0 +1,67 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may share certain information with our third-party advertising partners, such as your email address, location, cookie information and information relating to your use of our Service, and allow partners to perform a match of your information against information from other third-party networks or sites to serve ads either on the Service or on third-party sites and to measure the effectiveness of these advertisements. We also share certain information with social media platforms to display advertising to potential new users whose demographics and behaviour look like those of our existing users.",
+      "justification": "The policy states that information about service usage ('App interactions') is shared with 'third-party advertising partners' to 'perform a match...against information from other third-party networks' and serve ads. This is sharing for advertising, not a service provider function, and must be declared.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'App interactions' data is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may share certain information with our third-party advertising partners, such as your email address, location, cookie information and information relating to your use of our Service, and allow partners to perform a match of your information against information from other third-party networks or sites to serve ads either on the Service or on third-party sites and to measure the effectiveness of these advertisements. We also share certain information with social media platforms to display advertising to potential new users whose demographics and behaviour look like those of our existing users.",
+      "justification": "The policy states that information 'relating to your use of our Service' (which includes 'Other actions') is shared with 'third-party advertising partners' to 'perform a match...against information from other third-party networks' and serve ads. This is a clear case of sharing for advertising that must be declared.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Other actions' data is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In addition, these third-party advertisement servers or advertisement networks may use technology to send, directly to your browser or mobile device, these personalised advertisements and advertising links directly to your browser or mobile device, and will automatically receive your IP address when they do so. They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs) to compile information about your browser's or device's visits and usage patterns on the Service, and to measure the effectiveness of their ads and to personalise the advertising content. Please see our Cookies Policy for more information about how we and our third-party partners use cookies and other technologies to deliver ads to you.",
+      "justification": "The policy explicitly states that 'third-party advertisement servers or advertisement networks' use technologies like 'device identifiers' to 'personalise the advertising content'. This is a non-exempt form of sharing for advertising purposes.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Device or other IDs' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may share certain information with our third-party advertising partners, such as your email address, location, cookie information and information relating to your use of our Service, and allow partners to perform a match of your information against information from other third-party networks or sites to serve ads either on the Service or on third-party sites and to measure the effectiveness of these advertisements. We also share certain information with social media platforms to display advertising to potential new users whose demographics and behaviour look like those of our existing users.",
+      "justification": "The policy explicitly states that 'email address' is shared with 'third-party advertising partners' and 'social media platforms' for advertising and user matching. This is a clear declaration of sharing that must be reflected in the Data safety form.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Email address' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may share certain information with our third-party advertising partners, such as your email address, location, cookie information and information relating to your use of our Service, and allow partners to perform a match of your information against information from other third-party networks or sites to serve ads either on the Service or on third-party sites and to measure the effectiveness of these advertisements. We also share certain information with social media platforms to display advertising to potential new users whose demographics and behaviour look like those of our existing users.",
+      "justification": "The policy explicitly states that 'location' data is shared with 'third-party advertising partners' for ad targeting and measurement. This is a non-exempt form of sharing that must be declared.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Approximate location' or 'Precise location' (whichever is collected) is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We respect and are committed to protecting your privacy. However, we may disclose your personal information to our group companies and to our services providers and partners who provide data processing services to us. This includes, for example, group companies and service providers who assist with functions such as billing, customer support, hosting and storage, data analytics, data labelling and machine learning, security, advertising and marketing, and other services. We may also disclose your personal information to our group companies and partners for other purposes that are described in this Privacy Policy or notified to you when we collect your information.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is disclosed to 'services providers...who provide data processing services to us' and 'assist with functions such as...data analytics...security'. Sharing crash logs for these purposes falls under the service provider exemption and does not need to be declared as 'shared'.",
+      "how_to_fix": "No action is required for this declaration, as it qualifies for the service provider exemption. Ensure your contracts with these providers obligate them to process data only on your behalf.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We respect and are committed to protecting your privacy. However, we may disclose your personal information to our group companies and to our services providers and partners who provide data processing services to us. This includes, for example, group companies and service providers who assist with functions such as billing, customer support, hosting and storage, data analytics, data labelling and machine learning, security, advertising and marketing, and other services. We may also disclose your personal information to our group companies and partners for other purposes that are described in this Privacy Policy or notified to you when we collect your information.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes disclosing data to 'service providers who assist with functions such as...data analytics'. Sharing diagnostics data with such a partner is covered by the service provider exemption and does not need to be declared as 'shared'.",
+      "how_to_fix": "No action is required for this declaration, as it qualifies for the service provider exemption. Ensure your contracts with these providers obligate them to process data only on your behalf.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We respect and are committed to protecting your privacy. However, we may disclose your personal information to our group companies and to our services providers and partners who provide data processing services to us. This includes, for example, group companies and service providers who assist with functions such as billing, customer support, hosting and storage, data analytics, data labelling and machine learning, security, advertising and marketing, and other services. We may also disclose your personal information to our group companies and partners for other purposes that are described in this Privacy Policy or notified to you when we collect your information.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is disclosed to 'service providers who...provide data processing services to us' for purposes like 'data analytics'. Sharing app performance data with such entities falls under the service provider exemption and is not considered 'sharing' by Google Play.",
+      "how_to_fix": "No action is required for this declaration, as it qualifies for the service provider exemption. Ensure your contracts with these providers obligate them to process data only on your behalf.",
+      "lang": "English"
+    }
+  ]
+}
+```

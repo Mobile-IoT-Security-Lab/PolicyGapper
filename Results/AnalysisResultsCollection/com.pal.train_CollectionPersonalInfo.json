@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "Where you have given your consent: location information collected when you turn on your device's location feature and use our location-based services. This includes location information collected via GPS or Wi-Fi, address information included in the account information you provide to us, and shared information uploaded by you or others showing your current or previous location. If you do not want your location information to be collected, you can disable the location function setting.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "| 3 | Reservation management | We will use your personal data to complete and manage your online booking. In addition, we will provide you with related products and services through affiliates, business partners, and third parties. If you provide personal data of minors when booking tickets, please ensure that you have obtained the consent of the minor's guardian in accordance with applicable laws. Please note that tickets for minors can only be booked together with tickets for adults. Please see the section \"Use of TrainPal by Minors\" for more details. | For flight tickets: passenger name, contact information, nationality, date of birth, gender, ID information, frequent flyer card For train tickets: contact information. For coach tickets: passenger name, contact information. For reservations with payment conducted via Trainpal: card number, cardholder name, expiry date, CVV/CVC). (altogether \"Reservation Information\"). | It is necessary for us to process your personal data to perform our contract with you, or to take steps at your request prior to entering into a contract with you. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "| 12 | Refund or reservation modification claims due to medical issues | When you need to request a refund or change due to a medical issues, we may collect health information to confirm and proceed with your request. | Account Registration Information. Account Information. Health Information as required (e.g., health status, hospital diagnosis, illness). | It is necessary for us to process your personal data to perform our contract with you, or to take steps at your request prior to entering into a contract with you. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Where you have given your consent: location information collected when you turn on your device's location feature and use our location-based services. This includes location information collected via GPS or Wi-Fi, address information included in the account information you provide to us, and shared information uploaded by you or others showing your current or previous location. If you do not want your location information to be collected, you can disable the location function setting.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Where you have given your consent: location information collected when you turn on your device's location feature and use our location-based services. This includes location information collected via GPS or Wi-Fi, address information included in the account information you provide to us, and shared information uploaded by you or others showing your current or previous location. If you do not want your location information to be collected, you can disable the location function setting.",
+      "lang": "English"
+    }
+  ]
+}

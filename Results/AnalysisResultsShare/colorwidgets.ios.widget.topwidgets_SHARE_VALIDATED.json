@@ -1,0 +1,67 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Additionally, we allow our business partners, advertising vendors and service providers (including analytics vendors) to collect information about your online activities through Cookies. These third parties may use this information to display advertisements on our application to your interests, preferences, and characteristics. We are not responsible for the privacy practices of these third parties, and the privacy policy about these third parties can be seen at Article 5.",
+      "justification": "The policy states data is collected by 'business partners' and 'advertising vendors' to 'display advertisements' based on user interests. It also disclaims responsibility for these third parties, indicating they are not acting solely as service providers on the developer's behalf. This constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare that this data type is 'Shared' with third parties for 'Advertising or marketing' purposes in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Additionally, we allow our business partners, advertising vendors and service providers (including analytics vendors) to collect information about your online activities through Cookies. These third parties may use this information to display advertisements on our application to your interests, preferences, and characteristics. We are not responsible for the privacy practices of these third parties, and the privacy policy about these third parties can be seen at Article 5.",
+      "justification": "The policy states data is collected by 'business partners' and 'advertising vendors' to 'display advertisements' based on user interests. It also disclaims responsibility for these third parties, indicating they are not acting solely as service providers on the developer's behalf. This constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare that this data type is 'Shared' with third parties for 'Advertising or marketing' purposes in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Additionally, we allow our business partners, advertising vendors and service providers (including analytics vendors) to collect information about your online activities through Cookies. These third parties may use this information to display advertisements on our application to your interests, preferences, and characteristics. We are not responsible for the privacy practices of these third parties, and the privacy policy about these third parties can be seen at Article 5.",
+      "justification": "The policy states data is collected by 'business partners' and 'advertising vendors' to 'display advertisements' based on user interests. It also disclaims responsibility for these third parties, indicating they are not acting solely as service providers on the developer's behalf. This constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare that this data type is 'Shared' with third parties for 'Advertising or marketing' purposes in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Additionally, we allow our business partners, advertising vendors and service providers (including analytics vendors) to collect information about your online activities through Cookies. These third parties may use this information to display advertisements on our application to your interests, preferences, and characteristics. We are not responsible for the privacy practices of these third parties, and the privacy policy about these third parties can be seen at Article 5.",
+      "justification": "The policy states data is collected by 'business partners' and 'advertising vendors' to 'display advertisements' based on user interests. It also disclaims responsibility for these third parties, indicating they are not acting solely as service providers on the developer's behalf. This constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare that this data type is 'Shared' with third parties for 'Advertising or marketing' purposes in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We will never sell personal data for any commercial purposes. But the third-party Service Providers We cooperate with (for example, Our advertising partners) may use technology that \"sells\" Your personal data as defined by the CCPA law.",
+      "justification": "The policy states that advertising partners may 'sell' personal data as defined by CCPA. This is considered 'sharing' for advertising purposes under Google Play's Data Safety policy.",
+      "how_to_fix": "Declare that this data type is 'Shared' with third parties for 'Advertising or marketing' purposes in your app's Data Safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "In order to provide a better user experience, We use third parties, like Google Analytics, to help Us analyze how Our Services are used. They collect information from You only to help Us improve Our Services. Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. We mainly use Google Analytics to collect data from You to monitor and analyze the use of Our Service.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy explicitly states that Google Analytics is used 'only to help Us improve Our Services' and 'to monitor and analyze the use of Our Service'. This qualifies as a service provider processing data on the developer's behalf, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This usage is exempt from being declared as 'sharing' as it falls under the 'service provider' exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "In order to provide a better user experience, We use third parties, like Google Analytics, to help Us analyze how Our Services are used. They collect information from You only to help Us improve Our Services. Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. We mainly use Google Analytics to collect data from You to monitor and analyze the use of Our Service.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy explicitly states that Google Analytics is used 'only to help Us improve Our Services' and 'to monitor and analyze the use of Our Service'. This qualifies as a service provider processing data on the developer's behalf, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This usage is exempt from being declared as 'sharing' as it falls under the 'service provider' exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In order to provide a better user experience, We use third parties, like Google Analytics, to help Us analyze how Our Services are used. They collect information from You only to help Us improve Our Services. Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. We mainly use Google Analytics to collect data from You to monitor and analyze the use of Our Service.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy explicitly states that Google Analytics is used 'only to help Us improve Our Services' and 'to monitor and analyze the use of Our Service'. This qualifies as a service provider processing data on the developer's behalf, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This usage is exempt from being declared as 'sharing' as it falls under the 'service provider' exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

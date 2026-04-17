@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "12.2.1 Category\nIdentifiers\nSource\nDirectly from consumers when interacting with our services\nDisclose(d) to\nVendors, service providers and other third parties\nSell/Sold to\nThird parties helping with retargeting advertising to you\nShare(d) with\nThird parties helping with retargeting advertising to you",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "2.4.3 We process data you provide us by participating in our B2B events. This includes your name, business email address and information about the company you are working for. It is possible that we take photos and videos of the event in which you are recognizable and post them online (e.g. on social media such as LinkedIn).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "2.4.3 We process data you provide us by participating in our B2B events. This includes your name, business email address and information about the company you are working for. It is possible that we take photos and videos of the event in which you are recognizable and post them online (e.g. on social media such as LinkedIn).",
+      "lang": "English"
+    }
+  ]
+}

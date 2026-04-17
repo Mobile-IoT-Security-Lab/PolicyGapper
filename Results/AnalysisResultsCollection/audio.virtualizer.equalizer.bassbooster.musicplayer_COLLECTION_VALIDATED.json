@@ -1,0 +1,56 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "(I)When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.",
+      "justification": "The privacy policy states that user 'correspondence' is collected via email support, which is a form of user-generated content.",
+      "how_to_fix": "Declare 'Other user-generated content' as collected in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "(II)The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use. The data we collect can include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent deice identifier, Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) The equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on), the hard disk, the CPU, and the battery use, etc.",
+      "justification": "The policy states that data such as 'session start / stop time' and 'application version' is collected, which falls under App Interactions.",
+      "how_to_fix": "Declare 'App interactions' as collected in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "(II)The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use. The data we collect can include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent deice identifier, Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) The equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on), the hard disk, the CPU, and the battery use, etc.",
+      "justification": "The policy states that data related to app performance, such as 'CPU, and the battery use', is collected, which qualifies as Diagnostics.",
+      "how_to_fix": "Declare 'Diagnostics' as collected in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "(II)The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use. The data we collect can include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent deice identifier, Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) The equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on), the hard disk, the CPU, and the battery use, etc.",
+      "justification": "The policy states that technical data such as 'hard disk, the CPU, and the battery use' is collected, which qualifies as Other app performance data.",
+      "how_to_fix": "Declare 'Other app performance data' as collected in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "(I)When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.",
+      "justification": "The policy states that correspondence is collected via email support, which inherently includes the user's email address.",
+      "how_to_fix": "Declare 'Email address' as collected in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "(II)The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use. The data we collect can include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent deice identifier, Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) The equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on), the hard disk, the CPU, and the battery use, etc.",
+      "justification": "The policy states that 'IP address' and 'time zone' are collected, which can be used to determine the user's approximate location.",
+      "how_to_fix": "Declare 'Approximate location' as collected in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "(I)When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.",
+      "justification": "The policy states that 'correspondence' is collected via email support, which refers to the content of the emails.",
+      "how_to_fix": "Declare 'Emails' as collected in the app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

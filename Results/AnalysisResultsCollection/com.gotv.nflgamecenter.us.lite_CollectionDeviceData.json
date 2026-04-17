@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "App usage information, including how often you use our application, the events that occur within the application, usage, and performance data, and where the application was downloaded from;",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Search queries;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Comments and other information posted in our interactive online forums;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "App usage information, including how often you use our application, the events that occur within the application, usage, and performance data, and where the application was downloaded from;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Sites and apps you visited before and after visiting, or while using, the Services;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "App usage information, including how often you use our application, the events that occur within the application, usage, and performance data, and where the application was downloaded from;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "App usage information, including how often you use our application, the events that occur within the application, usage, and performance data, and where the application was downloaded from;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "App usage information, including how often you use our application, the events that occur within the application, usage, and performance data, and where the application was downloaded from;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Other unique identifiers, including mobile device identification numbers and advertising identifiers (e.g., IDFA);",
+      "lang": "English"
+    }
+  ]
+}

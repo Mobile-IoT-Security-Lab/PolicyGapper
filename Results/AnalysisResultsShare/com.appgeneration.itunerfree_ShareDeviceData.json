@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "When this app is in use (or running in the background) we collect and share with our business partners the following device and location data: Precise location data of the device, WiFi signals or Bluetooth Low Energy devices in your proximity, device-based advertising identifiers, app names and/or identifiers, and information about your mobile device such as type of device, operating system version and type, device settings, time zone, carrier, and IP address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Third parties that advertise goods or services in our App or website may also use cookies to track your use of the Service. We advise you to check the privacy policies of these Advertisers for information about their cookie usage and other privacy practices. Advertisers may also use cookies to track your online activities across websites over time to provide interest-based advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We've partnered with Low Lag Labs to help provide users with better connectivity and in-app experience on wireless networks (because nobody likes laggy internet). Low Lag Labs may collect data relating to network performance (including location and identifiers such as network names, resettable ID, BSSID, IP Address, and other access point information) for the purposes of providing us app performance analytics and connectivity insights, and to support the creation of aggregated reports or anonymized insights for the telecom ecosystem. Low Lag Labs does not sell personal data. You can learn more at lowlaglabs.com/privacy-policy. This data is only collected if you consent, and you may opt-out at any time via our in-app opt-out options.",
+      "lang": "English"
+    }
+  ]
+}

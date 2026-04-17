@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you want to create an account as a babysitter, we will process the following (special) personal data of yours:\n•\nFirst and last name;\n•\nE-mail address;\n• Password;\n• Address information;\n•\nPhone number;\n•\nBank account or credit card number;\n•\n•\n•\nIP-address;\nIdentity document verification data;\nGender;\n•\nDate of birth;\n•\n•\nUser-ID (when you link an Apple, Google, LinkedIn and/or Facebook account\nto this platform, and depending on the settings on your account, data from\nyour registrations with these parties);\nProfession;\n• Education/diplomas;\n•\nSkills;\n• Availability;\n•\nBank account number;\n•\n•\nID;\nCriminal register check (or local equivalent).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use cookies to modify and measure advertisements. The following cookies are only applicable if you have clicked on an ad and have subsequently agreed to the use of cookies to collect information on and outside Babysits:\n•\nBing: to analyze the effectiveness of ads;\n• Facebook: to analyze the effectiveness of ads;\n•\nGoogle: to analyze the effectiveness of ads;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Cookies we make use of are:\n•\n•\n•\n•\n•\n•\nSession: to log in and for the use of our website;\nKeep me logged in: to remember login names;\nNew Relic: to use their service Server Monitoring;\nStripe: to process payments;\nGoogle Analytics: to analyze the effectiveness of the website;\nVWO: to analyze the effectiveness of the website.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Cookies we make use of are:\n•\n•\n•\n•\n•\n•\nSession: to log in and for the use of our website;\nKeep me logged in: to remember login names;\nNew Relic: to use their service Server Monitoring;\nStripe: to process payments;\nGoogle Analytics: to analyze the effectiveness of the website;\nVWO: to analyze the effectiveness of the website.",
+      "lang": "English"
+    }
+  ]
+}

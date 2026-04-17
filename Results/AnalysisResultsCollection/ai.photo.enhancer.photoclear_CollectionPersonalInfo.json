@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "When you send feedback via email or provide us with an error report, we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services. We will retain Your Personal Data only for as long as is necessary for the purposes described above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "When You use Our Service to pay a product and/or Service via bank transfer, We may ask You to provide information to facilitate this transaction and to verify Your identity.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "To provide a better user experience, We have integrated statistical tools in the Application. They are only used for CRASH positioning and AB-testing for new functions and UI design. Details as described below:\nApplication information\n• Application's Name\n• Application's Version Number\n• Application's Build\n• SDK Name\n• SDK Version\nDevice information\n• Model\n• Screen Size\n• OEM Name\nDevice system information\n• OS Name2\n• OS Version\n• OS Build\n• System Language\n• Time Zone\n• Carrier Country\n• Carrier Name\nLocation information\n• Locale\n• Country Area",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "If you yourself are not a party to the DeepL Pro subscription, but access to our products is provided to you by your employer or an organization to which you belong, we may share data about your usage of the subscription (e.g. number of translated characters and documents across the DeepL products, last session and last usage date) with your employer or organization. Providing this data corresponds to our legitimate interests as well as the legitimate interests of our customers in receiving the information they need about the use of the subscription they have paid for, Art. 6 para. 1 sentence 1 lit. f) GDPR.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "• Marketing: These cookies and other technologies are used to deliver content, offers and advertising more relevant to you and your interests. By selecting this category, you also consent to DeepL sending your data to third parties outside the EU (e.g., Google), including the sharing of hashed email addresses (e.g. Reddit). In accordance with § 25 para. 1 TDDDG and Art. 6 para. 1 sentence 1 lit. a) GDPR, we only use these cookies, web storage objects and other technologies and process the data collected from them with your explicit consent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Riskified processes the data we transfer to them and the data they collect in our checkout process for their own purposes. The data may be transferred to the USA. You can find more information about Riskified's handling of personal data here: https://www.riskified.com/privacy/.",
+      "lang": "English"
+    }
+  ]
+}

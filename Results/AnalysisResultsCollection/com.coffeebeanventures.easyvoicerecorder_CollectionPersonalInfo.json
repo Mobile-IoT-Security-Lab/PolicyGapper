@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Certain parts of our Services may ask you to provide Personal Data voluntarily. For example, we may ask for certain information in order to use features in our Apps, register an account with us, subscribe to marketing communications from us, and/or to submit enquiries to us, such as: • your name, email address or other contact details. • any information you submit to our customer service team in the App or via email.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Certain parts of our Services may ask you to provide Personal Data voluntarily. For example, we may ask for certain information in order to use features in our Apps, register an account with us, subscribe to marketing communications from us, and/or to submit enquiries to us, such as: • your name, email address or other contact details. • any information you submit to our customer service team in the App or via email.",
+      "lang": "English"
+    }
+  ]
+}

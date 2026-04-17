@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you join the Bliss Community we will store the following information on our secure servers:\na) The automatically generated username or the one that you provide at the time of registration\nb) A unique identifier (an automatically generated alphanumeric string) that is used to identify your account\nc) The mixes you have created with our app at the time of joining the Bliss Community\nd) Any mixes you create after you have joined the Bliss Community.\ne) Aggregated statistics about app usage (this is aggregated and anonymous, i.e., not linked to a user's account)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In order to provide our Apps to you for free we display ads. To display ads, we work with our ad partners who may have their SDK/API integrated with our Apps. In order to improve user targeting, which is important for interest-based ads and marketing solutions relevant to the user, our partners may obtain and lawfully use information such as the following:\na) Device and account identifiers - Ad id (advertising id), app set ID and other identifiers related to accounts that are signed-in on the device.\nb) IP address - Can be used to estimate the general location of a device\nc) User product interactions and interaction information - App launches, taps and video views\nd) Diagnostic information - Information is related to the performance of our Apps and the SDK, crash logs, app launch time, hang time and energy usage.\ne) Precise location - Ad networks may obtain your location in order to show to you relevant ads.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "As a general rule, we do not collect or share any information that may be used to identify you as a person except when you contact us by email. In that case we will save your emails in order to serve you better. Once we are finished providing support to you we will delete all emails received by and sent to you. Please note that we take all the necessary steps to safeguard any personal information you may provide by email using strong passwords and 2-step authentication.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "As a general rule, we do not collect or share any information that may be used to identify you as a person except when you contact us by email. In that case we will save your emails in order to serve you better. Once we are finished providing support to you we will delete all emails received by and sent to you. Please note that we take all the necessary steps to safeguard any personal information you may provide by email using strong passwords and 2-step authentication.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "When you join the Bliss Community we will store the following information on our secure servers:\na) The automatically generated username or the one that you provide at the time of registration\nb) A unique identifier (an automatically generated alphanumeric string) that is used to identify your account\nc) The mixes you have created with our app at the time of joining the Bliss Community\nd) Any mixes you create after you have joined the Bliss Community.\ne) Aggregated statistics about app usage (this is aggregated and anonymous, i.e., not linked to a user's account)",
+      "lang": "en"
+    }
+  ]
+}

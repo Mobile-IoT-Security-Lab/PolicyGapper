@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "2.User product interactions: Collects user product interactions and\ninteraction information, including app launch, taps, and video views.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "2.User product interactions: Collects user product interactions and\ninteraction information, including app launch, taps, and video views.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "3.Diagnostic information: Collects information related to the performance\nof your app and the SDK, including crash logs, app launch time, hang rate,\nand energy usage.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "3.Diagnostic information: Collects information related to the performance\nof your app and the SDK, including crash logs, app launch time, hang rate,\nand energy usage.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "3.Diagnostic information: Collects information related to the performance\nof your app and the SDK, including crash logs, app launch time, hang rate,\nand energy usage.",
+      "lang": "English"
+    }
+  ]
+}

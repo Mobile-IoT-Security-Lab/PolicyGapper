@@ -1,0 +1,108 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you choose to publish content (such as a review or comment) on the Grab Platform, it will be shown publicly along with your personal data (such as username, uploaded photo(s)), and other information you have included in your content. For more information, see our Review Guidelines. (https://www.grab.com/sg/terms-policies/ugc-terms-reviews)",
+      "justification": "The privacy policy explicitly states that user-generated content like reviews or comments is collected and published on the platform.",
+      "how_to_fix": "Declare 'Other user-generated content' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Some Personal Data we collect may be sensitive in nature in certain jurisdictions. This may include your national ID information, religious beliefs, background information (including financial and criminal records, where legally permissible), health data, disability, marital status, location and biometric data, as applicable. We collect sensitive Personal Data only with your consent and/or in strict compliance with applicable laws. In the event that you are required to furnish any documentation or information to us for any Purpose which may contain such sensitive Personal Data (which is not required for that Purpose), you agree to redact such sensitive Personal Data before providing such documentation or information to us.",
+      "justification": "The privacy policy explicitly lists 'religious beliefs' as a type of sensitive personal data that may be collected with user consent.",
+      "how_to_fix": "Declare 'Political or religious beliefs' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "fill up demographic information in surveys (such as your age, gender, and other information you may volunteer such as your marital status, occupation and income information);",
+      "justification": "The privacy policy states that demographic information such as marital status, occupation, and income is collected through surveys.",
+      "how_to_fix": "Declare 'Other info' as collected in the Google Play Console Data Safety section, specifying the types of data collected.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "transaction information (such as payment method, settlement records, items purchased or paid through our Services);",
+      "justification": "The privacy policy confirms the collection of transaction information, including 'items purchased or paid through our Services'.",
+      "how_to_fix": "Declare 'Purchase history' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit reporting organisations;",
+      "justification": "The policy indicates that data is received from credit bureaus and alternative credit scoring agencies, which constitutes collection of credit information.",
+      "how_to_fix": "Declare 'Credit score' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "apply for loans, insurance claims or other financing products to enable us to assess your eligibility (such as earning statements, bank statements, accident information, medical certificates, proof of relationship and relevant information you may volunteer);",
+      "justification": "The privacy policy states that financial information like 'earning statements' and 'bank statements' is collected for financing products.",
+      "how_to_fix": "Declare 'Other financial info' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Some Personal Data we collect may be sensitive in nature in certain jurisdictions. This may include your national ID information, religious beliefs, background information (including financial and criminal records, where legally permissible), health data, disability, marital status, location and biometric data, as applicable. We collect sensitive Personal Data only with your consent and/or in strict compliance with applicable laws. In the event that you are required to furnish any documentation or information to us for any Purpose which may contain such sensitive Personal Data (which is not required for that Purpose), you agree to redact such sensitive Personal Data before providing such documentation or information to us.",
+      "justification": "The privacy policy explicitly lists 'health data' and 'disability' as types of sensitive personal data that may be collected with user consent.",
+      "how_to_fix": "Declare 'Health info' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "• contact us through our various customer support channels (such as chat, messages, emails, call recordings, pictures you submit to support your claim);",
+      "justification": "The policy states that the content of communications, including emails sent to customer support, is collected.",
+      "how_to_fix": "Declare 'Emails' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• interact with other users in our in-app communication features;",
+      "justification": "The policy mentions the collection of data from interactions within the app's communication features, which includes in-app messages.",
+      "how_to_fix": "Declare 'Other in-app messages' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "• participate in contests or events organised by us (such as the pictures, audio, or videos you may submit, which may include images of yourself);",
+      "justification": "The policy states that videos submitted by users for contests or events are collected.",
+      "how_to_fix": "Declare 'Videos' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "• participate in contests or events organised by us (such as the pictures, audio, or videos you may submit, which may include images of yourself);",
+      "justification": "The policy states that audio files submitted by users for contests or events are collected.",
+      "how_to_fix": "Declare 'Other audio files' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• furnish supporting documents, such as proof of disability, discount eligibility, so that we can support you better as a Grab driver partner, delivery partner or user on our platform;",
+      "justification": "The policy confirms that supporting documents furnished by the user are collected by the app.",
+      "how_to_fix": "Declare 'Files and docs' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "interact with our social media pages (such as your social media account ID, profile photo, and any content (e.g. photos, videos, stories) you create for publication on our social media channels;",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states this data is collected when users interact with the company's social media pages, which is outside the mobile app.",
+      "how_to_fix": "This data type does not need to be declared as it is not collected by the app.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "To provide GrabDefence to GD Customers, information from your device and information relating to your use of GD Customers' Digital Platform will be collected from GD Customers. Such information include device identifier information (such as IMEI, Android ID, MAC address etc), device and hardware information (such as device name, screen size etc), account information (such as email address, phone number, etc) as well as other contextual data in relation to your use of GD Customers' Digital Platforms (such as IP address, Wifi address, GPS location data, address, payment details etc). Such information is collected by GD Customers when you interact with GD Customers' Digital platforms, in accordance with GD Customers' terms of service and/or privacy notices.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy explicitly states this data is collected by 'GD Customers' Digital Platforms', not by the app itself.",
+      "how_to_fix": "This data type does not need to be declared as it is not collected by the app.",
+      "lang": "English"
+    }
+  ]
+}
+```

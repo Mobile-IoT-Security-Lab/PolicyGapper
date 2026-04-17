@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Videos",
+"policy_reference": "When you use our service, you may post photos, videos, audio, text and other types of content, such as your chats with other members.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "When you use our service, you may post photos, videos, audio, text and other types of content, such as your chats with other members.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "When you use our service, you may post photos, videos, audio, text and other types of content, such as your chats with other members.",
+"lang": "en"
+}
+]
+}

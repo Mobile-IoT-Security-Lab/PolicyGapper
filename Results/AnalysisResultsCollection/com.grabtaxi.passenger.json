@@ -1,0 +1,74 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you choose to publish content (such as a review or comment) on the Grab Platform, it will be shown publicly along with your personal data (such as username, uploaded photo(s)), and other information you have included in your content. For more information, see our Review Guidelines. (https://www.grab.com/sg/terms-policies/ugc-terms-reviews)",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "interact with our social media pages (such as your social media account ID, profile photo, and any content (e.g. photos, videos, stories) you create for publication on our social media channels;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "To provide GrabDefence to GD Customers, information from your device and information relating to your use of GD Customers' Digital Platform will be collected from GD Customers. Such information include device identifier information (such as IMEI, Android ID, MAC address etc), device and hardware information (such as device name, screen size etc), account information (such as email address, phone number, etc) as well as other contextual data in relation to your use of GD Customers' Digital Platforms (such as IP address, Wifi address, GPS location data, address, payment details etc). Such information is collected by GD Customers when you interact with GD Customers' Digital platforms, in accordance with GD Customers' terms of service and/or privacy notices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Some Personal Data we collect may be sensitive in nature in certain jurisdictions. This may include your national ID information, religious beliefs, background information (including financial and criminal records, where legally permissible), health data, disability, marital status, location and biometric data, as applicable. We collect sensitive Personal Data only with your consent and/or in strict compliance with applicable laws. In the event that you are required to furnish any documentation or information to us for any Purpose which may contain such sensitive Personal Data (which is not required for that Purpose), you agree to redact such sensitive Personal Data before providing such documentation or information to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "fill up demographic information in surveys (such as your age, gender, and other information you may volunteer such as your marital status, occupation and income information);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "transaction information (such as payment method, settlement records, items purchased or paid through our Services);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit reporting organisations;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "apply for loans, insurance claims or other financing products to enable us to assess your eligibility (such as earning statements, bank statements, accident information, medical certificates, proof of relationship and relevant information you may volunteer);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Some Personal Data we collect may be sensitive in nature in certain jurisdictions. This may include your national ID information, religious beliefs, background information (including financial and criminal records, where legally permissible), health data, disability, marital status, location and biometric data, as applicable. We collect sensitive Personal Data only with your consent and/or in strict compliance with applicable laws. In the event that you are required to furnish any documentation or information to us for any Purpose which may contain such sensitive Personal Data (which is not required for that Purpose), you agree to redact such sensitive Personal Data before providing such documentation or information to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "• contact us through our various customer support channels (such as chat, messages, emails, call recordings, pictures you submit to support your claim);",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• interact with other users in our in-app communication features;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "• participate in contests or events organised by us (such as the pictures, audio, or videos you may submit, which may include images of yourself);",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "• participate in contests or events organised by us (such as the pictures, audio, or videos you may submit, which may include images of yourself);",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• furnish supporting documents, such as proof of disability, discount eligibility, so that we can support you better as a Grab driver partner, delivery partner or user on our platform;",
+      "lang": "en"
+    }
+  ]
+}

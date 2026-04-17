@@ -1,0 +1,35 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states that in case of an app error, 'Log Data' is collected. This is a form of 'Crash logs'.",
+      "how_to_fix": "Declare 'Crash logs' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states that data is collected in case of an app error, including 'statistics' and app configuration details, which falls under the 'Diagnostics' data type.",
+      "how_to_fix": "Declare 'Diagnostics' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy explicitly states that the collected 'Log Data' may include 'device Internet Protocol (“IP”) address' and 'device name', which are considered 'Device or other IDs'.",
+      "how_to_fix": "Declare 'Device or other IDs' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "You may provide us with information when you use the App, such as when you create an account, contact us with inquiries, or respond to one of our surveys. This information may include your name, email address, and any other information you choose to provide.",
+      "justification": "The policy explicitly states that information provided by the user when creating an account or contacting support may include their 'email address'.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

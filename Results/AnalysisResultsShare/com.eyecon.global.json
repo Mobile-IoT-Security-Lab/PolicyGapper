@@ -1,0 +1,54 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The App may utilize certain third-party software and/or service, in order to collect and/or process the information detailed herein. Such third-party software providers include:\n• Google Analytics, which privacy policy is available at https://www.google.com/analytics/terms/us.html;\n• Facebook Analytics, which privacy policy is available at https://www.facebook.com/privacy/explanation;\n• Amazon Web Services, which privacy policy is available at https://aws.amazon.com/privacy/?nc1=f_pr;\n• Firebase, which privacy policy is available at https://www.firebase.com/terms/privacy-policy.html;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "The App may utilize certain third-party software and/or service, in order to collect and/or process the information detailed herein. Such third-party software providers include:\n• Google Analytics, which privacy policy is available at https://www.google.com/analytics/terms/us.html;\n• Facebook Analytics, which privacy policy is available at https://www.facebook.com/privacy/explanation;\n• Amazon Web Services, which privacy policy is available at https://aws.amazon.com/privacy/?nc1=f_pr;\n• Firebase, which privacy policy is available at https://www.firebase.com/terms/privacy-policy.html;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "The App may utilize certain third-party software and/or service, in order to collect and/or process the information detailed herein. Such third-party software providers include:\n• Google Analytics, which privacy policy is available at https://www.google.com/analytics/terms/us.html;\n• Facebook Analytics, which privacy policy is available at https://www.facebook.com/privacy/explanation;\n• Amazon Web Services, which privacy policy is available at https://aws.amazon.com/privacy/?nc1=f_pr;\n• Firebase, which privacy policy is available at https://www.firebase.com/terms/privacy-policy.html;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "The App may utilize certain third-party software and/or service, in order to collect and/or process the information detailed herein. Such third-party software providers include:\n• Google Analytics, which privacy policy is available at https://www.google.com/analytics/terms/us.html;\n• Facebook Analytics, which privacy policy is available at https://www.facebook.com/privacy/explanation;\n• Amazon Web Services, which privacy policy is available at https://aws.amazon.com/privacy/?nc1=f_pr;\n• Firebase, which privacy policy is available at https://www.firebase.com/terms/privacy-policy.html;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "The App may utilize certain third-party software and/or service, in order to collect and/or process the information detailed herein. Such third-party software providers include:\n• Google Analytics, which privacy policy is available at https://www.google.com/analytics/terms/us.html;\n• Facebook Analytics, which privacy policy is available at https://www.facebook.com/privacy/explanation;\n• Amazon Web Services, which privacy policy is available at https://aws.amazon.com/privacy/?nc1=f_pr;\n• Firebase, which privacy policy is available at https://www.firebase.com/terms/privacy-policy.html;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "For avoidance of doubt, the Company may transfer and disclose to third parties or otherwise use Non-personal Information at its own discretion. Notwithstanding the above, as a part of our operating model, and to enable the delivery of Services, we may also, from time to time, make repositories containing certain Personal Information searchable or usable by third party business partners, for the purposes of their services and business operations. You hereby consent to disclosure of your Personal Information to them and their usage of it. This may include Personal Information that you have submitted to us in the past. As some of our business partners may be located outside your country, you consent to the transfer of your Personal Information to this extent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "For avoidance of doubt, the Company may transfer and disclose to third parties or otherwise use Non-personal Information at its own discretion. Notwithstanding the above, as a part of our operating model, and to enable the delivery of Services, we may also, from time to time, make repositories containing certain Personal Information searchable or usable by third party business partners, for the purposes of their services and business operations. You hereby consent to disclosure of your Personal Information to them and their usage of it. This may include Personal Information that you have submitted to us in the past. As some of our business partners may be located outside your country, you consent to the transfer of your Personal Information to this extent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "For avoidance of doubt, the Company may transfer and disclose to third parties or otherwise use Non-personal Information at its own discretion. Notwithstanding the above, as a part of our operating model, and to enable the delivery of Services, we may also, from time to time, make repositories containing certain Personal Information searchable or usable by third party business partners, for the purposes of their services and business operations. You hereby consent to disclosure of your Personal Information to them and their usage of it. This may include Personal Information that you have submitted to us in the past. As some of our business partners may be located outside your country, you consent to the transfer of your Personal Information to this extent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• When registering to the App, the User will be asked to provide his/her phone number, name, and photo, which will be used in\norder to allow us to provide our Users with the App's services and experience. Such information may be provided to other\nUsers via the Advanced Search Functionality and Matching Functionality, as a confirmed match to such relevant User's contact\ninformation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "For avoidance of doubt, the Company may transfer and disclose to third parties or otherwise use Non-personal Information at\nits own discretion. Notwithstanding the above, as a part of our operating model, and to enable the delivery of Services, we may\nalso, from time to time, make repositories containing certain Personal Information searchable or usable by third party business\npartners, for the purposes of their services and business operations. You hereby consent to disclosure of your Personal\nInformation to\nthem and their usage of it. This may include Personal Information that you have submitted to us in the past. As some of our\nbusiness partners may be located outside your country, you consent to the transfer of your Personal Information to this extent.",
+      "lang": "English"
+    }
+  ]
+}

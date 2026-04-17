@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our Privacy Policy. (/en/help/private_terms)",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our Privacy Policy. (/en/help/private_terms)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our Privacy Policy. (/en/help/private_terms)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our Privacy Policy. (/en/help/private_terms)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our Privacy Policy. (/en/help/private_terms)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our Privacy Policy. (/en/help/private_terms)",
+      "lang": "English"
+    }
+  ]
+}

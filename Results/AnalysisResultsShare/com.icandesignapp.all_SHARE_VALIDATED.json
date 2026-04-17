@@ -1,0 +1,23 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes collecting diagnostic data (Log Data) through third-party products in case of an app error. This is a standard service provider function where the third party processes data on the developer's behalf for app functionality. It is exempt from being declared as 'sharing'.",
+      "how_to_fix": "This data transfer is exempt from the 'sharing' disclosure. No change is required in the Data Safety form for this item.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states that identifiers like IP address and device name are collected as part of Log Data through third-party products for error diagnostics. This is a service provider relationship, where the third party processes data on the developer's behalf. This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "This data transfer is exempt from the 'sharing' disclosure. No change is required in the Data Safety form for this item.",
+      "lang": "English"
+    }
+  ]
+}
+```

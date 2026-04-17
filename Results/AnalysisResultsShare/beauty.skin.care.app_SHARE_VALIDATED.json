@@ -1,0 +1,38 @@
+```json
+{
+"omitted_declarations": [
+{
+"data_type": "Other User generated content",
+"policy_reference": "We Skincare and Facecare share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that Skincare and Facecare is part of, or that become part of that group (“Affiliates”). Affiliates Skincare and Facecare use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences). But these Affiliates will honor the choices you make about who can see your photos.",
+"justification": "The policy states that User Content is shared with 'Affiliates' who may use this information for their 'own services'. Under Google Play policy, sharing data with affiliates for their own purposes constitutes 'sharing' and must be declared.",
+"how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Other user-generated content' is shared with third parties.",
+"lang": "English"
+},
+{
+"data_type": "Other actions",
+"policy_reference": "We Skincare and Facecare share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that Skincare and Facecare is part of, or that become part of that group (“Affiliates”). Affiliates Skincare and Facecare use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences). But these Affiliates will honor the choices you make about who can see your photos.",
+"justification": "The policy states that 'usage data' is shared with 'Affiliates' who may use this information for their 'own services'. Under Google Play policy, sharing data with affiliates for their own purposes constitutes 'sharing' and must be declared.",
+"how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Other actions' is shared with third parties.",
+"lang": "English"
+}
+],
+"excluded_declarations": [
+{
+"data_type": "Web browsing history",
+"policy_reference": "We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.",
+"reason_of_removal": "Anonymous Data",
+"justification": "The policy explicitly states that this analytics data is aggregated and anonymized so that it 'cannot reasonably be used to identify any particular individual User.' Data that has been fully anonymized is exempt from being declared as 'shared' under the Google Play User Data Policy.",
+"how_to_fix": "No action is required for this item as it falls under the anonymized data exemption.",
+"lang": "English"
+},
+{
+"data_type": "Photos",
+"policy_reference": "If we sell or otherwise transfer part or the whole of Skincare and Facecare or our assets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, liquidation), your information such as User Content and any other information collected through the Service Skincare and Facecare be among the items sold or transferred. You will continue to own your User Content. The buyer or transferee will have to honor the commitments we have made in this Privacy Policy.",
+"reason_of_removal": "Merger/Acquisition Clause",
+"justification": "The policy describes the transfer of user data as part of a merger, acquisition, or sale of assets. This specific scenario is not considered 'sharing' for the purposes of the Data Safety section, according to Google Play's User Data Policy.",
+"how_to_fix": "No action is required for this item as it falls under a standard business transfer exemption.",
+"lang": "English"
+}
+]
+}
+```

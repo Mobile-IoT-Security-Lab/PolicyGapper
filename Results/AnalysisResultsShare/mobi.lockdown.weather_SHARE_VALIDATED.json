@@ -1,0 +1,14 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We use AdMob and Meta Audience Network to deliver advertisements. These services may collect and use data in accordance with their privacy policies:\n• Google AdMob Privacy Policy\n• Meta Audience Network Privacy Policy\nUsers in the European Economic Area (EEA) will be asked for consent to enable personalized advertising in compliance with GDPR. Non-personalized ads may still be displayed if consent is declined.",
+      "justification": "The privacy policy explicitly states the use of third-party advertising networks (AdMob, Meta Audience Network). These services collect device identifiers for advertising purposes, which constitutes 'sharing' with third parties under Google Play's policy and is not exempt as a service provider relationship.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Device or other IDs' are 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

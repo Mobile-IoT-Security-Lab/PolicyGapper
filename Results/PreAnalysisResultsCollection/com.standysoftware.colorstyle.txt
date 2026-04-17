@@ -1,0 +1,26 @@
+Your privacy is very important to us, and we take it seriously. If you choose to use our Service, then
+you agree to the collection and use of data in relation to this policy. We will not use or share your
+information with anyone except as described in this Privacy Policy.
+
+---
+Data Collection and Use
+While using our Service we collect and share with third party service providers certain data from
+our users, including but not limited to IP address (approximate location), device and advertising
+identifiers, data on your interaction with advertisements and with various user interface elements
+in the application, basic device characteristics, crash logs and stacktraces.
+This data is anonymous and encrypted in transit. It is required for analytics, advertising and
+support purposes.
+
+---
+Image Processing
+The app uses a third party service (Firebase Machine Learning Kit) to do face features detection
+from images provided by you. This process can be conducted locally on your device and/or on third
+party servers (online). During online image recognition your images are stored in the memory only
+and deleted after the end of image processing. For more information about data usage during
+online image recognition, please, review the following document.
+
+---
+Opt Out
+If you no longer want us to use your data then you need to stop using the app and delete it from
+the device. Please follow instructions in privacy policy on how to opt out from collecting your data
+for each third party service provider above.

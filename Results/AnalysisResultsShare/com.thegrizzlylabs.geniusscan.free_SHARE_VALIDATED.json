@@ -1,0 +1,23 @@
+```json
+{
+    "omitted_declarations": [
+        {
+            "data_type": "Other User generated content",
+            "policy_reference": "We process the text of the first page of your scanned document to suggest document names. OpenAl may keep the text for up to 30 days for abuse monitoring.",
+            "justification": "The policy states that user-generated content (text from scanned documents) is shared with OpenAI, which may retain it for its own abuse monitoring purposes. This constitutes 'sharing' with a third party and is not covered by the service provider exemption.",
+            "how_to_fix": "Declare that 'Other user-generated content' is shared with third parties in the 'Data shared' section of your Data Safety form.",
+            "lang": "English"
+        }
+    ],
+    "excluded_declarations": [
+        {
+            "data_type": "App interactions",
+            "policy_reference": "We may share your data with trusted service providers to ensure the functionality of our service. These providers are listed here:\n\nCompany\nPurpose\nStore processed\nAmazon (AWS)\nOnly for Genius Scan account owners\nscans\nAmplitude\nAnalytics\nHelpScout\nCustomer support\nManage user\naccounts and\nHeroku\nOnly for Genius Scan account owners\nsynchronization\nlogic\nSuggest\nOpenAl\ndocument names\nProcess\nRevenueCat\nOnly for Genius Scan account owners\npurchases\nSentry\nAnalytics\nProcess scans,\nSolarwinds\nmanage user\nOnly for Genius Scan account owners\n(Papertrail)\naccounts\nProcess\nOnly for members of the Genius Scan\nStripe\npurchases\nfor Teams members",
+            "reason_of_removal": "Service Provider Exemption",
+            "justification": "The policy explicitly states data is shared with 'trusted service providers to ensure the functionality of our service.' This falls under the service provider exemption, as partners like Amplitude and Sentry are processing data on the developer's behalf for purposes like analytics.",
+            "how_to_fix": "No action is required for this item as it is covered by the service provider exemption and does not need to be declared as 'sharing'.",
+            "lang": "English"
+        }
+    ]
+}
+```

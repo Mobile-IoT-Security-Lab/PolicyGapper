@@ -1,0 +1,21 @@
+```json
+{
+    "omitted_declarations": [
+        {
+            "data_type": "Device or other IDs",
+            "policy_reference": "We may share your personal data with other members of our group of companies so we can provide the best services across our group. They are bound to keep your information in accordance with this policy.",
+            "justification": "The privacy policy states that personal data, which can include Device or other IDs, is shared with other members of the company's group. Under Google Play's policy, affiliated companies are considered third parties, and this data transfer must be declared as 'sharing'.",
+            "how_to_fix": "In your app's Data safety form in the Google Play Console, disclose that 'Device or other IDs' are shared with third parties and specify the purpose of this sharing.",
+            "lang": "English"
+        },
+        {
+            "data_type": "User IDs",
+            "policy_reference": "We may share your personal data with other members of our group of companies so we can provide the best services across our group. They are bound to keep your information in accordance with this policy.",
+            "justification": "The privacy policy states that personal data, which can include User IDs, is shared with other members of the company's group. Under Google Play's policy, affiliated companies are considered third parties, and this data transfer must be declared as 'sharing'.",
+            "how_to_fix": "In your app's Data safety form in the Google Play Console, disclose that 'User IDs' are shared with third parties and specify the purpose of this sharing.",
+            "lang": "English"
+        }
+    ],
+    "excluded_declarations": []
+}
+```

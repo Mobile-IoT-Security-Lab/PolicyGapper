@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Special Categories Data includes race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, health information and biometric data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Special Categories Data includes race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, health information and biometric data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment information includes bank account details (e.g. IBAN, PayPal email address, digital-wallet identifiers and other payment-instrument details.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transaction Data includes details about the method of payment such as the pay-out, cash-out, redemption method, or gift cards paid to you for participating as a user on our Website.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Special Categories Data includes race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, health information and biometric data.",
+      "lang": "English"
+    }
+  ]
+}

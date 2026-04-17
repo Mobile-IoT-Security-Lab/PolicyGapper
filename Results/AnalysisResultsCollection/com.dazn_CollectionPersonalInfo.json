@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We collect and use information about you for the purposes described below. This includes: your name, email address, payment details, and telephone number; information about your use of the DAZN Service; information from the device you use to access the DAZN Service; information from third parties; and information you provide to us in your communications with us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may also collect other information you provide to us, such as when you set your preferences in your account, or provide information through your participation in surveys, or when you provide your date of birth and/or gender.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may collect information about your credit and debit card details, bank account details, and other payment details to process your payments for the DAZN Service. We use this information to process your payments and to prevent fraud.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We collect information about your use of the DAZN Service, such as the type of content you view, what you watch, when you watch it, and your interactions with the user interface and customer service. This also includes information about your account activity, such as login and logout times, and your purchase history.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "We may collect information about your credit and debit card details, bank account details, and other payment details to process your payments for the DAZN Service. We use this information to process your payments and to prevent fraud.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may collect information about your location from your device or from your network. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content.",
+      "lang": "English"
+    }
+  ]
+}

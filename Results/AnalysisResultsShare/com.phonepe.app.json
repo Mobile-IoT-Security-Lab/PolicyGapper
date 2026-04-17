@@ -1,0 +1,84 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "for enabling your lending journey including KYC and onboarding by sharing information with authorized financial institutions including banks, non-banking financial institutions, and credit bureaus, with whom we partner to offer you credit and loan-related products and services. We may also share your information with third parties under contract who assist us with our business operations, including enabling your KYC process, eligibility checks, collection services, and storage of such information, as required by our lending partners",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "to allow third parties to contact you for products and services availed/requested by you on or via the PhonePe Platform or on third-party links",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "for enabling your lending journey including KYC and onboarding by sharing information with authorized financial institutions including banks, non-banking financial institutions, and credit bureaus, with whom we partner to offer you credit and loan-related products and services. We may also share your information with third parties under contract who assist us with our business operations, including enabling your KYC process, eligibility checks, collection services, and storage of such information, as required by our lending partners",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "for enabling your lending journey including KYC and onboarding by sharing information with authorized financial institutions including banks, non-banking financial institutions, and credit bureaus, with whom we partner to offer you credit and loan-related products and services. We may also share your information with third parties under contract who assist us with our business operations, including enabling your KYC process, eligibility checks, collection services, and storage of such information, as required by our lending partners",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "for enabling your lending journey including KYC and onboarding by sharing information with authorized financial institutions including banks, non-banking financial institutions, and credit bureaus, with whom we partner to offer you credit and loan-related products and services. We may also share your information with third parties under contract who assist us with our business operations, including enabling your KYC process, eligibility checks, collection services, and storage of such information, as required by our lending partners",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "if it is required by financial institutions to verify, mitigate, or prevent fraud or to manage risk or recover funds in accordance with applicable laws/regulations",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "if it is required by financial institutions to verify, mitigate, or prevent fraud or to manage risk or recover funds in accordance with applicable laws/regulations",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "for enabling your lending journey including KYC and onboarding by sharing information with authorized financial institutions including banks, non-banking financial institutions, and credit bureaus, with whom we partner to offer you credit and loan-related products and services. We may also share your information with third parties under contract who assist us with our business operations, including enabling your KYC process, eligibility checks, collection services, and storage of such information, as required by our lending partners",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "for enabling your lending journey including KYC and onboarding by sharing information with authorized financial institutions including banks, non-banking financial institutions, and credit bureaus, with whom we partner to offer you credit and loan-related products and services. We may also share your information with third parties under contract who assist us with our business operations, including enabling your KYC process, eligibility checks, collection services, and storage of such information, as required by our lending partners",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• to validate, process and/or share your KYC information, nominee details with other intermediaries, Regulated Entities (REs), non-banking financial companies, or AMCs, or financial institutions, or with any other service providers as may be required",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• to validate, process and/or share your KYC information, nominee details with other intermediaries, Regulated Entities (REs), non-banking financial companies, or AMCs, or financial institutions, or with any other service providers as may be required",
+      "lang": "English"
+    }
+  ]
+}

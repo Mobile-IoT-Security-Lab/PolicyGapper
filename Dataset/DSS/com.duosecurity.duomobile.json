@@ -1,0 +1,28 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Crash logs",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "App interactions",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://duo.com/legal/privacy-notice-services"
+}

@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Advertising & Analytics Data:\nWe may use or allow third-party services (such as advertising networks and\nanalytics tools) to collect anonymous information.\nThis may include general device information, app usage data, and region/language\nsettings.\nThe purpose of this data collection is to display relevant advertisements, measure\napp performance, and improve our services.",
+      "lang": "English"
+    }
+  ]
+}

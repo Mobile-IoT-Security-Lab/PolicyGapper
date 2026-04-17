@@ -1,0 +1,126 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. Click to see company privacy policies that govern their use of data.",
+      "justification": "The policy states that analytics companies access data to understand how services are used, which constitutes the collection of 'App interactions' data sent off-device.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. Click to see company privacy policies that govern their use of data.",
+      "justification": "The policy states that analytics companies access data to understand how services are used. This includes user actions, which falls under the 'Other actions' data type and is sent off-device.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.",
+      "justification": "The policy states that the app's systems log information like browser, operating system, and IP address, which is considered 'Diagnostics' data collected and sent off-device.",
+      "how_to_fix": "Declare 'Diagnostics' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.",
+      "justification": "The policy explicitly mentions the use and logging of 'unique device identifiers' to identify a user's device, which are sent off-device.",
+      "how_to_fix": "Declare 'Device or other IDs' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+      "justification": "The policy explicitly states the collection of 'name' as personally identifiable information provided by the user, which is sent off-device.",
+      "how_to_fix": "Declare 'Name' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+      "justification": "The policy explicitly states the collection of 'email address' as personally identifiable information provided by the user, which is sent off-device.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.",
+      "justification": "The policy mentions using 'unique device identifiers to anonymously identify your computer or device'. This identifier is sent off-device and serves the function of a user-level ID.",
+      "how_to_fix": "Declare 'User IDs' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+      "justification": "The policy explicitly states the collection of 'address' as personally identifiable information provided by the user, which is sent off-device.",
+      "how_to_fix": "Declare 'Address' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+      "justification": "The policy explicitly states the collection of 'phone number' as personally identifiable information provided by the user, which is sent off-device.",
+      "how_to_fix": "Declare 'Phone number' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error. Information we collect may be stored or processed on computers located in any country where we do business.",
+      "justification": "The policy mentions the transmission of data on pages where users 'provide payment information', indicating its collection. Standard encryption in transit is not an exemption.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.",
+      "justification": "The policy states the system logs the user's IP address, which is used to determine 'Approximate location' and is sent off-device.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "To customize our services for you, we and our partners may collect, use, and share precise location data, including the real-time geographic location of your computer or device. This location data is collected anonymously in a form that does not personally identify you and is used only to provide and improve our service. We may obtain your consent on your first use of the service.",
+      "justification": "The policy explicitly states the collection, use, and sharing of 'precise location data, including the real-time geographic location' of the device, which is sent off-device.",
+      "how_to_fix": "Declare 'Precise location' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+      "justification": "The policy states the app may access 'messages' on the device to provide services. Accessing data to provide a service implies it is sent off-device; it is not described as on-device only.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+      "justification": "The policy states the app may access 'messages' on the device to provide services. This directly corresponds to the collection of 'SMS or MMS' and is not described as on-device only.",
+      "how_to_fix": "Declare 'SMS or MMS' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+      "justification": "The policy states the app may access 'messages' on the device to provide services. This implies collection of message content, which is not described as on-device only.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+      "justification": "The policy states the app may access the user's 'calendar' on the device to provide services. This implies the data is sent off-device and is not described as on-device only.",
+      "how_to_fix": "Declare 'Calendar events' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.",
+      "justification": "The policy states the app may access the user's 'phone book' on the device to provide services. This implies the data is sent off-device and is not described as on-device only.",
+      "how_to_fix": "Declare 'Contacts' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

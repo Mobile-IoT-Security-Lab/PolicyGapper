@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may ask for your consent to share your data with third parties. In any such case, we will make it clear why we want to share the information. We may use and share non-personal data (meaning data that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other third parties (notably advertisers) to develop and deliver targeted advertising on our products or applications of third parties, and to analyze and report on advertising you see. We may combine this data with additional non-personal information or personal data in hashed, non-human readable form collected from other sources.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "We may ask for your consent to share your data with third parties. In any such case, we will make it clear why we want to share the information. We may use and share non-personal data (meaning data that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other third parties (notably advertisers) to develop and deliver targeted advertising on our products or applications of third parties, and to analyze and report on advertising you see. We may combine this data with additional non-personal information or personal data in hashed, non-human readable form collected from other sources.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may ask for your consent to share your data with third parties. In any such case, we will make it clear why we want to share the information. We may use and share non-personal data (meaning data that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other third parties (notably advertisers) to develop and deliver targeted advertising on our products or applications of third parties, and to analyze and report on advertising you see. We may combine this data with additional non-personal information or personal data in hashed, non-human readable form collected from other sources.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may ask for your consent to share your data with third parties. In any such case, we will make it clear why we want to share the information. We may use and share non-personal data (meaning data that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other third parties (notably advertisers) to develop and deliver targeted advertising on our products or applications of third parties, and to analyze and report on advertising you see. We may combine this data with additional non-personal information or personal data in hashed, non-human readable form collected from other sources.",
+      "lang": "English"
+    }
+  ]
+}

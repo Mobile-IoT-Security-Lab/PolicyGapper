@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "The personal information to be collected and transferred will include, but not limited to, days of your account registration, active hours of your account, the in-app virtual merchandise you have purchased, usage of your purchased in-app virtual merchandise, value of your purchased in-app virtual merchandise, etc.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "PolyBuzz will automatically collect and save user network logs, including browser type, browsing records, network diagnosis, so that we can evaluate use of PolyBuzz, optimize it and improve our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Our third-party operators may provide you with an ad based on your data includes GAID (Google Advertising ID on Android devices) or IDFA (Identifier for Advertising on IOS devices), region, location information and IP address. This Policy does not govern Third-party Operators, as they have their own privacy policies (such as TopOn: https://help.toponad.com/docs/Privacy-Policy).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may also access your precise geolocation information (through your device) to provide a customized Al Chatting experience based on more accurate simulations to your local environment.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "You will be asked to consent to the following:\n• photos/storage: to collect the photos that you wish to upload and display to other users, or train our Al\nalgorithm (photos will be uploaded to our back-end server)\n• Microphone: to input texts via voice input feature\n• Internet access: to view WLAN state and network connections to optimize Internet access by cellular\nnetwork status camera: to take photos and/or videos for your questions identity: to link to and enable\nlogin through a third-party account (e.g., Google or Apple)\n• precise geolocation: to train our Al algorithm\n• Contacts: to provide an easy way for you to screen if any of your contact persons are using PolyBuzz,\nand establish connections within PolyBuzz",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "You will be asked to consent to the following:\n• photos/storage: to collect the photos that you wish to upload and display to other users, or train our Al\nalgorithm (photos will be uploaded to our back-end server)\n• Microphone: to input texts via voice input feature\n• Internet access: to view WLAN state and network connections to optimize Internet access by cellular\nnetwork status camera: to take photos and/or videos for your questions identity: to link to and enable\nlogin through a third-party account (e.g., Google or Apple)\n• precise geolocation: to train our Al algorithm\n• Contacts: to provide an easy way for you to screen if any of your contact persons are using PolyBuzz,\nand establish connections within PolyBuzz",
+      "lang": "en"
+    }
+  ]
+}

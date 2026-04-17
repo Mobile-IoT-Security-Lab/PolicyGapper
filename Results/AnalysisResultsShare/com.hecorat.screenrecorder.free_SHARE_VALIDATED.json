@@ -1,0 +1,14 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Third-party components integrated into the Application (e.g., Google AdMob, Firebase, AppLovin, Meta Audience Network, YouTube API Services) may also collect information directly or indirectly from your device using cookies, unique identifiers, or similar technologies. This data may include analytics, device details, or personalized advertisement information.",
+      "justification": "The privacy policy states that third-party components like Google AdMob, Firebase, AppLovin, and Meta Audience Network collect analytics and device details. The policy does not specify that these third parties act solely as service providers on the developer's behalf, and the inclusion of advertising networks (AdMob, AppLovin, Meta) and 'personalized advertisement information' implies data sharing that must be declared.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, under 'App performance', declare the collection of 'Other app performance data'. You must also declare that this data is 'Shared' with third parties for purposes such as 'Advertising or marketing' and 'Analytics'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

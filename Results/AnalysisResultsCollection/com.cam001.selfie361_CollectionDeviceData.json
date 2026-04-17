@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We collect information about your activity on our services, for instance how you use them (e.g. date and time you logged in, features you've been using, searches, clicks and pages which have been shown to you, referring webpage address, advertising that you click on) and how you interact with other users (e.g., users you connect and interact with, time and date of your exchanges, number of messages you send and receive).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We collect information about your device, including the hardware model, operating system and version, unique device identifiers (including MAC address and IMEI), browser type and language, mobile device phone number, and mobile network information. We also collect certain device information that will help us diagnose problems in the (hopefully rare) event you experience any crash or other problem while using our Services. So, for example, if we detect a crash or other problematic event, we may collect the list of apps on your device and other information about your device's performance at the time of the event for troubleshooting purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other users so that it cannot reasonably be used to identify any particular individual User.",
+      "lang": "English"
+    }
+  ]
+}

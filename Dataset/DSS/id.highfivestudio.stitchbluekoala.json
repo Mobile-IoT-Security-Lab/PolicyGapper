@@ -1,0 +1,60 @@
+{
+  "sharedData": [
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "Advertising or marketing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Sexual orientation",
+      "optional": 0,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": 0,
+      "purpose": "Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "Advertising or marketing",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    }
+  ],
+  "privacyPolicyUrl": "https://highfivestudiodev.blogspot.com/2020/10/privacy-policy.html"
+}

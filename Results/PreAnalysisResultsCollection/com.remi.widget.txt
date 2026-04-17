@@ -1,0 +1,258 @@
+This Privacy Policy ("Privacy Policy"), is an integral part of our End User License Agreement
+(“EULA”), and governs the processing and transfer of personal data collected or processed by
+using or accessing Aestethic Widgets mobile application (“we”, “us” or “our”) or our
+services, all as detailed in the applicable EULA (respectively the "App” and “Service”).
+
+---
+This Privacy Policy explains what data we may collect from you, how such data may be used
+or shared with others, how we safeguard it and how you may exercise your rights related to
+your Personal Data (as defined below), among others, and where applicable, as required
+according to the EU General Data Protection Regulation (“GDPR”),the Brazilian General Data
+Protection Law (as amended by Law No. 13,853/2019) (“LGPD”), the California Consumer
+Privacy Act ("CCPA”) and other US states as further detailed below.
+
+---
+This Privacy Policy explains our data collection practices that are applicable to any users of
+our App or our Services (“you” or “your”).
+
+---
+C. DATA SETS WE COLLECT AND FOR WHAT PURPOSE:
+
+---
+D. HOW WE COLLECT YOUR INFORMATION:
+
+---
+E. SDK & TRACKING TECHNOLOGIES:
+
+---
+C. DATA SETS WE COLLECT AND FOR WHAT PURPOSE:
+You can find here information regarding the purposes for which we process your personal
+data as well as our lawful basis for processing, the definition of “personal” and “non-
+personal" data, and how it is technically processed.
+Non-Personal Data
+During your interaction with our website and Services, we may collect aggregated, non-
+personal non-identifiable information, which may be made available or gathered via your
+access to and use of the Services (“Non-Personal Data “). We are not aware of the identity of
+the user from which the Non-Personal Data is collected. The Non-Personal Data being
+collected may include your aggregated usage information and technical information
+transmitted by your device, such as: the type of browser or device you use, language
+preference, time and date stamp, country location, etc.
+
+---
+Personal Data
+We may also collect from you, directly or indirectly, during your access or interaction with the
+website or Services, individually identifiable information, namely information that identifies
+an individual or may, with reasonable effort, be used to identify an individual (“Personal
+Data"). The types of Personal Data that we collect as well as the purpose for processing and
+the lawfulness are specified in the table below.
+
+---
+The table below details the processing of Personal Data, the purpose, lawful basis, and
+processing operations:
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information. | This information will be processed for the purpose of performing our contract with you, to set up your account with us and enable you to use our Services. In addition, we may process your Personal Data for our legitimate interests, for example, to send you marketing and promotional messages and offers related to our Services. You are able to unsubscribe from receiving such correspondence from us by contacting us at: support.aestethicwidgets@geniustoolslabs.com Please note that if you choose to unsubscribe from direct marketing, we may still retain your contact details and send you relevant service- related information such as invoices and subscription rates. | The registration information is processed to perform our contract with you and the direct marketing is subject to our legitimate interest. |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| Contact Information: If you voluntarily contact us, you may be required to provide us with certain information such as your name, job title, company name, email address ("Contact Information") and any additional information you decide to share with us. | We will use this data to respond to your inquiry. Members Club Registration: If you choose to register to our Members Club, we will you your Contact Information in order to send you Offers and marketing materials. | We process such Contact Information subject to our legitimate interest. We may keep such correspondence if we are legally required to. |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| GPS Location Information: Certain features may require access to your GPS location permissions. In addition, in certain features we will use your "Access Fine Location" permission in the background while you are using the App so that we are able to locate the wifi networks and connection to provide the Services. | This information will be processed for the purpose of providing the Services. In addition, we will use your Fine Access Location in order to offer you different WIFI networks depend on your location. Please note that this information can run in the background of your mobile device, and show you an applicable list of WIFI networks. You may choose to block your background location through your device setting. Further we wish to clarify that we do not store any GPS Location Information on our servers and any processing activity shall be done solely on your device. | We will process this data solely upon your active explicit consent though in-app notifications. |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| Push Notifications: We may store Firebase Cloud Messages token. If you wish to stop getting push notifications, you may do so simply by disabling push notifications on your device's settings or uninstall the app. | This information will be processed to allow us to send push notifications to users from our server. | As the token is Non-Personal Data it does not require a lawful basis. |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| In-App Payment Information: When you make a payment through our App and offered Services, all payments are in-app payments and are subject to the applicable App Store terms and privacy policy. Google Terms of Service Google Privacy Policy App Store Terms of Use App Store Privacy Policy | We use in app payment processors; the registration and payment information are solely processed by the applicable app store provider. We do not store nor process any Personal Data when you process the payment. We receive an order number which is connected to a user ID which was generated when installing the app (non identifiable). | The Payment Information is processed to perform our contract with you to provide you our Services.. |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third- party service providers) such as "Log Data" or "Crash Data". This data may include information such as your device Internet Protocol ("IP") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics. | In most cases, this data will not include Personal Data, however we treat this information as Personal Data as we may be able to reasonably identify you. | We process this data set for our legitimate Interest of protecting our App and Services and optimizing the App and Services. |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| List of Installed App: When you install our App, we may collect information from your device, that may include a list of your installed Apps. This data may contain identity information and therefore we treat it as Personal Data. | We use this data in order to maintain, support, improve, protect and manage our App and Services. | We will base the processing of this data set on your consent through the organic in-app permissions |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| Profiling Data: When you use our App we may display advertisements, our partners, the advertisers may place an SDK (as detailed below) and collect certain data on you for the purpose of displaying advertisement. If you wish to prevent the display of advertisements or other identifiers for interest-based advertising, you may change your device settings to reset such advertisement or opt-out of such advertising (typically, this is available under the “Privacy” or "Ads" section in your device settings). Please note that if you reset your advertising settings or opt-out of interest based advertising, you may still see advertisements in our App, but those ads will not be targeted for you. Please note that such actions may result in a less enjoyable user experience. | Our partners will process this data to manage and deliver advertisements more effectively and personally, including contextual, behavioral and interests-based advertising based on your activity, preferences or other data available to us or to our business partners and advertisers, including for re-targeting purposes. | We process this information based on your consent as required under your jurisdiction provided through our cookie manager or similar technologies. |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| Photos and Videos: if you use our designated feature in the applicable App in order to provide you with our Services, we will ask you to provide us with photos, images or videos of you (collectively "Content") for editing purposes and to create animations.While we cannot prevent you from doing so, we still do not use Personal Data from photos for purposes other than providing our Service. | We process such data to provide you with the Services and to enable the editing and animation function that you requested. For example, if you wish to receive altered photographs with animations of Emoji, we will use the original photograph you provided us. We keep the original photo and the animation for as long as you use the Services. Further we wish to clarify that we do not store any of your photos and videos on our servers and any processing activity shall be done solely on your device. | We process this information based on your consent provided through the organic in-app permissions in order to execute our contract with you and provide you with our services. |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| Microphone and audio: As part of our dialer feature which is provided to certain Apps of ours, you will be required to provide us permissions to your Microphone. | We use those permissions to provide you with our dialer. The microphone permission needs to be affirmatively enabled through in-app permission or the mobile settings. You may disable the permissions at any time, but depending on the permission you disable, a feature or all features may not function properly. We will process the audio and use the microphone solely for providing you the dialer feature and we will not store any of your audio. Further, we wish to clarify that we do not store any audio file or any information which may be accessed through the microphones and audio permissions on our servers and any processing activity shall be done solely on your device. | We process this information based on your consent provided through the organic in-app permissions in order to execute our contract with you and provide you with our services. |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| Call log and Contacts: As part of our dialer feature which is provided to certain Apps of ours, you will be required to provide us permissions to your call log and contacts. | We use those permissions to provide you with our dialer and to identify your caller based on your contact list. The Call log and contacts permissions need to be affirmatively enabled through in-app permission or the mobile settings. You may disable the permissions at any time, but depending on the permission you disable, a feature or all features may not function properly. Further, we wish to clarify that we do not store any of your contacts or call log on our servers and any processing activity shall be done solely on your device. | We process this information based on your consent provided through the organic in-app permissions in order to execute our contract with you and provide you with our services. |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| Bluetooth and Network: We may collect through your Bluetooth and network permissions list of devices and networks your device "see" and connection history of your device | We use those permissions to provide you with our Services. The permission needs to be affirmatively enabled through in-app permission or the mobile settings. You may disable the permissions at any time, but depending on the permission you disable, a feature or all features may not function properly. | We process this information based on your consent provided through the organic in-app permissions in order to execute our contract with you and provide you with our services. |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| Calendar: Some of our Apps will provide you with new design features for your device. In order to apply those designs, we will need to access your calendar. | We will use the calendar permission in order to apply the applicable design for your device and calendar. The permission needs to be affirmatively enabled through in-app permission or the mobile settings. You may disable the permissions at any time, but depending on the permission you disable, a feature or all features may not function properly. Further, we wish to clarify that we do not store any data processed or may be accessed through the calendar permissions on our servers and any processing activity shall be done solely on your device. | We process this information based on your consent provided through the organic in-app permissions in order to execute our contract with you and provide you with our services. |
+
+---
+| DATA SET | PURPOSE AND OPERATIONS | LAWFUL BASIS |
+|---|---|---|
+| Health Data: Our Apps may access and process certain health related data. This data shall be solely processed on your device and we will not transmit such data to our servers or taking any action which will cause the data to leave your device | We will use this data in order to provide you with certain features and as part of the performance of our Apps We process this information based on your consent provided through the organic in-app permissions in order to execute our contract with you and provide you with our services. We wish to clarify that we do not store any of your contacts or call log on our servers and any processing activity shall be done solely on your device. | We process this information based on your consent provided through the organic in-app permissions in order to execute our contract with you and provide you with our services. |
+
+---
+Please note that the actual processing operation per each purpose of use and lawful basis
+detailed in the table above may differ. Such processing operation usually includes a set of
+operations made by automated means, such as collection, storage, use, disclosure by
+transmission, erasure, or destruction. The transfer of personal data to third-party countries,
+as further detailed in the Data Transfer Section, is based on the same lawful basis as
+stipulated in the table above.
+
+---
+We may collect different categories of Personal Data and Non-Personal Data from you,
+depending on the nature of your interaction with the Services provided through the website
+and Platform, as detailed above. If we combine Personal Data with Non-Personal Data, the
+combined information will be treated as Personal Data or for as long as it remains combined.
+
+---
+D. HOW WE COLLECT YOUR INFORMATION:
+Depending on the nature of your interaction with us, we may collect the above detailed
+information from you, as follows:
+• Automatically, We process this information based on your consent provided through
+the organic in-app permissions in order to execute our contract with you and provide
+you with our services..
+• When you voluntarily choose to provide us with information, such as when you contact
+us, all as detailed in this Policy.
+• Provided from third-parties.
+
+---
+E. SDK & TRACKING TECHNOLOGIES:
+Our Services and some of our Service Providers utilize “cookies” or “software development
+kits ("SDK")" anonymous identifiers and other tracking technologies (collectively, “Tracking
+Technologies") which help us provide and improve our Services, personalize your experience
+and monitor the performance of our activities and campaigns, as well as the usage of our
+Apps and Services as a whole.
+
+---
+| NAME | PURPOSE | PRIVACY AND OPT OUT |
+|---|---|---|
+| Firebase | • Remote Config- data • storage and processing location • Crashlytics- data • Cloud Messaging • data encryption • security purpose • a/b testing • in-app messaging • predictions • analytics | Firebase Privacy Policy: https://firebase.google.com/support/privacy |
+
+---
+| NAME | PURPOSE | PRIVACY AND OPT OUT |
+|---|---|---|
+| Advertisers: • AdMob • AdColony • Applovin • Chocolate Platform • Facebook Audience Network • Index Exchange • Media.net • Mobfox • OpenX • PubMatic • Rubicon • Sharethrough • Yieldmo And as may be updated from time to time (collectively "Advertisers"). | The Advertisers are advertising Service Providers. Their targeted advertising SDKs collect information about your browsing activity across multiple websites and online services in order to provide you with relevant advertisements on the App and Services of third parties. The information collected using these advertising SDK does not disclose your identity, and helps us analyze the effectiveness of our advertising. | • AdColony: https://www.adcolony.com/privacy-policy/ • AdMob: https://policies.google.com/privacy?hl=en • Applovin: https://www.applovin.com/privacy/ • Chocolate Platform: https://chocolateplatform.com/privacy- policy/ • Facebook Audience Network: https://www.facebook.com/about/privacy/ • Index Exchange: https://www.indexexchange.com/privacy/ • Media.net: https://www.media.net/privacy- policy/ • Mobfox: https://www.mobfox.com/privacy- policy/ • OpenX: https://www.openx.com/legal/privacy-policy/ • PubMatic: https://pubmatic.com/legal/privacy/ • Rubicon: https://www.rubicon.com/privacy- policy/ • Sharethrough: https://www.sharethrough.com/privacy- center • Yieldmo: https://yieldmo.com/privacy- policy/ |
+
+---
+G. DATA RETENTION:
+In general, we retain the Personal Data we collect for as long as it remains necessary for the
+purposes set forth above, all under the applicable regulation, or until you express your
+preference to optout, where applicable.
+
+---
+I. INTERNATIONAL DATA TRANSFER:
+We use Google Cloud which are located in EU, US and Asia. Further, certain processing
+activities are conducted in Israel, or other countries. In the event of data transfer out of your
+jurisdiction, we will take appropriate measures to ensure that your Personal Data receives an
+adequate level of protection as required under applicable law. Further, when Personal Data
+collected within the EU is transferred outside the EU (and not to a recipient in a country that
+the European Commission has decided provides adequate protection) it shall be transferred
+under the provisions of the standard contractual clauses approved by the European Union. If
+you would like to understand more about these arrangements and your rights in connection
+therewith, please contact us at our email.
+
+---
+When you contact us and request to exercise your rights regarding your Personal Data, we
+will require certain information from you in order to verify your identity and locate your data
+and that the process of locating and deleting the data may take reasonable time and effort,
+as required or permitted under applicable law. Data privacy and related laws in your
+jurisdiction may provide you with different or additional rights related to the data we collect
+from you, which may also apply.
+
+---
+Interest-Based Advertising (“IBA”): We do not sell your Personal Data. Some of our Apps may
+include providing you with advertisements therefor we may “share” your Personal Data with
+third parties for personalized advertising purposes. If you wish to opt-out from the sharing of
+your personal data with third parties for the purpose of cross-contextual interest-based
+advertising there are many way to do so, as further detailed below. Please note that even if
+you opt-out you may still see personalized ads based on information other companies and ad
+networks have collected about you, if you have not opted out of sharing with them.
+
+---
+L. ELIGIBILITY AND CHILDREN PRIVACY:
+The Services are not intended for use by children (the phrase “child” shall mean an individual
+that is under the age defined by applicable law, which concerning the EEA is under the age of
+16, and with respect to the US, under the age of 13), and we do not knowingly process
+children's information. We will discard any information we receive from a user that is
+considered a “child” immediately upon discovering that such a user shared information with
+us. Please contact us at: support.aestethicwidgets@geniustoolslabs.com if you have reason
+to believe that a child has shared any information with us.
+
+---
+Please see the CCPA Privacy Notice: link which discloses the categories of personal
+information collected, purpose of processing, source, categories of recipients with whom the
+personal information is shared for a business purpose, whether the personal information is
+sole or shared, the retention period, and how to exercise your rights as a California resident.
+
+---
+Section I.C “DATA SETS WE COLLECT AND FOR WHAT PURPOSE" of the Privacy Policy, we
+describe our collection and processing of personal data, the categories of personal data that
+are collected or processed, and the purposes. Additionally, in Section I.F“DATA SHARING –
+CATEGORIES OF RECIPIENTS WE SHARE PERSONAL DATA WITH” details the categories of
+third-parties the controller shares for business purposes. ###
+
+---
+| | | |
+|---|---|---|
+| Right to Access/ Right to Know | You have the right to confirm whether and know the Personal Data we collected on you | You can exercise your right by reviewing this Privacy Policy, in case you would like to receive the Personal Data please fill in this form to receive a copy of your data: link |
+
+---
+| | | |
+|---|---|---|
+| Right to Deletion | You have the right to delete the Personal Data, this right is not absolute and in certain circumstances we may deny such request. We may deny your deletion request, in full or in part, if retaining the information is necessary for us or our service provider(s) for any of the following reasons: (1) Complete the transaction for which we collected the Personal Data, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, or otherwise perform our contract with you; (2) Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities; (3) Debug products to identify and repair errors that impair existing intended functionality; (4) Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law; (5) Comply with the law or legal obligation; (6) Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if you previously provided informed consent; (7) Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us; (8) Make other internal and lawful uses of that information that are compatible with the context in which you provided it. We will delete or de-identify personal | If you would like to delete your Personal Data please fill in this form: link You do not need to create an account with us to submit a request to know or delete. |
+
+---
+The VCDPA requires us to disclose the Categories of data processing and the purpose of each
+category, as detailed in Section I.C "DATA SETS WE COLLECT AND FOR WHAT PURPOSE" of the
+Privacy Policy, the categories of data shared and the third parties with whom it is shared, as
+detailed in Section I.F “DATA SHARING – CATEGORIES OF RECIPIENTS WE SHARE PERSONAL
+DATA WITH”. Disclosure of sale of data or targeted advertising are detailed in Section I.K OPT
+OUT OPTIONS above, and in the DSR Form. Further, the table above under Section II.B
+“ADDITIONAL NOTICE TO COLORADO RESIDENTS" details the rights you have under VCDPA
+and how you may exercise your rights.
+
+---
+The categories of personal data processed, purpose of processing, are detailed in Section I.C
+“DATA SETS WE COLLECT AND FOR WHAT PURPOSE”, categories of personal data shared with
+third parties, categories of third parties with whom data is shared, are detailed in Section I.F
+"DATA SHARING – CATEGORIES OF RECIPIENTS WE SHARE PERSONAL DATA WITH". Disclosure
+of sale of data or targeted advertising are detailed in Section I.K OPT OUT OPTIONS above,
+and in the DSR Form.
+
+---
+The categories of personal data processed, purpose of processing, are detailed in Section I.C
+“DATA SETS WE COLLECT AND FOR WHAT PURPOSE", categories of personal data shared with
+third parties, categories of third parties with whom data is shared, are detailed in Section I.F
+"DATA SHARING – CATEGORIES OF RECIPIENTS WE SHARE PERSONAL DATA WITH". Disclosure
+of sale of data or targeted advertising are detailed in Section I.K OPT OUT OPTIONS above,
+and in the DSR Form.

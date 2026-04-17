@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "1. Phone Screening: By using any automated phone screen service, you agree that you are requesting Indeed to send a Job Seeker a telephone number, which the Job Seeker may call with the purpose of answering your telephone screening questions. You agree these questions are part of your application process, are solely determined by you, and are not being asked by Indeed. You also agree that Indeed will forward you the recording of the answers to your questions. This includes Indeed listening to and analyzing the recording in accordance with Indeed's Privacy Policy, as well as Indeed providing the recording to third parties to aid in analysis or quality of the service. Indeed disclaims all warranties with regard to the transmission or storage of such phone screens and responses, does not guarantee their delivery or receipt, and does not guarantee the date or time at which they may be sent.",
+"lang": "en"
+},
+{
+"data_type": "Calendar events",
+"policy_reference": "Calendar Information. This may include meeting schedules and event information made available through Client controlled integrations (e.g. Outlook, Google Calendar).",
+"lang": "en"
+}
+]
+}

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We collect the following information:\nIP address, browser type, operating system type and platforms, Login information, URL\ninformational, Page interactions like clicking and scrolling and phone number or email you used to",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect the following information:\nIP address, browser type, operating system type and platforms, Login information, URL\ninformational, Page interactions like clicking and scrolling and phone number or email you used to",
+      "lang": "English"
+    }
+  ]
+}

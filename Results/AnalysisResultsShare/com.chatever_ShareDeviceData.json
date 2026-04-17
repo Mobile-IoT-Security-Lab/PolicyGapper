@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Analytics\nWe may use third-party Service Providers to monitor and analyze the use of our Service.\nGoogle Analytics: Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.\nFor more information on the privacy practices of Google, please visit the Google Privacy Terms web page:\nhttp://www.google.com/intl/en/policies/privacy/",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "6.2. The Company may disclose the Client's Personal Data with third parties in the following cases:\na. Other Clients of the Company_ :\nThe Client shares information with other Clients of the Company by way of voluntarily disclosing information on the\nService (including but not limited to information in Client's profile).\nIt is in the Client's discretion to choose the information to be disclosed with the Service and the Company rescinds from\nresponsibility for the other Clients of the Service regarding the way they might use such information, disclosed by the\nClient.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Analytics\nWe may use third-party Service Providers to monitor and analyze the use of our Service.\nGoogle Analytics: Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.\nFor more information on the privacy practices of Google, please visit the Google Privacy Terms web page:\nhttp://www.google.com/intl/en/policies/privacy/",
+      "lang": "English"
+    }
+  ]
+}

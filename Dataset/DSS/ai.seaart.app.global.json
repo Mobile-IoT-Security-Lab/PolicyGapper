@@ -1,0 +1,143 @@
+{
+  "sharedData": [
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Installed apps",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "App functionality, Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Account management",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Files and docs",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Files and docs"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "Messages"
+    },
+    {
+      "data": "Photos",
+      "optional": 1,
+      "purpose": "App functionality, Personalization",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://node1.cdn2.seaart.ai/mirror/static/upload/policy.html"
+}

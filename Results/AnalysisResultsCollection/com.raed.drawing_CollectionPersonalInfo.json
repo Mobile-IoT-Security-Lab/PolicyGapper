@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We use in app payment processors; the registration and payment information are solely processed by the applicable app store provider. We do not store nor process any Personal Data when you process the payment. We receive an order number which is connected to a user ID which was generated when installing the app (non identifiable).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We use in app payment processors; the registration and payment information are solely processed by the applicable app store provider. We do not store nor process any Personal Data when you process the payment. We receive an order number which is connected to a user ID which was generated when installing the app (non identifiable).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "During your interaction with our website and Services, we may collect aggregated, non-personal non-identifiable information, which may be made available or gathered via your access to and use of the Services (“Non-Personal Data “). We are not aware of the identity of the user from which the Non-Personal Data is collected. The Non-Personal Data being collected may include your aggregated usage information and technical information transmitted by your device, such as: the type of browser or device you use, language preference, time and date stamp, country location, etc.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Information: We may receive payment information when you use Shop Pay or make a purchase through Shopify or Shopify Merchants, such as your payment card number and expiration date.",
+      "lang": "English"
+    }
+  ]
+}

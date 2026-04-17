@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "If you get in touch with our customer support team (e.g. via email or our Al customer service chatbot \"Bab\") or otherwise provide feedback to us, we process your contact data as well as the content of your inquiry and feedback. We will furthermore process metadata, such as information on your subscriptions (including payment information) and information regarding your browser or the mobile device you are using when accessing our services.",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "If you get in touch with our customer support team (e.g. via email or our Al customer service chatbot \"Bab\") or otherwise provide feedback to us, we process your contact data as well as the content of your inquiry and feedback. We will furthermore process metadata, such as information on your subscriptions (including payment information) and information regarding your browser or the mobile device you are using when accessing our services.",
+"lang": "en"
+}
+]
+}

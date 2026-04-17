@@ -1,0 +1,9 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "If the app includes a rating system, we collect in this context the following data: date and time of the given rating, the number of given stars, if available the written message of the writer, IP address, the operating system, the operating system version, as well as details of the used device. These data are collected for the continuous improvement of the app and after 14 days partially deleted and anonymized, so that they can no longer be assigned to a user.",
+"lang": "en"
+}
+]
+}

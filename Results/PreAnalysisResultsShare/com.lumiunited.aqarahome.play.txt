@@ -1,0 +1,258 @@
+• Account information. We may collect information related to your account, including your Aqara
+Account nickname, profile photo, shared Aqara Account, phone number (if any), e-mail address.
+
+---
+
+Third-Party Advertising Service Providers: We may collaborate with third-party advertising
+service providers to display relevant advertisements to you for the purposes described in this
+Privacy Policy and the Aqara Shop Privacy Policy. To improve service quality, enhance user
+experience, and support our business marketing activities, we may, in compliance with
+applicable laws and regulations, share certain personal information (such as your email address)
+with these partners when necessary to achieve the stated purposes. We are committed to
+sharing information only within the scope of lawful, legitimate, necessary, specific, and clearly
+defined purposes, and only to the extent required for the provision of advertising services. Our
+partners are prohibited from using the personal information they receive for any unauthorized
+purposes. We will not share your sensitive personal information (such as identification details,
+financial information, or biometric data) with any third parties-including advertising platforms,
+data brokers, or information resellers-without your explicit consent. Even with such consent,
+the sharing of sensitive information will be strictly limited to improving or delivering the
+functionality of our websites, applications, products, or services.
+
+---
+
+INFORMATION COLLECTED BY THE THIRD PARTIES
+Please be aware that in order to realize the relevant functions and ensure the safety and stability of
+the service, we have accessed the software tool development kit (SDK) provided by a third party, and
+we will conduct strict security monitoring on the SDK obtained by the partner to protect the data
+security.
+In the following table, we list the types of third-party SDKs accessed in the Aqara Home app, as well
+as the types of personal information you collect and the purpose of use: 1. Third-party SDK name:
+Shangyun (CS2 Network)
+Information collection types: Camera device ID, network information (IP, current network type and
+name)
+Purpose of use: It is used to set up the p2p connection of the camera after the camera device is
+added
+Operating systems: Android and iOS
+
+---
+
+1. Third-party SDK name: Facebook open-source framework
+Information collection types: Device information (including device model, device identifier
+(AndroidID/IDFA/OPENUDID/GUID/OAID)
+Purpose of use: It is used to log in Facebook
+Operating systems: Android and iOS
+
+---
+
+2. Third-party SDK Name: Google SDK
+Information Collection Types: Device Identifiers: IMEI or OAID, SN, IMSI, Android ID, GAID.
+Application Information: App registration and version number, operating status. Network
+Information:IP or domain connection results, current network type. Running Process Information.
+Purpose of Use: Google account authorization login
+Operating systems: Android and iOS
+
+---
+
+3. Third-party SDK name: Sensors Data
+Information collection types: IP address, sensor list, acceleration sensor, device information
+(device version, device manufacturer, device model information), device identification
+information (hardware serial number, IMEI, MAC address, IMSI information, IDFA, AndroidID),
+device status information, install application package name information, network information
+(WIFI parameter ssid), operator information, location information, IDFV, OAID, VAID, UUID, IMSI
+Purpose of use: It is used to initialize the SDK for data collection after the user agrees to the
+Privacy
+Operating systems: Android and iOS
+
+---
+
+4. Third-party SDK name: Application performance monitoring full-link version App
+monitoring SDK
+Information collection types:
+(1) Device information: device ID, device model, operating system, system time zone, screen
+resolution, disk usage, memory usage, number of running threads, CPU information (frequency,
+model, architecture), mobile device country code (MCC), Mobile Device Network Coding (MNC),
+device dpi; Android ID, device brand, operating system api version, user agent, battery power,
+network traffic, device abi, ROM;
+(2) Application information: application version, application package name, process startup time,
+crash time, crashed thread name, active page name, all thread stacks of the current process,
+application service log information, application file name, application file size, disk size; fd list;
+(3) System and network identification information: user ID, IP address, operator information,
+network access mode.
+Purpose of use: Use automation programs and algorithms to identify devices, obtain device
+status (online, offline, and network environment), perform device count statistics, and debug
+single device problems.
+Operating systems: Android and iOS
+
+---
+
+5. Third-party SDK name: International translation platform SDK
+Information collection types:
+(1) Device information: device brand, device model, operating system;
+(2) Application information: application package name;
+(3) System or network identification information: network access mode (WIFI status);
+(4) Personal location information: System country/region information.
+Purpose of use: Obtain the i18n copy configured by the customer on the translation platform.
+This parameter will be used by the server to configure the grayscale dimension selection for
+grayscale delivery.
+Operating systems: Android and iOS
+
+---
+
+6. Third-party SDK name: AndroidX Webkit (chromium)
+Information collection types: SSID, BSSID, MAC address, WIFI information, AndroidX Webkit
+(chromium) needs to monitor the WIFI switch and signal status, and will obtain WIFI information,
+MAC address, SSID, installed APP information, and sensor information multiple times.
+Purpose of use: AndroidX auxiliary development tools provided by Google, based on the
+WebKit browser engine, provide web browsing services
+Operating systems: Android
+
+---
+
+7. Third-party SDK name: GeTui
+Information collection types: Device ID, device model, app version number, system version
+number, device platform, device manufacturer, network information and position-related
+information, application list information
+Purpose of use: It is used to provide the message pushing service for models of the iOS
+system
+Operating systems: iOS
+
+---
+
+8. Third-party SDK name: Ali Mobile PUSH (EMAS)
+Information collection types: Device identification information (operating system, device
+model, IP, operator information)
+Purpose of use: It is used to recognize the pushing device and push messages to the single
+device
+Operating systems: Android
+
+---
+
+9. Third-party SDK name: Xiaomi PUSH
+Information collection types: Device identification information (IMEI [targeting at the following
+versions of Android Q], OAID, Android ID and MAC address), setting information of the
+notification bar, network status information (IP, current network type and name)
+Purpose of use: It is used to provide the message pushing service for the mobile terminal of Mi
+brand
+Operating systems: Android
+
+---
+
+10. Third-party SDK name: OPPO PUSH
+Information collection types: Device-related information (such as IMEI [targeting at the
+following versions of Android Q], Android ID), application list
+Purpose of use: It is used to provide the message pushing service for the mobile terminal of
+OPPO brand
+Operating systems: Android
+
+---
+
+11. Third-party SDK name: vivo PUSH
+Information collection types: Device-related information (such as IMEI [targeting at the
+following versions of Android Q], Android ID), application list
+Purpose of use: It is used to provide the message pushing service for the mobile terminal of
+vivo brand
+Operating systems: Android
+
+---
+
+12. Third-party SDK name: FCM PUSH
+Information collection types: List of applications in operation
+Purpose of use: It is used to receive the message pushing service when the overseas device is
+used in the overseas region, including APNS push
+Operating systems: Android
+
+---
+
+13. Third-party SDK name: Tencent Bugly Pro SDK
+Information collection types: (1) For Android devices: Log information (including third-party
+developer custom logs, Logcat logs, and App crash stack information), device identification
+information (IMEI [for versions below Android Q], IMSI, MAC address, Android ID, and IDFV),
+phone model, phone brand, phone system API level, CPU architecture type, whether the device
+is rooted, disk space usage, SD card space usage, memory space usage, network information,
+network type, system name, system version, country code, phone serial number, current running
+process name and PID. (2) For iOS devices: Device model, operating system name and version,
+operating system internal version number, Wi-Fi status, CPU attributes, remaining memory
+space, disk space/disk remaining space, runtime phone status (memory used by processes,
+virtual memory, etc.), IDFV, whether the device is jailbroken, area code.
+Purpose of use: To collect statistics on APP abnormal situations and troubleshoot crashes.
+Operating systems: Android and iOS
+
+---
+
+WITH WHOM WE SHARE YOUR INFORMATION
+We do not sell any personal information to third parties.
+We may disclose your personal information on occasion to third parties (as described below) in order
+to provide the products or services that you have requested. If you no longer wish to allow us sharing
+this information, please contact us at privacy@lumiunited.com.
+To help us provide you with services described in this Privacy Policy, we may, where necessary,
+share your personal information with our third party service providers listed in this section below.
+
+---
+
+These third party service providers may process your personal information on Lumi Company's
+behalf or for one or more of the purposes of this Privacy Policy. You should know that when Lumi
+Company shares your personal information with a Third Party Service Provider under any
+circumstance described in this section, Lumi Company will contractually specify that the third party is
+subject to practices and obligations to comply with applicable local data protection laws. Lumi
+Company will contractually ensure compliance by any Third Party Service Providers with the privacy
+standards that apply to them in your home jurisdiction.
+
+---
+
+SHARING WITH THIRD PARTY SERVICE PROVIDERS
+To provide better customer support service to you, we entrust a third party service provider to
+process some of your personal information, here are the details:
+Name of the third party: Freshworks
+Nature of the sharing: Entrusted processing of personal information
+Purposes to process the information: To provide customer support service; Communicating with you
+about your device, service or any general queries, such as updates, customer inquiry support,
+information about our events, notices.
+Category of information processed: Feedback information.
+Recipient's location: 2950 South Delaware St. 2nd Floor, San Mateo, CA 94403 U.S.A.
+
+---
+
+INFORMATION NOT REQUIRING CONSENT
+Lumi Company may disclose your personal information to others without further consent when it is
+required by law.
+For the avoidance of doubt, Lumi Company may collect, use or disclose your personal information
+without your consent if it is and only to the extent it is allowed explicitly under local data protection
+laws. Such disclosure may be brought about by the necessity to protect our rights, ensure the safety
+of you and other people, and comply with the requirements of the local government to facilitate the
+investigations of illegal activities.
+
+---
+
+We make sure that our employees and Third Party Service Providers who access the information to
+help provide you with our products and services are subject to strict contractual confidentiality
+obligations and may be disciplined or terminated if they fail to meet such obligations. We have special
+access controls for cloud based data storage as well. All in all, we regularly review our information
+collection, storage and processing practices, including physical security measures, to guard against
+any unauthorized access and use.
+
+---
+
+• Lumi Company cannot be held responsible for lapses in security caused by third party accesses
+to your personal information as a result of your failure to keep your personal information private.
+Notwithstanding the foregoing, you must notify us immediately if there is any unauthorized use
+of your account by any other Internet user or any other breach of security.
+
+---
+
+TRANSFER OF PERSONAL INFORMATION OUTSIDE OF YOUR JURISDICTION
+To the extent that we may need to transfer personal information outside of your jurisdiction to the
+third part service provider, we shall do so in accordance with the applicable laws. In particular, we will
+ensure that all transfers will be in accordance with requirements under your applicable local data
+protection laws by putting in place appropriate safeguards.
+Lumi Company may use overseas facilities to process or back up your personal information.
+Currently, Lumi Company has data centers in mainland China, Germany, South Korea, Singapore,
+Russia and United States. These overseas jurisdictions may or may not have in place data protection
+laws which are substantially similar to that in your home jurisdiction. We may transfer to and store
+your personal information at our overseas facilities. However, this does not change any of our
+commitments to safeguard your personal information in accordance with this Privacy Policy. Your
+personal information may be accessible to law enforcement or other authorities pursuant to a lawful
+request. By providing information to Lumi Company, you consent to the storage of your pe6655rsonal
+information in these locations. If you use our services in the area of the European Economic
+Area (EEA), The privacy_policy for EEA shall apply.If we share personal data originating by you in
+the EEA to a third party service provider outside the EEA, we will do so on the basis of EU standard
+contractual clauses or any other safeguards provided for in the GDPR.

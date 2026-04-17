@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "If You communicate with Us, by, for example, email or letter, any\ninformation provided in such communication may be collected and\nstored by DevBytes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Personal Information Collected\nIn order to provide the App, We may require You to provide Us with\nPersonal Information. Personal Information includes the following\ncategories of information:\n(i) Contact data (such as Your email address, phone number and any\ndetails of Your contacts)\n(ii) Device data; and\n(iii) Demographic data (such as Your time zone, Your postal address\nand location details).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Personal Information Collected\nIn order to provide the App, We may require You to provide Us with\nPersonal Information. Personal Information includes the following\ncategories of information:\n(i) Contact data (such as Your email address, phone number and any\ndetails of Your contacts)\n(ii) Device data; and\n(iii) Demographic data (such as Your time zone, Your postal address\nand location details).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Personal Information Collected\nIn order to provide the App, We may require You to provide Us with\nPersonal Information. Personal Information includes the following\ncategories of information:\n(i) Contact data (such as Your email address, phone number and any\ndetails of Your contacts)\n(ii) Device data; and\n(iii) Demographic data (such as Your time zone, Your postal address\nand location details).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Personal Information Collected\nIn order to provide the App, We may require You to provide Us with\nPersonal Information. Personal Information includes the following\ncategories of information:\n(i) Contact data (such as Your email address, phone number and any\ndetails of Your contacts)\n(ii) Device data; and\n(iii) Demographic data (such as Your time zone, Your postal address\nand location details).",
+      "lang": "English"
+    }
+  ]
+}

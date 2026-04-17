@@ -1,0 +1,112 @@
+If you've agreed to data collection, the application collects some user data that are essential for us to deliver our
+services, to understand your needs and to improve our services. For example, the application collects how much
+time users spent on certain screens or which features are popular. The analytics services automatically collect
+certain information that does not personally identify our end users who access or use our mobile applications. This
+information includes but is not limited to device state information, unique device identifiers, installation UUID,
+device hardware and OS information, information relating to how application functions or anonymized IP addresses.
+
+---
+Android
+We use the following third-party services for our Android app:
+We collect certain data that allows us to analyze how you interact with our app and fix bugs. We do use third-party
+tools to help us with this. But we are careful to only let them process usage data and minimal personal data. To be
+clear, these third party services are not permitted to use the data for any other purpose than to help us run the app.
+
+---
+Google Analytics, Flurry Analytics, Firebase, Meta Analytics & Amplitude
+•
+•
+•
+This service helps us to collect and analyze usage data in order to understand usage patterns and to improve
+our Android app.
+Personal data collected: various usage and device data such as cookies, unique device identifiers, usage data,
+anonymized IP addresses
+Firebase Crash Reporting (Google Inc.)
+This service helps us to identify crashes and errors in our app. It helps us to improve the reliability and stability
+of our Android app.
+Personal data collected: Instance IDs, Crash traces
+Data retention: 180 days for crash stack traces, Firebase retains Instance IDs until the Firebase customer makes
+an API call to delete the ID.
+
+---
+Advertising
+Advertising helps us to keep our app free. The premium version of our app does not serve any ads. The ad's
+content is NOT based on your entries or notes. We don't share your data with the ads providers.
+■ The free version of our Android app uses the following service:AdMob (AdMob Google Inc.), Facebook
+Audience NetworkWe use AdMob, Facebook Audience Network to display ad banners and other
+advertisements possibly based on your interests. AdMob, Facebook Audience Network may or may not use
+cookies to identify users and they may use the behavioural retargeting technique, i.e. displaying ads tailored
+to your interests and behaviour, including those detected outside our app. For example, if you've previously
+visited e-shop selling shoes you might see more ads promoting shoes or shoe shops.
+■ We may share your information with the following partners to improve our app and provide more tailored
+advertising.
+We may receive your personal data from advertising partners.
+• We may receive your personal data from advertising partners.
+• Google: https://policies.google.com/privacy.
+Ο
+Firebase : https://firebase.google.com/support/privacy.
+Ο
+Facebook Audience Network (Meta) : https://www.facebook.com/privacy/explanation
+○ ironSource : https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-
+policy.
+• Flurry: https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html
+• Applovin: https://www.applovin.com/privacy/
+• Pangle: https://www.pangleglobal.com/privacy/enduser-en
+• Unity: https://unity.com/legal/game-player-and-app-user-privacy-policy
+Ο
+LiftOff: https://liftoff.io/privacy-policy/
+• Sale, for the purpose of the CCPA (California Consumer Privacy Act), means selling, renting, releasing,
+disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing,
+or by electronic or other means, a Consumer's Personal information to another business or a third
+party for monetary or other valuable consideration.We use AdMob, Facebook Audience Network,
+Applovin, Mopub, Pangle, Unity, LiftOff to display ad banners and other advertisements possibly based
+on your interests. AdMob, Facebook Audience Network, Applovin, Mopub, Pangle, Unity, LiftOff may or
+may not use cookies to identify users and they may use the behavioural retargeting technique, i.e.
+displaying ads tailored to your interests and behaviour, including those detected outside our app. For
+example, if you've previously visited e-shop selling shoes you might see more ads promoting shoes or
+shoe shops. The app does not knowingly collect or use personal data from children under the age of 17.
+
+---
+Google's advertising requirements can be summed up by Google's Advertising
+Principles https://www.google.com/policies/privacy/partners/ (https://www.google.com/policies/privacy/partners/). They
+are put in place to provide a positive experience for users.
+Personal data collected: Cookies, Google Advertiser ID
+
+---
+• We apply security measures to protect against misuse, loss, and/or alteration of personal information under our
+control. We follow industry best practices when transferring and storing your data. Though we cannot ensure or
+guarantee that misuse, loss or alteration of information will never occur, we use all reasonable efforts to
+prevent it.
+
+---
+Request the transfer of Your Personal Data. We will provide to You, or to a third-party You have chosen, Your
+Personal Data in a structured, commonly used, machine-readable format. Please note that this right only applies
+
+--- [PAGE BREAK] ---
+to automated information which You initially provided consent for Us to use or where We used the information
+to perform a contract with You.
+
+---
+The right to access / the right to request. The CCPA permits You to request and obtain from the Company
+information regarding the disclosure of Your Personal Data that has been collected in the past 12 months by the
+Company or its subsidiaries to a third-party for the third party's direct marketing purposes.
+The right to say no to the sale of Personal Data. You also have the right to ask the Company not to sell Your
+Personal Data to third parties. You can submit such a request by visiting our “Do Not Sell My Personal
+Information" section or web page.
+The right to know about Your Personal Data. You have the right to request and obtain from the Company
+information regarding the disclosure of the following:
+The categories of Personal Data collected
+The sources from which the Personal Data was collected
+The business or commercial purpose for collecting or selling the Personal Data
+Categories of third parties with whom We share Personal Data
+The specific pieces of Personal Data we collected about You
+
+---
+• We apply security measures to protect against misuse, loss, and/or alteration of personal information under our
+control. We follow industry best practices when transferring and storing your data. Though we cannot ensure or
+guarantee that misuse, loss or alteration of information will never occur, we use all reasonable efforts to
+prevent it.
+
+---
+PLATFORM PROVIDER:
+SMS PARTNER:

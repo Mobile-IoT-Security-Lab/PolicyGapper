@@ -1,0 +1,126 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Network activity information, such as your browsing history, search history, the videos or pages you visited, the date and time of your visits, other users' accounts that you subscribed to, and information regarding your interaction with other users;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Network activity information, such as your browsing history, search history, the videos or pages you visited, the date and time of your visits, other users' accounts that you subscribed to, and information regarding your interaction with other users;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "Information regarding your access to and use of other apps;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User-generated contents (“UGC\"), such as comments, texts, messages, pictures, images, videos, sounds, code or other data or materials that you upload, distribute or stream on the App when you use Bigo Services;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Network activity information, such as your browsing history, search history, the videos or pages you visited, the date and time of your visits, other users' accounts that you subscribed to, and information regarding your interaction with other users;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Network activity information, such as your browsing history, search history, the videos or pages you visited, the date and time of your visits, other users' accounts that you subscribed to, and information regarding your interaction with other users;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "The personal information that Bigo Live disclosed about you for a business purpose in the twelve months prior to the effective date of this Disclosure fall into the following categories:\n• Internet or other electronic network activity information, such as if we use a service provider to help us gather crash reports for analyzing the health of our services;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Device identifiers, such as your operating system, browser type, brand, model and serial number of your mobile device, Internet Protocol (IP) address, mobile carrier, screen resolution, language setting, IMEI number, IMSI number, and media access control address;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Payment information, such as full name, billing address, billing zip code, billing country, date of birth, purchase amount, payment method, credit or debit card number or other payment information where required for payment;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment information, such as full name, billing address, billing zip code, billing country, date of birth, purchase amount, payment method, credit or debit card number or other payment information where required for payment;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transaction information such as the transaction serial number and transaction historical records after you purchased Paid Services;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "User-generated contents (“UGC\"), such as comments, texts, messages, pictures, images, videos, sounds, code or other data or materials that you upload, distribute or stream on the App when you use Bigo Services;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "User-generated contents (“UGC\"), such as comments, texts, messages, pictures, images, videos, sounds, code or other data or materials that you upload, distribute or stream on the App when you use Bigo Services;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "User-generated contents (“UGC\"), such as comments, texts, messages, pictures, images, videos, sounds, code or other data or materials that you upload, distribute or stream on the App when you use Bigo Services;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "User-generated contents (“UGC\"), such as comments, texts, messages, pictures, images, videos, sounds, code or other data or materials that you upload, distribute or stream on the App when you use Bigo Services;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "User-generated contents (“UGC\"), such as comments, texts, messages, pictures, images, videos, sounds, code or other data or materials that you upload, distribute or stream on the App when you use Bigo Services;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Your social network contacts with your permission, when you activate the “Discover Friends\" function and allow us to access your contacts;",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

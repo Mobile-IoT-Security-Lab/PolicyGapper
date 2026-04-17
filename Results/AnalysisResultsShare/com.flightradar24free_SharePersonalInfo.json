@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "In addition to the abovementioned, we may also disclose anonymous information to our partners and suppliers for the purposes stated in this Privacy Policy within and outside the EU/EEA. In some instances it may be required for us to disclose your address onto shipping companies to receive hardware from us. You understand and agree that such third party or supplier will be the controller in relation to such data and its processing and that it will be subject to their privacy policy. We will take necessary actions to secure the transfer of such data outside the EU/EEA by using a security mechanism in line with the applicable data protection laws. You expressly consent to your personal data being used as described in this Privacy Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "When you encounter an implemented social plug-in (e.g. \"like\" button) from a third party, such as Facebook, Twitter or Google, while using our Service, your browser or App, as applicable, will establish a direct link to that third party (\"Social Plug-in\") and will then transmit the following data to the Social Plug-in directly:\na. date and time of your visit;\nb. the Internet address/URL of the site that you are currently visiting;\nc. your IP address;\nd. your browser;\ne. your operating system;\nf. your user code if you are a registered user of Social Plug-in and if applicable your surname and first name; and\ng. if you click on the plug-in, of course the information that you have used this specific plug-in.",
+      "lang": "English"
+    }
+  ]
+}

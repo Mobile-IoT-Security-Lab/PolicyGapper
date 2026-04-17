@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Transaction Information: We collect transaction details related to your use of our Services, and information about your activity on the Services, including the full Uniform Resource Locators (URL), the type of Services you requested or provided, comments, domain names, search results selected, number of clicks, information and pages viewed and searched for, the order of those pages, length of your visit to our Services, the date and time you used the Services, amount charged, details regarding application of promotional code, methods used to browse away from the page and any phone number used to call our customer service number and other related transaction details;",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Transaction Information: We collect transaction details related to your use of our Services, and information about your activity on the Services, including the full Uniform Resource Locators (URL), the type of Services you requested or provided, comments, domain names, search results selected, number of clicks, information and pages viewed and searched for, the order of those pages, length of your visit to our Services, the date and time you used the Services, amount charged, details regarding application of promotional code, methods used to browse away from the page and any phone number used to call our customer service number and other related transaction details;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Provide content to us, which may include reviews, ordering details and history, favorite vendors, special merchant requests, contact information of people you refer to us and other information you provide on the EatSure Platform (\"Your Content\").",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Transaction Information: We collect transaction details related to your use of our Services, and information about your activity on the Services, including the full Uniform Resource Locators (URL), the type of Services you requested or provided, comments, domain names, search results selected, number of clicks, information and pages viewed and searched for, the order of those pages, length of your visit to our Services, the date and time you used the Services, amount charged, details regarding application of promotional code, methods used to browse away from the page and any phone number used to call our customer service number and other related transaction details;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Usage and Preference Information: We collect information as to how you interact with our Services, preferences expressed and settings chosen. EatSure Platform includes the EatSure advertising services (“Ad Services”), which may collect user activity and browsing history within the EatSure Platform and across third-party sites and online services, including those sites and services that include our ad pixels (“Pixels”), widgets, plug-ins, buttons, or related services or through the use of cookies. Our Ad Services collect browsing information including without limitation your Internet protocol (IP) address and location, your login information, browser type and version, date and time stamp, user agent, EatSure cookie ID (if applicable), time zone setting, browser plug-in types and versions, operating system and platform, and other information about user activities on the EatSure Platform, as well as on third party sites and services that have embedded our Pixels, widgets, plug-ins, buttons, or related services;",
+      "lang": "English"
+    }
+  ]
+}

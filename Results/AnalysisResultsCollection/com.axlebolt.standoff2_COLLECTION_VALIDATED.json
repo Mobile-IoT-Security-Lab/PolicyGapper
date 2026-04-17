@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "These data include:\n• \"User's email\" - your unique email address.\n• \"Username\" is a set of characters and/or numbers that are not yet used by another player in our Game, and which you can change\nin your account yourself. You can specify the Username yourself, but this is optional. If you refuse to specify a Username, it will be\nassigned randomly in an automatic manner.\n• \"User's Avatar\" is an image or photo that you can, but are not required to upload to your account instead of the default avatar.\n• \"Information provided when contacting support\" - information provided by you when contacting our support service, including\nthe nature of your problem, payments data and information about your account.\n• \"Information that you share in text chats\" - information that is provided by you during communication with other players through\nthe messaging functionality in the Game.",
+      "justification": "The privacy policy states that the app collects 'Information that you share in text chats' and allows users to upload a 'User's Avatar'. This data is sent off-device to facilitate communication and display profiles, and does not meet any exemption criteria like on-device only processing or end-to-end encryption.",
+      "how_to_fix": "Declare 'Other user-generated content' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "As a Game developer, it is important to us to know how users interact with our Games in order to improve your user experience. We\nand our partners (“Analytics Services\") collect your Location Information, Device Information, Advertising IDs, and Login information\nfor analytics purposes for our Games. For example, we use this information to:\n• assessment of the difficulty level of the Game,\n• corrections of any errors in the Game,\n• assessing the demographics of our users,\n• determining the need to support a new type of Device for the Game.",
+      "justification": "The privacy policy states, 'We and our partners (“Analytics Services\") collect' data for purposes including 'corrections of any errors in the Game'. This data is explicitly sent off-device for processing and does not qualify for any collection exemptions.",
+      "how_to_fix": "Declare 'Diagnostics' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Our legitimate interest is in analyzing your activity to make sure that the Game is\nfunctioning properly, as well as to fix problems\nand improve your future experience.",
+      "justification": "The policy states the developer is 'analyzing your activity to make sure that the Game is functioning properly, as well as to fix problems'. This analysis implies data is sent off-device and processed by the developer, thus it does not qualify for any collection exemptions.",
+      "how_to_fix": "Declare 'Other app performance data' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "How are User's Name, User's Avatar and User's ID used?\nOur Game does not require you to provide your real name or upload your own image. Having a User's Name and User's Avatar is\nrequired, but if you do not want to provide them, they will be generated automatically. If you wish to personalize your account, you\nhave the option of providing us with a User's Name yourself, unless it is already used by another player in our Game. If you do this,\nwe will process your User's Name and User's Avatar, but you can delete or change them at any time. Also, to minimize the personal\ndata we process, we assign a User's ID to your account.",
+      "justification": "The policy states the app will 'process your User's Name' and checks if it is 'already used by another player in our Game'. This functionality requires the name to be sent off-device to a server, meaning it is 'collected' and does not qualify for an exemption.",
+      "how_to_fix": "Declare 'Name' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "As we do not collect the data when you make in-app purchases within our Game directly, in order to better process you refund\nrequests we have to obtain your consent for this data collection and processing as well as for transfer thereof to our payment's\nagents.",
+      "justification": "The policy explicitly states that for refund requests, there is 'data collection and processing as well as for transfer thereof to our payment's agents'. This data is sent off-device and does not qualify for any collection exemptions.",
+      "how_to_fix": "Declare 'User payment info' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• \"Location Information\" - general information about your location (without information about the exact geolocation) at the time\nwhen you are playing Game (for example, IP address, country and city).",
+      "justification": "The policy states that 'Location Information' such as 'IP address, country and city' is collected. This data is sent off-device for analytics and advertising purposes, and therefore does not qualify for any collection exemptions.",
+      "how_to_fix": "Declare 'Approximate location' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "In order to serve you ads that may be of interest to you (\"Targeted Advertising\"), Advertising Partners collect and use your\nAdvertising ID, Location Information, and Device Information. If location services are enabled in your Device settings, Advertising\npartners may additionally collect data about your geolocation.",
+      "justification": "The policy states that if location services are enabled, 'Advertising partners may additionally collect data about your geolocation'. This data is sent off-device to third parties and does not qualify for any collection exemptions.",
+      "how_to_fix": "Declare 'Precise location' as collected in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Our Game does not require you to provide your real name or upload your own image. Having a User's Name and User's Avatar is required, but if you do not want to provide them, they will be generated automatically. If you wish to personalize your account, you have the option of providing us with a User's Name yourself, unless it is already used by another player in our Game. If you do this, we will process your User's Name and User's Avatar, but you can delete or change them at any time. Also, to minimize the personal data we process, we assign a User's ID to your account.",
+      "justification": "The policy states a user can 'upload' an 'image or photo' as a 'User's Avatar'. The act of uploading sends the data off the user's device to a server, which constitutes collection and does not qualify for an exemption.",
+      "how_to_fix": "Declare 'Photos' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

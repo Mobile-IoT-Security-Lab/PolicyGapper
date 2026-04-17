@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Before reading any stories, the parent must specify the name and gender of their child in the Settings menu in order to personalize each story.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Before reading any stories, the parent must specify the name and gender of their child in the Settings menu in order to personalize each story.",
+      "lang": "English"
+    }
+  ]
+}

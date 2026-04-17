@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "The information we collect automatically is only statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to: • Estimate our audience size and usage patterns. • Store information about your preferences, allowing us to customize our Website according to your individual interests. • Speed up your searches. • Recognize you when you return to our Website.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including: • Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website. • Information about your computer and internet connection, including your IP address, operating system, and browser type.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Web Beacons. Pages of our Website may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including: • Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website. • Information about your computer and internet connection, including your IP address, operating system, and browser type.",
+      "lang": "English"
+    }
+  ]
+}

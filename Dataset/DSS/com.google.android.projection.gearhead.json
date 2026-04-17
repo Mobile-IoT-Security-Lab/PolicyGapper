@@ -1,0 +1,116 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Calendar events",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "Calendar"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "Audio"
+    },
+    {
+      "data": "SMS or MMS",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "Messages"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "Messages"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Independent security review",
+      "description": "This app has been independently validated against a global security standard. <a href=\"https://appdefensealliance.dev/masa\" target=\"_blank\">See details</a>"
+    }
+  ],
+  "privacyPolicyUrl": "http://www.google.com/policies/privacy"
+}

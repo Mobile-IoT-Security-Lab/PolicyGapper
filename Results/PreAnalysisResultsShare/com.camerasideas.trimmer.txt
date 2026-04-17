@@ -1,0 +1,76 @@
+• Personalized display
+Admob, AppLovin as advertisers of YouCut, may collect information generated during your use of our products and
+services, extract your preferences, and use them to show you ads that are more in line with your individual needs. We will
+use technical means to anonymize the data, and the anonymized information will not be able to identify the subject. If you
+are not interested in personalized display, you can choose to turn off the display of personalized content through
+"Settings"-"Ad Personalization". Please note that you may still see ads after turning off this option, but the relevance of ads
+will be reduced.
+
+---
+
+4. How We Share, Transfer, and Publicly Disclose Your Personal Information
+• Share
+We promise to keep your personal information confidential. Except for the scenarios stipulated in this policy, we only share
+your necessary information with third parties in the following situations:
+1) Have obtained your explicit consent or authorization;
+2) When it is required to be provided in response to instructions from state agencies, authority, or administrative or judicial
+requirements;
+3) When achieving the purposes described in the section "How We Collect and Use Your Personal Information";
+4) Share with advertising service and technical support partners.
+In order to provide you with more complete and high-quality products and services, we may share some of your personal
+information with our partners. Please note that we will only share your personal information for legal, legitimate,
+necessary, specific and clear purposes. At the same time, we require third parties to deal with shared information with
+confidentiality and security measures no less than those required by this policy. Once we discover any violation of dealing
+with the personal information, we will terminate the partnership immediately and pursue legal responsibility.
+Directory of third-party SDKs that may be accessed
+
+Category
+Function
+Types of information collected
+Firebase SDK
+Data statistical analysis service
+Application software list
+https://
+Admob Ads SDK
+Get and display ads
+Unique device identification code
+(Android ID)
+https://p
+AppLovin Ads SDK
+Get and display ads
+Device location information, unique
+device identification code (Android I
+D)
+https://v
+https://s
+Giphy SDK
+Get Gif picture
+Network status, unique device ident
+ification code(Android ID)
+s/article
+ivacy-Pc
+
+---
+
+• Publicly disclose
+We only disclose your personal information in the following situations:
+1) According to your needs, disclose your designated personal information in a disclosure method that you explicitly agree
+to;
+2) According to the requirements of laws, regulations, mandatory administrative law enforcement, judicial or regulatory
+agencies, where it is necessary to provide your personal information, we may publicly disclose your personal information
+based on the type of personal information requested and the method of disclosure.
+
+---
+
+7. To California Residents
+Under the applicable California Consumer Privacy Act ("CCPA"), you have certain rights with respect to your personal information
+collected by us for business purposes. Please note that this section applies only to people who live in California. Your rights include:
+1) The right to know about the personal information a business collects about you how it is used and shared;
+
+---
+
+8. Το EU Users
+Under the applicable General Data Protection Regulation ("GDPR"), you have certain rights with respect to your personal information
+collected by us for business purposes. Please note that this section applies only to people who live in EU. Your rights include:
+1) The right to obtain certain information about our processing, including: the purposes of processing the data; the
+categories of personal data processed; the recipients who receive your personal data; how long we store your personal data;

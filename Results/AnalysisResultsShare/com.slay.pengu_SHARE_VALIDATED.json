@@ -1,0 +1,35 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "To facilitate in-app advertising, we may share the collected data with trusted third-party advertising partners. These partners may use this information to: Display targeted ads within our app or in other apps; Measure the effectiveness of ads; Conduct analysis and research to improve advertising strategies.",
+      "justification": "The policy explicitly states that data, including user interactions, is shared with third-party advertising partners for targeted advertising. This is not a service provider relationship as the partners may use the data for their own purposes (e.g., ads in other apps). This constitutes 'sharing' for 'Advertising or marketing' that must be declared.",
+      "how_to_fix": "In your app's Data Safety form, under the 'App interactions' data type, declare that this data is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "To facilitate in-app advertising, we may share the collected data with trusted third-party advertising partners. These partners may use this information to: Display targeted ads within our app or in other apps; Measure the effectiveness of ads; Conduct analysis and research to improve advertising strategies.",
+      "justification": "The policy states that collected data, which includes user actions, is shared with third-party advertising partners. This sharing for targeted advertising purposes is not exempt and must be declared in the Data Safety form.",
+      "how_to_fix": "In your app's Data Safety form, under the 'Other actions' data type, declare that this data is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "To facilitate in-app advertising, we may share the collected data with trusted third-party advertising partners. These partners may use this information to: Display targeted ads within our app or in other apps; Measure the effectiveness of ads; Conduct analysis and research to improve advertising strategies.",
+      "justification": "The policy confirms sharing data with third-party advertising partners. Device IDs are a fundamental part of this data sharing for ad targeting and measurement. This is a clear case of 'sharing' for 'Advertising or marketing' and is not covered by any exemptions.",
+      "how_to_fix": "In your app's Data Safety form, under the 'Device or other IDs' data type, declare that this data is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Our app displays advertisements to support our services and enhance your user experience. To make the ads more relevant to you, we may collect and use certain information about your activities within our app, including but not limited to: Device identifiers and technical information about your device (such as model, operating system version, and IP address); Information about your interactions with the ads (such as click-throughs and time spent viewing an ad); Information about your app usage patterns, preferences, and geographic location.",
+      "justification": "The policy states that 'Device identifiers' are collected and used to make ads more relevant. This process involves sharing this identifier with an advertising network, which qualifies as sharing a 'User ID' (as defined by Google Play, including resettable device identifiers) with a third party for advertising purposes.",
+      "how_to_fix": "In your app's Data Safety form, under the 'User IDs' data type, declare that this data is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

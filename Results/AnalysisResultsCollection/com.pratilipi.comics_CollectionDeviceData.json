@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Usage Data\nInputs by Users on the Website/Application\nData regarding pages or profiles visited, time spent on a page,\nnavigation through the portal, location, language preference,\nsearch actions, participation in contests, interaction with other\nUsers, including time and date of all such actions",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "API Calls: API Calls consists of data generated when a User\nperforms an activity on the Website/Application such as\nnavigating to different pages, clicking on buttons, reading content\netc. This data is collected and used by Company and may be\nshared with authorized third parties as described in this Privacy\nPolicy.",
+      "lang": "English"
+    }
+  ]
+}

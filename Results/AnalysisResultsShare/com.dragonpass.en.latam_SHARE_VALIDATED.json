@@ -1,0 +1,112 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.",
+      "justification": "The policy states that third parties may use cookies \"over which we have no control.\" This indicates data is shared with third parties who are not acting solely as service providers on the developer's behalf, which constitutes \"sharing\" under Google Play's policy.",
+      "how_to_fix": "In the Google Play Console, declare that 'Diagnostics' data is 'Shared' with third parties for purposes like 'Analytics' and 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.",
+      "justification": "The policy states that third parties may use cookies \"over which we have no control.\" This indicates data is shared with third parties who are not acting solely as service providers on the developer's behalf, which constitutes \"sharing\" under Google Play's policy.",
+      "how_to_fix": "In the Google Play Console, declare that 'Other app performance data' is 'Shared' with third parties for purposes like 'Analytics' and 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.",
+      "justification": "The policy states that third parties, such as advertising networks, may use cookies \"over which we have no control.\" This indicates data is shared with third parties who are not acting solely as service providers on the developer's behalf, which constitutes \"sharing\" under Google Play's policy.",
+      "how_to_fix": "In the Google Play Console, declare that 'Device or other IDs' are 'Shared' with third parties for purposes like 'Analytics' and 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "3.1 We will keep the personal data we hold confidential but may provide information to:\n• Personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services.\n• Our overseas offices, affiliates, business partners and counterparts (if any).\n• Persons under a duty of confidentiality to us.\n• Persons to whom we are required to make disclosure under applicable laws and regulations in or outside of the European Economic Area (EEA); or\n• Actual or proposed transferees or participants of our services in or outside the EEA.",
+      "justification": "The policy states that personal data may be provided to \"business partners and counterparts.\" This category of recipients is considered a third party under Google Play's policy and does not fall under the service provider or legal purposes exemptions, requiring a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console, declare that 'Name' is 'Shared' with third parties and specify the purpose of this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "3.1 We will keep the personal data we hold confidential but may provide information to:\n• Personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services.\n• Our overseas offices, affiliates, business partners and counterparts (if any).\n• Persons under a duty of confidentiality to us.\n• Persons to whom we are required to make disclosure under applicable laws and regulations in or outside of the European Economic Area (EEA); or\n• Actual or proposed transferees or participants of our services in or outside the EEA.",
+      "justification": "The policy states that personal data may be provided to \"business partners and counterparts.\" This category of recipients is considered a third party under Google Play's policy and does not fall under the service provider or legal purposes exemptions, requiring a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console, declare that 'Email address' is 'Shared' with third parties and specify the purpose of this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "3.1 We will keep the personal data we hold confidential but may provide information to:\n• Personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services.\n• Our overseas offices, affiliates, business partners and counterparts (if any).\n• Persons under a duty of confidentiality to us.\n• Persons to whom we are required to make disclosure under applicable laws and regulations in or outside of the European Economic Area (EEA); or\n• Actual or proposed transferees or participants of our services in or outside the EEA.",
+      "justification": "The policy states that personal data may be provided to \"business partners and counterparts.\" This category of recipients is considered a third party under Google Play's policy and does not fall under the service provider or legal purposes exemptions, requiring a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console, declare that 'User IDs' are 'Shared' with third parties and specify the purpose of this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "3.1 We will keep the personal data we hold confidential but may provide information to:\n• Personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services.\n• Our overseas offices, affiliates, business partners and counterparts (if any).\n• Persons under a duty of confidentiality to us.\n• Persons to whom we are required to make disclosure under applicable laws and regulations in or outside of the European Economic Area (EEA); or\n• Actual or proposed transferees or participants of our services in or outside the EEA.",
+      "justification": "The policy states that personal data may be provided to \"business partners and counterparts.\" This category of recipients is considered a third party under Google Play's policy and does not fall under the service provider or legal purposes exemptions, requiring a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console, declare that 'Address' is 'Shared' with third parties and specify the purpose of this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "3.1 We will keep the personal data we hold confidential but may provide information to:\n• Personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services.\n• Our overseas offices, affiliates, business partners and counterparts (if any).\n• Persons under a duty of confidentiality to us.\n• Persons to whom we are required to make disclosure under applicable laws and regulations in or outside of the European Economic Area (EEA); or\n• Actual or proposed transferees or participants of our services in or outside the EEA.",
+      "justification": "The policy states that personal data may be provided to \"business partners and counterparts.\" This category of recipients is considered a third party under Google Play's policy and does not fall under the service provider or legal purposes exemptions, requiring a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console, declare that 'Phone number' is 'Shared' with third parties and specify the purpose of this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "3.1 We will keep the personal data we hold confidential but may provide information to:\n• Personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services.\n• Our overseas offices, affiliates, business partners and counterparts (if any).\n• Persons under a duty of confidentiality to us.\n• Persons to whom we are required to make disclosure under applicable laws and regulations in or outside of the European Economic Area (EEA); or\n• Actual or proposed transferees or participants of our services in or outside the EEA.",
+      "justification": "The policy states that personal data may be provided to \"business partners and counterparts.\" This category of recipients is considered a third party under Google Play's policy and does not fall under the service provider or legal purposes exemptions, requiring a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console, declare that 'Other personal info' is 'Shared' with third parties and specify the purpose of this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "3.1 We will keep the personal data we hold confidential but may provide information to:\n• Personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services.\n• Our overseas offices, affiliates, business partners and counterparts (if any).\n• Persons under a duty of confidentiality to us.\n• Persons to whom we are required to make disclosure under applicable laws and regulations in or outside of the European Economic Area (EEA); or\n• Actual or proposed transferees or participants of our services in or outside the EEA.",
+      "justification": "The policy states that personal data may be provided to \"business partners and counterparts.\" This category of recipients is considered a third party under Google Play's policy and does not fall under the service provider or legal purposes exemptions, requiring a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console, declare that 'User payment info' is 'Shared' with third parties and specify the purpose of this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "3.1 We will keep the personal data we hold confidential but may provide information to:\n• Personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services.\n• Our overseas offices, affiliates, business partners and counterparts (if any).\n• Persons under a duty of confidentiality to us.\n• Persons to whom we are required to make disclosure under applicable laws and regulations in or outside of the European Economic Area (EEA); or\n• Actual or proposed transferees or participants of our services in or outside the EEA.",
+      "justification": "The policy states that personal data may be provided to \"business partners and counterparts.\" This category of recipients is considered a third party under Google Play's policy and does not fall under the service provider or legal purposes exemptions, requiring a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console, declare that 'Purchase history' is 'Shared' with third parties and specify the purpose of this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "3.1 We will keep the personal data we hold confidential but may provide information to:\n• Personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services.\n• Our overseas offices, affiliates, business partners and counterparts (if any).\n• Persons under a duty of confidentiality to us.\n• Persons to whom we are required to make disclosure under applicable laws and regulations in or outside of the European Economic Area (EEA); or\n• Actual or proposed transferees or participants of our services in or outside the EEA.",
+      "justification": "The policy states that personal data may be provided to \"business partners and counterparts.\" This category of recipients is considered a third party under Google Play's policy and does not fall under the service provider or legal purposes exemptions, requiring a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console, declare that 'Precise location' is 'Shared' with third parties and specify the purpose of this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "3.1 We will keep the personal data we hold confidential but may provide information to: • Personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services. • Our overseas offices, affiliates, business partners and counterparts (if any). • Persons under a duty of confidentiality to us. • Persons to whom we are required to make disclosure under applicable laws and regulations in or outside of the European Economic Area (EEA); or • Actual or proposed transferees or participants of our services in or outside the EEA.",
+      "justification": "The policy states that personal data may be provided to \"business partners and counterparts.\" This category of recipients is considered a third party under Google Play's policy and does not fall under the service provider or legal purposes exemptions, requiring a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console, declare that 'Emails' are 'Shared' with third parties and specify the purpose of this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "3.1 We will keep the personal data we hold confidential but may provide information to: • Personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services. • Our overseas offices, affiliates, business partners and counterparts (if any). • Persons under a duty of confidentiality to us. • Persons to whom we are required to make disclosure under applicable laws and regulations in or outside of the European Economic Area (EEA); or • Actual or proposed transferees or participants of our services in or outside the EEA.",
+      "justification": "The policy states that personal data may be provided to \"business partners and counterparts.\" This category of recipients is considered a third party under Google Play's policy and does not fall under the service provider or legal purposes exemptions, requiring a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console, declare that 'SMS or MMS' messages are 'Shared' with third parties and specify the purpose of this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "3.1 We will keep the personal data we hold confidential but may provide information to: • Personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services. • Our overseas offices, affiliates, business partners and counterparts (if any). • Persons under a duty of confidentiality to us. • Persons to whom we are required to make disclosure under applicable laws and regulations in or outside of the European Economic Area (EEA); or • Actual or proposed transferees or participants of our services in or outside the EEA.",
+      "justification": "The policy states that personal data may be provided to \"business partners and counterparts.\" This category of recipients is considered a third party under Google Play's policy and does not fall under the service provider or legal purposes exemptions, requiring a 'sharing' disclosure.",
+      "how_to_fix": "In the Google Play Console, declare that 'Photos' are 'Shared' with third parties and specify the purpose of this sharing.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We process the text of the first page of your scanned document to suggest document names. OpenAl may keep the text for up to 30 days for abuse monitoring.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may share your data with trusted service providers to ensure the functionality of our service. These providers are listed here:\n\nCompany\nPurpose\nStore processed\nAmazon (AWS)\nOnly for Genius Scan account owners\nscans\nAmplitude\nAnalytics\nHelpScout\nCustomer support\nManage user\naccounts and\nHeroku\nOnly for Genius Scan account owners\nsynchronization\nlogic\nSuggest\nOpenAl\ndocument names\nProcess\nRevenueCat\nOnly for Genius Scan account owners\npurchases\nSentry\nAnalytics\nProcess scans,\nSolarwinds\nmanage user\nOnly for Genius Scan account owners\n(Papertrail)\naccounts\nProcess\nOnly for members of the Genius Scan\nStripe\npurchases\nfor Teams members",
+      "lang": "English"
+    }
+  ]
+}

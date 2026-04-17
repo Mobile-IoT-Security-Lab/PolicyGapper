@@ -1,0 +1,42 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Some of the ways in which we disclose personal information are considered “sales\" or \"sharing\" under the CCPA. Listed below are the categories of personal information we disclose for purposes cross-context behavioral advertising or otherwise sell:\n• Identifiers\n• Internet or other electronic network activity information\n• Geolocation data",
+      "justification": "The privacy policy states that 'Internet or other electronic network activity information' is disclosed for 'cross-context behavioral advertising'. This constitutes 'sharing' under Google Play's policy, and 'In-app search history' falls into this data category.",
+      "how_to_fix": "Declare in the Data Safety section that 'In-app search history' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Some of the ways in which we disclose personal information are considered “sales\" or \"sharing\" under the CCPA. Listed below are the categories of personal information we disclose for purposes cross-context behavioral advertising or otherwise sell:\n• Identifiers\n• Internet or other electronic network activity information\n• Geolocation data",
+      "justification": "The privacy policy states that 'Internet or other electronic network activity information' is disclosed for 'cross-context behavioral advertising'. This constitutes 'sharing' under Google Play's policy, and 'Web browsing history' falls into this data category.",
+      "how_to_fix": "Declare in the Data Safety section that 'Web browsing history' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Some of the ways in which we disclose personal information are considered “sales\" or \"sharing\" under the CCPA. Listed below are the categories of personal information we disclose for purposes cross-context behavioral advertising or otherwise sell:\n• Identifiers\n• Internet or other electronic network activity information\n• Geolocation data",
+      "justification": "The privacy policy states that 'Identifiers' are disclosed for 'cross-context behavioral advertising'. This constitutes 'sharing' under Google Play's policy, and 'Phone number' is a type of 'Identifier'.",
+      "how_to_fix": "Declare in the Data Safety section that 'Phone number' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Some of the ways in which we disclose personal information are considered “sales\" or \"sharing\" under the CCPA. Listed below are the categories of personal information we disclose for purposes cross-context behavioral advertising or otherwise sell:\n• Identifiers\n• Internet or other electronic network activity information\n• Geolocation data",
+      "justification": "The privacy policy states that 'Identifiers' are disclosed for 'cross-context behavioral advertising'. This constitutes 'sharing' under Google Play's policy, and 'User IDs' is a type of 'Identifier'.",
+      "how_to_fix": "Declare in the Data Safety section that 'User IDs' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Some of the ways in which we disclose personal information are considered “sales\" or \"sharing\" under the CCPA. Listed below are the categories of personal information we disclose for purposes cross-context behavioral advertising or otherwise sell:\n• Identifiers\n• Internet or other electronic network activity information\n• Geolocation data",
+      "justification": "The privacy policy states that 'Geolocation data' is disclosed for 'cross-context behavioral advertising'. This constitutes 'sharing' under Google Play's policy, and 'Approximate location' is a type of 'Geolocation data'.",
+      "how_to_fix": "Declare in the Data Safety section that 'Approximate location' is 'Shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

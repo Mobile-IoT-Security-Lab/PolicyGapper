@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We disclose your Personal Data publicly when you post user-generated content via our sites or apps. We may disclose Personal Data to our business partners or other Sony group companies in accordance with applicable law. We also share data with third parties we engage to process data on our behalf or when such sharing is required by law, or in certain other situations.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Usage Information: We and our third-party partners and service providers, such as Google Analytics and/or Adobe Analytics, may use a variety of technologies that collect and provide information about how the Content is accessed and used. Usage Information may consist of your internet browser type and version, operating system, service provider, the webpages, videos and apps you viewed, the time you viewed them and for how long, game or video history, skill level, demographic information about you (such as your age, gender, language, location and interest areas, where available), time zone, language, and what you looked at before accessing our Content. For more information about the collection of some of this information, please also see the section on Cookies and Similar Tracking Technology.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "To analyse and improve your browsing experience: to analyse which Content is most popular and gets viewed the most and which gets viewed the least, and to provide us with general information about users of the Content (such as age, gender and interest areas). We also remember the choices you have made, such as your language or region, to enhance and personalize your experience. We may also remember the place where you have left off viewing the Content, so that you can return to the same place when you view the Content again. We typically collect device identifiers such as IP address and usage information such as browsing history, device and browser type, and operating system for this purpose. We use analytics services provided by Adobe, Google, and others to help us analyse and improve your browsing experience as outlined in this paragraph; you can find their cookies policies at the following links here for Adobe and here for Google. To the extent required by law, we will ask for your consent before setting these cookies. If you change your mind or if you don't want us to use information about your visits in this way, click here for Adobe and here for Google, to opt-out of their services, and follow the instructions below for other analytics services.",
+      "lang": "English"
+    }
+  ]
+}

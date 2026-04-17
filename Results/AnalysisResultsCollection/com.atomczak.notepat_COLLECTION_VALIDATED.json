@@ -1,0 +1,42 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "The diagnostic data that can be sent using the \"Technical support\" function contains: device's model/vendor, version of the operating system, operations performed in the app, and optionally note titles. Sending note titles is optional, is set in the app's settings, and is meant to help diagnose an issue with a specific note. Notes are never sent with the aforementioned diagnostic info.",
+      "justification": "The policy states that note titles, which are user-generated content, are sent off-device to the developer for technical support. This constitutes data collection.",
+      "how_to_fix": "Declare 'Other user-generated content' as collected for the 'Developer communications' purpose in your Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "This app uses Firebase and Google Analytics for Firebase as an analytic tool. It provides the developer information about usage of the app like: number of active users, most popular devices, etc. The information is used to analyze performance of the app and detect any problems, for example after publishing an update. Advertising ID is not collected, so no demographics or interests data is collected. IP addresses are anonymized.",
+      "justification": "The policy confirms that app performance and usage data is sent off-device to third-party analytics services (Firebase, Google Analytics) and is accessible to the developer.",
+      "how_to_fix": "Declare 'Diagnostics' and/or 'Other app performance data' as collected for the 'Analytics' purpose in your Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Using the \"Technical support\" in the app will open an email app and allow to send an email to notepad.free@outlook.com. After receiving an email the user's address will be used to answer any question or problems related to the app. Email addresses are not stored anywhere outside the email service provider used by the developer (outlook.com). The diagnostic data that can be sent using the \"Technical support\" function contains: device's model/vendor, version of the operating system, operations performed in the app, and optionally note titles. Sending note titles is optional, is set in the app's settings, and is meant to help diagnose an issue with a specific note. Notes are never sent with the aforementioned diagnostic info.",
+      "justification": "The policy describes a feature where users send an email to the developer. This action transmits the user's email address off-device to the developer's email service, making it collected data.",
+      "how_to_fix": "Declare 'Email address' as collected for the 'Developer communications' purpose in your Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Using the \"Technical support\" in the app will open an email app and allow to send an email to notepad.free@outlook.com. After receiving an email the user's address will be used to answer any question or problems related to the app. Email addresses are not stored anywhere outside the email service provider used by the developer (outlook.com). The diagnostic data that can be sent using the \"Technical support\" function contains: device's model/vendor, version of the operating system, operations performed in the app, and optionally note titles. Sending note titles is optional, is set in the app's settings, and is meant to help diagnose an issue with a specific note. Notes are never sent with the aforementioned diagnostic info.",
+      "justification": "The policy states that users can send an email for technical support. The content of this email is sent off-device and is readable by the developer, thus it is considered collected.",
+      "how_to_fix": "Declare 'Emails' as collected for the 'Developer communications' purpose in your Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "The app uses the Google Drive™™ API solely for backup and restore functionality of notes. Note data is stored in Google Drive's appDataFolder— a secure, hidden, application-specific storage area accessible only by the app. No other portions of Google Drive are accessed or modified.",
+      "justification": "The policy states that user notes (files/docs) are sent off-device and stored in Google Drive for backup. Since the app can access this data, it is considered collected by the developer, even if stored in a user's cloud account.",
+      "how_to_fix": "Declare 'Files and docs' as collected for the 'App functionality' purpose (e.g., cloud backup) in your Data Safety form.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

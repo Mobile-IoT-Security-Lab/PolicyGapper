@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Our corporate group\nWe may share your information with our subsidiaries or affiliates to provide, improve and optimize the Services, to prevent illegal use and to support you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Our corporate group\nWe may share your information with our subsidiaries or affiliates to provide, improve and optimize the Services, to prevent illegal use and to support you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Our corporate group\nWe may share your information with our subsidiaries or affiliates to provide, improve and optimize the Services, to prevent illegal use and to support you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Our corporate group\nWe may share your information with our subsidiaries or affiliates to provide, improve and optimize the Services, to prevent illegal use and to support you.",
+      "lang": "English"
+    }
+  ]
+}

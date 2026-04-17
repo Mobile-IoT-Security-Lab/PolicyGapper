@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "b. Please note that if your profile is public, your content will be visible to anyone on Achat and may also be accessed or shared by your friends and followers as well as third parties such as search engines, content aggregators and news sites. You can change who can see a video or a picture each time you upload a video",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "e. We may disclose your Personal Information to members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) to the extent this is necessary for services, customer management, customization of content, advertising, analytics, verifications, functionality and security, and compliance.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "j. Third party SDK provider: Achat may integrate third-party SDKs or similar applications. By using these third-party services on our platform, you agree to the direct collection and processing of your information through embedded code or widgets. These third parties follow their own privacy policies for data handling, separate from ours. Nevertheless, we carefully assess these third parties' qualifications and enforce legal, secure, and compliant standards. To better protect your information, we recommend reviewing the privacy policies of each third-party provider before using their SDKs. If you detect any potential risks associated with these SDKs or applications, please cease use immediately and contact us. For a detailed list of third-party SDKs, please refer to: https://www.achat.live/third-party-sdk-list",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "j. Third party SDK provider: Achat may integrate third-party SDKs or similar applications. By using these third-party services on our platform, you agree to the direct collection and processing of your information through embedded code or widgets. These third parties follow their own privacy policies for data handling, separate from ours. Nevertheless, we carefully assess these third parties' qualifications and enforce legal, secure, and compliant standards. To better protect your information, we recommend reviewing the privacy policies of each third-party provider before using their SDKs. If you detect any potential risks associated with these SDKs or applications, please cease use immediately and contact us. For a detailed list of third-party SDKs, please refer to: https://www.achat.live/third-party-sdk-list",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "j. Third party SDK provider: Achat may integrate third-party SDKs or similar applications. By using these third-party services on our platform, you agree to the direct collection and processing of your information through embedded code or widgets. These third parties follow their own privacy policies for data handling, separate from ours. Nevertheless, we carefully assess these third parties' qualifications and enforce legal, secure, and compliant standards. To better protect your information, we recommend reviewing the privacy policies of each third-party provider before using their SDKs. If you detect any potential risks associated with these SDKs or applications, please cease use immediately and contact us. For a detailed list of third-party SDKs, please refer to: https://www.achat.live/third-party-sdk-list",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "j. Third party SDK provider: Achat may integrate third-party SDKs or similar applications. By using these third-party services on our platform, you agree to the direct collection and processing of your information through embedded code or widgets. These third parties follow their own privacy policies for data handling, separate from ours. Nevertheless, we carefully assess these third parties' qualifications and enforce legal, secure, and compliant standards. To better protect your information, we recommend reviewing the privacy policies of each third-party provider before using their SDKs. If you detect any potential risks associated with these SDKs or applications, please cease use immediately and contact us. For a detailed list of third-party SDKs, please refer to: https://www.achat.live/third-party-sdk-list",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may use material that you post on the open access areas of Achat in advertising and promotional materials on our partner sites and partner products. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We may use material that you post on the open access areas of Achat in advertising and promotional materials on our partner sites and partner products. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs.",
+      "lang": "English"
+    }
+  ]
+}

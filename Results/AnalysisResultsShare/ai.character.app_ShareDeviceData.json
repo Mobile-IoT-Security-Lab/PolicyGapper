@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Advertising and Analytics. We may disclose personal information to advertising and analytics providers in connection with the provision of tailored advertising, to monitor the performance of advertisements displayed on our behalf on the Services and across the Internet, to provide analytics services, and to help improve our Services. These entities may use cookies and tracking technologies to allow us to, among other things, track and analyze data, determine the popularity of certain content, deliver tailored advertising and content, and better understand your online activity. For more information about how we use cookies and tracking technologies, please see our Cookie Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Advertising and Analytics. We may disclose personal information to advertising and analytics providers in connection with the provision of tailored advertising, to monitor the performance of advertisements displayed on our behalf on the Services and across the Internet, to provide analytics services, and to help improve our Services. These entities may use cookies and tracking technologies to allow us to, among other things, track and analyze data, determine the popularity of certain content, deliver tailored advertising and content, and better understand your online activity. For more information about how we use cookies and tracking technologies, please see our Cookie Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Advertising and Analytics. We may disclose personal information to advertising and analytics providers in connection with the provision of tailored advertising, to monitor the performance of advertisements displayed on our behalf on the Services and across the Internet, to provide analytics services, and to help improve our Services. These entities may use cookies and tracking technologies to allow us to, among other things, track and analyze data, determine the popularity of certain content, deliver tailored advertising and content, and better understand your online activity. For more information about how we use cookies and tracking technologies, please see our Cookie Policy.",
+      "lang": "English"
+    }
+  ]
+}

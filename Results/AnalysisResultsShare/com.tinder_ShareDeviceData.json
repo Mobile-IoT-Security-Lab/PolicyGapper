@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Advertising Partners | We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can't be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage. | Account Data Profile Data Usage Data Technical Data |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Affiliates | We may share data with affiliates or receive data from them for the purposes laid out in Section 6 of this policy. | The categories of data will vary based on the reason for sharing, but it may include:. Account Data Profile Data Content Purchase Data Marketing, Survey and Research Data Third Party Data Customer Support Data Social Media Data Usage Data Technical Data Geolocation Data Face Geometry Data ID Data |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Advertising Partners | We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can't be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage. | Account Data Profile Data Usage Data Technical Data |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Advertising Partners | We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can't be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage. | Account Data Profile Data Usage Data Technical Data |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Advertising Partners | We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can't be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage. | Account Data Profile Data Usage Data Technical Data |",
+      "lang": "English"
+    }
+  ]
+}

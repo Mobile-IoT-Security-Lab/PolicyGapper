@@ -1,0 +1,98 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services and our Merchants, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to certain third parties for advertising services may be considered \"sharing\" or \"targeted advertising,\" as defined by certain privacy laws that may apply in your jurisdiction. You can opt-out of our sharing of your Personal Data for targeted advertising here.",
+      "justification": "The policy explicitly states that information about user interactions is made available to third-party advertising companies for targeted advertising, which qualifies as 'sharing' under Google Play's Data Safety policy.",
+      "how_to_fix": "Declare in the Data Safety section that 'App interactions' are 'shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services and our Merchants, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to certain third parties for advertising services may be considered \"sharing\" or \"targeted advertising,\" as defined by certain privacy laws that may apply in your jurisdiction. You can opt-out of our sharing of your Personal Data for targeted advertising here.",
+      "justification": "The policy states that information about user interactions, which includes search history, is made available to third-party advertising companies for targeted advertising. This is considered 'sharing' under Google Play's Data Safety policy.",
+      "how_to_fix": "Declare in the Data Safety section that 'In-app search history' is 'shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services and our Merchants, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to certain third parties for advertising services may be considered \"sharing\" or \"targeted advertising,\" as defined by certain privacy laws that may apply in your jurisdiction. You can opt-out of our sharing of your Personal Data for targeted advertising here.",
+      "justification": "The policy states that information about user interactions and actions is made available to third-party advertising companies for targeted advertising, which qualifies as 'sharing' under Google Play's Data Safety policy.",
+      "how_to_fix": "Declare in the Data Safety section that 'Other actions' are 'shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services and our Merchants, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to certain third parties for advertising services may be considered \"sharing\" or \"targeted advertising,\" as defined by certain privacy laws that may apply in your jurisdiction. You can opt-out of our sharing of your Personal Data for targeted advertising here.",
+      "justification": "The policy states data is shared with third-party advertising partners using 'cookies or other technologies,' which typically rely on device or other IDs for tracking. This constitutes 'sharing' for advertising purposes.",
+      "how_to_fix": "Declare in the Data Safety section that 'Device or other IDs' are 'shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services and our Merchants, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to certain third parties for advertising services may be considered \"sharing\" or \"targeted advertising,\" as defined by certain privacy laws that may apply in your jurisdiction. You can opt-out of our sharing of your Personal Data for targeted advertising here.",
+      "justification": "The policy states information about user interactions with services and merchants is shared with third-party advertising partners. Purchase history is a key interaction used for targeted advertising, and this practice constitutes 'sharing'.",
+      "how_to_fix": "Declare in the Data Safety section that 'Purchase history' is 'shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services and our Merchants, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to certain third parties for advertising services may be considered \"sharing\" or \"targeted advertising,\" as defined by certain privacy laws that may apply in your jurisdiction. You can opt-out of our sharing of your Personal Data for targeted advertising here.",
+      "justification": "The policy states data about user interactions is shared with third-party advertising partners for personalized ads. Location data is commonly inferred from interactions and used for this purpose, which constitutes 'sharing'.",
+      "how_to_fix": "Declare in the Data Safety section that 'Approximate location' is 'shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services and our Merchants, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to certain third parties for advertising services may be considered \"sharing\" or \"targeted advertising,\" as defined by certain privacy laws that may apply in your jurisdiction. You can opt-out of our sharing of your Personal Data for targeted advertising here.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy reference specifically discusses sharing data for 'Marketing, Advertising, and Analytics' related to user behavior, not for technical diagnostics like crash logs.",
+      "how_to_fix": "If this data is shared with a third party for advertising, find the specific policy clause that states this. If it is collected by a service provider for app functionality (e.g., Firebase Crashlytics), it should be declared as 'collected' but is exempt from 'sharing' disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services and our Merchants, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to certain third parties for advertising services may be considered \"sharing\" or \"targeted advertising,\" as defined by certain privacy laws that may apply in your jurisdiction. You can opt-out of our sharing of your Personal Data for targeted advertising here.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy reference specifically discusses sharing data for 'Marketing, Advertising, and Analytics' related to user behavior, not for technical app performance diagnostics.",
+      "how_to_fix": "If this data is shared with a third party for advertising, find the specific policy clause that states this. If it is collected by a service provider for app functionality, it should be declared as 'collected' but is exempt from 'sharing' disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services and our Merchants, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to certain third parties for advertising services may be considered \"sharing\" or \"targeted advertising,\" as defined by certain privacy laws that may apply in your jurisdiction. You can opt-out of our sharing of your Personal Data for targeted advertising here.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy reference specifically discusses sharing data for 'Marketing, Advertising, and Analytics' related to user behavior, not for general app performance data.",
+      "how_to_fix": "If this data is shared with a third party for advertising, find the specific policy clause that states this. If it is collected by a service provider for app functionality, it should be declared as 'collected' but is exempt from 'sharing' disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services and our Merchants, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to certain third parties for advertising services may be considered \"sharing\" or \"targeted advertising,\" as defined by certain privacy laws that may apply in your jurisdiction. You can opt-out of our sharing of your Personal Data for targeted advertising here.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy reference describes sharing 'information about your use of, or interactions with' the service for advertising, which does not explicitly mention sharing a user's physical address with third-party advertisers.",
+      "how_to_fix": "If the user's address is shared with third parties for advertising, the privacy policy must state this explicitly. Otherwise, this declaration is not supported by the provided text.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services and our Merchants, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to certain third parties for advertising services may be considered \"sharing\" or \"targeted advertising,\" as defined by certain privacy laws that may apply in your jurisdiction. You can opt-out of our sharing of your Personal Data for targeted advertising here.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy reference describes sharing 'information about your use of, or interactions with' the service for advertising, which does not explicitly mention sharing a user's email address with third-party advertisers.",
+      "how_to_fix": "If the user's email address is shared with third parties for advertising, the privacy policy must state this explicitly. Otherwise, this declaration is not supported by the provided text.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Marketing, Advertising, and Analytics Partners: We may use third-party marketing, advertising, and analytics partners to deliver personalized advertising and to help us understand how people use or interact with Shopify services and our Merchants. These partners may receive information about your use of, or interactions with, Shopify services and our Merchants, including through third-party cookies or other technologies. For example, we may make information available to third-party advertising companies to serve you with relevant ads or content and to manage, improve and measure our advertising campaigns. Providing information to certain third parties for advertising services may be considered \"sharing\" or \"targeted advertising,\" as defined by certain privacy laws that may apply in your jurisdiction. You can opt-out of our sharing of your Personal Data for targeted advertising here.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy reference describes sharing 'information about your use of, or interactions with' the service for advertising. This is too generic to support the sharing of the content of user messages, which is highly sensitive.",
+      "how_to_fix": "If the content of user messages is shared with third parties for advertising, the privacy policy must state this explicitly with a clear user consent mechanism. Otherwise, this declaration is not supported by the provided text.",
+      "lang": "English"
+    }
+  ]
+}
+```

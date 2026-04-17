@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may collect data about your use of the Games, such as gameplay data and your interactions with other players inside the Games.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may collect data about your use of the Games, such as gameplay data and your interactions with other players inside the Games.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We collect data about your device, such as device name and operating system, browser type and language for better understand user expectaion and better serve ads if present in games.",
+      "lang": "English"
+    }
+  ]
+}

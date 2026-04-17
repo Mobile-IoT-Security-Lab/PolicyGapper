@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content(for example, user bios, notes, or open-ended responses)",
+      "policy_reference": "2.3. Content which you upload to the Services, which allows others to identify you (e.g. photos of you, audio recordings or text containing your name, voice, status updates, comments on content which refer to you).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "2.6.1. We use third-party analytics tools to help us measure traffic and usage trends for the Services. These tools collect information sent by your device including the web pages you visit, add-ons, and other information that assists us in improving the Services. We collect and use this analytics information with analytics information from other users so that it cannot reasonably be used to identify any particular individual user.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "e) To test, improve and monitor the Services, including diagnosing and fixing technology problems, and including use as part of our API;",
+      "lang": "English"
+    }
+  ]
+}

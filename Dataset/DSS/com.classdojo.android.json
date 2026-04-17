@@ -1,0 +1,201 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "Developer communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "Developer communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "Analytics, Developer communications",
+      "type": "Personal info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": 0,
+      "purpose": "Analytics, Developer communications, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Messages"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Photos",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "App functionality, Developer communications, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "App functionality, Developer communications, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": 0,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "SMS or MMS",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Messages"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "Messages"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "Audio"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Committed to follow the Play Families Policy",
+      "description": "The developer has committed to follow the Play Families Policy for this app. <a href=\"https://support.google.com/googleplay/android-developer/answer/9893335\" target=\"_blank\">See the policy</a>"
+    }
+  ],
+  "privacyPolicyUrl": "http://www.classdojo.com/privacy"
+}

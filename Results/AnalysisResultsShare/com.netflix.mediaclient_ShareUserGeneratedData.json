@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "Matched Identifier Communications from Netflix. Some third party services allow us to reach users with online marketing about Netflix content or the Netflix service by sending privacy protected contact information to the third party. Privacy protected contact information means we use pseudonymization technologies (such as hashing) to convert the original contact information (such as an email address or phone number) into a value (typically a long alphanumeric sequence of characters) that cannot, by itself, reveal your identity or contact information. The third party compares Netflix's privacy protected contact information with privacy protected contact information in its own database and there will be a match only if you have used the same contact information with both Netflix and the third party. If there is a match, Netflix can then choose whether or not to send Netflix marketing to you on that third party service, and can optimize and better measure the effectiveness of such marketing. You can indicate your choices regarding the Matched Identifier Communications in the “Privacy and data settings” (for the relevant profile) within the “Account” section of our website.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you provide us feedback or contact us via email, we will collect your name and email address, as well as any other content included in the email, in order to send you a reply.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Log Files. Like many online services, we gather certain information automatically and store it in log files. When using our Services, this information generally includes IP addresses, browser type, Internet service provider (\"ISP\"), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer our Services, track users' movements within our Services, gather demographic information about our user base as a whole, and better tailor our Services to our users' needs. We do not link this automatically-collected data to Personal Data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with our Services, or advertisement, only to the extent you provide such information in connection with our provision of services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Log Files. Like many online services, we gather certain information automatically and store it in log files. When using our Services, this information generally includes IP addresses, browser type, Internet service provider (\"ISP\"), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer our Services, track users' movements within our Services, gather demographic information about our user base as a whole, and better tailor our Services to our users' needs. We do not link this automatically-collected data to Personal Data.",
+      "lang": "English"
+    }
+  ]
+}

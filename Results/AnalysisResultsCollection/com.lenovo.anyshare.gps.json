@@ -1,0 +1,54 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "(f)Actions taken by you or your activity in our App, which include the following: like, share, report, download, login history, search history, feedback; and",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "(g) Any information you include in your publicly visible app profile or which you or others make available to us or the public, which includes your social media profile data if you use your social media account to log in to the Services or feedbacks you leave on the App.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "(f)Actions taken by you or your activity in our App, which include the following: like, share, report, download, login history, search history, feedback; and",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "(a) Personal details, which includes your age range, gender, nickname;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "(b) Contact details, which includes your email address when you create an account or communicate with us;you may\nchoose to provide us your phone number or payment information when you use certain Services such as\nparticipating in-app activities;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "(d) Transactional information, which includes your requests, queries, or complaints when you use our subscription\nservice or participate in reward activities;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "(b) subject to requirements under applicable law, your IP addresses, network carrier and network type; coarse geo-\nlocation data we receive based on your Internet Protocol (IP) address or Wi-Fi SSID;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "(d) Transactional information, which includes your requests, queries, or complaints when you use our subscription service or participate in reward activities;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "(e) Content uploaded by you, which may include videos, pictures;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "(e) Content uploaded by you, which may include videos, pictures;",
+      "lang": "en"
+    }
+  ]
+}

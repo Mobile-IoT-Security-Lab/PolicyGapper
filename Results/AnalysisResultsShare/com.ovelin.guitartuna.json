@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Where you have opted-out of personalized advertising, these third-party SDKs may collect non-personal, contextual data including geolocation data, query terms and content on the Service. They may also collect your advertising ID solely for the purposes of frequency capping, aggregated ad reporting and combating fraud and abuse. Our ad partners may use your information for a number of purposes, including but not limited to, to personalize the ads that you see to make sure they are relevant to your own interests, diagnose problems and improve the SDK, understand the effectiveness of existing product features and plan new features, measure and improve the performance of ads as well as the effectiveness of the Service's features, as well as for analytical purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Where you have not opted-out of receiving personalized advertising, these third-party SDKs may collect your IP address, device ID, performance data, advertising data, non-user-related crash logs, data relating to how you interact with our Service, and other statistical and technical information in order to serve ads relevant to you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Social Features. We have social features in our Services, which means that other users may, for example, see your profile data and your leaderboard position or other activities in the Services, and read or comments or questions you post in our forums.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Where you have opted-out of personalized advertising, these third-party SDKs may collect non-personal, contextual data including geolocation data, query terms and content on the Service. They may also collect your advertising ID solely for the purposes of frequency capping, aggregated ad reporting and combating fraud and abuse. Our ad partners may use your information for a number of purposes, including but not limited to, to personalize the ads that you see to make sure they are relevant to your own interests, diagnose problems and improve the SDK, understand the effectiveness of existing product features and plan new features, measure and improve the performance of ads as well as the effectiveness of the Service's features, as well as for analytical purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you choose to connect a third party account (for example a Facebook account) with our Services, we receive information from the third-party account provider (for example if you decide to sign up to our Service with Facebook login, we receive from Facebook your name, email address or other identifier to enable cross-device gameplay, profile picture, and friends information to connect you with your friends who already use our Services),",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "If you choose to connect a third party account (for example a Facebook account) with our Services, we receive information from the third-party account provider (for example if you decide to sign up to our Service with Facebook login, we receive from Facebook your name, email address or other identifier to enable cross-device gameplay, profile picture, and friends information to connect you with your friends who already use our Services),",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "If you choose to connect a third party account (for example a Facebook account) with our Services, we receive information from the third-party account provider (for example if you decide to sign up to our Service with Facebook login, we receive from Facebook your name, email address or other identifier to enable cross-device gameplay, profile picture, and friends information to connect you with your friends who already use our Services),",
+      "lang": "English"
+    }
+  ]
+}

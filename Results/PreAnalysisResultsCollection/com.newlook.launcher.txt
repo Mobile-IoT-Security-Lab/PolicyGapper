@@ -1,0 +1,30 @@
+Next edu team's products ("service", "we," "us," or "our") collects information from you in order to provide
+better service and a better user experience. Your privacy is a top priority to us, and this Privacy Policy explains
+how we collect, use, and protect your information.
+---
+What information we use and how we use it:
+We may collect and use non-personal information to have a better understanding in user's behaviour, to solve
+problems in products and services, to improve our products, services and advertising, the information such as the
+data of install, click of app, installed app list, frequency of use, country, equipment and channel, etc, we make
+these data NOT direct association with any specific individual
+---
+Third party service and SDK we used:
+We use analytics service providers Umeng Analytics to better understand how people use our services so that we
+can improve the design and usability of our products, we do not engage in "tracking" users outside of our
+services. These providers collect IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/IMSI, Installed Application
+information to provide statistics service, it use location to adjust data report, provides basic anti-cheating
+capabilities, its privacy policy can be find in https://www.umeng.com/page/policy
+To show you relevant advertising, we work with advertising networks such as Google Admob and Facebook
+Audience Network. These providers may collect information on our behalf using cookies, advertising identifiers
+and similar technologies. This information may be used, in the future, to show you content that is more likely to
+be relevant, or that you're likely to engage with. You may find their related privacy policy in their official
+website, Google Admob privacy policy https://policies.google.com/privacy, Facebook Audience Network privacy
+policy https://www.facebook.com/policies_center/
+---
+Explaination for permissions:
+Read Google service configuration
+This information is used to acquire advertising ID. our product provides users with better advertising service by
+using such anonymous ID.
+Full network access
+This permission is used to access the device's network for certain functions including receiving product update
+notifications or accessing app classification labels.

@@ -1,0 +1,56 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Usage Information: such as the pages or content you view, click on or share, the clickstream patterns and length of time spent on each site as well as searches you conduct, reservations and purchases you make and which services in our App you are a customer of.",
+      "justification": "The policy explicitly states collection of 'searches you conduct' within the app, which directly corresponds to the 'In-app search history' data type.",
+      "how_to_fix": "Declare 'In-app search history' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Other information: such as when you fill in a form, respond to surveys, participate in promotions, contests, or sweepstakes as well as when you communicate with our customer care team. This may",
+      "justification": "The policy describes collecting information from forms, surveys, promotions, and communications with customer care, all of which are forms of 'User generated content'.",
+      "how_to_fix": "Declare 'Other User generated content' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Log Data and Device Information: such as details about how you've used the Platform (including if you clicked on links to third party applications), IP address, access dates and times, hardware and software information, device type, device event information, unique identifiers (e.g. IDFA and IDFV), crash data, and the pages you have viewed or engaged with on the Platform and before or after using the Platform.",
+      "justification": "The policy states collection of 'pages you have viewed or engaged with on the Platform and before or after using the Platform,' which constitutes 'Web browsing history'.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Delivery information: if you make a purchase in the App, which is available for delivery, we will collect your name and address in order to deliver the purchased items to you. If you choose to provide your email and phone number for receiving notifications, we will also collect this information.",
+      "justification": "The policy explicitly states, 'we will collect your name and address in order to deliver the purchased items to you,' which is a direct collection of the user's physical address.",
+      "how_to_fix": "Declare 'Address' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Additional profile information: name, phone number, email, home address, work address, your gender identification, birth date and information you chose to give us regarding your preferences e.g., favourite Stores, dietary preferences, other preferred location and preferred pick-up time.",
+      "justification": "The policy lists the collection of various personal details such as 'gender identification, birth date' and user 'preferences' like 'dietary preferences', which fall under the 'Other info' data type.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "We will never ask for or require that you submit any of your sensitive personal data to us (also known as special categories of personal data). However, if you choose to share health information or other sensitive personal information with our customer care team on your own initiative, e.g. information on allergies, we process this information based on our legitimate interests and in order for us to be able to establish, exercise or defend legal claims, where this is necessary.",
+      "justification": "The policy states that if a user chooses to 'share health information... e.g. information on allergies,' the app processes this data. This is a conditional collection of 'Health info'.",
+      "how_to_fix": "Declare 'Health info' as a collected data type in your app's Data Safety section in the Google Play Console, specifying that it is collected optionally.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "You may choose to provide us with additional personal information about you. This information could include: • Email correspondence: information that you provide as part of our email correspondence with you. • Other information: information that you provide to us on your own initiative in connection with support queries or other interaction that you have with us.",
+      "justification": "The policy mentions collecting 'information that you provide as part of our email correspondence with you,' which refers to the content of emails sent by the user and falls under the 'Emails' data type.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

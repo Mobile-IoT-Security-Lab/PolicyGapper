@@ -1,0 +1,85 @@
+Our privacy policy is subject to change at any time without prior notice. You are advised
+to review the policies periodically for any changes. If we decide to change our privacy
+policy, we will post those changes on this page so that you are always aware of what
+information we collect, how we use it, and under what circumstances we disclose it.
+
+---
+
+By using the IOB Connect Mobile Banking app (the "App') and/ or by providing your
+information, you consent to the collection and use of the information you disclose on the
+app in accordance with this Privacy Policy, including but not limited to your consent for
+sharing your information as per this privacy policy.
+
+---
+
+Use and sharing of Information:
+When you use our IOB Mobile application, we will collect information about the device in
+which the App is installed on (e.g. Device identification numbers (ie IMEI), Android versions,
+device model) and your account with us and associated transaction and store your
+personal information provided by you from time to time. We do so to ensure that you are
+provided a safe, efficient, smooth and seamless experience. This also allows us to
+understand your needs and provide for services and features that best suit them. We
+strive to provide for customizations on our application to ensure that your experience is
+always safer and easier.
+
+---
+
+This requires collection of personal information to the extent necessary for achieving this
+purpose and objective. You may please note that it is mandatory to register yourself in
+order to use the app. And once you give us your personal information, you are not
+anonymous to us. We may automatically track certain information about you based upon
+your behaviour on our app to the extent we deem fit.
+
+---
+
+We retain this information as necessary to resolve disputes in terms of transactions and
+otherwise, where needed, provide customer support and troubleshoot problems as
+permitted by law. We collect personally identifiable information (Name, phone number,
+account number etc.) from you when you register with us to create your unique
+identification in terms of a Mobile banking transactions pin and/or Application Password
+and/or any other unique registration identification that is/shall be made available to our
+customers.
+
+---
+
+We use personal information to provide the services you request. We use your personal
+information to resolve disputes; troubleshoot problems; Send money etc.We use the
+information thus obtained to customize your experience; detect and protect us against
+error, fraud and other criminal activity; enforce our terms and conditions which are an
+integral part of the use of this application; and as otherwise described to you at the time
+of such collection.
+
+---
+
+By Accepting Privacy policy you are agreeing to provide the below permissions required
+by the application:
+PRIVACY PERMISSIONS REQUIRED AND THEIR PURPOSE
+• ACCESS_FINE_LOCATION – To get a precise location using both GPS_PROVIDER and
+NETWORK_PROVIDER.
+• ACCESS_COARSE_LOCATION – The Coarse location provides less accurate locations
+when in a battery save mode.
+
+---
+
+• ACCESS_WIFI_STATE – To access information about Wi-Fi networks.
+• ACCESS_NETWORK_STATE – To access internet connection via Direct Internet
+• INTERNET – for accessing internet,SSL certificate verification.
+• READ_EXTERNAL_STORAGE - To read the saved Profile image files from device gallery.
+• SEND_SMS, Telephony – To verify user's mobile number.
+• WRITE_EXTERNAL_STORAGE - Application requires this permission since application
+allowing to set the customer profile picture in the application. In this scenario, user can
+select the picture from the device SD card and Social sharing, PDF download, Camera
+access for external storage.
+• CAMERA - to take picture for customer profile image purpose.
+• READ_PHONE_STATE – to access sim serial number of user to provide an option to user
+to send an SMS from available SMS providers.
+• READ_CONTACTS, WRITE_CONTACTS, GET_ACCOUNTS -Getting contact details to use
+Mobile to Mobile beneficiary registration.
+• USE_FINGERPRINT-to provide Bio metric login authentication.
+• RECEIVE_BOOT_COMPLETED, ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION-to
+get location details and dependency.
+• VIBRATE,GPS, ACCESS_NETWORK_STATE- To get internet information.
+• READ_PHONE_STATE-To get Sim details for verification.
+• BLUETOOTH-To Diagnostic plugin dependency (IOS).
+• CALL_PHONE- Making phone call.
+• VOICE_RECORD-To provide voice assistance service.

@@ -1,0 +1,86 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "COOKIES\nTo improve the responsiveness for our User(s), we may use \"cookies\", or similar other electronic tools to collect information in order to assign each user a unique, random number as a user identification (\"User ID\") to understand each and every user's individual interests using their identified computer/mobile devices. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer/mobile devices. A cookie also cannot read data off your hard drive. The Android and iOS applications do not use \"cookies\" explicitly. However, the Company's Website(s)/Mobile Application(s) may use third party code and libraries that use \"cookies\" to collect information and improve their services. User(s) have the option to either accept or refuse these cookies and to know when a cookie is being sent to your device. However, in case the User(s) choose to refuse our cookies, he/she may not be able to use some/complete portions of our services. Advertisers using the platform of the Company's Website(s)/Mobile Application(s) to advertise may also assign and use their own cookies to your browser, a process that we do not control. Once the User(s) permit, We may obtain additional information such as list of apps installed on your device, device information, location, network carrier (\"Information\") available on your device, to personalize your experience and improve the app suggestions. This data may also be used at our end to take necessary business decisions.",
+      "justification": "The privacy policy states that the app may obtain a 'list of apps installed on your device' to 'personalize your experience'. This data is used for business decisions, indicating it is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Installed apps' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "DEMOGRAPHIC AND PURCHASE INFORMATION\n(i) We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the User(s) behavior on our Website(s)/Mobile Application(s).\n(ii) Google Analytics specifically has been enabled to support display advertising helping us to gain understanding of our User(s); Demographics and Interests.",
+      "justification": "The privacy policy states that Google Analytics is used to 'track the User(s) behavior on our Website(s)/Mobile Application(s)', which constitutes the collection of 'App interactions' data from the mobile app.",
+      "how_to_fix": "Declare the collection of 'App interactions' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "To avail certain services on Company's Website(s)/Mobile Application(s), the User(s) may be required to provide certain information for the registration process that may include but not to limited to :-\na) your name,\nb) email address,\nc) sex,\nd) age,\ne) PIN code,\nf) credit card or debit card details,\ng) medical records and history,\nh) sexual orientation,\ni) biometric information,\nj) password etc., and/or your occupation, interests, and the like.",
+      "justification": "The privacy policy states that to use services on the 'Mobile Application(s)', users may be required to provide their 'name' for the registration process.",
+      "how_to_fix": "Declare the collection of 'Name' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "To avail certain services on Company's Website(s)/Mobile Application(s), the User(s) may be required to provide certain information for the registration process that may include but not to limited to :-\na) your name,\nb) email address,\nc) sex,\nd) age,\ne) PIN code,\nf) credit card or debit card details,\ng) medical records and history,\nh) sexual orientation,\ni) biometric information,\nj) password etc., and/or your occupation, interests, and the like.",
+      "justification": "The privacy policy states that to use services on the 'Mobile Application(s)', users may be required to provide their 'PIN code' for the registration process. A PIN code is a form of address.",
+      "how_to_fix": "Declare the collection of 'Address' (specifically 'Physical address') in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We automatically collect limited information about your computer's or mobile's connection to the internet, mobile number/email address (if applicable), including your IP address, when you visit the Company's Website(s)/Mobile Application(s).",
+      "justification": "The privacy policy states that the app automatically collects 'mobile number' when you use the 'Mobile Application(s)'.",
+      "how_to_fix": "Declare the collection of 'Phone number' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "To avail certain services on Company's Website(s)/Mobile Application(s), the User(s) may be required to provide certain information for the registration process that may include but not to limited to :-\na) your name,\nb) email address,\nc) sex,\nd) age,\ne) PIN code,\nf) credit card or debit card details,\ng) medical records and history,\nh) sexual orientation,\ni) biometric information,\nj) password etc., and/or your occupation, interests, and the like.",
+      "justification": "The privacy policy states that to use services on the 'Mobile Application(s)', users may be required to provide their 'sexual orientation' for the registration process.",
+      "how_to_fix": "Declare the collection of 'Sexual orientation' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "To avail certain services on Company's Website(s)/Mobile Application(s), the User(s) may be required to provide certain information for the registration process that may include but not to limited to :-\na) your name,\nb) email address,\nc) sex,\nd) age,\ne) PIN code,\nf) credit card or debit card details,\ng) medical records and history,\nh) sexual orientation,\ni) biometric information,\nj) password etc., and/or your occupation, interests, and the like.",
+      "justification": "The privacy policy states that to use services on the 'Mobile Application(s)', users may be required to provide information like 'occupation, interests, and the like', which falls under 'Other info'.",
+      "how_to_fix": "Declare the collection of 'Other info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "To avail certain services on Company's Website(s)/Mobile Application(s), the User(s) may be required to provide certain information for the registration process that may include but not to limited to :-\na) your name,\nb) email address,\nc) sex,\nd) age,\ne) PIN code,\nf) credit card or debit card details,\ng) medical records and history,\nh) sexual orientation,\ni) biometric information,\nj) password etc., and/or your occupation, interests, and the like.",
+      "justification": "The privacy policy states that to use services on the 'Mobile Application(s)', users may be required to provide 'credit card or debit card details' for the registration process.",
+      "how_to_fix": "Declare the collection of 'User payment info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "To avail certain services on Company's Website(s)/Mobile Application(s), the User(s) may be required to provide certain information for the registration process that may include but not to limited to :-\na) your name,\nb) email address,\nc) sex,\nd) age,\ne) PIN code,\nf) credit card or debit card details,\ng) medical records and history,\nh) sexual orientation,\ni) biometric information,\nj) password etc., and/or your occupation, interests, and the like.",
+      "justification": "The privacy policy states that to use services on the 'Mobile Application(s)', users may be required to provide 'medical records and history'.",
+      "how_to_fix": "Declare the collection of 'Health info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Once the User(s) permit, We may obtain additional information such as list of apps installed on your device, device information, location, network carrier (\"Information\") available on your device, to personalize your experience and improve the app suggestions. This data may also be used at our end to take necessary business decisions.",
+      "justification": "The privacy policy states that the app may obtain 'location' information from the user's device to 'personalize your experience' and for 'business decisions', indicating it is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Approximate location' and/or 'Precise location' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Log File Information: It is necessary to inform and clarify our User(s) that:\n(i) We automatically collect limited information about your computer's or mobile's connection to the internet, mobile number/email address (if applicable), including your IP address, when you visit the Company's Website(s)/Mobile Application(s).\n(ii) Your IP address is a number that lets computers attached to the Internet know where to send you data - such as the pages you view.\n(iii) We automatically receive and log information from your browser, including your IP address, your computer's name, your operating system, browser type and version.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy reference explicitly describes collecting log information 'from your browser', including 'IP address, your computer's name, your operating system, browser type and version'. This is characteristic of website data collection, which is exempt from mobile app disclosure.",
+      "how_to_fix": "No action needed. This data type is correctly excluded as it pertains to website collection, not the mobile app.",
+      "lang": "English"
+    }
+  ]
+}
+```

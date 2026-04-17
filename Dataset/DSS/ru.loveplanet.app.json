@@ -1,0 +1,76 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Precise location",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": 1,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Political or religious beliefs",
+      "optional": 1,
+      "purpose": "Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Photos",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "http://loveplanet.ru/a-conditions/en"
+}

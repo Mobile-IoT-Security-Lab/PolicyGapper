@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "FOR CUSTOMER SUPPORT\nWe use your Information to respond to any queries you send to\nour email support@bubadu.com. Legal basis: contract\nperformance. Data collected: email address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "With the help of identifiers, such as\nanalytics IDs, namely, Bubadu Identifier, Firebase Installation ID,\nApp Set ID (Android) and IDFV (iOS) assigned to your device we\ncan collect Analytical Information and use it to understand and\noptimize how our Apps are used, improve our marketing efforts,\nprovide content and features that are of interest to you, and\nconduct statistics, analytics, research and development in order\nto continuously improve our Apps and make them better for you.\nThis includes correcting technical malfunctions, customization,\nproviding better and improved content, developing new offers,\nmeasuring traffic and usage of our Apps, promoting the Apps\nand improving the user experience. We do not process any\ninformation which could directly identify you. We use data log\nfiles (IP address, app version, date, OS version, requests, states\netc.) and information about your activity within the Apps for\ninternal analytics to improve our Apps.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Technical information that we collect is IP address (location:\ncountry or region, not specific enough to identify a street),\nlanguage (language set on the device and not based on location)\ninformation about your device (device type, version and type of\noperating system, mobile phone carrier, screen resolution,\nnetwork provider, network status, SDK version, API key,\napplication version, Android or iOS Vendor, storage size, screen\nsize, firmware), data log files from servers (IP address, app\nversion, date, OS version, requests, states etc.), session\ninformation, levels achieved and in-app purchases.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "ADVERTISING DATA\nWe have integrated Advertising Providers' SDKs (a piece of code)\ninto our Apps enabling us to connect ad networks to run in-app\nads and to collect the Information needed to display\nadvertisements such as IP address, location data (specific\nenough to identify a state for cross promo ads and city for\nanalytics), raw data log files on servers (IP address, date, time,\nrequests, state etc.), data about the add (campaign id, creative,\ncountry, Bubadu Identifier (not shared with advertisers), date,\ntimestamp, app, orientation, store, status of the ad – requested,\nloaded, displayed, clicked ad). Contextual advertising can come\nfrom the type of device being used, the game/app genre, or the\nselected language.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Personal Information, that may be used to identify you as an individual (Personal information is any information related to an identified or identifiable natural person). • • • First and Last Name; Profile Picture or Avatar; Profile Information from Third-Party Social Media and Payment Websites; • Your Email Address; • IP Address; • Your gender",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Personal Information, that may be used to identify you as an individual (Personal information is any information related to an identified or identifiable natural person). • • • First and Last Name; Profile Picture or Avatar; Profile Information from Third-Party Social Media and Payment Websites; • Your Email Address; • IP Address; • Your gender",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "1). Identifiers, such as: names, e-mail addresses, Internet Protocol addresses, or other similar identifiers. Collected: YES",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "2) Personal information categories listed in the California Customer Records statute (Cal. Civ. Code §1798.80(e)) such as: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories. Collected: YES",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "2) Personal information categories listed in the California Customer Records statute (Cal. Civ. Code §1798.80(e)) such as: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories. Collected: YES",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Information about your gender: When you use our Al Avatars feature, we ask you about your gender. This information is used by the Al model solely to generate the Avatars in accordance with the indicated gender: for example, if you choose to identify your gender as a female, then you will receive conventionally more feminine-like Avatars.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "2) Personal information categories listed in the California Customer Records statute (Cal. Civ. Code §1798.80(e)) such as: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories. Collected: YES",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "4) Commercial information obtained, purchased or considered, such as records of personal property, records of products or Services purchased or other purchasing or use histories or tendencies Collected: YES",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "2) Personal information categories listed in the California Customer Records statute (Cal. Civ. Code §1798.80(e)) such as: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories. Collected: YES",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "2) Personal information categories listed in the California Customer Records statute (Cal. Civ. Code §1798.80(e)) such as: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories. Collected: YES",
+      "lang": "English"
+    }
+  ]
+}

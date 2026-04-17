@@ -1,0 +1,64 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Other financial info",
+      "optional": 0,
+      "purpose": "Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Messages"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": 0,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": 0,
+      "purpose": "Account management",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.metaquotes.net/policies/mobile"
+}

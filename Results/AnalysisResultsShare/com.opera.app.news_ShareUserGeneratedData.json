@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Personalized Ads\nAs described in our terms of service, our Software is ad-supported. Ads help us keep the lights on\nand continue to provide free products for our users. In order to provide our news services and\nserve targeted ads, we collect data such as advertising IDs from your device and your general\nlocation, as well as data you submit to us if you choose to create or update a user profile (such as\nyour name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by\nour monetization partners. We process this data based on your consent. You can always adjust\nyour personalized ad choices or withdraw your consent in the application's \"Settings\" menu.",
+      "lang": "English"
+    }
+  ]
+}

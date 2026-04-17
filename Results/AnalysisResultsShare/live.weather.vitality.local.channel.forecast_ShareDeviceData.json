@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "*Third-party Partners' Privacy Policy\nFacebook Ads Privacy Policy:\nhttps://www.facebook.com/about/privacy/\nAdMob: https://policies.google.com/privacy\nFacebook: https://business.facebook.com/privacy/explanation",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "*Third-party Partners' Privacy Policy\nFacebook Ads Privacy Policy:\nhttps://www.facebook.com/about/privacy/\nAdMob: https://policies.google.com/privacy\nFacebook: https://business.facebook.com/privacy/explanation",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other info",
+      "policy_reference": "Depending on the choices you make when logging in to our Services or during the process of engaging our Services, you may opt to give the following additional personal data: Your name, address, phone number and email address; Your age and/or date of birth; Your gender; Your photograph, ‘avatar’ or other image; Your interests and preferences; Your location; Your social media accounts.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number), and the security code associated with your payment instrument. All payment data is stored by our payment processor and you should review its privacy policies and contact the payment processor directly to respond to your questions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may also collect information about your subscriptions with us, the ads you have posted and/or promoted, and the services you have purchased from us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We automatically collect certain information when you visit, use or navigate our Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.",
+      "lang": "English"
+    }
+  ]
+}

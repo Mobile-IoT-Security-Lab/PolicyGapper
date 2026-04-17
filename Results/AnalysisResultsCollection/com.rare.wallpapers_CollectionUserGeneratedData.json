@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Registration\nInformation:\nIf you are required to\nregister and create an\naccount through our\nApp, we will collect the\nPersonal Data that\nyou are required to\nprovide us during the\nregistry process, such\nas your full name and\nemail address.\nFurther, during the\nregistration process\nyou will be supplied\nwith username and\npassword for your\naccount, at which time\nyou thereby represent\nand warrant that you\nare responsible for\nmaintaining the\nconfidentiality of your\ndetails and password.\nYou represent and\nwarrant that you will\nnot provide us with\ninaccurate, misleading\nor false information.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Photos and Videos:\nif you use our\ndesignated feature in\nthe applicable App in\norder to provide you\nwith our Services, we\nwill ask you to provide\nus with photos,\nimages or videos of\nyou (collectively\n“Content”) for editing\npurposes and to\ncreate\nanimations.While we\ncannot prevent you\nfrom doing so, we still\ndo not use Personal\nData from photos for\npurposes other than\nproviding our Service.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Photos and Videos:\nif you use our\ndesignated feature in\nthe applicable App in\norder to provide you\nwith our Services, we\nwill ask you to provide\nus with photos,\nimages or videos of\nyou (collectively\n“Content”) for editing\npurposes and to\ncreate\nanimations.While we\ncannot prevent you\nfrom doing so, we still\ndo not use Personal\nData from photos for\npurposes other than\nproviding our Service.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Microphone and\naudio:\nAs part of our dialer\nfeature which is\nprovided to certain\nApps of ours, you will\nbe required to provide\nus permissions to\nyour Microphone.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "Calendar:\nSome of our Apps will\nprovide you with new\ndesign features for\nyour device. In order\nto apply those\ndesigns, we will need\nto access your\ncalendar.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Call log and\nContacts:\nAs part of our dialer\nfeature which is\nprovided to certain\nApps of ours, you will\nbe required to provide\nus permissions to\nyour call log and\ncontacts.",
+      "lang": "en"
+    }
+  ]
+}

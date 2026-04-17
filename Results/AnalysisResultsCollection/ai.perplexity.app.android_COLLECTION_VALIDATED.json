@@ -1,0 +1,140 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "justification": "The privacy policy states that user inputs like questions and prompts are collected as part of the service interaction, which directly corresponds to in-app search history.",
+      "how_to_fix": "Declare the collection of 'In-app search history' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "justification": "The policy explicitly mentions collecting 'content that you input, upload or submit to the Services, and the output that you create', which falls under the category of user-generated content.",
+      "how_to_fix": "Declare the collection of 'Other user generated content' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• Other information regarding your interaction with the Services, such as browser type, log data, date and time stamps, clickstream data, interactions with marketing emails, and ad impressions.",
+      "justification": "The policy states collection of user interaction data, including 'clickstream data' and 'ad impressions', which are examples of 'Other actions'.",
+      "how_to_fix": "Declare the collection of 'Other actions' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "• Basic contact details, such as name, address, phone number, and email (\"Contact Information”). We use this information where necessary to perform our contract with you to provide the Services, and to communicate with you (including, with your consent where required, to tell you about certain promotions or products or services that may be of interest to you).",
+      "justification": "The privacy policy explicitly states that 'name' is collected as part of 'Basic contact details'.",
+      "how_to_fix": "Declare the collection of 'Name' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• Account information, such as name, username, email and password (“Account Information”). We use this information where necessary to perform our contract with you to provide the Services and to maintain and secure your account with us. If you choose to register an account, you are responsible for keeping your account credentials safe. We recommend you do not share your access details with anyone else. If you believe your account has been compromised, please contact us immediately at support@perplexity.ai.",
+      "justification": "The policy mentions the collection of 'username' as part of 'Account Information', which is a type of User ID.",
+      "how_to_fix": "Declare the collection of 'User IDs' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "• Basic contact details, such as name, address, phone number, and email (\"Contact Information”). We use this information where necessary to perform our contract with you to provide the Services, and to communicate with you (including, with your consent where required, to tell you about certain promotions or products or services that may be of interest to you).",
+      "justification": "The privacy policy explicitly states that 'address' is collected as part of 'Basic contact details'.",
+      "how_to_fix": "Declare the collection of 'Address' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• Basic contact details, such as name, address, phone number, and email (\"Contact Information”). We use this information where necessary to perform our contract with you to provide the Services, and to communicate with you (including, with your consent where required, to tell you about certain promotions or products or services that may be of interest to you).",
+      "justification": "The privacy policy explicitly states that 'phone number' is collected as part of 'Basic contact details'.",
+      "how_to_fix": "Declare the collection of 'Phone number' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "• Any other information you choose to include in communications with us when necessary to perform our contract with you, for example, when sending a message through the Services or providing your size when purchasing certain products (“Other Information You Provide\").",
+      "justification": "The policy describes collecting 'Any other information you choose to include in communications with us', which fits the 'Other info' data type.",
+      "how_to_fix": "Declare the collection of 'Other info' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Payment information, such as credit or debit card information and billing address, which we collect using a third party payment processor (\"Payment Information”). We use this information where necessary to perform our contract with you to process your payment and provide the Services.",
+      "justification": "The policy explicitly states the collection of 'Payment information, such as credit or debit card information and billing address'.",
+      "how_to_fix": "Declare the collection of 'User payment info' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "justification": "The policy states that 'content that you input... or submit to the Services' is collected. This can include messages sent within the app.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "justification": "The policy's reference to collecting 'content that you input, upload or submit' is broad enough to include photos if the app supports this functionality.",
+      "how_to_fix": "Declare the collection of 'Photos' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or not be attributed to you.",
+      "justification": "The policy's reference to collecting 'content that you input, upload or submit' is broad enough to include videos if the app supports this functionality.",
+      "how_to_fix": "Declare the collection of 'Videos' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "justification": "The policy's reference to collecting 'content that you input, upload or submit' is broad enough to include voice or sound recordings if the app supports this functionality.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "justification": "The policy's reference to collecting 'content that you input, upload or submit' is broad enough to include music files if the app supports this functionality.",
+      "how_to_fix": "Declare the collection of 'Music files' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "justification": "The policy's reference to collecting 'content that you input, upload or submit' is broad enough to include other audio files if the app supports this functionality.",
+      "how_to_fix": "Declare the collection of 'Other audio files' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "justification": "The policy's reference to collecting 'content that you input, upload or submit' is broad enough to include files and documents if the app supports this functionality.",
+      "how_to_fix": "Declare the collection of 'Files and docs' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "You may also have the ability to sync your third party email account or calendar (such as Gmail and Google Calendar) with the Services. If you choose to sync these accounts, we will have access to your contacts and information from the email messages and calendar appointments in your email account, including the content of your emails (together, “Email Service Information”). Notwithstanding anything else in this Privacy Policy, we only use and disclose Email Service Information to provide the Services or as otherwise required by applicable law, and we do not use or disclose Email Service Information to create, train, improve or fine-tune Al models. If you sync your Google account with the Services, we only use and disclose information from your Google account in accordance with the Google API Services User Data Policy, including the Limited Use requirements.",
+      "justification": "The policy explicitly states that if a user syncs their email account, the service will have access to 'the content of your emails'.",
+      "how_to_fix": "Declare the collection of 'Emails' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "You may also have the ability to sync your third party email account or calendar (such as Gmail and Google Calendar) with the Services. If you choose to sync these accounts, we will have access to your contacts and information from the email messages and calendar appointments in your email account, including the content of your emails (together, “Email Service Information”). Notwithstanding anything else in this Privacy Policy, we only use and disclose Email Service Information to provide the Services or as otherwise required by applicable law, and we do not use or disclose Email Service Information to create, train, improve or fine-tune Al models. If you sync your Google account with the Services, we only use and disclose information from your Google account in accordance with the Google API Services User Data Policy, including the Limited Use requirements.",
+      "justification": "The policy explicitly states that if a user syncs their calendar, the service will have access to 'calendar appointments'.",
+      "how_to_fix": "Declare the collection of 'Calendar events' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "You may also have the ability to sync your third party email account or calendar (such as Gmail and Google Calendar) with the Services. If you choose to sync these accounts, we will have access to your contacts and information from the email messages and calendar appointments in your email account, including the content of your emails (together, “Email Service Information”). Notwithstanding anything else in this Privacy Policy, we only use and disclose Email Service Information to provide the Services or as otherwise required by applicable law, and we do not use or disclose Email Service Information to create, train, improve or fine-tune Al models. If you sync your Google account with the Services, we only use and disclose information from your Google account in accordance with the Google API Services User Data Policy, including the Limited Use requirements.",
+      "justification": "The policy explicitly states that if a user syncs their email account, the service 'will have access to your contacts'.",
+      "how_to_fix": "Declare the collection of 'Contacts' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

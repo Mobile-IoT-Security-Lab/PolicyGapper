@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "PURPOSE:In the event that you reach a certain amount of revenue or sales we are required to collect and report such revenue and tax data under the DAC7 Directive.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "PURPOSE:In the event that you reach a certain amount of revenue or sales we are required to collect and report such revenue and tax data under the DAC7 Directive.",
+      "lang": "English"
+    }
+  ]
+}

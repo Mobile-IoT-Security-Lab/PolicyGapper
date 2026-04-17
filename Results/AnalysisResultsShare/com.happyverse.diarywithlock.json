@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "This service helps us to collect and analyze usage data in order to understand usage patterns and to improve our Android app.\nPersonal data collected: various usage and device data such as cookies, unique device identifiers, usage data, anonymized IP addresses",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• Third-Party Advertisers and Links to Other Websites: Amazon Services may include third-party advertising and links to other websites and apps. Third-party advertising partners may collect information about you when you interact with their content, advertising, and services. For more information about third-party advertising at Amazon, including interest-based ads, please read our Interest-Based Ads notice. To adjust your advertising preferences, please visit Your Ads Privacy Choices.",
+      "justification": "The privacy policy states that third-party advertising partners collect data about user interactions with their content and ads. This is considered 'sharing' for advertising purposes under Google Play's Data safety policy.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'App interactions' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "• Use of Third-Party Advertising Services: We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie, a device identifier, or a code derived from applying irreversible cryptography to other information like an email address. For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again. While we do not share your specific shopping actions like purchases, product views, or searches with ad companies, we may share an advertising identifier and an estimate of the value of the ads they show you on our behalf so they can serve you with more effective Amazon ads. Some ad companies also use this information to serve you relevant ads from other advertisers. You can learn more about how to opt-out of personalized advertising (such as cross-context behavioral advertising) by visiting Your Ads Privacy Choices.",
+      "justification": "The policy states that a device or advertising identifier is shared with ad companies. Although some use is 'on our behalf', the policy also states that ad companies may use this information to serve ads from other advertisers, which disqualifies it from the 'service provider' exemption and makes it declarable 'sharing'.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Device or other IDs' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Use of Third-Party Advertising Services: We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie, a device identifier, or a code derived from applying irreversible cryptography to other information like an email address. For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again. While we do not share your specific shopping actions like purchases, product views, or searches with ad companies, we may share an advertising identifier and an estimate of the value of the ads they show you on our behalf so they can serve you with more effective Amazon ads. Some ad companies also use this information to serve you relevant ads from other advertisers. You can learn more about how to opt-out of personalized advertising (such as cross-context behavioral advertising) by visiting Your Ads Privacy Choices.",
+      "justification": "The policy states that a 'code derived from applying irreversible cryptography to... an email address' is shared with ad companies. Pseudonymous identifiers like this are considered personal data under Google's policy, and this transfer must be declared as 'sharing'.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Email address' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "• Transactions involving Third Parties: We make available to you services, products, applications, or skills provided by third parties for use on or through Amazon Services. For example, you can order products from third parties through our stores, download applications from third-party application providers from our App Store, and enable third-party skills through our Alexa services. We also offer services or sell product lines jointly with third-party businesses, such as co-branded credit cards. You can tell when a third party is involved in your transactions, and we share customers' personal information related to those transactions with that third party.",
+      "reason_of_removal": "User-Initiated Action Exemption",
+      "justification": "The policy states data is shared to complete a transaction explicitly initiated by the user with a third party (e.g., ordering a product). This is exempt from being declared as 'sharing' under Google Play's policy on user-initiated actions.",
+      "how_to_fix": "No action is required for this specific use case, as it falls under the user-initiated sharing exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• Transactions involving Third Parties: We make available to you services, products, applications, or skills provided by third parties for use on or through Amazon Services. For example, you can order products from third parties through our stores, download applications from third-party application providers from our App Store, and enable third-party skills through our Alexa services. We also offer services or sell product lines jointly with third-party businesses, such as co-branded credit cards. You can tell when a third party is involved in your transactions, and we share customers' personal information related to those transactions with that third party.",
+      "reason_of_removal": "User-Initiated Action Exemption",
+      "justification": "The policy states data is shared to complete a transaction explicitly initiated by the user with a third party (e.g., ordering a product). This is exempt from being declared as 'sharing' under Google Play's policy on user-initiated actions.",
+      "how_to_fix": "No action is required for this specific use case, as it falls under the user-initiated sharing exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "• Transactions involving Third Parties: We make available to you services, products, applications, or skills provided by third parties for use on or through Amazon Services. For example, you can order products from third parties through our stores, download applications from third-party application providers from our App Store, and enable third-party skills through our Alexa services. We also offer services or sell product lines jointly with third-party businesses, such as co-branded credit cards. You can tell when a third party is involved in your transactions, and we share customers' personal information related to those transactions with that third party.",
+      "reason_of_removal": "User-Initiated Action Exemption",
+      "justification": "The policy states data is shared to complete a transaction explicitly initiated by the user with a third party (e.g., ordering a product). This is exempt from being declared as 'sharing' under Google Play's policy on user-initiated actions.",
+      "how_to_fix": "No action is required for this specific use case, as it falls under the user-initiated sharing exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• Transactions involving Third Parties: We make available to you services, products, applications, or skills provided by third parties for use on or through Amazon Services. For example, you can order products from third parties through our stores, download applications from third-party application providers from our App Store, and enable third-party skills through our Alexa services. We also offer services or sell product lines jointly with third-party businesses, such as co-branded credit cards. You can tell when a third party is involved in your transactions, and we share customers' personal information related to those transactions with that third party.",
+      "reason_of_removal": "User-Initiated Action Exemption",
+      "justification": "The policy states data is shared to complete a transaction explicitly initiated by the user with a third party (e.g., ordering a product). This is exempt from being declared as 'sharing' under Google Play's policy on user-initiated actions.",
+      "how_to_fix": "No action is required for this specific use case, as it falls under the user-initiated sharing exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Transactions involving Third Parties: We make available to you services, products, applications, or skills provided by third parties for use on or through Amazon Services. For example, you can order products from third parties through our stores, download applications from third-party application providers from our App Store, and enable third-party skills through our Alexa services. We also offer services or sell product lines jointly with third-party businesses, such as co-branded credit cards. You can tell when a third party is involved in your transactions, and we share customers' personal information related to those transactions with that third party.",
+      "reason_of_removal": "User-Initiated Action Exemption",
+      "justification": "The policy states data is shared to complete a transaction explicitly initiated by the user with a third party (e.g., ordering a product). This is exempt from being declared as 'sharing' under Google Play's policy on user-initiated actions.",
+      "how_to_fix": "No action is required for this specific use case, as it falls under the user-initiated sharing exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Transactions involving Third Parties: We make available to you services, products, applications, or skills provided by third parties for use on or through Amazon Services. For example, you can order products from third parties through our stores, download applications from third-party application providers from our App Store, and enable third-party skills through our Alexa services. We also offer services or sell product lines jointly with third-party businesses, such as co-branded credit cards. You can tell when a third party is involved in your transactions, and we share customers' personal information related to those transactions with that third party.",
+      "reason_of_removal": "User-Initiated Action Exemption",
+      "justification": "The policy states data is shared to complete a transaction explicitly initiated by the user with a third party (e.g., using a third-party skill or app). This is exempt from being declared as 'sharing' under Google Play's policy on user-initiated actions.",
+      "how_to_fix": "No action is required for this specific use case, as it falls under the user-initiated sharing exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Transactions involving Third Parties: We make available to you services, products, applications, or skills provided by third parties for use on or through Amazon Services. For example, you can order products from third parties through our stores, download applications from third-party application providers from our App Store, and enable third-party skills through our Alexa services. We also offer services or sell product lines jointly with third-party businesses, such as co-branded credit cards. You can tell when a third party is involved in your transactions, and we share customers' personal information related to those transactions with that third party.",
+      "reason_of_removal": "User-Initiated Action Exemption",
+      "justification": "The policy states data is shared to complete a transaction explicitly initiated by the user with a third party (e.g., using a third-party skill or app). This is exempt from being declared as 'sharing' under Google Play's policy on user-initiated actions.",
+      "how_to_fix": "No action is required for this specific use case, as it falls under the user-initiated sharing exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Transactions involving Third Parties: We make available to you services, products, applications, or skills provided by third parties for use on or through Amazon Services. For example, you can order products from third parties through our stores, download applications from third-party application providers from our App Store, and enable third-party skills through our Alexa services. We also offer services or sell product lines jointly with third-party businesses, such as co-branded credit cards. You can tell when a third party is involved in your transactions, and we share customers' personal information related to those transactions with that third party.",
+      "reason_of_removal": "User-Initiated Action Exemption",
+      "justification": "The policy states data is shared to complete a transaction explicitly initiated by the user with a third party (e.g., using a third-party skill or app). This is exempt from being declared as 'sharing' under Google Play's policy on user-initiated actions.",
+      "how_to_fix": "No action is required for this specific use case, as it falls under the user-initiated sharing exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

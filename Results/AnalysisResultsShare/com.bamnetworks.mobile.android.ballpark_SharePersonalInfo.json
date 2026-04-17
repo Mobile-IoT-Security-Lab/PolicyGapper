@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "To facilitate the activity described above and below, we may use Service Providers to convert your email address into a unique code (hashed email address or telephone number), which is then provided to the advertiser, Other Companies, including Other Companies that may act as third parties as defined under applicable data privacy laws, and/or Service Providers as set forth in this Privacy Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "To facilitate the activity described above and below, we may use Service Providers to convert your email address into a unique code (hashed email address or telephone number), which is then provided to the advertiser, Other Companies, including Other Companies that may act as third parties as defined under applicable data privacy laws, and/or Service Providers as set forth in this Privacy Policy.",
+      "lang": "English"
+    }
+  ]
+}

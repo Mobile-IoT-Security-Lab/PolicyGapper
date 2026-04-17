@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "Company may also transfer your personal data to services providers of our Company, third parties such as Facebook SDK, Adjust and Firebase Analytics which are embedded into our service for the following purposes:\n• Sharing identity, communication and transaction security information with authorized public institutions and organizations for the purpose of execution of activities in compliance with legislation, monitor and execution of legal affairs, informing authorized persons, institutions and organizations.\n• Sharing identity and contact information to manage after-sales support services, conduct business activities and manage customer relationship management processes.",
+      "lang": "English"
+    }
+  ]
+}

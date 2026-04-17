@@ -1,0 +1,21 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Protecting the privacy of young children is especially important. For that reason, Goodreads does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or e-mail address. No one under age 13 is allowed to provide any personal information to or on Goodreads. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us.",
+      "justification": "The privacy policy explicitly lists 'telephone number' as a type of personal information that may be collected from users, stating that individuals under 13 should not provide it.",
+      "how_to_fix": "Declare the collection of 'Phone number' in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "The Service allows you to post User Content, as defined in our Terms of Use. Any User Content you post becomes available to the public via the Service. User Content includes, but is not limited to, reviews, comments, and visual content. If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.",
+      "justification": "The policy states the service allows users to post 'User Content,' which explicitly includes 'visual content.' Videos are a form of visual content.",
+      "how_to_fix": "Declare the collection of 'Videos' in the app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

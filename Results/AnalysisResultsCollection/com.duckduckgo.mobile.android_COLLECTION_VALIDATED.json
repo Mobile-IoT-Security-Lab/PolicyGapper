@@ -1,0 +1,28 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Similarly, if you reach out to us directly for support, to provide feedback (such as in a crash report or on our search engine), or for other reasons, we will only use your contact information to respond to you. In that process, your communication may be accessible to the software-as-a-service providers we use in our corporate systems (such as our company email and project management software). For information voluntarily provided in surveys, we sometimes use additional vendors for processing, though their access to personal information is contractually limited to what is necessary to perform their services. Finally, if you apply for a position on our team, any information you provide falls under our Recruiting Information Policy.",
+      "justification": "The policy states that user-provided content such as feedback, crash reports, and survey responses are collected and processed by the developer and their service providers. This data is sent off-device and does not qualify for an exemption.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in the Google Play Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "This means that when you use our services, we have no way to create a history of your search queries or the sites you browse. For example, we may know that we got a lot of searches for \"cute cat pictures\" today, but we don't know who actually performed those searches. That is, viewing search results on DuckDuckGo is anonymous. And we only save these anonymous search queries – completely disconnected from any unique identifiers like IP addresses — for just enough time to analyze anonymous trends like popular searches, so that we can better serve you. For local search results in particular, we've further engineered a solution to shield your precise location from us and our content providers that sends us a random location nearish to you, which we also never log to disk.",
+      "justification": "The policy explicitly states that for local search results, the app 'sends us a random location nearish to you'. This is a form of approximate location data being sent off-device and does not qualify for an exemption.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in the Google Play Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Similarly, if you reach out to us directly for support, to provide feedback (such as in a crash report or on our search engine), or for other reasons, we will only use your contact information to respond to you. In that process, your communication may be accessible to the software-as-a-service providers we use in our corporate systems (such as our company email and project management software). For information voluntarily provided in surveys, we sometimes use additional vendors for processing, though their access to personal information is contractually limited to what is necessary to perform their services. Finally, if you apply for a position on our team, any information you provide falls under our Recruiting Information Policy.",
+      "justification": "The policy states that when a user provides contact information for support, it is used to respond and may be accessible to third-party SaaS providers. This confirms the off-device collection of email addresses and does not qualify for an exemption.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in the Google Play Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

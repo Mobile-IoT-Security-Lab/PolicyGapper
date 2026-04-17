@@ -1,0 +1,56 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "When you are logged in with your HERE account, we will try to automatically synchronise your recent searches and your collections in association with your HERE account.",
+      "justification": "The policy states that recent searches are synchronized with the user's account, which means this data is sent off-device and therefore collected.",
+      "how_to_fix": "Declare 'In-app search history' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you use the feature of the Service that enables you to book a ride with any third-party transportation services provider (i.e., a taxi company) (“Transport Provider”), who provides its transportation services to you through such feature, we collect your name and phone number. In addition, each time you use this feature of the Service to book rides, we collect your relevant pick-up and drop-off locations, pick up time, and any additional information that you chose to provide us with; For example, when you add notes to your booking.",
+      "justification": "The policy states the app collects 'notes to your booking' and other information the user chooses to provide, which qualifies as collected User-generated content.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "In addition to personal data that you actively provide when you create a HERE account and/or book a ride with a Transport Provider, after you download and install the application, or book a ride via HERE WeGo, certain technical details of your client as well as your transactions with HERE may be automatically collected by HERE, including your device ID or any other unique identifier, advertiser ID (if applicable), publisher ID (if applicable), the device on which you installed the application and/or the device via which you use the Service, operator, device type and model, device manufacturer, application version, operating system and version, browser type and version, city, language, referral URL, IP address, local time, push notification settings, screen resolution, memory and if your GPS is enabled/disabled in your application.",
+      "justification": "The policy states that the 'referral URL' is automatically collected. A referral URL is considered a form of web browsing history as it indicates the web page the user came from.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In addition to personal data that you actively provide when you create a HERE account and/or book a ride with a Transport Provider, after you download and install the application, or book a ride via HERE WeGo, certain technical details of your client as well as your transactions with HERE may be automatically collected by HERE, including your device ID or any other unique identifier, advertiser ID (if applicable), publisher ID (if applicable), the device on which you installed the application and/or the device via which you use the Service, operator, device type and model, device manufacturer, application version, operating system and version, browser type and version, city, language, referral URL, IP address, local time, push notification settings, screen resolution, memory and if your GPS is enabled/disabled in your application.",
+      "justification": "The policy states that technical details such as device type, OS version, application version, and memory are automatically collected, which fall under 'Other app performance data'.",
+      "how_to_fix": "Declare 'Other app performance data' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you use the feature of the Service that enables you to book a ride with any third-party transportation services provider (i.e., a taxi company) (“Transport Provider”), who provides its transportation services to you through such feature, we collect your name and phone number. In addition, each time you use this feature of the Service to book rides, we collect your relevant pick- up and drop-off locations, pick up time, and any additional information that you chose to provide us with; For example, when you add notes to your booking.",
+      "justification": "The policy explicitly states 'we collect your name and phone number' when using the ride-booking feature.",
+      "how_to_fix": "Declare 'Phone number' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "When you interact with us via support or feedback, we will also collect certain personal data generated by your use of the Service or personal data that you choose to share with us to better respond to your inquiries. We may, in accordance with applicable law, record your communication with our support team or with other similar contact channels.",
+      "justification": "The policy states that communications with the support team may be recorded. This interaction qualifies as a form of in-app messaging.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "When you interact with us via support or feedback, we will also collect certain personal data generated by your use of the Service or personal data that you choose to share with us to better respond to your inquiries. We may, in accordance with applicable law, record your communication with our support team or with other similar contact channels.",
+      "justification": "The policy states that the app may 'record your communication with our support team'. If this communication is verbal (e.g., a phone call), it constitutes a collected voice recording.",
+      "how_to_fix": "Declare 'Voice or sound recordings' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,59 @@
+{
+  "sharedData": [
+    {
+      "data": "Installed apps",
+      "optional": 0,
+      "purpose": "Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device or other IDs",
+      "optional": 1,
+      "purpose": "Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Files and docs",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Files and docs"
+    },
+    {
+      "data": "Email address",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps",
+      "optional": 0,
+      "purpose": "Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.freeadblockerbrowser.com/data-privacy-website/"
+}

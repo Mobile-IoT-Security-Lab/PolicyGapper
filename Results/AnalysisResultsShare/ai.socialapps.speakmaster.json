@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Our application integrates third-party Software Development Kits (SDKs) to enhance its functionality and provide certain features. These SDKs may collect information automatically, such as:\nDevice identifiers (e.g., IMEI, MAC address, advertising ID)\n•\n•\nUsage data (e.g., app interactions, session duration)\n•\n•\nTechnical data (e.g., IP address, operating system, device type, mobile network information)\nLocation information, if you grant permission\nThe data collected by these SDKs is used to improve user experience, provide analytics, serve advertisements, or enable features like in-app purchases. We ensure that any third-party SDK we integrate complies with applicable data protection laws and has a robust privacy policy governing the collection and use of data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We use your information collected by PolyBuzz to:\n•\nprovide our Services;\n•\nimprove PolyBuzz and/or our Services;\n•\nrespond to your questions and requests;\n•\nprovide you with a safe, efficient, and customized experience, and\n•\nshare with third parties (including the Chat-GPT platform) that help us deliver effective functionality.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may use third-party analytics services and online advertising services that may result in the “sharing” of online identifiers (e.g., cookie data, IP addresses, device identifiers, general location information, and usage information) with advertising partners to advertise the Services on other websites. If you or your authorized agent would like to opt out of our “sharing” of your information for such purposes, you may do so by go to \"settings\" on our website or in-app and disable the data sharing. We do not knowingly \"sell” or \"share\" the personal information of children under 17.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "You may receive advertising on your computer through a web browser. Cookies may be associated with de-identified data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) that we may disclose to a vendor in hashed, non-human-readable form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may use third-party analytics services and online advertising services that may result in the “sharing” of online identifiers (e.g., cookie data, IP addresses, device identifiers, general location information, and usage information) with advertising partners to advertise the Services on other websites. If you or your authorized agent would like to opt out of our “sharing” of your information for such purposes, you may do so by go to \"settings\" on our website or in-app and disable the data sharing. We do not knowingly \"sell” or \"share\" the personal information of children under 17.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "You may receive advertising on your computer through a web browser. Cookies may be associated with de-identified data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) that we may disclose to a vendor in hashed, non-human-readable form.",
+      "lang": "English"
+    }
+  ]
+}

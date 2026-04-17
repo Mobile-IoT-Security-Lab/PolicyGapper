@@ -1,0 +1,24 @@
+2. Storing data
+AntiLand stores only the data it needs to function properly. All the messages are self-
+destructing.
+---
+Anonymous Messages
+AntiLand stores 50 last messages per chat by default, so that you can access these messages
+from any of your devices anytime. Featured, public and regional group chat founders have an
+option to store more messages in their chats. The messages are stored anonymously for a
+limited time. Then they are automatically deleted. Every message shared is sent with a
+randomly generated identifier of the sender, without any personal data of the sender, such as
+phone number, location or email.
+---
+Contacts
+If you want to flirt or confess anonymously with your personal contacts, you should sync your
+contacts list.
+---
+Your phone number
+When register your account, you opt to set up a password recovery phone number. This
+number will only be used to send you a password recovery code, if you forget it.
+---
+Message self-destruction
+All private messages in AntiLand app are self-destructing. We store only 50 last messages per
+private chat per device for a limited time. Messages are stored for a limited amount of time
+necessary for communication, and then deleted forever from both servers and devices.

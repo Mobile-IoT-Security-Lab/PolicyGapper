@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may share portions of our log file data, including IP addresses, for analytics purposes with third parties such as web analytics partners, application developers, and ad networks. If your IP address is shared, it may be used to estimate general location and other technographics such as connection speed, whether you have visited the website/app in a shared location, and type of the device used to visit the website/app. They may aggregate information about our advertising and what you see on the website/app and then provide auditing, research and reporting for us and our advertisers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may share portions of our log file data, including IP addresses, for analytics purposes with third parties such as web analytics partners, application developers, and ad networks. If your IP address is shared, it may be used to estimate general location and other technographics such as connection speed, whether you have visited the website/app in a shared location, and type of the device used to visit the website/app. They may aggregate information about our advertising and what you see on the website/app and then provide auditing, research and reporting for us and our advertisers.",
+      "lang": "English"
+    }
+  ]
+}

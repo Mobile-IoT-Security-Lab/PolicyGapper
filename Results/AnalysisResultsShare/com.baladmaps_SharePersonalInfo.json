@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We may share your information with our affiliates or partners who we have a business relationship with, to process it for us, based on our instructions and in compliance with this Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may share your information with our affiliates or partners who we have a business relationship with, to process it for us, based on our instructions and in compliance with this Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may share your information with our affiliates or partners who we have a business relationship with, to process it for us, based on our instructions and in compliance with this Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may share your information with our affiliates or partners who we have a business relationship with, to process it for us, based on our instructions and in compliance with this Policy.",
+      "lang": "English"
+    }
+  ]
+}

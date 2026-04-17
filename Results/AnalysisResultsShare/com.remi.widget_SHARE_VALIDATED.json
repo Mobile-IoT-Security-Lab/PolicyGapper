@@ -1,0 +1,35 @@
+```json
+{
+    "omitted_declarations": [
+        {
+            "data_type": "App interactions",
+            "policy_reference": "Our partners will process this data to manage and deliver advertisements more effectively and personally, including contextual, behavioral and interests-based advertising based on your activity, preferences or other data available to us or to our business partners and advertisers, including for re-targeting purposes.",
+            "justification": "The policy states user activity data is processed by partners for behavioral and interest-based advertising, including re-targeting. This is considered 'sharing' with third parties for their own purposes and is not exempt as a service provider action.",
+            "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'App interactions' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Other actions",
+            "policy_reference": "Our partners will process this data to manage and deliver advertisements more effectively and personally, including contextual, behavioral and interests-based advertising based on your activity, preferences or other data available to us or to our business partners and advertisers, including for re-targeting purposes.",
+            "justification": "The policy indicates user activity ('other actions') is processed by partners for behavioral advertising and re-targeting. This constitutes 'sharing' with third parties for their own advertising purposes and is not exempt.",
+            "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Other actions' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Web browsing history",
+            "policy_reference": "The Advertisers are advertising Service Providers. Their targeted advertising SDKs collect information about your browsing activity across multiple websites and online services in order to provide you with relevant advertisements on the App and Services of third parties. The information collected using these advertising SDK does not disclose your identity, and helps us analyze the effectiveness of our advertising.",
+            "justification": "The policy explicitly states that advertising SDKs collect browsing activity 'across multiple websites and online services' to serve ads on 'Services of third parties'. This cross-site tracking is a clear case of 'sharing' with a third party for their own purposes.",
+            "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Web browsing history' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Approximate location",
+            "policy_reference": "When you use our App we may display advertisements, our partners, the advertisers may place an SDK (as detailed below) and collect certain data on you for the purpose of displaying advertisement. If you wish to prevent the display of advertisements or other identifiers for interest-based advertising, you may change your device settings to reset such advertisement or Our partners will process this data to manage and deliver advertisements more effectively and personally, including contextual, behavioral and interests-based advertising based on your activity, preferences or other data available to us or to our business partners and advertisers, including for re-targeting purposes.",
+            "justification": "The policy states that advertising partners collect user data to deliver contextual and behavioral advertising. This type of advertising commonly uses location data, and sharing it with advertisers for their own targeting purposes is considered 'sharing'.",
+            "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Approximate location' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+            "lang": "English"
+        }
+    ],
+    "excluded_declarations": []
+}
+```

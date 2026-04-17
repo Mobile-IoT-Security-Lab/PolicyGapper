@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Our website uses Google Analytics to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. You can \"opt-out\" of this web-site analysis tool by downloading and installing the Google Analytics opt-out browser add-on at https://tools.google.com/dlpage/gaoptout.\n(https://tools.google.com/dlpage/gaoptout)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Occasionally you may be asked to give us more specific information about yourself, such as when you download software, register for a seminar or other event, respond to a survey, interact with the chat function on our website, enter a contest from our website, and register at the customer portal. Supplying such information to us is optional, but you may be unable to complete certain transactions without giving such information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Our website uses Google Adwords Conversion Tracking which uses cookies to help us determine how many people who clicked on our Google Ads end up contacting us through the website. This tracking cookie is set on your browser only when you click on a Google Ad and these cookies help us increase the website's effectiveness for our visitors. These cookies expire within 30 days and do not contain information that can identify you personally. Please refer to the Google Advertising Privacy Notice\n(http://www.google.com/policies/technologies/ads/) for more information about Google Conversion Tracking and the ability to opt out.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Cognex uses Google AdWords Remarketing to advertise online using text or image ads. Remarketing is a feature that lets us reach people who have previously visited our website, and show them relevant ads when they visit other websites. Google use cookies to serve ads based on a user's prior visits to our website. For this purpose third party advertising provider cookies are set when you visit our website. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page\n(https://www.google.com/settings/ads/).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Cognex uses the services of Salesforce Marketing Cloud Account Engagement to help us measure and analyze the effectiveness of our website and how visitors use www.cognex.com (https://www.cognex.com/). Account Engagement tracks visitor and prospect activities on our website by setting cookies on their browsers. Cookies are set to remember preferences (like form field values) when a visitor returns to our site, the pages visited and navigation patterns, which helps us learn how visitors use our website, and what information is of the most interest to our customers and visitors to our website. Once consent is provided, through a form submission by the visitor, we can associate a visitor's ID to individual characteristics and past behavior. See more at: https://www.salesforce.com/ap/company/privacy/\n(https://www.salesforce.com/ap/company/privacy/)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Our web server collects IP addresses to obtain certain aggregate information concerning the use of our website. An IP address is a number that is automatically assigned to your computer whenever you're surfing the web. We do not link IP addresses to any personally identifiable information. Therefore, you can remain anonymous when you visit our website.",
+      "lang": "English"
+    }
+  ]
+}

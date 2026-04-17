@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "Informazioni generali sull'account\nNon è necessario creare un profilo per utilizzare alcune funzionalità dei nostri servizi, come la ricerca\ne la visualizzazione dei profili pubblici degli utenti di CiaoAmigos.it, i forum, i video, i racconti e altre\nattività organizzate all'interno del sito. Tuttavia, se scegli di aprire un account, dovrai fornirci alcuni\ndati personali per permetterci di offrirti i nostri servizi. Sulla nostra piattaforma, questo comprende\nun nome utente (un nickname), una password e un indirizzo e-mail, oltre ai dati relativi al tuo\nannuncio, come l'orientamento sessuale e la località. Il tuo nickname, il tuo orientamento sessuale e\nla tua località saranno sempre visibili pubblicamente. La località può essere calcolata\nautomaticamente tramite l'indirizzo IP, con un'approssimazione, o tramite GPS. In ogni caso,\napplichiamo una tolleranza e adottiamo misure specifiche per garantire la tua privacy. Non è\nconsentito creare e gestire account multipli su CiaoAmigos.it, in quanto ciò comporterà la\nsospensione di tutti gli account registrati.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Informazioni generali sull'account\nNon è necessario creare un profilo per utilizzare alcune funzionalità dei nostri servizi, come la ricerca\ne la visualizzazione dei profili pubblici degli utenti di CiaoAmigos.it, i forum, i video, i racconti e altre\nattività organizzate all'interno del sito. Tuttavia, se scegli di aprire un account, dovrai fornirci alcuni\ndati personali per permetterci di offrirti i nostri servizi. Sulla nostra piattaforma, questo comprende\nun nome utente (un nickname), una password e un indirizzo e-mail, oltre ai dati relativi al tuo\nannuncio, come l'orientamento sessuale e la località. Il tuo nickname, il tuo orientamento sessuale e\nla tua località saranno sempre visibili pubblicamente. La località può essere calcolata\nautomaticamente tramite l'indirizzo IP, con un'approssimazione, o tramite GPS. In ogni caso,\napplichiamo una tolleranza e adottiamo misure specifiche per garantire la tua privacy. Non è\nconsentito creare e gestire account multipli su CiaoAmigos.it, in quanto ciò comporterà la\nsospensione di tutti gli account registrati.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Quando accedi a CiaoAmigos.it, riceviamo alcune informazioni personali da parte tua, come il tipo di\ndispositivo che stai usando e il tuo indirizzo IP. Puoi scegliere di condividere ulteriori informazioni\ncon noi, come il tuo indirizzo e-mail, le tue preferenze e orientamento sessuale, e un profilo pubblico.\nUtilizziamo queste informazioni per mostrarti altri profili pertinenti, eventi e pubblicità.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Posizione\nPossiamo raccogliere informazioni sulla tua posizione attraverso il tuo dispositivo, come i dati GPS o\nl'indirizzo IP. Utilizziamo queste informazioni per migliorare le funzionalità dei nostri servizi, come la\ncondivisione della posizione, e per personalizzare i contenuti e le funzionalità offerte, inclusi\nsuggerimenti su persone che potresti incontrare o per la sicurezza del tuo account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Posizione\nPossiamo raccogliere informazioni sulla tua posizione attraverso il tuo dispositivo, come i dati GPS o\nl'indirizzo IP. Utilizziamo queste informazioni per migliorare le funzionalità dei nostri servizi, come la\ncondivisione della posizione, e per personalizzare i contenuti e le funzionalità offerte, inclusi\nsuggerimenti su persone che potresti incontrare o per la sicurezza del tuo account.",
+      "lang": "English"
+    }
+  ]
+}

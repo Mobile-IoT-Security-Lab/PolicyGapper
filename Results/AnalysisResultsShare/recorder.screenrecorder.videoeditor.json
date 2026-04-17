@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We cooperate with third-party service providers to serve you tailored ads on our Services. You can opt out choices regarding personalized ads, but you cannot opt out of seeing ads.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We cooperate with third-party service providers to serve you tailored ads on our Services. You can opt out choices regarding personalized ads, but you cannot opt out of seeing ads.",
+      "lang": "English"
+    }
+  ]
+}

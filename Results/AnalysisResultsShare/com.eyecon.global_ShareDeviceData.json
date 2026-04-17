@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The App may utilize certain third-party software and/or service, in order to collect and/or process the information detailed herein. Such third-party software providers include:\n• Google Analytics, which privacy policy is available at https://www.google.com/analytics/terms/us.html;\n• Facebook Analytics, which privacy policy is available at https://www.facebook.com/privacy/explanation;\n• Amazon Web Services, which privacy policy is available at https://aws.amazon.com/privacy/?nc1=f_pr;\n• Firebase, which privacy policy is available at https://www.firebase.com/terms/privacy-policy.html;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "The App may utilize certain third-party software and/or service, in order to collect and/or process the information detailed herein. Such third-party software providers include:\n• Google Analytics, which privacy policy is available at https://www.google.com/analytics/terms/us.html;\n• Facebook Analytics, which privacy policy is available at https://www.facebook.com/privacy/explanation;\n• Amazon Web Services, which privacy policy is available at https://aws.amazon.com/privacy/?nc1=f_pr;\n• Firebase, which privacy policy is available at https://www.firebase.com/terms/privacy-policy.html;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "The App may utilize certain third-party software and/or service, in order to collect and/or process the information detailed herein. Such third-party software providers include:\n• Google Analytics, which privacy policy is available at https://www.google.com/analytics/terms/us.html;\n• Facebook Analytics, which privacy policy is available at https://www.facebook.com/privacy/explanation;\n• Amazon Web Services, which privacy policy is available at https://aws.amazon.com/privacy/?nc1=f_pr;\n• Firebase, which privacy policy is available at https://www.firebase.com/terms/privacy-policy.html;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "The App may utilize certain third-party software and/or service, in order to collect and/or process the information detailed herein. Such third-party software providers include:\n• Google Analytics, which privacy policy is available at https://www.google.com/analytics/terms/us.html;\n• Facebook Analytics, which privacy policy is available at https://www.facebook.com/privacy/explanation;\n• Amazon Web Services, which privacy policy is available at https://aws.amazon.com/privacy/?nc1=f_pr;\n• Firebase, which privacy policy is available at https://www.firebase.com/terms/privacy-policy.html;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "The App may utilize certain third-party software and/or service, in order to collect and/or process the information detailed herein. Such third-party software providers include:\n• Google Analytics, which privacy policy is available at https://www.google.com/analytics/terms/us.html;\n• Facebook Analytics, which privacy policy is available at https://www.facebook.com/privacy/explanation;\n• Amazon Web Services, which privacy policy is available at https://aws.amazon.com/privacy/?nc1=f_pr;\n• Firebase, which privacy policy is available at https://www.firebase.com/terms/privacy-policy.html;",
+      "lang": "English"
+    }
+  ]
+}

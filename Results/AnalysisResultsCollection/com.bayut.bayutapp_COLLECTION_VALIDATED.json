@@ -1,0 +1,77 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "| BayutGPT Data | Our 'BayutGPT' feature is powered by artificial intelligence and enables you to ask questions about the service or a specific property you are interested in. You must be a registered user on the Platform to use this service. Please keep in mind that you interact with ‘BayutGPT' through a free-text box, which means that we do not control the information you may input or the response output. |",
+      "justification": "The privacy policy states that 'Other User generated content' is collected. For example, the policy mentions: 'Our 'BayutGPT' feature... you interact with ‘BayutGPT' through a free-text box...'",
+      "how_to_fix": "Declare 'Other User generated content' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "| Behavioural Data | Inferred or assumed information relating to your behaviour and interests based on your activity on the Platform. This is most often collated and grouped into 'segments' on an aggregated basis. |",
+      "justification": "The privacy policy states that 'Other actions' is collected. For example, the policy mentions: 'Behavioural Data | Inferred or assumed information relating to your behaviour and interests based on your activity on the Platform.'",
+      "how_to_fix": "Declare 'Other actions' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "| Category of Personal Data | What this means? |\n|---|---|\n| Contact Data | Email address, physical address and telephone number(s). |",
+      "justification": "The privacy policy states that 'Address' is collected. For example, the policy mentions: 'Contact Data | Email address, physical address and telephone number(s).'",
+      "how_to_fix": "Declare 'Address' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "| Category of Personal Data | What this means? |\n|---|---|\n| Identity Data | First name, last name, username or similar identifier, profile photo, gender and age. |",
+      "justification": "The privacy policy states that 'Other info' is collected. For example, the policy mentions: 'Identity Data | First name, last name, username or similar identifier, profile photo, gender and age.'",
+      "how_to_fix": "Declare 'Other info' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "| Partial Payment Data | Partial credit card details may be retained on file if you need to make a payment through the Platform or otherwise to us. We do not retain your full payment data for security reasons. |\n|---|---|",
+      "justification": "The privacy policy states that 'User payment info' is collected. For example, the policy mentions: 'Partial Payment Data | Partial credit card details may be retained on file...'",
+      "how_to_fix": "Declare 'User payment info' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "| Category of Personal Data | What this means? |\n|---|---|\n| Location Data | Approximate location if you enable this feature via your device. This is used, for example, to help you search properties around you, or to verify a listing using our 'TrueCheck' feature. |",
+      "justification": "The privacy policy states that 'Approximate location' is collected. For example, the policy mentions: 'Location Data | Approximate location if you enable this feature via your device.'",
+      "how_to_fix": "Declare 'Approximate location' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "| Chat Data | Details of messages that you exchange with us or other users of the Platform, for example via WhatsApp. |",
+      "justification": "The privacy policy states that 'Other in-app messages' is collected. For example, the policy mentions: 'Chat Data | Details of messages that you exchange with us or other users of the Platform...'",
+      "how_to_fix": "Declare 'Other in-app messages' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "| Listings Data | Details about your previous and current listings on the Platform, as well as details of other users' listings that you have viewed. This includes (without limitation) listing information such as images, videos, virtual tours, pricing, property type, property history and general property description. |",
+      "justification": "The privacy policy states that 'Photos' is collected. For example, the policy mentions: 'Listings Data | ...includes (without limitation) listing information such as images, videos...'",
+      "how_to_fix": "Declare 'Photos' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "| Listings Data | Details about your previous and current listings on the Platform, as well as details of other users' listings that you have viewed. This includes (without limitation) listing information such as images, videos, virtual tours, pricing, property type, property history and general property description. |",
+      "justification": "The privacy policy states that 'Videos' is collected. For example, the policy mentions: 'Listings Data | ...includes (without limitation) listing information such as images, videos...'",
+      "how_to_fix": "Declare 'Videos' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "| Call Data | Recordings of calls between you and our teams, or between you and other users or Agents which you contact about a property through a form or link on the Platform, which are recorded for monitoring and training purposes. |",
+      "justification": "The privacy policy states that 'Voice or sound recordings' is collected. For example, the policy mentions: 'Call Data | Recordings of calls between you and our teams...recorded for monitoring and training purposes.'",
+      "how_to_fix": "Declare 'Voice or sound recordings' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

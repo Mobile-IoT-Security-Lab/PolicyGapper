@@ -1,0 +1,21 @@
+Third party service and SDK we used:
+We use analytics service providers Umeng Analytics to better understand how people use our services so that we
+can improve the design and usability of our products, we do not engage in "tracking" users outside of our
+services. These providers collect IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/IMSI, Installed Application
+information to provide statistics service, it use location to adjust data report, provides basic anti-cheating
+capabilities, its privacy policy can be find in https://www.umeng.com/page/policy
+---
+To show you relevant advertising, we work with advertising networks such as Google Admob and Facebook
+Audience Network. These providers may collect information on our behalf using cookies, advertising identifiers
+and similar technologies. This information may be used, in the future, to show you content that is more likely to
+be relevant, or that you're likely to engage with. You may find their related privacy policy in their official
+website, Google Admob privacy policy https://policies.google.com/privacy, Facebook Audience Network privacy
+policy https://www.facebook.com/policies_center/
+---
+How we share your information
+We may retain third parties to perform services on our behalf and we may collaborate with third parties with
+respect to particular products or services. These third parties may be provided with access to the information
+needed to perform their functions, as long as they agree to keep the information confidential. We reserve the right
+to disclose your information as required by law, when we believe disclosure is necessary to comply with a
+regulatory requirement, judicial proceeding, court order, or legal process served on us, or to protect the safety,
+rights, or property of our users, the public or our product.

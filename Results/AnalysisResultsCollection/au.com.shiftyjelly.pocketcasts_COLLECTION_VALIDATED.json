@@ -1,0 +1,91 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Your Podcasts: The most important thing we collect from you are your podcast subscriptions/follows, up next queue, episode filters, episode data, and settings configuration.",
+      "justification": "The privacy policy states that 'Other User generated content' is collected, as evidenced by the text: 'Your Podcasts: The most important thing we collect from you are your podcast subscriptions/follows, up next queue, episode filters, episode data, and settings configuration.'",
+      "how_to_fix": "Declare the collection of 'Other User generated content' in the 'Collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Log information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services — for example, when you log into your account, listen to a podcast, or modify your podcast subscriptions/follows.",
+      "justification": "The privacy policy states that 'Other actions' is collected, as evidenced by the text: 'We collect log information when you use our Services — for example, when you log into your account, listen to a podcast, or modify your podcast subscriptions/follows.'",
+      "how_to_fix": "Declare the collection of 'Other actions' in the 'Collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Log information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services — for example, when you log into your account, listen to a podcast, or modify your podcast subscriptions/follows.",
+      "justification": "The privacy policy states that 'Web browsing history' is collected, as evidenced by the text: '...we collect information that web browsers, mobile devices, and servers typically make available, including the ... referring site...'",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in the 'Collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Device and Usage Information: We collect information about your device including the device make and model, your wireless carrier, a device ID, some basic device settings like font size and language, and how you use our Services. In addition, in the event our App(s) crash on your mobile device, we will receive additional information about your device and session, which allows us to identify and fix bugs and otherwise improve the performance of our App(s).",
+      "justification": "The privacy policy states that 'Other app performance data' is collected, as evidenced by the text: '...in the event our App(s) crash on your mobile device, we will receive additional information about your device and session, which allows us to identify and fix bugs and otherwise improve the performance of our App(s).'",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in the 'Collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "• Account Information: To use the core features of our Services, you must register and open an “Account” with us by providing your name, email address, and a password.",
+      "justification": "The privacy policy states that 'Name' is collected, as evidenced by the text: '• Account Information: To use the core features of our Services, you must register and open an “Account” with us by providing your name, email address, and a password.'",
+      "how_to_fix": "Declare the collection of 'Name' in the 'Collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "• Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);",
+      "justification": "The privacy policy states that 'Other info' is collected, as evidenced by the text: '• Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);'",
+      "how_to_fix": "Declare the collection of 'Other info' in the 'Collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Transactional Information: If you choose to purchase a subscription to Pocket Casts Plus, we may collect information to complete and record the transaction. For example, we'll collect information, like your name and credit card information, to process those payments. We also keep a record of the purchases you've made.",
+      "justification": "The privacy policy states that 'User payment info' is collected, as evidenced by the text: '...we'll collect information, like your name and credit card information, to process those payments.'",
+      "how_to_fix": "Declare the collection of 'User payment info' in the 'Collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Transactional Information: If you choose to purchase a subscription to Pocket Casts Plus, we may collect information to complete and record the transaction. For example, we'll collect information, like your name and credit card information, to process those payments. We also keep a record of the purchases you've made.",
+      "justification": "The privacy policy states that 'Purchase history' is collected, as evidenced by the text: 'We also keep a record of the purchases you've made.'",
+      "how_to_fix": "Declare the collection of 'Purchase history' in the 'Collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Location Information: We may determine the approximate location of your device from your IP address. We collect and use this information to understand where our users are located so we can identify what features might be meaningful to them.",
+      "justification": "The privacy policy states that 'Approximate location' is collected, as evidenced by the text: '• Location Information: We may determine the approximate location of your device from your IP address.'",
+      "how_to_fix": "Declare the collection of 'Approximate location' in the 'Collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• Communications with Us: You may also provide us with information when you provide us feedback or communicate with our support team. When you communicate with us via form, email, phone, or otherwise, we store a copy of our communications (including any call recordings as permitted by applicable law). You can choose not to provide us with certain information, but this may limit the features of the Services you are able to use.",
+      "justification": "The privacy policy states that 'Other in-app messages' is collected, as evidenced by the text: 'When you communicate with us via form, email, phone, or otherwise, we store a copy of our communications...'",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the 'Collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "• Communications with Us: You may also provide us with information when you provide us feedback or communicate with our support team. When you communicate with us via form, email, phone, or otherwise, we store a copy of our communications (including any call recordings as permitted by applicable law). You can choose not to provide us with certain information, but this may limit the features of the Services you are able to use.",
+      "justification": "The privacy policy states that 'Voice or sound recordings' is collected, as evidenced by the text: '...we store a copy of our communications (including any call recordings as permitted by applicable law).'",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in the 'Collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "In the last 12 months, we collected the following categories of personal information, depending on the Services used:\n• Identifiers (like your name, email address, and device and online identifiers);\n• Commercial information (your billing information and purchase history, for example);\n• Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);\n• Internet or other electronic network activity information (such as your usage of our Services);\n• Geolocation data (such as your location based on your IP address); and\n• Audio, electronic, visual or similar information (such as the custom audio files you upload);",
+      "justification": "The privacy policy states that 'Other audio files' is collected, as evidenced by the text: '• Audio, electronic, visual or similar information (such as the custom audio files you upload);'",
+      "how_to_fix": "Declare the collection of 'Other audio files' in the 'Collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

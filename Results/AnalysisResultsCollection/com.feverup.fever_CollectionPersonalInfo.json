@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may collect the following Personal Data and additional information:\n•\n•\n•\nyour name and surname;\nemail address;\nphone number (if you add it to your profile);\ndate of birth (if you add it to your profile);\nlocation based in IP address or details of the device you use;\nyour profile picture (image) if you create a Fever account using social\nlogin;\nrecords of our conversations and messages, if you contact us or we\ncontact you (including records of phone calls)\n• your image and/or voice in photo or video form\nIf you provide us Personal Data about other people (such as the attendees\nwith whom you are going to attend an experience or event), you confirm that\nyou have brought this privacy notice to their attention beforehand.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "If you turn on location services, we may track your location using GPS technology (you can configure whether this functionality is active only during the use of the Fever app).",
+      "lang": "English"
+    }
+  ]
+}

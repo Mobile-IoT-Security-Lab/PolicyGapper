@@ -1,0 +1,114 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We use mobile analytics software to allow us to better understand and improve the functionality of our Services. Such software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.",
+      "justification": "The privacy policy states that this data is collected by the app for analytics purposes, which implies it is sent off-device.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "When you use our Services on your mobile device, we will collect information about your device, including its International Mobile Equipment Identity (IMEI), Unique Device Identifier (UDID) or Android ID, Universally Unique Identifier (GUUID), User ID (UID), Identifier for Advertising (IDFA) and Identifier for Vendor (IDFV), Open Anonymous Device Identifier (OAID), Integrated Circuit Card Identifier (ICCID), Media Access Control (MAC) address, the type of device you use, device platform, device manufacturer, device brand, device model, operating system version, a list of mobile applications installed on your device and resolution, which will be used by us for statistical and/or analytical reasons, including without limitation to improve our technical functionality, server load-balancing, analysis of technical data relating to your mobile device so as to optimize our Services and graphics adaptation.",
+      "justification": "The privacy policy explicitly states the collection of 'a list of mobile applications installed on your device' and its use for server-side purposes like 'server load-balancing'.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We use mobile analytics software to allow us to better understand and improve the functionality of our Services. Such software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.",
+      "justification": "The privacy policy states that this data is collected by the app for analytics purposes, which implies it is sent off-device.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use \"cookies\" that store and retrieve information of user's usage from time to time provide customized Services for each user. Cookies are small amounts of information that the server uses to operate the app/website, sends to the user's device and are also stored on the hard disk in the user's device. You may refuse the installation of cookies. Information collected may include information about your Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), referring and exit pages, your operating system, dates and timestamps, and clickstream data.",
+      "justification": "The policy describes collecting 'referring and exit pages' and 'clickstream data' via cookies used by the server, indicating data is sent off-device.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "When you use some of our Services, including generating and browsing certain content, we will automatically collect certain relevant log information stored in Wink (\"Log Information”). Log Information may include (i) details on when and how often you use our Services, (ii) device statistics, including critical operation paths, errors, crashes, language and time zone. This Log Information is used to improve our Services and is NOT USED to identify our users individually.",
+      "justification": "The policy states that 'errors, crashes' are collected to 'improve our Services', which implies off-device analysis. There is no mention of on-device only processing.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "When you use some of our Services, including generating and browsing certain content, we will automatically collect certain relevant log information stored in Wink (\"Log Information”). Log Information may include (i) details on when and how often you use our Services, (ii) device statistics, including critical operation paths, errors, crashes, language and time zone. This Log Information is used to improve our Services and is NOT USED to identify our users individually.",
+      "justification": "The policy states that 'device statistics, including critical operation paths' are collected to 'improve our Services', which implies off-device analysis. There is no mention of on-device only processing.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We use mobile analytics software to allow us to better understand and improve the functionality of our Services. Such software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.",
+      "justification": "The policy explicitly states collection of 'performance data' via analytics software, which implies it is sent off-device.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "When you use our Services on your mobile device, we will collect information about your device, including its International Mobile Equipment Identity (IMEI), Unique Device Identifier (UDID) or Android ID, Universally Unique Identifier (GUUID), User ID (UID), Identifier for Advertising (IDFA) and Identifier for Vendor (IDFV), Open Anonymous Device Identifier (OAID), Integrated Circuit Card Identifier (ICCID), Media Access Control (MAC) address, the type of device you use, device platform, device manufacturer, device brand, device model, operating system version, a list of mobile applications installed on your device and resolution, which will be used by us for statistical and/or analytical reasons, including without limitation to improve our technical functionality, server load-balancing, analysis of technical data relating to your mobile device so as to optimize our Services and graphics adaptation.",
+      "justification": "The policy lists numerous device IDs (IMEI, Android ID, etc.) and states they are used for server-side purposes like 'server load-balancing'.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "When you use our Services, we might recommend you sign up for an account with us to take full advantage of our Services and all their features. When you create an account, we will collect the following information that can be used to identify you or provide our Services to you:\n\no Mandatory: mobile phone number, device ID\n\no Optional: name, username, gender, date of birth, location, profile picture and password.",
+      "justification": "The policy states that 'name' is collected when a user creates an account, which is a server-side operation.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "When you use our Services, we might recommend you sign up for an account with us to take full advantage of our Services and all their features. When you create an account, we will collect the following information that can be used to identify you or provide our Services to you:\n\no Mandatory: mobile phone number, device ID\n\no Optional: name, username, gender, date of birth, location, profile picture and password.",
+      "justification": "The policy states that 'gender' and 'date of birth' are collected during account creation, which is a server-side operation. These fit under the 'Other info' data type.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Anyone can access our Services, but there are certain services that require a subscription fee, such as accessing to our premium content and enjoying advertisement privileges (\"Subscription Service”). If you choose to make a purchase on our Subscription Service, we will collect certain personally identifiable information, such as your device ID. A third-party app store or payment processor may receive, access or use your financial information and billing address for the purpose of processing transactions and renewals. If",
+      "justification": "The policy states that when a user makes a purchase, the app collects information to enable the subscription service, implying knowledge of the purchase is sent off-device.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may collect your location-based information from your mobile device if you choose to share it with us.\n\no Mandatory: network information, IP address, and system time zone\n\no Optional: country code, latitude and longitude, network location, and system country.\n\nThis information will help us understand user distribution and usage scenarios and allow us to provide users with the correct version of Wink, the reappearance of the geo-location or the publishing of the real-time geo-location where you take any photos or shoot any videos, and improve our Services. Unless we obtain your consent, location data WILL NOT BE ACQUIRED or USED to identify you individually. Except as otherwise provided in this Policy, we will not share this Location Information with any third parties. If you no longer wish to allow us to collect or use such information, you may turn off your Internet access or GPS, or disable our access to information about your network, GPS and device. Please note that we may still continue to receive some Location Information, such as your Network Information, IP address and system time zone, as a result of you using our Services.",
+      "justification": "The policy states collection of 'IP address' and 'network location' to 'understand user distribution and usage scenarios', implying off-device analysis.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may collect your location-based information from your mobile device if you choose to share it with us.\n\no Mandatory: network information, IP address, and system time zone\n\no Optional: country code, latitude and longitude, network location, and system country.\n\nThis information will help us understand user distribution and usage scenarios and allow us to provide users with the correct version of Wink, the reappearance of the geo-location or the publishing of the real-time geo-location where you take any photos or shoot any videos, and improve our Services. Unless we obtain your consent, location data WILL NOT BE ACQUIRED or USED to identify you individually. Except as otherwise provided in this Policy, we will not share this Location Information with any third parties. If you no longer wish to allow us to collect or use such information, you may turn off your Internet access or GPS, or disable our access to information about your network, GPS and device. Please note that we may still continue to receive some Location Information, such as your Network Information, IP address and system time zone, as a result of you using our Services.",
+      "justification": "The policy states optional collection of 'latitude and longitude' to 'improve our Services', implying off-device analysis.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "By enabling the microphone on Wink, you agree that we may collect your voice data (i.e. audio clips or recordings of your voice) for video editing. We will not use your voice information for advertising purposes. You can turn off Wink's access to your microphone on your device at any time using the operating system settings on the device or by muting the microphone on your devices.",
+      "justification": "The policy states voice data is 'collected' for video editing. It does not explicitly state this processing is on-device only, so it does not meet the exemption criteria.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you use our Services, we might recommend you sign up for an account with us to take full advantage of our Services and all their features. When you create an account, we will collect the following information that can be used to identify you or provide our Services to you:\n\no Mandatory: mobile phone number, device ID\n\no Optional: name, username, gender, date of birth, location, profile picture and password.",
+      "reason_of_removal": "Inconsistent data_type and policy_reference.",
+      "justification": "The policy reference describes collecting specific PII for account creation (e.g., name, gender, profile picture), which should be declared under their specific data types (Name, Personal info, Photos), not as the generic 'Other User generated content'.",
+      "how_to_fix": "Declare the specific data types mentioned in the policy (e.g., Name, Other info, Photos and videos) instead of this generic one.",
+      "lang": "English"
+    }
+  ]
+}
+```

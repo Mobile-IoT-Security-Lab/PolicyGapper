@@ -1,0 +1,88 @@
+{
+  "sharedData": [
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 0,
+      "purpose": "App functionality, Advertising or marketing",
+      "type": "Messages"
+    },
+    {
+      "data": "User payment info",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Financial info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Photos",
+      "optional": 0,
+      "purpose": "App functionality, Account management",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "Advertising or marketing, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "Advertising or marketing, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.breadfast.com/privacy-policy/"
+}

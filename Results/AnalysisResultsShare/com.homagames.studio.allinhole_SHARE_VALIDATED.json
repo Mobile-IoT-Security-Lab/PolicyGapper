@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "The processing is based on your consent. You can withdraw your consent by sending an email to our DPO to the following address: dpo@homagames.com. • identification data; • contact information; • connection data; • technical data; • any personal data contained in correspondence you send to us, if any. Your personal data is stored up to 2 years after your last contact (unless you withdraw your consent).",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states this data is collected from 'correspondence you send to us'. This is a user-initiated action and is exempt from declaration.",
+      "how_to_fix": "No declaration is required for data provided voluntarily and initiated by the user, such as in a support request.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "The processing is based on your consent. You can withdraw your consent by sending an email to our DPO to the following address: dpo@homagames.com. • identification data; • contact information; • connection data; • technical data; • any personal data contained in correspondence you send to us, if any. Your personal data is stored up to 2 years after your last contact (unless you withdraw your consent).",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states this data is collected from 'correspondence you send to us'. This is a user-initiated action and is exempt from declaration.",
+      "how_to_fix": "No declaration is required for data provided voluntarily and initiated by the user, such as in a support request.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "The processing is based on your consent. You can withdraw your consent by sending an email to our DPO to the following address: dpo@homagames.com. • identification data; • contact information; • connection data; • technical data; • any personal data contained in correspondence you send to us, if any. Your personal data is stored up to 2 years after your last contact (unless you withdraw your consent).",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states this data is collected from 'correspondence you send to us'. This is a user-initiated action and is exempt from declaration.",
+      "how_to_fix": "No declaration is required for data provided voluntarily and initiated by the user, such as in a support request.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "The processing is based on your consent. You can withdraw your consent by sending an email to our DPO to the following address: dpo@homagames.com. • identification data; • contact information; • connection data; • technical data; • any personal data contained in correspondence you send to us, if any. Your personal data is stored up to 2 years after your last contact (unless you withdraw your consent).",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states this data is collected from 'correspondence you send to us'. This is a user-initiated action and is exempt from declaration.",
+      "how_to_fix": "No declaration is required for data provided voluntarily and initiated by the user, such as in a support request.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "The processing is based on your consent. You can withdraw your consent by sending an email to our DPO to the following address: dpo@homagames.com. • identification data; • contact information; • connection data; • technical data; • any personal data contained in correspondence you send to us, if any. Your personal data is stored up to 2 years after your last contact (unless you withdraw your consent).",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states this data is collected from 'correspondence you send to us'. This is a user-initiated action and is exempt from declaration.",
+      "how_to_fix": "No declaration is required for data provided voluntarily and initiated by the user, such as in a support request.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "The processing is based on your consent. You can withdraw your consent by sending an email to our DPO to the following address: dpo@homagames.com. • identification data; • contact information; • connection data; • technical data; • any personal data contained in correspondence you send to us, if any. Your personal data is stored up to 2 years after your last contact (unless you withdraw your consent).",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states this data is collected from 'correspondence you send to us'. This is a user-initiated action and is exempt from declaration.",
+      "how_to_fix": "No declaration is required for data provided voluntarily and initiated by the user, such as in a support request.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "The processing is based on your consent. You can withdraw your consent by sending an email to our DPO to the following address: dpo@homagames.com. • identification data; • contact information; • connection data; • technical data; • any personal data contained in correspondence you send to us, if any. Your personal data is stored up to 2 years after your last contact (unless you withdraw your consent).",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states this data is collected from 'correspondence you send to us'. This is a user-initiated action and is exempt from declaration.",
+      "how_to_fix": "No declaration is required for data provided voluntarily and initiated by the user, such as in a support request.",
+      "lang": "English"
+    }
+  ]
+}
+```

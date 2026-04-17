@@ -1,0 +1,119 @@
+{
+  "sharedData": [
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Financial info"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps",
+      "optional": 1,
+      "purpose": "Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Account management",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Financial info"
+    },
+    {
+      "data": "Photos",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://m.goodshort.com/other/static_file/privacy_policy.html"
+}

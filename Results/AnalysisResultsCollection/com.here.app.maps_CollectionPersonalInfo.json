@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you use the feature of the Service that enables you to book a ride with any third-party transportation services provider (i.e., a taxi company) (“Transport Provider”), who provides its transportation services to you through such feature, we collect your name and phone number. In addition, each time you use this feature of the Service to book rides, we collect your relevant pick- up and drop-off locations, pick up time, and any additional information that you chose to provide us with; For example, when you add notes to your booking.",
+      "lang": "English"
+    }
+  ]
+}

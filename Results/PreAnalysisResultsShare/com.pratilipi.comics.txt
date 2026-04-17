@@ -1,0 +1,87 @@
+Can any third party access the User Information?
+Company will never sell or rent any User Information to any third party. User Information may be accessed by third parties as
+described below:
+1. Business Partners: Authorized third party business partners, who handle the User Information in accordance with their own
+privacy policies as mentioned in the table, engaged for:
+i.
+Analysing the User Information, for improving the Website/Application and the Services such as below:
+Services offered Entity Name
+Links to privacy policy
+Amplitude
+https://amplitude.com/privacy.
+(Location: USA),
+Clevertap
+https://clevertap.com/privacy-policy/
+Facebook
+Analytics Services
+Analytics
+Google
+Analytics
+rs/
+(Location USA)
+https://www.facebook.com/policy.php
+https://www.google.com/policies/privacy/partne
+https://firebase.google.com/support/privacy.
+Google Firebase https://policies.google.com/privacy#infosecurity.
+Notifications
+(Location: US-
+Services
+https://support.google.com/analytics/answer/60
+central)
+04245
+To deliver
+Limelight
+content to Users
+Cloudflare
+https://media.limelight.com/documents/Limelig
+ht+Networks+Privacy+Policy+06-2018.pdf
+https://www.cloudflare.com/privacypolicy/
+To process
+Razorpay
+https://razorpay.com/privacy/
+payment
+---
+ii.
+Providing variety of services to the Company as determined by Company in good faith from time to time in relation
+to research, survey etc. to help improve the Services.
+---
+2. Special Circumstances: Company will disclose personally identifiable information about a User
+i. As and when required by law or litigation
+ii. If Company determines that such a step is essential for national security, law enforcement, or other issues of public
+importance
+iii. For enforcement of its Terms of Use
+iv. In case of fraud, security or technical issues
+---
+3. Corporate Restructuring: Company reserves the right to transfer User Information to another party as a result of merger,
+acquisition, or sale of all or a portion of Company's assets to any third party.
+---
+4. User Published Material: Company enables Users to interact with each other in its community building endeavours
+between authors and readers. Therefore, Users' names, comments, likes etc are public and can be viewed by other Users. Users
+must ensure they do not put up any Inputs on the Website/Application which they do not intend to make public.
+---
+Where is the User Information stored and how is it secured?
+Company hosts the Website/Application and all User Information in the cloud infrastructure of Amazon Web Services located at
+Mumbai, India. Amazon Web Services has robust security practices to protect the stored data, details of which can be found
+at https://aws.amazon.com/privacy/?nc1=f_pr. Some information is also stored in Google Firebase infrastructure.
+---
+2. Collected through Cookies: Cookies are small files placed locally on the browser through which the Website is being accessed.
+Cookies are placed by Company for various purposes as detailed below:
+Type
+Placed by
+Mandatory Company
+Analytical Third Parties
+(Google, Facebook,
+Amplitude)
+Nature of tracking
+Enable Website usage by
+Users
+Analytical purposes
+Mapping of Users
+Analytical purposes
+---
+3. API Calls: API Calls consists of data generated when a User
+performs an activity on the Website/Application such as
+navigating to different pages, clicking on buttons, reading content
+etc. This data is collected and used by Company and may be
+shared with authorized third parties as described in this Privacy
+Policy.

@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Communications information includes your correspondence with us, for example if you get in touch with our Customer Service team about an order or booking or to report a problem with our Site. This includes:\n• emails,\n•\ntexts, in-app messaging & other digital messaging,\n•\n•\ncalls,\nletters,\n•\nany in-person conversations you have with us.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "Communications information includes your correspondence with us, for example if you get in touch with our Customer Service team about an order or booking or to report a problem with our Site. This includes:\n• emails,\n•\ntexts, in-app messaging & other digital messaging,\n•\n•\ncalls,\nletters,\n•\nany in-person conversations you have with us.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Communications information includes your correspondence with us, for example if you get in touch with our Customer Service team about an order or booking or to report a problem with our Site. This includes:\n• emails,\n•\ntexts, in-app messaging & other digital messaging,\n•\n•\ncalls,\nletters,\n•\nany in-person conversations you have with us.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "When you create a Fresha account using any of our Services including to purchase and use a Fresha gift card, we may collect your:\n• first and last name;\n• date of birth\n•\ngender\n• email address;\n• address;\n•\nmobile phone number(s),\n•\nyour photo, if uploaded (optional).\n•\nIf you choose to use your Google, Facebook, or Apple account to sign into Fresha, we will get an\naccess token that enables this sign-in process (granting us access to your first and last name, email,\nuser ID and (apart from Apple) your profile photo).\n• We assign unique user IDs or other account-level IDs to your Fresha account.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Communications information includes your correspondence with us, for example if you get in touch with our Customer Service team about an order or booking or to report a problem with our Site. This includes:\n• emails,\n•\ntexts, in-app messaging & other digital messaging,\n•\n•\ncalls,\nletters,\n•\nany in-person conversations you have with us.",
+      "lang": "en"
+    }
+  ]
+}

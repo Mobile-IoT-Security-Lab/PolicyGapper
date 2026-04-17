@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "For some apps using account system like KeepSafe, If you want to delete your account data, you can go to step \"Me Page -> Settings(or click Setting button) -> Log out\" to leave our app. Then you can contact us by email(you must provide your Facebook email or the email you have bind to our apps, which for us to find your account), we will help you delete your account data stored in our apps.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "For some apps using account system like KeepSafe, If you want to delete your account data, you can go to step \"Me Page -> Settings(or click Setting button) -> Log out\" to leave our app. Then you can contact us by email(you must provide your Facebook email or the email you have bind to our apps, which for us to find your account), we will help you delete your account data stored in our apps.",
+      "lang": "English"
+    }
+  ]
+}

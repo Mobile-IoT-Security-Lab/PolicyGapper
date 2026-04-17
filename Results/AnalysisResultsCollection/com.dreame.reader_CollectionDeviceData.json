@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We also collect information about the interaction of your apps, browsers, and devices with our Services, including your Internet Protocol address, crash reports, system activity and the date, time and referrer URL of your request.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "When you use any of our Services, we will automatically collect certain information about you, including your browser type (e.g. Chrome, Safari) and language, time zone setting, locale settings (country and preferred language), the date and time of your query, cookie data, device identifiers, including iOS Identifier for Advertisers (IDFA), iOS Identifier for Vendors (IDFV), Android Advertising ID, and information about your device, including the type and model, manufacturer, operating system (e.g. iOS or Android), carrier name, screen size, orientation, audio, battery, device memory usage, settings, and boot time.",
+      "lang": "English"
+    }
+  ]
+}

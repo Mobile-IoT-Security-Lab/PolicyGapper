@@ -1,0 +1,43 @@
+Information Collection:
+We (DroidCoolApps) personally DO NOT collect any personal information to our own servers (which we also don't
+even have) from our users except the information which is collected by third-party libraries of Google
+(Admob/Firebase) we use in our apps - please check the following info about it:
+Our apps use some Google third-party libraries (AdMob to show ads, In App Billing for purchases, Firebase
+services) which can collect some information from you. You can check their Private Policy at:
+•
+•
+•
+Google Admob https://support.google.com/admob/answer/6128543,
+https://policies.google.com/technologies/ads,
+https://developers.google.com/admob/android/privacy/play-data-
+disclosure#data_collected_and_shared_automatically
+Google Firebase Service (Analytics, Cloud Messaging, In App Messaging, Remote Config, Crashlytics)
+https://firebase.google.com/docs/android/play-data-disclosure,
+https://firebase.google.com/support/privacy/dpo,
+https://marketingplatform.google.com/about/analytics/terms/us/
+Google Play's billing - https://support.google.com/googleplay/android-
+developer/answer/10281818
+You can also check Data Safety section for each app at Google Play to find out what exactly third-party libraries
+collect.
+---
+### 'Droid Dashcam - Driving video recorder, BlackBox' Permissions
+INTERNET (ads)
+---
+### 'Dual Camera Video Recorder' Permissions
+INTERNET (ads)
+---
+### 'LPlayer' Permissions
+•
+INTERNET (search and download subtitles, ads)
+---
+### 'K-POP YouTube - Popular & Recent' Permissions
+•
+INTERNET (playing videos, ads)
+---
+### 'Media Files Explorer' Permissions
+•
+INTERNET (ads)
+---
+### 'Movies Easy Finder (IMDb)' Permissions
+•
+INTERNET (ads)

@@ -1,0 +1,77 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "justification": "The policy states data is '\"sold\" or \"shared\" or processed for targeted advertising' with 'analytics and advertising partners'. This constitutes 'Sharing' under Google Play's policy. 'App interactions' falls under 'Internet or other electronic network activity information' mentioned in the policy.",
+      "how_to_fix": "In the Data Safety form, declare that 'App interactions' is collected and shared with third parties, and specify 'Advertising or marketing' as a purpose for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "justification": "The policy states data is '\"sold\" or \"shared\" or processed for targeted advertising' with 'analytics and advertising partners'. This constitutes 'Sharing' under Google Play's policy. 'Other actions' falls under 'Internet or other electronic network activity information' mentioned in the policy.",
+      "how_to_fix": "In the Data Safety form, declare that 'Other actions' is collected and shared with third parties, and specify 'Advertising or marketing' as a purpose for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "justification": "The policy states data is '\"sold\" or \"shared\" or processed for targeted advertising' with 'analytics and advertising partners'. This constitutes 'Sharing' under Google Play's policy. 'Crash logs' falls under 'Internet or other electronic network activity information' mentioned in the policy.",
+      "how_to_fix": "In the Data Safety form, declare that 'Crash logs' is collected and shared with third parties, and specify 'Advertising or marketing' as a purpose for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "justification": "The policy states data is '\"sold\" or \"shared\" or processed for targeted advertising' with 'analytics and advertising partners'. This constitutes 'Sharing' under Google Play's policy. 'Diagnostics' falls under 'Internet or other electronic network activity information' mentioned in the policy.",
+      "how_to_fix": "In the Data Safety form, declare that 'Diagnostics' is collected and shared with third parties, and specify 'Advertising or marketing' as a purpose for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "justification": "The policy states data is '\"sold\" or \"shared\" or processed for targeted advertising' with 'analytics and advertising partners'. This constitutes 'Sharing' under Google Play's policy. 'Other app performance data' falls under 'Internet or other electronic network activity information' mentioned in the policy.",
+      "how_to_fix": "In the Data Safety form, declare that 'Other app performance data' is collected and shared with third parties, and specify 'Advertising or marketing' as a purpose for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "justification": "The policy states data is '\"sold\" or \"shared\" or processed for targeted advertising' with 'analytics and advertising partners'. This constitutes 'Sharing' under Google Play's policy. 'Device or other IDs' falls under 'Internet or other electronic network activity information' mentioned in the policy.",
+      "how_to_fix": "In the Data Safety form, declare that 'Device or other IDs' is collected and shared with third parties, and specify 'Advertising or marketing' as a purpose for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "justification": "The policy states data is '\"sold\" or \"shared\" or processed for targeted advertising' with 'analytics and advertising partners'. This constitutes 'Sharing' under Google Play's policy. 'User IDs' are a form of 'Internet or other electronic network activity information' used for tracking.",
+      "how_to_fix": "In the Data Safety form, declare that 'User IDs' is collected and shared with third parties, and specify 'Advertising or marketing' as a purpose for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "justification": "The policy states data is '\"sold\" or \"shared\" or processed for targeted advertising' with 'analytics and advertising partners'. This constitutes 'Sharing' under Google Play's policy. The policy explicitly mentions sharing 'Commercial Information', which includes 'Purchase history'.",
+      "how_to_fix": "In the Data Safety form, declare that 'Purchase history' is collected and shared with third parties, and specify 'Advertising or marketing' as a purpose for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "justification": "The policy states data is '\"sold\" or \"shared\" or processed for targeted advertising' with 'analytics and advertising partners'. This constitutes 'Sharing' under Google Play's policy. The policy explicitly mentions sharing 'Geolocation Data', which includes 'Approximate location'.",
+      "how_to_fix": "In the Data Safety form, declare that 'Approximate location' is collected and shared with third parties, and specify 'Advertising or marketing' as a purpose for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "justification": "The policy states data is '\"sold\" or \"shared\" or processed for targeted advertising' with 'analytics and advertising partners'. This constitutes 'Sharing' under Google Play's policy. The policy explicitly mentions sharing 'Geolocation Data', which includes 'Precise location'.",
+      "how_to_fix": "In the Data Safety form, declare that 'Precise location' is collected and shared with third parties, and specify 'Advertising or marketing' as a purpose for sharing.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

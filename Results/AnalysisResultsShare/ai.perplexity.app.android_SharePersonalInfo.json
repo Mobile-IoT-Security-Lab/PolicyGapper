@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "In the preceding 12 months, we collected and disclosed for a business purpose the following categories of personal information and sensitive personal information (denoted by *) about residents:\n• Identifiers, such as name, e-mail address and IP address\n• Personal information categories listed in the California Customer Records statute such as name, address and telephone number\n• Commercial information such as records of products or services purchased\n• Internet or other similar network activity such as Usage Data\nGeolocation data such as IP address",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "In the preceding 12 months, we collected and disclosed for a business purpose the following categories of personal information and sensitive personal information (denoted by *) about residents:\n• Identifiers, such as name, e-mail address and IP address\n• Personal information categories listed in the California Customer Records statute such as name, address and telephone number\n• Commercial information such as records of products or services purchased\n• Internet or other similar network activity such as Usage Data\nGeolocation data such as IP address",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "In the preceding 12 months, we collected and disclosed for a business purpose the following categories of personal information and sensitive personal information (denoted by *) about residents:\n• Identifiers, such as name, e-mail address and IP address\n• Personal information categories listed in the California Customer Records statute such as name, address and telephone number\n• Commercial information such as records of products or services purchased\n• Internet or other similar network activity such as Usage Data\nGeolocation data such as IP address",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "In the preceding 12 months, we collected and disclosed for a business purpose the following categories of personal information and sensitive personal information (denoted by *) about residents:\n• Identifiers, such as name, e-mail address and IP address\n• Personal information categories listed in the California Customer Records statute such as name, address and telephone number\n• Commercial information such as records of products or services purchased\n• Internet or other similar network activity such as Usage Data\nGeolocation data such as IP address",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "In the preceding 12 months, we collected and disclosed for a business purpose the following categories of personal information and sensitive personal information (denoted by *) about residents:\n• Identifiers, such as name, e-mail address and IP address\n• Personal information categories listed in the California Customer Records statute such as name, address and telephone number\n• Commercial information such as records of products or services purchased\n• Internet or other similar network activity such as Usage Data\nGeolocation data such as IP address",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "In the preceding 12 months, we collected and disclosed for a business purpose the following categories of personal information and sensitive personal information (denoted by *) about residents:\n• Identifiers, such as name, e-mail address and IP address\n• Personal information categories listed in the California Customer Records statute such as name, address and telephone number\n• Commercial information such as records of products or services purchased\n• Internet or other similar network activity such as Usage Data\nGeolocation data such as IP address",
+      "lang": "English"
+    }
+  ]
+}

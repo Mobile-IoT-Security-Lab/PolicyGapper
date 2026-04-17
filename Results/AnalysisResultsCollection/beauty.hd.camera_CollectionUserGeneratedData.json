@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "CAMERA :\nCamera sensor, which is used for the purpose of taking photos.\nA permission is required to use the phone's camera hardware,It is necessary for the basic\nfunction of the application.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "AUDIO RECORD:\nMicrophone data, which is used for the purpose of recording videos.\nIt is a necessary permission for recording voices during video recording. It can not be used for\nany other purpose.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "AUDIO RECORD:\nMicrophone data, which is used for the purpose of recording videos.\nIt is a necessary permission for recording voices during video recording. It can not be used for\nany other purpose.",
+"lang": "en"
+}
+]
+}

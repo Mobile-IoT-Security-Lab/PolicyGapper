@@ -1,0 +1,64 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We collect information about how you use our services, such as the pages you view, the features you use, and the actions you take. We use this information to understand how our users interact with our services, to improve our services, and to personalize your experience.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use cookies and similar technologies to collect information about your browsing activities over time and across different websites. This information may include a unique identifier for your device. We use this information to personalize your experience, to provide you with targeted advertising, and to analyze how our services are used.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Special categories of personal data. We do not intentionally collect any “special categories of personal data” (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on the nature of your payment, the recipient’s name may indicate some of this information. We will only use this information to execute your payment instruction. We may also receive special categories of personal data if you have provided it to us in a customer support query. We will only use this information to deal with your query.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Special categories of personal data. We do not intentionally collect any “special categories of personal data” (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on the nature of your payment, the recipient’s name may indicate some of this information. We will only use this information to execute your payment instruction. We may also receive special categories of personal data if you have provided it to us in a customer support query. We will only use this information to deal with your query.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Special categories of personal data. We do not intentionally collect any “special categories of personal data” (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on the nature of your payment, the recipient’s name may indicate some of this information. We will only use this information to execute your payment instruction. We may also receive special categories of personal data if you have provided it to us in a customer support query. We will only use this information to deal with your query.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "Information from credit reference agencies. If you use our Services to make or receive payments, we may obtain information about you from credit reference agencies to help us verify your identity, perform a credit check, and assess your credit profile.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Special categories of personal data. We do not intentionally collect any “special categories of personal data” (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on the nature of your payment, the recipient’s name may indicate some of this information. We will only use this information to execute your payment instruction. We may also receive special categories of personal data if you have provided it to us in a customer support query. We will only use this information to deal with your query.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, device information; information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number; your location.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "This may include information you give us when you register for an Account, use our Services, or correspond with us by phone, email or otherwise. This information may include your name, address, email address, phone number, date of birth, national insurance number, a photograph or other image of you, your signature, copies of your identity documents and other information you provide to create an Account and use our Services.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may also collect information from your device, including, for example, your device’s location, and information about your contacts, calendar, and photos, with your consent.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "This may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use, your login information, products you viewed or searched for, your marketing preferences, your survey responses, information you provide to our support team, your social media account information, your voice, when you contact our support team, and other information from your interaction with us.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "We may also collect information from your device, including, for example, your device’s location, and information about your contacts, calendar, and photos, with your consent.",
+      "lang": "en"
+    }
+  ]
+}

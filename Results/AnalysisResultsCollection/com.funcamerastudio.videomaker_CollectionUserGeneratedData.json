@@ -1,0 +1,29 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "The prompts, text, images, audio recordings, videos and chat logs that you enter may be your personal sensitive data, and in order to provide you with certain features of our Services, we may collect, generate, access, store and use this sensitive information about you. We will only use this data to provide you with the applicable features, and by entering this sensitive information and sending us a request to generate it, you consent to us using it for the purposes set out in this Privacy Policy.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+"lang": "en"
+}
+]
+}

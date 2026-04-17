@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We do not collect any personal data. We do not share any data with third parties. We use Google Analytics to collect anonymous usage data to improve our app. This data is not linked to you personally.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We do not collect any personal data. We do not share any data with third parties. We use Google Analytics to collect anonymous usage data to improve our app. This data is not linked to you personally.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We do not collect any personal data. We do not share any data with third parties. We use Google Analytics to collect anonymous usage data to improve our app. This data is not linked to you personally.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We do not collect any personal data. We do not share any data with third parties. We use Google Analytics to collect anonymous usage data to improve our app. This data is not linked to you personally.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "1.1 - Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our application you visited.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "1.2 - Physical Data. This may include your gender identity, age, weight, sleeping schedule, nutrition information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "1.2 - Physical Data. This may include your gender identity, age, weight, sleeping schedule, nutrition information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "1.5 - Correspondence Data. While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address (“Personal Information”). We may collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services. You have the right to request its deletion by contacting us. The personal information will be delisted within 30 days upon receiving the request.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you access our Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use and other statistics (“Log Data\").",
+      "lang": "English"
+    }
+  ]
+}

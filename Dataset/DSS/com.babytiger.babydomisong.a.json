@@ -1,0 +1,46 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics, Developer communications",
+      "type": "App activity"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "Committed to follow the Play Families Policy",
+      "description": "The developer has committed to follow the Play Families Policy for this app. <a href=\"https://support.google.com/googleplay/android-developer/answer/9893335\" target=\"_blank\">See the policy</a>"
+    }
+  ],
+  "privacyPolicyUrl": "https://actcdn.ubestkid.com/uc/svip/membersAgreement/policy_en.html"
+}

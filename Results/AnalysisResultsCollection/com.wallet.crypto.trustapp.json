@@ -1,0 +1,54 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you use our Services that involve artificial intelligence (\"Al Services\"), such as our Al Chatbot, we process the content you provide in your inputs or feedback so that we can respond and deliver the Al functionality you have chosen to use",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In certain circumstances, we may collect Personal Data automatically from you when you use our Services, in accordance with applicable laws. This may include device, log, and usage data, which helps us enhance your experience, provide customer support, improve the performance of our sites and Services, and safeguard your account by detecting unauthorized access and preventing fraud.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We process your Wallet Information and Transaction Information to deliver self-custody crypto wallet services and to facilitate, execute, and manage the transactions you request. Our legal basis for this processing is that it is essential for the performance of a contract of which you are a party.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you use our self-custody wallet or visit our website, your IP address may be processed on a transient basis. This limited processing is used solely (a) to route traffic and facilitate service localization in accordance with regulatory requirements, and (b) to establish secure connections with third-party platforms (e.g., Coinbase) when you choose to connect with them. In such cases, your IP address may be briefly shared with the relevant platform only for generating security and authentication tokens to safeguard your account and transactions. Your privacy remains protected at all times, and we do not log, retain or otherwise access your IP address beyond these temporary uses.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Information you choose to provide during your interaction with us on our website such as email address.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "When you use our Services that involve artificial intelligence (\"Al Services\"), such as our Al Chatbot, we process the content you provide in your inputs or feedback so that we can respond and deliver the Al functionality you have chosen to use",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Please note that photography and videography may take place during the event for promotional and archival purposes. By attending our event, you agree that Trust Wallet and our partners may use your image in marketing materials, social media posts, or future event promotions as part of our efforts to share and celebrate the event.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Please note that photography and videography may take place during the event for promotional and archival purposes. By attending our event, you agree that Trust Wallet and our partners may use your image in marketing materials, social media posts, or future event promotions as part of our efforts to share and celebrate the event.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Voice Input (Optional): Where available, you may choose to interact with the Al Services using voice input. Your voice is processed in real time to create a text transcription, which is then handled in the same way as any other text-based input.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "We collect your Curriculum Vitae (CV), resume, LinkedIn profile, academic certificates and transcripts, employment history, and (where relevant) salary and bonus details. We use this information to assess your suitability, process your application, conduct background checks, and manage your employment relationship.",
+      "lang": "en"
+    }
+  ]
+}

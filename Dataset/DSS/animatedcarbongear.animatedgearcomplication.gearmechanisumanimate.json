@@ -1,0 +1,18 @@
+{
+  "sharedData": [
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    }
+  ],
+  "privacyPolicyUrl": "https://mdinnovative.wordpress.com"
+}

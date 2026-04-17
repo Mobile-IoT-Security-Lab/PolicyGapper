@@ -1,0 +1,165 @@
+At X.AI LLC ("xAI", "our", "us" or "we"), we value your privacy and are committed to being fair,
+accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines
+how we collect, use, and disclose your personal information when you use our websites and
+applications (the Grok mobile app (iOS or Android) or the Grok.com website), and other xAl services
+(our "Service"). It also describes your privacy rights.
+
+---
+2. Personal information we collect (Notice at collection)
+
+---
+We may collect personal information from you and about you. Some examples of the information
+we may collect, how we may collect it, how we may use it, and how we may disclose it are
+described below.
+•
+Account Data: If you create an account with us, we collect your name, contact information,
+account credentials, and date of birth. Also, to access certain features of the Service, we will
+collect your date of birth before you may proceed. If you log into our Service using a third-party
+service, such as X, Google, or Apple, that third-party will send your information to us at your
+direction. For example, if you use your existing X credentials to log into an xAl mobile app or
+website, you may choose to direct X to share the following information with us: your X public
+profile (including profile image), X username, numeric X ID, your date of birth, whether you are
+subscribed to X Premium, and your Grok on X conversation history.
+•
+How we may collect it: Directly from you or from a third-party (ex., X, Google, or Apple).
+
+---
+•
+Payment Data: Where payment is required to access the Service (ex., if you are paying for a
+subscription), we may have a third-party process payment information, such as payment card
+information, and details regarding your transactions for us.
+•
+How we may collect it: Through a third-party processor (ex., Apple App Store, Google Play
+Store, or Stripe).
+
+---
+•
+Communication Data: If you communicate with us, such as by email, by our webpages, or on
+social media sites, we may collect personal information that you submit to us including your name,
+user name, email address, any other information you voluntarily choose to provide us, and the
+contents of messages you send.
+
+--- [PAGE BREAK] ---
+•
+How we may collect it: Directly from you.
+
+---
+•
+User Content: You may provide personal information in prompts and other content you input,
+such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service
+("Output”), including responses Grok generates, are based on your Input (together, "User
+Content"). If you include personal information in Inputs you provide to the Service, this
+information may be reproduced in the Output.
+•
+How we may collect it: Directly from you.
+
+---
+•
+Feedback Data: Where applicable, we will collect your Feedback (as defined in our Terms of
+Service). This might arise if, for example, in a given conversation with Grok, you rate an Output
+using the thumbs-up/thumbs-down icons.
+•
+How we may collect it: Directly from you.
+
+---
+•
+Social Media Information: We have pages on social media sites like Instagram, Facebook,
+Medium, X, YouTube, and LinkedIn. When you interact with our social media pages, we collect
+personal information that you choose to provide to us. In addition, the companies that host our
+social media pages may provide us with aggregate information and analytics about our social
+media activity.
+•
+How we may collect it: Directly from you or from companies that host our social media pages.
+
+--- [PAGE BREAK] ---
+•
+Technical Data: Technical data includes information such as your IP address, device type, country
+from which you access, analytics information, browser type and version, browser plug-in types
+and versions, and operating system. This may also include information about your use of the
+Service and how you interact with the Service, including the types of content you view or engage
+with, the features you use, pages you view and your Grok conversation history.
+•
+How we may collect it: Automatically when you use or interact with the Service, including
+through analytics tools.
+
+---
+•
+Location data: We may determine the general area from which your device accesses our Services
+based on information like its IP address. Also, you may choose to provide more precise
+location information, such as your address, your device's GPS location, or location information
+from third-party services that you use. We obtain your consent prior to collecting precise
+location information.
+•
+How we may collect it: Directly from you or from third-party services that you use.
+
+---
+•
+Publicly Available Data: We use information that is publicly available on the internet to train our
+models and provide resulting Output. While we do not intentionally seek out personal information,
+
+--- [PAGE BREAK] ---
+we understand that there is personal information incidentally included in these datasets. For more
+information on the sources of information used in the development and operation of our large
+language models, see our Consumer FAQs.
+•
+How we may collect it: From publicly available resources and providers.
+
+---
+•
+Public X Posts and Internet Search Data: The Service uses public posts shared on X,
+engagement data such as number of followers, and number of views, likes, reposts, shares, and
+replies and internet search results. In some instances, this data may include personal information.
+•
+How we may collect it: Public X posts are provided by X and internet search data is provided
+by internet search providers.
+
+---
+•
+Cookies and Similar Technologies: We and our service providers use cookies and other similar
+technologies to operate and improve our Services. Cookies help us to recognize you, customize
+or personalize your experience, analyze the use of our Services to make it safer and more useful to
+you. For details about our use of cookies, please read our Cookie Policy.
+
+--- [PAGE BREAK] ---
+•
+For legal purposes: For example, to comply with our legal obligations and to protect the rights,
+privacy, safety, or property of our users, xAl, or third-parties. This may include detecting what
+country you are located in so we can comply with relevant legal obligations.
+
+--- [PAGE BREAK] ---
+5. Retention of personal information
+We retain your personal information where we have an ongoing legitimate business need to do so. In
+certain circumstances, we will retain your information for legal reasons after our contractual
+relationship has ended. The specific retention periods depend on the nature of the information and
+why it is collected and processed and the nature of the legal requirement. For example, we may retain
+your personal information:
+•
+•
+•
+•
+When we have a legal obligation to do so (e.g., if we receive a court order, we would retain your
+information for longer than our usual retention periods);
+To address and resolve requests and complaints (e.g., if there is an ongoing complaint about you);
+To protect the safety, security, and integrity of our business and the Service, as well as to protect
+our rights and property and those of others (e.g., if we detect misuse of our Service or otherwise
+detect unusual activity on your account or in your interactions with us); and
+For litigation, regulatory or other legal matters (e.g., we would retain your information if there was
+an ongoing legal claim and the information was relevant to the claim).
+The length of time we retain data may depend on the features or settings you use. For example, when
+Private Chat is turned on, conversations will not appear in your conversation history and your
+conversations will be deleted from xAl systems within 30 days unless it is necessary that they be kept
+longer for legal, compliance, or safety purposes. Further, if you choose to delete any or all of your
+
+--- [PAGE BREAK] ---
+conversations or if you choose to delete your account, we will delete the data within 30 days unless it
+is necessary to retain the data for legal, compliance, or safety purposes.
+
+---
+Please contact us here if you are aware that we may have inadvertently collected personal
+information from a child under the age of 13.
+
+--- [PAGE BREAK] ---
+12. How to contact us about privacy requests
+If you have any queries or complaints about our collection, use, or storage of your personal
+information, or if you wish to exercise any of your rights in relation to your personal information, please
+contact us at https://xai-privacy.relyance.ai/ or by the following contact details:

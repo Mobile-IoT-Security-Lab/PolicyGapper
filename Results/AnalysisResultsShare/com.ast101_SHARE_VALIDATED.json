@@ -1,0 +1,31 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is collected by third-party products 'in a case of an error in the app'. This is a standard service provider function (e.g., crash reporting) where the third party processes data on the developer's behalf to maintain the app. This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This data sharing is exempt from disclosure under the service provider clause. Ensure the data is only used for the stated purpose by the third party.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is collected by third-party products 'in a case of an error in the app'. This is a standard service provider function (e.g., crash reporting) where the third party processes data on the developer's behalf to maintain the app. This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This data sharing is exempt from disclosure under the service provider clause. Ensure the data is only used for the stated purpose by the third party.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is collected by third-party products 'in a case of an error in the app'. This is a standard service provider function (e.g., crash reporting) where the third party processes data on the developer's behalf to maintain the app. This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This data sharing is exempt from disclosure under the service provider clause. Ensure the data is only used for the stated purpose by the third party.",
+      "lang": "English"
+    }
+  ]
+}
+```

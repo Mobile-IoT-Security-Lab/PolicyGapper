@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "1.2.2 For analytics purposes, we use UserX Analytics (https://userx.pro/) provided by BUMPIN L.L.C-FZ and Microsoft Clarity provided by Microsoft Corporation (https://clarity.microsoft.com/), which, in addition to collecting standard anonymized usage data (such as taps, swipes, and virtual device identifiers), also captures anonymized screenshots during app usage. All collected data are ANONYMIZED on the side of end-user devices and DOES NOT CONTAIN any personal, financial or payment information, other sensitive data, or user-generated private content. All transmitted data DOESN'T CONTAIN any information resulting from the device camera, microphone, or other user inputs in the Application. All transmitted data is protected by SSL encryption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "1.2.2 For analytics purposes, we use UserX Analytics (https://userx.pro/) provided by BUMPIN L.L.C-FZ and Microsoft Clarity provided by Microsoft Corporation (https://clarity.microsoft.com/), which, in addition to collecting standard anonymized usage data (such as taps, swipes, and virtual device identifiers), also captures anonymized screenshots during app usage. All collected data are ANONYMIZED on the side of end-user devices and DOES NOT CONTAIN any personal, financial or payment information, other sensitive data, or user-generated private content. All transmitted data DOESN'T CONTAIN any information resulting from the device camera, microphone, or other user inputs in the Application. All transmitted data is protected by SSL encryption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "List of service providers. You have the right to request a list of third parties with whom we shared personal information (if any) for marketing purposes and what kind of information we shared during the previous calendar year.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "List of service providers. You have the right to request a list of third parties with whom we shared personal information (if any) for marketing purposes and what kind of information we shared during the previous calendar year.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We don't share your personal information with third parties, except for people and other entities that perform certain tasks on our behalf and who are under our control (our “Service Providers\"). We may need to share personal information with our Service Providers in order to provide products or services to you. Unless we tell you differently, our Service Providers do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Service Providers. Our Service Providers are:\n\n| # | Entity Name | Webpage | Purpose |\n| --- | --- | --- | --- |\n| 1. | Google LLC | https://analytics.google.com/ | We use Google Analytics for analytical purpose |\n| 2. | Amplitude Inc. | https://amplitude.com | For analytical purpose |\n| 3. | AppsFlyer | https://www.appsflyer.com | For campaign performance |\n| 4. | Meta Platforms, Inc. | https://www.facebook.com/business/tools/meta- pixel | We use Meta Pixel for ads campaign |\n| 5. | Stripe, Inc. | https://stripe.com/ | For payment processing |\n| 6. | UserX Analytics, BUMPIN L.L.C-FZ | https://userx.pro/ | For app analytics (session recordings, heat maps, etc.) |\n| 7. | Microsoft Corporation | https://clarity.microsoft.com/ | For app analytics (session recordings, heat maps, etc.) |",
+      "lang": "English"
+    }
+  ]
+}

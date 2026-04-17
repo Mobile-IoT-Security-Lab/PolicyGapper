@@ -1,0 +1,345 @@
+2. Data collection regarding the use of our apps
+We take the protection of your personal data very seriously. We treat your personal
+data confidentially and in accordance with the statutory data protection
+regulations and this privacy policy.
+When you download and use our apps, certain personal data is processed.
+---
+Personal data is data with which you can be personally identified. This privacy
+policy explains what data we collect and what we use it for. It also explains how and
+for what purpose this is done.
+---
+2.1 Access to and storage of information in terminal equipment
+By using our apps, access to information (e.g., IP address) or storage of information
+(e.g., cookies or similar technologies) in your terminal equipment may occur. This
+access or storage may involve further processing of personal data pursuant to the
+GDPR.
+In cases where such access to information or such storage of information is strictly
+necessary for the technically error-free delivery of our services, this is done based
+on § 25 para. 1 s. 1, para. 2 no. 2 TDDDG.
+In cases where such a process serves other purposes (e.g., the needs-based design
+of our apps or the tracking of your online behavior as further explained in the
+respective consent wording), this will only be carried out based on § 25 para. 1
+TDDDG with your consent pursuant to Art. 6 para. 1 lit. a GDPR. The consent can be
+revoked at any time with effect for the future.
+For more information on the processing of your personal data and the relevant
+legal basis in this context, please refer to the following sections on the specific
+processing activities in our apps.
+---
+2.2 Information collected during download of the apps.
+When you download the apps, certain required information is transmitted to the
+app store you have selected (Google Play Store, Apple App Store). To our
+knowledge, this includes your IP address, unique device ID, location, date and time
+of the request, time zone difference to Greenwich Mean Time (GMT), content of the
+request (specific page), access status/HTTP status code, amount of data
+transmitted in each case, app usage data, operating system and its interface
+language. We have no influence on this data collection and are not responsible for
+it. The contract is concluded with the respective provider of the store and is handled
+in accordance with their terms and conditions as well as their privacy policy. Within
+the scope of your use of the stores, we only process the reviews and associated
+data published by you on our apps and receive anonymous statistics via the stores,
+e.g., on download figures, uninstalls and crashes.
+---
+2.3 Data processing when using the apps.
+As part of your use of the apps, we collect certain data as outlined in detail below
+that is required for the provision and use of the apps. The following data is
+processed for these purposes: internal device ID, version of your operating system,
+time of access, IP address, content of access, country of access.
+---
+This data is collected in order to provide you with the service and related functions
+and to prevent and resolve misuse and malfunctions. To do so we use our service
+provider IPQualityScore, LLC to estimate fraud risks and our service provider
+Ipregistry: PSI IPV Ltd, Oxford, UK to determine the country from which a user logs in
+based on the IP address.
+---
+If you use the JustPlay App, we collect information on your progress in the different
+game apps of Gimica as well as your advertising data (see below) and connect this
+data with you via identifiers (e.g. GAID / Google App Set ID/IDFA / IDFV / JustPlay
+User ID). To do so we use our service provider AppLovin Corporation, 1100 Page Mill
+Road, Palo Alto, CA 94304.
+---
+Our apps are hosted by Google Cloud Services, offered by Google Cloud EMEA Ltd.,
+as a hosting service provider that processes data on servers in several global
+locations. Personal data collected through the apps is stored on the hoster's
+servers. We have concluded a Data Processing Agreement with the provider in
+accordance with the requirements of Art. 28 GDPR, in which they commit to protect
+the data of our customers and not to pass them on to third parties without being
+instructed accordingly by us.
+---
+For using more functions of the apps, you are asked to provide us with certain other
+data. Such data will only be sent and provided to us after you clicked the respective
+submit button within the apps.
+---
+For the purpose of managing our customers, we may process user data in internally
+used systems. We base this data processing on Art. 6 para. 1 lit. b. and f. GDPR. We
+use our service providers Google Cloud EMEA Ltd., 70 Sir John Rogerson's
+Quay, Dublin 2, Ireland and Metabase, Inc 9740 Campo Rd. Suite 1029, Spring Valley,
+CA 91977 for this purpose.
+---
+If the data processed for providing the apps are considered personal data, such
+data processing is based on Art. 6 (1) b. and f. GDPR for the purpose of providing our
+service and analysing those data based on our legitimate interests of improving
+our product and research purposes ensuring the functionality and error-free
+operation of our apps.
+---
+2.4 Technical functions of the apps
+Only if further functions of the apps are to be used in addition to the basic functions,
+the following accesses can be requested:
+---
+2.5 Contact via contact form, e-mail.
+If you send us requests via our contact form or email, your details from the contact
+form or email, including the contact data you have provided there, will be stored for
+the purpose of processing your request and in the event of follow-up questions.
+Under no circumstances will we pass on this data without your consent. The legal
+basis for processing the data is our legitimate interest in responding to your request
+pursuant to Art. 6 para. 1 lit. f GDPR and, if applicable, Art. 6 para. 1 lit. b GDPR,
+provided that your request is aimed at concluding a contract.
+---
+2.6 Direct marketing to existing customers
+We may use your email address (as provided by you during our payout process) to
+send you information about our products and services that are similar to those you
+have already purchased from us, particularly new games, challenges, sweepstakes
+and other promotions.
+---
+detailed above, we may ask you for your consent to collect and use a photo and
+facial mapping information in accordance with the Facial Mapping Notice and
+Consent Policy below. The legal basis for the respective processing of your personal
+data is your consent (Art. 6 para. 1 lit. a GDPR).
+---
+You can download our apps from the app store without registering with us. Personal
+data is not collected for us in the course of downloading the apps (cf. above). Nor is
+any personal data passed on to us by the apps store provider. If you want to use
+pay out functionalities, further details are required to process the payment. The
+processing of the payment is handled by external payment service providers. The
+user payment data is transferred to the payment provider.
+---
+The data entered during the payout is processed for the fulfilment of a contract with
+the user or for the implementation of pre-contractual measures (Art. 6 para. I lit. b
+GDPR).
+---
+If you are using certain payout options in our JustPlay App we may ask for your full
+name and address details and pass this information to the external payment
+service provider. The payment providers are either PayPal: 2211 N 1st St, San Jose, CA,
+USA, Tangocard: 4700 42nd Ave SW #430, United States or Tremendous: 592 Union
+St Ste 502, San Francisco, California, 94123, United States. However, please note that
+we do not process your payment data and bank account details but use external
+providers that handle the payments.
+---
+We will display your cashout history so that you can track and review all payouts
+from the past. This is based on our legitimate interest in providing our users with
+convenient solutions that enable them to understand how much money they have
+gained in the past (Art. 6 para 1 lit. f GDPR).
+---
+2.8 Technical functions
+Only if further functions of the JustPlay App are to be used in addition to the basic
+functions, the following accesses can be requested:
+• Camera Access: The app requests access to your device's camera for the purposes
+described in the Facial Mapping Notice and Consent Policy below.
+• Location Access: The app requires access to your location data to determine your
+market for a more tailored user experience. Additionally, location data is used for
+security and fraud prevention purposes to ensure the integrity of user accounts and
+transactions.
+The permissions to access the above functions are explicitly requested and can be
+confirmed or denied.
+If you have granted the individual permission, the associated processing of your
+data is based on your consent in accordance with Art. 6 para. 1 lit. a GDPR
+(regarding the camera data) and in accordance with Art. 6 para 1 lit. f GDPR
+(regarding the location data – the legitimate interests are the prevention of fraud
+and similar activities). You can revoke your consent at any time for the future. A
+granted authorization can be cancelled in the settings of the device in most cases
+at any time (however, this depends on the device and the operating system, which
+we have no influence on). The lawfulness of the data processing already carried out
+remains unaffected by the revocation. Please note that permissions that have not
+been granted may restrict the use of the apps.
+---
+To the extent that we grant other parties access to information collected via our
+apps, they are expected to follow privacy practices no less protective than our
+practices to the extent allowed by applicable law.
+---
+5. Cookies and similar technologies
+Our apps use so-called “cookies” and similar technologies.
+Cookies and similar technologies have various functions. They are technically
+necessary, as certain apps functions would not work without them. Some are used
+to evaluate user behaviour or display advertising.
+The processing of data using strictly necessary cookies or similar technologies is
+based on § 25 para. 1 s. 1, para. 2 no. 2 TDDDG and a legitimate interest pursuant to
+Art. 6 para. 1 lit. f GDPR in the technically error-free delivery of our services.
+The processing of personal data using cookies or similar technologies for other
+purposes is based on consent in accordance with § 25 para. 1 TDDDG, Art. 6 para. 1
+lit. a GDPR. The subject matter of this consent is described in the respective consent
+wording. The consent can be revoked at any time with effect for the future.
+---
+• The right, pursuant to Art. 15 GDPR, to obtain information about your personal data
+processed by us. In particular, you may request information about the purposes of
+processing, the categories of personal data concerned, the categories of recipients
+to whom your data has been or will be disclosed, the envisaged period for which
+the data will be stored, the existence of the right to request from the controller
+rectification or erasure or personal data or restriction of processing of personal
+data concerning you or to object such processing, the existence of a right to lodge
+a complaint with a supervisory authority, the origin of your data, if these have not
+been collected by us, and the existence of automated decision-making including
+profiling and, if applicable, meaningful information about the logic involved, as well
+as the significance and the envisaged consequences.
+---
+• The right, in accordance with Art. 20 GDPR, to receive the personal data concerning
+you, which you have provided to us in a commonly used and machine-readable
+format and the right to transmit those data to another controller.
+---
+If you no longer wish to provide us information through our apps, you may uninstall
+our apps from your device. Note that this action will not delete information we
+previously collected via our apps.
+---
+8. Necessity of providing personal data
+Providing personal data to allow for a decision on entering into a contract, the
+fulfilment of such contract or for the implementation of pre-contractual measures
+is voluntary. However, you will only be able to collect coins and use the payout
+functions if you provide your personal data.
+---
+9. Automated decision making / profiling.
+For the purpose of fraud detection and prevention, certain criteria such as IP
+addresses, email-adresses and gaming behaviour are evaluated automatically. If
+several criteria apply that indicate fraudulent behaviour, players may be partially or
+completely excluded from using the app. This data processing is necessary to
+properly process the contract concluded with the user (Art. 6 para. 1 lit. b GDPR, Art.
+22 para. 2 lit. a GDPR) and in order to pursue our legitimate interest in preventing
+fraudulent behaviour (Art. 6 para 1 lit. f GDPR). Data resulting from such processing
+will in general be deleted after the automated evaluation has been completed.
+---
+Data processing for statistical purposes using Page Insights
+Meta provides Page Insights Data for our Facebook fan
+page:
+https://www.facebook.com/business/a/page/page-insights.
+This aggregated data gives us an insight into how people interact with our page.
+Page Insights data may be based on personal data gathered from visits and
+interactions on, or with our page, and from connections with provided content.
+Please consider which personal data you share with us via Facebook. Your data
+may be processed for market research and promotional purposes, even if you are
+not logged into Facebook or do not have a Facebook account. User profiles can be
+created based on user behavior and the resulting interests of users. User profiles
+may be used for targeted advertisements within or outside the platform. Data
+recording is done using cookies, which are stored on your terminal device. In
+addition, user profiles may contain data that is gathered from memberships on
+other platforms. Legal basis of the processing is Art. 6 para. 1 lit. f GDPR and our
+legitimate interest lies in the optimized presentation of our proposition, the effective
+information and communication with customers and interested parties as well as in
+the targeted placement of advertisements. Please note that we have no influence
+on the data gathering and further processing by Meta. As a result, we cannot
+provide any access about where, for how long and to which extent Meta retains the
+data. Furthermore, we cannot make any statements about the extent to which Meta
+complies with existing erasure deadlines, what evaluations and translations are
+made and to whom the data is transferred by Facebook. If you want to prevent your
+personal data being processed by Meta, please contact us by other means.
+---
+Data processing through making contact
+We collect data when you contact us, for example via contact form or messenger
+services such as Facebook Messenger. The data collected depends on the details
+you provide, and the contact details you specify. It will be stored for the purpose of
+processing the inquiry and in the event of follow-up questions. Under no
+circumstances we will pass on the data to third parties without a legal basis in
+accordance with Art. 6 para 1 GDPR. The legal basis for the data processing is our
+legitimate interest in responding to your request pursuant to Art. 6 para. 1 lit. f GDPR
+and, if applicable, Art. 6 para. 1 lit. b GDPR if your request aimed at the conclusion or
+performance of a contract. Unless there are legal reasons, your data will be erased
+after final processing. We assume the processing is finalised, when the regarding
+circumstances are clarified.
+---
+These additional provisions for California consumers supplement the other parts of
+our privacy policy and applies only to individuals who reside in California. This
+section outlines how we collect, use, and share your data, including the use of the
+Unified ID 2.0 ("UID2.0") and the RampID ("RampID") framework, and how we
+comply with the California Consumer Privacy Act and its implementing regulations
+("CCPA").
+---
+1. Personal Information We Collect
+We may obtain the personal information listed in “Data collection regarding the use
+of our apps" from California residents through our apps. For further information
+please see the table below.
+---
+| Category of Personal Information | Purposes for Collection, Use, and Disclosure |
+|---|---|
+| Identifiers such as a name, telephone number, email address, mailing address, third-party accounts, unique personal identifier, online identifier, IP address. | To communicate with you, including to respond to your questions, market to you, and provide customer service To operate our business To conduct marketing, personalization, and advertising For research purposes To design, develop, and improve our apps To conduct business analytics and to analyze trends To track the effectiveness of our advertising To personalize your experience, on our apps For safety and security purposes To improve how we do business, products and services, and customer experience For other internal business purposes To fulfill our legal obligations |
+| Customer Records, including any personal information described in subdivision (e) of Section 1798.80 of the California Civil Code such as your name, signature, address, employment-related information, financial information. | |
+| Internet or other electronic network activity information, such as browsing history, search history, operating system, and information regarding your interactions with our applications, or advertisements. | To provide you with our apps To operate our business To conduct marketing, personalization, and advertising For research purposes To design, develop, and improve our apps To conduct business analytics and to analyze trends To track the effectiveness of our advertising To personalize your experience For safety and security purposes To improve how we do business, products and services, and customer experience For other internal business purposes To fulfill our legal obligations |
+| Geolocation data, including your approximate location derived from your IP address or mobile device. | To provide you with our apps To operate our business To conduct marketing, personalization, and advertising For research purposes To design, develop, and improve our apps To conduct business analytics and to analyze trends To track the effectiveness of our advertising To personalize your experience For safety and security purposes To improve how we do business, products and services, and customer experience For other internal business purposes To fulfill our legal obligations To verify your identity |
+| Inferences from personal information collected such as a profile about a consumer reflecting the consumer's preferences, characteristics, and interests. | To provide you with our apps To operate our business To conduct marketing, personalization, and advertising For research purposes To design, develop, and improve our apps To conduct business analytics and to analyze trends To personalize your experience To improve how we do business, products and services, and customer experience For other internal business purposes To fulfill our legal obligations To verify your identity |
+| Sensitive personal information Please see our Facial Mapping Notice and Consent Policy below. | For other internal business purposes To fulfill our legal obligations |
+---
+2.1 Right to Know
+You have the right to know what personal information we have collected about you,
+including:
+• The categories of personal information we have collected about you;
+• The categories of sources from which the personal information was collected;
+• Our business or commercial purposes for colleting, selling, sharing, or disclosing
+personal information;
+• The specific pieces of personal information we have collected about you.
+---
+2.2 Right to Delete
+You have the right to request that we delete the personal information we have
+collected from you, subject to certain exceptions.
+---
+1.1.Right to Know
+You have the right to confirm whether we are processing your personal data,
+access your personal data, and obtain a copy of the personal data you provided to
+us in a portable format.
+---
+Please note that if you make a privacy rights request, we will retain the personal
+data submitted in connection with your request for recordkeeping purposes.
+---
+3.2 Information Categories
+When you interact with our services, we may collect the following types of personal
+data that can be used for and within the marketing identifiers:
+• Personal Identifiers: such as your email address or phone number, which may be
+encrypted and converted into an anonymized identifier.
+• Device Information: such as your browser type, IP address, and operating system.
+• Usage Data: such as your interactions with our apps.
+---
+We collect this information to improve your experience, deliver relevant advertising,
+and support business operations.
+---
+• Use the UID2.0 opt-out page to stop the collection and use of your data in the UID2.0
+framework here: https://www.transparentadvertising.com/
+---
+• Use the RampID opt-out page to stop the collection and use of your data in the
+RampID framework here: https://liveramp.com/opt_out/
+---
+D. Facial Mapping Notice and Consent Policy
+Effective Date: January 13, 2025
+1. Introduction
+This Facial Mapping Notice and Consent Policy ("Policy") explains how Gimica
+GmbH and JustPlay GmbH (collectively, “Company“, “we”, “our” or “us”) collect, use,
+store, and protect facial mapping data obtained through the FaceTec
+software("FaceTec") when you use our JustPlay App (the "JustPlayApp"). To the
+extent there is any inconsistency between this Policy and the above Privacy Policy,
+this Policy controls with respect to facial mapping data and photos collected
+through the FaceTec software. This Policy is intended to comply with any federal,
+state, or local laws that may apply to the facial mapping data. By proceeding to
+use the FaceTec software, you confirm that you are not doing so from within a
+jurisdiction where such use is prohibited.
+---
+2. Collection of Facial Mapping Data and Photos
+In order to use the cashout feature within the JustPlayApp for the first time, you will
+need to use your device's camera and software provided by FaceTec that is
+embedded within the JustPlayApp to scan your face and provide us with facial
+mapping data that is unique to you, as well as a photo of your face. We use the
+facial mapping data and photo for the following purposes:
+• Real person verification: To verify that you are a real person
+• Fraud prevention: To prevent unauthorized access and fraud. We compare the
+facial mapping data that you provide with facial mapping data that has been
+provided by other JustPlayApp users within the last four months to help prevent the
+same user from creating multiple accounts. We store the facial mapping data that
+you provide for four months and use your facial mapping data for this purpose as
+well.
+• Minor identification: To ensure that users are not underaged minors
+---
+Your facial mapping data and photo is stored in our rented server space on the
+servers of Google Cloud Services provided by Google Cloud EMEA Ltd. (70 Sir John
+Rogerson's Quay, Dublin 2, Ireland) (please see our general privacy policy in this
+regard). We implement robust security measures, including encryption and secure
+storage, to protect your information from unauthorized access, disclosure, or
+misuse.
+---
+• Access: Request access to your Facial Mapping Data, and/or information regarding
+how and why your Facial Mapping Data was collected, and any parties to whom we
+have disclosed your Facial Mapping Data.
+---
+• Withdrawal of Consent: Withdraw your consent to the collection and use of your
+Facial Mapping Data, noting that this may affect your ability to use FaceTec.

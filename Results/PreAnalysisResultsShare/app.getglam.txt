@@ -1,0 +1,198 @@
+Al Avatars: In order to generate Al Avatars, you have to upload 10-20 photos to GLAM. At this point, your
+photos are stored on our servers (provided by Amazon Web Services (USA)). Then, a copy of the Stable
+Diffusion model is created to be retrained with your photos to personalize the model and to create your
+Avatars. Immediately after the successful generation of Avatars, your original photos are deleted from our
+servers. Your purchased Avatars are stored on our servers so that they remain accessible to you in GLAM at
+any time and from any device until you decide to delete them.
+---
+How we process your photos
+With regard to your photos, most processing activities take place on your device, however there are
+exceptions to this rule when you generate Al avatars. When you generate Al avatars, the photos that you
+have uploaded to GLAM or those selected by GLAM from your cameral roll/ library are stored on our servers
+(provided by Amazon Web Services (USA)). Then, a copy of the Stable Diffusion model is created to be
+retrained with your photos to personalize the model and to create your Avatars. Immediately after the
+successful generation of Avatars, your original photos are deleted from our servers. Your purchased Avatars
+are stored on our servers so that they remain accessible to you in GLAM at any time and from any device
+until you decide to delete them.
+---
+We process your personal information because we have a contractual obligation with you. When you create
+an account to use GLAM (required for any paid subscriptions), or our Website and Services, and agree to
+our Terms of Service, a contract is formed between you and us. In order to carry out our contractual
+obligations we need to process the information you provide, which also includes personal information. Even
+if there is no direct contractual obligation between us, we may process your information based on your
+explicit consent you have provided (to us or a third-party data controller) for the processing of that
+information.
+---
+Additionally, we may use anonymized information we have collected from you to enable us to display
+advertisements to our advertisers' target audiences. Even though we do not disclose your personal
+information for these purposes without your consent, if you click on or otherwise interact with an
+advertisement, the advertiser may assume that you meet its target criteria.
+---
+Disclosure of personal information
+We will not disclose your personal information to any third parties and we do not share, sell, rent, or trade
+your personal information with third parties for their commercial purposes, however, we reserve the right to
+disclose information about you to third parties to third-parties for assistance in improving the Glam Labs
+products and Services. Additionally, we may disclose personal and non-personally identifiable information
+with third parties service providers, engaged by us to provide technical support, hosting Services, testing,
+network security or statistical Services, any such disclosure will be subject to confidentiality obligations.
+---
+Glam Labs may also disclose information about you to third-parties where we have a good faith belief that
+such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or
+property of Glam Labs, our affiliates or their employees, agents and contractors (including enforcement of
+our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the Glam Labs
+employees, owners, or members of the public; (iii) protect against fraud or for risk management purposes;
+(iv) comply with the law or legal process; or (v) respond to requests from public and government authorities.
+---
+Glam Labs may use third-party payment processor including Stripe, Plaid or other credit card provider
+platforms for payment transactions. Wherever you designate a payment source for transaction processing
+with us through any platform, you are responsible for visiting, understanding and abiding by all terms of
+such platforms and such payment sources.
+---
+Cookies and tracking technologies
+We collect information about you using "cookies." Cookies are small data files stored on your hard drive by a
+Website. The cookies that we use are for authentication purposes (to facilitate your log-in) and session
+cookies (to recognize your preferences while navigating through the Website).
+Usually the information that we collect automatically through cookies is statistical data and cannot be used
+to identify you as an individual. It helps us to improve our App(s), Website and Services and to deliver a
+better and more personalized service.
+Additionally, there might be third party cookies used on our Website by third party advertisers, those
+cookies are not related to your profile, they cannot identify who you are and therefore are not linked to your
+personal data.
+---
+• We restrict access to personal information to employees, contractors and agents who need to know
+that information in order to operate, develop or improve our Services. These individuals are bound by
+confidentiality obligations and may be subject to discipline, including termination, if they fail to meet
+these obligations;
+---
+The safety and security of your information also depends on you. Where we have given you a password for
+access to certain parts of our App, Website or Services, you are responsible for keeping this password
+confidential. We ask you not to share your password with anyone. We urge you to be careful about giving
+out information in public areas of the Website or our Apps or platforms that support or make them available
+or usable, including chats or message boards. The information you share in public areas may be viewed by
+any user of the Website or our Apps or Services.
+---
+Your California privacy rights
+Glam Labs welcomes residents of the State of California to use its App(s), Website and Services, and
+complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident
+you may request certain information regarding our disclosure of personal information to any third parties for
+their direct marketing purposes. Please send a written request to Glam Labs, Inc., 156 2nd St., San Francisco,
+CA 94105
+---
+• To respond to law enforcement requests and as required by applicable law, court order, or
+governmental regulations.
+---
+5. Sharing Personal Information
+We may disclose your personal information to a third party for a business purpose. When we disclose
+personal information for a business purpose, we enter a contract that describes the purpose and requires
+the recipient to both keep that personal information confidential and not use it for any purpose except
+performing the contract.
+We share your personal information with the following categories of third parties:
+•
+Payment processors (e. g. Paypal, Stripe, App Store, etc.) for purposes of payment
+• Google Analytics for Website metrics and Amplitude for App metrics
+•
+Hosting such as Amazon Web Services.
+However, we don't explicitly share any information with web service provider.
+---
+1) Access to Specific Information and Data Portability Rights. You have the right to request that we disclose
+certain information to you about our collection and use of your personal information over the past 12
+months. Once we receive and confirm your verifiable consumer request, we will disclose to you:
+•
+•
+•
+•
+•
+•
+The categories of personal information we collected about you.
+The categories of sources for the personal information we collected about you.
+Our business or commercial purpose for collecting or selling that personal information.
+The categories of third parties with whom we share that personal information.
+The specific pieces of personal information we collected about you (also called a data portability
+request).
+If we sold or disclosed your personal information for a business purpose, two separate lists disclosing: (i)
+sales, identifying the personal information categories that each category of recipient purchased; and (ii)
+disclosures for a business purpose, identifying the personal information categories that each category
+of recipient obtained.
+---
+2) Deletion Request Rights. You have the right to request that we delete any of your personal information
+that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your
+verifiable consumer request, we will delete (and direct our service providers to delete) your personal
+information from our records, unless an exception applies.
+• We may deny your deletion request if retaining the information is necessary for us or our service
+provider(s) to:
+---
+California's "Shine the Light" law (Civil Code Section §1798.83) permits users of our Website that are
+California residents to request certain information regarding our disclosure of personal information to third
+parties for their direct marketing purposes. To make such a request, please e-mail us at:
+contact@glamlabs.app
+---
+United Kingdom (UK GDPR) Compliance
+1. UK GDPR Compliance: If you are located in the United Kingdom, we comply with the United Kingdom
+General Data Protection Regulation (UK GDPR). You have the right to access, rectify, erase, restrict, or
+object to processing of your data and to data portability. To exercise these rights, contact us at
+support@getglam.app.
+2. International Data Transfers – UK: We may transfer your data outside the UK to the US. These transfers
+are protected using Standard Contractual Clauses approved by the UK ICO or other legally approved
+mechanisms.
+---
+Australian Privacy Law Compliance
+1. Cross-Border Disclosure: We may disclose personal data to third-party service providers in the US.
+These disclosures are for operations, transactions, or support. We take reasonable steps to ensure
+compliance with the Australian Privacy Principles.
+---
+Canadian (PIPEDA) Compliance
+1. PIPEDA Compliance: Your data is processed in accordance with Canada's Personal Information
+Protection and Electronic Documents Act (PIPEDA). You have the right to access, correct, withdraw
+consent, and file complaints with https://www.priv.gc.ca.
+2. Data Storage and Consent: Your data may be stored on servers in the US. By using our services, you
+consent to this cross-border transfer.
+---
+Refund Saver and Data Sharing with Apple
+Sharing of Consumption Data for Refunds: If you request a refund for an in-app purchase through Apple's
+App Store, we may provide Apple with certain information regarding your usage of the app and the specific
+in-app purchase. This information may include:
+•
+The time elapsed since installation
+•
+Total time the app was used
+• Anonymous account identifiers
+•
+Whether the in-app purchase was consumed
+•
+Whether a free trial was used
+•
+Total purchase amount
+•
+Total amount previously refunded
+This data is shared solely to help Apple make informed refund decisions and is handled in compliance with
+applicable privacy laws.
+By continuing to use our app, you consent to this data sharing for refund handling purposes. If you wish to
+opt out of this data sharing, please contact us at contact@glamlabs.app.
+---
+Right to Data Portability
+You have the right to:
+•
+Receive your personal data in a structured, commonly used format
+•
+Transmit this data to another service provider
+•
+Request direct transmission where technically feasible
+---
+International Data Transfers
+For transfers of data outside the EEA and Switzerland, we implement the following safeguards:
+1. Standard Contractual Clauses (SCCs)
+•
+•
+EU-approved contractual clauses
+Regular transfer impact assessments
+•
+Additional technical safeguards
+2. Technical Measures
+•
+•
+End-to-end encryption
+Pseudonymization
+•
+Access controls
+•
+Regular security audits

@@ -1,0 +1,58 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We also share such identifiers and other information from your device with our social media, advertising and analytics partners.",
+      "justification": "The privacy policy states data is shared with social media, advertising, and analytics partners. This is considered 'sharing' with third parties and must be declared.",
+      "how_to_fix": "In the Google Play Console, declare that 'App interactions' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We also share such identifiers and other information from your device with our social media, advertising and analytics partners.",
+      "justification": "The privacy policy states data is shared with social media, advertising, and analytics partners. This is considered 'sharing' with third parties and must be declared.",
+      "how_to_fix": "In the Google Play Console, declare that 'Crash logs' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We also share such identifiers and other information from your device with our social media, advertising and analytics partners.",
+      "justification": "The privacy policy states data is shared with social media, advertising, and analytics partners. This is considered 'sharing' with third parties and must be declared.",
+      "how_to_fix": "In the Google Play Console, declare that 'Diagnostics' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We also share such identifiers and other information from your device with our social media, advertising and analytics partners.",
+      "justification": "The privacy policy states data is shared with social media, advertising, and analytics partners. This is considered 'sharing' with third parties and must be declared.",
+      "how_to_fix": "In the Google Play Console, declare that 'Other app performance data' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We also share such identifiers and other information from your device with our social media, advertising and analytics partners.",
+      "justification": "The privacy policy explicitly states that 'identifiers' are shared with social media, advertising, and analytics partners. This is considered 'sharing' with third parties and must be declared.",
+      "how_to_fix": "In the Google Play Console, declare that 'Device or other IDs' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We also share such identifiers and other information from your device with our social media, advertising and analytics partners.",
+      "justification": "The privacy policy explicitly states that 'identifiers' are shared with social media, advertising, and analytics partners. This is considered 'sharing' with third parties and must be declared.",
+      "how_to_fix": "In the Google Play Console, declare that 'User IDs' is shared with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "We use the Replicate server to process facial data. We will save the user's facial image on our own Google server and also upload it to the Replicate server.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states a third-party server is used 'to process' facial data. This indicates the third party is a service provider acting on the developer's behalf, which is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No 'sharing' disclosure is required for this data type. Ensure data collection and purpose are correctly declared.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you use the MLB Properties, we may disclose information that we may collect from you, such as your email (in hashed form), IP address or information about your browser or operating system, with our partner/service provider, LiveRamp Inc and its group companies (“LiveRamp”). LiveRamp may use MLB's first party cookie on your browser to match your disclosed information to LiveRamp's information in order to provide MLB with a pseudonymous identifier MLB uses in certain real time bidding digital advertising transactions. These Other Companies may in turn link further demographic or interest-based information to your browser. You can learn more and opt out of this use here: https://liveramp.com/opt_out/.",
+      "lang": "English"
+    }
+  ]
+}

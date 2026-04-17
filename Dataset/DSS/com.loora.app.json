@@ -1,0 +1,106 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "App functionality, Advertising or marketing, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "App functionality, Developer communications, Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": 0,
+      "purpose": "App functionality, Personalization",
+      "type": "Audio"
+    },
+    {
+      "data": "User payment info",
+      "optional": 0,
+      "purpose": "Fraud prevention, security, and compliance, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "Developer communications, Fraud prevention, security, and compliance, Account management",
+      "type": "Financial info"
+    },
+    {
+      "data": "Emails",
+      "optional": 0,
+      "purpose": "Developer communications, Advertising or marketing, Account management",
+      "type": "Messages"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": 0,
+      "purpose": "App functionality, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Photos",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Precise location",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://loora.ai/Privacy-Policy"
+}

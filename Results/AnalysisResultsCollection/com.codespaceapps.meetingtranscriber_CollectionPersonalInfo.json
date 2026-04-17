@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "The personal data of users collected and used by Company in particular, are as follows: your name and surname, phone number, e-mail address (if you contact us), your order information if you make a purchase; texts, audio records or other data which you have uploaded, sent or transmitted to, or shared with Smart Noter Application (Application) and identifier for advertisers designated in your mobile device used in accessing our services (The Identifier for Advertisers-IDFA), identifier for vendors/developers designated your mobile device (The Identifier for Vendors-IDVF) and Internet Protocol Address-IP Address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "The personal data of users collected and used by Company in particular, are as follows: your name and surname, phone number, e-mail address (if you contact us), your order information if you make a purchase; texts, audio records or other data which you have uploaded, sent or transmitted to, or shared with Smart Noter Application (Application) and identifier for advertisers designated in your mobile device used in accessing our services (The Identifier for Advertisers-IDFA), identifier for vendors/developers designated your mobile device (The Identifier for Vendors-IDVF) and Internet Protocol Address-IP Address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may collect your log data generated while you are using our services/applications (through our products or third party products). This log data may include information such as your device's Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our service/application, the time/date of your use of the service/application, and other statistics.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "4.4. We may also share your personal data where we, in good faith, believe that it is necessary for the purposes of our own or a third party's legitimate interest relating to law enforcement, litigation and/or criminal investigation, provided that we deem that such interest is not overridden by your interests or fundamental rights and freedoms requiring the protection of your personal data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "4.4. We may also share your personal data where we, in good faith, believe that it is necessary for the purposes of our own or a third party's legitimate interest relating to law enforcement, litigation and/or criminal investigation, provided that we deem that such interest is not overridden by your interests or fundamental rights and freedoms requiring the protection of your personal data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "4.4. We may also share your personal data where we, in good faith, believe that it is necessary for the purposes of our own or a third party's legitimate interest relating to law enforcement, litigation and/or criminal investigation, provided that we deem that such interest is not overridden by your interests or fundamental rights and freedoms requiring the protection of your personal data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "4.4. We may also share your personal data where we, in good faith, believe that it is necessary for the purposes of our own or a third party's legitimate interest relating to law enforcement, litigation and/or criminal investigation, provided that we deem that such interest is not overridden by your interests or fundamental rights and freedoms requiring the protection of your personal data.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Our app may use third-party advertising services, such as Google AdMob, to show you ads. These services may collect information about your device and your use of our app, such as your device ID, your IP address, and your advertising ID. This information is used to show you personalized ads that are relevant to your interests.",
+      "lang": "English"
+    }
+  ]
+}

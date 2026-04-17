@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Information we collect automatically. We collect internet, or other electronic network activity information automatically from the devices and browsers that you use, including your IP address, browser type and operating system (including mobile device information, if applicable), errors, performance metrics, and webpage and app interactions. We also collect usage and performance statistics from Expo projects.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Profile Information and Survey Responses, including feedback, company name, website, location, bio, GitHub or Twitter usernames, and survey responses.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Information we collect automatically. We collect internet, or other electronic network activity information automatically from the devices and browsers that you use, including your IP address, browser type and operating system (including mobile device information, if applicable), errors, performance metrics, and webpage and app interactions. We also collect usage and performance statistics from Expo projects.",
+      "lang": "English"
+    }
+  ]
+}

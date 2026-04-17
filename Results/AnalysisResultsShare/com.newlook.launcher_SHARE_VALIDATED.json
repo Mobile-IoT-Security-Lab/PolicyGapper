@@ -1,0 +1,47 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We use analytics service providers Umeng Analytics to better understand how people use our services so that we can improve the design and usability of our products, we do not engage in \"tracking\" users outside of our services. These providers collect IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/IMSI, Installed Application information to provide statistics service, it use location to adjust data report, provides basic anti-cheating capabilities, its privacy policy can be find in https://www.umeng.com/page/policy",
+      "reason_of_removal": "Service Provider Exemption: The policy states Umeng Analytics is used 'to better understand how people use our services so that we can improve... our products' and 'to provide statistics service'. This indicates Umeng is acting as a service provider processing data on the developer's behalf, which is exempt from 'sharing' disclosure.",
+      "justification": "The privacy policy states that 'Installed Application information' is collected by the analytics service provider Umeng.",
+      "how_to_fix": "Declare in the 'Analytics' section of the Google Play Console Data safety form that the app shares 'Installed apps' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We use analytics service providers Umeng Analytics to better understand how people use our services so that we can improve the design and usability of our products, we do not engage in \"tracking\" users outside of our services. These providers collect IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/IMSI, Installed Application information to provide statistics service, it use location to adjust data report, provides basic anti-cheating capabilities, its privacy policy can be find in https://www.umeng.com/page/policy",
+      "reason_of_removal": "Service Provider Exemption: The policy states Umeng Analytics is used 'to better understand how people use our services so that we can improve... our products' and 'to provide statistics service'. This indicates Umeng is acting as a service provider processing data on the developer's behalf, which is exempt from 'sharing' disclosure.",
+      "justification": "The privacy policy states that various device identifiers (IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/IMSI) are collected by the analytics service provider Umeng.",
+      "how_to_fix": "Declare in the 'Analytics' section of the Google Play Console Data safety form that the app shares 'Device or other IDs' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We use analytics service providers Umeng Analytics to better understand how people use our services so that we can improve the design and usability of our products, we do not engage in \"tracking\" users outside of our services. These providers collect IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/IMSI, Installed Application information to provide statistics service, it use location to adjust data report, provides basic anti-cheating capabilities, its privacy policy can be find in https://www.umeng.com/page/policy",
+      "reason_of_removal": "Service Provider Exemption: The policy states Umeng Analytics is used 'to better understand how people use our services so that we can improve... our products' and 'to provide statistics service'. This indicates Umeng is acting as a service provider processing data on the developer's behalf, which is exempt from 'sharing' disclosure.",
+      "justification": "The privacy policy states that identifiers such as 'GUID' are collected by the analytics service provider Umeng, which can be classified as a User ID.",
+      "how_to_fix": "Declare in the 'Analytics' section of the Google Play Console Data safety form that the app shares 'User IDs' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We use analytics service providers Umeng Analytics to better understand how people use our services so that we can improve the design and usability of our products, we do not engage in \"tracking\" users outside of our services. These providers collect IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/IMSI, Installed Application information to provide statistics service, it use location to adjust data report, provides basic anti-cheating capabilities, its privacy policy can be find in https://www.umeng.com/page/policy",
+      "reason_of_removal": "Service Provider Exemption: The policy states Umeng Analytics is used 'to better understand how people use our services so that we can improve... our products' and 'to provide statistics service'. This indicates Umeng is acting as a service provider processing data on the developer's behalf, which is exempt from 'sharing' disclosure.",
+      "justification": "The privacy policy states that the analytics provider uses 'location to adjust data report', implying collection of location data.",
+      "how_to_fix": "Declare in the 'Analytics' section of the Google Play Console Data safety form that the app shares 'Approximate location' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We use analytics service providers Umeng Analytics to better understand how people use our services so that we can improve the design and usability of our products, we do not engage in \"tracking\" users outside of our services. These providers collect IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/IMSI, Installed Application information to provide statistics service, it use location to adjust data report, provides basic anti-cheating capabilities, its privacy policy can be find in https://www.umeng.com/page/policy",
+      "reason_of_removal": "Service Provider Exemption: The policy states Umeng Analytics is used 'to better understand how people use our services so that we can improve... our products' and 'to provide statistics service'. This indicates Umeng is acting as a service provider processing data on the developer's behalf, which is exempt from 'sharing' disclosure.",
+      "justification": "The privacy policy states that the analytics provider uses 'location to adjust data report', implying collection of location data.",
+      "how_to_fix": "Declare in the 'Analytics' section of the Google Play Console Data safety form that the app shares 'Precise location' with third parties.",
+      "lang": "English"
+    }
+  ]
+}
+```

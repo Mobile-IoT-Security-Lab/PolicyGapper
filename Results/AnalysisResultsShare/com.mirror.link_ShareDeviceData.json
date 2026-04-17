@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "For purposes of this Privacy Policy, “non-personal data” means information that does not directly identify you. The types of non-personal data FLAVAPP may collect and use include, but are not limited to: application properties, including, but not limited to application name, package name and icon installed on your device. Your checking (include like, recommendation) of a game will be disclosed to all FLAVAPP users. FLAVAPP may use and disclose to FLAVAPP partners and contractors the collected non-personal data for purposes of analyzing usage of the Services, advertisement serving, managing and providing the Services and to further develop the Services and other FLAVAPP services and products. You recognize and agree that the analytics companies utilized by FLAVAPP may combine the information collected with other information they have independently collected from other services or products relating to your activities. These companies collect and use information under their own privacy policies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Google Analytics is an analysis service provided by Google Inc. Google utilizes the collected data to track and examine the use of FLAVAPP Apps, to prepare reports on user activities and share them with other Google services. Google may use the data to contextualize and personalize the ads of its own advertising network. (http://www.google.com/intl/en/policies/privacy/)",
+      "lang": "English"
+    }
+  ]
+}

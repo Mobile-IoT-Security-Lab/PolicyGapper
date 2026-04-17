@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "User-generated contents (“UGC\"), such as comments, texts, messages, pictures, images, videos, sounds, code or other data or materials that you upload, distribute or stream on the App when you use Bigo Services;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "User-generated contents (“UGC\"), such as comments, texts, messages, pictures, images, videos, sounds, code or other data or materials that you upload, distribute or stream on the App when you use Bigo Services;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "User-generated contents (“UGC\"), such as comments, texts, messages, pictures, images, videos, sounds, code or other data or materials that you upload, distribute or stream on the App when you use Bigo Services;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "User-generated contents (“UGC\"), such as comments, texts, messages, pictures, images, videos, sounds, code or other data or materials that you upload, distribute or stream on the App when you use Bigo Services;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "User-generated contents (“UGC\"), such as comments, texts, messages, pictures, images, videos, sounds, code or other data or materials that you upload, distribute or stream on the App when you use Bigo Services;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Your social network contacts with your permission, when you activate the “Discover Friends\" function and allow us to access your contacts;",
+      "lang": "en"
+    }
+  ]
+}

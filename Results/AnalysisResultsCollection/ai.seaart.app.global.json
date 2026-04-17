@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We use this information: for security and verification purposes; identify and address bugs and assess function for optimize action; solve crashes and optimize compatibility of devices; and to combat users registering for multiple accounts.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We use this information: for security and verification purposes; identify and address bugs and assess function for optimize action; solve crashes and optimize compatibility of devices; and to combat users registering for multiple accounts.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We use this information: for security and verification purposes; identify and address bugs and assess function for optimize action; solve crashes and optimize compatibility of devices; and to combat users registering for multiple accounts.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• information you provide when seeking help from us such as your name, telephone number and records of the issues you experience;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "billing information, such as your name, payment card number and payment account details;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Demographic data (such as to determine the coarse location of your IP address)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Chat Data\nIf you enable chat services (audio or text) then we will process such data in order to deliver your messages to other users.",
+      "lang": "en"
+    }
+  ]
+}

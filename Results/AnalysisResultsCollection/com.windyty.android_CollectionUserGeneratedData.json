@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "Special Note about Content Submissions. The Services may offer areas (community, articles) where you and other users can post or otherwise submit information, photos, videos, graphics, creative suggestions, ideas, notes, concepts, information, ratings, or other materials on or to the Services (collectively, \"Submissions\"). Any geolocation information, tags, or other metadata in such Submissions may become publicly available. Any information, including personal data, in your Submissions can be read, collected and used by others. We cannot control and are not responsible for how others may use the information contained in your Submissions;",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "Special Note about Content Submissions. The Services may offer areas (community, articles) where you and other users can post or otherwise submit information, photos, videos, graphics, creative suggestions, ideas, notes, concepts, information, ratings, or other materials on or to the Services (collectively, \"Submissions\"). Any geolocation information, tags, or other metadata in such Submissions may become publicly available. Any information, including personal data, in your Submissions can be read, collected and used by others. We cannot control and are not responsible for how others may use the information contained in your Submissions;",
+"lang": "en"
+}
+]
+}

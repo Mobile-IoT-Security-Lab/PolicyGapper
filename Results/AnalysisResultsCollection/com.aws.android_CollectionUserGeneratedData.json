@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "Personal information refers to information that identifies specifically who you are, such as your name, e-mail address, or mailing address. We may also ask you for demographic information or other information such as ZIP Code, gender, date of birth and your interests. In many cases we need this information to provide the personalized or enhanced service that you have requested. You may provide us with this personal information if you register with WeatherBug, for a personalized service, submit pictures, video or other user generated content, or participate in a promotion or sweepstakes. We or our affiliates may also derive physical address information and infer other general or precise location-related information from the information collected from mobile devices, such as the stores and other places the device frequents, or usage information for differentiating and/or associating multiple device users as well as associating devices or users with locations such as a household or workplace.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "Personal information refers to information that identifies specifically who you are, such as your name, e-mail address, or mailing address. We may also ask you for demographic information or other information such as ZIP Code, gender, date of birth and your interests. In many cases we need this information to provide the personalized or enhanced service that you have requested. You may provide us with this personal information if you register with WeatherBug, for a personalized service, submit pictures, video or other user generated content, or participate in a promotion or sweepstakes. We or our affiliates may also derive physical address information and infer other general or precise location-related information from the information collected from mobile devices, such as the stores and other places the device frequents, or usage information for differentiating and/or associating multiple device users as well as associating devices or users with locations such as a household or workplace.",
+"lang": "en"
+}
+]
+}

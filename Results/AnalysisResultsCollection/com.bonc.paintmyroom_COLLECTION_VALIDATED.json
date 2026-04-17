@@ -1,0 +1,28 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "The Application collects information when you download and use it for our analytics purposes. This information may include information such as\n• Your device's Internet Protocol address (e.g. IP address)\n• The pages of the Application that you visit, the time and date of your visit, the time spent on those pages\n• The time spent on the Application\n• The operating system you use on your mobile device\n• What actions were made while using the Application\n• Anonymized uploaded images and taken photos in the Application",
+      "justification": "The policy states, \"What actions were made while using the Application\". This corresponds to the 'Other actions' data type.",
+      "how_to_fix": "Declare 'Other actions' (under App activity) as collected in your Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "The Application collects information when you download and use it for our analytics purposes. This information may include information such as\n• Your device's Internet Protocol address (e.g. IP address)\n• The pages of the Application that you visit, the time and date of your visit, the time spent on those pages\n• The time spent on the Application\n• The operating system you use on your mobile device\n• What actions were made while using the Application\n• Anonymized uploaded images and taken photos in the Application",
+      "justification": "The policy states that information like \"pages of the Application that you visit, the time and date of your visit, the time spent on those pages\" is collected for \"analytics purposes,\" which falls under the 'Diagnostics' data type.",
+      "how_to_fix": "Declare 'Diagnostics' as collected in your Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "The Application collects information when you download and use it for our analytics purposes. This information may include information such as\n• Your device's Internet Protocol address (e.g. IP address)\n• The pages of the Application that you visit, the time and date of your visit, the time spent on those pages\n• The time spent on the Application\n• The operating system you use on your mobile device\n• What actions were made while using the Application\n• Anonymized uploaded images and taken photos in the Application",
+      "justification": "The policy explicitly mentions collecting \"Your device's Internet Protocol address (e.g. IP address)\", which is classified as a 'Device or other ID'.",
+      "how_to_fix": "Declare 'Device or other IDs' as collected in your Data Safety form.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

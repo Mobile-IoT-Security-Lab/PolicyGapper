@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "To help you cast your phone's content to TV including videos, photos and music, our service needs to access the local storage of your device. This permission is only used to provide this functionality of our app.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "To help you cast your phone's content to TV including videos, photos and music, our service needs to access the local storage of your device. This permission is only used to provide this functionality of our app.",
+"lang": "en"
+},
+{
+"data_type": "Music files",
+"policy_reference": "To help you cast your phone's content to TV including videos, photos and music, our service needs to access the local storage of your device. This permission is only used to provide this functionality of our app.",
+"lang": "en"
+}
+]
+}

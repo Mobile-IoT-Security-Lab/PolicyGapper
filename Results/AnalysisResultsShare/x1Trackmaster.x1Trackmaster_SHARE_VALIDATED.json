@@ -1,0 +1,157 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "our users\nFor example, to prevent abuse and increase transparency and accountability over our\nonline content moderation practices, Google shares data about requests for removal of\ncontent from our services with Lumen, which collects and analyzes these requests to\nfacilitate research to help Internet users understand their rights. Learn more.",
+      "justification": "The privacy policy states that data about content removal requests is shared with a third party (Lumen) for research purposes, which is not a service provider or other exempt use case.",
+      "how_to_fix": "Declare 'Other user-generated content' as shared in the Data Safety section, specifying the purpose as 'Other'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may share non-personally identifiable information publicly and with our partners —\nlike publishers, advertisers, developers, or rights holders. For example, we share\ninformation publicly to show trends about the general use of our services. We also allow\nspecific partners to collect information from your browser or device for advertising and\nmeasurement purposes using their own cookies or similar technologies.",
+      "justification": "The policy states that specific partners are allowed to collect information from the user's device for their own advertising and measurement purposes, which constitutes sharing with a third party.",
+      "how_to_fix": "Declare 'Device or other IDs' as shared in the Data Safety section for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may share non-personally identifiable information publicly and with our partners — like publishers, advertisers, developers, or rights holders. For example, we share information publicly to show trends about the general use of our services. We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies.",
+      "justification": "The policy states that specific partners are allowed to collect information from the user's device for their own advertising and measurement purposes, which constitutes sharing with a third party.",
+      "how_to_fix": "Declare 'User IDs' as shared in the Data Safety section for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Measure performance\nWe use data for analytics and measurement to understand how our services are used.\nFor example, we analyze data about your visits to our sites to do things like optimize\nproduct design. And we also use data about the ads you interact with, including your\nrelated Google Search activity, to help advertisers understand the performance of their\nad campaigns. We use a variety of tools to do this, including Google Analytics. When you\nvisit sites or use apps that use Google Analytics, a Google Analytics customer may\nchoose to enable Google to link information about your activity from that site or app with\nactivity from other sites or apps that use our ad services.",
+      "reason_of_removal": "Service Provider exemption",
+      "justification": "The policy describes using Google Analytics for internal analytics and measurement on behalf of the developer. This is a service provider use case and is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Measure performance\nWe use data for analytics and measurement to understand how our services are used.\nFor example, we analyze data about your visits to our sites to do things like optimize\nproduct design. And we also use data about the ads you interact with, including your\nrelated Google Search activity, to help advertisers understand the performance of their\nad campaigns. We use a variety of tools to do this, including Google Analytics. When you\nvisit sites or use apps that use Google Analytics, a Google Analytics customer may\nchoose to enable Google to link information about your activity from that site or app with\nactivity from other sites or apps that use our ad services.",
+      "reason_of_removal": "Service Provider exemption",
+      "justification": "The policy describes using Google Analytics for internal analytics and measurement on behalf of the developer. This is a service provider use case and is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain\nadministrator and resellers who manage your account will have access to your Google\nAccount. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Legal Purposes exemption",
+      "justification": "The policy describes sharing with a domain administrator, which includes sharing to satisfy legal obligations or enforceable governmental requests. This is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "For example, to prevent abuse and increase transparency and accountability over our online content moderation practices, Google shares data about requests for removal of content from our services with Lumen, which collects and analyzes these requests to facilitate research to help Internet users understand their rights. Learn more.",
+      "reason_of_removal": "Inconsistent: policy reference does not mention data type",
+      "justification": "The policy reference discusses sharing data about content removal requests but does not explicitly mention sharing the user's 'Name'.",
+      "how_to_fix": "No action needed as the policy does not support this declaration.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Legal Purposes exemption",
+      "justification": "The policy describes sharing with a domain administrator, which includes sharing to satisfy legal obligations or enforceable governmental requests. This is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Legal Purposes exemption",
+      "justification": "The policy describes sharing with a domain administrator, which includes sharing to satisfy legal obligations or enforceable governmental requests. This is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Inconsistent: policy reference does not mention data type",
+      "justification": "The policy reference mentions access to 'information stored in your account, like your email' but does not specifically mention 'SMS or MMS'.",
+      "how_to_fix": "No action needed as the policy does not support this declaration.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Inconsistent: policy reference does not mention data type",
+      "justification": "The policy reference mentions access to 'information stored in your account, like your email' but does not specifically mention 'Other in-app messages'.",
+      "how_to_fix": "No action needed as the policy does not support this declaration.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Legal Purposes exemption",
+      "justification": "The policy describes sharing with a domain administrator, which includes sharing to satisfy legal obligations or enforceable governmental requests. This is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Legal Purposes exemption",
+      "justification": "The policy describes sharing with a domain administrator, which includes sharing to satisfy legal obligations or enforceable governmental requests. This is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Legal Purposes exemption",
+      "justification": "The policy describes sharing with a domain administrator, which includes sharing to satisfy legal obligations or enforceable governmental requests. This is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Legal Purposes exemption",
+      "justification": "The policy describes sharing with a domain administrator, which includes sharing to satisfy legal obligations or enforceable governmental requests. This is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Legal Purposes exemption",
+      "justification": "The policy describes sharing with a domain administrator, which includes sharing to satisfy legal obligations or enforceable governmental requests. This is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Legal Purposes exemption",
+      "justification": "The policy describes sharing with a domain administrator, which includes sharing to satisfy legal obligations or enforceable governmental requests. This is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Legal Purposes exemption",
+      "justification": "The policy describes sharing with a domain administrator, which includes sharing to satisfy legal obligations or enforceable governmental requests. This is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "reason_of_removal": "Legal Purposes exemption",
+      "justification": "The policy describes sharing with a domain administrator, which includes sharing to satisfy legal obligations or enforceable governmental requests. This is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed as this sharing does not require disclosure in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

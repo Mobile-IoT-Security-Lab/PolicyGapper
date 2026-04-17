@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We use your device's location to provide accurate weather forecasts for your area.\n• Purpose: To deliver location-specific weather forecasts.\n•\nData Handling: Location data is not stored or shared with any third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We collect your email address if you register an account to manage shared images within the app.\n•\nData Handling: Email addresses are not shared with any third parties.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "For certain payment transactions, we use the services of Paddle.com Ltd. (\"Paddle.com\") to conduct the payment and invoicing process. If you purchase any of our Services via Paddle.com, the payment process is independently managed by Paddle.com according to its terms, which involves collecting your relevant Personal Information, such as payment details and contact information. You can find Paddle.com's privacy policy at: https://paddle.com/privacy/. We may receive certain Personal Information from Paddle.com, such as your name, email, billing address and purchasing history, to perform our contract with you and based on our legitimate interests in tracking sales data and managing the Services offered to our customers. Paddle.com may also share some of the collected Personal Information, such as a hashed email address or customer identifier, with our affiliates, to validate transactions that occur through affiliate marketing programs.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "For certain payment transactions, we use the services of Paddle.com Ltd. (\"Paddle.com\") to conduct the payment and invoicing process. If you purchase any of our Services via Paddle.com, the payment process is independently managed by Paddle.com according to its terms, which involves collecting your relevant Personal Information, such as payment details and contact information. You can find Paddle.com's privacy policy at: https://paddle.com/privacy/. We may receive certain Personal Information from Paddle.com, such as your name, email, billing address and purchasing history, to perform our contract with you and based on our legitimate interests in tracking sales data and managing the Services offered to our customers. Paddle.com may also share some of the collected Personal Information, such as a hashed email address or customer identifier, with our affiliates, to validate transactions that occur through affiliate marketing programs.",
+      "lang": "English"
+    }
+  ]
+}

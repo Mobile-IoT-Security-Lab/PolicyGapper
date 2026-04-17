@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "• Personal Identification Information: Full name, date of birth, nationality, utility bills, photographs, phone number, home address, password, and/or email.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "• Additional profile information (such as date of birth, gender, location, and preferred language)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "| Application for financing solutions offered by financing providers | We collect your financing information on behalf of the financing provider you choose and send the information to that financing provider to facilitate your application to financing products. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Online Identifiers: Geo location/tracking details, mobile GPS information, browser information , operating system, browser name and version, and/or personal IP addresses",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Online Identifiers: Geo location/tracking details, mobile GPS information, browser information , operating system, browser name and version, and/or personal IP addresses",
+      "lang": "English"
+    }
+  ]
+}

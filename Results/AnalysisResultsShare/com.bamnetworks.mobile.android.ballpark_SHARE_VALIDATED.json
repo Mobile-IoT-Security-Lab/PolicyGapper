@@ -1,0 +1,35 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Other Companies' Cookies and Web Beacons; Network Advertisers; Targeted Advertising. We allow and use select Service Providers and/or Other Companies that may act as third parties as defined under applicable data privacy laws, such as those who deliver advertisements, content, or social networking or which provide other services associated with the MLB Properties, to collect data and/or serve ads. We may also make available certain data you have given to us (e.g., IP address) or that we have collected through third parties or publicly available means to third parties engaged in targeting advertisements on the MLB Properties including for use in accordance with such third party's privacy policy. Network advertisers may use information (not including your name, address, email address or telephone number) about your visits to MLB Properties in order to provide advertisements about goods and services of interest to you. This may happen through permission given to such third parties to set cookies, web beacons or similar technologies in certain locations within the MLB Properties, including but not limited to certain of our emails. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as \"network advertisers.\" A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with the MLB Properties in order to tailor certain advertisements and content delivered within the MLB Properties and on other websites within such network advertiser's ad network. These companies may also use non-cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity including your activities on or off MLB Properties. Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques. You may learn more about network advertising industry practices and opt out of targeted behavioral advertising from many major third party network advertisers and to know your choices about not having this information used by these companies via the information and tools available at http://www.aboutads.info/choices/ and http://www.networkadvertising.org/choices/. You can also make a request that MLB not sell or share your data and opt out of commercial emails by following the Do Not Sell or Share My Personal Data link here.",
+      "justification": "The policy states data about user 'visits' and 'web surfing activity' is shared with 'third parties engaged in targeting advertisements' for use 'in accordance with such third party's privacy policy'. This is not a service provider relationship and constitutes 'sharing' for advertising purposes.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'Web browsing history' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "To facilitate the activity described above and below, we may use Service Providers to convert your email address into a unique code (hashed email address or telephone number), which is then provided to the advertiser, Other Companies, including Other Companies that may act as third parties as defined under applicable data privacy laws, and/or Service Providers as set forth in this Privacy Policy.",
+      "justification": "The policy explicitly states that the user's hashed email address is provided to an 'advertiser' and 'Other Companies that may act as third parties'. This is a clear instance of sharing data with third parties for advertising, which is not exempt.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'Email address' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "To facilitate the activity described above and below, we may use Service Providers to convert your email address into a unique code (hashed email address or telephone number), which is then provided to the advertiser, Other Companies, including Other Companies that may act as third parties as defined under applicable data privacy laws, and/or Service Providers as set forth in this Privacy Policy.",
+      "justification": "The policy explicitly states that the user's hashed telephone number is provided to an 'advertiser' and 'Other Companies that may act as third parties'. This is a clear instance of sharing data with third parties for advertising, which is not exempt.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'Phone number' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you use the MLB Properties, we may disclose information that we may collect from you, such as your email (in hashed form), IP address or information about your browser or operating system, with our partner/service provider, LiveRamp Inc and its group companies (“LiveRamp”). LiveRamp may use MLB's first party cookie on your browser to match your disclosed information to LiveRamp's information in order to provide MLB with a pseudonymous identifier MLB uses in certain real time bidding digital advertising transactions. These Other Companies may in turn link further demographic or interest-based information to your browser. You can learn more and opt out of this use here: https://liveramp.com/opt_out/.",
+      "justification": "The policy describes sharing hashed email addresses with LiveRamp for real-time bidding, which then allows 'Other Companies' to link demographic or interest-based information. This data enrichment for advertising purposes goes beyond a simple service provider function and constitutes 'sharing'.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'Email address' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

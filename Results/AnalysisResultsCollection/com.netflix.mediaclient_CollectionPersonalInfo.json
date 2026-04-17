@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Personal details: When you create your Netflix account, we collect your contact information (such as your email address) and authentication information for your login (such as a password). Depending on how you subsequently set up your account and method of payment, and which features you use, we also collect one or more of the following: first and last name, phone number, postal address, gender, date of birth, and other identifiers you provide to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Personal details: When you create your Netflix account, we collect your contact information (such as your email address) and authentication information for your login (such as a password). Depending on how you subsequently set up your account and method of payment, and which features you use, we also collect one or more of the following: first and last name, phone number, postal address, gender, date of birth, and other identifiers you provide to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment details: We collect your payment details, and other information to process your payments, including your payment history, billing address, and gift cards and promotional offers you have redeemed.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Purchase information: We collect purchase information such as information you provide to us when you make a purchase with Netflix, your purchase history and other products purchased or considered (such as those in your shopping cart), and overall purchase habits.",
+      "lang": "English"
+    }
+  ]
+}

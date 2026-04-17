@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "Information voluntarily provided to us or lawfully obtained by us is our property and we may use it for any lawful purpose, including selling, renting or transferring the information to publishers, advertisers and data aggregators for marketing purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Information voluntarily provided to us or lawfully obtained by us is our property and we may use it for any lawful purpose, including selling, renting or transferring the information to publishers, advertisers and data aggregators for marketing purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "To enhance our services and advertising effectiveness, we use Google Signal (provided by Google). Google Signal collects and analyzes the following types of data to help us optimize ad targeting and user experience:\n• User behavior data: This includes, but is not limited to, user interactions within our product, such as clicks, page views, session duration, and other usage data.\n• Device information: Includes data such as device type, operating system version, IP address, browser type, and similar technical details.\n• Ad interaction data: Includes information related to ad impressions, clicks, conversions, and other metrics used to evaluate the effectiveness of our advertising campaigns.",
+      "lang": "English"
+    }
+  ]
+}

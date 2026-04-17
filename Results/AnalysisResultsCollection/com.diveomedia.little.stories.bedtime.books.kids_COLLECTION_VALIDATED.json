@@ -1,0 +1,28 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Before reading any stories, the parent must specify the name and gender of their child in the Settings menu in order to personalize each story.",
+      "justification": "The privacy policy states that the child's name is collected for story personalization. This data type is collected by the app.",
+      "how_to_fix": "Declare 'Name' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Before reading any stories, the parent must specify the name and gender of their child in the Settings menu in order to personalize each story.",
+      "justification": "The privacy policy states that the child's gender is collected for story personalization. 'Gender' is categorized under 'Other info' in the Data Safety form.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We ask you to allow us to use the microphone on your device ONLY for recording your voice during the voiceover of the story.",
+      "justification": "The privacy policy states the app records the user's voice for story voiceovers. The policy does not explicitly state that this recording is processed only on the device and not sent off-device.",
+      "how_to_fix": "Declare 'Voice or sound recordings' as a collected data type in your app's Data Safety section on Google Play. If this data is only processed on the device, update your privacy policy to explicitly state that.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

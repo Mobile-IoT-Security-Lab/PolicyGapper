@@ -1,0 +1,51 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The app collects anonymous usage statistics to help us improve the app. You can opt-out of this in the app's settings. We do not collect any personal information, and the collected data is not associated with your identity. The data we collect includes anonymous information about the app usage, such as the features you use and the time you spend in the app. This data is aggregated and cannot be used to identify you.",
+      "justification": "The policy states the app 'collects anonymous usage statistics... such as the features you use and the time you spend in the app,' which directly corresponds to the 'App interactions' data type. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'App interactions' as collected in the 'App activity' section of the Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "The app may collect crash reports if it crashes. These reports may contain information about your device and the app's state at the time of the crash. This information is used to diagnose and fix bugs. You can choose to send or not to send crash reports. We use our own servers for crash reports collection, and we do not share this information with any third parties.",
+      "justification": "The policy explicitly states, 'The app may collect crash reports if it crashes... We use our own servers for crash reports collection.' This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Crash logs' as collected in the 'Diagnostics' section of the Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "The app may collect crash reports if it crashes. These reports may contain information about your device and the app's state at the time of the crash. This information is used to diagnose and fix bugs. You can choose to send or not to send crash reports. We use our own servers for crash reports collection, and we do not share this information with any third parties.",
+      "justification": "The policy states that crash reports 'may contain information about your device.' Crash reports commonly include device or other identifiers for debugging purposes. This data is sent off-device with the crash log and is not exempt.",
+      "how_to_fix": "Declare 'Device or other IDs' as collected in the 'Device or other IDs' section of the Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you contact us via email for support or feedback, we will have your email address and any information you provide in your message. We use this information solely to communicate with you and address your inquiry. We do not use your email for marketing or share it with third parties.",
+      "justification": "The policy states, 'If you contact us via email for support or feedback, we will have your email address.' Data provided by users for customer support is considered collected and must be declared.",
+      "how_to_fix": "Declare 'Email address' as collected in the 'Personal info' section of the Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "When you make a donation to support the project, your payment is processed by a third-party payment processor (e.g., Google Play, Stripe, PayPal). We do not receive or store your payment information, such as credit card numbers. The payment processor's privacy policy will apply to your donation.",
+      "justification": "The policy mentions that payments are 'processed by a third-party payment processor'. Even if the developer does not directly receive sensitive payment details, Google Play considers data collected by third-party services on the app's behalf as 'collected' by the app.",
+      "how_to_fix": "Declare 'User payment info' and/or 'Purchase history' as collected in the 'Financial info' section of the Google Play Console Data Safety form.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "If you have any questions or suggestions, please contact us at legal@organicmaps.app.",
+      "reason_of_removal": "Inconsistent: Policy reference is a contact email, not a statement of data collection from the user.",
+      "justification": "The policy text 'please contact us at legal@organicmaps.app' provides a contact method for users. It does not state that the app collects the content of user emails.",
+      "how_to_fix": "No action needed as this data type is not collected by the app according to the provided policy text. The finding was based on a misinterpretation of the policy.",
+      "lang": "en"
+    }
+  ]
+}
+```

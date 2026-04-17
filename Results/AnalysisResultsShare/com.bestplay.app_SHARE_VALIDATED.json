@@ -1,0 +1,76 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We and our advertising partners also use the information collected, including your personal data, for marketing/advertising purposes.\nFor this purpose the following data: GAID / IDFA, IP address, location / time zone and locale settings (country and preferred language), carrier,\noperating system, network connection type and speed, device properties related to screen size and orientation, audio volume and battery, device\nmemory usage, Internet browser user-agent used to access the services, device make, model and operating system are processed by us and such\nadvertising partners.",
+      "justification": "The policy states data (GAID/IDFA, device properties) is processed by 'advertising partners' for 'marketing/advertising purposes'. This constitutes sharing with a third party for its own purposes and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare in the Google Play Console that 'Device or other IDs' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We and our advertising partners also use the information collected, including your personal data, for marketing/advertising purposes.\nFor this purpose the following data: GAID / IDFA, IP address, location / time zone and locale settings (country and preferred language), carrier,\noperating system, network connection type and speed, device properties related to screen size and orientation, audio volume and battery, device\nmemory usage, Internet browser user-agent used to access the services, device make, model and operating system are processed by us and such\nadvertising partners.",
+      "justification": "The policy states advertising identifiers (GAID/IDFA), which can be classified under User IDs in this context, are processed by 'advertising partners' for 'marketing/advertising purposes'. This is considered sharing and is not exempt.",
+      "how_to_fix": "Declare in the Google Play Console that 'User IDs' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We and our advertising partners also use the information collected, including your personal data, for marketing/advertising purposes.\nFor this purpose the following data: GAID / IDFA, IP address, location / time zone and locale settings (country and preferred language), carrier,\noperating system, network connection type and speed, device properties related to screen size and orientation, audio volume and battery, device\nmemory usage, Internet browser user-agent used to access the services, device make, model and operating system are processed by us and such\nadvertising partners.",
+      "justification": "The policy states 'location / time zone' data is processed by 'advertising partners' for 'marketing/advertising purposes'. This is considered sharing with a third party for its own purposes and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare in the Google Play Console that 'Approximate location' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We and our advertising partners also use the information collected, including your personal data, for marketing/advertising purposes.\nFor this purpose the following data: GAID / IDFA, IP address, location / time zone and locale settings (country and preferred language), carrier,\noperating system, network connection type and speed, device properties related to screen size and orientation, audio volume and battery, device\nmemory usage, Internet browser user-agent used to access the services, device make, model and operating system are processed by us and such\nadvertising partners.",
+      "justification": "The policy states 'location' data is processed by 'advertising partners' for 'marketing/advertising purposes'. Since the precision is not specified, it must be declared. This is considered sharing with a third party for its own purposes and is not exempt.",
+      "how_to_fix": "Declare in the Google Play Console that 'Precise location' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We (as well as third party providers engaged by us) also use the information collected, including your personal data, for the purpose of marketing and\nimproving our Apps. For this purpose your personal data, such as the IP address, the 'Advertising Identifier' (IDFA) or 'Google Advertising Identifier'\n(GAID) as well as further use data is used.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is used by 'third party providers engaged by us' for the purpose of 'improving our Apps'. This indicates a service provider relationship where the third party processes data on the developer's behalf.",
+      "how_to_fix": "No action is required for this declaration as it falls under the service provider exemption for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We (as well as third party providers engaged by us) also use the information collected, including your personal data, for the purpose of marketing and\nimproving our Apps. For this purpose your personal data, such as the IP address, the 'Advertising Identifier' (IDFA) or 'Google Advertising Identifier'\n(GAID) as well as further use data is used.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states 'further use data' is used by 'third party providers engaged by us' for 'improving our Apps'. This indicates a service provider relationship where the third party processes data on the developer's behalf.",
+      "how_to_fix": "No action is required for this declaration as it falls under the service provider exemption for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "If you are using additional paid options in our App we may ask for your full name and address details. However, please note that we do not process\nyour payment data and bank account details but use external providers that handle the payments.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states that 'external providers... handle the payments'. Payment processors are considered service providers processing data on the developer's behalf to fulfill a service.",
+      "how_to_fix": "No action is required for this declaration as it falls under the service provider exemption for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "If you are using additional paid options in our App we may ask for your full name and address details. However, please note that we do not process\nyour payment data and bank account details but use external providers that handle the payments.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states that 'external providers... handle the payments'. Payment processors are considered service providers processing data on the developer's behalf to fulfill a service.",
+      "how_to_fix": "No action is required for this declaration as it falls under the service provider exemption for sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "If you are using additional paid options in our App we may ask for your full name and address details. However, please note that we do not process\nyour payment data and bank account details but use external providers that handle the payments.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that 'external providers... handle the payments'. Payment processors are considered service providers processing data on the developer's behalf to fulfill a service.",
+      "how_to_fix": "No action is required for this declaration as it falls under the service provider exemption for sharing.",
+      "lang": "English"
+    }
+  ]
+}
+```

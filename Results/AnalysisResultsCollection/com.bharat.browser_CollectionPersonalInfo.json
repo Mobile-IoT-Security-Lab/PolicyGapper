@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Personal information is defined as information that can be used to identify you and may include details such as your name, age, gender, contact information, products and services you are interested in or require more information about. Insofar as sensitive personal information is concerned, it will carry the meaning as may be defined by applicable laws from time to time.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Personal information is defined as information that can be used to identify you and may include details such as your name, age, gender, contact information, products and services you are interested in or require more information about. Insofar as sensitive personal information is concerned, it will carry the meaning as may be defined by applicable laws from time to time.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "D. Location Services: The Super Browser Mini Application, its licensees and agents, may access, collect and analyse your usage of Super Browser Mini Application and other information related to your location on a regular basis through Bluetooth and Wi-Fi signals and other technologies and data for the performance of the services provided by the Super Browser Mini Application and to help improve the design, functionality, performance, and content of Super Browser Mini Application. In order to collect geo-location information, the location settings must be enabled on your Device. Therefore, in some cases, Super Browser Mini Application may request that you enable the location settings. Except in cases where any specific services requested by you require or involve personal identification, Super Browser Mini Application collects location data anonymously and in a form that does not personally identify you. By using the Super Browser Mini Application, you agree and consent to transmission, collection, maintenance; processing and use of your location data and queries to provide and improve such services of Super Browser Mini Application App.",
+      "lang": "English"
+    }
+  ]
+}

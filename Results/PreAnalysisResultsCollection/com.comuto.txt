@@ -1,0 +1,10 @@
+Why is this verification required? Something about the behaviour of the browser has
+caught our attention.
+---
+There are various possible explanations for this:
+- you are browsing and clicking at a speed much faster than expected of a human
+being
+- something is preventing Javascript from working on your computer
+- there is a robot on the same network (IP 87.21.134.87) as you
+---
+ID: 0e330a82-dcfa-da57-8d33-e36f6603e1ed

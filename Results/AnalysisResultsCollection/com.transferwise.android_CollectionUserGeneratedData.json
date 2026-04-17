@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "This may include information you give us when you register for an Account, use our Services, or correspond with us by phone, email or otherwise. This information may include your name, address, email address, phone number, date of birth, national insurance number, a photograph or other image of you, your signature, copies of your identity documents and other information you provide to create an Account and use our Services.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may also collect information from your device, including, for example, your device’s location, and information about your contacts, calendar, and photos, with your consent.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "This may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use, your login information, products you viewed or searched for, your marketing preferences, your survey responses, information you provide to our support team, your social media account information, your voice, when you contact our support team, and other information from your interaction with us.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "We may also collect information from your device, including, for example, your device’s location, and information about your contacts, calendar, and photos, with your consent.",
+      "lang": "en"
+    }
+  ]
+}

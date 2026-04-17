@@ -1,0 +1,316 @@
+1.2 Data collected and shared automatically
+1.IP address: Collects device's IP address, which may be used to estimate
+the general location of a device.
+2.User product interactions: Collects user product interactions and
+interaction information, including app launch, taps, and video views.
+3.Diagnostic information: Collects information related to the performance
+of your app and the SDK, including crash logs, app launch time, hang rate,
+and energy usage.
+---
+All of the user data collected by Google Mobile Ads SDK is encrypted in
+transit using the Transport Layer Security (TLS) protocol.
+---
+1.4 Who do we share your data with?
+We do not share your information with any third parties, except where we
+need to in order to provide the service (e.g., use SMS service providers for
+account validation; for mapping services; for other point-of-interest
+services; using our affiliates around the world to help us to deliver Vone ) or
+if we are instructed to by a court, authority or compelled by law. We use
+these third party services solely to process or store your information for
+the purposes described in this policy. Any third party (selected by us) with
+whom we share user data is required to provide the same or equal
+protection of user data as stated in this policy.
+---
+1.5 Where do we process your data?
+Our servers are located in Hongkong. We also have support, engineering
+and other teams that support the provision of Vone to you, located around
+the world. Your data may be accessed from such locations. Rigorous
+--- [PAGE BREAK] ---
+Please note that this privacy policy does not apply to information that you
+choose to disclose or submit to:
+(a) Services other than Vone to which this privacy policy applies (e.g. other
+products or services provided or operated by us or our associated
+companies); and;
+(b) Any third party services (including any third party websites) that you can
+access through Vone; or
+(c) A company or organization that promotes or provides products or
+services on Vone .
+--- [PAGE BREAK] ---
+1. "Location data" Is information derived from your GPS, Wi-Fi, compass,
+accelerometer, IP address, or public post that contains location
+information.Location information will be disclosed to us or other users, or
+both, when:
+• When you use location-based features (such as "People Nearby", "Live
+Nearby", "Nearby News", "Add Location to Published Content", etc.) and
+share your location with other Vone users. If you refuse to provide this
+information, you will not be able to use the above features normally;
+--- [PAGE BREAK] ---
+4. "Share information" It refers to the information about or related to you
+that you voluntarily share on Vone .Shared information may include your
+VoneContent published on (including personal data disclosure, lists you
+create, and photos, videos, or recordings accessed through your device's
+camera and / or microphone sensors with your prior consent), any content
+you republish that has been published by others, and location data and log
+data associated with such publications.Shared information also includes
+information about you (including location data and log data) shared by
+others who are using Vone .
+--- [PAGE BREAK] ---
+4. Shared information - profile data. Any information you include in your
+publicly visible Vone profile may include your profile ID, name and photo.
+Legal basis (EEA) It is necessary to fulfill the contract we signed with you
+to provide your Vone personal data and provide Vone services.
+---
+5. Shared information - profile media. This kind of information includes all
+the information you provide to other users through Vone, including: Vone
+circle of friends and video dynamic posts, and responses to other users'
+Vone circle of friends and video dynamic posts; Another user uses the
+--- [PAGE BREAK] ---
+friends, video updates, and using Vone to communicate with you and others.
+---
+7. Chat data. What you communicate with another user or group of
+users.This data is stored on your device and on the device of the user to
+whom you send communications.We don't store this information
+permanently on our servers, we just transmit it through our servers to
+distribute it to the users you choose to send communications to. Legal
+basis (EEA) It is necessary to fulfill the contract we signed with you to
+provide Vone chat service.
+--- [PAGE BREAK] ---
+10. Location information. See definition above. Legal basis (EEA) It is
+necessary for us to fulfill the contract we signed with you to provide Vone
+location related services.Please note that if you use products and services
+that require location information.
+• Reason:For security, fraud detection, and account management
+purposes (for example, to ensure that your account does not have
+multiple or suspicious logins); Provide you with the location-based
+services you choose to use: Share location (when you choose to share
+your location with other users during the chat process); Nearby people,
+floating bottles (these are location-based services, you can choose to
+use these services to disclose your approximate location within a limited
+period of time, and you can choose to clear these location data at any
+time); Search (if you use Vone to search, the service will use your
+location to provide you with relevant local information); Provides
+languages and custom locations.Please note that we only use this
+information within vone to provide you with the above-mentioned
+security and anti-fraud services, share your location with friends, match
+nearby users/live broadcasts/dynamics, etc. This information is sensitive
+information and only your approximate location will be obtained instead
+of your precise real-time location, and we will not share your location
+information with third parties.
+---
+12. Device data. Media stored on your device. Legal basis (EEA) It is
+necessary to fulfill the contract we signed with you to provide Vone
+services.
+• Reason:Promote the sharing of this media through Vone.
+--- [PAGE BREAK] ---
+logging in to Vone through your social media account. If you publish
+content in your circle of friends or video dynamics and you choose to
+share it with an authenticated third-party social media account, Vone
+will help.
+---
+14. Investigation. If you decide to participate in the survey, we will ask you
+for some personal information.We may engage a service provider to
+conduct these surveys and will let you know before you complete the
+survey. Legal basis (EEA) We will collect this information after obtaining
+your consent.
+---
+16. Kana and aggregate data. We will anonymize and aggregate certain
+personal information to improve our services Legal basis (EEA) It is in our
+legitimate interest to ensure the safety of our services, manage registration
+and improve our services.
+• Reason:Analyze the function or operation obtained and used in the
+application to improve the application experience Fraud detection and
+account security analysis Conduct user demographic analysis (e.g.,
+region, mobile phone model, operating system platform, system
+language and Vone version) for multiple projects to better understand
+how our users use Vone The network and account traffic statistics of
+the content and service used by users to access third-party services
+through Vone open platform are carried out, so as to report the basic
+--- [PAGE BREAK] ---
+17. Personal information in your content
+• If any of your personal information constitutes your content (see the
+《Vone terms of service》), we and our associated companies may
+(subject to this Privacy Policy) use this type of personal information in
+the "your content" section of the 《Vone terms of service》.
+---
+2.4 Who do we share your information with?
+We will not transfer your personal information to any other third party
+unless otherwise specified below or you agree to do so.
+Only if necessary, we will share your information with selected recipients
+with a legal basis and effective jurisdiction to request such data. The
+categories of these recipients include:
+• Government, public sector, regulatory, judicial and law enforcement
+agencies or agencies:In some cases, we are required by law to disclose
+information (including performing legal obligations or procedures, such as
+court orders, subpoenas or other legal writs, or enforcing our terms, dealing
+with matters related to security or fraud, or protecting our users), but only
+the requester with effective jurisdiction can obtain your personal
+information;
+• Related companies: we will share your personal information in our
+company for the following purposes. The company runs Vone of Hongkong
+server HAPPY SYSTEM LIMITED:
+• To provide you with Vone, help us achieve the above_"How we use your
+information"_To perform our obligations and exercise our powers in
+accordance with the Vone terms of service or this privacy policy;
+• If we or our affiliated companies carry out internal restructuring, or we
+sell Vone or any of its assets to a third party, the subject of subsequent
+operation of Vone may no longer be us. In this case, we will transfer your
+information accordingly so that you can continue to use the service;
+• Service providers: service providers that assist us to provide, improve or
+promote other products or functions through our services. Service
+--- [PAGE BREAK] ---
+telephone service card processing and verification, and translation service
+providers.We will also hire service providers in your region to help speed up
+the delivery of content to you with the help of acceleration points and
+content delivery networks; and provide location and map data.Any third-
+party service provider (selected by us) with whom we share user
+information must provide the same or the same level of user information
+protection standards as described in this policy; and it is prohibited to
+retain, use or disclose your information (unless it is necessary to provide
+services to us);
+• A third party that acquires us or all or most of our business.When we sell
+or acquire any business, enter into a merger, form a partnership, or sell part
+or all of our assets, we may disclose your information to potential buyers of
+the business.In such cases, we will always require potential buyers to
+comply with this privacy policy.
+---
+1. Sharing information
+Vone enables you to publicly share certain information with your Vone
+contacts and other Vone users. You can always unselect "allow me to find
+me through Twitter, line or facebook" in your account settings to hide your
+personal data, so as to avoid public viewing and searching. This means that
+other Vone users will not be able to find you. We refer to these types of
+information as shared information. As long as you or users who have shared
+it retain it, the shared information will remain publicly visible.Even after you
+delete the shared information, other users or third parties that are not
+affiliated with us and are not under our control may cache, copy, store, or
+keep it public separately.
+If you have requested us to erase our published personal information for
+you and there are reasons for erasing it, we will take reasonable steps to
+try to tell other people who currently display your personal information or
+provide links to it to erase it as well.
+--- [PAGE BREAK] ---
+3. Sensitive personal information
+In some jurisdictions, certain types of personal information (for example,
+about your race or ethnic origin, religious or philosophical views, or
+personal health information) can be classified as "sensitive information" or
+more strictly controlled than other types of personal information.Please
+note that the content and information you enter into Vone (such as photos
+or information about your school or social activities) may reveal your
+sensitive personal information to others.
+Before you exchange any personal information of a sensitive nature in Vone,
+consider whether it is appropriate to do so.
+By publishing any sensitive personal information in Vone, you agree that you
+will provide such information within the control you select (for example, to
+the audience you select to view your post or profile information).
+--- [PAGE BREAK] ---
+2.7 How to share your data outside of Vone
+Some Vone related features allow you to provide shared information to
+audiences outside the Vone Network - for example, publicly accessible
+blogs and forums, or certain social media features in Vone allow you to
+republish and disclose shared information.If you use these features to
+share information, it may be read or used by third parties not related to us.
+You can also associate your Vone contact list with the contact list on your
+device and / or in the third-party service account to search for and
+establish contact with the same Vone account in these contact lists.Prior to
+that, Vone will ask for your permission to access your contact list.
+---
+2.8 Using Vone to access and import information
+Vone allows you to associate Vone services with selected third-party social
+media services and import certain content and information from these
+third-party services. For example:
+• You can share content on Vone or log in to Vone using services provided
+by a third party. These third-party services validate you and give you the
+option to share certain personal information with us. They may also offer
+--- [PAGE BREAK] ---
+• You can sign in to Vone using other registration services, such as
+providers. These registration services verify your identity and provide you
+with the option to share certain personal information, such as your name
+and email address, with us for account registration and login purposes; and
+• Vone may provide you with links or features (via banner ads, pop-up
+windows, or other means in Vone) to access third-party services or
+websites (or Vone content hosted in those third-party services or
+websites).For example, you can access videos hosted by a third party
+without leaving the Vone application.
+• Third party social media platforms are hosted by relevant third
+parties. The Vone service is hosted by us. Third parties providing third-party
+services may collect your information (including your personal information
+and log data) and set cookies on your computer or device to make these
+functions work properly.
+• Your use of any third party services (social media services or other
+services), including any personal information provided by you to such third
+parties, as well as their collection and use of your personal information, are
+subject to the relevant third party's own terms of service and privacy
+policies, not the Vone terms of service》 Or this privacy policy, so please
+check these third party terms carefully.
+However, please note that if you ask us not to share this information with
+third parties, you may no longer be able to use the corresponding services
+or functions. We are not responsible for any information provided to you by
+any third party.
+--- [PAGE BREAK] ---
+2.10 Where do we process your data?
+1. Vone will transfer the personal information collected from you to the
+following locations and store or process the information:
+--- [PAGE BREAK] ---
+4. Personal information and profile media (accessible to all users)
+○ Period: Until you request to delete or revise your personal
+information, or your account number is deleted, whichever is earlier
+(however, data cached in third-party services may still be available).
+---
+5. Personal information (all users can view)
+○ Period: Until you request to delete or revise your personal
+information, or your account number is deleted, whichever is earlier
+(however, data cached in third-party services may still be available).
+---
+6. Other account security
+○ Period: Until you request to delete or revise your personal
+information, or your account is deleted, whichever is earlier (however,
+data cached in third party services may still be available).
+--- [PAGE BREAK] ---
+11. Trends and collections -- data and media
+○ Period: Until you request to delete or revise your personal
+information, or your account number is deleted, whichever is earlier
+(however, data cached in third-party services may still be available).
+---
+12. Personal facial information
+○ Period: Until you request to delete or revise your personal
+information, or your account number is deleted, whichever is earlier
+(however, data cached in third-party services may still be available).
+--- [PAGE BREAK] ---
+1. Access and correction
+Vone will provide you with information on your request to tell you whether
+we hold any of your personal information. You also have the right to access
+our personal information about you and to know how we use them and with
+whom we share them.In addition, you have the right to correct the
+information.
+---
+For a correction request, if we agree that the relevant personal information
+is inaccurate or incomplete, we will try to tell any third party to whom we
+have disclosed such relevant personal information so that they can also
+correct the personal information.
+--- [PAGE BREAK] ---
+If you have requested us to erase our published personal information for
+you and there is a reason to erase it, we will take reasonable steps to try to
+tell other people who currently display your personal information or provide
+links to it to also erase it.
+---
+If we agree to stop processing personal information, we will try to tell any
+third party to whom we have disclosed such relevant personal information
+so that they can also stop processing the personal information.
+--- [PAGE BREAK] ---
+4. Portability
+You are entitled to receive copies of certain personal information we
+collect from you. Process your personal information (including any personal
+information you choose to post, including personal data) according to our
+personal data collection (including any personal information you choose to
+publish, including personal data) according to our privacy policy. You have
+the right to receive this information in a structured, commonly used and
+machine recognizable format. You also have the right to ask us to transmit
+these personal information to the other party.
+If you want us to transfer personal information to a third party, please make
+sure to specify the recipient in detail.Please note that we will only do so if it
+is technically feasible.When a third party receives personal information, we
+are no longer responsible for its security or handling.We may also not
+provide certain personal information to you if it interferes with the rights of
+another party (for example, providing personal information we hold about
+you may reveal information about another person or our trade secrets or
+intellectual property rights).

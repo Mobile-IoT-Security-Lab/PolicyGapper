@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "d. User content. This refers to the data that we collect when you: • • • Contact Uber for customer support or other inquiries. Use features that enable you to create Lists or reviews of restaurants or merchants Upload photos and recordings (including those submitted for purposes of customer support) • Provide ratings or feedback for drivers, delivery people, restaurants or • Chat logs and call recordings • Ratings or feedback • User created Lists or reviews of • restaurants or merchants Uploaded photos and recordings, including in-app audio recordings",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may also allow others to provide audience measurement and analytics services for us, to serve ads on our behalf across the internet or for other companies' products and services on our apps, and to track and report on the performance of those ads. These entities may use cookies, web beacons, SDKs and other technologies to identify the devices used by visitors to our websites, as well as when they visit other online sites and services.",
+      "lang": "English"
+    }
+  ]
+}

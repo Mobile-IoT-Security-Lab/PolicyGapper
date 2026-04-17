@@ -1,0 +1,108 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data” or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics. In most cases, this data will not include Personal Data, however we treat this information as Personal Data as we may be able to reasonably identify you.",
+      "justification": "The policy states that in case of an app error, data such as app configuration, time and date of use, and other statistics are collected and sent to third-party service providers.",
+      "how_to_fix": "Declare 'App interactions' as 'collected' in the 'App activity' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "When you install our App, we may collect information from your device, that may include a list of your installed Apps. This data may contain identity information and therefore we treat it as Personal Data.",
+      "justification": "The policy explicitly states, 'we may collect information from your device, that may include a list of your installed Apps.' This data is sent off-device.",
+      "how_to_fix": "Declare 'Installed apps' as 'collected' in the 'App info and performance' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "The Advertisers are advertising Service Providers. Their targeted advertising SDKs collect information about your browsing activity across multiple websites and online services in order to provide you with relevant advertisements on the App and Services of third parties. The information collected using these advertising SDK does not disclose your identity, and helps us analyze the effectiveness of our advertising.",
+      "justification": "The policy states that third-party advertising SDKs collect information about browsing activity across websites, which is sent off-device for advertising purposes.",
+      "how_to_fix": "Declare 'Web browsing history' as 'collected' in the 'App activity' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data” or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics. In most cases, this data will not include Personal Data, however we treat this information as Personal Data as we may be able to reasonably identify you.",
+      "justification": "The policy explicitly states that 'Crash Data' is collected in case of an app error and sent to third-party service providers.",
+      "how_to_fix": "Declare 'Crash logs' as 'collected' in the 'App info and performance' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data” or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics. In most cases, this data will not include Personal Data, however we treat this information as Personal Data as we may be able to reasonably identify you.",
+      "justification": "The policy states that data related to app errors, including device information and usage statistics, is collected and sent to third-party service providers for diagnostic purposes.",
+      "how_to_fix": "Declare 'Diagnostics' as 'collected' in the 'App info and performance' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data” or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics. In most cases, this data will not include Personal Data, however we treat this information as Personal Data as we may be able to reasonably identify you.",
+      "justification": "The policy states that data such as usage time, date, and other statistics are collected and sent to third-party service providers to analyze app performance.",
+      "how_to_fix": "Declare 'Other app performance data' as 'collected' in the 'App info and performance' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data” or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics. In most cases, this data will not include Personal Data, however we treat this information as Personal Data as we may be able to reasonably identify you.",
+      "justification": "The policy states that 'Log Data' or 'Crash Data' is collected and sent off-device, and this data may include the device's IP address and device name.",
+      "how_to_fix": "Declare 'Device or other IDs' as 'collected' in the 'App info and performance' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information. This information will be processed for the purpose of performing our contract with you, to set up your account with us and enable you to use our Services. In addition, we may process your Personal Data for our legitimate interests, for example, to send you marketing and promotional messages and offers related to our Services. You are able to unsubscribe from receiving such correspondence from us by contacting us at: support.cameraendoscope@onemusicplayer.com Please note that if you choose to unsubscribe from direct marketing, we may still retain your contact details and send you relevant service-related information such as invoices and subscription rates.",
+      "justification": "The policy states that 'full name' is collected during the account registration process. This data is sent off-device to create and manage the user account.",
+      "how_to_fix": "Declare 'Name' as 'collected' in the 'Personal info' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information. This information will be processed for the purpose of performing our contract with you, to set up your account with us and enable you to use our Services. In addition, we may process your Personal Data for our legitimate interests, for example, to send you marketing and promotional messages and offers related to our Services. You are able to unsubscribe from receiving such correspondence from us by contacting us at: support.cameraendoscope@onemusicplayer.com Please note that if you choose to unsubscribe from direct marketing, we may still retain your contact details and send you relevant service-related information such as invoices and subscription rates.",
+      "justification": "The policy states that 'email address' is collected during the account registration process. This data is sent off-device to create and manage the user account.",
+      "how_to_fix": "Declare 'Email address' as 'collected' in the 'Personal info' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information. This information will be processed for the purpose of performing our contract with you, to set up your account with us and enable you to use our Services. In addition, we may process your Personal Data for our legitimate interests, for example, to send you marketing and promotional messages and offers related to our Services. You are able to unsubscribe from receiving such correspondence from us by contacting us at: support.cameraendoscope@onemusicplayer.com Please note that if you choose to unsubscribe from direct marketing, we may still retain your contact details and send you relevant service-related information such as invoices and subscription rates.",
+      "justification": "The policy states that a 'username and password' are supplied for the user's account, which are types of User IDs sent off-device for account management.",
+      "how_to_fix": "Declare 'User IDs' as 'collected' in the 'Personal info' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "In-App Payment Information: When you make a payment through our App and offered Services, all payments are in-app payments and are subject to the applicable App Store terms and privacy policy. Google Terms of Service Google Privacy Policy App Store Terms of Use App Store Privacy Policy We use in app payment processors; the registration and payment information are solely processed by the applicable app store provider. We do not store nor process any Personal Data when you process the payment. We receive an order number which is connected to a user ID which was generated when installing the app (non identifiable).",
+      "justification": "The policy states, 'We receive an order number which is connected to a user ID'. An order number is a form of purchase history that is sent to the developer from the app store.",
+      "how_to_fix": "Declare 'Purchase history' as 'collected' in the 'Financial info' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Contact Information: If you voluntarily contact us, you may be required to provide us with certain information such as your name, job title, company name, email address (\"Contact Information\") and any additional information you decide to share with us.",
+      "justification": "The policy states that if a user voluntarily contacts the developer, the information provided, including the content of the communication, is collected.",
+      "how_to_fix": "Declare 'Emails' as 'collected' in the 'Messages' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "GPS Location Information: Certain features may require access to your GPS location permissions. In addition, in certain features we will use your \"Access Fine Location\" permission in the background while you are using the App so that we are able to locate the wifi networks and connection to provide the Services. This information will be processed for the purpose of providing the Services. In addition, we will use your Fine Access Location in order to offer you different WIFI networks depend on your location. Please note that this information can run in the background of your mobile device, and show you an applicable list of WIFI networks. You may choose to block your background location through your device setting. Further we wish to clarify that we do not store any GPS Location Information on our servers and any processing activity shall be done solely on your device.",
+      "reason_of_removal": "On-device processing",
+      "justification": "The policy explicitly states, 'we do not store any GPS Location Information on our servers and any processing activity shall be done solely on your device,' which qualifies it for the on-device processing exemption.",
+      "how_to_fix": "No action needed, this data type is exempt from declaration as 'collected'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "GPS Location Information: Certain features may require access to your GPS location permissions. In addition, in certain features we will use your \"Access Fine Location\" permission in the background while you are using the App so that we are able to locate the wifi networks and connection to provide the Services. This information will be processed for the purpose of providing the Services. In addition, we will use your Fine Access Location in order to offer you different WIFI networks depend on your location. Please note that this information can run in the background of your mobile device, and show you an applicable list of WIFI networks. You may choose to block your background location through your device setting. Further we wish to clarify that we do not store any GPS Location Information on our servers and any processing activity shall be done solely on your device.",
+      "reason_of_removal": "On-device processing",
+      "justification": "The policy explicitly states, 'we do not store any GPS Location Information on our servers and any processing activity shall be done solely on your device,' which qualifies it for the on-device processing exemption.",
+      "how_to_fix": "No action needed, this data type is exempt from declaration as 'collected'.",
+      "lang": "English"
+    }
+  ]
+}
+```

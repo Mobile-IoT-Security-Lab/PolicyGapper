@@ -1,0 +1,42 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states that in case of an app error, 'Log Data' is collected. This is the definition of 'Crash logs'. The data is collected and sent off-device via third-party products.",
+      "how_to_fix": "Declare 'Crash logs' as collected in your app's Data Safety section, likely for 'App functionality' and 'Analytics' or 'App performance' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy describes collecting 'Log Data' containing device name, OS version, app configuration, and other statistics for error analysis. This falls under the 'Diagnostics' data type. The data is sent off-device.",
+      "how_to_fix": "Declare 'Diagnostics' as collected in your app's Data Safety section, likely for 'App functionality' and 'Analytics' or 'App performance' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the a when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states that collected 'Log Data' includes 'the configuration of the app when utilizing my Service' and 'the time and date of your use of the Service'. This information about user activity within the app qualifies as 'App interactions'.",
+      "how_to_fix": "Declare 'App interactions' as collected in your app's Data Safety section, likely for 'App functionality' and 'Analytics' or 'App performance' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy's description of collecting 'Log Data' with device and usage statistics in case of an error is a clear example of collecting 'Other app performance data'. The data is sent off-device.",
+      "how_to_fix": "Declare 'Other app performance data' as collected in your app's Data Safety section, likely for 'App functionality' and 'Analytics' or 'App performance' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy explicitly states that the collected 'Log Data' may include the user's 'device Internet Protocol (“IP”) address'. An IP address is used to infer a user's approximate location, which must be declared.",
+      "how_to_fix": "Declare 'Approximate location' as collected in your app's Data Safety section, likely for 'App functionality' and 'Analytics' or 'App performance' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

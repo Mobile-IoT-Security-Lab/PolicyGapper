@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The app collects anonymous usage statistics to help us improve the app. You can opt-out of this in the app's settings. We do not collect any personal information, and the collected data is not associated with your identity. The data we collect includes anonymous information about the app usage, such as the features you use and the time you spend in the app. This data is aggregated and cannot be used to identify you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "The app may collect crash reports if it crashes. These reports may contain information about your device and the app's state at the time of the crash. This information is used to diagnose and fix bugs. You can choose to send or not to send crash reports. We use our own servers for crash reports collection, and we do not share this information with any third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "The app may collect crash reports if it crashes. These reports may contain information about your device and the app's state at the time of the crash. This information is used to diagnose and fix bugs. You can choose to send or not to send crash reports. We use our own servers for crash reports collection, and we do not share this information with any third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you contact us via email for support or feedback, we will have your email address and any information you provide in your message. We use this information solely to communicate with you and address your inquiry. We do not use your email for marketing or share it with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "When you make a donation to support the project, your payment is processed by a third-party payment processor (e.g., Google Play, Stripe, PayPal). We do not receive or store your payment information, such as credit card numbers. The payment processor's privacy policy will apply to your donation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "If you have any questions or suggestions, please contact us at legal@organicmaps.app.",
+      "lang": "en"
+    }
+  ]
+}

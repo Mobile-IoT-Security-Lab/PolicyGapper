@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "With domain administrators\nIf you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "lang": "English"
+    }
+  ]
+}

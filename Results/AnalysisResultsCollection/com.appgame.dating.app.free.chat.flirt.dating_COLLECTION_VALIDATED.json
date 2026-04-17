@@ -1,0 +1,14 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Users who wish to have their account and associated data deleted can do so directly within the app. Navigate to the \"Settings\" menu and select the \"Delete Profile\" option. This will erase your profile and all chat history, which includes all information that we've collected, such as your name, age, date of birth, gender, interests, gender preferences, and preferred age range of potential partners. Please note that once your data is deleted through this method, it cannot be recovered.",
+      "justification": "The privacy policy states that the app has 'collected' user data which includes 'all chat history'. 'Chat history' corresponds to the 'Other in-app messages' data type.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the 'Messages' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

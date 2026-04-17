@@ -1,0 +1,42 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Usage Data\nInputs by Users on the Website/Application\nData regarding pages or profiles visited, time spent on a page,\nnavigation through the portal, location, language preference,\nsearch actions, participation in contests, interaction with other\nUsers, including time and date of all such actions",
+      "justification": "The policy states that 'Inputs by Users on the Website/Application' and 'interaction with other Users' are collected. This constitutes user-generated content that is sent off the device and is not covered by any exemption.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "API Calls: API Calls consists of data generated when a User\nperforms an activity on the Website/Application such as\nnavigating to different pages, clicking on buttons, reading content\netc. This data is collected and used by Company and may be\nshared with authorized third parties as described in this Privacy\nPolicy.",
+      "justification": "The policy explicitly states that data from 'API Calls' related to user activities like 'navigating to different pages, clicking on buttons' is 'collected and used by Company', indicating it is sent off-device.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Registration/Lo g in Data Name, Email Address/ Facebook or Google or Apple log-in details along with profile details which are public or can be shared as per User's privacy settings on these platforms. Other details optionally given by the User such as gender, age, city etc This also applies to Users during submission of Published Work through contests declared by the Company.",
+      "justification": "The policy states that 'Registration/Log in Data' and other optional details like 'gender, age, city' are collected. This information is sent off-device for account management and is not covered by any exemption.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Usage Data Inputs by Users on the Website/Application Data regarding pages or profiles visited, time spent on a page, navigation through the portal, location, language preference, search actions, participation in contests, interaction with other Users, including time and date of all such actions",
+      "justification": "The policy indicates that 'Usage Data' including 'location' is collected from users on the 'Website/Application'. This data is sent off-device and must be declared.",
+      "how_to_fix": "Declare 'Approximate location' or 'Precise location', depending on the granularity, as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Where Users agree to share the phone numbers of User's contacts to refer the Website/Application, Company collects and uses them solely for referral and does not take any other action with respect to such information. The referred contacts will have an option to have their details removed from the database by writing in to contact@pratilipi.com.",
+      "justification": "The policy states the 'Company collects and uses' the phone numbers of the user's contacts for referral purposes. This indicates the data is sent off the user's device to the company's servers and is not exempt from declaration.",
+      "how_to_fix": "Declare 'Contacts' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "We process your chats with other users as well as the content you publish, as part of the operation of the services.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "Other information with your consent. If you give us permission, we can collect your precise geolocation (latitude and longitude) through various means, depending on the service and device you're using, including GPS, Bluetooth or Wi-Fi connections. The collection of your geolocation may occur in the background even when you aren't using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your geolocation, we will not collect it. Similarly, if you consent, we may collect your photos and videos (for instance, if you want to publish a photo, video or streaming on the services).",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "Other information with your consent. If you give us permission, we can collect your precise geolocation (latitude and longitude) through various means, depending on the service and device you're using, including GPS, Bluetooth or Wi-Fi connections. The collection of your geolocation may occur in the background even when you aren't using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your geolocation, we will not collect it. Similarly, if you consent, we may collect your photos and videos (for instance, if you want to publish a photo, video or streaming on the services).",
+"lang": "en"
+}
+]
+}

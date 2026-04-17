@@ -1,0 +1,51 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Product research and development We use the information we have to develop, test and improve our Platform and Services, by conducting surveys and research, and testing and troubleshooting new products and features.",
+      "justification": "The policy states data is used for 'troubleshooting new products and features,' which implies the collection of crash logs.",
+      "how_to_fix": "Declare 'Crash logs' as collected in your Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Product research and development We use the information we have to develop, test and improve our Platform and Services, by conducting surveys and research, and testing and troubleshooting new products and features.",
+      "justification": "The policy states data is used for 'testing and troubleshooting new products and features,' which implies the collection of diagnostics data.",
+      "how_to_fix": "Declare 'Diagnostics' as collected in your Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Dream Space only collects specific personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, email address, Country of residence.",
+      "justification": "The policy explicitly states that 'first and last name' are collected.",
+      "how_to_fix": "Declare 'Name' as collected in your Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Dream Space only collects specific personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, email address, Country of residence.",
+      "justification": "The policy explicitly states that 'email address' is collected.",
+      "how_to_fix": "Declare 'Email address' as collected in your Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Dream Space only collects specific personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, email address, Country of residence.",
+      "justification": "The policy states that 'Country of residence' is collected, which corresponds to the 'Approximate location' data type.",
+      "how_to_fix": "Declare 'Approximate location' as collected in your Data Safety form.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Dream Space only collects specific personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, email address, Country of residence.",
+      "reason_of_removal": "Inconsistent: The policy mentions collecting 'email address' (a user identifier), not the content of 'Emails'.",
+      "justification": "The policy explicitly lists 'email address' as collected data, but does not mention collecting the content of emails (e.g., subject, body).",
+      "how_to_fix": "Ensure your declaration matches the policy. Declare 'Email address' if that is what you collect. If you collect email content, update your policy and declare 'Emails'.",
+      "lang": "en"
+    }
+  ]
+}
+```

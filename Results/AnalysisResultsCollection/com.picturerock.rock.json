@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User content: We will collect any user content you create, share, or post to the Application, which may include information contained in your user account, as well as text messages, voice input, photos or other image files and associated metadata. Please note that other users of the Application may be able to download and extract any images shared publicly on the Application.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Cookies: Cookies are small files which, when placed on your device, enable the Platform to provide certain features and functionality. We and our service providers use cookies to automatically collect information, measure and analyze which pages you click on and how you use the application, enhance your experience using the application, improve our services. Cookies may include information such as your login or registration identification, user preferences, time spent on a website and pages visited. We may also use third-party tracking technology to record similar information regarding you and your activity on the Application. Google Analytics may collect your IP address, data related to the device/browser, or other information about your use of the Application and may do so using cookies. Google Analytics' data practices are governed by the Google Privacy Policy (https://policies.google.c om/privacy), as it may be amended from time to time. By using the Application, you consent to our use of Cookies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "User content: We will collect any user content you create, share, or post to the Application, which may include information contained in your user account, as well as text messages, voice input, photos or other image files and associated metadata. Please note that other users of the Application may be able to download and extract any images shared publicly on the Application.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "User content: We will collect any user content you create, share, or post to the Application, which may include information contained in your user account, as well as text messages, voice input, photos or other image files and associated metadata. Please note that other users of the Application may be able to download and extract any images shared publicly on the Application.",
+      "lang": "en"
+    }
+  ]
+}

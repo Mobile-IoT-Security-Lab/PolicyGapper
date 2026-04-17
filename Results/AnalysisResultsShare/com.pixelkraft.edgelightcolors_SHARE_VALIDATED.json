@@ -1,0 +1,72 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Third Party SDKs or tools used in our apps:\nWe may, at any point in time, use one or more third party SDKs, tools or softwares from trusted\nsources in our applications for any of (but not limited to) the below reasons -\n1. Capturing Analytics, data & information to further improve our apps & services\n2. Enable monetization through advertising or subscriptions\n3. Enable in-app messaging, notifications to users\n4. Host data & content to display within the app\nSome of the commonly used third party tools in the app are Google AdMob, Facebook Audience\nNetwork, One Signal, Firebase, Crashlytics and Google Play Services. We may at any time add or\nremove any of the new or existing third party softwares.",
+      "justification": "The privacy policy states that third-party SDKs (including Google AdMob, Facebook Audience Network, Firebase) are used for analytics and advertising, which involves collecting and sharing app interaction data.",
+      "how_to_fix": "Declare in the Data Safety section that 'App interactions' data is collected and shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Third Party SDKs or tools used in our apps:\nWe may, at any point in time, use one or more third party SDKs, tools or softwares from trusted\nsources in our applications for any of (but not limited to) the below reasons -\n1. Capturing Analytics, data & information to further improve our apps & services\n2. Enable monetization through advertising or subscriptions\n3. Enable in-app messaging, notifications to users\n4. Host data & content to display within the app\nSome of the commonly used third party tools in the app are Google AdMob, Facebook Audience\nNetwork, One Signal, Firebase, Crashlytics and Google Play Services. We may at any time add or\nremove any of the new or existing third party softwares.",
+      "justification": "The policy's mention of 'Capturing Analytics, data & information' with SDKs like Firebase covers the collection and sharing of 'Other actions' data.",
+      "how_to_fix": "Declare in the Data Safety section that 'Other actions' data is collected and shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Third Party SDKs or tools used in our apps:\nWe may, at any point in time, use one or more third party SDKs, tools or softwares from trusted\nsources in our applications for any of (but not limited to) the below reasons -\n1. Capturing Analytics, data & information to further improve our apps & services\n2. Enable monetization through advertising or subscriptions\n3. Enable in-app messaging, notifications to users\n4. Host data & content to display within the app\nSome of the commonly used third party tools in the app are Google AdMob, Facebook Audience\nNetwork, One Signal, Firebase, Crashlytics and Google Play Services. We may at any time add or\nremove any of the new or existing third party softwares.",
+      "justification": "The privacy policy explicitly lists 'Crashlytics' as a third-party tool used, which directly corresponds to the collection and sharing of 'Crash logs' data.",
+      "how_to_fix": "Declare in the Data Safety section that 'Crash logs' data is collected and shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Third Party SDKs or tools used in our apps:\nWe may, at any point in time, use one or more third party SDKs, tools or softwares from trusted\nsources in our applications for any of (but not limited to) the below reasons -\n1. Capturing Analytics, data & information to further improve our apps & services\n2. Enable monetization through advertising or subscriptions\n3. Enable in-app messaging, notifications to users\n4. Host data & content to display within the app\nSome of the commonly used third party tools in the app are Google AdMob, Facebook Audience\nNetwork, One Signal, Firebase, Crashlytics and Google Play Services. We may at any time add or\nremove any of the new or existing third party softwares.",
+      "justification": "The policy's mention of using SDKs like 'Crashlytics' and 'Firebase' for 'Capturing Analytics, data & information' implies the collection and sharing of diagnostics data.",
+      "how_to_fix": "Declare in the Data Safety section that 'Diagnostics' data is collected and shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Third Party SDKs or tools used in our apps:\nWe may, at any point in time, use one or more third party SDKs, tools or softwares from trusted\nsources in our applications for any of (but not limited to) the below reasons -\n1. Capturing Analytics, data & information to further improve our apps & services\n2. Enable monetization through advertising or subscriptions\n3. Enable in-app messaging, notifications to users\n4. Host data & content to display within the app\nSome of the commonly used third party tools in the app are Google AdMob, Facebook Audience\nNetwork, One Signal, Firebase, Crashlytics and Google Play Services. We may at any time add or\nremove any of the new or existing third party softwares.",
+      "justification": "The policy states SDKs like Firebase and Crashlytics are used for analytics to improve the app, which covers the collection and sharing of app performance data.",
+      "how_to_fix": "Declare in the Data Safety section that 'Other app performance data' is collected and shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Third Party SDKs or tools used in our apps:\nWe may, at any point in time, use one or more third party SDKs, tools or softwares from trusted\nsources in our applications for any of (but not limited to) the below reasons -\n1. Capturing Analytics, data & information to further improve our apps & services\n2. Enable monetization through advertising or subscriptions\n3. Enable in-app messaging, notifications to users\n4. Host data & content to display within the app\nSome of the commonly used third party tools in the app are Google AdMob, Facebook Audience\nNetwork, One Signal, Firebase, Crashlytics and Google Play Services. We may at any time add or\nremove any of the new or existing third party softwares.",
+      "justification": "The policy states the app uses third-party SDKs like Google AdMob and Facebook Audience Network for advertising, which requires the collection and sharing of 'Device or other IDs'.",
+      "how_to_fix": "Declare in the Data Safety section that 'Device or other IDs' are collected and shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Third Party SDKs or tools used in our apps:\nWe may, at any point in time, use one or more third party SDKs, tools or softwares from trusted\nsources in our applications for any of (but not limited to) the below reasons -\n1. Capturing Analytics, data & information to further improve our apps & services\n2. Enable monetization through advertising or subscriptions\n3. Enable in-app messaging, notifications to users\n4. Host data & content to display within the app\nSome of the commonly used third party tools in the app are Google AdMob, Facebook Audience\nNetwork, One Signal, Firebase, Crashlytics and Google Play Services. We may at any time add or\nremove any of the new or existing third party softwares.",
+      "justification": "The use of analytics and notification SDKs like Firebase and One Signal often involves associating data with a user-specific ID, which constitutes collection and sharing.",
+      "how_to_fix": "Declare in the Data Safety section that 'User IDs' are collected and shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Third Party SDKs or tools used in our apps:\nWe may, at any point in time, use one or more third party SDKs, tools or softwares from trusted\nsources in our applications for any of (but not limited to) the below reasons -\n1. Capturing Analytics, data & information to further improve our apps & services\n2. Enable monetization through advertising or subscriptions\n3. Enable in-app messaging, notifications to users\n4. Host data & content to display within the app\nSome of the commonly used third party tools in the app are Google AdMob, Facebook Audience\nNetwork, One Signal, Firebase, Crashlytics and Google Play Services. We may at any time add or\nremove any of the new or existing third party softwares.",
+      "justification": "The policy discloses the use of advertising SDKs like Google AdMob and Facebook Audience Network, which commonly collect and use approximate location for targeted ads.",
+      "how_to_fix": "Declare in the Data Safety section that 'Approximate location' is collected and shared.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "Third Party SDKs or tools used in our apps:\nWe may, at any point in time, use one or more third party SDKs, tools or softwares from trusted\nsources in our applications for any of (but not limited to) the below reasons -\n1. Capturing Analytics, data & information to further improve our apps & services\n2. Enable monetization through advertising or subscriptions\n3. Enable in-app messaging, notifications to users\n4. Host data & content to display within the app\nSome of the commonly used third party tools in the app are Google AdMob, Facebook Audience\nNetwork, One Signal, Firebase, Crashlytics and Google Play Services. We may at any time add or\nremove any of the new or existing third party softwares.",
+      "reason_of_removal": "Inconsistent with policy reference",
+      "justification": "The privacy policy describes using SDKs for general analytics, advertising, and notifications, but does not specifically mention collecting a list of installed apps.",
+      "how_to_fix": "This data type does not need to be declared based on the current policy. If the app does collect this data, the privacy policy must be updated to explicitly state it.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,169 @@
+This privacy policy also names other controllers that process your personal data.
+---
+We will only collect, use and/or pass on personal data if this is permitted by law or if you give your consent.
+---
+Your data will be used for the following purposes:
+--- [PAGE BREAK] ---
+• to provide you with the functionality of the App,
+• to answer any requests you send to us or send you emails,
+• to implement this privacy policy and carrying out the contractual relationship with you,
+• to analyze your use of our App and improve our App with our legitimate interests of quality assurance and marketing,
+• to analyze your use of the App and cooperate with our advertising partners with the legitimate interest of marketing,
+• as otherwise explained in this privacy policy or by any communication by us.
+---
+§ Registration for the App; Facebook Connect
+Furthermore we need your email address in order to create and manage your account, to process your enquiries and, if necessary, to be able to
+contact you. If you register via Facebook (facebook.com) we process your email address and name from your user profile on Facebook after you have
+clicked the respective button. For further details on data processing on Facebook please refer to: Full Data Use Policy
+(https://www.facebook.com/full_data_use_policy)
+---
+If you are using additional paid options in our App we may ask for your full name and address details. However, please note that we do not process
+your payment data and bank account details but use external providers that handle the payments.
+---
+§ Advertising Partners and use of the Advertising ID
+We and our advertising partners also use the information collected, including your personal data, for marketing/advertising purposes.
+For this purpose the following data: GAID / IDFA, IP address, location / time zone and locale settings (country and preferred language), carrier,
+operating system, network connection type and speed, device properties related to screen size and orientation, audio volume and battery, device
+memory usage, Internet browser user-agent used to access the services, device make, model and operating system are processed by us and such
+advertising partners.
+--- [PAGE BREAK] ---
+The so-called 'Advertising Identifier' (IDFA) or 'Google Advertising Identifier' (GAID) is a unique, but non-personalized and non-permanent identifier
+for a specific device provided by iOS or Android. Data collected through such identifier is not linked to any other device-related information. We as
+well as our advertising partners use the identifier to provide you with personalized advertising and to evaluate your use. If you activate the option ['no
+ad tracking' / 'Ads'] in the iOS/Android settings, we can only take the following actions: Measuring your interaction with banners by counting the
+number of times a banner is displayed without clicking ('frequency capping'), click rate, unique user detection, security measures, fraud prevention
+and troubleshooting. You can delete the IDFA / GAID at any time in the device settings, then a new IDFA / GAID will be created which is not merged
+with the previously collected data. Please note that if you limit the use of the identifier, you may not be able to use all the features of our Apps.
+For more information, contacting details about such advertising partners as well as their privacy guidelines please refer to:
+• AppLovin by AppLovin Corporation, 849 High St., Palo Alto, CA 94301, USA: Applovin Privacy (https://www.applovin.com/privacy/) and Applovin
+Data Processing Agreement (https://dash.applovin.com/assets/pdf/dpa.pdf);
+• Facebook by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA / Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2,
+Ireland: Facebook Full Data Use Policy (https://www.fb.com/full_data_use_policy); Audience Network Publisher TOS
+(https://www.facebook.com/ads/manage/audience_network/publisher_tos/) and Facebook Data Procesing
+(https://www.fb.com/legal/terms/dataprocessing)
+• Google by Google LLC, Mountain View, CA, USA / Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland: Google Privacy Policy
+(https://policies.google.com/privacy?hl=en);
+• Fyber by the Fyber Group (Fyber N.V., Fyber Monetization Ltd., Fyber GmbH, Fyber Media GmbH, Fyber RTB GmbH, Advertile Mobile GmbH, and
+Heyzap Ltd.): Fyber Privacy Policy (https://www.fyber.com/privacy-policy/);
+• InMobi by InMobi Pte Ltd, Embassy Tech Square, 7th Floor, Block Delta, B Block, Kadubeesanahallli Village Outer Ring Road, Varthur Hobi, Bengaluru,
+560103, India: InMobi Privacy Policy (https://www.inmobi.com/privacy-policy-for-eea/)
+• IronSource by ironSource Mobile Ltd. 121 Menachem Begin Rd., Tel Aviv, Israel: IronSource Privacy Policy
+(https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/);
+• MoPub by MoPub Inc. as a division of Twitter, Inc., 1355 Market S San Francisco, CA 94103, USA: MoPub Privacy Policy
+(https://www.mopub.com/legal/privacy/);
+• AdColony Inc, 1888 Century Park East, Suite 1450, Century City, CA 90067: Adcolony Privacy Policy (https://www.adcolony.com/privacy-policy/);
+• Vungle by Vungle Inc, 1255 Battery Street, Suite 500, San Francisco, CA, 94111, United States: Vungle Privacy Policy
+(https://vungle.com/privacy/#:~:text=Vungle%20does%20not%20%E2%80%9Csell%E2%80%9D%20personal, prevent%20any%20further%20downstream
+• MyTarget by My.com B.V. located at Barbara Strozzilaan 201, 1083HN, Amsterdam, the Netherlands: MyTarget Privacy Policy
+(https://legal.my.com/us/mytarget/privacy/);
+Such data processing is performed to ensure the technical functionality of our services fulfillment of contractual or pre-contractual obligations
+(based on Art. 6 (1) b. GDPR or TMG and as otherwise explained in this privacy policy) or improving our product and perform marketing activities
+(based on Art. 6 (1) f. GDPR). Regarding the data processing based on Art. 6 (1) f. GDPR we wish to achieve the legitimate interests of marketing. If
+legally required such data processing shall be based on your explicit consent (Art. 6 (1) a. GDPR).
+---
+§ Analysis of your data
+We (as well as third party providers engaged by us) also use the information collected, including your personal data, for the purpose of marketing and
+improving our Apps. For this purpose your personal data, such as the IP address, the 'Advertising Identifier' (IDFA) or 'Google Advertising Identifier'
+(GAID) as well as further use data is used.
+For more information, contacting details about such third party service providers engaged by us for such purposes as well as their privacy guidelines
+please refer to:
+• 'Tenjin' by Tenjin, Inc., 333 Bryant St., Suite 100, San Francisco, CA 94107; more information: Tenjin Privacy Policy (https://www.tenjin.io/privacy/);
+• 'Unity 3D' by Unity Technologies Finland OY, Kaivokatu 8 B, 00100 Helsinki, Finland / Unity Technologies, 30 3rd Street, San Francisco, CA 94103,
+USA; more information: Unity 3D Privacy Policy (https://unity3d.com/legal/privacy-policy), Unity3D Controller DPA Monetization Advertising
+(https://unity3d.com/legal/Controller_DPA_Monetization_Advertising), Unity3D GPDR (https://unity3d.com/de/legal/gdpr);
+• 'Google Firebase' by Google LLC, Mountain View, CA, USA / Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland: more information:
+Firebase Google (https://firebase.google.com/) and Google Privacy Policy (https://policies.google.com/privacy?hl=en);
+• 'Flurry Analytics' by Flurry Inc. / Oath Inc., 701 First Avenue, Sunnyvale, CA 94089, USA / Oath (EMEA) Ltd., 5-7 Point Square, North Wall Quay, Dublin
+1, Ireland; more information: Flurry TOS (https://developer.yahoo.com/flurry/legal-privacy/terms-service/), Flurry DPA
+(https://developer.yahoo.com/flurry/legal-privacy/flurry-analytics-dpa.html) and Oath Privacy Policy
+(https://policies.oath.com/us/en/oath/privacy/index.html);
+--- [PAGE BREAK] ---
+• 'Facebook Analytics' by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA or Facebook Ireland Ltd., 4 Grand Canal Square, Dublin 2,
+Ireland; more information: Facebook Policy (https://www.facebook.com/policy.php), Facebook Data Processing
+(https://www.facebook.com/legal/terms/dataprocessing), Facebook Ads Preferences (https://www.facebook.com/ads/preferences) or Facebook
+Settings (https://www.facebook.com/settings;);
+• AppLovin by AppLovin Corporation, 849 High St., Palo Alto, CA 94301, USA: Applovin Privacy (https://www.applovin.com/privacy/) and Applovin
+Data Processing Agreement (https://dash.applovin.com/assets/pdf/dpa.pdf);
+Such data processing is performed to ensure the technical functionality of our services fulfillment of contractual or pre-contractual obligations
+(based on Art. 6 (1) b. GDPR or TMG and as otherwise explained in this privacy policy) or improving our product and perform marketing activities
+(based on Art. 6 (1) f. GDPR). Regarding the data processing based on Art. 6 (1) f. GDPR we wish to achieve the legitimate interests of quality
+assurance and marketing. If legally required such data processing shall be based on your explicit consent (Art. 6 (1) a. GDPR).
+---
+§ Third Party Providers used by us; data processing outside the EU/EEA
+When using the App your data may be processed by third party providers engaged by us, for example cloud service provider(s) and advertising
+partners.
+We use Google Cloud Services by as hosting service provider that processes data on servers in the EU/EEA.
+The third party providers and advertising partners named in this privacy policy engaged by us (Google, Facebook, AppLovin, Flurry/Oath, MoPub,
+Tapjoy, IronSource, inMobi, Vungle, Mytarget, Adcolony) may process data outside the EU/EEA.
+The US companies offering the services by Google, Facebook, AppLovin, Tenjin, MoPub Inc./Twitter, Inc. and Tapjoy are each certified according to
+the "EU-US-Privacy-Shield" to guarantee the compliance with EU data protection standards. For more information please refer to: Privacy Shield
+(https://www.privacyshield.gov/)
+To guarantee the compliance with EU data protection standards the companies offering the services of Flurry are either also certified according to
+the "EU-US-Privacy-Shield" or EU Standard Contractual Clauses; for more information see Oath Data Transfer Policy
+(https://policies.oath.com/ie/en/oath/privacy/topics/datatransfer/index.html).
+ironSource Mobile Ltd., Israel guarantees the compliance with EU data protection standards via the respective adequacy decision by the EU
+Commission (see: EU Data Protection (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32011D0061)).
+The provider of inMobi has submitted to EU Standard Contractual Clauses for the international transfer of personal data (see: EU Standard
+Contractual Clauses (https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-prot) ).
+--- [PAGE BREAK] ---
+For further information (on engaged third party providers) please contact us via dataprotection@bestplay.app
+(mailto:dataprotection@bestplay.app).
+---
+§ Data processing on our Facebook Page
+We operate a "Social Media Page" on Facebook, facebook.com or mobile app by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA or
+Facebook Ireland Ltd., 4 Grand Canal Square, Dublin 2, Ireland, please refer to privacy policy Facebook Policy (https://www.facebook.com/policy.php),
+opt-out: Opt-Out (https://www.facebook.com/ads/preferences) or Settings (https://www.facebook.com/settings).
+When you visit our Social Media-Page, data is processed both by us and by the responsible social media provider as the responsible party.
+The respective provider of Social Media assumes the data protection obligations towards you as the user, such as information on data processing,
+and is the contact person for your rights. This follows from the fact that such provider has direct access to the relevant information on the Social
+Media Page and the processing of your data. However, you are also welcome to contact us if this should become necessary and we will then forward
+the request to the respective provider if necessary.
+When using Facebook and Instagram data may also be processed outside the EU. The US company of Facebook is certified in accordance with the
+EU-US Privacy Shield agreement, which guarantees compliance with data protection regulations in the EU. For more information please refer to:
+Privacy Shield (https://www.privacyshield.gov).
+With our Social Media Pages, we can communicate with you and provide you with interesting information. We may receive further data from you
+through your comments, shared images, messages and reactions, which we then process to answer or communicate with you. If you use Social
+Media on several end devices, a cross-device analysis of the data can take place.
+Furthermore, the providers of the Social Media Pages may also use cookies and tracking technologies to analyse and improve their services.
+Data processing takes place with your consent or for the purpose of answering your enquiry (Art. 6 (1) a, b GDPR) or on the basis of legitimate
+interests in improving the services, advertising and marketing activities and presentation to the outside world (Art. 6 (1) f GDPR).
+---
+§ Page Insights and Cookies on Facebook:
+Facebook and we use the Page Insights function to process statistical data from users of our Facebook pages (see also the agreement at: Facebook
+Page Controller Addendum (https://www.facebook.com/legal/terms/page_controller_addendum)). This involves the processing of data in the form of
+so-called 'page insights', which are described in more detail at Facebook Page insights (https://www.facebook.com/business/a/page/page-insights).
+Evaluations and statistics are generated in the form of page insights from the usage data of the Facebook pages, which support us in improving our
+marketing activities and our external presence. We may also learn about users and their behavior who interact with or use our Facebook Pages to
+display relevant content and develop features that may be of interest to them. These page statistics show us, for example, which people from
+certain target groups interact most with our Facebook Page or which content on the Facebook Page was visited, shared or licked when and how
+often. When classifying people into target groups, demographic data or data about the location of a person is also included in order to place targeted
+advertisements with these people. If you use Facebook on several end devices, a cross device analysis of the data can take place. The data collected
+in this way is statistically processed and usually anonymous, i.e. we cannot establish any reference to the individual person.
+Information on these page insights and data processing can be found, for example, in Facebook's data protection statement at Facebook Policy
+(https://www.facebook.com/policy.php) or at Facebook Page Insights (https://www.facebook.com/business/a/page/page-insights).
+--- [PAGE BREAK] ---
+As a Facebook user, you can at any time influence how your user behavior is recorded when you visit Facebook pages. To do this, you can manage the
+settings for advertising preferences in your Facebook account or at Preferences (https://www.facebook.com/ad s/preferences,) or the Facebook
+settings (https://www.facebook.com/settings) in your account. Facebook also provides opportunities to contact or exercise rights at Facebook
+Contact 1 (https://www.facebook.com/help/contact/2061665240770586) or Facebook Contact 2
+(https://www.facebook.com/help/contact/308592359910928).
+---
+§ Specific Provisions for California Consumers:
+These additional provisions for California consumers apply only to individuals who reside in California. The California Consumer Privacy Act of 2018
+("CCPA") provides additional rights to know, delete and opt out, and requires "businesses" collecting or disclosing personal information to provide
+notice and a means to exercise those rights.
+• Categories of personal information collected in the preceding 12 months
+• Business purpose for collection
+• Third parties with whom we may share your information
+---
+§ Right to Know and Right to Delete
+For any of the personal information described above, you can request to know what personal information we collected, disclosed, used and sold, and
+request that we delete your personal information at any time.
+---
+Upon verification of your request, we will delete (and direct our service providers to delete) your personal information from our records, unless
+retaining the information is necessary for us or our service providers to complete the transaction with you, detect security incidents or fraud, fixing
+errors, exercise free speech or another right provided by law, comply with legal obligations, or other internal and lawful uses.
+---
+§ Right to Opt Out of Sale
+CCPA gives you a right to direct a business that sells your personal information to stop selling your personal information and to refrain from doing so
+in the future. We do not sell any of your personal information and will require our service providers not to sell your personal information.

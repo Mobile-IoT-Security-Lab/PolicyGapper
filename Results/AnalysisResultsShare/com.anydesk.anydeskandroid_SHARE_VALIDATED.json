@@ -1,0 +1,37 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "User profiles can be created and stored in a file (cookie) to display advertising content or to market advertising space (online marketing). These data can be used to determine the users' potential interests and to measure the effectiveness of online marketing. The stored data may include content accessed, websites visited, online networks used, as well as communication partners and technical information, such as the IP address, the browser used, the computer system used, and information on usage times. If users have consented to their location data being collected, this data may also be processed.",
+      "justification": "The policy states user profiles are created for online marketing and advertising using data like 'content accessed' and 'usage times', which fall under 'App interactions'. This constitutes sharing for advertising purposes and is not exempt.",
+      "how_to_fix": "In the Google Play Console, declare that 'App interactions' is collected and shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "User profiles can be created and stored in a file (cookie) to display advertising content or to market advertising space (online marketing). These data can be used to determine the users' potential interests and to measure the effectiveness of online marketing. The stored data may include content accessed, websites visited, online networks used, as well as communication partners and technical information, such as the IP address, the browser used, the computer system used, and information on usage times. If users have consented to their location data being collected, this data may also be processed.",
+      "justification": "The policy explicitly states that 'websites visited' are collected to create user profiles for online marketing. This is considered sharing for advertising purposes and is not exempt.",
+      "how_to_fix": "In the Google Play Console, declare that 'Web browsing history' is collected and shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "User profiles can be created and stored in a file (cookie) to display advertising content or to market advertising space (online marketing). These data can be used to determine the users' potential interests and to measure the effectiveness of online marketing. The stored data may include content accessed, websites visited, online networks used, as well as communication partners and technical information, such as the IP address, the browser used, the computer system used, and information on usage times. If users have consented to their location data being collected, this data may also be processed.",
+      "justification": "The policy states that 'location data' may be processed for creating user profiles for online marketing. This is considered sharing for advertising purposes and is not exempt.",
+      "how_to_fix": "In the Google Play Console, declare that 'Approximate location' and/or 'Precise location' is collected and shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We will only pass on your data to third parties in compliance with the statutory provisions to the extent that this\na. is necessary for the purposes described under \"Categories of data\",\nb. is necessary to fulfill legal obligations, or\nc. takes place with your consent as a data subject.\nIf the transfer or disclosure of the data takes place on our behalf for the execution of data processing\nprocesses that are earmarked for a specific purpose or subject to consent according to (a) above, we will\nenter into suitable contracts or agreements with the recipients of the data (processors) which serve to\nprotect your data (Art. 28 GDPR).\nRecipients of this data can be:\n• Telecommunications companies\n• (Technical and organizational) auxiliary service providers\n• Subcontractors\n• Banks\n• Tax and legal advisers\n• Web hosting providers\n• IT service providers\n• Providers of product review procedures\n• Payment service providers\n• Providers of online application tools\nviders of web analysis, online marketing or CRM services\n• Providers of survey tools\n• Cloud services\n• Tax authorities",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy reference describes general conditions for sharing data with service providers 'on our behalf' but does not mention the collection or sharing of 'Diagnostics' data specifically. The data type does not logically match the provided text.",
+      "how_to_fix": "This entry was removed as it is inconsistent. No action is required for this specific item based on the provided text.",
+      "lang": "English"
+    }
+  ]
+}
+```

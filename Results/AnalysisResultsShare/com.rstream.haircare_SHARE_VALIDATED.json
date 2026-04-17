@@ -1,0 +1,30 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We Hair Care share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that Hair Care is part of, or that become part of that group (\"Affiliates”). Affiliates Hair Care use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences). But these Affiliates will honor the choices you make about who can see your photos.",
+      "justification": "The policy states that User Content is shared with 'Affiliates' who may use it for their 'own services'. Under Google Play policy, sharing data with affiliated legal entities for their own purposes is considered 'sharing' and must be declared.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'Other user-generated content' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We Hair Care share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that Hair Care is part of, or that become part of that group (\"Affiliates”). Affiliates Hair Care use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences). But these Affiliates will honor the choices you make about who can see your photos.",
+      "justification": "The policy states that 'photos' (as part of User Content) are shared with 'Affiliates' who may use the information for their 'own services'. Under Google Play policy, sharing data with affiliated legal entities for their own purposes is considered 'sharing' and must be declared.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'Photos' are 'Shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.",
+      "reason_of_removal": "Anonymous Data",
+      "justification": "The policy states this data is aggregated with other users' data so it 'cannot reasonably be used to identify any particular individual User.' This meets the exemption for fully anonymized data, which does not need to be declared as 'shared'.",
+      "how_to_fix": "No action is required for this item as it falls under the anonymized data exemption for sharing.",
+      "lang": "English"
+    }
+  ]
+}
+```

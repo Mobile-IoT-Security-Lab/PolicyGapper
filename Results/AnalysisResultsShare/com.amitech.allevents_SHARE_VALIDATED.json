@@ -1,0 +1,44 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "2.5The Website includes social media features and widgets that are either hosted by a third-party or hosted directly on the Website and Your interaction with these social media features and widgets is governed by the privacy statement of the companies that provide them. You should check Your privacy settings on these third-party services to understand and change the information sent to Us through these services.",
+      "justification": "The policy states that user interactions with social media features are governed by the privacy policies of the third-party companies that provide them, indicating data is shared with these independent third parties.",
+      "how_to_fix": "Declare in the 'App interactions' section of the Data Safety form that this data is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Where the Personal Data of Users are collected by the Organiser on their event page, that Organiser is the Controller of such Personal Data. For the additional information collected by Organisers on their brand page, Users' data privacy questions and requests should be submitted to the Organiser in its capacity as the Users' Controller. We are not responsible for Organisers' privacy or security practices or the data retention period which may be different from this notice. Organisers of Our Platform are solely responsible for establishing policies for and ensuring compliance with all applicable laws and regulations, as well as any and all privacy policies, agreements, or other obligations, relating to the collection of Personal Data in connection with the use of their brand page by the Users.",
+      "justification": "The policy indicates that 'Organisers' (third parties) collect users' Personal Data, including their name, and act as independent data controllers. This constitutes sharing data with a third party.",
+      "how_to_fix": "Declare in the 'Name' section of the Data Safety form that this data is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Where the Personal Data of Users are collected by the Organiser on their event page, that Organiser is the Controller of such Personal Data. For the additional information collected by Organisers on their brand page, Users' data privacy questions and requests should be submitted to the Organiser in its capacity as the Users' Controller. We are not responsible for Organisers' privacy or security practices or the data retention period which may be different from this notice. Organisers of Our Platform are solely responsible for establishing policies for and ensuring compliance with all applicable laws and regulations, as well as any and all privacy policies, agreements, or other obligations, relating to the collection of Personal Data in connection with the use of their brand page by the Users.",
+      "justification": "The policy indicates that 'Organisers' (third parties) collect users' Personal Data, including their email address, and act as independent data controllers. This constitutes sharing data with a third party.",
+      "how_to_fix": "Declare in the 'Email address' section of the Data Safety form that this data is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Where the Personal Data of Users are collected by the Organiser on their event page, that Organiser is the Controller of such Personal Data. For the additional information collected by Organisers on their brand page, Users' data privacy questions and requests should be submitted to the Organiser in its capacity as the Users' Controller. We are not responsible for Organisers' privacy or security practices or the data retention period which may be different from this notice. Organisers of Our Platform are solely responsible for establishing policies for and ensuring compliance with all applicable laws and regulations, as well as any and all privacy policies, agreements, or other obligations, relating to the collection of Personal Data in connection with the use of their brand page by the Users.",
+      "justification": "The policy indicates that 'Organisers' (third parties) collect users' Personal Data, including their phone number, and act as independent data controllers. This constitutes sharing data with a third party.",
+      "how_to_fix": "Declare in the 'Phone number' section of the Data Safety form that this data is 'Shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "11.1Where the Personal Data of Users are collected by the Organiser on their event page, that Organiser is the Controller of such Personal Data. For the additional information collected by Organisers on their brand page, Users' data privacy questions and requests should be submitted to the Organiser in its capacity as the Users' Controller. We are not responsible for Organisers' privacy or security practices or the data retention period which may be different from this notice. Organisers of Our Platform are solely responsible for establishing policies for and ensuring compliance with all applicable laws and regulations, as well as any and all privacy policies, agreements, or other obligations, relating to the collection of Personal Data in connection with the use of their brand page by the Users.",
+      "reason_of_removal": "Duplicate entry.",
+      "justification": "This entry is a duplicate of another entry with the same data type ('Email address') and a substantively identical policy reference regarding data sharing with 'Organisers'.",
+      "how_to_fix": "No action needed as this is a duplicate finding. Address the non-duplicate entry.",
+      "lang": "English"
+    }
+  ]
+}
+```

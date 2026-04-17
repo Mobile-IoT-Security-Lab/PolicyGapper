@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "DATA SHARING AND DISCLOSURE\nBreadfast may share the data we collect via the Picker app:\n\n• With business partners (retailers, service providers), this includes sharing: Riders'\nfirst name, pickup and/or dropoff locations\n• Delivery recipients' first name, delivery address, and order information with their\ndelivery person and business partner.\n• We also provide riders and delivery recipients with receipts containing information\nsuch as a breakdown of amounts charged, driver or delivery person first name,\nroute map, and such other information required on invoices in the country or region\nwhere the picker operates.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "DATA SHARING AND DISCLOSURE\nBreadfast may share the data we collect via the Picker app:\n\n• With business partners (retailers, service providers), this includes sharing: Riders'\nfirst name, pickup and/or dropoff locations\n• Delivery recipients' first name, delivery address, and order information with their\ndelivery person and business partner.\n• We also provide riders and delivery recipients with receipts containing information\nsuch as a breakdown of amounts charged, driver or delivery person first name,\nroute map, and such other information required on invoices in the country or region\nwhere the picker operates.",
+      "lang": "English"
+    }
+  ]
+}

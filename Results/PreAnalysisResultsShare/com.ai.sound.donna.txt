@@ -1,0 +1,175 @@
+If you choose to use our Service, then you agree to the collection and use of information in relation to this
+policy. The Personal Information that we collect is used for providing and improving the Service. We will
+not use or share your information with anyone except as described in this Privacy Policy.
+
+---
+
+The app does use third-party services that may collect information used to identify you.
+Link to the privacy policy of third-party service providers used by the app
+*
+[Google Play Services](https://www.google.com/policies/privacy/)
+*
+*
+*
+*
+*
+*
+*
+*
+[AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+[Google Analytics for Firebase](httpshttps://firebase.google.com/policies/analytics)
+[Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+[Facebook](https://www.facebook.com/about/privacy/update/printable)
+[Unity](https://unity3d.com/legal/privacy-policy)
+[One Signal](https://onesignal.com/privacy_policy)
+[AppLovin](https://www.applovin.com/privacy/)
+[Vungle](https://vungle.com/privacy/)
+
+---
+[PAGE BREAK]
+---
+*
+*
+*
+[AdColony](https://www.adcolony.com/privacy-policy/)
+[Adjust](https://www.adjust.com/terms/privacy-policy)
+[RevenueCat](https://www.revenuecat.com/privacy)
+
+---
+Log Data
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data
+and information (through third-party products) on your phone called Log Data. This Log Data may
+include information such as your device Internet Protocol (“IP”) address, device name, operating system
+version, the configuration of the app when utilizing our Service, the time and date of your use of the
+Service, and other statistics.
+
+---
+
+This Service does not use these "cookies" explicitly. However, the app may use third-party code and
+libraries that use “cookies” to collect information and improve their services. You have the option to either
+accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to
+refuse our cookies, you may not be able to use some portions of this Service.
+
+---
+
+Service Providers
+We may employ third-party companies and individuals due to the following reasons:
+* To facilitate our Service;
+* To provide the Service on our behalf;
+*
+To perform Service-related services; or
+* To assist us in analyzing how our Service is used.
+By using our iOS apps and making in-app purchases, you consent to our sharing of data regarding your
+usage and consumption of purchased content with Apple, as part of our efforts to resolve refund
+requests. This information may include details about how you have accessed and interacted with the
+purchased content. The purpose of sharing this data is to help Apple make an informed decision
+regarding refund requests. We ensure that such data sharing is done in compliance with Apple's policies
+and only as necessary to process your requests.
+We want to inform users of this Service that these third parties have access to their Personal Information.
+The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to
+
+---
+[PAGE BREAK]
+---
+disclose or use the information for any other purpose.
+
+---
+
+Links to Other Sites
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that
+site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the
+Privacy Policy of these websites. We have no control over and assume no responsibility for the content,
+privacy policies, or practices of any third-party sites or services.
+
+---
+[PAGE BREAK]
+---
+•
+Third-Party Processing:
+Uploaded images may be temporarily shared with secure third-party service providers, including cloud-
+based Al processors and third-party API providers, solely for completing the Al generation task. These
+providers are contractually obligated to:
+•
+Handle the data securely
+•
+Delete it after processing
+•
+Refrain from accessing, storing, or reusing the images for any other purpose
+
+---
+
+•
+Data Storage Location:
+Data is stored temporarily on secure servers managed by IRMO and trusted cloud providers located in
+compliant regions (e.g., EU or US). Images are not accessible to any external users or parties beyond the
+required third-party processing pipeline.
+
+---
+
+• Data Retention and User Control:
+Face data is retained until the user chooses to delete it. This is because the app interface allows users to
+view both the original uploaded images and the Al-generated results at any time.
+•
+User Control: Images (both original and generated) are stored securely and remain available in the
+app until manually deleted by the user.
+•
+Deletion Request: If a user deletes a photo via the app interface, it is deleted from IRMO servers
+and third-party caches within 30 days.
+
+---
+[PAGE BREAK]
+---
+Story Generation and Data Management:
+•
+Custom stories are formulated in collaboration with OpenAl's ChatGPT 3.5 and ChatGPT 4
+technologies. Post-generation, all data parameters utilized in the customization process are irrevocably
+deleted.
+
+---
+[PAGE BREAK]
+---
+Publishing and Sharing:
+•
+Social Media and Online Platforms: Users are free to publish songs created on Donna to social
+media and other platforms within the scope of the use. Free users must provide attribution (Created by
+Donna Al), while paying subscribers are encouraged to do so.
+
+---
+
+Public Sharing of Content:
+•
+User-Generated Public Content: When you choose to make your songs public within Donna, you are
+allowing other users to access and use your music. Please be mindful that once your song is set to
+public, it can be played, shared, and utilized by others within the Donna community.
+
+---
+[PAGE BREAK]
+---
+4. Sharing Photos with Third Parties
+No Face Data Shared:
+GIGI does not share face data with third parties. However, user-uploaded photos are sent to third-party
+APIs to apply the virtual outfits and visualizations. These third-party services process the images
+temporarily to create the visualizations and return the processed data (outfit visualization) to GIGI.
+
+---
+
+5. Reasons for Sharing Photos with Third Parties
+We share the uploaded photos with third-party APIs for the sole purpose of applying virtual outfits and
+visualizations to the user's image. These third-party services are essential for processing the photos and
+providing the virtual try-on experience.
+
+---
+
+6. Third-Party Storage of Photos
+Do Third Parties Store Photos?
+The third-party services we use do not retain the photos after processing. Once the outfit visualization
+is applied, the data is returned to GIGI, and the photos are deleted from the third-party servers. No
+
+---
+[PAGE BREAK]
+---
+photos are stored by these services after the processing is complete.
+Privacy Practices of Third Parties:
+The third-party services we use adhere to strict privacy standards and do not store any face data. The
+photos are processed temporarily, and once the virtual try-on process is complete, they are deleted.
+These services do not retain any user photos for future use.

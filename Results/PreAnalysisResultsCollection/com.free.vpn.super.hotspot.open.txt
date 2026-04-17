@@ -1,0 +1,500 @@
+Security and privacy are at the heart of what we do.
+Accordingly, we think it is important to be transparent
+about what personal data we collect, how we use it,
+with whom we share it, and how we store it. This Privacy
+Notice describes how we process and handle data
+provided to us in connection with your use of certain of
+our products, services, apps, and websites that link to
+this notice (we refer to these collectively as our
+"services").
+
+---
+
+This notice covers Super Unlimited Inc., VPN Super Inc.,
+Free VPN Pte. Ltd, and Mobile Jump Pte. Ltd's data
+collection and processing practices with respect to any
+virtual private network (VPN) applications offered by
+each of them, including VPN - Super Unlimited Proxy.
+
+---
+
+Age Restrictions
+Our services are not intended for and may not be used
+by minors. In this context, minors are individuals under
+the age of 16 (or such lower age as may be applicable in
+a jurisdiction). We do not knowingly collect personal
+data from minors. If we discover that we have collected
+personal data from a minor, we may close their account
+and delete associated data without notice.
+
+---
+
+[PAGE BREAK]
+
+---
+
+Key Assurances about VPN - Super Unlimited Proxy
+• VPN
+Super Unlimited Proxy does not record
+your VPN browsing activities in any way that can
+be associated with you. When you use a VPN
+connection, we do not store any information that
+identifies what you browse, view, or do online via
+that VPN connection. The exception is when you
+choose to communicate with us (such as via chat
+or email) over a VPN connection and choose to
+identify yourself to us.
+• Data over our VPN connections is encrypted and
+we do not inspect or record the contents of what
+you are browsing, viewing, or doing through them
+(unless you are using the VPN connection to
+communicate with us).
+
+---
+
+• Free versions of our VPN products are supported
+by personalized ads, but these ads are not
+personalized based on any of your VPN browsing
+activity, nor do we share any such activity with
+our advertising partners. Personalization is
+conducted by our advertising partners, who
+collect personal data such as your user-
+resettable advertising identifier (e.g. AAID or
+IDFA) and combine it with the information they
+have to show you ads that they believe are more
+relevant to you. Google allows you to disable your
+advertising identifier via Google account settings.
+You can disable the Apple advertising identifier
+via Apple device settings.
+
+---
+
+1. What information do we collect about you?
+This section describes the various types of information
+we collect from and about you. We may collect the
+types of information described below.
+Information you provide to us
+• Account information. Our services generally do
+not require you to create an account to use them.
+If you decide to create an account, we may
+collect information such as your name,
+username, email address, and password.
+• Transactional information. If you purchase
+services from us, you will need to provide
+payment information to make your purchase. We
+
+---
+
+[PAGE BREAK]
+
+---
+
+use industry-standard payment processor
+services to handle payment information. Such
+services are subject to separate terms and
+privacy policies. We also collect information
+about what you are purchasing, such as billing
+address, subscription types, currency, purchase
+dates, and amounts.
+
+---
+
+• Customer support information. If you contact us
+for support, we collect information from you to
+help diagnose and resolve the issue. This
+information may include your contact
+information (e.g. e-mail address), payment
+information, and information about your use of
+the services.
+
+---
+
+• Other submissions. We collect information you
+submit when you respond to surveys we send,
+provide feedback, participate in promotions,
+apply for a job, or otherwise communicate with
+us.
+
+---
+
+Information collected automatically when using our
+services
+• IP address. We may collect your IP address when
+you use our services and also derive your
+approximate location based on your IP address.
+See section 2 to understand what we use your IP
+address and derived location for. However, we do
+not store your IP address.
+• User interaction data. We collect information
+about how you interact with our websites,
+applications, and advertisements that we may
+publish. For example, we may track what user
+interface elements are clicked on.
+• Device information. We and our ad networks
+collect information from and about the device
+you use to access our services. We may collect
+device model, device settings, operating system,
+network information, and application version
+numbers. Our ad networks only collect this
+information for free users.
+• Device hash. We may generate a unique hash for
+each device that uses our services. The device
+hash is randomly generated and you can re-
+install the app to get a new device ID. Device
+hashes are not linked to VPN browsing activity or
+user identities.
+• Advertising identifiers. Our ad networks may
+collect your device identifier for marketing and
+analytics purposes. Google allows you to disable
+your advertising identifier via Google account
+
+---
+
+[PAGE BREAK]
+
+---
+
+settings. You can disable the Apple advertising
+identifier via Apple device settings.
+• VPN application information. We do not store
+your VPN browsing activity (e.g. websites you
+browse or apps accessed through a VPN
+connection). However, we may collect diagnostic
+information as referenced above. We also collect
+anonymized application usage data such as
+speed, latency, connection success, login
+success, feature usage, error reports, and
+troubleshooting reports.
+• Information
+from cookies and similar
+technologies. We may receive information from
+cookies and similar technologies. You can read
+more about these in our cookie policy in Section
+5.
+
+---
+
+Information provided to us by third parties
+• Referrals. If you are invited to use our service, the
+person who invited you may submit your personal
+data, such as your email address or other contact
+information.
+• Third Party Accounts. Some services may allow
+you to register an account using a third party
+account (such as a Google or Microsoft account).
+If you do so, that third party may send us some
+information about you that they have. You may be
+able to control what information they send us via
+your privacy settings for that third party account.
+• Threat Information. We may receive information
+from reputable members of the security industry
+who provide information to help us to provide,
+develop, test, and improve our services (for
+example, lists of malicious URLs, spam blacklists,
+phone number blacklists, and sample malware).
+Some of this information may contain personal
+data on an incidental basis.
+
+---
+
+[PAGE BREAK]
+
+---
+
+[PAGE BREAK]
+
+---
+
+• IP addresses. We know that IP addresses can be
+regarded by users as sensitive information.
+• While collection of your IP address is
+required from a technical perspective to
+enable the use of our services, IP
+addresses are neither stored nor used
+beyond the period that they are required
+for such use (i.e. the duration of a VPN
+session). We do not associate IP
+addresses with any VPN browsing activity.
+• We also use IP addresses to approximate
+your location by calculating an imprecise
+latitude and longitude. Once we have
+ascertained your location, we discard the
+IP address. We use your approximate
+location to provide you with better service
+(e.g. to connect you to the nearest and
+fastest VPN server) and more relevant
+personalized advertising if you are a free
+user who has not opted out of such
+advertising.
+
+---
+
+[PAGE BREAK]
+
+---
+
+(such as a Google or Microsoft account). If you
+choose to do so, we will collect your email
+address and name from the third party account
+provider. The third party account provider may
+collect registration and sign in information.
+
+---
+
+[PAGE BREAK]
+
+---
+
+4. Use of Advertising Services With Free VPN
+Products
+For users of our free VPN products, we may serve ads
+through the use of third party advertising services. As
+previously noted, we do not collect VPN browsing
+information or share VPN browsing information with
+advertising service providers. However, as with any
+online advertising service, the entities will have access
+to the information associated with ad delivery such as
+which website or app the ad was delivered to, and
+certain device-specific information.
+
+---
+
+To display ads in our apps, we may use third party
+software development kits (SDKs), which consist of
+software code provided by a third party that is
+embedded in our apps. These SDKs may collect the
+following information from your device or use:
+• Device or mobile advertising identifiers
+(controlled by your mobile operating system)
+• IP address, which may reveal your approximate
+geographic location as determined by your
+carrier or ISP. However, when using the VPN
+service, this may replace your actual location
+with an alternative geographic location.
+• Device-specific information such as make,
+model, OS version, language, time zone, and
+other information.
+• The name of the app or website serving the ad.
+
+---
+
+[PAGE BREAK]
+
+---
+
+5. Tracking Technologies & Cookies
+About Tracking Technologies
+We use various technologies in our services to help us
+collect information which may include tracking links and
+pixel tags/page tags/web beacons. These are small,
+hidden images and blocks of code placed in web pages,
+ads, and our emails that allow us to determine if you
+perform a specific action. When you access a page, ad,
+or email, or click a link, these items let us know that you
+have accessed that page, opened an email, or clicked a
+link. For convenience, we refer to these as “tracking
+technologies,” although they are not always used to
+track individuals and the information collected is in a
+non-identifiable form that does not reference any
+personal data.
+
+---
+
+SDKS
+SDKs or software development kits are software code
+provided by our advertising network or other business
+partners that let our software interact with the services
+those partners provide. For example, in certain of our
+mobile apps, we may use an SDK to enable our app to
+serve ads from an advertising network. Sometimes
+these interactions will involve that business partner
+collecting, using, and tracking some information from
+the device on which the software is run. See above
+regarding the type of information that is collected and
+used for advertising purposes.
+
+---
+
+Cookies
+Cookies are small portions of text that are stored on
+the device you use to access our services. Cookies
+enable us (or third parties that we allow to set cookies
+on your device) to recognize repeat users. Cookies may
+expire after a period of time, depending on what they
+are used for. We use cookies:
+• To provide our services. Some cookies are
+essential for the proper operation of our services.
+For example, cookies allow us to authenticate
+who you are and whether you're authorized to
+access a resource.
+• To store your preferences. Cookies can store
+your preferences, such as language preferences
+or whether to pre-fill your username on sign in
+forms. We may also use them to optimize the
+content that we show to you.
+• For analytics. Cookies are used to inform us how
+users interact with our services so we can, as a
+legitimate interest, improve how they work (such
+as what screens or webpages you access, and
+whether our advertising is effective).
+• For security. Cookies can enable us and our
+payment processors to detect certain kinds of
+fraud.
+• For advertising-related purposes. We advertise
+our services online with the help of third parties
+who show ads and marketing about us on sites
+around the internet.
+
+---
+
+Third Parties
+We may allow our business partners to place certain
+tracking technologies in our services. These partners
+use these technologies for the following purposes:
+• To provide our services. Some business partners
+who help us to provide our services may use
+
+---
+
+[PAGE BREAK]
+
+---
+
+these technologies to support those efforts.
+• For Analytics. To help us understand how you use
+our services.
+• For Marketing. To help us market and advertise
+our services to you, including on third party
+websites. Cookies are used in connection with
+this to measure the performance of our
+advertising, attribute actions you take with our
+ads with actions you take on our services, deliver
+ad retargeting (serving ads based on your past
+interactions with our services), and target ads at
+similar audiences.
+• To Serve Ads. Ad networks may use these
+technologies to display ads which they think will
+be more relevant to you. For more information,
+please see the "Displaying Advertisements”
+section above.
+
+---
+
+[PAGE BREAK]
+
+---
+
+[PAGE BREAK]
+
+---
+
+[PAGE BREAK]
+
+---
+
+[PAGE BREAK]
+
+---
+
+[PAGE BREAK]
+
+---
+
+[PAGE BREAK]
+
+---
+
+R2.4. Opt-Out From Sale
+You may have the right to opt out of the "sale" of your
+personal information as defined by the California
+Consumer Privacy Act (CCPA). The CCPA broadly
+defines "sale" such that it may include allowing third
+parties to receive certain information, e.g. cookies, to
+deliver personalized advertising on our services.
+
+---
+
+[PAGE BREAK]
+
+---
+
+R2.5. Sale of Personal Information
+As is common practice among companies that operate
+online, in the last 12 months, we have allowed certain
+third-party providers to collect information about
+consumers directly through our website and other
+online services for purposes of analyzing and optimizing
+our services, delivering ads, providing content and ads
+that are more relevant, measuring statistics and the
+success of ad campaigns, and detecting and reporting
+fraud. As a result of this practice, in the last 12 months,
+we have sold (per the CCPA's broad definition) the
+following categories of personal information to these
+third-party providers, subject to each consumer's
+settings and their right to opt-out:
+• Identifiers, such as IP address.
+• Commercial Information, such as service
+information, including services of interest or
+orders made in connection with our services.
+• Internet/Network Information, such as log data
+(including operating system and browser type)
+and analytics data (including usage and activity
+on our website and online services). Note this
+excludes VPN browsing activity data.
+• Geolocation Data, such as general geographic
+location based on IP address.
+• Since our services are not directed to, and we do
+not intend to, or knowingly, collect or solicit
+personal information from children under the age
+of 16, we do not sell personal information of
+consumers we know to be under the age of 16.
+
+---
+
+Categories of Personal Information Collected and
+with Whom we Share It
+
+---
+
+[PAGE BREAK]
+
+---
+
+[PAGE BREAK]
+
+---
+
+Sources of Personal Information
+All the categories of personal information we collect
+come from the following categories of sources:
+• You (either via voluntary submission or automatic
+collection, such as when you use our services)
+• Third parties (such as service providers, other
+users or marketing partners who may refer you to
+our services)
+• Identifiers (such as name, account username,
+email address)
+• Commercial information (such as transaction
+data)
+• Financial and transactional data (such as credit
+card or other payment instrument details)
+• Internet or other network or device activity (such
+as app usage and interactions with our services)
+• Unique device ID
+• Geolocation information (e.g., your city and state
+based on IP address)
+• Demographics and statistical information (such
+as age and gender)
+• Customer service information (e.g. support
+requests)
+• Survey
+responses and other research
+information
+• Other information that identifies or can be
+reasonably associated with you
+
+---
+
+The categories of personal information collected, as
+described above, are used for the following categories
+of purposes:

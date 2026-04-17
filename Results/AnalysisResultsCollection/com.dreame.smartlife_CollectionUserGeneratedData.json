@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "After obtaining your authorization, we may send marketing messages to you via SMS, phone, and/or email using the contact information provided by you, such as phone number and email. You may choose to refuse such marketing messages at any time.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We provide you with an online feedback channel to help you effectively solve any potential problems you might have with your Dreamehome app and smart hardware device. To this end, we need to collect the following information from you: Log information of Dreamehome app and device, your contact information, problem description, and pictures and videos about the problem. When you upload pictures and videos about the problem, we may access your camera and album permissions. When you need to use the clipboard content to describe the problem, we will access your clipboard content. App and device log information may include device status, information sensed by sensor devices, device operation logs, device identifiers, etc. The purpose of collecting such information is to analyze and locate the cause of the problem. The purpose of collecting your contact information is to follow up and check if the problem is fully resolved or to contact you to supplement additional information as necessary.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We provide you with an online feedback channel to help you effectively solve any potential problems you might have with your Dreamehome app and smart hardware device. To this end, we need to collect the following information from you: Log information of Dreamehome app and device, your contact information, problem description, and pictures and videos about the problem. When you upload pictures and videos about the problem, we may access your camera and album permissions. When you need to use the clipboard content to describe the problem, we will access your clipboard content. App and device log information may include device status, information sensed by sensor devices, device operation logs, device identifiers, etc. The purpose of collecting such information is to analyze and locate the cause of the problem. The purpose of collecting your contact information is to follow up and check if the problem is fully resolved or to contact you to supplement additional information as necessary.",
+      "lang": "en"
+    }
+  ]
+}

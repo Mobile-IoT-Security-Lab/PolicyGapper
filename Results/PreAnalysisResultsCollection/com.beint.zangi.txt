@@ -1,0 +1,105 @@
+Secret Phone Inc. is committed to ensuring that your privacy is protected. Should we
+ever ask you to provide any information by which you can be identified when using
+our website, then you can be assured that it will only be used in accordance with this
+privacy statement.
+---
+What are cookies
+A cookie is a small file which asks permission to be placed on your computer's hard
+drive. Once you agree, the file is added and the cookie helps analyze web traffic or
+lets you know when you visit a particular site. Cookies allow web applications to
+respond to you as an individual. The web application can tailor its operations to your
+needs, likes and dislikes by gathering and remembering information about your
+preferences.
+---
+How we use cookies
+We use traffic log cookies to identify which pages are being used. This helps us
+analyze data about webpage traffic and improve our website in order to adapt it to
+customer needs. We only use this information for statistical analysis purposes and
+then the data is removed from the system. Overall, cookies help us to provide you
+with a better website experience, by enabling us to monitor which pages you find
+useful and which you do not.
+A cookie in no way gives us access to your computer or any information about you,
+other than the data you choose to share with us. You can choose to accept or
+decline cookies. Most web browsers automatically accept cookies, but you can
+usually modify your browser setting to decline cookies if you prefer. This may
+prevent you from taking full advantage of the website.
+---
+You may request details of personal information which we hold about you (e.g.
+under UK Data Protection Act 1998). A small fee will be payable. If you would like a
+copy of the information held on you please use our Contact page.
+If you believe that any information we are holding on you is incorrect or incomplete,
+please email us as soon as possible, at the above Contact page. We will correct any
+information found to be incorrect.
+---
+2. Consent to Use of Data
+You agree that we may collect and use technical data and related information,
+including but not limited to technical information about Your mobile device, system
+and application software, and peripherals, that is gathered periodically to facilitate
+the provision of software updates, product support and other services to You (if any)
+related to the Licensed Application. We may use this information, as long as it is in a
+form that does not personally identify You, to improve our Services offered to You
+(for further information on our privacy policy click here).
+---
+3. What data Zangi Messenger app collects and how it is used
+User privacy is our mission, therefore we have done our best to avoid any personal
+or private data collection. However, some optional features like user Profile (Name/
+Surname/ Photo) and Invite "Friends via SMS" / "Invite" in Contacts need some data
+access to fulfill their operations:
+3.1 User Profile name Name/ Surname/ Photo / Bio (Optional): Users can choose to
+skip adding their Name/ Surname/ Photo / Bio in their Profile and communicate
+absolutely anonymously, but when filled out, they are to be aware that the Name/
+Surname/ Photo /Bio in Zangi Messenger Profile is shared with other Zangi users,
+who knows the user's Zangi Private number. How? When you call or message each
+other, Zangi shows the Name/ Surname / Photo of the sender in the conversation/
+push/ call screen. All listed plus Bio are seen in the your profile when other users tap
+on your profile avatar in the app. None of the listed is shared to any 3rd party outside
+of the Zangi Messenger system except for legal compliance cases.
+How to delete your Profile name Name/ Surname/ Photo? Just remove the data
+from your App Profile Section by tapping on the Edit icon. This data will also be
+removed when the user deletes his/her Zangi account from the Zangi Messenger
+Settings → Privacy → Delete account.
+3.2 Copying the user's Phone book Contacts (Optional, with user Consent) within
+the same device into Zangi Messenger's Contacts section located on the same
+device, NOT leaving the user's device storage, NOT sent to the servers, NOT shared
+to 3rd parties: In order to use the features "Invite Friends” → “Invite By SMS" and
+"Invite" → "Invite By SMS” in Zangi Messenger, users need their Phone Book
+Contacts to send invitations. To copy a user's Phone Book contacts into Zangi
+Messenger app's Contact section, located on the user's phone storage, the app will
+ask the user for permission within a pop-up, explaining the usage and with the
+options to Accept or Decline. This will happen when the user has just installed the
+--- [PAGE BREAK] ---
+"Accept" will mean giving Consent to a local copy of user's Phone Book contacts
+into Zangi Messenger app's Contact section one time, and to maintain runtime
+synchronization of your contacts, i.e., whenever you add/remove a contact from your
+Phone book, allow Zangi Messenger App do the same in the Zangi Messenger's
+Contacts section, not bothering the user by asking the same question every time
+they sync runtime.
+"Decline" will mean there will be no phone Book Contacts to send invites to. The
+app's Contacts tab's "All contacts” section will remain blank, while Zangi contacts
+(Zangi virtual numbers) with whom you have interacted via Zangi messenger may
+appear in the Contact tab "Zangi Contacts" section.
+What if you have changed your mind about Contact permission? Let's say you gave
+permission one time then changed your mind, how to revert? Navigate to your
+phone's App section, search for “Zangi Messenger” → Permissions → and remove
+the Contacts permission, then save. This action won't remove already copied
+contacts from the App Contacts section (it's a local copy never leaving your device),
+but it will prevent runtime synchronization with your phone book contacts. Next time
+you use any of the above-listed features, the App will ask for permission again.
+---
+3.3 Registration data and technical identifiers. On sign-up the app assigns the user
+a country code, push token and device ID, as well as gets your device type and / or
+model, operating system and Zangi app version. All listed in section 3.3 data is
+securely stored on servers and is used for technical and support purposes unless
+otherwise required by law.
+---
+investigation/ suppoеnа / Court order requesting to share any available in the system
+data, Zangi will share the following data of the suspected in the crime user:
+registration date, account deletion date, last login date, name completed in the
+profile, Bio, Premium subscription status, subscription transaction ID,
+subscription/renewal date, device model, device platform and operating system
+version, push token, Device ID, which is the real Device ID for Android and system
+generated for iOS. If the user is an old user who has signed in via email/phone
+number, also the sign-in email /phone number will be provided. Users with Zangi
+virtual numbers starting with 10 DO NOT have any assigned email or phone number.
+Authority requests supported by duly served supporting documents must be sent to
+legal@zangi.com

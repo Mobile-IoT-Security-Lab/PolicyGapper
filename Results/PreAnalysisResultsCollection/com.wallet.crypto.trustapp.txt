@@ -1,0 +1,301 @@
+This Privacy Notice (“Notice") describes how (("Trust Wallet”, “we”, “us”, “our”, “ourselves")) collects
+and processes your Personal Data (“you”, “your”) through our websites (https://trustwallet.com/) and
+applications or other services (collectively, together with our websites and apps, our "Services"). In
+addition, we may also process your Personal Data for specific purposes, where applicable, such as
+processing your job applications or administering your employment with us. By using our Services or
+engaging with us, you consent to the collection, storage, processing, and transfer of your Personal
+Data as described in this Privacy Notice.
+---
+1. Our Relationship with You
+Your right to privacy and the protection of your Personal Data is important to us. Trust Wallet is
+committed to the best practices in privacy, and we will only collect data when it's strictly necessary
+to provide our Services.
+---
+2. Collection and Use of Your Personal Data
+"Personal Data" is information that may identify an individual or relates to an identifiable individual.
+This includes information you provide voluntarily to us, information which is collected or created
+automatically in the natural course of provision of our Services, or otherwise when you contact us.
+Following best practices in privacy such as data minimisation, we endeavour to collect only the
+amount of Personal Data that is necessary to provide our Services to our users.
+---
+When you Use Our Self-Custody Wallet
+As a user of our wallet application, whether through the app or browser extension, you have the
+option to create or import wallet information, which is stored locally on your device. We do not
+collect email addresses or any other categories of personal information for this purpose.
+
+Below, we present a table that outlines the personal information the application uses and the
+purposes for processing that information.
+---
+Category of personal
+Data
+Types of personal
+Data
+Purpose of
+processing & Legal
+Basis
+Wallet Information
+Wallet private key and
+public wallet address.
+* Please note that wallet
+information is stored
+locally on your device
+under your custody.
+We process your Wallet
+Information and
+Transaction Information to
+deliver self-custody
+crypto wallet services and
+to facilitate, execute, and
+manage the transactions
+you request.
+Our legal basis for this
+processing is that it is
+essential for the
+performance of a contract
+of which you are a party.
+Transaction Information
+Information about the
+historical transaction you
+made on the public
+blockchain such as
+timestamps, public wallet
+address and transaction
+amounts.
+Device & Usage
+Information
+Device model, operating
+system, app installation
+information, browser type
+and language setting.
+* Please note that the IP
+address is used only on a
+transient basis, cannot be
+linked to any user's
+personal data, and is not
+retained. The IP address's
+sole purpose is to
+facilitate traffic and
+service redirection in
+compliance with
+regulatory requirements
+based on the user's
+country. We neither store
+nor access the IP address.
+We use your Device and
+Usage Information to
+deliver and enhance our
+services, ensuring you
+have a better user
+experience.
+Our legal basis for this
+processing is that it is
+necessary to fulfill our
+legitimate interests in
+improving our services
+and enhancing user
+experience.
+---
+When You Visit Our Website
+When you use our website, read our blog, request customer support, participate in our community
+forum or campaigns, you may provide personal information. Please note that we do not ask for your
+wallet information for this purpose. You can access our forum without creating an account, though
+you have the option to create a profile if you wish to interact with other members.
+
+Below, we present a table that outlines the personal information the application uses and the
+purposes for processing that information.
+---
+Category of personal
+Data
+Types of personal
+Data
+Purpose of
+processing & Legal
+Basis
+Contact Information
+Information you choose to
+provide during your
+interaction with us on our
+website such as email
+address.
+We process your contact
+information to
+communicate with you on
+customer support and
+assistance purposes.
+Our legal basis for this
+processing is that it is
+essential for the
+performance of a contract
+of which you are a party.
+Social Media Information
+Information you choose to
+provide during your
+interaction with us via
+social media channels
+such as X, Telegram, etc.
+We use your social media
+information to keep you
+updated on the latest
+announcement on social
+media channels.
+We rely on your consent
+to process your personal
+information for marketing
+purposes. You may
+withdraw your consent at
+any time. The withdrawal
+of consent does not affect
+the lawfulness of
+processing based on
+consent before its
+withdrawal.
+Profile Information
+Information you choose to
+provide when creating a
+profile on our online
+community forum such as
+email, username, profile
+picture.
+We process your profile
+information to enable login
+and facilitate member
+interactions on the
+community forum
+platform.
+Our legal basis for this
+processing is that it is
+essential for the
+performance of a contract
+of which you are a party.
+Device & Usage
+Information
+Device model, operating
+system, internet
+connectivity data such as
+browser type, application
+version, time zone and
+language setting.
+* Please note that the IP
+address is used only on a
+transient basis, cannot be
+linked to any user's
+personal data, and is not
+retained.
+The IP address's sole
+purpose is to facilitate
+traffic and service
+redirection in compliance
+with regulatory
+requirements based on
+the user's country. We
+neither store nor access
+the IP address.
+We use your Device and
+Usage Information to
+deliver and enhance our
+services, ensuring you
+have a better user
+experience.
+Our legal basis for this
+processing is that it is
+necessary to fulfill our
+legitimate interests in
+improving our services
+and enhancing user
+experience.
+---
+Recruitment and Employment
+If you apply for a position with us or become employed by us, we collect and process your Personal
+Data for purposes including recruitment, onboarding, employment administration, compliance with
+legal obligations, and other employment-related activities. Personal Data may be collected directly
+from you, from third-party recruitment agencies, or from publicly available sources such as LinkedIn.
+---
+We process the following categories of Personal Data for recruitment and employment purposes:
+• Contact Information: We will collect your name, email address, and other relevant contact details
+to communicate with you about your job application and, where applicable, your employment.
+• Education and Employment Information: We collect your Curriculum Vitae (CV), resume, LinkedIn
+profile, academic certificates and transcripts, employment history, and (where relevant) salary
+and bonus details. We use this information to assess your suitability, process your application,
+conduct background checks, and manage your employment relationship.
+---
+Participation in Our Events
+When you register or attend our event, we collect some Personal Data to help manage your
+participation. This may include your name, contact details, company information, job title, industry,
+location, LinkedIn profile, payment details, and billing address.
+---
+Please note that photography and videography may take place during the event for promotional and
+archival purposes. By attending our event, you agree that Trust Wallet and our partners may use
+your image in marketing materials, social media posts, or future event promotions as part of our
+efforts to share and celebrate the event.
+---
+Biometric Authentication (Face ID & Fingerprint Scan)
+We offer optional biometric authentication (such as Face ID or fingerprint recognition) as a secure
+and convenient method for logging into your wallet. If you choose to enable biometric
+authentication, your biometric data is processed directly on your device using its built-in security
+features on the mobile operating system. You can choose to enable or disable biometric
+authentication at any time through your device settings or within our app's security settings. Your
+biometric authentication information is never transmitted to our servers or any third party.
+---
+Interaction with Our Al Services
+When you use our Services that involve artificial intelligence ("Al Services"), such as our Al Chatbot,
+we process the content you provide in your inputs or feedback so that we can respond and deliver
+the Al functionality you have chosen to use
+
+Voice Input (Optional): Where available, you may choose to interact with the Al Services using voice
+input. Your voice is processed in real time to create a text transcription, which is then handled in the
+same way as any other text-based input.
+
+We process this content (which may include text, feedback, or voice input transcriptions) on the
+basis of contract performance, as it is necessary to provide the Al Services you request.
+---
+Personal Data collected automatically from you:
+In certain circumstances, we may collect Personal Data automatically from you when you use our
+Services, in accordance with applicable laws. This may include device, log, and usage data, which
+helps us enhance your experience, provide customer support, improve the performance of our sites
+and Services, and safeguard your account by detecting unauthorized access and preventing fraud.
+---
+When you use our self-custody wallet or visit our website, your IP address may be processed on a
+transient basis. This limited processing is used solely (a) to route traffic and facilitate service
+localization in accordance with regulatory requirements, and (b) to establish secure connections with
+third-party platforms (e.g., Coinbase) when you choose to connect with them. In such cases, your IP
+address may be briefly shared with the relevant platform only for generating security and
+authentication tokens to safeguard your account and transactions. Your privacy remains protected at
+all times, and we do not log, retain or otherwise access your IP address beyond these temporary
+uses.
+---
+Aggregated and Anonymized Data
+We also use aggregated or anonymized data to improve our Services. This involves analyzing
+general usage trends, gathering feedback, and conducting research without identifying individual
+users. For example, we may create overall usage reports for specific regions without containing
+Personal Data. We may also share or disclose such aggregated or anonymized data with trusted
+service providers, business partners, or other third parties—such as prospective investors or
+partners-for purposes including, but not limited to, demonstrating the performance of our Services,
+supporting business development, or informing strategic decisions.
+---
+3. Use of Cookies
+We use cookies and similar tools to enhance your user experience, provide our services, enhance
+our marketing efforts and understand how customers use our services so we can make
+improvements. Depending on applicable laws in the region you are located in, the cookie banner on
+your browser will tell you how to accept or refuse cookies. Please read our cookie notice here.
+---
+The information you provide to us is stored on secure servers managed by us or our trusted service
+providers. Access to and use of this information are governed by our internal security policies and
+standards, or those agreed upon with our service providers. We hold ISO 27001 and ISO 27701
+certifications, which demonstrate our commitment to managing information security in accordance
+with best practices.
+---
+If you are our self-custody wallet user, please be aware that your wallet information and private key
+are stored locally on your device and remains under your personal control. To protect your wallet
+information, ensure that access controls and a passcode are enabled on both your device and the
+wallet application. It is important to keep your passcode confidential and not share it with anyone.
+---
+9. Children
+We are especially sensitive about children's information. Our Services are not targeted towards
+children, and our users must be at least eighteen (18) years old to use our services. We do not
+knowingly solicit data from or market to any persons under 18 years of age. By using the Services,
+you represent that you are at least 18 years old. If we become aware that we have collected Personal
+Data from someone under 18, we will deactivate the account in question and take reasonable
+measures to promptly delete all such data from our records unless we are legally required to keep it.
+---
+If you become aware that any Personal Data we may have collected is from a user under the age of
+18, please contact us using the contact information.

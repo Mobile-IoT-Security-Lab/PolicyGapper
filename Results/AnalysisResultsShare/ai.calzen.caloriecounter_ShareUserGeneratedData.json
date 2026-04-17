@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We use the OpenAI GPT API to enhance the features within the app. This means that the food photos, calorie tracking requests, and nutritional queries you input into the app may be processed by the GPT API to provide you with accurate calorie, macro, and health score calculations.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We use the OpenAI GPT API to enhance the features within the app. This means that the food photos, calorie tracking requests, and nutritional queries you input into the app may be processed by the GPT API to provide you with accurate calorie, macro, and health score calculations.",
+      "lang": "English"
+    }
+  ]
+}

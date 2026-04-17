@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may also share your personal data with our business partners. These companies may use your data to provide you with advertising that may be of interest to you. This data may include your personal details (such as your name and age), your contact details (such as email), your photos and videos, your contact list, your location, your communications with other users, your posts, your device data, and your usage data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We may also share your personal data with our business partners. These companies may use your data to provide you with advertising that may be of interest to you. This data may include your personal details (such as your name and age), your contact details (such as email), your photos and videos, your contact list, your location, your communications with other users, your posts, your device data, and your usage data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "We may also share your personal data with our business partners. These companies may use your data to provide you with advertising that may be of interest to you. This data may include your personal details (such as your name and age), your contact details (such as email), your photos and videos, your contact list, your location, your communications with other users, your posts, your device data, and your usage data.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Your Communications with Us. We collect personal information from you such as your name, email address, phone number, or mailing address when you request information about our Services, register for an account, signup for marketing from us, register for our newsletter, or otherwise communicate with us.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Other information that you provide, including account information such as your biography or country; information for features of the App, products, and services, for example, an alarm, information about your friends, and logs for food, weight, sleep, or water; messages on the App; and information recorded by your device which may vary depending on the device you use.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Electronic, visual, or similar information, such as your profile photo or other photos.",
+      "lang": "en"
+    }
+  ]
+}

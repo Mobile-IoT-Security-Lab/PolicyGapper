@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Internet and other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements, which we share with our service providers, advertising partners, and other vendorsão Services; and",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Internet and other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements, which we share with our service providers, advertising partners, and other vendorsão Services; and",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Partners. Payment and purchase information is collected and processed by payment partners for payment processing and anti-fraud.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Payment Partners. Payment and purchase information is collected and processed by payment partners for payment processing and anti-fraud.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "(6) Categories of Personal Information Disclosed for a Business Purpose: In the preceding 12 months, we may have disclosed the following categories of personal information about you for a business purpose: identifiers, other identifying information (e.g., social security number), financial information, commercial information, internet and other electronic network activity information, sensory information, and inferences.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "(6) Categories of Personal Information Disclosed for a Business Purpose: In the preceding 12 months, we may have disclosed the following categories of personal information about you for a business purpose: identifiers, other identifying information (e.g., social security number), financial information, commercial information, internet and other electronic network activity information, sensory information, and inferences.",
+      "lang": "English"
+    }
+  ]
+}

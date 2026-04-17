@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "Our applications may need access to certain features on your device such as enabling emails to contacts, SMS storage and Wi-Fi network status, as well as other features. This information is used to allow the applications to run on your device and allow you to interact with the applications. At any time you may revoke your permissions by turning these off at the device level or contacting us at privacy@70mai.com",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Feedback provided by you: if you submit your questions or problems during using the product to us, we will save your feedback content on the server for product improvement.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "4.2.1. You may use the Software to publish information such as views, data, text, information, user names, pictures, photos, personal information, audio or video files, links and so on that are created by you or that you have the right to publish. You must guarantee that you have the intellectual property rights or you have obtained the legal authorization of the information uploaded by you, and that your use of the Software and services does not infringe any legitimate rights or interest of any third party.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "4.2.1. You may use the Software to publish information such as views, data, text, information, user names, pictures, photos, personal information, audio or video files, links and so on that are created by you or that you have the right to publish. You must guarantee that you have the intellectual property rights or you have obtained the legal authorization of the information uploaded by you, and that your use of the Software and services does not infringe any legitimate rights or interest of any third party.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "4.2.1. You may use the Software to publish information such as views, data, text, information, user names, pictures, photos, personal information, audio or video files, links and so on that are created by you or that you have the right to publish. You must guarantee that you have the intellectual property rights or you have obtained the legal authorization of the information uploaded by you, and that your use of the Software and services does not infringe any legitimate rights or interest of any third party.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "4.2.1. You may use the Software to publish information such as views, data, text, information, user names, pictures, photos, personal information, audio or video files, links and so on that are created by you or that you have the right to publish. You must guarantee that you have the intellectual property rights or you have obtained the legal authorization of the information uploaded by you, and that your use of the Software and services does not infringe any legitimate rights or interest of any third party.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "4.2.1. You may use the Software to publish information such as views, data, text, information, user names, pictures, photos, personal information, audio or video files, links and so on that are created by you or that you have the right to publish. You must guarantee that you have the intellectual property rights or you have obtained the legal authorization of the information uploaded by you, and that your use of the Software and services does not infringe any legitimate rights or interest of any third party.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "4.2.1. You may use the Software to publish information such as views, data, text, information, user names, pictures, photos, personal information, audio or video files, links and so on that are created by you or that you have the right to publish. You must guarantee that you have the intellectual property rights or you have obtained the legal authorization of the information uploaded by you, and that your use of the Software and services does not infringe any legitimate rights or interest of any third party.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Our applications may need access to certain features on your device such as enabling emails to contacts, SMS storage and Wi-Fi network status, as well as other features. This information is used to allow the applications to run on your device and allow you to interact with the applications. At any time you may revoke your permissions by turning these off at the device level or contacting us at privacy@70mai.com",
+      "lang": "en"
+    }
+  ]
+}

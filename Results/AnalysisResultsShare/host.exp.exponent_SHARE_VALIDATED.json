@@ -1,0 +1,23 @@
+```json
+{
+"omitted_declarations": [],
+"excluded_declarations": [
+{
+"data_type": "Crash logs",
+"policy_reference": "Authorized third-party vendors and service providers: We send the information you provide directly to us, the information we collect automatically, and the information we collect from other sources to services that process data for us for business purposes related to providing products or services you've requested (such as payment processing, analytics, error logging, customer interactions, and data processing and storage).",
+"reason_of_removal": "Service Provider Exemption",
+"justification": "The policy states data is shared with service providers who 'process data for us', which falls under the service provider exemption in Google Play's User Data Policy. This is not considered 'sharing' for Data Safety purposes.",
+"how_to_fix": "No action required. This data transfer does not need to be declared as 'sharing' in the Data Safety section because it qualifies for the service provider exemption.",
+"lang": "English"
+},
+{
+"data_type": "Device or other IDs",
+"policy_reference": "Authorized third-party vendors and service providers: We send the information you provide directly to us, the information we collect automatically, and the information we collect from other sources to services that process data for us for business purposes related to providing products or services you've requested (such as payment processing, analytics, error logging, customer interactions, and data processing and storage).",
+"reason_of_removal": "Service Provider Exemption",
+"justification": "The policy states data is shared with service providers who 'process data for us', which falls under the service provider exemption in Google Play's User Data Policy. This is not considered 'sharing' for Data Safety purposes.",
+"how_to_fix": "No action required. This data transfer does not need to be declared as 'sharing' in the Data Safety section because it qualifies for the service provider exemption.",
+"lang": "English"
+}
+]
+}
+```

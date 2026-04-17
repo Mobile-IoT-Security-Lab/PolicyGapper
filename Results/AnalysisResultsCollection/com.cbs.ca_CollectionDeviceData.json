@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "The information we collect varies based on the Paramount Services that you use. We collect and receive personal information associated with you and your device automatically when you use certain Paramount Services, including when you interact with the Paramount Services on sites, platforms, and services operated by other companies (“Third-Party Services”). Your device could include your computer, mobile device, gaming system, smart TV, or other streaming devices. We collect and receive device IDs and other unique identifiers and online activity data using device-based tracking technologies such as cookies, pixels, tags, beacons, scripts, and similar technologies. On certain pages of the Paramount Services, we use third-party tools to help us look at mouse movements, clicks, keystrokes, data or text entered, and the pages you visit. For more information about tracking technologies, please see the “Cookies and other tracking technologies” section below.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you post or share comments or other content when using the Paramount Services, we collect information about that content, such as your username, screen name, comments, likes, interests, status, and pictures. You may choose to post audio or visual content, such as photos, videos, or recordings when using certain Paramount Services, or when granting us access to your camera or microphone while using interactive features of the Paramount Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "When you post or share comments or other content when using the Paramount Services, we collect information about that content, such as your username, screen name, comments, likes, interests, status, and pictures. You may choose to post audio or visual content, such as photos, videos, or recordings when using certain Paramount Services, or when granting us access to your camera or microphone while using interactive features of the Paramount Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Marketing and Advertising: Examples include collecting information about your use of the Paramount Services, interactions with advertisements, your browsing habits, and other preferences so that we can deliver more relevant and meaningful advertising to you on the Paramount Services or on Third-Party Services.",
+      "lang": "English"
+    }
+  ]
+}

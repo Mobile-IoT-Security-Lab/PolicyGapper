@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Information That Is Collected Automatically. When our Services are used we may collect some information automatically. This helps us analyze and optimize the performance of our Services. We do not use this information to personally identify users. Information we collect automatically includes information such as user device properties, IP address, Media Access Control (“MAC”) address and unique device identifier or other device identifier (“UDID”); user device software platform and firmware; user's mobile phone carrier; user's internet service provider; the search terms used on our website; specific web pages users visit; the duration of use of our website; geographical data; and other non-personally identifying information as is reasonably required to enhance our website and other Leqing products and services. This information may be collected from all users of the Services, including children under the age of 13.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Information That Is Collected Automatically. When our Services are used we may collect some information automatically. This helps us analyze and optimize the performance of our Services. We do not use this information to personally identify users. Information we collect automatically includes information such as user device properties, IP address, Media Access Control (“MAC”) address and unique device identifier or other device identifier (“UDID”); user device software platform and firmware; user's mobile phone carrier; user's internet service provider; the search terms used on our website; specific web pages users visit; the duration of use of our website; geographical data; and other non-personally identifying information as is reasonably required to enhance our website and other Leqing products and services. This information may be collected from all users of the Services, including children under the age of 13.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Information That Is Collected Automatically. When our Services are used we may collect some information automatically. This helps us analyze and optimize the performance of our Services. We do not use this information to personally identify users. Information we collect automatically includes information such as user device properties, IP address, Media Access Control (“MAC”) address and unique device identifier or other device identifier (“UDID”); user device software platform and firmware; user's mobile phone carrier; user's internet service provider; the search terms used on our website; specific web pages users visit; the duration of use of our website; geographical data; and other non-personally identifying information as is reasonably required to enhance our website and other Leqing products and services. This information may be collected from all users of the Services, including children under the age of 13.",
+      "lang": "English"
+    }
+  ]
+}

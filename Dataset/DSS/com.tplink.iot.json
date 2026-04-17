@@ -1,0 +1,70 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Photos",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://privacy.tp-link.com/app/tapo/privacy"
+}

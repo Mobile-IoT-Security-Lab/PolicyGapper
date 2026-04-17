@@ -1,0 +1,74 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "Technical Information. We automatically collect certain information from you when you use the Services. Such information includes your IP address, unique device identifiers, advertising identifiers, network type and connections, mobile or device model, device manufacturer, country calling codes, application version number, app and file names and types, operating system, device resolution, system language and region, and battery information. Where you log-in from multiple devices, we will be able to use your profile information to identify your activity across devices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Technical Information. We automatically collect certain information from you when you use the Services. Such information includes your IP address, unique device identifiers, advertising identifiers, network type and connections, mobile or device model, device manufacturer, country calling codes, application version number, app and file names and types, operating system, device resolution, system language and region, and battery information. Where you log-in from multiple devices, we will be able to use your profile information to identify your activity across devices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Third-Party Services. Where available, and if you choose to sign-up or log-in to the Services using a third-party service such as Apple, Facebook, Google, or TikTok, such services provide us with information such as your profile information, including your username, email, and profile picture. Depending on the service provided, these third party services may also share your contact list, and information about your use of that service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Account Information. You give us information when you register on the Services, such as your date of birth, your email address and the corresponding password you set for your CapCut account, your phone number, your accounts on other social network services (where applicable), and other information you choose to disclose in your user profile, such as gender.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Purchase Information. If you use features that involve payment, including rewards programs, or the CapCut Cloud Space Service as described in our Terms of Service, we and/or our service providers or business partners, such as payment providers, may collect information about the purchase or payment transaction, such as payment card information, billing, delivery, and contact information, and what you purchased, where required for the purpose of payment.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Purchase Information. If you use features that involve payment, including rewards programs, or the CapCut Cloud Space Service as described in our Terms of Service, we and/or our service providers or business partners, such as payment providers, may collect information about the purchase or payment transaction, such as payment card information, billing, delivery, and contact information, and what you purchased, where required for the purpose of payment.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Purchase Information. If you use features that involve payment, including rewards programs, or the CapCut Cloud Space Service as described in our Terms of Service, we and/or our service providers or business partners, such as payment providers, may collect information about the purchase or payment transaction, such as payment card information, billing, delivery, and contact information, and what you purchased, where required for the purpose of payment.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Sensitive Personal Information.\nAlthough some of the information that we collect, use, and disclose may constitute sensitive personal information under applicable state privacy laws, such as information from users under the age of 18, information you disclose in survey responses or in your User Content about your racial or ethnic origin, national origin, religious beliefs, mental or physical health diagnosis, sexual life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, or financial information, we only process such information in order to provide the Services and within other exemptions under applicable law. For example, we may process your financial information in order to provide you the goods or services you request from us or your driver's license number in order to verify your identity.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Sensitive Personal Information.\nAlthough some of the information that we collect, use, and disclose may constitute sensitive personal information under applicable state privacy laws, such as information from users under the age of 18, information you disclose in survey responses or in your User Content about your racial or ethnic origin, national origin, religious beliefs, mental or physical health diagnosis, sexual life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, or financial information, we only process such information in order to provide the Services and within other exemptions under applicable law. For example, we may process your financial information in order to provide you the goods or services you request from us or your driver's license number in order to verify your identity.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Sensitive Personal Information.\nAlthough some of the information that we collect, use, and disclose may constitute sensitive personal information under applicable state privacy laws, such as information from users under the age of 18, information you disclose in survey responses or in your User Content about your racial or ethnic origin, national origin, religious beliefs, mental or physical health diagnosis, sexual life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, or financial information, we only process such information in order to provide the Services and within other exemptions under applicable law. For example, we may process your financial information in order to provide you the goods or services you request from us or your driver's license number in order to verify your identity.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "Sensitive Personal Information.\nAlthough some of the information that we collect, use, and disclose may constitute sensitive personal information under applicable state privacy laws, such as information from users under the age of 18, information you disclose in survey responses or in your User Content about your racial or ethnic origin, national origin, religious beliefs, mental or physical health diagnosis, sexual life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, or financial information, we only process such information in order to provide the Services and within other exemptions under applicable law. For example, we may process your financial information in order to provide you the goods or services you request from us or your driver's license number in order to verify your identity.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Sensitive Personal Information.\nAlthough some of the information that we collect, use, and disclose may constitute sensitive personal information under applicable state privacy laws, such as information from users under the age of 18, information you disclose in survey responses or in your User Content about your racial or ethnic origin, national origin, religious beliefs, mental or physical health diagnosis, sexual life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, or financial information, we only process such information in order to provide the Services and within other exemptions under applicable law. For example, we may process your financial information in order to provide you the goods or services you request from us or your driver's license number in order to verify your identity.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Information When You Contact Us. When you contact us, we collect the information you send us, such as proof of identity or age, feedback or inquiries about your use of the Services or information about possible violations of our Terms of Service, Community Guidelines, or other policies.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Your Email Contacts. Where available, if you are a registered user on our website and you choose to sign-up or log-in to the Services using Google and expressly agree to synchronize your Google contacts, we will collect the Gmail addresses of your contacts.",
+      "lang": "en"
+    }
+  ]
+}

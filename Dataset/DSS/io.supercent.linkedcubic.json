@@ -1,0 +1,30 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    }
+  ],
+  "privacyPolicyUrl": "https://corp.supercent.io/PrivacyPolicy"
+}

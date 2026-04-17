@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "• Account information. We may collect information related to your account, including your Aqara Account nickname, profile photo, shared Aqara Account, phone number (if any), e-mail address.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "• The Information collected related to the Software Value-Added Services (Including but not limited to: camera cloud storage, log cloud storage) provided by our organization encompasses the following data points:\nAccount information, device ID, package type, service validity period and days, order number, payment time, payment amount, payment currency, activation status, renewal amount, renewal date, payment method.",
+"lang": "en"
+}
+]
+}

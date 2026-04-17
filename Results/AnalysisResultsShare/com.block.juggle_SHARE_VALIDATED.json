@@ -1,0 +1,38 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Advertising partners. We may share your data with advertising partners to recognize you or your device and to serve ads to you or your device and measure the effectiveness of those ads. The data we shared may include device identifiers (GAID or IDFA), IP address, and other information regarding the delivery of advertisements and your interaction with them such as data related to the device, display screen, App, version, user agent, network, SIM card, time zone, and cell location. These providers may use APIs, SDKs, cookies or similar tracking technologies to collect information about your device and your Service use. We use a CMP to manage the consent and permission for our advertising based activity, and require our advertising partners to process personal data according to the permission situation we have transmitted. These partners may process your data under their own privacy policies. For further information, please refer to 'Appendix-Advertising Partners List'. If you'd like to withdraw consent, or opt-out from advertisements related matters, please see the Section 6 'Your Legal Rights' below.",
+      "justification": "The policy states that 'cell location' is shared with advertising partners who 'may process your data under their own privacy policies'. This constitutes third-party sharing for advertising and is not exempt under the service provider clause.",
+      "how_to_fix": "Declare in the 'Data safety' section of the Play Console that 'Precise location' is shared with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Advertising partners. We may share your data with advertising partners to recognize you or your device and to serve ads to you or your device and measure the effectiveness of those ads. The data we shared may include device identifiers (GAID or IDFA), IP address, and other information regarding the delivery of advertisements and your interaction with them such as data related to the device, display screen, App, version, user agent, network, SIM card, time zone, and cell location. These providers may use APIs, SDKs, cookies or similar tracking technologies to collect information about your device and your Service use. We use a CMP to manage the consent and permission for our advertising based activity, and require our advertising partners to process personal data according to the permission situation we have transmitted. These partners may process your data under their own privacy policies. For further information, please refer to 'Appendix-Advertising Partners List'. If you'd like to withdraw consent, or opt-out from advertisements related matters, please see the Section 6 'Your Legal Rights' below.",
+      "justification": "The policy states that 'IP address' and 'cell location' are shared with advertising partners who 'may process your data under their own privacy policies'. This constitutes third-party sharing for advertising and is not exempt under the service provider clause.",
+      "how_to_fix": "Declare in the 'Data safety' section of the Play Console that 'Approximate location' is shared with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "• Advertising partners. We may share your data with advertising partners to recognize you or your device and to serve ads to you or your device and measure the effectiveness of those ads. The data we shared may include device identifiers (GAID or IDFA), IP address, and other information regarding the delivery of advertisements and your interaction with them such as data related to the device, display screen, App, version, user agent, network, SIM card, time zone, and cell location.\nThese providers may use APIs, SDKs, cookies or similar tracking technologies to collect information about your device and your Service use. We use a CMP to manage the consent and permission for our advertising based activity, and require our advertising partners to process personal data according to the permission situation we have transmitted. These partners may process your data under their own privacy policies. For further information, please refer to 'Appendix-Advertising Partners List'. If you'd like to withdraw consent, or opt-out from advertisements related matters, please see the Section 6 'Your Legal Rights' below.",
+      "reason_of_removal": "Inconsistent: Policy reference describes advertising data, not diagnostics data.",
+      "justification": "The policy text cited discusses sharing data like device identifiers and location with advertising partners for advertising purposes. This does not align with the 'Diagnostics' data type.",
+      "how_to_fix": "N/A due to inconsistency.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "• Advertising partners. We may share your data with advertising partners to recognize you or your device and to serve ads to you or your device and measure the effectiveness of those ads. The data we shared may include device identifiers (GAID or IDFA), IP address, and other information regarding the delivery of advertisements and your interaction with them such as data related to the device, display screen, App, version, user agent, network, SIM card, time zone, and cell location.\nThese providers may use APIs, SDKs, cookies or similar tracking technologies to collect information about your device and your Service use. We use a CMP to manage the consent and permission for our advertising based activity, and require our advertising partners to process personal data according to the permission situation we have transmitted. These partners may process your data under their own privacy policies. For further information, please refer to 'Appendix-Advertising Partners List'. If you'd like to withdraw consent, or opt-out from advertisements related matters, please see the Section 6 'Your Legal Rights' below.",
+      "reason_of_removal": "Inconsistent: Policy reference describes advertising data, not app performance data.",
+      "justification": "The policy text cited discusses sharing data like device identifiers and location with advertising partners for advertising purposes. This does not align with the 'Other app performance data' data type.",
+      "how_to_fix": "N/A due to inconsistency.",
+      "lang": "English"
+    }
+  ]
+}
+```

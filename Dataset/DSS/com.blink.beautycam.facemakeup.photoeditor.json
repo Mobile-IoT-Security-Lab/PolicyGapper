@@ -1,0 +1,28 @@
+{
+  "sharedData": [
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Photos",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    }
+  ],
+  "collectedData": [],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://sites.google.com/view/privacy-policy-blink"
+}

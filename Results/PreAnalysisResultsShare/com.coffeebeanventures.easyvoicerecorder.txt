@@ -1,0 +1,119 @@
+This Privacy Policy (the "Policy") explains who we are, how we collect, share and use Personal Data about you, and how you can exercise your privacy rights.
+We are Digipom Inc. ("Digipom"), a duly incorporated company in the province of Quebec, Canada. We are the creators of Easy Voice Recorder ("EVR"), Easy Voice Rec
+Pro ("EVR Pro"), and more. It is the policy of Digipom to respect your privacy, and the privacy of all users of our applications and Services. This Policy applies to Personal Data
+that we collect through our mobile applications and other products ("Apps") and websites we control, such as www.digipom.com ("Website") (collectively "Services"). The
+Services are also governed by the Terms of Use. Digipom reserves the right, at any time and without prior notice, to modify the Policy.
+
+--- [PAGE BREAK] ---
+Information we obtain from third party sources
+(a) Third party service providers.
+We may receive Personal Data about you from third-party sources. We may obtain your Personal Data, for example, when you installed our App or when, prior to installation,
+you click on an advertisement for the App (see the "Third-Party Advertisements" section below for more information).
+In order to better understand our users of the Services, we may conduct research on our customer demographics, interests and behavior based on the information collected. This
+research may be compiled and analyzed on an aggregate basis, and we may share this aggregate data with our affiliates, agents and business partners. We may also disclose
+aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
+
+---
+Digipom may use Google Analytics (see http://www.google.com/analytics/), Google Firebase Analytics (see https://firebase.google.com/features/analytics/), Firebase Crashlytics
+(see https://firebase.google.com/docs/crashlytics) or other similar services to collect such information.
+
+---
+The Application makes use of Google Analytics Demographics and Interest Reporting (see https://support.google.com/analytics/answer/2799357) which gives Digipom certain
+demographic and interest information about our Application users. None of this information, however, can identify you personally to Digipom. The information may be used to
+serve you advertisements that will be of interest to you. You can disable this feature through your Android settings of your Device or the Google Settings App. You can also opt
+out of such Google advertising at any time by visiting your Google Ads Settings page (see https://www.google.com/settings/ads).
+
+--- [PAGE BREAK] ---
+Under no circumstances does Digipom collect, share or otherwise make copies of any recordings you make using any of our apps (hereinafter "Recordings") or transcriptions
+you make using any of our apps (hereinafter "Transcripts") and any reference to Personal Data in the present Policy does not include Recordings or Transcripts, or any Personal
+Data about you or any third party included in the Recordings or Transcripts. Notwithstanding the foregoing, you may make copies of Recordings or Transcripts via application or
+operating system features (such as the share menu or via file system access), and/or by uploading them to various cloud services such as Dropbox, Google Drive and iCloud.
+However, Digipom has no access whatsoever to these copies and therefore any Personal Data about you or any third party contained in the copies of Recordings or Transcripts is
+also not covered by this Policy. Furthermore, some applications include a function called "AI Assistant," which allows you to submit plain language queries ("Queries") and get
+"Responses" provided by the third party OpenAI. If you use the AI Assistant, your Transcript is processed by OpenAI along with your Query, but we never store it. None of the
+Queries or Responses are ever stored by Digipom, and therefore any Personal Data that may be included in them is not covered by this Policy.
+
+---
+Advertising
+We use advertising to fund our Services and to make some of our apps or versions of our apps available for free. We show third-party advertising in our Apps and also advertise
+our Services via third parties. We want to provide you with more detail about how we use information for advertising, both in our properties and in third-party properties.
+
+---
+When you view ads in Digipom properties (e.g. in our Apps)
+To enable us to show in-app ads, we may send your advertising ID, IP address and device information to advertisers (or ad networks) to enable them to find appropriate ads to
+serve to you in our Apps and on third-party properties. You can control and limit our use of your advertising ID in your device settings. Digipom does not control which specific
+ads are shown in our apps (this is controlled by the ad networks), but we do prohibit certain types of ads.
+Advertising IDs are used by ad networks for a number of purposes, including, for example, to:
+1. Limit the number of times you see the same ad.
+2. Ensure they are dealing with humans with real devices and not automated "bots".
+3. Serve you with advertisements likely to be relevant to you based on your advertising ID, your engagement with other brands and ads which is recorded using your
+advertising ID, and to use your general geographic area.
+4. Other brands may buy ad placements via an ad network or ad exchange to advertise their products in our Apps. The ad network or ad exchange acts as an intermediary
+between the other app companies and Digipom. In order for the ad network to charge the company purchasing the ad, clicks from the ad and potential installs of other
+developers' apps are tracked. These views, clicks and installs from ads are measured using the Advertising ID.
+5. Track which apps you have used to market you similar kind of apps. Your IP address is typically used by advertisers to identify your general geographic location, for
+example, your country, state and, sometimes, your city.
+
+---
+When you view Digipom ads on third-party services
+Digipom also advertises its Apps on other apps by asking ad networks to place ads for audiences that will be interested in them, determined using Advertising IDs. Ad networks
+use Advertising IDs for this and other purposes, including, for example, to:
+• Measure ad effectiveness (including total views, clicks and installs generated by its advertising in other publishers' apps),
+• Not display ads for an app a user is already using. Digipom may send a list of active users in the form of Advertising IDs to an ad network. The ad network then excludes
+these users from seeing the ad.
+
+---
+Third-party advertisements
+Where you have downloaded one of our apps, we may use Google, a third-party vendor, to serve advertisements in the App, using the AdMob system (see
+http://www.admob.com/home/privacy).
+
+--- [PAGE BREAK] ---
+In addition to Google advertisements, from time to time we may allow other third-party companies to serve ads and/or collect certain anonymous data when you use the
+Application. This list currently includes:
+• Fluct (see https://corp.fluct.jp/privacy/ads/)
+• InMobi (see https://www.inmobi.com/privacy-policy)
+• Meta Audience Network (see https://www.facebook.com/privacy/policy/)
+•
+Mobfox (see https://www.mobfox.com/privacy-policy/)
+• Pubmatic (see https://pubmatic.com/legal/privacy-policy/)
+• Tappx (see https://www.tappx.com/privacy-policy/)
+• Unity (see https://unity3d.com/legal/privacy-policy)
+Amazon Appstore, ONE store and Samsung Galaxy Store only:
+• Applovin Ads (see https://www.applovin.com/privacy/)
+Huawei AppGallery only:
+• Petal Ads (see https://consumer.huawei.com/en/privacy/privacy-policy/)
+
+---
+(b) We process your Personal Data on the basis of our legitimate interests for example when we provide you the App and App events, serve interest-based advertisements to you
+(both in-app and on third-party properties), carry out marketing, keep our apps secure, for engineering purposes, analyzing the users' behavior across our Apps, moderating chat
+discussion.
+
+---
+Who does Digipom share my Personal Data with?
+We may share your Personal Data with the following types of recipients:
+(a) With third-party service providers and partners who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help
+enhance the security of our Services), or parties that otherwise process Personal Data for the purposes described in this Policy or communicated to you when we collect your
+Personal Data.
+(b) With any competent law enforcement body, regulatory authority, government agency, court of law or other third party where we believe disclosure is necessary (i) as
+a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person.
+(c) With a potential or actual buyer (and its agents and advisers) in connection with any proposed or actual purchase, merger or acquisition of any part of our business,
+provided that we inform the buyer it must use your Personal Data solely for the purposes disclosed in this Policy, and adhere to all the other obligations in this Policy.
+(d) With any other person, with your consent for such disclosure.
+
+---
+Categories of Personal Data disclosed under the CCPA
+We disclose the following categories of Personal Data as defined in the CCPA, and have done so in the past 12 months:
+1. Internet or other electronic network activity information on our Internet Web sites and applications, including, but not limited to, browsing history, search history, and
+information regarding your interaction with an Internet Web site, application, or advertisement; and
+2. Geolocation data.
+
+--- [PAGE BREAK] ---
+Transfer of your Personal Data outside of the European Economic Area (EEA)
+For European users, we endeavour to keep your personal data inside the EEA. However, certain of our data processors (and Digipom) are in other countries where your Personal
+Data may be transferred. However, these countries are limited to countries with particular circumstances that protect your data, specifically:
+Canada. Canada has been determined to have an "adequate level of protection" for your Personal Data under European data protection law.
+The United States. Your personal data is only transferred to companies in the United States that: (1) have signed the Standard Contractual Clauses for the transfer of personal
+data outside the EEA; and (2) have signed agreements with us or have informed us that they are GDPR-compliant.
+Notwithstanding the foregoing certain of our advertising network partners may transfer unique identifiers including your IP address (considered personal data under the GDPR)
+to their advertisers who may be located outside Canada or the USA. You can avoid this transfer by opting out of our advertising, as described in the Advertising section of this
+Policy.

@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "| • Information you voluntarily disclose that may reveal certain characteristics about you such as your racial or ethnic origin or sexual orientation | |",
+      "justification": "The privacy policy states that information revealing 'racial or ethnic origin' may be collected when voluntarily disclosed by the user. This collection is not described as on-device only or end-to-end encrypted, so it must be declared.",
+      "how_to_fix": "Declare the collection of 'Race and ethnicity' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "| • Information you voluntarily disclose that may reveal certain characteristics about you such as your racial or ethnic origin or sexual orientation | |",
+      "justification": "The privacy policy states that information revealing 'sexual orientation' may be collected when voluntarily disclosed by the user. This collection is not described as on-device only or end-to-end encrypted, so it must be declared.",
+      "how_to_fix": "Declare the collection of 'Sexual orientation' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "| • Other information you provide; and | |",
+      "justification": "The privacy policy explicitly mentions the collection of 'Other information you provide'. This is a broad category that must be declared as it is not described as exempt.",
+      "how_to_fix": "Declare the collection of 'Other info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "| • Commercial information, including products you purchase, place in your shopping cart, favorite or review (if you are a customer) and information you provide us about | • Merchants whose shops you visit or make purchases from; |",
+      "justification": "The privacy policy states the collection of 'Commercial information, including products you purchase'. This directly corresponds to 'Purchase history' and must be declared.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "| • Geolocation data, including your mailing and billing address; | |",
+      "justification": "The privacy policy states the collection of 'Geolocation data, including your mailing and billing address', which constitutes 'Approximate location' data. This collection is not described as exempt and must be declared.",
+      "how_to_fix": "Declare the collection of 'Approximate location' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "| • Your device's precise location (if you are a Shop App user, but only when you allow Shop to access this information); | |",
+      "justification": "The privacy policy explicitly states the collection of 'Your device's precise location' for 'Shop App user(s)'. This collection is not described as exempt and must be declared.",
+      "how_to_fix": "Declare the collection of 'Precise location' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "| • The contents of email messages in the email inboxes that you connect to your Shop account, and information from email messages you transfer to the app to be included in your order history (if you use Shop). | |",
+      "justification": "The privacy policy states the collection of 'The contents of email messages in the email inboxes that you connect to your Shop account'. This data is sent off-device to the user's account and must be declared.",
+      "how_to_fix": "Declare the collection of 'Emails' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "You: We collect the information you provide when you use our platform, including when you sign up for Shopify as a merchant, visit a Shopify-powered store, fill in order information, visit one of Shopify's websites or contact Shopify support. We collect account and payment information you provide to us (including information about your business if you are a merchant), Shopify stores or items you save to favorites, purchases you make, reviews you post, and how you otherwise interact or communicate with stores or other users on our apps or services. We also collect information about how you browse through our apps and sites, including search terms you may enter.",
+      "justification": "The privacy policy mentions collecting information on how users 'interact or communicate with stores or other users on our apps or services', which covers 'Other in-app messages'. This collection is not described as exempt and must be declared.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "When you request deletion of your data, our team will delete all: • collages backed up or stored on our server; • user records, including any email or device identifiers and avatars; • activity logs; • avatars, comments, or PicCollage Services related social activity we have stored from now-defunct PicCollage Social platform; and • data stored by us on third-party services we use, such as • Google Cloud • Amazon Web Services",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "1. Usage Information. The information we collect from you includes the country you set your device to, the language you use on your device, the type and version of the operating system of your device, and your device model. If you make any in-app purchases, we will also collect the product IDs of the items you purchase.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• Zendesk: to provide users with an efficient way to communicate with Cardinal Blue Software (about the usage of PicCollage Services), we use Zendesk, a customer service platform, to receive your feedback and offer timely responses to any questions you have. Please note we will receive your IP address and email address when you try to contact us through Zendesk.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "2. Content you create. We receive the content of your creations while you are using the app in order to provide services to you. This may include photos and videos you are using as part of your designs, the order and structure that you are placing them in your designs, as well as their attached metadata. If you upload photos that include children under the age of 13, you must obtain permission from a parent or legal guardian before submitting such content.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "2. Content you create. We receive the content of your creations while you are using the app in order to provide services to you. This may include photos and videos you are using as part of your designs, the order and structure that you are placing them in your designs, as well as their attached metadata. If you upload photos that include children under the age of 13, you must obtain permission from a parent or legal guardian before submitting such content.",
+      "lang": "en"
+    }
+  ]
+}

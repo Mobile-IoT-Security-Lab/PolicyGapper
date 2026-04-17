@@ -1,0 +1,77 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Other submissions. We collect information you submit when you respond to surveys we send, provide feedback, participate in promotions, apply for a job, or otherwise communicate with us.",
+      "justification": "The privacy policy confirms this data is collected from users of the app or service. The context does not indicate that the collection is exempt (e.g., on-device only processing or end-to-end encryption where the developer cannot access the data).",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "VPN application information. We do not store your VPN browsing activity (e.g. websites you browse or apps accessed through a VPN connection). However, we may collect diagnostic information as referenced above. We also collect anonymized application usage data such as speed, latency, connection success, login success, feature usage, error reports, and troubleshooting reports.",
+      "justification": "The privacy policy confirms this data is collected from users of the app or service. The context does not indicate that the collection is exempt (e.g., on-device only processing or end-to-end encryption where the developer cannot access the data).",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Account information. Our services generally do not require you to create an account to use them. If you decide to create an account, we may collect information such as your name, username, email address, and password.",
+      "justification": "The privacy policy confirms this data is collected from users of the app or service. The context does not indicate that the collection is exempt (e.g., on-device only processing or end-to-end encryption where the developer cannot access the data).",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Transactional information. If you purchase services from us, you will need to provide payment information to make your purchase. We use industry-standard payment processor services to handle payment information. Such services are subject to separate terms and privacy policies. We also collect information about what you are purchasing, such as billing address, subscription types, currency, purchase dates, and amounts.",
+      "justification": "The privacy policy confirms this data is collected from users of the app or service. The context does not indicate that the collection is exempt (e.g., on-device only processing or end-to-end encryption where the developer cannot access the data).",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "All the categories of personal information we collect come from the following categories of sources:\n• You (either via voluntary submission or automatic collection, such as when you use our services)\n• Third parties (such as service providers, other users or marketing partners who may refer you to our services)\n• Identifiers (such as name, account username, email address)\n• Commercial information (such as transaction data)\n• Financial and transactional data (such as credit card or other payment instrument details)\n• Internet or other network or device activity (such as app usage and interactions with our services)\n• Unique device ID\n• Geolocation information (e.g., your city and state based on IP address)\n• Demographics and statistical information (such as age and gender)\n• Customer service information (e.g. support requests)\n• Survey responses and other research information\n• Other information that identifies or can be reasonably associated with you",
+      "justification": "The privacy policy confirms this data is collected from users of the app or service. The context does not indicate that the collection is exempt (e.g., on-device only processing or end-to-end encryption where the developer cannot access the data).",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Transactional information. If you purchase services from us, you will need to provide payment information to make your purchase. We use industry-standard payment processor services to handle payment information. Such services are subject to separate terms and privacy policies. We also collect information about what you are purchasing, such as billing address, subscription types, currency, purchase dates, and amounts.",
+      "justification": "The privacy policy confirms this data is collected from users of the app or service. The context does not indicate that the collection is exempt (e.g., on-device only processing or end-to-end encryption where the developer cannot access the data).",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transactional information. If you purchase services from us, you will need to provide payment information to make your purchase. We use industry-standard payment processor services to handle payment information. Such services are subject to separate terms and privacy policies. We also collect information about what you are purchasing, such as billing address, subscription types, currency, purchase dates, and amounts.",
+      "justification": "The privacy policy confirms this data is collected from users of the app or service. The context does not indicate that the collection is exempt (e.g., on-device only processing or end-to-end encryption where the developer cannot access the data).",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• We also use IP addresses to approximate your location by calculating an imprecise latitude and longitude. Once we have ascertained your location, we discard the IP address. We use your approximate location to provide you with better service (e.g. to connect you to the nearest and fastest VPN server) and more relevant personalized advertising if you are a free user who has not opted out of such advertising.",
+      "justification": "The privacy policy confirms this data is collected from users of the app or service. The context does not indicate that the collection is exempt (e.g., on-device only processing or end-to-end encryption where the developer cannot access the data).",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Key Assurances about VPN - Super Unlimited Proxy • VPN Super Unlimited Proxy does not record your VPN browsing activities in any way that can be associated with you. When you use a VPN connection, we do not store any information that identifies what you browse, view, or do online via that VPN connection. The exception is when you choose to communicate with us (such as via chat or email) over a VPN connection and choose to identify yourself to us.",
+      "justification": "The privacy policy confirms this data is collected from users of the app or service. The context does not indicate that the collection is exempt (e.g., on-device only processing or end-to-end encryption where the developer cannot access the data).",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Key Assurances about VPN - Super Unlimited Proxy • VPN Super Unlimited Proxy does not record your VPN browsing activities in any way that can be associated with you. When you use a VPN connection, we do not store any information that identifies what you browse, view, or do online via that VPN connection. The exception is when you choose to communicate with us (such as via chat or email) over a VPN connection and choose to identify yourself to us.",
+      "justification": "The privacy policy confirms this data is collected from users of the app or service. The context does not indicate that the collection is exempt (e.g., on-device only processing or end-to-end encryption where the developer cannot access the data).",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

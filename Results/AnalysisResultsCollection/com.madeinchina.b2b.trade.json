@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "1. Device Information: We will receive and record, according to the specific operations during your installation and/or use of software, information about the device you are using (including but not limited to the device model, version of the operating system, device settings, unique device identifier, device environment, mobile application list, IP address and operator information) and information about the location of your device (including but not limited to the GPS location authorized by you).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "(2) Scope and Destination of Personal Information in Cross-Border Transfers\nThe personal information involved in cross-border transfers includes: email, country of origin, name, gender, company name, phone number, delivery address, and nickname. Your personal information will be synchronized between our data centers in the United States, Germany, and China. This means your data will be transferred, stored, and processed on servers located in these countries. This transfer is essential to ensure the continuous and high-quality service we offer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "1. Membership services: to register as a member and use our membership services, you need to provide the member name and password to be used, the mailbox address and password to create a platform account. If you only need to use browsing and search services, you do not need to register as our member and provide the above Pl. We mainly collect your email address, country, name, company name, mobile phone number and sourcing products, type of company, annual purchase volume, purchase frequency and other information. Such Pl is collected to implement the service terms of Buyer App and provide you with the services we promise, so that potential partners or our staff can contact you in a timely manner to facilitate trade cooperation or solve possible problems. You can modify the above contents by logging in with the member name and password or the mailbox address and password.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "1. Device Information: We will receive and record, according to the specific operations during your installation and/or use of software, information about the device you are using (including but not limited to the device model, version of the operating system, device settings, unique device identifier, device environment, mobile application list, IP address and operator information) and information about the location of your device (including but not limited to the GPS location authorized by you).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "1. Device Information: We will receive and record, according to the specific operations during your installation and/or use of software, information about the device you are using (including but not limited to the device model, version of the operating system, device settings, unique device identifier, device environment, mobile application list, IP address and operator information) and information about the location of your device (including but not limited to the GPS location authorized by you).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Fresco\tFacebook, Inc.\tLoad images.\tVisit phone storage, contacts. For more information, Please visit:\nhttps://opensource.fb.com/legal/privacy",
+      "lang": "en"
+    }
+  ]
+}

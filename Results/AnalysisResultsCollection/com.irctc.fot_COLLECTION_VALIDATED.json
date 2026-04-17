@@ -1,0 +1,88 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+      "justification": "The use of reCAPTCHA involves collecting data about user interactions to distinguish humans from bots. This data is sent to Google for analysis.",
+      "how_to_fix": "Declare 'App interactions' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+      "justification": "The use of reCAPTCHA involves collecting crash logs, diagnostics, and other performance data for analysis by Google.",
+      "how_to_fix": "Declare 'Diagnostics' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+      "justification": "The use of reCAPTCHA involves collecting device or other identifiers to assess the risk of user interactions.",
+      "how_to_fix": "Declare 'Device or other IDs' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Email address and/or mobile telephone with SMS facility is essential for using eCatering service.",
+      "justification": "The policy explicitly states that an email address is essential for using the service, indicating its collection.",
+      "how_to_fix": "Declare 'Email address' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "The Customer shall be a bonafide Rail passenger having a valid railway ticket with PNR.",
+      "justification": "The policy requires a PNR (Passenger Name Record), which functions as a user or account identifier for the service.",
+      "how_to_fix": "Declare 'User IDs' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Email address and/or mobile telephone with SMS facility is essential for using eCatering service.",
+      "justification": "The policy explicitly states that a mobile telephone number is essential for using the service, indicating its collection.",
+      "how_to_fix": "Declare 'Phone number' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Customers shall make payment for the eCatering services at the time of booking of meal by entering the details of their debit/credit card/net banking/e-wallet on on-line booking form, provided that such debit/credit card/netbanking/e-wallet is listed as acceptable by IRCTC on the booking form instructions. If customer wishes to make payment at the time of delivery, he/she can book the order through Payment on Delivery(PoD)",
+      "justification": "The policy describes the process of collecting payment information, such as credit/debit card details, for online booking.",
+      "how_to_fix": "Declare 'User payment info' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "The customer may pre-order the meal on-line on eCatering service anytime after booking of ticket and up to 02 hours of scheduled arrival of the train (In certain cases vendors have opted to serve meals even within 02 hrs. of train reaching a station) at selected station and shall ensure that all fields in the format have been filled in correctly. IRCTC shall not be responsible for any incorrect information provided by the customer.",
+      "justification": "The functionality of pre-ordering meals implies that the service collects and maintains a history of user purchases.",
+      "how_to_fix": "Declare 'Purchase history' as collected in your app's Data Safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "\"eCatering\" means the provision of delivery of pre-ordered meals (by selection) at the seat/berth on the train, which includes:\nPre-ordered meal (along with Railneer/approved PDW, Beverages) in packaged form.\nBill/invoice post delivery of the meals to customers.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy refers to a service delivery location (train seat/berth), not the collection of the user's real-time precise location data from their device.",
+      "how_to_fix": "No action needed as the policy does not support the collection of this data type.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Email address and/or mobile telephone with SMS facility is essential for using eCatering service.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy states the collection of an 'Email address' (a personal identifier), not the content of the user's 'Emails'.",
+      "how_to_fix": "No action needed as the policy does not support the collection of this data type. 'Email address' is the correct data type to declare.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "Email address and/or mobile telephone with SMS facility is essential for using eCatering service.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy mentions an SMS facility, which requires a phone number, but does not state that the app collects the content of the user's 'SMS or MMS' messages.",
+      "how_to_fix": "No action needed as the policy does not support the collection of this data type. 'Phone number' is the correct data type to declare.",
+      "lang": "en"
+    }
+  ]
+}
+```

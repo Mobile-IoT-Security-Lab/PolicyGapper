@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "\"Personal Information” shall have the same meaning as that of the “personal information”\ndefined in “Act on the Protection of Personal Information” (Act No. 57 of May 30, 2003,\namended on September 3, 2015, hereinafter “APPI”), i.e., information containing name,\naddress etc., through which a specific individual can be identified, and information containing\nan individual identification code including license number of driver's license and face\nrecognition data. Information, through which a specific individual cannot be identified, but\nreadily identified by collated with other information, shall be also included in Personal\nInformation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "\"Personal Related Information” shall mean information related to certain individual including\naccess log information associated with internet use, while not sufficient to identify a specific\nindividual, distinctive in that one can recognize as “information related to a certain\nindividual.\" This includes information concerning information communication equipment (e.g.\nidentifier including identification code unique to each equipment and location data), browsing\nhistory of webpages etc. available through cookie identifier etc., email address or account ID,\nthrough which alone a specific individual cannot be identified.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "\"Personal Related Information” shall mean information related to certain individual including\naccess log information associated with internet use, while not sufficient to identify a specific\nindividual, distinctive in that one can recognize as “information related to a certain\nindividual.\" This includes information concerning information communication equipment (e.g.\nidentifier including identification code unique to each equipment and location data), browsing\nhistory of webpages etc. available through cookie identifier etc., email address or account ID,\nthrough which alone a specific individual cannot be identified.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "\"Personal Information” shall have the same meaning as that of the “personal information”\ndefined in “Act on the Protection of Personal Information” (Act No. 57 of May 30, 2003,\namended on September 3, 2015, hereinafter “APPI”), i.e., information containing name,\naddress etc., through which a specific individual can be identified, and information containing\nan individual identification code including license number of driver's license and face\nrecognition data. Information, through which a specific individual cannot be identified, but\nreadily identified by collated with other information, shall be also included in Personal\nInformation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "(3) To confirm or announce necessary information in relation to above (1) and (2)\n(including inquiry to financial institution and credit card company etc. for\nsettlement procedure.)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "* As to Special care-required personal information including medical history, Our\nCompany shall comply with APPI when collecting, using and providing, for example,\nobtaining consent from a customer prior to collection.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "\"Personal Related Information” shall mean information related to certain individual including\naccess log information associated with internet use, while not sufficient to identify a specific\nindividual, distinctive in that one can recognize as “information related to a certain\nindividual.\" This includes information concerning information communication equipment (e.g.\nidentifier including identification code unique to each equipment and location data), browsing\nhistory of webpages etc. available through cookie identifier etc., email address or account ID,\nthrough which alone a specific individual cannot be identified.",
+      "lang": "English"
+    }
+  ]
+}

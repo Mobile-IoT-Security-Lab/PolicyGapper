@@ -1,0 +1,443 @@
+1.1 What information do you need to provide to Vone?
+If you register an account to use Vone then we will need some information
+from you to set this up (e.g., to set up a profile and validate your phone
+number). To set up your account, we will need a nickname, your mobile
+number, and a password. You can further refine and populate your profile
+with additional information. If you use the services available within Vone
+(such as posting photos to your Moments and Time Capsule or following
+Official Accounts), we will process information to allow the services to
+operate.
+
+---
+1.2 Data collected and shared automatically
+1.IP address: Collects device's IP address, which may be used to estimate
+the general location of a device.
+2.User product interactions: Collects user product interactions and
+interaction information, including app launch, taps, and video views.
+3.Diagnostic information: Collects information related to the performance
+of your app and the SDK, including crash logs, app launch time, hang rate,
+and energy usage.
+
+--- [PAGE BREAK] ---
+All of the user data collected by Google Mobile Ads SDK is encrypted in
+transit using the Transport Layer Security (TLS) protocol.
+
+---
+1.3 How will we use your information?
+We use your information to provide Vone to you, allow you to communicate
+with other users, and to use the features of the Vone Open Platform. We
+use your information for account set-up, to facilitate communications,
+provide support, allow you to access features of Vone, and to improve
+Vone. Vone uses contact channels provided by you, such as mobile number
+or email address, for verifying and protecting your account and for
+important administrative reasons and does not use these channels for
+promotional or marketing reasons.
+
+---
+1.5 Where do we process your data?
+Our servers are located in Hongkong. We also have support, engineering
+and other teams that support the provision of Vone to you, located around
+the world. Your data may be accessed from such locations. Rigorous
+
+--- [PAGE BREAK] ---
+1.6 How long will we keep your data?
+The retention period we retain your information depends on the type of
+information - for example, login data is kept for up to 90 days from the date
+of collection. If you contact us to delete your Vone account, we will delete
+your information within 60 days of verifying ownership of your account or
+receiving your account deletion request, whichever is later.
+
+--- [PAGE BREAK] ---
+This Privacy Policy explains the processing of your Vone related information
+When, how and why, and sets out your options and rights with respect to
+this information.Read it carefully - it's important for you to understand how
+we collect and use your information and the controls you can take.
+
+---
+If you do not agree to process your information in the manner described in
+this privacy policy, please do not provide your information and stop using
+Vone when you request it.
+
+--- [PAGE BREAK] ---
+If you use Vone Acting on behalf of a company, partnership, association,
+government or other organization (your "organization"), you agree to notify
+such person that we will collect personal information about the individual
+owners, shareholders, directors, officers, managers, employees and other
+relevant persons ("related persons") of your organization that we collect or
+provide to us from time to time, And you agree to obtain the consent of the
+related person so that we can process his / her personal information in
+accordance with the requirements of applicable laws and regulations in
+accordance with this privacy policy.References to "you" or "your" in this
+privacy policy include you and any associated persons.If you or any of your
+associates would like to request us to remove your personal information
+
+--- [PAGE BREAK] ---
+2.2 What information do you need to provide to Vone?
+This section describes the various types of personal information we collect
+from you and how we collect it.If you want to learn more about specific
+types of data and how we use them, please refer to the privacy policy
+section below.
+We deal with different kinds of information and data when we provide Vone
+.These categories are as follows:
+1. "Location data" Is information derived from your GPS, Wi-Fi, compass,
+accelerometer, IP address, or public post that contains location
+information.Location information will be disclosed to us or other users, or
+both, when:
+• When you use location-based features (such as "People Nearby", "Live
+Nearby", "Nearby News", "Add Location to Published Content", etc.) and
+share your location with other Vone users. If you refuse to provide this
+information, you will not be able to use the above features normally;
+• When you visit Vone, we will obtain your location information through
+your IP address, device or Internet service to prevent multiple or
+fraudulent login to your account.
+• Log data It is the information that we use, network beacons, log files,
+scripts or automatically collected when you use Vone cookie Etag,
+including:
+• Device attributes, such as: information about your mobile carrier,
+configuration information provided by your web browser or other
+programs you use to access Vone, your IP address, application ID and
+application name, as well as the version and identification number of
+your device;
+• Information related to content that you have searched or viewed using
+Vone, such as used web search terms, accessed social media profiles,
+and details of other information and content that you have accessed or
+requested while using Vone ;
+
+--- [PAGE BREAK] ---
+and duration of the communication (but excluding the content of such
+communication, unless you are communicating with our support service
+team);
+• Metadata, such as the date of your capture or the date of your
+publication, or the information about the project you shared.
+2. "Non personal information" It refers to any information that cannot
+identify you directly or indirectly under normal circumstances.
+3. "Personal information" Any information or combination of information
+that is relevant to you and can be used (directly or indirectly) to identify
+you.In the privacy policy section below, we list some examples of personal
+information (and how we collect it).
+4. "Share information" It refers to the information about or related to you
+that you voluntarily share on Vone .Shared information may include your
+VoneContent published on (including personal data disclosure, lists you
+create, and photos, videos, or recordings accessed through your device's
+camera and / or microphone sensors with your prior consent), any content
+you republish that has been published by others, and location data and log
+data associated with such publications.Shared information also includes
+information about you (including location data and log data) shared by
+others who are using Vone .
+5. "Facial data" refers to the facial information we capture through devices,
+including but not limited to facial contours, features' positions, skin texture,
+wrinkles, moles, freckles, and other such details. Please note that we will
+only collect your facial data when you wish to engage in live streaming
+activities on Vone.
+• When you participate in live streaming or other related social activities
+on Vone, your facial data will be used for automatic detection and
+identification of inappropriate content to ensure compliance with
+platform guidelines.
+• When you perform facial authentication, your facial data will be used
+to verify your identity and prevent account theft or misuse.
+
+--- [PAGE BREAK] ---
+• Basic equipment information, including equipment brand, equipment
+manufacturer, equipment model number, equipment name, equipment
+system type and version, equipment basic configuration, equipment
+basic settings, equipment environment;
+• Device identification information,Android ID, IDFV (Identifier For
+Vendor), IDFA (Identity for Advertisers), OAID (Open Anonymous Device
+Identifier)
+• Device network information, including network access form, wireless
+router identification (BSSID, SSID) and IP address, WIFI list, network
+operator information, network base station information, network
+connection status
+• Device application information, including SDK host application
+package name and version number
+All references to "information" in this privacy policy include both personal
+and non personal information.
+
+---
+2.3 How do we use your information?
+This section details the types of personal information we collect from you
+and why.For users living in the European Economic Area (EEA), it also
+defines the legal basis for us to process your data:
+1. Registration data and login data. Your name, user nickname, mobile
+number, password, gender and IP address. Legal basis (EEA) It is necessary
+to fulfill the contract we signed with you to provide your Vone personal
+data and provide Vone services.
+• Reason:Open and login user account on Vone; Inform you of changes to
+Vone; Promote communication; Provide user support for you; Implement
+our terms, conditions and policies; Use Vone to make VoIP calls; Provide
+personalized help and guidance; provide personalized help and guidance;
+Better understand how you access and use Vone; Develop new services
+and improve existing services; Provide language and location
+
+--- [PAGE BREAK] ---
+operational purposes, including problem solving, data analysis, testing,
+research, security, fraud detection, account management and
+investigation purposes.
+2. (1) Basic equipment information,including equipment brand,
+equipmentmanufacturer, equipment modelnumber, equipment name,
+equipmentsystem type and version, equipmentbasic configuration,
+equipment basicsettings, equipment environment; (2)Device identification
+information,, MACaddress, Android ID, IDFV (Identifier ForVendor), IDFA
+(Identity for Advertisers), OAID (Open Anonymous DeviceIdentifier), device
+serial number (3)Device network information, includingnetwork access
+form, wireless routeridentification (BSSID, SSID, MAC) and IPaddress, WIFI
+list, network operatorinformation, network base stationinformation,
+network connection status(4) Device application information,including SDK
+host application packagename and version number
+• Reason:Data statistics and Anti-cheating
+3. User profile search data. Search the record of the query. Legal basis
+(EEA) It is necessary for us to fulfill our contract with you to provide you
+with effective access to Vone activities.
+• Reason:Quick access to previous searches.
+4. Shared information - profile data. Any information you include in your
+publicly visible Vone profile may include your profile ID, name and photo.
+Legal basis (EEA) It is necessary to fulfill the contract we signed with you
+to provide your Vone personal data and provide Vone services.
+• Reason:Manage the Vone platform according to your instructions and
+requests; Provide personalized help and guidance; Provide language and
+location customization; Develop new services and improve existing
+services; Better understand how you access and use Vone; Maintain your
+Vone account according to your instructions and requests.
+5. Shared information - profile media. This kind of information includes all
+the information you provide to other users through Vone, including: Vone
+circle of friends and video dynamic posts, and responses to other users'
+Vone circle of friends and video dynamic posts; Another user uses the
+
+--- [PAGE BREAK] ---
+friends, video updates, and using Vone to communicate with you and others.
+Legal basis (EEA) It is necessary to fulfill the contract we signed with you
+to provide your Vone personal data and provide Vone services.
+• Reason:Manage Vone platform; Provide personalized help and
+guidance; Provide language and location customization; Develop new
+services and improve existing services; Maintain your Vone account
+number; Better understand how you access and use Vone.
+6. Other account security. Voice lock (an optional security feature we offer
+you), emergency contact, hosted device, email address, Facebook connect,
+Facebook connect token, Facebook account, twitter, line or Facebook
+number and facial recognition / detection and / or login with apple. Legal
+basis (EEA) It is necessary to fulfill the contract we signed with you to
+provide and protect your Vone account number.
+• Reason:Verify your identity Account security.
+7. Chat data. What you communicate with another user or group of
+users.This data is stored on your device and on the device of the user to
+whom you send communications.We don't store this information
+permanently on our servers, we just transmit it through our servers to
+distribute it to the users you choose to send communications to. Legal
+basis (EEA) It is necessary to fulfill the contract we signed with you to
+provide Vone chat service.
+• Reason:Facilitate the provision of communication to another user.
+8. Contact list. Contact list on your device. Legal basis (EEA) It is necessary
+to fulfill the contract we signed with you to provide Vone services and
+contact you with your friends.
+• Reason:Use the "recommend friends" feature to connect you with
+other Vone users.
+9. Log data. See definition above. Legal basis (EEA) It is in our legitimate
+interest to ensure the safety of our services, manage registration and
+improve our services.
+• Reason:Better understand how you access and use Vone; Manage
+Vone; For internal operational purposes, including problem solving, data
+
+--- [PAGE BREAK] ---
+10. Location information. See definition above. Legal basis (EEA) It is
+necessary for us to fulfill the contract we signed with you to provide Vone
+location related services.Please note that if you use products and services
+that require location information.
+• Reason:For security, fraud detection, and account management
+purposes (for example, to ensure that your account does not have
+multiple or suspicious logins); Provide you with the location-based
+services you choose to use: Share location (when you choose to share
+your location with other users during the chat process); Nearby people,
+floating bottles (these are location-based services, you can choose to
+use these services to disclose your approximate location within a limited
+period of time, and you can choose to clear these location data at any
+time); Search (if you use Vone to search, the service will use your
+location to provide you with relevant local information); Provides
+languages and custom locations.Please note that we only use this
+information within vone to provide you with the above-mentioned
+security and anti-fraud services, share your location with friends, match
+nearby users/live broadcasts/dynamics, etc. This information is sensitive
+information and only your approximate location will be obtained instead
+of your precise real-time location, and we will not share your location
+information with third parties.
+11. Customer service information. Any information you provide to our
+customer service team. Legal basis (EEA) It is necessary to fulfill the
+contract we signed with you to provide and support Vone services.
+• Reason:Investigate your questions.
+12. Device data. Media stored on your device. Legal basis (EEA) It is
+necessary to fulfill the contract we signed with you to provide Vone
+services.
+• Reason:Promote the sharing of this media through Vone.
+13. Social contact information. Your twitter, line, or Facebook connect token,
+if applicable. Legal basis (EEA) It is necessary to fulfill the contract we
+signed with you to provide Vone services.
+
+--- [PAGE BREAK] ---
+logging in to Vone through your social media account. If you publish
+content in your circle of friends or video dynamics and you choose to
+share it with an authenticated third-party social media account, Vone
+will help.
+14. Investigation. If you decide to participate in the survey, we will ask you
+for some personal information.We may engage a service provider to
+conduct these surveys and will let you know before you complete the
+survey. Legal basis (EEA) We will collect this information after obtaining
+your consent.
+• Reason:Better understand how you access and use Vone; Provide
+personalized help and guidance; Develop new services and improve
+existing services; Improve Vone and respond to customer requests and
+preferences.
+15. Competition information. Any information you give us when you sign up
+for a contest organized on Vone. According to the laws of the European
+Economic Area: It is necessary for us to fulfill the contract signed with you
+to verify the qualification and prize.
+• Reason:It is convenient for you to participate in the competition; For
+awards, if applicable.
+16. Kana and aggregate data. We will anonymize and aggregate certain
+personal information to improve our services Legal basis (EEA) It is in our
+legitimate interest to ensure the safety of our services, manage registration
+and improve our services.
+• Reason:Analyze the function or operation obtained and used in the
+application to improve the application experience Fraud detection and
+account security analysis Conduct user demographic analysis (e.g.,
+region, mobile phone model, operating system platform, system
+language and Vone version) for multiple projects to better understand
+how our users use Vone The network and account traffic statistics of
+the content and service used by users to access third-party services
+through Vone open platform are carried out, so as to report the basic
+
+--- [PAGE BREAK] ---
+17. Personal information in your content
+• If any of your personal information constitutes your content (see the
+《Vone terms of service》), we and our associated companies may
+(subject to this Privacy Policy) use this type of personal information in
+the "your content" section of the 《Vone terms of service》.
+
+---
+• Government, public sector, regulatory, judicial and law enforcement
+agencies or agencies:In some cases, we are required by law to disclose
+information (including performing legal obligations or procedures, such as
+court orders, subpoenas or other legal writs, or enforcing our terms, dealing
+with matters related to security or fraud, or protecting our users), but only
+the requester with effective jurisdiction can obtain your personal
+information;
+
+--- [PAGE BREAK] ---
+2.6 How to use your facial information?
+1. Purpose of Collecting Facial Data:
+Our app collects facial data through the device's camera for the following
+purposes:
+• Identity Verification:
+• If you use real-person facial recognition, we collect your photos and
+facial recognition videos with your approval. This is to compare the
+
+--- [PAGE BREAK] ---
+• Content Safety:
+• During your livestream, we capture segments of your stream to
+automatically detect and identify inappropriate content, ensuring
+compliance with platform standards.
+Note: This data is only collected when users actively enable the related
+functions.
+2. Storage and Duration of Facial Data:
+• Local Storage:
+• Facial data is processed and stored locally on the device. Data is not
+uploaded to external servers, and we employ advanced encryption
+techniques to protect data during storage.
+• Temporary Storage Duration:
+• Facial data is temporarily stored only during the use of the function.
+Once processing is complete (e.g., applying a filter or completing
+verification), the data is immediately deleted. We ensure that facial data
+is not stored for extended periods in the app.
+• Continuous Storage:
+• For certain functions (e.g., saving processed images), only with explicit
+user consent, processed images are stored in the local album, not the
+original facial data.
+Note:
+For facial data during livestreams, we use it in real-time without storing
+it.
+For real-person authentication data, it is retained until you request
+deletion or modification of your personal information, or within 60 days
+after your account is deleted (whichever comes first). This duration
+considers the possibility of users wanting to recover their account
+information, with the maximum recovery period being 60 days.
+
+--- [PAGE BREAK] ---
+2.7 How to share your data outside of Vone
+Some Vone related features allow you to provide shared information to
+audiences outside the Vone Network - for example, publicly accessible
+blogs and forums, or certain social media features in Vone allow you to
+republish and disclose shared information.If you use these features to
+share information, it may be read or used by third parties not related to us.
+You can also associate your Vone contact list with the contact list on your
+device and / or in the third-party service account to search for and
+establish contact with the same Vone account in these contact lists.Prior to
+that, Vone will ask for your permission to access your contact list.
+
+---
+2.8 Using Vone to access and import information
+Vone allows you to associate Vone services with selected third-party social
+media services and import certain content and information from these
+third-party services. For example:
+• You can share content on Vone or log in to Vone using services provided
+by a third party. These third-party services validate you and give you the
+option to share certain personal information with us. They may also offer
+
+--- [PAGE BREAK] ---
+• You can sign in to Vone using other registration services, such as
+providers. These registration services verify your identity and provide you
+with the option to share certain personal information, such as your name
+and email address, with us for account registration and login purposes; and
+
+---
+• Third party social media platforms are hosted by relevant third
+parties. The Vone service is hosted by us. Third parties providing third-party
+services may collect your information (including your personal information
+and log data) and set cookies on your computer or device to make these
+functions work properly.
+• Your use of any third party services (social media services or other
+services), including any personal information provided by you to such third
+parties, as well as their collection and use of your personal information, are
+subject to the relevant third party's own terms of service and privacy
+policies, not the Vone terms of service》 Or this privacy policy, so please
+check these third party terms carefully.
+
+---
+2.9 Age limit
+Vone is not suitable for children.Children under the age of 16 may not use
+Vone for any purpose without first obtaining the consent of the parent /
+Guardian (on behalf of the child and himself) to this privacy policy.Without
+the above consent, we will not intentionally collect any personal
+information provided by children under the age of 16.If you believe that we
+
+--- [PAGE BREAK] ---
+2.10 Where do we process your data?
+1. Vone will transfer the personal information collected from you to the
+following locations and store or process the information:
+2. We provide you with Vone engineering, technical support and our
+Hongkong office. In order to provide services to you (for example, to solve
+the technical problems you report), technicians may sometimes access
+some of your data.
+
+--- [PAGE BREAK] ---
+You can log in to your Vone account at any time to access and correct your
+personal information.For example, you can delete the location data
+provided to us through your device settings or the "clear location" option in
+Vone .
+
+--- [PAGE BREAK] ---
+You can ask us to erase our personal information about you if:
+• You think we no longer need to hold your personal information;
+• We have obtained your consent to process your personal information, and
+you have revoked that consent (and we have no other reason to request the
+processing of personal information);
+• You think we are processing your personal information illegally; or
+• We collect your personal information when you are under 16 years old.
+
+--- [PAGE BREAK] ---
+4. Portability
+You are entitled to receive copies of certain personal information we
+collect from you. Process your personal information (including any personal
+information you choose to post, including personal data) according to our
+personal data collection (including any personal information you choose to
+publish, including personal data) according to our privacy policy. You have
+the right to receive this information in a structured, commonly used and
+machine recognizable format. You also have the right to ask us to transmit
+these personal information to the other party.

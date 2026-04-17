@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "Communicate: Contact you with updates, security alerts, and promotional messages through email or other forms of communication.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "Permission 3: android.permission.READ_EXTERNAL_STORAGE\nAllows the app to import images of blood sugar or blood pressure meters that users select for recording\nactivity.",
+"lang": "en"
+}
+]
+}

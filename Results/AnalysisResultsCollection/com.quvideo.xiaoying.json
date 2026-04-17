@@ -1,0 +1,54 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "•Information push partners. In order to provide you with the information push function, the partner's SDK or other similar applications will be embedded in the software, and the relevant SDK retrieves your unique device ID (AndroidID) and a list of running applications.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Information about your use of the Platforms. We may collect information about your operation on the Platforms, mainly including information that you click, browse, download, share, and your search record, video editing acts, or any other information provided during your use of ourServices, so that we could provide you with the functions of the Platforms.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment and subscription data, needed to complete transactions and process your subscription, such as your payment card or bank account information (collected by our payment processors on our behalf) and transaction history.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Other data that you provide to us, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Device and log information. When you use our Services through the Platforms, in order to make sure you use our Services normally and the functions operating smoothly and safely, improve and optimize your use experience, Carryout advertisement putting and message push, and protect your account security, we will collect your device and log information as follows:Include unique device identifier, gaid, device model, system language, country, advertising identifier, operating system, system version number, IP address, software version number, access network, network quality data, and service log information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Feedback information. When you contact us for feedback or customer service, we will collect the information and material that you submitted, your contact information (such as your phone number, email address), so that we could contact you and answer your questions or provide other customer services to you.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "In order to provide you with more high-quality, efficient products and services and improve your service experience, we may ask you to authorize the corresponding terminal device permissions in the following additional services we provide to you. We collect the following permissions and corresponding information following the criterion of minimal data collection with your consent:\n•Read and write external memory card: for reading and writing files on external memory card for video editing or upload and download personal videos, photos, audios and subtitle data through the Cloud Disk Service Technology (when you use our cloud disk, you will be deemed to have agreed to abide by our Cloud Disk Service Agreement);\n•Camera permissions: For taking photos and video shooting.\n•Microphone permissions: for video shooting and editing.\n•Web access: a variety of network services for accessing and downloading materials.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "In order to provide you with more high-quality, efficient products and services and improve your service experience, we may ask you to authorize the corresponding terminal device permissions in the following additional services we provide to you. We collect the following permissions and corresponding information following the criterion of minimal data collection with your consent:\n•Read and write external memory card: for reading and writing files on external memory card for video editing or upload and download personal videos, photos, audios and subtitle data through the Cloud Disk Service Technology (when you use our cloud disk, you will be deemed to have agreed to abide by our Cloud Disk Service Agreement);\n•Camera permissions: For taking photos and video shooting.\n•Microphone permissions: for video shooting and editing.\n•Web access: a variety of network services for accessing and downloading materials.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "In order to provide you with more high-quality, efficient products and services and improve your service experience, we may ask you to authorize the corresponding terminal device permissions in the following additional services we provide to you. We collect the following permissions and corresponding information following the criterion of minimal data collection with your consent:\n•Read and write external memory card: for reading and writing files on external memory card for video editing or upload and download personal videos, photos, audios and subtitle data through the Cloud Disk Service Technology (when you use our cloud disk, you will be deemed to have agreed to abide by our Cloud Disk Service Agreement);\n•Camera permissions: For taking photos and video shooting.\n•Microphone permissions: for video shooting and editing.\n•Web access: a variety of network services for accessing and downloading materials.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "In order to provide you with more high-quality, efficient products and services and improve your service experience, we may ask you to authorize the corresponding terminal device permissions in the following additional services we provide to you. We collect the following permissions and corresponding information following the criterion of minimal data collection with your consent:\n•Read and write external memory card: for reading and writing files on external memory card for video editing or upload and download personal videos, photos, audios and subtitle data through the Cloud Disk Service Technology (when you use our cloud disk, you will be deemed to have agreed to abide by our Cloud Disk Service Agreement);\n•Camera permissions: For taking photos and video shooting.\n•Microphone permissions: for video shooting and editing.\n•Web access: a variety of network services for accessing and downloading materials.",
+      "lang": "en"
+    }
+  ]
+}

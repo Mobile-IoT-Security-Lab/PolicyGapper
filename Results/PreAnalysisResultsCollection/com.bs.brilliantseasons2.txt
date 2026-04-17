@@ -1,0 +1,62 @@
+This privacy policy (“Policy”) describes how non-personally identifiable information
+("Information”) is collected, protected, and used in the “Show My Colors” mobile
+application (“Mobile Application” or “Service”) and any of its related products and
+services (collectively, “Services”). It also describes the choices available to you
+regarding the use of collected data and how you can access and update this
+information. This Policy is a legally binding agreement between you (“User”, “you” or
+"your") and the Mobile Application developer (“Operator”, “we”, “us” or “our”). By
+accessing and using the Mobile Application and Services, you acknowledge that you
+have read, understood, and agree to be bound by the terms of this Policy. This
+Policy does not apply to the practices of companies that we do not own or control,
+or to individuals that we do not employ or manage.
+---
+[SECTION: Information collection and Use]
+---
+For a better experience, the app may request access to certain device permissions
+(such as camera or storage) to function properly, but it does not collect or store
+personal information. However, the app may use third-party services that may
+collect personal information as part of their operations. These third-party services
+may include:
+•
+Google Play Services
+•
+Google Analytics for Firebase
+•
+Firebase Crashlytics by Google
+These services may collect non-personally identifiable data, including Log Data,
+such as device name, operating system version, IP address, app configuration
+details, and usage statistics. Additionally, depending on their terms, they may also
+collect personal information. This data is used solely for monitoring app
+performance, identifying causes for app crashes, and improving the app's
+functionality. The legal basis for this processing is legitimate interest in maintaining
+---
+[PAGE BREAK]
+---
+[SECTION: User Rights under GDPR]
+---
+Since we do not directly collect or store personal information, we do not process
+user data. However, users have rights under the General Data Protection Regulation
+(GDPR) concerning data collected by third-party services, including:
+• The right to access, modify, or delete any personal data collected by third-
+party services.
+• The right to object to data processing, where applicable.
+• The right to withdraw consent (if applicable) for third-party services that rely
+on consent-based processing.
+• The right to request data portability from relevant third-party providers.
+---
+[SECTION: Retention of information]
+---
+As the developer does not directly handle any personal information, there is no
+storage or retention of personally identifiable data by us. However, third-party
+service providers may retain usage data, including personal information, for
+analytical and operational purposes, as outlined in their respective privacy policies.
+---
+[SECTION: Opting Out of Data Collection]
+---
+Users who wish to limit data collection by third-party services may:
+• Adjust their device settings to limit app permissions.
+•
+Disable interest-based ads via their Google or Apple account settings.
+•
+Use Google Play or Apple App Store privacy settings to manage third-party
+data sharing.

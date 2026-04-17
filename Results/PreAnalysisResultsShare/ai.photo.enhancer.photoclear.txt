@@ -1,0 +1,167 @@
+Since this application involves facial recognition and other face-related manipulations, we will use unique facial
+recognition technology to detect critical points of any given face in the images you provide to achieve the
+enhancement you want through our server. We will only analyze the anonymous data collected from the
+images you provide and these data will not be uploaded or disclosed elsewhere without your explicit
+consent.
+---
+To provide a better user experience, We have integrated statistical tools in the Application. They are only used
+for CRASH positioning and AB-testing for new functions and UI design. Details as described below:
+Application information
+• Application's Name
+• Application's Version Number
+• Application's Build
+•
+SDK Name
+•
+SDK Version
+Device information
+•
+Model
+•
+Screen Size
+• OEM Name
+Device system information
+•
+OS Name2
+•
+OS Version
+•
+OS Build
+•
+Time Zone
+•
+• System Language
+Carrier Country
+•
+Carrier Name
+Location information
+•
+Locale
+• Country Area
+--- [SECTION: 3. How do We Store and Protect Your Personal Data] ---
+3.1 Data Transfer
+Your consent to this Privacy Policy and subsequent submission of such information constitutes Your consent to
+this transfer. Please be assured that We will take all steps reasonably necessary to ensure that Your data is
+handled securely and in accordance with this Privacy Policy. We will not transfer Your Personal Data to other
+organizations or countries unless adequate controls are in place.
+--- [SECTION: 4. How do We Use Cookies] ---
+Additionally, we allow our business partners, advertising vendors and service providers (including analytics
+vendors) to collect information about your online activities through Cookies. These third parties may use this
+information to display advertisements on our application to your interests, preferences, and characteristics. We
+are not responsible for the privacy practices of these third parties, and the privacy policy about these third
+parties can be seen at Article 5.
+--- [SECTION: 5. How do We Share and Publicly Disclose Your Personal Data] ---
+5. How do We Share and Publicly Disclose Your Personal Data
+5.1 Disclosure and Sharing of Personal Data
+Our general policy is to keep all Personal Data confidential except as permitted or required by law.
+--- [PAGE BREAK] ---
+•
+Law enforcement. In certain circumstances, We may be required to disclose Your Personal Data if
+required by law or in response to a valid request from a public authority (such as a court).
+• Company changes. Your Personal Data may be transferred if the Company is involved in an acquisition,
+merger or asset sale. You will receive notice from Us before Your Personal Data is transferred and subject
+to a different privacy policy.
+•
+Other legal requirements. The Company may disclose Your Personal Data when it believes that such
+action is necessary to: comply with legal obligations, protect the personal safety of users of the Service or
+the public, protect and defend the rights or property of the Company, protect against legal liability, prevent
+or investigate and possible misconduct in relation to the Service.
+---
+5.2 Advertising
+We use third-party Service Providers to display advertisements to You in order to improve and maintain
+Our Services. We work with Google AdSense, DoubleClick cookies and AdMob.
+These providers may use information about Your visits to the Application that are contained in cookies.
+They also use and analyze the data You interact with advertising to show more targeted ads in the Application.
+We will never share any data about Your track in the Application with third-party advertisers and Your personal
+data will never be used for any commercial purposes.
+• Google AdSense
+•
+Advertisements published by Google AdSense are managed, categorized and maintained by Google. As a
+third party vendor, Google uses cookies to serve ads on Our Applications.
+DoubleClick cookies
+Google uses DoubleClick cookies to provide ads to You based on Your visit to Our Application or other
+websites on the Internet.
+By visiting the Google Ads settings page, You can opt out of the use of DoubleClick Cookie for interest-
+based advertising: http://www.google.com/ads/preferences/
+• AdMob
+AdMob, also known as Google AdMob, is a mobile advertising company provided by Google Inc.
+You can follow the instructions described by Google to opt out of AdMob by Google Services:
+https://support.google.com/ads/answer/2662922?hl=en
+Visit the page for more details on how Google uses the collected information:
+https://policies.google.com/technologies/partner-sites
+Google's Privacy Policy: https://policies.google.com/privacy.
+---
+5.3 Analytics
+In order to provide a better user experience, We use third parties, like Google Analytics, to help Us analyze how
+Our Services are used. They collect information from You only to help Us improve Our Services. Google
+Analytics is a web analytics service offered by Google that tracks and reports website traffic. We mainly use
+Google Analytics to collect data from You to monitor and analyze the use of Our Service.
+You can modify Your mobile device's settings to opt out of certain Google Analytics features, such as Your
+device advertising settings. Following the instructions in Google's Privacy Policy:
+https://policies.google.com/privacy?hl=en
+Visit Google Privacy & Terms for more information on the privacy practices: https://policies.google.com/privacy?
+hl=en
+---
+5.4 Payments Processors
+--- [PAGE BREAK] ---
+We provide paid products and/or Services on Our website. In that case, We use third-party services for
+payment processing (e.g. payment processors).
+We do not store or collect any details of Your payment card. This information is submitted directly to Our third-
+party payment processors, whose use of Your personal data is governed by their Privacy Policy. These
+payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards
+Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS
+requirements help ensure the secure handling of payment information.
+When You use Our Service to pay a product and/or Service via bank transfer, We may ask You to provide
+information to facilitate this transaction and to verify Your identity.
+Click the links to view the Privacy Policy of these processors:
+• Google Play In-App Payments: https://www.google.com/policies/privacy/
+• Apple Store In-App Payments: https://www.apple.com/legal/privacy/en-ww/
+• Alipay: https://render.alipay.com/p/f/agreementpages/alipayglobalprivacy.policy.html
+PayPal: https://www.paypal.com/webapps/mpp/ua/privacy-full
+•
+•
+PayPal: https://www.braintreepayments.com/legal/braintree-privacy-policy.
+• WeChat: https://www.wechat.com/en/privacy_policy.html
+--- [SECTION: 7. To California Residents] ---
+• The right to access. It's a basic tenet of the CCPA that Consumers have the right to access the personal
+data that a business holds on them. In other words, Consumers can access:
+• What information a business collects from them
+• Why the business collects this data
+• Where the information comes from
+• Third party applications or businesses the Company shares the data with
+• The right to know. You may see this right also referred to as the right of notice, and it means the same
+thing (You must be properly notified which categories of Personal Data are being collected and the
+purposes for which the Personal Data is being used). You have the right to request and obtain from the
+Company information regarding the disclosure of the following:
+• The categories of Personal Data collected
+• The sources from which the Personal Data was collected
+• The business or commercial purpose for collecting or selling the Personal Data
+• Categories of third parties with whom We share Personal Data
+• The specific pieces of Personal Data We collected about You
+• The right to say no to the sale of Personal Data. Under the CCPA, every Consumer has the right to object
+to the Company to sell their data to any third party, for any purpose. You can submit such a request by
+visiting Our "Do Not Sell My personal data" section or web page.
+---
+Do Not Sell My Personal Data
+We will never sell personal data for any commercial purposes. But the third-party Service Providers We
+cooperate with (for example, Our advertising partners) may use technology that "sells" Your personal data as
+defined by the CCPA law.
+If You don't want Your personal data to be used for interest-based advertising purposes or these potential sales
+as defined under CCPA law, You can opt out of it. You can do so by following the instructions below. Please
+note: any opt out is specific to the browser You use. You may need to opt out of every browser that You use.
+•
+Website
+You can follow the instructions We provide to opt out of receiving personalized ads from Our Service
+Providers:
+--- [PAGE BREAK] ---
+"Do Not Track" Policy
+"Do Not Track" Policy is Required by California Online Privacy Protection Act (CalOPPA). Our Service does not
+respond to "Do Not Track” signals. But some third-party websites track Your browsing activity. If You are visiting
+such websites and want to prevent being tracked by these websites, You can modify the settings in Your web
+browser. You can enable or disable DNT by visiting Your web browser's preferences or settings page.
+--- [SECTION: 9. Links to Other Sites] ---
+There are links to other websites that are not operated by Us in Our Service. If You click on a third-party link,
+You will be directed to that third-party website.
+We strongly recommend that You carefully review the Privacy Policy of each website You visit. We hereby
+declare that We have no control over, and are not responsible for, the practices, content or privacy policies of
+any third-party websites or services.

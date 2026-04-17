@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Please keep in mind that certain third-party websites (i.e., search engines, and service providers with whom Aloha Browser partners from time to time) that you might access via our browser and even with the VPN feature enabled might log your actual IP. Additionally, some of our select partners (i.e., search engines, and service providers with whom Aloha Browser partners from time to time) might also log your actual IP details. We have ensured that these selected partners apply the same privacy and confidentiality provisions as we do. Find out more by consulting our Cookies Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "In general, personal data provided to us is used to respond to user feedback and/or requests or to help us improve customer service. Personal data may be used in the following ways:\n7. To provide your information to third parties if we will be obligated to do so by rule of law;\n8. To publish your testimony on our website, we might collect your first name, in case you provide it for this purpose.",
+      "lang": "English"
+    }
+  ]
+}

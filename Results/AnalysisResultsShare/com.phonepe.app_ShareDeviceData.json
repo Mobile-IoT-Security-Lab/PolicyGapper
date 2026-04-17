@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "lang": "English"
+    }
+  ]
+}

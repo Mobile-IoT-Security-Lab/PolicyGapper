@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "We obtain your email address when you request support via email.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "IP address We collect IP addresses provided by your browser or mobile device to deliver the service to your device. We also use the IP address to determine your approximate location for statistical and analytics purposes, and for regulatory compliance in different countries. To be clear, we do not collect your precise location.",
+      "lang": "English"
+    }
+  ]
+}

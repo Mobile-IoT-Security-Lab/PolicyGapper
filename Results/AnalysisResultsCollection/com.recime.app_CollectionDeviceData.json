@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "If you visit our website, we may collect information on your use of the website, such as pages visited, links clicked, text entered, and mouse or cursor movements, as well as information more commonly collected such as the referring URL, browser, device, operating system, and Internet Protocol (“IP”) address. We may use publicly available sources to approximate your geographic region and Internet Service Provider based on your IP address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may collect information such as:\n• Usernames and passwords that you create to access the Service\n• Which functions and features you use and how you use them\n• Which pages you visit on our website\n• Device information, such as the model and ID of the device you use, operating system, telephone number, and mobile phone network\n• Server log information, such as details of how you used the service, IP address, hardware settings, browser type, browser language, the date and time of your use, and referral URL\n• Information that may uniquely identify your browser or your account\n• Location information\n• Information relating to your visits to other websites where we have a relation with the other website\n• Shopping lists you create, recipe interactions, and grocery transactions you may complete via the Service",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Web Beacons. Certain sections of the Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit us to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "Information you choose to provide during your interaction with us on our website such as email address.",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "When you use our Services that involve artificial intelligence (\"Al Services\"), such as our Al Chatbot, we process the content you provide in your inputs or feedback so that we can respond and deliver the Al functionality you have chosen to use",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "Please note that photography and videography may take place during the event for promotional and archival purposes. By attending our event, you agree that Trust Wallet and our partners may use your image in marketing materials, social media posts, or future event promotions as part of our efforts to share and celebrate the event.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "Please note that photography and videography may take place during the event for promotional and archival purposes. By attending our event, you agree that Trust Wallet and our partners may use your image in marketing materials, social media posts, or future event promotions as part of our efforts to share and celebrate the event.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "Voice Input (Optional): Where available, you may choose to interact with the Al Services using voice input. Your voice is processed in real time to create a text transcription, which is then handled in the same way as any other text-based input.",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "We collect your Curriculum Vitae (CV), resume, LinkedIn profile, academic certificates and transcripts, employment history, and (where relevant) salary and bonus details. We use this information to assess your suitability, process your application, conduct background checks, and manage your employment relationship.",
+"lang": "en"
+}
+]
+}

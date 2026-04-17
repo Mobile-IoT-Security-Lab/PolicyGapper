@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "3.1.1.2. Geographic area-related services. The Webpage and the App offer you quick access to weather-related information on your mobile device (e.g. Widget), and other geographic area-related weather information can be accessed on your desktop or mobile device (e.g. Radar). To provide these Services, we need to collect and use information on your current location (through the GPS module in your device or your IP address). If you no longer wish to share your GPS location with our Services, you may change the settings within your mobile device or not to allow us to use your current location when the Services would require this information. If you refuse to share your precise GPS location, the Services will then be geographically approximated according to your current IP address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "3.1.1.2. Geographic area-related services. The Webpage and the App offer you quick access to weather-related information on your mobile device (e.g. Widget), and other geographic area-related weather information can be accessed on your desktop or mobile device (e.g. Radar). To provide these Services, we need to collect and use information on your current location (through the GPS module in your device or your IP address). If you no longer wish to share your GPS location with our Services, you may change the settings within your mobile device or not to allow us to use your current location when the Services would require this information. If you refuse to share your precise GPS location, the Services will then be geographically approximated according to your current IP address.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)",
+      "lang": "English"
+    }
+  ]
+}

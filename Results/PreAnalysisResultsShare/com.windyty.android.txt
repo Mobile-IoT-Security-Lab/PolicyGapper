@@ -1,0 +1,274 @@
+• We will never sell your personal data to third parties. Although certain data needs to be
+shared with key partners, such as server hosting providers, and we also share it for our other
+legitimate business purposes, such as analytics services, we have ensured that all such
+partners also meet all GDPR standards.
+
+---
+
+2.1. Services. The company provides a global weather tracking and forecasting application,
+which can be customized to a certain extent according to Users' preferences on their
+own devices through the Website and the App. The Users may also contribute to the
+Services by adding their own camera and/or weather station, which will then provide
+more relevant local information to us as well as to other users. The Users may also
+decide to register, and in such case, personal settings are saved in the profile and
+synchronized across devices used with that account. The Windy Stations, and API
+Services are provided only to registered users. The content shared through the
+Community Service can also be accessed by non-registered Users, but only after
+registration any content can be added. The Services are offered both for free and for
+subscription. Users with subscription can use a wider range of tools and are offered
+with extra features such as 1-hour forecast view, 10-day forecast outlook, forecast
+
+---
+
+• because such processing is necessary for the purposes of the legitimate
+interests pursued either by us or by a third party and such legitimate interests are
+not overridden by your privacy or related rights as an individual. Our legitimate
+interests include e.g. the necessary maintenance of our infrastructure, statistical
+analysis of the use of the Services, and protection of our legally protected rights;
+
+---
+
+• because we are legally obliged to do so, for example, we are called upon to
+disclose your personal data to public authorities; or
+
+---
+
+Special Note about Content Submissions. The Services may offer areas
+(community, articles) where you and other users can post or otherwise submit
+information, photos, videos, graphics, creative suggestions, ideas, notes,
+concepts, information, ratings, or other materials on or to the Services
+(collectively, "Submissions"). Any geolocation information, tags, or other
+metadata in such Submissions may become publicly available. Any information,
+including personal data, in your Submissions can be read, collected and used by
+others. We cannot control and are not responsible for how others may use the
+information contained in your Submissions;
+
+---
+
+2.4.1. Statistical and measurement data. In addition to the processing of your
+personal data as outlined for the particular Services in Chapter 3 below, we
+generally process your personal data also for statistical and analytical
+purposes.
+We also collect statistical and measurement data through automated means
+from Google Analytics. Although the data present in Google Analytics reports is
+anonymized and we are not able to associate it with you, please note that
+Google itself collects your IP address. More information about Google Analytics
+can be found here. For the similar reasons we also use other services, such as
+BigQuery (more information about Google BigQuery can be found here).
+
+---
+
+2.4.2. Third party technologies that we use in our infrastructure can produce
+technical logs with your IP address; we do not perform any analysis or data
+mining with this data (and delete it regularly, usually after one month). If any
+personal data is processed (your IP address), such data is used only to operate
+and improve such technologies.
+The processing legal basis for this purpose is such third party's legitimate interest in
+operating and improving their technologies.
+
+---
+
+2.5.2. Social Login via Facebook, Google or Apple. You can register a user account
+or log in by linking your Facebook, Google or Apple account via a service called
+Social Login, which is an easy, secure, and straightforward way to register with
+us or log in into our Services quickly.
+If you connect Facebook, Google or Apple to your Windy account, we will use
+your name, profile picture and email address for registration and authentication
+purposes so you can benefit from the respective functionalities of our
+Community site and other Services. We also use it to communicate with you in
+this regard.
+The processing legal basis for this purpose is the performance of a contract.
+We may further use this data, and some of your other public information from
+these accounts, to analyze, improve, enhance, and fine-tune our products and
+the Services.
+The processing legal basis for this purpose is our legitimate interest in
+operating, enhancing and further developing the Services.
+When using Social Login services via Apple/Google/Facebook account on the
+Website or in the App, the Company collects and processes your personal
+information from the company Apple Inc. (name, email address, language
+setting and profile photo), Google, Inc. (name, email address, language setting
+
+--- [PAGE BREAK] ---
+
+and profile photo) or Meta Platforms, Inc. (name, email address and profile
+photo) for the purpose of user account registration/log-in.
+The amount of information we are able to access is dependent on the privacy
+policy and the settings of your third-party accounts. These settings, in a
+combination with what Windy asks for, determines the extent of the data that
+can be accessed. Windy account can be disconnected from the linked third-
+party account at any time. For more information about Social Login, please
+follow our community article: information-about-user-profile.
+
+---
+
+3.1.2.3. Webcam registration (Possible also for non-registered users, however,
+registration is highly recommended).
+You may also register a webcam using the URL and location of the webcam and
+your email address.
+Within the framework of the Services offered by the Provider, personal data
+may be provided by you to the extent that you wish to benefit from the
+corresponding functionality of the Services. Specifically, the following personal
+data are processed:
+• Webcam Operators' personal data. During the webcam registration,
+operators are offered the possibility to enter their webcam page's URL,
+location, and the station operator's name.
+• The data and content posted through the webcam may be shared with us
+and/or with other users of the Services or used only as private (i.e. only
+accessible to users with specific link) depending on your setting of the
+device in the course of its registration.
+
+---
+
+3.2. Windy Community.
+Windy Community is a community forum used to share content and communicate
+between us and the users as well as among the users themselves.
+
+---
+
+3.2.2. Content Submissions. The Community offers areas where you and other users
+can post or otherwise submit information, photos, videos, graphics, creative
+suggestions, ideas, notes, concepts, information, ratings, or other materials on
+or to the Service. If you decide to do so, your personal data are processed as
+outlined in general Chapter 2.3 above.
+
+---
+
+3.3. Windy Stations
+Service enabling Users to register their personal or professional Weather Station,
+sharing their data, seeing them on Windy and eventually also sharing them with others
+as Open Data.
+
+---
+
+3.3.1. Weather station registration. Once you are logged in, you may also register a
+weather station using the location and other details of the station. Within the
+framework of the Services offered by the Provider, personal data may be
+provided by you to the extent that you wish to benefit from the corresponding
+functionality of the Services. Specifically, the following personal data are
+processed:
+• Station Operators' personal data. During the station registration, operators
+are offered the possibility to enter their station and/or webcam page's URL,
+location and other details, as well as the station operator's name.
+• The data and content posted through the weather station may be shared
+with us and/or with other users of the Services or used only as private (i.e.
+only accessible to users with specific link) depending on your setting of the
+device in the course of its registration.
+
+---
+
+• Map Forecast – enables adding Windy maps to third party's website;
+• Webcams API – enables adding webcams and their content to third party's
+websites.
+
+---
+
+4. Recipients of your personal data
+
+---
+
+4.2. Personal data collected with regard to purchases you make in our Services
+(subscription) is controlled by third parties based on agreements we have concluded
+with such parties. These service providers have their own privacy policies addressing
+how they use such information and correspond with the GDPR. In the case that the
+third party shares certain data with us that might be considered personal, we are the
+controller of your personal data and process it on the legal basis of our legitimate
+interest to know the identity of the purchaser, e.g. in the case of any complaints raised
+by the purchaser about their subscription.
+
+---
+
+4.3. Some of your personal data may be disclosed to tax authorities, criminal law
+authorities and, to a certain extent, also to other public authorities. We will share your
+personal data when we, in good faith, believe it is necessary for us to do so in order to
+comply with legal obligations under applicable law, or respond to valid legal processes.
+
+---
+
+4.4. We may also share your personal data where we, in good faith, believe that it is
+necessary for the purposes of our own or a third party's legitimate interest relating to
+law enforcement, litigation and/or criminal investigation, provided that we deem that
+such interest is not overridden by your interests or fundamental rights and freedoms
+requiring the protection of your personal data.
+
+---
+
+4.5. Your email address that we use for emailing you may be shared with providers of such
+emailing services provided that your email address cannot be used for any purpose
+other than the purpose of informing you about the latest news, projects or updates in
+our Services. The legal basis for such sharing is our legitimate interest in outsourcing
+certain technological services.
+
+---
+
+4.6. Your personal data may be uploaded onto third party servers belonging to providers of
+analytical functionalities that we use for the processing of your data provided that
+your personal data cannot be used for any other purpose than the purpose of
+improving our services. The legal basis for such sharing is our legitimate interest in
+improving our services.
+
+---
+
+4.7. In order to enable users throughout the world to access our Services, it is necessary for
+us to use third party servers to provide the proper functioning of our Services.
+However, even with the use of such server providers, your personal data is secured in
+compliance with the GDPR. The legal basis for such sharing is the performance of a
+contract and our legitimate interest in providing our services effectively.
+
+---
+
+4.8. To ensure that you receive the greatest privacy guarantees and data protection
+assurances we can provide, we carefully review all third parties with which we
+cooperate. Our third-party service providers do not have any right to use the
+information we share with them beyond what is necessary for them to assist us in the
+provision of the Services.
+
+---
+
+4.9. Information from fan pages on social networks
+Within our services, we have certain buttons and tools of the social networks
+Facebook, Instagram, Reddit, VK and Twitter. Additionally, we are also active on
+LinkedIn, YouTube, Buffer, Pinterest and Tumblr. We never process personal or other
+visitor fan data in any way other than the settings of the individual social networks allow
+or for purposes for which the user has given their consent.
+
+---
+
+4.10. International transfer of personal data
+The Company is a corporation established in the Czech Republic but it operates
+globally. Therefore, in the course of provision of the Services, your personal data will be
+processed in the Czech Republic but also in other states from where we or our partners
+operate, namely Germany, USA and Taiwan.
+If you are user from outside of the Czech Republic, when you use our Services, your
+personal data will be transferred as follows:
+• Recipient (Contact Information): Windyty, SE (dataprotection@windy.com)
+• Country to which it is transferred: Czech Republic
+• Date, time and method of transfer: Transmitted through network at the point of
+service use
+• Items of personal information transferred: All your personal information created
+and collected during your use of the service (as described in Chapter 2 “Services
+we provide and the general scope of processing of personal data" and Chapter 3
+"Processing of personal data within the individual Services")
+• Recipient's purpose of use: Provision of services, maintenance of related
+systems, statistical analysis, legitimate interest
+• Period of retention and use by recipient: Retained and used until membership is
+withdrawn or for the statutory retention period (unless otherwise specified in
+Chapter 5).
+We transfer your personal data to our partners who provide us with hosting services
+and with the related infrastructure and we do so solely for the purpose of provision of
+the Services. We do not sell to or otherwise share your personal data with any third
+party for purposes such as marketing.
+Whenever we transfer your personal data to any third party established outside of the
+European Union, we take measures to ensure that these third parties protect personal
+
+--- [PAGE BREAK] ---
+
+data in accordance with the GDPR. Such measures include either conclusion of the
+Standard Contractual Clauses issued by the European Commission or other tools as
+envisaged by the GDPR.
+
+---
+
+• If we believe that the data may be relevant to any ongoing or prospective legal
+proceedings or dispute, or in order to establish, exercise or defend our legal rights
+(including providing information to others for the purposes of fraud prevention),
+which is our legitimate interest.

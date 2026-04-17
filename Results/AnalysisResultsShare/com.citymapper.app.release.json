@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "• Transportation and booking business partners: We may offer you the opportunity to use our Services to purchase transit tickets or book journeys with transportation providers (including those made available to you by our affiliates) as well as other features and services such as to connect to a third-party ride hailing or scooter sharing company. In those cases, we may share information with such partners to enable them to provide these services to you including to process transactions, etc. For example, we may share your name, contact information, and location data with transportation providers to facilitate journeys booked through the Services and we may share your journey data through an API integration to enable you to use their services efficiently. Note that these third parties collect and use your personal information under their own policies and practices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content(for example, user bios, notes, or open-ended responses)",
+      "policy_reference": "• Survey and Rewards Program Information: We may offer you the opportunity to participate in surveys, quizzes, contests, interviews, rewards programs or promotions. If you choose to participate, we may collect or ask you to provide personal information to participate in such opportunities, which may include your contact information, feedback to the survey, other information related to the eligibility of such rewards programs, etc. This information might be provided directly to us, or to our third-party partners which manage the applicable program through their platforms.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions(Any other user activity or actions in-app not listed here such as gameplay, likes, and dialog options.)",
+      "policy_reference": "• Usage Information: We collect information about how you interact with our Services. Like most providers of online services and platforms, we automatically collect information about the electronic path you take to our Services, through our Services and when exiting our Services, and your usage and activity on our Services, and may but is not limited to, log data, information about when and how you downloaded the Citymapper Apps or created your User Account; your access and login activity; your preferences; details about any transportation or delivery services you request or participate in through our Services; your transactions; the specific components of the Citymapper Apps, websites, platforms or any other aspect of our Services you visit or use, along with details about your views or use of these components and actions made, such as the links, objects, features, settings, products and benefits you view, click, or otherwise interact with as well as the duration and time and date stamp and URLs which directed you to our Citymapper websites; any alerts or communications we send you in connection with your use of our Services and your interactions with such communications; and any errors that may have occurred during your use of our Services. This information may be collected and stored by us, or by our third-party service providers and business partners, using cookies, related technologies (such as pixels and web beacons), and third-party analytics tools. For more details, please review our Cookie Notice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Transportation and booking business partners: We may offer you the opportunity to use our Services to purchase transit tickets or book journeys with transportation providers (including those made available to you by our affiliates) as well as other features and services such as to connect to a third-party ride hailing or scooter sharing company. In those cases, we may share information with such partners to enable them to provide these services to you including to process transactions, etc. For example, we may share your name, contact information, and location data with transportation providers to facilitate journeys booked through the Services and we may share your journey data through an API integration to enable you to use their services efficiently. Note that these third parties collect and use your personal information under their own policies and practices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Transportation and booking business partners: We may offer you the opportunity to use our Services to purchase transit tickets or book journeys with transportation providers (including those made available to you by our affiliates) as well as other features and services such as to connect to a third-party ride hailing or scooter sharing company. In those cases, we may share information with such partners to enable them to provide these services to you including to process transactions, etc. For example, we may share your name, contact information, and location data with transportation providers to facilitate journeys booked through the Services and we may share your journey data through an API integration to enable you to use their services efficiently. Note that these third parties collect and use your personal information under their own policies and practices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Transportation and booking business partners: We may offer you the opportunity to use our Services to purchase transit tickets or book journeys with transportation providers (including those made available to you by our affiliates) as well as other features and services such as to connect to a third-party ride hailing or scooter sharing company. In those cases, we may share information with such partners to enable them to provide these services to you including to process transactions, etc. For example, we may share your name, contact information, and location data with transportation providers to facilitate journeys booked through the Services and we may share your journey data through an API integration to enable you to use their services efficiently. Note that these third parties collect and use your personal information under their own policies and practices.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data\" or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "List of Installed App: When you install our App, we may collect information from your device, that may include a list of your installed Apps. This data may contain identity information and therefore we treat it as Personal Data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Contact Information: If you voluntarily contact us, you may be required to provide us with certain information such as your name, job title, company name, email address (\"Contact Information\") and any additional information you decide to share with us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Profiling Data: When you use our App we may display advertisements, our partners, the advertisers may place an SDK (as detailed below) and collect certain data on you for the purpose of displaying advertisement. If you wish to prevent the display of advertisements or other identifiers for interest-based advertising, you may change your device settings to reset such advertisement or opt-out of such advertising (typically, this is available under the “Privacy” or “Ads” section in your device settings). Please note that if you reset your advertising settings or opt-out of interest based advertising, you may still see advertisements in our App, but those ads will not be targeted for you. Please note that such actions may result in a less enjoyable user experience.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "The Advertisers are advertising Service Providers. Their targeted advertising SDKs collect information about your browsing activity across multiple websites and online services in order to provide you with relevant advertisements on the App and Services of third parties. The information collected using these advertising SDK does not disclose your identity, and helps us analyze the effectiveness of our advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data\" or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data\" or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data\" or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "lang": "English"
+    }
+  ]
+}

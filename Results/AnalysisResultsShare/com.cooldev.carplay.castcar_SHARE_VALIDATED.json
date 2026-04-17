@@ -1,0 +1,37 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "If you use an ad-supported version of the Service, advertising companies use cookies and similar technologies to collect information\nabout how you use it, and to serve you ads tailored to your interests in the Service and elsewhere. See our Cookie Notice for more infor-\nmation.",
+      "justification": "The policy states data is shared with third-party 'advertising companies' to 'serve you ads tailored to your interests'. This is a non-exempt form of sharing for advertising purposes.",
+      "how_to_fix": "Declare in the Data Safety section that this data type is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "If you use an ad-supported version of the Service, advertising companies use cookies and similar technologies to collect information\nabout how you use it, and to serve you ads tailored to your interests in the Service and elsewhere. See our Cookie Notice for more infor-\nmation.",
+      "justification": "The policy states data is shared with third-party 'advertising companies' to 'serve you ads tailored to your interests'. This is a non-exempt form of sharing for advertising purposes.",
+      "how_to_fix": "Declare in the Data Safety section that this data type is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Our sites and applications use both session and persistent cookies to enable you to sign in and use our sites and applications, store your\npreferences and settings within them; analyze how they perform, personalize your experience with them, provide interest-based adver-\ntising and for other lawful purposes. We may also use other similar technologies for these purposes, such unique device identifiers, and\nthird-party software embedded in our mobile applications. In some cases, these cookies and similar technologies are used by third\nparties.",
+      "justification": "The policy states that 'unique device identifiers' are used by 'third parties' for 'interest-based advertising'. This is a non-exempt form of sharing for advertising purposes.",
+      "how_to_fix": "Declare in the Data Safety section that 'Device or other IDs' are 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Forum content: You may post messages and other content in help forums or message boards within the Service. This information is\nstored within the Service and other users can see it.",
+      "reason_of_removal": "Exempted as user-initiated sharing.",
+      "justification": "The policy describes the user voluntarily posting content in a public forum ('You may post messages... other users can see it'), which is a user-initiated action exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action is needed. This data transfer does not need to be declared as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

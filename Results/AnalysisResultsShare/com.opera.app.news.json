@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Our applications and services include third-party technology or code, some of which may use your data in different ways. When such third-party technologies use previously collected data, they typically act as data processors for us. When they collect data on their own, they typically act as independent data controllers.\nOpera News Apps and Services use all or some of the following:\n• Appsflyer\n• Google LLC\n• Google AdMob\nΟ Firebase\n• FCM Messaging\nΟ\nFirebase Crashstats\n•\nHuawei\n• Hi Analytics (Huawei-only Huawei preload)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Our applications and services include third-party technology or code, some of which may use your data in different ways. When such third-party technologies use previously collected data, they typically act as data processors for us. When they collect data on their own, they typically act as independent data controllers.\nOpera News Apps and Services use all or some of the following:\n• Appsflyer\n• Google LLC\n• Google AdMob\nΟ Firebase\n• FCM Messaging\nΟ\nFirebase Crashstats\n•\nHuawei\n• Hi Analytics (Huawei-only Huawei preload)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Our applications and services include third-party technology or code, some of which may use your data in different ways. When such third-party technologies use previously collected data, they typically act as data processors for us. When they collect data on their own, they typically act as independent data controllers.\nOpera News Apps and Services use all or some of the following:\n• Appsflyer\n• Google LLC\n• Google AdMob\nΟ Firebase\n• FCM Messaging\nΟ\nFirebase Crashstats\n•\nHuawei\n• Hi Analytics (Huawei-only Huawei preload)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "As described in our terms of service, our Software is ad-supported. Ads help us keep the lights on and continue to provide free products for our users. In order to provide our news services and serve targeted ads, we collect data such as advertising IDs from your device and your general location, as well as data you submit to us if you choose to create or update a user profile (such as your name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by our monetization partners. We process this data based on your consent. You can always adjust your personalized ad choices or withdraw your consent in the application's \"Settings\" menu.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "As described in our terms of service, our Software is ad-supported. Ads help us keep the lights on and continue to provide free products for our users. In order to provide our news services and serve targeted ads, we collect data such as advertising IDs from your device and your general location, as well as data you submit to us if you choose to create or update a user profile (such as your name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by our monetization partners. We process this data based on your consent. You can always adjust your personalized ad choices or withdraw your consent in the application's \"Settings\" menu.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "As described in our terms of service, our Software is ad-supported. Ads help us keep the lights on and continue to provide free products for our users. In order to provide our news services and serve targeted ads, we collect data such as advertising IDs from your device and your general location, as well as data you submit to us if you choose to create or update a user profile (such as your name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by our monetization partners. We process this data based on your consent. You can always adjust your personalized ad choices or withdraw your consent in the application's \"Settings\" menu.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Personalized Ads\nAs described in our terms of service, our Software is ad-supported. Ads help us keep the lights on\nand continue to provide free products for our users. In order to provide our news services and\nserve targeted ads, we collect data such as advertising IDs from your device and your general\nlocation, as well as data you submit to us if you choose to create or update a user profile (such as\nyour name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by\nour monetization partners. We process this data based on your consent. You can always adjust\nyour personalized ad choices or withdraw your consent in the application's \"Settings\" menu.",
+      "lang": "English"
+    }
+  ]
+}

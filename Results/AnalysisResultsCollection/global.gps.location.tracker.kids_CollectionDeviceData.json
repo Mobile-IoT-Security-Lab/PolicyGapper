@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may use third-party analytics providers software to allow us to better understand the functionality of our software on your device, including but not limited to, Google Analytics, Firebase, Facebook Analytica (collectively \"Third Party Analytics Providers”). This software may record information such as how often You use the Services, the events that occur within the Services, aggregated usage, performance data, and where our Software was downloaded from. We do not link the information we store within the analytics software to any personal data You submit within the Services.",
+      "lang": "English"
+    }
+  ]
+}

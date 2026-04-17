@@ -1,0 +1,46 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "When you use the Website and Online Services, certain third parties may collect information about your visits and activities through cookies or other tracking technologies (i.e. special pixels) and for various purposes, such as analytics or the need to improve performance. You can learn more about cookies and how to block them in our Privacy Policy.",
+      "justification": "The policy states that third parties collect data about user activities for analytics. This constitutes 'sharing' under the Google Play policy as it is not described as being done on the developer's behalf (service provider).",
+      "how_to_fix": "In the Data Safety section, declare that 'App interactions' data is 'Shared' with third parties for 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "When you use the Website and Online Services, certain third parties may collect information about your visits and activities through cookies or other tracking technologies (i.e. special pixels) and for various purposes, such as analytics or the need to improve performance. You can learn more about cookies and how to block them in our Privacy Policy.",
+      "justification": "The policy states that third parties collect data to improve performance, which can include diagnostics. This constitutes 'sharing' under the Google Play policy as it is not described as being done on the developer's behalf (service provider).",
+      "how_to_fix": "In the Data Safety section, declare that 'Diagnostics' data is 'Shared' with third parties for 'Analytics' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We use Google's reCAPTCHA service on the payment pages of our Website. The reCAPTCHA distinguishes data entered by humans from data entered by machines. Google's reCAPTCHA service collects information (e.g. IP address, time spent on the website or mouse movements made by the visitor) for analysis. Google's reCAPTCHA service then transmits information to Medic Scanner that you are a human and not a robot. More information about Google reCAPTCHA and Google's privacy policy can be found at the highlighted links.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes transferring data to Google reCAPTCHA, which acts as a service provider to perform a service (bot detection) on the developer's behalf. This is an exempt transfer and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this item as it qualifies for the 'Service Provider' exemption from sharing disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "With your consent, we may share certain Personal Information unrelated to your health for marketing and promotional purposes. By using partners for marketing and promotional purposes, we are able to reach you and similar individuals through various platforms and spread the word about Medic Scanner. If we need to share your Personal Information with other platforms for the mentioned purpose we will ask for your consent.",
+      "reason_of_removal": "User Consent",
+      "justification": "The policy explicitly states that sharing this data for marketing purposes only occurs after obtaining user consent. This qualifies for the 'User Consent' exemption and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this item as it qualifies for the 'User Consent' exemption from sharing disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "With your consent, we may share certain Personal Information unrelated to your health for marketing and promotional purposes. By using partners for marketing and promotional purposes, we are able to reach you and similar individuals through various platforms and spread the word about Medic Scanner. If we need to share your Personal Information with other platforms for the mentioned purpose we will ask for your consent.",
+      "reason_of_removal": "User Consent",
+      "justification": "The policy explicitly states that sharing this data for marketing purposes only occurs after obtaining user consent. This qualifies for the 'User Consent' exemption and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this item as it qualifies for the 'User Consent' exemption from sharing disclosure.",
+      "lang": "English"
+    }
+  ]
+}
+```

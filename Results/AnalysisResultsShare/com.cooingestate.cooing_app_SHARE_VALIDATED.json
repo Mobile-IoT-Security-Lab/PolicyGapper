@@ -1,0 +1,52 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "By submitting your email address on this website/app, you agree to receive emails from us. You can cancel your participation in any of these email lists at any time by clicking on the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do. By submitting your email address, you also agree to allow us to use your email address for customer audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us. Email addresses submitted only through the order processing page will be used for the sole purpose of sending you information and updates pertaining to your order. If, however, you have provided the same email to us through another method, we may use it for any of the purposes stated in this Policy. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.",
+      "justification": "The policy explicitly states that email addresses are used for 'customer audience targeting on sites like Facebook.' This is a form of sharing with a third party for advertising purposes, which is not covered by any exemption and must be declared.",
+      "how_to_fix": "In your Google Play Console Data Safety section, declare that 'Email address' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may share portions of our log file data, including IP addresses, for analytics purposes with third parties such as web analytics partners, application developers, and ad networks. If your IP address is shared, it may be used to estimate general location and other technographics such as connection speed, whether you have visited the website/app in a shared location, and type of the device used to visit the website/app. They may aggregate information about our advertising and what you see on the website/app and then provide auditing, research and reporting for us and our advertisers.",
+      "justification": "The policy states that IP addresses, which can be used to determine 'general location,' are shared with 'ad networks' to provide reporting for 'us and our advertisers.' Sharing data for the benefit of advertisers goes beyond the service provider exemption and constitutes 'sharing'.",
+      "how_to_fix": "In your Google Play Console Data Safety section, declare that 'Approximate location' is shared with third parties for 'Analytics' and 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may share portions of our log file data, including IP addresses, for analytics purposes with third parties such as web analytics partners, application developers, and ad networks. If your IP address is shared, it may be used to estimate general location and other technographics such as connection speed, whether you have visited the website/app in a shared location, and type of the device used to visit the website/app. They may aggregate information about our advertising and what you see on the website/app and then provide auditing, research and reporting for us and our advertisers.",
+      "justification": "The policy states that 'log file data' (which falls under Diagnostics) is shared with 'ad networks' for analytics and reporting for 'us and our advertisers.' Sharing for the benefit of advertisers is not covered by the service provider exemption.",
+      "how_to_fix": "In your Google Play Console Data Safety section, declare that 'Diagnostics' is shared with third parties for 'Analytics' and 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may share portions of our log file data, including IP addresses, for analytics purposes with third parties such as web analytics partners, application developers, and ad networks. If your IP address is shared, it may be used to estimate general location and other technographics such as connection speed, whether you have visited the website/app in a shared location, and type of the device used to visit the website/app. They may aggregate information about our advertising and what you see on the website/app and then provide auditing, research and reporting for us and our advertisers.",
+      "justification": "The policy states that 'log file data' and 'technographics such as connection speed' (app performance data) are shared with 'ad networks' for reporting for 'us and our advertisers.' This is not covered by the service provider exemption and must be declared as 'sharing'.",
+      "how_to_fix": "In your Google Play Console Data Safety section, declare that 'Other app performance data' is shared with third parties for 'Analytics' and 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may share the information that we collect, both personal and non-personal, with third parties such as advertisers, contest sponsors, promotional and marketing partners, and others who provide our content or whose products or services we think may interest you. We may also share it with our current and future affiliated companies and business partners, and if we are involved in a merger, asset sale or other business reorganization, we may also share or transfer your personal and non-personal information to our successors-in-interest.",
+      "reason_of_removal": "Inconsistent: The policy reference is a generic clause about sharing 'personal information' and does not specifically mention or logically imply the sharing of 'User payment info'.",
+      "justification": "The provided policy text does not contain sufficient evidence to conclude that 'User payment info' is collected or shared.",
+      "how_to_fix": "No action needed based on this policy text. If this data is shared, the privacy policy should be updated to be more specific.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "By submitting your email address on this website/app, you agree to receive emails from us. You can cancel your participation in any of these email lists at any time by clicking on the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do. By submitting your email address, you also agree to allow us to use your email address for customer audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us. Email addresses submitted only through the order processing page will be used for the sole purpose of sending you information and updates pertaining to your order. If, however, you have provided the same email to us through another method, we may use it for any of the purposes stated in this Policy. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.",
+      "reason_of_removal": "Duplicate: This entry is an exact copy of another entry that was processed.",
+      "justification": "The entry was redundant and has been removed to clean the data.",
+      "how_to_fix": "No action needed.",
+      "lang": "English"
+    }
+  ]
+}
+```

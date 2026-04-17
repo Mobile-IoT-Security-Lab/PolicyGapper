@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "The app uses a third party service (Firebase Machine Learning Kit) to do face features detection from images provided by you. This process can be conducted locally on your device and/or on third party servers (online). During online image recognition your images are stored in the memory only and deleted after the end of image processing. For more information about data usage during online image recognition, please, review the following document.",
+      "lang": "English"
+    }
+  ]
+}

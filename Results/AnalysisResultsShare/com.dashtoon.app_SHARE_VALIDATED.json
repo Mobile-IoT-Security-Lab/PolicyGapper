@@ -1,0 +1,49 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "1.3 Opt out of the “sale of personal data. We do not sell your personal data in the conventional sense. However, like many companies, we use advertising services that try to tailor online ads to your interests based on information collected via cookies and similar technologies about your online activity. This is called interest-based advertising. The CCPA’s statutory definition of the term “sale” is broad and may include interest-based advertising",
+      "justification": "The policy states that data about online activity is used by third-party 'advertising services' for 'interest-based advertising'. This constitutes 'sharing' under Google Play's policy and does not qualify for the service provider exemption.",
+      "how_to_fix": "In the Data Safety section, declare that 'App interactions' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "1.3 Opt out of the “sale of personal data. We do not sell your personal data in the conventional sense. However, like many companies, we use advertising services that try to tailor online ads to your interests based on information collected via cookies and similar technologies about your online activity. This is called interest-based advertising. The CCPA’s statutory definition of the term “sale” is broad and may include interest-based advertising",
+      "justification": "The policy states that data about online activity is used by third-party 'advertising services' for 'interest-based advertising'. This constitutes 'sharing' under Google Play's policy and does not qualify for the service provider exemption.",
+      "how_to_fix": "In the Data Safety section, declare that 'In-app search history' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "1.3 Opt out of the “sale of personal data. We do not sell your personal data in the conventional sense. However, like many companies, we use advertising services that try to tailor online ads to your interests based on information collected via cookies and similar technologies about your online activity. This is called interest-based advertising. The CCPA’s statutory definition of the term “sale” is broad and may include interest-based advertising",
+      "justification": "The policy states that data about online activity is used by third-party 'advertising services' for 'interest-based advertising'. This constitutes 'sharing' under Google Play's policy and does not qualify for the service provider exemption.",
+      "how_to_fix": "In the Data Safety section, declare that 'Other actions' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "1.3 Opt out of the “sale of personal data. We do not sell your personal data in the conventional sense. However, like many companies, we use advertising services that try to tailor online ads to your interests based on information collected via cookies and similar technologies about your online activity. This is called interest-based advertising. The CCPA’s statutory definition of the term “sale” is broad and may include interest-based advertising",
+      "justification": "The policy states that 'cookies and similar technologies' collect information for third-party 'advertising services' for 'interest-based advertising'. This constitutes 'sharing' under Google Play's policy and does not qualify for the service provider exemption.",
+      "how_to_fix": "In the Data Safety section, declare that 'Device or other IDs' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "1.3 Opt out of the “sale of personal data. We do not sell your personal data in the conventional sense. However, like many companies, we use advertising services that try to tailor online ads to your interests based on information collected via cookies and similar technologies about your online activity. This is called interest-based advertising. The CCPA’s statutory definition of the term “sale” is broad and may include interest-based advertising",
+      "justification": "The policy states that data about online activity is used by third-party 'advertising services' for 'interest-based advertising'. If a user is logged in, this can be linked to a User ID. This constitutes 'sharing' under Google Play's policy and does not qualify for the service provider exemption.",
+      "how_to_fix": "In the Data Safety section, declare that 'User IDs' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "1.3 Opt out of the “sale of personal data. We do not sell your personal data in the conventional sense. However, like many companies, we use advertising services that try to tailor online ads to your interests based on information collected via cookies and similar technologies about your online activity. This is called interest-based advertising. The CCPA’s statutory definition of the term “sale” is broad and may include interest-based advertising",
+      "justification": "The policy states that data is used by third-party 'advertising services' to 'tailor online ads'. This often involves location data. This constitutes 'sharing' under Google Play's policy and does not qualify for the service provider exemption.",
+      "how_to_fix": "In the Data Safety section, declare that 'Approximate location' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

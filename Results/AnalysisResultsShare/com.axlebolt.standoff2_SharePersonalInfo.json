@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "In order to serve you ads that may be of interest to you (\"Targeted Advertising\"), Advertising Partners collect and use your Advertising ID, Location Information, and Device Information. If location services are enabled in your Device settings, Advertising partners may additionally collect data about your geolocation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "In order to serve you ads that may be of interest to you (\"Targeted Advertising\"), Advertising Partners collect and use your Advertising ID, Location Information, and Device Information. If location services are enabled in your Device settings, Advertising partners may additionally collect data about your geolocation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "In order to serve you ads that may be of interest to you (\"Targeted Advertising\"), Advertising Partners collect and use your Advertising ID, Location Information, and Device Information. If location services are enabled in your Device settings, Advertising partners may additionally collect data about your geolocation.",
+      "lang": "English"
+    }
+  ]
+}

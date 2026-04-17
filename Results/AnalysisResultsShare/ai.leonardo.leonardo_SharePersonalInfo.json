@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may share certain information with our third-party advertising partners, such as your email address, location, cookie information and information relating to your use of our Service, and allow partners to perform a match of your information against information from other third-party networks or sites to serve ads either on the Service or on third-party sites and to measure the effectiveness of these advertisements. We also share certain information with social media platforms to display advertising to potential new users whose demographics and behaviour look like those of our existing users.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may share certain information with our third-party advertising partners, such as your email address, location, cookie information and information relating to your use of our Service, and allow partners to perform a match of your information against information from other third-party networks or sites to serve ads either on the Service or on third-party sites and to measure the effectiveness of these advertisements. We also share certain information with social media platforms to display advertising to potential new users whose demographics and behaviour look like those of our existing users.",
+      "lang": "English"
+    }
+  ]
+}

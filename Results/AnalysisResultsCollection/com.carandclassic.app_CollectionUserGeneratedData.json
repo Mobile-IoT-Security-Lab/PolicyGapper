@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Videos",
+      "policy_reference": "Identity Data includes first name, last name, username or similar identifier, marital status, title, date of birth and gender. It also includes images of your face and appearance when appearing on video footage or photograph when you attend any of our events.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Call Recordings Overview: We may record calls with customers for the purposes of processing their enquiries, improving the quality of our services, and ensuring accurate records of transactions. These recordings may contain personal data such as the customer's name, contact details, and any other information discussed during the call.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Direct interactions. You may give us your Identity, Contact and Financial Data by filling in forms, providing documentation or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:\n(a) apply for our services;\n(b) purchase or use of our platform and services;\n(c) create an account on our website, or otherwise;\n(d) subscribe to our services or publications;\n(e) request marketing to be sent to you;\n(f) register or attend one of our events;\n(g) contact us to report a problem with the website or services, or for other purposes;\n(h) enter a competition, promotion or survey;\n(i) upload an advert or create a listing on our website; or\n(j) give us feedback.",
+      "lang": "en"
+    }
+  ]
+}

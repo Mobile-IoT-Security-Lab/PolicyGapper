@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Our apps work without registration, anyway personal data is still processed. The Gluak apps provide the following basic functions: • Favourite team and competitions • Provision of results of football matches in the apps and via push notifications In order to use the basic functions, the apps generate a number which is specific to the device when opened for the first time. This number cannot be assigned to a specific person. In addition, in order to technically display the named content, the operating system used (for example, Android or iOS), the hostname of th e accessing device (IP address) and the time of the server request are processed. Due to the way the Internet functions, the brief saving of the IP address is technically necessary. On the basis of the IP address, a location search will be ca rried out. For reasons connected to data protection, this only takes place on the geographical level of the country from where the access is taking place. By me ans of this, it is not possible to trace the concrete location or place of residence of a user. The data in technical protocols (so-called log files) are evaluated by us in anonymised form in order to continually improve our apps and make them more user friendly, as well as in order to find and correct errors more quickly. The data processing is necessary so that you can find out about the content of our apps. us with certain e request will be retained by us and used as described in this privacy policy.",
+      "lang": "English"
+    }
+  ]
+}

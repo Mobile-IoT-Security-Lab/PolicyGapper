@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• Activity Information: We collect information about your activity on our Services, such as your reading history and when you share links, follow users, highlight posts, and clap for posts.",
+      "justification": "The policy states, 'We collect information about your activity on our Services, such as...when you share links, follow users, highlight posts, and clap for posts,' which falls under the 'Other actions' data type. The data is collected and sent off-device.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Device and Usage Information: We collect information about how you access our Services, including data about the device and network you use, such as your hardware model, operating system version, mobile network, IP address, unique device identifiers, browser type, and app version. We also collect information about your activity on our Services, such as access times, pages viewed, links clicked, and the page you visited before navigating to our Services.",
+      "justification": "The policy states, 'We also collect information about your activity on our Services, such as...pages viewed, links clicked, and the page you visited before navigating to our Services,' which constitutes 'Web browsing history'. The data is collected and sent off-device.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We collect information you provide directly to us. For example, you share information directly with us when you create an account, fill out a form, submit or post content through our Services, purchase a membership, communicate with us via third-party platforms, request customer support, or otherwise communicate with us. The types of personal information we may collect include your name, display name, username, bio, email address, business information, your content, including your avatar image, photos, posts, responses, and series published by you, and any other information you choose to provide.",
+      "justification": "The policy states, 'The types of personal information we may collect include your...username,' which is a form of 'User ID'. The data is collected and sent off-device.",
+      "how_to_fix": "Declare 'User IDs' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We obtain information from third-party sources. For example, we may collect information about you from social networks, accounting services providers and data analytics providers. Additionally, if you create or log into your Medium account through a third-party platform (such as Apple, Facebook, Google, or Twitter), we will have access to certain information from that platform, such as your name, lists of friends or followers, birthday, and profile picture, in accordance with the authorization procedures determined by such platform.",
+      "justification": "The policy states collection of data from third parties like 'birthday' and 'lists of friends or followers,' which are not covered by other specific data types and fall under 'Other info'. The data is collected and sent off-device.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transactional Information: When you purchase a membership, we collect information about the transaction, such as subscription details, purchase price, and the date of the transaction.",
+      "justification": "The policy explicitly states, 'When you purchase a membership, we collect information about the transaction, such as subscription details, purchase price, and the date of the transaction,' which is 'Purchase history'. The data is collected and sent off-device.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may derive information or draw inferences about you based on the information we collect. For example, we may make inferences about your location based on your IP address or infer reading preferences based on your reading history.",
+      "justification": "The policy states, 'we may make inferences about your location based on your IP address,' which Google Play defines as collecting 'Approximate location'. This data is processed off-device.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We collect information you provide directly to us. For example, you share information directly with us when you create an account, fill out a form, submit or post content through our Services, purchase a membership, communicate with us via third-party platforms, request customer support, or otherwise communicate with us. The types of personal information we may collect include your name, display name, username, bio, email address, business information, your content, including your avatar image, photos, posts, responses, and series published by you, and any other information you choose to provide.",
+      "justification": "The policy states collection of user-provided content, including 'posts, responses, and series published by you.' 'Responses' can be classified as 'Other in-app messages'. The data is collected and sent off-device.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "We obtain information from third-party sources. For example, we may collect information about you from social networks, accounting services providers and data analytics providers. Additionally, if you create or log into your Medium account through a third-party platform (such as Apple, Facebook, Google, or Twitter), we will have access to certain information from that platform, such as your name, lists of friends or followers, birthday, and profile picture, in accordance with the authorization procedures determined by such platform.",
+      "justification": "The policy states the app will have access to 'lists of friends or followers' from third-party platforms, which falls under the 'Contacts' data type definition. The data is collected and sent off-device.",
+      "how_to_fix": "Declare 'Contacts' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

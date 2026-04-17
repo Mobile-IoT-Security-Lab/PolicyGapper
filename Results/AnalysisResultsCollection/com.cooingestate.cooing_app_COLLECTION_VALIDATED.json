@@ -1,0 +1,70 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "We collect information from you when you visit our website/app, register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.\n• Name / Username\n---\n• Phone Numbers\n---\n• Email Addresses",
+      "justification": "The privacy policy explicitly states that 'Email Addresses' are collected when users interact with the 'website/app'. Since the app is a collection point, this data type must be declared.",
+      "how_to_fix": "Declare the collection of 'Emails' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We are committed to helping our customers meet the data subject rights requirements of GDPR. Nawy processes or stores all personal data in fully vetted, DPA compliant vendors. We do store all conversation and personal data for up to 6 years unless your account is deleted. In which case, we dispose of all data in accordance with our Terms of Service and Privacy Policy, but we will not hold it longer than 60 days.",
+      "justification": "The policy states, 'We do store all conversation,' indicating that message content is collected and stored off-device with third-party vendors. This is not end-to-end encrypted.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We collect information from you when you visit our website/app, register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.\n• Name / Username\n---\n• Phone Numbers\n---\n• Email Addresses\n---",
+      "justification": "The privacy policy explicitly states that 'Name / Username' is collected when users interact with the 'website/app'. Since the app is a collection point, this data type must be declared.",
+      "how_to_fix": "Declare the collection of 'Name' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We collect information from you when you visit our website/app, register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.\n• Name / Username\n---\n• Phone Numbers\n---\n• Email Addresses\n---",
+      "justification": "The privacy policy explicitly states that 'Email Addresses' are collected when users interact with the 'website/app'. Since the app is a collection point, this data type must be declared.",
+      "how_to_fix": "Declare the collection of 'Email address' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We collect information from you when you visit our website/app, register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.\n• Name / Username\n---\n• Phone Numbers\n---\n• Email Addresses\n---",
+      "justification": "The privacy policy explicitly states that 'Phone Numbers' are collected when users interact with the 'website/app'. Since the app is a collection point, this data type must be declared.",
+      "how_to_fix": "Declare the collection of 'Phone number' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) is never kept on file. We cannot, however, ensure or warrant the absolute security of any information you transmit to Nawy or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by a breach of any of our physical, technical, or managerial safeguards.",
+      "justification": "The policy describes collecting and transmitting 'sensitive/credit information' to a 'Payment gateway providers database' when a user places an order. This data is sent off-device. Standard SSL/TLS encryption does not qualify for an exemption.",
+      "how_to_fix": "Declare the collection of 'User payment info' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "By submitting your email address on this website/app, you agree to receive emails from us. You can cancel your participation in any of these email lists at any time by clicking on the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do. By submitting your email address, you also agree to allow us to use your email address for customer audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us. Email addresses submitted only through the order processing page will be used for the sole purpose of sending you information and updates pertaining to your order. If, however, you have provided the same email to us through another method, we may use it for any of the purposes stated in this Policy. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.",
+      "justification": "The policy states that email addresses submitted via the 'order processing page' will be used for sending 'information and updates pertaining to your order.' This confirms that a record of the user's purchase is collected and processed off-device.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) is never kept on file. We cannot, however, ensure or warrant the absolute security of any information you transmit to Nawy or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by a breach of any of our physical, technical, or managerial safeguards.",
+      "justification": "The policy explicitly mentions that 'private information (credit cards, social security numbers, financials, etc.)' is transmitted off-device to a payment gateway. This falls under 'Other financial info' and must be declared.",
+      "how_to_fix": "Declare the collection of 'Other financial info' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We collect information from you when you visit our website/app, register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.",
+      "justification": "The policy states that information is collected when a user 'respond[s] to a survey or fill[s] out a form.' This is a form of user-generated content that is collected and sent off-device.",
+      "how_to_fix": "Declare the collection of 'Other User generated content' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

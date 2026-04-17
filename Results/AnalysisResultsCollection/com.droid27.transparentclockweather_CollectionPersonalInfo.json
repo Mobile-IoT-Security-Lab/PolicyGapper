@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "As a general rule, we do not collect or share any information that may be used to identify you as a person except when you contact us by email. In that case we will save your emails in order to serve you better. Once we are finished providing support to you we will delete all emails received by and sent to you. Please note that we take all the necessary steps to safeguard any personal information you may provide by email using strong passwords and 2-step authentication.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may share your information with third-party companies that provide services on our behalf, such as analytics providers (e.g., Google Analytics, Amplitude, Mixpanel, and Segment), advertising partners (e.g., Google AdMob and Facebook Audience Network), cloud storage providers (e.g., Google Cloud Platform and Amazon Web Services), payment processors (e.g., Stripe and PayPal), and customer support providers (e.g., Zendesk).",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that third parties provide services 'on our behalf'. Under Google Play's policy, sharing data with service providers who process it solely on the developer's behalf is not required to be disclosed as 'sharing'.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing' in the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may share your information with third-party companies that provide services on our behalf, such as analytics providers (e.g., Google Analytics, Amplitude, Mixpanel, and Segment), advertising partners (e.g., Google AdMob and Facebook Audience Network), cloud storage providers (e.g., Google Cloud Platform and Amazon Web Services), payment processors (e.g., Stripe and PayPal), and customer support providers (e.g., Zendesk).",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that third parties provide services 'on our behalf'. Under Google Play's policy, sharing data with service providers who process it solely on the developer's behalf is not required to be disclosed as 'sharing'.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing' in the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.",
+      "reason_of_removal": "Business Transfer Exemption",
+      "justification": "The policy describes transferring data as part of a merger, acquisition, or sale of assets. This specific scenario is exempt from being disclosed as 'sharing' according to Google Play's Data Safety guidelines.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing' in the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.",
+      "reason_of_removal": "Business Transfer Exemption",
+      "justification": "The policy describes transferring data as part of a merger, acquisition, or sale of assets. This specific scenario is exempt from being disclosed as 'sharing' according to Google Play's Data Safety guidelines.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing' in the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.",
+      "reason_of_removal": "Business Transfer Exemption",
+      "justification": "The policy describes transferring data as part of a merger, acquisition, or sale of assets. This specific scenario is exempt from being disclosed as 'sharing' according to Google Play's Data Safety guidelines.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing' in the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.",
+      "reason_of_removal": "Business Transfer Exemption",
+      "justification": "The policy describes transferring data as part of a merger, acquisition, or sale of assets. This specific scenario is exempt from being disclosed as 'sharing' according to Google Play's Data Safety guidelines.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing' in the Data Safety form.",
+      "lang": "English"
+    }
+  ]
+}
+```

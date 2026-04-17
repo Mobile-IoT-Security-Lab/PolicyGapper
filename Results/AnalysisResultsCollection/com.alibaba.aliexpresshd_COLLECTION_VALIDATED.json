@@ -1,0 +1,98 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Complaint Information | Such as information connected with the Platform or goods and/or services purchased via the Platform as such information relates to a complaint, for example, the photographs you upload for the products reviews or complaints.",
+      "justification": "The privacy policy states that user-generated content is collected, specifically mentioning 'the photographs you upload for the products reviews or complaints'. This data is sent off-device ('upload').",
+      "how_to_fix": "Declare 'Other user-generated content' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Platform Activity Information | Such as details on the types and specifications of the goods sold and purchased, pricing and delivery information, any dispute records, communications between Buyers and Sellers and any information disclosed in any discussion forum.",
+      "justification": "The privacy policy describes the collection of user actions, such as 'goods sold and purchased' and 'communications between Buyers and Sellers'. This data is processed on the developer's servers.",
+      "how_to_fix": "Declare 'Other actions' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Questionnaire Information | Such as any response to questionnaires for market research/analytics which you choose to partake in which can include marital status, nationality, gender, date of birth, annual income and spending preferences. In some circumstances this could include or constitute information which is considered more sensitive. If you prefer not to provide such information, the use of our services and products will not be affected.",
+      "justification": "The privacy policy states that other personal information is collected via 'response to questionnaires for market research/analytics', including 'marital status, nationality, gender, date of birth'. This data is sent off-device for analysis.",
+      "how_to_fix": "Declare 'Other info' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Information | Such as credit card or similar payment information that you intend to purchase with; billing and delivery address.",
+      "justification": "The privacy policy explicitly states the collection of 'credit card or similar payment information' for purchases. This data is sent off-device to be processed.",
+      "how_to_fix": "Declare 'User payment info' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "Questionnaire Information | Such as any response to questionnaires for market research/analytics which you choose to partake in which can include marital status, nationality, gender, date of birth, annual income and spending preferences. In some circumstances this could include or constitute information which is considered more sensitive. If you prefer not to provide such information, the use of our services and products will not be affected.",
+      "justification": "The privacy policy states that financial information is collected via questionnaires, specifically mentioning 'annual income and spending preferences'. This data is sent off-device for analysis.",
+      "how_to_fix": "Declare 'Other financial info' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "General Personal Information | When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and weight. For example, this information may be used by us to recommend clothing sizes or styles, personalization, or to provide fit prediction services for you.",
+      "justification": "The privacy policy states that fitness and health-related information is collected, such as 'body shape, personal height... and weight'. The policy states this data is 'used by us', indicating it is sent off-device.",
+      "how_to_fix": "Declare 'Fitness info' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Platform Usage Information | Such as information relating to how you use and engage with the Platform including IP addresses, date and time of access to the Platform, device type, unique device identification numbers, browser type, broad geographic location (e.g., country or city-level location), browsing patterns and details of how you have interacted with our Platform and the goods and services available on it. In addition, we gather information about the Platform and visitors to the Platform including browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors.",
+      "justification": "The privacy policy states that location data is collected, mentioning 'broad geographic location (e.g., country or city-level location)' derived from IP addresses. The policy states 'we gather information', indicating it is sent off-device.",
+      "how_to_fix": "Declare 'Approximate location' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Such as your correspondence with us via various channels (such as email, phone number, online chat service, social media, mail, instant chat and our customer service department)",
+      "justification": "The privacy policy states that emails are collected as part of user 'correspondence with us via... email'. This correspondence is sent to and stored by the developer.",
+      "how_to_fix": "Declare 'Emails' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Such as details on the types and specifications of the goods sold and purchased, pricing and delivery information, any dispute records, communications between Buyers and Sellers and any information disclosed in any discussion forum.",
+      "justification": "The privacy policy describes the collection of in-app messages, such as 'communications between Buyers and Sellers' and information in 'any discussion forum'. This data is transmitted via the developer's servers.",
+      "how_to_fix": "Declare 'Other in-app messages' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Such as information connected with the Platform or goods and/or services purchased via the Platform as such information relates to a complaint, for example, the photographs you upload for the products reviews or complaints.",
+      "justification": "The privacy policy explicitly states that photos are collected, mentioning 'the photographs you upload for the products reviews or complaints'. The term 'upload' confirms the data is sent off-device.",
+      "how_to_fix": "Declare 'Photos' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "The personal information that we collect, or have collected in the preceding 12 months, falls into the following categories of personal information, as enumerated by the CCPA: Identifiers, such as your name, postal address, email address, user account name, and IP address; Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)), such as your contact information; Commercial information, such as transaction information and purchase history; Internet or network activity information, such as your browsing history and interactions with our Platform; Geolocation data, such as your approximate location; Audio, electronic, visual, and similar information, such as your records of your support requests and interactions with our customer support service; and Inferences drawn from any of the above personal information to create a summary about you, for example of your preferences and characteristics.",
+      "justification": "The privacy policy states that 'Audio... information' is collected, providing the example of 'records of your support requests and interactions with our customer support service'. These records are sent to and stored by the developer.",
+      "how_to_fix": "Declare 'Voice or sound recordings' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Such as a form of ID like a passport or other identity verification for customs clearance purposes or after-sales services.",
+      "justification": "The privacy policy states that files and documents are collected, providing the example of 'a form of ID like a passport' for verification. This data is sent off-device for processing.",
+      "how_to_fix": "Declare 'Files and docs' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Such as people or accounts with whom you share content or interact and contact information if you choose to upload or import it from a device (such as an address book).",
+      "justification": "The privacy policy states that contacts are collected if the user chooses to 'upload or import it from a device (such as an address book)'. The term 'upload' confirms the data is sent off-device.",
+      "how_to_fix": "Declare 'Contacts' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

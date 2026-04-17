@@ -1,0 +1,56 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User Content (e.g., photos and other materials) that you post through the Service. Communications between you and Skincare and Facecare. For example, we may send you Service-related emails (e.g., changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.",
+      "justification": "The policy states collection of \"User Content (e.g., photos and other materials) that you post through the Service.\" The term \"other materials\" falls under the category of \"Other User generated content\". Posting content implies it is sent off-device.",
+      "how_to_fix": "Declare the collection of \"Other user-generated content\" in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "When you use our Service, our servers automatically record certain log file information, including your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may also collect similar information from emails sent to our Users which then help us track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.",
+      "justification": "The policy states that \"our servers automatically record\" user interactions such as \"number of clicks and how you interact with links on the Service... pages viewed,\" which are types of user actions collected off-device.",
+      "how_to_fix": "Declare the collection of \"Other actions\" in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.",
+      "justification": "The policy states that analytics tools collect \"information sent by your device... including the web pages you visit.\" This is a form of web browsing history that is sent off-device.",
+      "how_to_fix": "Declare the collection of \"Web browsing history\" in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Communications between you and Skincare and Facecare. For example, we may send you Service-related emails (e.g., changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.",
+      "justification": "The policy states, \"we may send you Service-related emails.\" To send emails from its servers, the service must collect and store the user's email address off-device.",
+      "how_to_fix": "Declare the collection of \"Email address\" in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you use our Service, our servers automatically record certain log file information, including your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may also collect similar information from emails sent to our Users which then help us track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.",
+      "justification": "The policy states that \"our servers automatically record\" the user's \"Internet Protocol ('IP') address.\" An IP address is sent off-device and can be used to determine a user's approximate location.",
+      "how_to_fix": "Declare the collection of \"Approximate location\" in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "User Content (e.g., photos and other materials) that you post through the Service. Communications between you and Skincare and Facecare. For example, we may send you Service-related emails (e.g., changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.",
+      "justification": "The policy explicitly states the collection of \"User Content (e.g., photos...)\" that users \"post through the Service,\" which means the data is sent off-device.",
+      "how_to_fix": "Declare the collection of \"Photos\" in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "User Content (e.g., photos and other materials) that you post through the Service. Communications between you and Skincare and Facecare. For example, we may send you Service-related emails (e.g., changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.",
+      "justification": "The policy describes \"Communications between you and Skincare and Facecare\" and the sending of \"Service-related emails.\" This implies the collection and processing of email communications, which are handled off-device.",
+      "how_to_fix": "Declare the collection of \"Emails\" in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,135 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with partners for analytics and security, which qualifies as a 'Service Provider' exemption under Google Play's policy. These partners process data on the developer's behalf.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with partners for analytics and security, which qualifies as a 'Service Provider' exemption under Google Play's policy. These partners process data on the developer's behalf.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with partners for analytics and security, which qualifies as a 'Service Provider' exemption under Google Play's policy. These partners process data on the developer's behalf.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with partners for analytics and security, which qualifies as a 'Service Provider' exemption under Google Play's policy. These partners process data on the developer's behalf.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "• for services related to communication, marketing, data and information storage, transmission, security, analytics, fraud detection, risk assessment and research",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with partners for analytics and security, which qualifies as a 'Service Provider' exemption under Google Play's policy. These partners process data on the developer's behalf.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "for enabling your lending journey including KYC and onboarding by sharing information with authorized financial institutions including banks, non-banking financial institutions, and credit bureaus, with whom we partner to offer you credit and loan-related products and services. We may also share your information with third parties under contract who assist us with our business operations, including enabling your KYC process, eligibility checks, collection services, and storage of such information, as required by our lending partners",
+      "reason_of_removal": "User-Initiated Action/Consent",
+      "justification": "The policy states data is shared as a direct result of a user's action (e.g., applying for a loan), which falls under the 'User-Initiated Action' exemption.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "to allow third parties to contact you for products and services availed/requested by you on or via the PhonePe Platform or on third-party links",
+      "reason_of_removal": "User-Initiated Action/Consent",
+      "justification": "The policy states data is shared as a direct result of a user's action (requesting products/services), which falls under the 'User-Initiated Action' exemption.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "for enabling your lending journey including KYC and onboarding by sharing information with authorized financial institutions including banks, non-banking financial institutions, and credit bureaus, with whom we partner to offer you credit and loan-related products and services. We may also share your information with third parties under contract who assist us with our business operations, including enabling your KYC process, eligibility checks, collection services, and storage of such information, as required by our lending partners",
+      "reason_of_removal": "User-Initiated Action/Consent",
+      "justification": "The policy states data is shared as a direct result of a user's action (e.g., applying for a loan), which falls under the 'User-Initiated Action' exemption.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "for enabling your lending journey including KYC and onboarding by sharing information with authorized financial institutions including banks, non-banking financial institutions, and credit bureaus, with whom we partner to offer you credit and loan-related products and services. We may also share your information with third parties under contract who assist us with our business operations, including enabling your KYC process, eligibility checks, collection services, and storage of such information, as required by our lending partners",
+      "reason_of_removal": "User-Initiated Action/Consent",
+      "justification": "The policy states data is shared as a direct result of a user's action (e.g., applying for a loan), which falls under the 'User-Initiated Action' exemption.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "for enabling your lending journey including KYC and onboarding by sharing information with authorized financial institutions including banks, non-banking financial institutions, and credit bureaus, with whom we partner to offer you credit and loan-related products and services. We may also share your information with third parties under contract who assist us with our business operations, including enabling your KYC process, eligibility checks, collection services, and storage of such information, as required by our lending partners",
+      "reason_of_removal": "User-Initiated Action/Consent",
+      "justification": "The policy states data is shared as a direct result of a user's action (e.g., applying for a loan), which falls under the 'User-Initiated Action' exemption.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "if it is required by financial institutions to verify, mitigate, or prevent fraud or to manage risk or recover funds in accordance with applicable laws/regulations",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy explicitly states data is shared for legal and fraud prevention purposes as required by regulations, which is a 'Legal Purposes' exemption.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "if it is required by financial institutions to verify, mitigate, or prevent fraud or to manage risk or recover funds in accordance with applicable laws/regulations",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy explicitly states data is shared for legal and fraud prevention purposes as required by regulations, which is a 'Legal Purposes' exemption.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "for enabling your lending journey including KYC and onboarding by sharing information with authorized financial institutions including banks, non-banking financial institutions, and credit bureaus, with whom we partner to offer you credit and loan-related products and services. We may also share your information with third parties under contract who assist us with our business operations, including enabling your KYC process, eligibility checks, collection services, and storage of such information, as required by our lending partners",
+      "reason_of_removal": "User-Initiated Action/Consent",
+      "justification": "The policy states data is shared as a direct result of a user's action (e.g., applying for a loan), which falls under the 'User-Initiated Action' exemption.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "for enabling your lending journey including KYC and onboarding by sharing information with authorized financial institutions including banks, non-banking financial institutions, and credit bureaus, with whom we partner to offer you credit and loan-related products and services. We may also share your information with third parties under contract who assist us with our business operations, including enabling your KYC process, eligibility checks, collection services, and storage of such information, as required by our lending partners",
+      "reason_of_removal": "User-Initiated Action/Consent",
+      "justification": "The policy states data is shared as a direct result of a user's action (e.g., applying for a loan), which falls under the 'User-Initiated Action' exemption.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• to validate, process and/or share your KYC information, nominee details with other intermediaries, Regulated Entities (REs), non-banking financial companies, or AMCs, or financial institutions, or with any other service providers as may be required",
+      "reason_of_removal": "User-Initiated Action/Consent",
+      "justification": "The policy states data is shared for KYC purposes as part of a user-initiated process, which falls under the 'User-Initiated Action' exemption.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• to validate, process and/or share your KYC information, nominee details with other intermediaries, Regulated Entities (REs), non-banking financial companies, or AMCs, or financial institutions, or with any other service providers as may be required",
+      "reason_of_removal": "User-Initiated Action/Consent",
+      "justification": "The policy states data is shared for KYC purposes as part of a user-initiated process, which falls under the 'User-Initiated Action' exemption.",
+      "how_to_fix": "This does not need to be declared as 'shared' in the Data Safety section. No action is required.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "You can choose to provide data about your age, gender, address, and email address. These and some other types of data may be specially protected under the laws of your jurisdiction.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "You can choose to provide data about your age, gender, address, and email address. These and some other types of data may be specially protected under the laws of your jurisdiction.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "On Buenovela, you can read or publish novels, make comments, and purchase coins for charged chapters and so on. We will collect the operation that you may perform on Buenovela and the data you provide, such as:\n• the content you create, for example novel or comments;\n• the metadata about the content itself, for example upload address or creation documents date, in accordance with the relevant legislation;\n• the type of content that you read or comment;\n• the application and function you use, and your operation during this;\n• the purchase or other transactions you do including the credit card data;\n• the time, frequency, and duration of your operation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "On Buenovela, you can read or publish novels, make comments, and purchase coins for charged chapters and so on. We will collect the operation that you may perform on Buenovela and the data you provide, such as:\n• the content you create, for example novel or comments;\n• the metadata about the content itself, for example upload address or creation documents date, in accordance with the relevant legislation;\n• the type of content that you read or comment;\n• the application and function you use, and your operation during this;\n• the purchase or other transactions you do including the credit card data;\n• the time, frequency, and duration of your operation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "On Buenovela, you can read or publish novels, make comments, and purchase coins for charged chapters and so on. We will collect the operation that you may perform on Buenovela and the data you provide, such as:\n• the content you create, for example novel or comments;\n• the metadata about the content itself, for example upload address or creation documents date, in accordance with the relevant legislation;\n• the type of content that you read or comment;\n• the application and function you use, and your operation during this;\n• the purchase or other transactions you do including the credit card data;\n• the time, frequency, and duration of your operation.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Only when you provide us with your express consent through our consent management platform, we will share some personal data with Partners (such as Google Ireland Limited, Amazon Ad Server, Magnite, Inc or LiveRamp France) with the strict purpose of ads targeting and delivery. You can check the full list of Partners and gather further information about the processing of your personal data in the Partners' own privacy policies linked in our consent management platform accessible through the following link.",
+      "justification": "The policy states personal data is shared with third-party advertising partners (e.g., Google, Amazon) for ad targeting. The reference to partners' 'own privacy policies' indicates they are not acting solely as service providers on the developer's behalf. This constitutes 'sharing' for advertising purposes under Google Play's policy.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'App interactions' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Only when you provide us with your express consent through our consent management platform, we will share some personal data with Partners (such as Google Ireland Limited, Amazon Ad Server, Magnite, Inc or LiveRamp France) with the strict purpose of ads targeting and delivery. You can check the full list of Partners and gather further information about the processing of your personal data in the Partners' own privacy policies linked in our consent management platform accessible through the following link.",
+      "justification": "The policy states personal data is shared with third-party advertising partners (e.g., Google, Amazon) for ad targeting. The reference to partners' 'own privacy policies' indicates they are not acting solely as service providers on the developer's behalf. This constitutes 'sharing' for advertising purposes under Google Play's policy.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'In-app search history' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Only when you provide us with your express consent through our consent management platform, we will share some personal data with Partners (such as Google Ireland Limited, Amazon Ad Server, Magnite, Inc or LiveRamp France) with the strict purpose of ads targeting and delivery. You can check the full list of Partners and gather further information about the processing of your personal data in the Partners' own privacy policies linked in our consent management platform accessible through the following link.",
+      "justification": "The policy states personal data is shared with third-party advertising partners (e.g., Google, Amazon) for ad targeting. The reference to partners' 'own privacy policies' indicates they are not acting solely as service providers on the developer's behalf. This constitutes 'sharing' for advertising purposes under Google Play's policy.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'Other actions' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "In order to fulfill the purposes indicated in this privacy policy, it is necessary for us to provide access to your personal data and to third parties that support us in the services we offer you, among which are: financial entities, tax and fraud prevention entities, government agencies, technology service providers, transport and logistics service providers and partners, marketing and advertising companies, and customer service and complaint or claim management companies.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes sharing with 'technology service providers' that 'support us in the services we offer'. This language indicates a service provider relationship where data is processed on the developer's behalf, which is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is required for this item in the 'sharing' section of the Data Safety form, as it falls under the service provider exemption. Ensure it is correctly declared under the 'collection' section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "PURPOSE:In the event that you reach a certain amount of revenue or sales we are required to collect and report such revenue and tax data under the DAC7 Directive.",
+      "reason_of_removal": "Legal Purposes Exemption",
+      "justification": "The policy explicitly states that financial data is shared to comply with a legal requirement (the 'DAC7 Directive'). Sharing for legal purposes is a specific exemption from the 'sharing' disclosure requirement.",
+      "how_to_fix": "No action is required for this item in the 'sharing' section of the Data Safety form, as it falls under the legal purposes exemption. Ensure it is correctly declared under the 'collection' section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "PURPOSE:In the event that you reach a certain amount of revenue or sales we are required to collect and report such revenue and tax data under the DAC7 Directive.",
+      "reason_of_removal": "Legal Purposes Exemption",
+      "justification": "The policy explicitly states that financial data is shared to comply with a legal requirement (the 'DAC7 Directive'). Sharing for legal purposes is a specific exemption from the 'sharing' disclosure requirement.",
+      "how_to_fix": "No action is required for this item in the 'sharing' section of the Data Safety form, as it falls under the legal purposes exemption. Ensure it is correctly declared under the 'collection' section.",
+      "lang": "English"
+    }
+  ]
+}
+```

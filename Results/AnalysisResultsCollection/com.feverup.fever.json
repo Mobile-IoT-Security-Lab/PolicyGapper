@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We may collect information you provide when you: register and create an account to use the Platform or any of our Services; contact or correspond with our user support team (phone, email or even through the App); → fill in any forms; → respond to any of our surveys; → subscribe to our newsletters or enter a competition, sweepstake or promotions; → share information with us on social media.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Information categorizing you as a user, which might include your behavior, likes and dislikes, or purchasing history.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Social Cookies: These may be used to enable you to share our content with your friends and networks. They are capable of tracking your browser across other websites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these technologies you may not be able to use or see these sharing tools. This category includes Facebook",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may collect the following Personal Data and additional information:\n•\n•\n•\nyour name and surname;\nemail address;\nphone number (if you add it to your profile);\ndate of birth (if you add it to your profile);\nlocation based in IP address or details of the device you use;\nyour profile picture (image) if you create a Fever account using social\nlogin;\nrecords of our conversations and messages, if you contact us or we\ncontact you (including records of phone calls)\n• your image and/or voice in photo or video form\nIf you provide us Personal Data about other people (such as the attendees\nwith whom you are going to attend an experience or event), you confirm that\nyou have brought this privacy notice to their attention beforehand.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "If you turn on location services, we may track your location using GPS technology (you can configure whether this functionality is active only during the use of the Fever app).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We may collect the following Personal Data and additional information:\n•\n•\n•\nyour name and surname;\nemail address;\nphone number (if you add it to your profile);\ndate of birth (if you add it to your profile);\nlocation based in IP address or details of the device you use;\nyour profile picture (image) if you create a Fever account using social\nlogin;\nrecords of our conversations and messages, if you contact us or we\ncontact you (including records of phone calls)\n• your image and/or voice in photo or video form\nIf you provide us Personal Data about other people (such as the attendees\nwith whom you are going to attend an experience or event), you confirm that\nyou have brought this privacy notice to their attention beforehand.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We may collect the following Personal Data and additional information:\n•\n•\n•\nyour name and surname;\nemail address;\nphone number (if you add it to your profile);\ndate of birth (if you add it to your profile);\nlocation based in IP address or details of the device you use;\nyour profile picture (image) if you create a Fever account using social\nlogin;\nrecords of our conversations and messages, if you contact us or we\ncontact you (including records of phone calls)\n• your image and/or voice in photo or video form\nIf you provide us Personal Data about other people (such as the attendees\nwith whom you are going to attend an experience or event), you confirm that\nyou have brought this privacy notice to their attention beforehand.",
+      "lang": "en"
+    }
+  ]
+}

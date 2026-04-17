@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "Microphone and audio: As part of our dialer feature which is provided to certain Apps of ours, you will be required to provide us permissions to your Microphone. We use those permissions to provide you with our dialer. The microphone permission needs to be affirmatively enabled through in-app permission or the mobile settings. You may disable the permissions at any time, but depending on the permission you disable, a feature or all features may not function properly. We will process the audio and use the microphone solely for providing you the dialer feature and we will not store any of your audio. Further, we wish to clarify that we do not store any audio file or any information which may be accessed through the microphones on our servers. We process this information based on your consent provided through the organic in-app permissions in order to execute our contract with you and provide you with our services.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "Microphone and audio: As part of our dialer feature which is provided to certain Apps of ours, you will be required to provide us permissions to your Microphone. We use those permissions to provide you with our dialer. The microphone permission needs to be affirmatively enabled through in-app permission or the mobile settings. You may disable the permissions at any time, but depending on the permission you disable, a feature or all features may not function properly. We will process the audio and use the microphone solely for providing you the dialer feature and we will not store any of your audio. Further, we wish to clarify that we do not store any audio file or any information which may be accessed through the microphones on our servers. We process this information based on your consent provided through the organic in-app permissions in order to execute our contract with you and provide you with our services.",
+"lang": "en"
+}
+]
+}

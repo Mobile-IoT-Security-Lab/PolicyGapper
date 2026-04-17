@@ -1,0 +1,56 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may, upon you installing the App, automatically collect information about your device and your use of the App, including but not limited to:\n3-1-1- your operating system,language, device type, the contents you view on our App;\n3-1-2- your searches and the relevant results;\n3-1-3- the amount of time spent on particular contents;\n3-1-4- your Internet Protocol (“IP”) address, the type of web browser you are using and browser language, the dates and times you access our App, crash reports, and other similar information.",
+      "justification": "The privacy policy states in section 3-1-2 that the app collects 'your searches and the relevant results'. This data is described as being automatically collected, indicating it is sent off-device and must be declared.",
+      "how_to_fix": "Declare the collection of 'In-app search history' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may, upon you installing the App, automatically collect information about your device and your use of the App, including but not limited to:\n3-1-1- your operating system,language, device type, the contents you view on our App;\n3-1-2- your searches and the relevant results;\n3-1-3- the amount of time spent on particular contents;\n3-1-4- your Internet Protocol (“IP”) address, the type of web browser you are using and browser language, the dates and times you access our App, crash reports, and other similar information.",
+      "justification": "The privacy policy states in section 3-1-4 that the app collects 'crash reports'. This data is sent off-device for analysis and is not exempt from declaration.",
+      "how_to_fix": "Declare the collection of 'Crash logs' or 'Other app performance data' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may, upon you installing the App, automatically collect information about your device and your use of the App, including but not limited to:\n3-1-1- your operating system,language, device type, the contents you view on our App;\n3-1-2- your searches and the relevant results;\n3-1-3- the amount of time spent on particular contents;\n3-1-4- your Internet Protocol (“IP”) address, the type of web browser you are using and browser language, the dates and times you access our App, crash reports, and other similar information.",
+      "justification": "The privacy policy states in section 3-1-4 that the app automatically collects the user's 'Internet Protocol (“IP”) address'. An IP address is considered a 'Device or other ID' and is sent off-device, requiring declaration.",
+      "how_to_fix": "Declare the collection of 'Device or other IDs' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "The information you provide to us (upon creating an account) may include but is not limited to your:\n3-2-1-email address, cell phone number or other contact information; password associated with your account; additional information you provide us with, for example, to create an account on the App, your reviews;\n3-2-2-Your voice or correspondences with our call center\n3-2-3-Places you have visited with Balad and starred as a favorite address",
+      "justification": "The privacy policy states in section 3-2-3 that the app collects 'Places you have visited... and starred as a favorite address'. This data is provided by the user, implying it is sent off-device for account features and must be declared.",
+      "how_to_fix": "Declare the collection of 'Address' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "3-1-5-Your exact location will be sent to Balad servers for pace by pace navigating. Your location (anonymously) will be used for estimating traffic and other statistical purposes like editing ways. By anonymously we mean no one can track the identity or characteristics of the User.",
+      "justification": "The privacy policy explicitly states in section 3-1-5 that 'Your exact location will be sent to Balad servers'. Since the data is sent off-device, it must be declared as collected.",
+      "how_to_fix": "Declare the collection of 'Precise location' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "3-2-2-Your voice or correspondences with our call center",
+      "justification": "The privacy policy states in section 3-2-2 that the app collects 'correspondences with our call center'. This implies communication data is sent off-device and must be declared.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "3-2-2-Your voice or correspondences with our call center",
+      "justification": "The privacy policy states in section 3-2-2 that the app collects 'Your voice... with our call center'. This data is sent off-device and must be declared.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

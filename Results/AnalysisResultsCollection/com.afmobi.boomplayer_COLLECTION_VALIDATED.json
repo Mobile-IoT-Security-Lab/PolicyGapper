@@ -1,0 +1,126 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Behavioral information we collect about you. We also collect information regarding your use of the Services, e.g. your comments on Boomplay or any other content that you Posted on or through the Services, views and interactions on Boomplay. In addition, we link your contact or subscriber information with your activity on Boomplay across all your devices using your email or social media log-in details, engagement (including without limitation likes, shares, comments, repeated views) and relate users based on your behavior. Finally, we collect opt-ins and communication preferences.",
+      "justification": "The privacy policy states the app collects user engagement data such as views, interactions, likes, shares, and comments, which are sent off-device.",
+      "how_to_fix": "Declare the collection of 'App interactions' in the Google Play Console's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "justification": "The privacy policy states that 'browsing records' are collected, which implies the collection of in-app search history.",
+      "how_to_fix": "Declare the collection of 'In-app search history' in the Google Play Console's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "Information on Your Device. We automatically collect certain data from you, including IP address or other unique device identifiers such as Google advertising ID, Android ID, Identifier for Advertising, Cookies (as defined below), mobile carrier, time zone and locale setting, operating system and platform, hardware and software versions, battery lowhat's Biompray strengtlist savaidavaltisingtoranewsspa controwser type, app and file names and types, Bluetooth signals, International Mobile Equipment Identity, International Mobile Subscriber Identity, data from device settings: information you allow us to receive through device settings you turn on, such as access to your GPS location, photos, videos and voice recordings and such other information on your device. Any automated decision-making, including profiling, based on the data automatically collected from you, will solely be used in optimizing the Services and tailoring it to your preferences.",
+      "justification": "The privacy policy explicitly states the automatic collection of 'app and file names and types' from the user's device.",
+      "how_to_fix": "Declare the collection of 'Installed apps' in the Google Play Console's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "justification": "The privacy policy states that user-shared information, including 'postings', 'comments', and 'lists you create', is collected.",
+      "how_to_fix": "Declare the collection of 'Other user generated content' in the Google Play Console's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Behavioral information we collect about you. We also collect information regarding your use of the Services, e.g. your comments on Boomplay or any other content that you Posted on or through the Services, views and interactions on Boomplay. In addition, we link your contact or subscriber information with your activity on Boomplay across all your devices using your email or social media log-in details, engagement (including without limitation likes, shares, comments, repeated views) and relate users based on your behavior. Finally, we collect opt-ins and communication preferences.",
+      "justification": "The privacy policy states the collection of user 'engagement (including without limitation likes, shares, comments, repeated views)' and 'opt-ins and communication preferences'.",
+      "how_to_fix": "Declare the collection of 'Other actions' in the Google Play Console's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "On Boomplay, we use third-party analytics tools to help us measure traffic and usage trends for the Services. Traffic refers to the different data flows surrounding activities of the users on the Services. These tools, for example, collect information sent by your device or our Services, including the pages you visit, add-ons, and other information that assists us in improving the Service. The information will be used to report and evaluate wat Bartinaities Fandtilstatter avertising us Newst Boomalay to provide services in accordance with these activities.",
+      "justification": "The privacy policy states that third-party analytics tools are used to 'measure traffic and usage trends' and 'collect information sent by your device or our Services', which constitutes app performance data.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in the Google Play Console's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "• Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "justification": "The privacy policy explicitly states that user-shared information includes 'public profile, name'.",
+      "how_to_fix": "Declare the collection of 'Name' in the Google Play Console's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "• Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "justification": "The privacy policy explicitly states that user-shared information includes 'address'.",
+      "how_to_fix": "Declare the collection of 'Address' in the Google Play Console's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "•Third-party Services. If yWhat's Badmplay Bocoran Artists accraventsingy conewsctin@ntaith a third-party service, such as Facebook, Google, Instagram, Whatsapp or Email, we may collect information from such third-party service, including without limitation your third-party service user name, gender, profile image, birthday and third-party service contact list.",
+      "justification": "The privacy policy states that information such as 'gender, profile image, birthday' may be collected from third-party services.",
+      "how_to_fix": "Declare the collection of 'Other info' in the Google Play Console's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "justification": "The privacy policy explicitly states that user-shared information includes 'account and billing details'.",
+      "how_to_fix": "Declare the collection of 'User payment info' in the Google Play Console's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Location data We may collect and process information about your location, including location information based on your SIM card, IP address or mobile device location settings, and if activated on your mobile device, by use of a Global Positioning System (GPS). We may use such information to provide you with location-based services, such as features, notifications, marketing, or other content that is influenced by your location. If you do not wish to share your GPS location with us, you can switch off GPS functionality on your mobile device.",
+      "justification": "The privacy policy states the app may 'collect and process information about your location... by use of a Global Positioning System (GPS)'.",
+      "how_to_fix": "Declare the collection of 'Precise location' in the Google Play Console's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Behavioral information we collect about you. We also collect information regarding your use of the Services, e.g. your comments on Boomplay or any other content that you Posted on or through the Services, views and interactions on Boomplay. In addition, we link your contact or subscriber information with your activity on Boomplay across all your devices using your email or social media log-in details, engagement (including without limitation likes, shares, comments, repeated views) and relate users based on your behavior. Finally, we collect opt-ins and communication preferences.",
+      "justification": "The privacy policy states that the app collects 'your comments on Boomplay or any other content that you Posted on or through the Services'.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the Google Play Console's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "justification": "The privacy policy explicitly states that user-shared information includes 'photos... as accessed with your prior consent'.",
+      "how_to_fix": "Declare the collection of 'Photos' in the Google Play Console's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "justification": "The privacy policy explicitly states that user-shared information includes 'videos... as accessed with your prior consent'.",
+      "how_to_fix": "Declare the collection of 'Videos' in the Google Play Console's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "justification": "The privacy policy explicitly states that user-shared information includes 'voice recordings as accessed with your prior consent'.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in the Google Play Console's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Metadata. When you Post content, including images, text and audio to Boomplay, you automatically upload certain metadata that is connected to the content. In essence, metadata describes other data and provides information about your content that will not always be evident to the viewer. In connection with your content the metadata can describe how, when and by whom the piece of content was collected and how that content is formatted. It further includes information such as your account name that enables other users to trace back the content to your user account. Metadata will further consist of additional data that you chose to provide with the content, e.g. any hashtags used to mark keywords to the comments.",
+      "justification": "The privacy policy states that users can 'Post content, including... audio to Boomplay', which implies the collection of audio files.",
+      "how_to_fix": "Declare the collection of 'Other audio files' in the Google Play Console's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Information on Your Device. We automatically collect certain data from you, including IP address or other unique device identifiers such as Google advertising ID, Android ID, Identifier for Advertising, Cookies (as defined below), mobile carrier, time zone and locale setting, operating system and platform, hardware and software versions, battery lowhat's Biompray strengtlist savaidavaltisingtoranewsspa controwser type, app and file names and types, Bluetooth signals, International Mobile Equipment Identity, International Mobile Subscriber Identity, data from device settings: information you allow us to receive through device settings you turn on, such as access to your GPS location, photos, videos and voice recordings and such other information on your device. Any automated decision-making, including profiling, based on the data automatically collected from you, will solely be used in optimizing the Services and tailoring it to your preferences.",
+      "justification": "The privacy policy states the app automatically collects 'app and file names and types' from the user's device.",
+      "how_to_fix": "Declare the collection of 'Files and docs' in the Google Play Console's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

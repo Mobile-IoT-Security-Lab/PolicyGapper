@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Customer support inquiries. We keep the information that you provide to our customer support team that was necessary to resolve the query. Depending on what information is necessary, it can consist of, but not limited to: payment information for customer verification processes, your country name, information of your OS, local application logs, etc.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Account data. For the purpose of managing and administering our profiles on social networks (e.g., “Facebook”, “Instagram”, “Twitter”, “LinkedIn”, “YouTube” accounts), we may collect and process your personal data (e.g., full name, social network profile name, pictures, and/or public comments) you provided voluntarily.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Phone calls. If phone contact is available in your country and you reach out to us in response to one of our TV advertisements, we will record the call for quality assurance and to respond to your queries (including complaints) about our Services you are interested in, but only with your prior consent. In this case, we will process call metadata (such as your phone number, call time, and duration) along with the content of the call (including your voice, email address, details about our Services you are interested in, and any other information exchanged). Additionally, if your call is dropped while we are locating an available consultant or during your conversation, or if you call when the phone line is closed, we will record your phone number and may call you back. If you prefer not to have your call recorded, we encourage you to contact us via email at support@nordaccount.com instead of reaching out by phone.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Customer support inquiries. We keep the information that you provide to our customer support team that was necessary to resolve the query. Depending on what information is necessary, it can consist of, but not limited to: payment information for customer verification processes, your country name, information of your OS, local application logs, etc.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Information for participating in referral programs. Participation in referral programs maintained by Nord requires referrers to submit personal data (e.g., full name, e-mail address, phone number, relationship with the referred party) about themselves and a referred party so that Nord could i) reach out to the referred party; ii) contact referrers with regards to their participation in referral programs and/or provision of rewards. It is the referrer's responsibility to abide by applicable privacy laws when disclosing third parties' personal data to Nord, including informing third parties that they are providing referred parties' personal data to Nord and how it will be used and processed. Referred parties may unsubscribe from any future communication at any time. If you believe that one of your contacts has provided us with your personal data and you would like it to be removed from our database, please contact us.",
+      "lang": "en"
+    }
+  ]
+}

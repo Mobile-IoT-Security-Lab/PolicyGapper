@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "To provide a better service, we use service provider (Google Analytics tools) to measure traffic, fix bugs, and produce insights that do not identify you, such as usage trends.\nWe may automatically collect the following types of information as you use or access our service:\nUsage Information: such as which features of our app you access, the frequency of access,\nupdates made on our app, and what you click on while on our App.\nMobile Device Information: such as application version number, browser, and IP addresses.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "To provide a better service, we use service provider (Google Analytics tools) to measure traffic, fix bugs, and produce insights that do not identify you, such as usage trends.\nWe may automatically collect the following types of information as you use or access our service:\nUsage Information: such as which features of our app you access, the frequency of access,\nupdates made on our app, and what you click on while on our App.\nMobile Device Information: such as application version number, browser, and IP addresses.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "To provide a better service, we use service provider (Google Analytics tools) to measure traffic, fix bugs, and produce insights that do not identify you, such as usage trends.\nWe may automatically collect the following types of information as you use or access our service:\nUsage Information: such as which features of our app you access, the frequency of access,\nupdates made on our app, and what you click on while on our App.\nMobile Device Information: such as application version number, browser, and IP addresses.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "To provide a better service, we use service provider (Google Analytics tools) to measure traffic, fix bugs, and produce insights that do not identify you, such as usage trends.\nWe may automatically collect the following types of information as you use or access our service:\nUsage Information: such as which features of our app you access, the frequency of access,\nupdates made on our app, and what you click on while on our App.\nMobile Device Information: such as application version number, browser, and IP addresses.",
+      "lang": "English"
+    }
+  ]
+}

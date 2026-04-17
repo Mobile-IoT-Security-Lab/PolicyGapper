@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "You may also provide or generate information when you communicate with other users in the Game (e.g., chat log data, chat content).",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "- when you register for the Game (including your nominated nickname, or custom accounts and information we import from your connected social media account (WeChat, Facebook, Google) in order to set up your profile, including your name as it appears on your social media profile and your profile picture);",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "If you enable chat services (audio or text) then we will process such data in order to deliver your messages to other users.",
+"lang": "en"
+}
+]
+}

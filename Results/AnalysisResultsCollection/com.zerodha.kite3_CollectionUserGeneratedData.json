@@ -1,0 +1,9 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Files and docs",
+"policy_reference": "Zerodha, may or may not, request for sensitive information from You at the time of account opening, which would include but not be limited to, (i) setting a password; (ii) financial information such as Bank account or credit card or debit card or other payment instrument details; (iii) information such as name, contact number, gender, date of birth, residence and employment addresses, father's/mother's and spouses names, bank account details, scans/copies of document proofs of address & identity such as Photograph, PAN, passport, drivers license, Aadhaar (voluntarily) etc. (iv) uploading signature proof/photo etc. All such information would be for the purpose of: identity verification and background checking for account opening as per KYC & AML Rules, personalising services offered to you, keeping you updated of our products and services relevant to you, information pertaining to our services you've subscribed to, and for any legal and regulatory / audit purposes.",
+"lang": "en"
+}
+]
+}

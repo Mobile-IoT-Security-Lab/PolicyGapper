@@ -1,0 +1,60 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "As described in our terms of service, our Software is ad-supported. Ads help us keep the lights on and continue to provide free products for our users. In order to provide our news services and serve targeted ads, we collect data such as advertising IDs from your device and your general location, as well as data you submit to us if you choose to create or update a user profile (such as your name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by our monetization partners. We process this data based on your consent. You can always adjust your personalized ad choices or withdraw your consent in the application's \"Settings\" menu.",
+      "justification": "The policy states that user-provided data, including 'name', is used to 'serve targeted ads' which are 'provided by our monetization partners'. This constitutes sharing data with third parties for advertising purposes.",
+      "how_to_fix": "Declare in the Data safety section that 'Name' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "As described in our terms of service, our Software is ad-supported. Ads help us keep the lights on and continue to provide free products for our users. In order to provide our news services and serve targeted ads, we collect data such as advertising IDs from your device and your general location, as well as data you submit to us if you choose to create or update a user profile (such as your name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by our monetization partners. We process this data based on your consent. You can always adjust your personalized ad choices or withdraw your consent in the application's \"Settings\" menu.",
+      "justification": "The policy states that user-provided data, such as 'occupation, etc.', is used to 'serve targeted ads' which are 'provided by our monetization partners'. This constitutes sharing data with third parties for advertising purposes.",
+      "how_to_fix": "Declare in the Data safety section that 'Other personal info' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "As described in our terms of service, our Software is ad-supported. Ads help us keep the lights on and continue to provide free products for our users. In order to provide our news services and serve targeted ads, we collect data such as advertising IDs from your device and your general location, as well as data you submit to us if you choose to create or update a user profile (such as your name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by our monetization partners. We process this data based on your consent. You can always adjust your personalized ad choices or withdraw your consent in the application's \"Settings\" menu.",
+      "justification": "The policy states that 'general location' is collected to 'serve targeted ads' which are 'provided by our monetization partners'. This constitutes sharing data with third parties for advertising purposes.",
+      "how_to_fix": "Declare in the Data safety section that 'Approximate location' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Personalized Ads\nAs described in our terms of service, our Software is ad-supported. Ads help us keep the lights on\nand continue to provide free products for our users. In order to provide our news services and\nserve targeted ads, we collect data such as advertising IDs from your device and your general\nlocation, as well as data you submit to us if you choose to create or update a user profile (such as\nyour name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by\nour monetization partners. We process this data based on your consent. You can always adjust\nyour personalized ad choices or withdraw your consent in the application's \"Settings\" menu.",
+      "justification": "The policy states that the 'phone contact list' is submitted by the user and used to 'serve targeted ads' which are 'provided by our monetization partners'. This constitutes sharing data with third parties for advertising purposes.",
+      "how_to_fix": "Declare in the Data safety section that 'Contacts' are 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Our applications and services include third-party technology or code, some of which may use your data in different ways. When such third-party technologies use previously collected data, they typically act as data processors for us. When they collect data on their own, they typically act as independent data controllers.\nOpera News Apps and Services use all or some of the following:\n• Appsflyer\n• Google LLC\n• Google AdMob\nΟ Firebase\n• FCM Messaging\nΟ\nFirebase Crashstats\n•\nHuawei\n• Hi Analytics (Huawei-only Huawei preload)",
+      "reason_of_removal": "Service Provider exemption",
+      "justification": "The policy states that third-party technologies like Appsflyer and Google/Huawei analytics 'typically act as data processors for us'. This indicates a service provider relationship where data is processed on the developer's behalf, which is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action is required for this declaration as it falls under a valid exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Our applications and services include third-party technology or code, some of which may use your data in different ways. When such third-party technologies use previously collected data, they typically act as data processors for us. When they collect data on their own, they typically act as independent data controllers.\nOpera News Apps and Services use all or some of the following:\n• Appsflyer\n• Google LLC\n• Google AdMob\nΟ Firebase\n• FCM Messaging\nΟ\nFirebase Crashstats\n•\nHuawei\n• Hi Analytics (Huawei-only Huawei preload)",
+      "reason_of_removal": "Service Provider exemption",
+      "justification": "The policy states that third-party technologies used for analytics 'typically act as data processors for us'. This indicates a service provider relationship where data is processed on the developer's behalf, which is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action is required for this declaration as it falls under a valid exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Our applications and services include third-party technology or code, some of which may use your data in different ways. When such third-party technologies use previously collected data, they typically act as data processors for us. When they collect data on their own, they typically act as independent data controllers.\nOpera News Apps and Services use all or some of the following:\n• Appsflyer\n• Google LLC\n• Google AdMob\nΟ Firebase\n• FCM Messaging\nΟ\nFirebase Crashstats\n•\nHuawei\n• Hi Analytics (Huawei-only Huawei preload)",
+      "reason_of_removal": "Service Provider exemption",
+      "justification": "The policy explicitly lists 'Firebase Crashstats' and states that such third-party technologies 'typically act as data processors for us'. This qualifies as a service provider processing data on the developer's behalf, which is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action is required for this declaration as it falls under a valid exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "Personal Information Collected\nIn order to provide the App, We may require You to provide Us with\nPersonal Information. Personal Information includes the following\ncategories of information:\n(i) Contact data (such as Your email address, phone number and any\ndetails of Your contacts)\n(ii) Device data; and\n(iii) Demographic data (such as Your time zone, Your postal address\nand location details).",
+"lang": "en"
+},
+{
+"data_type": "Emails",
+"policy_reference": "If You communicate with Us, by, for example, email or letter, any\ninformation provided in such communication may be collected and\nstored by DevBytes.",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "Personal Information Collected\nIn order to provide the App, We may require You to provide Us with\nPersonal Information. Personal Information includes the following\ncategories of information:\n(i) Contact data (such as Your email address, phone number and any\ndetails of Your contacts)\n(ii) Device data; and\n(iii) Demographic data (such as Your time zone, Your postal address\nand location details).",
+"lang": "en"
+}
+]
+}

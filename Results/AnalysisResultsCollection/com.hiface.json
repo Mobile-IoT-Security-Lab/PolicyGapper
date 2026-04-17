@@ -1,0 +1,89 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Hiface may also collect and gather non-personally identifiable information, such as certain profile information including country of residence and preferences. In addition, Hiface may collect and store information about your and others' usage of and interaction with the Service and our websites, including matches, numbers of matches made by members, match durations, text messages, usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views, network type and traffic to and from our websites.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Hiface may also collect and gather user contents (e.g., photos, screenshots, comments, and other materials) that you create on the Service. Your photo can be taken by other users on Hiface, and if they use the capturing function provided by Hiface, those photos can be stored and used for Hiface and third-party services (e.g., Facebook, etc.). You can change the sharing option of third parties on the Hiface settings. If you do not agree with all the terms of this Privacy Policy, please do not use the Service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Hiface may also collect and gather non-personally identifiable information, such as certain profile information including country of residence and preferences. In addition, Hiface may collect and store information about your and others' usage of and interaction with the Service and our websites, including matches, numbers of matches made by members, match durations, text messages, usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views, network type and traffic to and from our websites.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general, these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device, the device identifier, the time the error occurred, the feature being used, and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and fixing the error.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general, these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device, the device identifier, the time the error occurred, the feature being used, and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and fixing the error.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Hiface may also collect and gather non-personally identifiable information, such as certain profile information including country of residence and preferences. In addition, Hiface may collect and store information about your and others' usage of and interaction with the Service and our websites, including matches, numbers of matches made by members, match durations, text messages, usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views, network type and traffic to and from our websites.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "For registration through Hiface, you are required to provide your country location, gender, name, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional. When you log in using your mobile number, it is shared with Firebase UI Auth for OTP purposes, to verify the owner of the mobile number that gets logged in. When you log in using your Google account, we may collect personally identifiable information from it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "To complete a commerce transaction on the Hiface item shop, you will be requested to provide your payment information, including your credit card number, card expiration date, CVV code, and billing address. In that event, we will transmit your information securely and directly to a third-party vendor or merchant who will collect such information in order to process and fulfill your purchase. Hiface does not process or store your payment information. However, we may store other information about your purchases made on the Service, which may include the merchant's name, the date, time and amount of the transaction, and other behavioral information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "For registration through Hiface, you are required to provide your country location, gender, name, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional. When you log in using your mobile number, it is shared with Firebase UI Auth for OTP purposes, to verify the owner of the mobile number that gets logged in. When you log in using your Google account, we may collect personally identifiable information from it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "For registration through Hiface, you are required to provide your country location, gender, name, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional. When you log in using your mobile number, it is shared with Firebase UI Auth for OTP purposes, to verify the owner of the mobile number that gets logged in. When you log in using your Google account, we may collect personally identifiable information from it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "To complete a commerce transaction on the Hiface item shop, you will be requested to provide your payment information, including your credit card number, card expiration date, CVV code, and billing address. In that event, we will transmit your information securely and directly to a third-party vendor or merchant who will collect such information in order to process and fulfill your purchase. Hiface does not process or store your payment information. However, we may store other information about your purchases made on the Service, which may include the merchant's name, the date, time and amount of the transaction, and other behavioral information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "To complete a commerce transaction on the Hiface item shop, you will be requested to provide your payment information, including your credit card number, card expiration date, CVV code, and billing address. In that event, we will transmit your information securely and directly to a third-party vendor or merchant who will collect such information in order to process and fulfill your purchase. Hiface does not process or store your payment information. However, we may store other information about your purchases made on the Service, which may include the merchant's name, the date, time and amount of the transaction, and other behavioral information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "For registration through Hiface, you are required to provide your country location, gender, name, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional. When you log in using your mobile number, it is shared with Firebase UI Auth for OTP purposes, to verify the owner of the mobile number that gets logged in. When you log in using your Google account, we may collect personally identifiable information from it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Hiface allows you to find your styles and in the Hiface application with other users, and if you choose to do so, your gender, photos, screenshots, and other communications will be stored on our servers. In addition, if you choose to share these items with other Hiface users, Hiface is not responsible for any use or misuse of information you share. In addition, in case your conversation partner reports your abusive behavior or language to us, then the conversation information such as voices, screenshots, or contents of conversation which has been stored only in your partner's device may be transferred to our servers. Such transferred information will be processed by us to ascertain the genuineness of the report and determine your penalty levels, if needed. The processed information will be removed after achieving the purpose, and we do not use such information for any purpose other than specified in this paragraph.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Hiface may also collect and gather user contents (e.g., photos, screenshots, comments, and other materials) that you create on the Service. Your photo can be taken by other users on Hiface, and if they use the capturing function provided by Hiface, those photos can be stored and used for Hiface and third-party services (e.g., Facebook, etc.). You can change the sharing option of third parties on the Hiface settings. If you do not agree with all the terms of this Privacy Policy, please do not use the Service.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Hiface allows you to find your styles and in the Hiface application with other users, and if you choose to do so, your gender, photos, screenshots, and other communications will be stored on our servers. In addition, if you choose to share these items with other Hiface users, Hiface is not responsible for any use or misuse of information you share. In addition, in case your conversation partner reports your abusive behavior or language to us, then the conversation information such as voices, screenshots, or contents of conversation which has been stored only in your partner's device may be transferred to our servers. Such transferred information will be processed by us to ascertain the genuineness of the report and determine your penalty levels, if needed. The processed information will be removed after achieving the purpose, and we do not use such information for any purpose other than specified in this paragraph.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "The information you enter into your user profile (your “Profile”) may be shared with your Hiface contacts. You control your Profile, and you can access and modify your Profile from the Hiface application at any time. In addition, if you register with Hiface using your Facebook account (e.g., Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists, and birthdays). Your Profile is available to other users of the Service who are connected to you on Hiface.",
+      "lang": "en"
+    }
+  ]
+}

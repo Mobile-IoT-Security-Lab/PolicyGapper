@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We collect personal information in any messages you send to us, as well as our social media channels (such as user feedback, messages and search queries). We may also collect personal information in content you submit or upload to the Service (such as text prompts, images, photos, videos and other media and the metadata about your content) as well as the resulting material you generate through the Service, such as images or videos (together, “Content“). We use this information to operate, maintain,",
+      "justification": "The privacy policy states that the app collects 'search queries'. This data is sent off-device ('send to us') and does not meet any exemption criteria.",
+      "how_to_fix": "Declare 'In-app search history' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "When you visit the Service, we, and our third-party partners, will send cookies to your computer that uniquely identifies your browser and lets us do things like help you log in faster, enhance your navigation through the site, remember your preferences and generally improve the user experience. Cookies also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service) and allow us or our business partners to track your usage of the Service over time. They also allow us to measure traffic and usage trends for the Service, deliver personalised advertisements that may be of interest to you and measure their effectiveness, and find potential new users of the Service.",
+      "justification": "The privacy policy states that information about 'other actions you take on the Service' is collected. This data is sent off-device ('convey information to us') and does not meet any exemption criteria.",
+      "how_to_fix": "Declare 'Other actions' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.",
+      "justification": "The privacy policy states that 'server logs' include 'web request... referring / exit pages and URLs... pages viewed'. This data is sent off-device ('our servers automatically record') and does not meet any exemption criteria.",
+      "how_to_fix": "Declare 'Web browsing history' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Certain parts of the Service may ask you to provide personal information voluntarily. For\nexample, when you register for an account, we ask for your email address and interests.\nIf you apply to join the Leonardo Creator Program, we may also collect additional\ninformation relevant to your application, such as your location, links to your portfolio and\nsocial media profiles, and any other details you choose to share with us. Where payment\nis required to access the Service (i.e., if you pay for a subscription), our third-party\npayment processor may collect and store your payment information, such as payment\ncard information.",
+      "justification": "The privacy policy states that a 'third-party payment processor may collect and store your payment information'. This data is sent off-device and does not meet any exemption criteria.",
+      "how_to_fix": "Declare 'User payment info' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We collect information in order to understand where our users are located for a number\nof reasons. We may collect your precise or approximate location:\n• from you, when you provide, correct or confirm your location (e.g., when you\npurchase products from us);\n• by inferring your location from your IP address; and\n• from our third party partners.",
+      "justification": "The privacy policy explicitly states 'We may collect your precise... location'. This data is sent off-device ('We collect') and does not meet any exemption criteria.",
+      "how_to_fix": "Declare 'Precise location' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We collect personal information in any messages you send to us, as well as our social media channels (such as user feedback, messages and search queries). We may also collect personal information in content you submit or upload to the Service (such as text prompts, images, photos, videos and other media and the metadata about your content) as well as the resulting material you generate through the Service, such as images or videos (together, “Content“). We use this information to operate, maintain,",
+      "justification": "The privacy policy states 'We collect personal information in any messages you send to us'. This data is sent off-device and does not meet any exemption criteria.",
+      "how_to_fix": "Declare 'Other in-app messages' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We collect personal information in any messages you send to us, as well as our social media channels (such as user feedback, messages and search queries). We may also collect personal information in content you submit or upload to the Service (such as text prompts, images, photos, videos and other media and the metadata about your content) as well as the resulting material you generate through the Service, such as images or videos (together, “Content“). We use this information to operate, maintain,",
+      "justification": "The privacy policy states that 'photos' are collected when you 'submit or upload to the Service'. This data is sent off-device and does not meet any exemption criteria.",
+      "how_to_fix": "Declare 'Photos' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We collect personal information in any messages you send to us, as well as our social media channels (such as user feedback, messages and search queries). We may also collect personal information in content you submit or upload to the Service (such as text prompts, images, photos, videos and other media and the metadata about your content) as well as the resulting material you generate through the Service, such as images or videos (together, “Content“). We use this information to operate, maintain,",
+      "justification": "The privacy policy states that 'videos' are collected when you 'submit or upload to the Service'. This data is sent off-device and does not meet any exemption criteria.",
+      "how_to_fix": "Declare 'Videos' as collected in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

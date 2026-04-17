@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We collect your information that you voluntarily provide to us when you use the app, express an interest in obtaining information about us or our apps, when you participate in activities on the app, or send us feedback. The information that we collect depends on the context of your interactions with us and the app. User information we collect may include: email address & user name.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We collect your information that you voluntarily provide to us when you use the app, express an interest in obtaining information about us or our apps, when you participate in activities on the app, or send us feedback. The information that we collect depends on the context of your interactions with us and the app. User information we collect may include: email address & user name.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "During the usage of the app, the data and information collected (through third-party products) on your phone in case of an error in the app called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when using the app, the time and date of your use of the Service, and other statistics.",
+      "lang": "English"
+    }
+  ]
+}

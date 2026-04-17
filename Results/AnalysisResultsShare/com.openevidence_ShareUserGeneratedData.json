@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "• Service Providers. We work with third party service providers to help us provide the Services and to otherwise assist us in the operation of the OpenEvidence Platform, including in the areas of email management and deployment, analytics, marketing, advertising, market research, sweepstakes and contest administration, identity and professional credential validation, content distribution, customer service, payment fulfillment, event logistics, website maintenance and data storage and security. We may provide these service providers with personal information about users of our Services so that they can fulfill their responsibilities to us, however, we do require that they agree to limit their use of this personal information to the fulfillment of these responsibilities. To provide you with certain personalization and advertising services described herein, we may share certain information that we may collect from you, such as your email address (in hashed form), IP address or information about your browser or operating system with our Licensed Partner and their affiliates, which may in turn link demographic or interest-based information to your browser.",
+      "lang": "English"
+    }
+  ]
+}

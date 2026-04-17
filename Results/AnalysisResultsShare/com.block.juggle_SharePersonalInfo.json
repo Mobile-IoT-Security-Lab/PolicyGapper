@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Advertising partners. We may share your data with advertising partners to recognize you or your device and to serve ads to you or your device and measure the effectiveness of those ads. The data we shared may include device identifiers (GAID or IDFA), IP address, and other information regarding the delivery of advertisements and your interaction with them such as data related to the device, display screen, App, version, user agent, network, SIM card, time zone, and cell location. These providers may use APIs, SDKs, cookies or similar tracking technologies to collect information about your device and your Service use. We use a CMP to manage the consent and permission for our advertising based activity, and require our advertising partners to process personal data according to the permission situation we have transmitted. These partners may process your data under their own privacy policies. For further information, please refer to 'Appendix-Advertising Partners List'. If you'd like to withdraw consent, or opt-out from advertisements related matters, please see the Section 6 'Your Legal Rights' below.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Advertising partners. We may share your data with advertising partners to recognize you or your device and to serve ads to you or your device and measure the effectiveness of those ads. The data we shared may include device identifiers (GAID or IDFA), IP address, and other information regarding the delivery of advertisements and your interaction with them such as data related to the device, display screen, App, version, user agent, network, SIM card, time zone, and cell location. These providers may use APIs, SDKs, cookies or similar tracking technologies to collect information about your device and your Service use. We use a CMP to manage the consent and permission for our advertising based activity, and require our advertising partners to process personal data according to the permission situation we have transmitted. These partners may process your data under their own privacy policies. For further information, please refer to 'Appendix-Advertising Partners List'. If you'd like to withdraw consent, or opt-out from advertisements related matters, please see the Section 6 'Your Legal Rights' below.",
+      "lang": "English"
+    }
+  ]
+}

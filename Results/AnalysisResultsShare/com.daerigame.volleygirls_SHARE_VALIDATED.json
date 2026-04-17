@@ -1,0 +1,23 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We do not provide personal information to third parties beyond the stated purposes without consent or a legal basis. Exceptions include:\n1. Where necessary for billing and settlement\n2. For statistics, academic research, or market research in de-identified/aggregated form\n3. Upon lawful requests from investigative authorities\n4. Where required by special laws (e.g., Real Name Financial Transactions Act, Telecommunications Business Act)\nWhen partnering or outsourcing, we will disclose the recipient, purpose, and items provided in advance and obtain consent where required.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is shared when 'necessary for billing and settlement.' This qualifies as sharing with a service provider (e.g., a payment processor) to perform a service on the developer's behalf, which is exempt from disclosure as 'sharing' under Google Play's policy.",
+      "how_to_fix": "No action required. This sharing is exempt from disclosure under the service provider clause of the Google Play User Data policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We do not provide personal information to third parties beyond the stated purposes without consent or a legal basis. Exceptions include:\n1. Where necessary for billing and settlement\n2. For statistics, academic research, or market research in de-identified/aggregated form\n3. Upon lawful requests from investigative authorities\n4. Where required by special laws (e.g., Real Name Financial Transactions Act, Telecommunications Business Act)\nWhen partnering or outsourcing, we will disclose the recipient, purpose, and items provided in advance and obtain consent where required.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is shared when 'necessary for billing and settlement.' This qualifies as sharing with a service provider (e.g., a payment processor) to perform a service on the developer's behalf, which is exempt from disclosure as 'sharing' under Google Play's policy.",
+      "how_to_fix": "No action required. This sharing is exempt from disclosure under the service provider clause of the Google Play User Data policy.",
+      "lang": "English"
+    }
+  ]
+}
+```

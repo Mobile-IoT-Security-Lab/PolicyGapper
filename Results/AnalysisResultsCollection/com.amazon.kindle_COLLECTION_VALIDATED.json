@@ -1,0 +1,58 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other info",
+      "policy_reference": "As a result of those actions, you might supply us with such information as:\n• identifying information such as your name, address, and phone numbers;\n•\n•\n•\npayment information;\nyour age;\nyour location information;\nyour IP address;\n• people, addresses and phone numbers listed in your Addresses;\nemail addresses of your friends and other people;\ncontent of reviews and emails to us;\npersonal description and photograph in Your Profile;\n• voice recordings when you speak to Alexa;\nimages and videos collected or stored in connection with Amazon Services;\ninformation and documents regarding identity, including Social Security and driver's\nlicense numbers;\n• corporate and financial information;\n•\ncredit history information; and\n•\ndevice log files and configurations, including Wi-Fi credentials, if you choose to\nautomatically synchronize them with your other Amazon devices.",
+      "justification": "The privacy policy states that other info, such as 'device log files and configurations, including Wi-Fi credentials', is collected when you choose to synchronize them.",
+      "how_to_fix": "Declare 'Other info' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "Examples of information we receive from other sources include:\n• updated delivery and address information from our carriers or other third parties, which\nwe use to correct our records and deliver your next purchase or communication more\neasily;\n•\n•\n•\n•\naccount information, purchase or redemption information, and page-view information\nfrom some merchants with which we operate co-branded businesses or for which we\nprovide technical, fulfillment, advertising, or other services;\ninformation about your interactions with products and services offered by our\nsubsidiaries;\nsearch results and links, including paid listings (such as Sponsored Links);\ninformation about internet-connected devices and services linked with Alexa; and\ncredit history information from credit bureaus, which we use to help prevent and detect\nfraud and to offer certain credit or financial services to some customers.",
+      "justification": "The privacy policy states that 'credit history information from credit bureaus' is collected and used.",
+      "how_to_fix": "Declare 'Credit score' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "Comply with legal obligations. In certain cases, we collect and use your personal\ninformation to comply with laws. For instance, we collect from sellers information\nregarding place of establishment and bank account information for identity verification\nand other purposes.",
+      "justification": "The privacy policy states that financial info, such as 'bank account information', is collected for identity verification.",
+      "how_to_fix": "Declare 'Other financial info' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "As a result of those actions, you might supply us with such information as:\n• identifying information such as your name, address, and phone numbers;\n•\n•\n•\npayment information;\nyour age;\nyour location information;\nyour IP address;\n• people, addresses and phone numbers listed in your Addresses;\nemail addresses of your friends and other people;\ncontent of reviews and emails to us;\npersonal description and photograph in Your Profile;\n• voice recordings when you speak to Alexa;\nimages and videos collected or stored in connection with Amazon Services;\ninformation and documents regarding identity, including Social Security and driver's\nlicense numbers;\n• corporate and financial information;\n•\ncredit history information; and\n•\ndevice log files and configurations, including Wi-Fi credentials, if you choose to\nautomatically synchronize them with your other Amazon devices.",
+      "justification": "The privacy policy states that you might supply 'email addresses of your friends and other people' and 'content of reviews and emails to us'.",
+      "how_to_fix": "Declare 'Emails' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Provide voice, image and camera services. When you use our voice, image and\ncamera services, we use your voice input, images, videos, and other personal\ninformation to respond to your requests, provide the requested service to you, and\nimprove our services. You can read more about Alexa, Echo Devices, and Your Privacy.",
+      "justification": "The privacy policy states that when you use voice services, 'we use your voice input... to respond to your requests, provide the requested service to you, and improve our services', which implies off-device processing.",
+      "how_to_fix": "Declare 'Voice or sound recordings' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "You provide information to us when you:\n•\n•\nsearch or shop for products or services in our stores;\nadd or remove an item from your cart, or place an order through or use Amazon\nServices;\ndownload, stream, view, or use content on a device or through a service or application on\na device;\n• provide information in Your Account (and you might have more than one if you have used\nmore than one email address or mobile number when shopping with us) or Your Profile;\ntalk to or otherwise interact with our Alexa Voice service;\n• upload your contacts;\n• configure your settings on, provide data access permissions for, or interact with an\nAmazon device or service;\nprovide information in your Seller Account, Kindle Direct Publishing account, Developer\naccount, or any other account we make available that allows you to develop or offer\nsoftware, goods, or services to Amazon customers;\noffer your products or services on or through Amazon Services;\ncommunicate with us by phone, email, or otherwise;\n• complete a questionnaire, a support ticket, or a contest entry form;\n• upload or stream images, videos or other files to Prime Photos, Amazon Drive, or other\nAmazon Services;\nuse our services such as Prime Video;\n• compile Playlists, Watchlists, Wish Lists, or other gift registries;\n• participate in Discussion Boards or other community features;\n• provide and rate Reviews;\n• specify a Special Occasion Reminder; or\n• employ Product Availability Alerts, such as Available to Order Notifications.",
+      "justification": "The privacy policy explicitly states that users provide information when they 'upload your contacts'. Uploading implies data is sent off-device.",
+      "how_to_fix": "Declare 'Contacts' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "purchase and content use history, which we sometimes aggregate with similar information from other customers to create features like Top Sellers; the full Uniform Resource Locator (URL) clickstream to, through, and from our websites, including date and time; products and content you viewed or searched for; page response times, download errors, length of visits to certain pages, and page interaction information (such as scrolling, clicks, and mouse-overs); phone numbers used to call our customer service number; and images or videos when you shop in our stores, or stores using Amazon Services.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy reference explicitly states this data is collected from websites ('clickstream to, through, and from our websites'), not necessarily the mobile app, which is an exemption.",
+      "how_to_fix": "No action needed. This data type is exempt from disclosure as it is collected from websites, not the app.",
+      "lang": "English"
+    }
+  ]
+}
+```

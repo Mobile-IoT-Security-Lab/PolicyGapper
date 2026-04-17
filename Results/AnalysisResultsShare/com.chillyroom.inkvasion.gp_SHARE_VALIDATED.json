@@ -1,0 +1,15 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may use third-party Service Providers to monitor and analyze the use of our Service.\nFirebase\nFirebase is analytics service provided by Google Inc.\nYou may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy?hl=en",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that Firebase is used as a 'Service Provider' to 'monitor and analyze the use of our Service'. This falls under the service provider exemption, as the data is processed on behalf of the developer.",
+      "how_to_fix": "This transfer does not need to be declared as 'sharing' in the Data Safety section because it qualifies for the service provider exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "If you register an account to use Vone then we will need some information\nfrom you to set this up (e.g., to set up a profile and validate your phone\nnumber). To set up your account, we will need a nickname, your mobile\nnumber, and a password. You can further refine and populate your profile\nwith additional information. If you use the services available within Vone\n(such as posting photos to your Moments and Time Capsule or following\nOfficial Accounts), we will process information to allow the services to\noperate.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "1. \"Location data\" Is information derived from your GPS, Wi-Fi, compass,\naccelerometer, IP address, or public post that contains location\ninformation.Location information will be disclosed to us or other users, or\nboth, when:\n• When you use location-based features (such as \"People Nearby\", \"Live\nNearby\", \"Nearby News\", \"Add Location to Published Content\", etc.) and\nshare your location with other Vone users. If you refuse to provide this\ninformation, you will not be able to use the above features normally;\n• When you visit Vone, we will obtain your location information through\nyour IP address, device or Internet service to prevent multiple or\nfraudulent login to your account.",
+      "lang": "English"
+    }
+  ]
+}

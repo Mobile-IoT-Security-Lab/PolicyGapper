@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "3. API Calls: API Calls consists of data generated when a User performs an activity on the Website/Application such as navigating to different pages, clicking on buttons, reading content etc. This data is collected and used by Company and may be shared with authorized third parties as described in this Privacy Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "4. User Published Material: Company enables Users to interact with each other in its community building endeavours between authors and readers. Therefore, Users' names, comments, likes etc are public and can be viewed by other Users. Users must ensure they do not put up any Inputs on the Website/Application which they do not intend to make public.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "4. User Published Material: Company enables Users to interact with each other in its community building endeavours between authors and readers. Therefore, Users' names, comments, likes etc are public and can be viewed by other Users. Users must ensure they do not put up any Inputs on the Website/Application which they do not intend to make public.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "1. Business Partners: Authorized third party business partners, who handle the User Information in accordance with their own privacy policies as mentioned in the table, engaged for:\ni. Analysing the User Information, for improving the Website/Application and the Services such as below:\nServices offered Entity Name Links to privacy policy\nAmplitude https://amplitude.com/privacy. (Location: USA),\nClevertap https://clevertap.com/privacy-policy/\nFacebook Analytics https://www.facebook.com/policy.php\nAnalytics Services Google Analytics https://www.google.com/policies/privacy/partners/ (Location USA)\nGoogle Firebase https://firebase.google.com/support/privacy. https://policies.google.com/privacy#infosecurity. Notifications (Location: US-central) https://support.google.com/analytics/answer/6004245\nTo deliver content to Users Limelight Cloudflare https://media.limelight.com/documents/Limelight+Networks+Privacy+Policy+06-2018.pdf https://www.cloudflare.com/privacypolicy/\nTo process payment Razorpay https://razorpay.com/privacy/",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "4. User Published Material: Company enables Users to interact with each other in its community building endeavours between authors and readers. Therefore, Users' names, comments, likes etc are public and can be viewed by other Users. Users must ensure they do not put up any Inputs on the Website/Application which they do not intend to make public.",
+      "lang": "English"
+    }
+  ]
+}

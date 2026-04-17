@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "Email address and/or mobile telephone with SMS facility is essential for using eCatering service.",
+"lang": "en"
+},
+{
+"data_type": "SMS or MMS",
+"policy_reference": "Email address and/or mobile telephone with SMS facility is essential for using eCatering service.",
+"lang": "en"
+}
+]
+}

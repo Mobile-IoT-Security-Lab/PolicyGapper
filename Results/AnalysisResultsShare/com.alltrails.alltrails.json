@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Other Users. Your profile, User Generated Content and other Personal Data may be visible to other users of the Service (which may include all users of the Service or a limited number of users, depending on your privacy settings). For example, other users of the Service may have access to your Personal Data if you chose to make your profile available to them through the Service, and they may also have access to content that you submit to the Service such as when you provide reviews, community posts, or share other content. This Personal Data can be seen, collected and used by others, including being cached, copied, screen captured or stored elsewhere by others (e.g., search engines), and we are not responsible for any such use of Personal Data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Global Privacy Controls and Do Not Track Signals: We and our third-party vendors and service providers, may use cookies, pixels, or other tracking technologies to collect Personal Data about your browsing activities over time and across different websites following your use of the Site and use that Personal Data to send targeted advertisements. Our Site honors Global Privacy Control (\"GPC\") opt-out preference signals in a frictionless manner. If our website detects that your browser is transmitting an opt-out preference signal, such as the GPC signal, we will opt that browser out of cookies on our website that result in a “sale” or “sharing\" of your personal information. To download and use a browser supporting the GPC browser signal, click here: https://globalprivacycontrol.org/orgs. If you choose to use the GPC signal, you will need to turn it on for each supported browser or browser extension you use to visit our websites. Our Site currently does not respond to “Do Not Track” (“DNT”) signals. To find out more about DNT signals, please visit http://www.allaboutdnt.com.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Other Users. Your profile, User Generated Content and other Personal Data may be visible to other users of the Service (which may include all users of the Service or a limited number of users, depending on your privacy settings). For example, other users of the Service may have access to your Personal Data if you chose to make your profile available to them through the Service, and they may also have access to content that you submit to the Service such as when you provide reviews, community posts, or share other content. This Personal Data can be seen, collected and used by others, including being cached, copied, screen captured or stored elsewhere by others (e.g., search engines), and we are not responsible for any such use of Personal Data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Other Users. Your profile, User Generated Content and other Personal Data may be visible to other users of the Service (which may include all users of the Service or a limited number of users, depending on your privacy settings). For example, other users of the Service may have access to your Personal Data if you chose to make your profile available to them through the Service, and they may also have access to content that you submit to the Service such as when you provide reviews, community posts, or share other content. This Personal Data can be seen, collected and used by others, including being cached, copied, screen captured or stored elsewhere by others (e.g., search engines), and we are not responsible for any such use of Personal Data.",
+      "lang": "English"
+    }
+  ]
+}

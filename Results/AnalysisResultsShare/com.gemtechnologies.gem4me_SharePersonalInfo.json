@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "With your explicit consent, Marketspace Solutions OU may share your personal data with GN Telecom UK Limited (registered in England and Wales) for their independent marketing activities.\nLegal Basis: Article 6(1)(a) GDPR - Your explicit consent for data sharing\nData Shared: - Contact information (email address, phone number) - Basic profile data (username, user preferences) - Platform usage analytics (anonymized where possible) - Communication preferences and interaction history",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "With your explicit consent, Marketspace Solutions OU may share your personal data with GN Telecom UK Limited (registered in England and Wales) for their independent marketing activities.\nLegal Basis: Article 6(1)(a) GDPR - Your explicit consent for data sharing\nData Shared: - Contact information (email address, phone number) - Basic profile data (username, user preferences) - Platform usage analytics (anonymized where possible) - Communication preferences and interaction history",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "With your explicit consent, Marketspace Solutions OU may share your personal data with GN Telecom UK Limited (registered in England and Wales) for their independent marketing activities.\nLegal Basis: Article 6(1)(a) GDPR - Your explicit consent for data sharing\nData Shared: - Contact information (email address, phone number) - Basic profile data (username, user preferences) - Platform usage analytics (anonymized where possible) - Communication preferences and interaction history",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Your personal data may be shared with other users of our Services with whom you choose to communicate or exchange information. Such users may be located both within and outside the European Economic Area (EEA). By using GemSpace and engaging in communication with other users, you instruct us to transfer certain personal data on your behalf. While we implement appropriate technical and organizational measures to protect your data during transmission (including standard encryption methods), please be aware that once you share information with other users, you may lose control over its further distribution. GemSpace is not responsible for any additional sharing or processing of that data by third parties without your knowledge or consent.",
+      "lang": "English"
+    }
+  ]
+}

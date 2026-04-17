@@ -1,0 +1,23 @@
+```json
+{
+    "omitted_declarations": [
+        {
+            "data_type": "Device or other IDs",
+            "policy_reference": "Our app may use third-party advertising services, such as Google AdMob, to show you ads. These services may collect information about your device and your use of our app, such as your device ID, your IP address, and your advertising ID. This information is used to show you personalized ads that are relevant to your interests.",
+            "justification": "The policy states that third-party advertising services like Google AdMob collect device IDs and advertising IDs to show personalized ads. This constitutes 'sharing' for 'Advertising or marketing' purposes under Google Play's Data Safety policy and must be declared.",
+            "how_to_fix": "In your Google Play Console Data Safety form, declare that 'Device or other IDs' are 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+            "lang": "English"
+        }
+    ],
+    "excluded_declarations": [
+        {
+            "data_type": "Approximate location",
+            "policy_reference": "We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our customers use the App --you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.",
+            "reason_of_removal": "Exempt as a Service Provider.",
+            "justification": "The policy states Google Analytics is used 'to help us understand how our customers use the App'. This indicates Google is acting as a service provider, processing data on the developer's behalf for first-party analytics. This usage is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+            "how_to_fix": "No action is required for this specific item in the Data Safety form, as service provider usage for first-party analytics is not considered 'sharing'. However, you must still declare the 'collection' of 'Approximate location' for 'Analytics' purposes.",
+            "lang": "English"
+        }
+    ]
+}
+```

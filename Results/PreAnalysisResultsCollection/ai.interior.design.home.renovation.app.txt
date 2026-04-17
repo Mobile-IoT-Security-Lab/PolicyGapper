@@ -1,0 +1,416 @@
+This Policy explains our practices regarding the collection, use, disclosure,
+and protection of information that is collected through our Service, as well as
+your choices regarding the collection and use of information.
+---
+Please read the following privacy policy, for information regarding the ways
+your personal information may be processed, carefully. When you use the app
+you acknowledge that you have read, understood, and agree to be bound by
+these terms.
+--- [PAGE BREAK] ---
+You own and control the personal data we collect about you. You can choose
+not to provide certain information or disable and prevent us from collecting,
+storing, and processing it. Please be aware you will not be able to take
+advantage of some of the Services/Apps' features in this case.
+---
+I. What kind of information do we collect?
+We may access or collect the following information in order to provide you
+with a better user experience and better services and to improve our products:
+Categories of information may be collected from the following categories of
+sources:
+Directly from you or your agent, such as through your submissions to the
+Services.
+Directly or indirectly from activities through the Services, such as through
+your interactions with the Services.
+From third parties with whom we partner to provide services.
+We may access your personal information when you voluntarily choose to use
+our services, applications or provide us with your personal information.
+• Content Information, i.e. photos, pictures and other data that you transfer
+using the App.
+• Product interaction information and any user-generated content.
+---
+Face Data Policy
+• The face data we collect
+We analyze your photo and find out the feature points of the face in the photo
+(such as eyes, nose and mouth points) for face processing. After the analysis
+process is completed, all data will be automatically deleted within 7 days and
+NO data will be saved.
+For the core functions of photo processing (beautifying, coloring, repairing
+blurry old photos, and turning blurry photos into high-definition photos), our
+application will collect the avatar photos you upload or take. You can
+voluntarily allow our application to access the camera or album to obtain
+photos from your mobile device. Our application can ONLY access your
+camera and album after you confirm your permission.
+• Face recognition
+When you use certain facial recognition features, we will automatically
+capture the positions and shapes of your five senses, analyze facial feature
+information, store this information on our server for photo processing, and
+return the rendering to you. WE WILL NOT STORE OR SHARE such
+processed photos, facial features, or renderings with any third party. After the
+--- [PAGE BREAK] ---
+analysis process is completed, all data will be automatically deleted within 7
+days and no data will be saved.
+• Purpose and process of collecting face data
+To give you a "face changing" effect, we need to find feature points (such as
+eyes, nose, mouth points).
+The complete process is as follows:
+(1)You will submit the selected photos to our server in an encrypted manner;
+(2) The server analyzes the required facial key points in your photos and
+applies it to the template you select;
+(3)After the synthesis is completed, the server returns the final rendering
+effect to you through the application;
+(4) The final composite effect will be temporarily stored in encrypted storage
+and will be permanently deleted within 7 days. After the synthesis process is
+completed, we will immediately delete the face image you submitted to the
+server.
+---
+Collect information:
+• Face recognition: For certain theme template editing and short video
+production services, our application will collect the avatar photos you upload
+or take. To use the facelift feature in the theme template section, you can
+voluntarily allow our application to access the camera or album to obtain
+photos from your mobile device. Our application can only access your camera
+and album after you confirm your permission. When you use certain facial
+recognition features, we will automatically capture the positions and shapes
+of your five senses, analyze facial feature information, store this information
+on our server for photo processing, and return the renderings to you. We will
+not store or share such processed photos, facial features, or renderings with
+any third party.
+---
+Information that you voluntarily provide to us
+We may collect, store and process some information about you when you use
+the form available within the "Contact us" section on the Website
+(hereinafter, “Contact us” form). In particular, if you decide to make a request
+via the “Contact us” form, the following categories of information are
+voluntarily provided by you: your name, email address, the text of your
+message and/or any files that you optionally choose to attach to your request.
+---
+Information automatically collected
+Some information – such as IP address and/or browser and device
+characteristics – is collected automatically when you visit our Apps.
+We automatically collect certain information when you visit, use or navigate
+the Apps. This information does not reveal your specific identity (like your
+name or contact information) but may include device and usage information,
+such as your IP address, browser and device characteristics, operating system,
+--- [PAGE BREAK] ---
+language preferences, referring URLs, device ID, device name, country,
+location, apps interactions about how you use our Apps and other technical
+information. This information is primarily needed to maintain the security and
+operation of our Apps, and for our internal analytics and reporting purposes.
+---
+Analytics information
+Information we collect automatically through the use of technology. When
+you visit our website, use our mobile app, read our emails or otherwise
+engage with us, we and our business partners may automatically collect
+certain information about your computer or device through a variety of
+tracking technologies, including crash logs, diagnostic information, cookies,
+web beacons, log files, embedded scripts, location-identifying technologies,
+or other tracking/recording tools (collectively, “tracking technologies"). We
+use these tracking technologies to maintain a perfect quality of our Services
+and provide you with efficient support.
+---
+We use third-party automatic data processing technologies (such as Google
+and Facebook) to analyze certain information sent by your device or our App.
+Automatic data processing technologies (advertising or analytics tools)
+provide us with the data described below. We do not control, supervise or
+respond for how the third parties process your personal data, that might be
+processed by their own means (not through our App). Any information
+request regarding the disclosure of your personal information to us should be
+directed to such third parties.
+---
+Information other users provide about you
+We also receive and analyze content, communications and information that
+other people provide when they use our Services. This can include
+information about you, such as when others invite you to use our application,
+and for doing so they provide us your phone number, name and other
+information. We require that these users have the legal rights to collect, use
+and share your data before they provide us with any information.
+---
+Regarding the Website: your browser transfers certain data so that it can
+access the Website, namely:
+• the date and time of the request
+• the browser type
+• the operating system
+• the language and version of the browser software.
+---
+To ensure your normal use of product features and services, we will use
+the following permissions for other data that we may access
+We will also access the following information to provide you with an
+enhanced user experience and better services, as well as to improve our
+products. Relevant permission content is dynamically obtained when you use
+product services and features. You can control whether permissions are turned
+--- [PAGE BREAK] ---
+on or off in system settings, but your selections and settings may affect the
+normal use of certain features of the product. "The information that may be
+accessed, collected, or shared may be used for application analysis or
+advertising analysis or other third-party SDKs. The specific content can be
+viewed in the privacy policy of" "APPENDIX - ADVERTISING
+NETWORKS AND PARTNERS" "below.".
+• Camera permissions: for shooting functions;
+• READ_EXTERNAL_STORAGE/READ_MEDIA_IMAGES permissions:
+Users to upload their own pictures, generate unique artworks, and save them
+to their mobile phones.
+• Read/write external memory card: uRead the external storage space of the
+device and save the picture;
+• Receive notification messages: used to receive messages;
+• Obtain the current network status: remind the user whether the current
+mobile network is in use or determine whether the user's network is available;
+• Advertising ID: Collect the device advertising identifier GAID for
+personalized advertising content;
+---
+[SECTION: II. How do we use this information?]
+1. General Use of Information.
+The information we collect is used to:
+1) To meet the purpose of your information provision.
+2) Carry out the activities described to you at the time your information was
+collected or as set forth in the California Consumer Privacy Act (“CCPA”).
+3) To provide you with the requested information, products or services.
+4) Execute internal and external marketing, including providing targeted
+advertisements and information.
+--- [PAGE BREAK] ---
+8) Evaluate or effect a merger, divestiture, reorganization, reorganization,
+dissolution, sale or other transfer of some or all of our assets, whether on an
+ongoing basis or as part of a discrete transaction in which the information
+collected is the transfer of assets.
+---
+9) Use information for security purposes; we may use information for account
+and network security purposes, including protecting our services for the
+benefit of all users, and pre-screening or scanning uploaded content for
+potentially illegal content. We may use your information for identity
+verification, monitoring account and transaction risks, detection and security
+prevention, fraud monitoring, file backup, customer security services, etc.
+---
+10) We store and maintain your information to fulfill our legal obligations; for
+example, in an emergency, we may record, review, analyze and dispose of
+your information in accordance with applicable laws.
+---
+Information voluntarily provided to us or lawfully obtained by us is our
+property and we may use it for any lawful purpose, including selling, renting
+or transferring the information to publishers, advertisers and data aggregators
+for marketing purposes.
+---
+3. Targeted Advertising and Information.
+We may use personal information to more effectively target advertisements
+and other information. While individuals are online, we may use technical
+information to associate individuals with their personal information and to
+attempt to display information and advertisements for products and services
+that you may respond to. We may use data collected from responses to one
+type of advertisement or information to target advertisements or other
+information across different venues.
+---
+5. Cookies and similar technologies
+When you use our Services, certain information may be stored locally on
+your mobile device using "cookies" or similar technologies (such as Google
+Analytics and web beacons). We use cookies and similar technologies mainly
+to achieve the following functions or services:
+• Ensure safe and efficient operation of products and services
+We may set cookies or anonymous identifiers for authentication and security
+so that we can confirm that you are safe to log into the Services, or that you
+are not experiencing theft, fraud or illegal activity. These technologies also
+--- [PAGE BREAK] ---
+help us to make our services more efficient and improve login and
+responsiveness.
+• Help you have an easier access experience
+Using such technologies can help you avoid repeated steps and processes of
+filling in personal information and frequent logins.
+---
+6.To improve, test and monitor the effectiveness of our App/Website. We use
+the information that is processed automatically to better understand user
+behavior and trends, detect potential outages and technical issues, to operate,
+protect, improve, and optimize our App/Website.
+---
+7.To generate pictures. Users can upload their own pictures and generate
+pictures of the style they want. In order to protect your rights and security, the
+generated pictures will be automatically deleted after being stored for a
+certain period of time.
+---
+8.To make our service available. We use functional information and
+information that is processed automatically to provide you with all requested
+services.
+---
+9.To communicate with you. We use the contact information we have to
+communicate with you through newsletters, i.e. to send you marketing
+notifications, receive your feedback about our App experience, and let you
+know about our policies and terms. We also use your information to respond
+to you when you contact us.
+---
+[SECTION: III. How do we share your information?]
+We will not rent or sell your personal data to third parties, but we may share
+information you obtain through tools such as cookies, log files and device
+identifiers with third-party organizations that provide automatic data
+processing technology for this website. We do it in such a way that no
+individual user can be identified or linked to any specific action or
+information. We do not control or influence these third parties' tracking
+technologies or how they are used.
+--- [PAGE BREAK] ---
+We may share information and aggregate data we collect on usage and user
+behavior with third parties, to help improve or promote the Services/Apps,
+but we do it in such a way that no individual user can be identified or linked
+to any specific action or information.
+---
+Our Services/Apps allow third-party companies to collect certain information
+information from users. These companies may utilize cookies, pixels or other
+technologies to collect and use non-personally identifiable information (e.g.,
+hashed data, click streaming information, browser type, time and date, subject
+of advertisements clicked or scrolled over) during your visits to this and other
+website in order to provide advertisements about goods and services likely to
+be of greater interest to you. To learn more about this behavioral advertising
+practice or to opt-out of this type of advertising, you can visit the websites of
+the Digital Advertising Alliance at www.aboutads.info and Networking
+Advertising Initiative atwww.networkadvertising.org/choices . Even so, you
+always have the option to uninstall the software if you no longer want to be
+our users.
+---
+To provide you with services:
+We may provide information to service providers who help us operate the
+Services/Apps. For example, we may use third parties to help host our site,
+send e-mail or SMS related to the operation of the Services/Apps, removing
+repetitive information from our user lists, to any process payments or to
+provide search results. These service providers can technically access your
+personal information for use for a limited time but when this occurs, it is
+reasonable to apply the contractual and technical protections of limiting the
+use of this information to help us provide the the Services/Apps.
+---
+If you no longer want us to use your information that we
+physically access and store, you can request that we erase your personal
+information and close your account.
+--- [PAGE BREAK] ---
+The length of time we retain personal information is for the purpose of
+providing our services or achieving the original or directly related purpose of
+collecting such information, or for other commercial purposes, such as
+complying with our legal obligations, resolving disputes, and enforcing our
+agreements The law requires us to retain certain types of information (such as
+time limits) for a period of time. "If your personal information is no longer
+needed for legal or commercial purposes for processing it, we typically
+destroy or anonymize it.".
+---
+1. Personal data shall be processed and stored as required for the purpose for
+which it was collected.
+---
+2) Personal data collected for the purpose of fulfilling our contract with you
+will be retained until such contact has been fully fulfilled.
+---
+3) Personal data collected for the realization of the legitimate interests of the
+company shall be retained for the period necessary to achieve the purpose.
+Users can find specific information on the legitimate interests pursued by the
+Company in the relevant sections of this document or by contacting the
+Company.
+--- [PAGE BREAK] ---
+Our servers automatically record information generated when you connect to
+the Services ("Log Data"). Our log data is anonymous, so it does not include
+information such as your IP address, user ID, phone number, cookie
+information, browser type, operating system or device model, location, carrier
+or internet service provider information.
+---
+[SECTION: VI. Security]
+The security of your personal information is highly important. We will try our
+best to make sure the data is protected from any fraud. For this reason, we
+have a secure environment to collect, store and track the information using
+latest technologies.
+---
+[SECTION: VII. Third-Party]
+1. Advertiser Cookies and Web Beacons. Publishers who advertise on the
+Internet may use their own cookies, web beacons and other technologies to
+collect information about you. We do not control publishers' use of such
+technologies. We may place cookies on your computer or device from
+publishers or advertisers with whom we contract. This Privacy Policy does
+not apply to the practices of publishers or other companies that we do not
+own or control, nor does it apply to people we do not employ or manage.
+--- [PAGE BREAK] ---
+4. Google Signal Data Collection and Usage (applicable to AI Home Design
+Android only)
+--- [PAGE BREAK] ---
+To enhance our services and advertising effectiveness, we use Google Signal
+(provided by Google). Google Signal collects and analyzes the following
+types of data to help us optimize ad targeting and user experience:
+• User behavior data: This includes, but is not limited to, user interactions
+within our product, such as clicks, page views, session duration, and other
+usage data.
+• Device information: Includes data such as device type, operating system
+version, IP address, browser type, and similar technical details.
+• Ad interaction data: Includes information related to ad impressions, clicks,
+conversions, and other metrics used to evaluate the effectiveness of our
+advertising campaigns.
+The data collected by Google Signal is used for the following purposes:
+• Ad performance analysis: Helps us evaluate the effectiveness of our
+advertising efforts and optimize our ad strategy.
+• Personalized advertising: Based on user behavior, Google Signal enables us
+to show relevant ads to users.
+• Analytical reporting: Provides anonymous reports that help us understand
+user preferences and improve our products and services.
+We ensure that the data collected via Google Signal is used solely for
+advertising and analytical purposes and is not linked to personally identifiable
+information. Additionally, Google follows strict data protection standards to
+ensure your privacy is safeguarded.
+We ensure that the data collected via Google Signals is used exclusively for
+advertising and analytical purposes, with strict adherence to privacy
+safeguards. User data is aggregated, meaning individual user details cannot be
+traced or isolated, and it undergoes anonymization processes to remove any
+direct identifiers. Google safeguards user privacy by adhering to strict data
+protection standards.
+---
+How to Control Your Data
+• If you do not wish for Google Signal to collect your data, you can disable it
+through Privacy controls in Google Analytics.
+• For more information on how Google uses your data, you can review
+Google's Privacy Policy. Please be aware that we are not responsible for how
+Google collects or processes your data.
+---
+5. Gmail API Data Collection and Usage (applicable to AI Photo Cleaner,
+Swipe: Slidy only)
+• AI Photo Cleaner, Swipe: Slidy integrates with Gmail API to provide
+specific functionalities. For more information on how Google uses your data,
+you can review Google's Privacy Policy . Please be aware that we are not
+responsible for how Google collects or processes your data.
+---
+Special Statement on AI/ML
+We explicitly confirm that:
+--- [PAGE BREAK] ---
+• No Generalized AI/ML Use: User data obtained via Google Workspace APIs
+(including Gmail API) will not be used to develop, improve, or train
+generalized artificial intelligence (AI) or machine learning (ML) models.
+---
+[SECTION: IX.INFORMATION FOR RESIDENTS OF CALIFORNIA: YOUR CALIFORNIA PRIVACY RIGHTS]
+1)The categories of personal information we have collected about you.
+2)The categories of sources from which we collected your personal
+information.
+3)The business or commercial purposes for our collecting or selling your
+personal information.
+---
+5)The specific pieces of personal information we have collected about you.
+--- [PAGE BREAK] ---
+You have the right to make or obtain a transportable copy, no more than twice
+in a twelve-month period, of your personal information that we have collected
+in the period that is 12 months prior to the request date and are maintaining.
+---
+Data Deletion Rights
+Except to the extent we have a basis for retention under CCPA, you may
+request that we delete your personal information that we have collected
+directly from you and are maintaining. Note also that we are not required to
+delete your personal information that we did not collect directly from you.
+---
+The Verifiable Consumer Request must:
+1)Provide sufficient information that allows us to reasonably verify you are
+the person about whom we collected personal information or an authorized
+representative; and
+---
+We will make commercially reasonable efforts to identify Consumer personal
+information that we collect, process, store, disclose, and otherwise use and to
+respond to your California Consumer privacy rights requests. We will
+typically not charge a fee to fully respond to your requests, but we may
+charge a reasonable fee, or refuse to act upon a request, if your request is
+excessive, repetitive, unfounded, or overly burdensome.
+---
+In addition, we may offer you financial incentives for the collection, sale and
+retention and use of your personal information as permitted by the CCPA that
+can, without limitation, result in reasonably different prices, rates, or quality
+levels. The material aspects of any financial incentive will be explained and
+described in its program terms. We may add or change incentive programs
+--- [PAGE BREAK] ---
+and/or their terms by posting notice on the program descriptions and terms
+linked to above so check them regularly.
+---
+[SECTION: X. Children's Policy]
+Our services are not directed at children. If a parent or guardian becomes
+aware that his or her child has provided us with information without their
+consent, he or she should contact us immediately and we will take reasonable
+steps to ensure that such information is removed from our files.

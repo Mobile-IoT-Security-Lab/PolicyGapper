@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We collect several types of information from and about users of our Website, including information:\n•\n•\n•\nBy which you may be personally identified, such as your user name, email address, telephone number, or any other identifier by\nwhich you may be contacted (\"personal information\");\nThat is about you but individually does not identify you, such as your device information; and/or\nAbout your internet connection, the equipment you use to access our Website, and usage details.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information\nabout your equipment, browsing actions, and patterns, including:\n•\n•\nDetails of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources\nthat you access and use on the Website.\nInformation about your computer and internet connection, including your IP address, operating system, and browser type.",
+      "lang": "English"
+    }
+  ]
+}

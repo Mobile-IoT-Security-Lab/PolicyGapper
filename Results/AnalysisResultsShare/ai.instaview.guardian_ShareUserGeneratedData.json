@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "We will not share data except in the following circumstances:\nWith vendors, consultants, and other service providers who need access to such information to carry\nout work on our behalf; In response to a request for information if we believe disclosure is in accordance\nwith, or required by, any applicable law or legal process, including lawful requests by public authorities\nto meet national security or law enforcement requirements; If we believe your actions are inconsistent\nwith our user agreements or policies, or to protect the rights, property, and safety of InstaVision or\nothers; In connection with, or during negotiations of, any merger, sale of company assets, financing or\nacquisition of all or a portion of our business by another company; and with your consent or at your\ndirection.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We will not share data except in the following circumstances:\nWith vendors, consultants, and other service providers who need access to such information to carry\nout work on our behalf; In response to a request for information if we believe disclosure is in accordance\nwith, or required by, any applicable law or legal process, including lawful requests by public authorities\nto meet national security or law enforcement requirements; If we believe your actions are inconsistent\nwith our user agreements or policies, or to protect the rights, property, and safety of InstaVision or\nothers; In connection with, or during negotiations of, any merger, sale of company assets, financing or\nacquisition of all or a portion of our business by another company; and with your consent or at your\ndirection.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We will not share data except in the following circumstances:\nWith vendors, consultants, and other service providers who need access to such information to carry\nout work on our behalf; In response to a request for information if we believe disclosure is in accordance\nwith, or required by, any applicable law or legal process, including lawful requests by public authorities\nto meet national security or law enforcement requirements; If we believe your actions are inconsistent\nwith our user agreements or policies, or to protect the rights, property, and safety of InstaVision or\nothers; In connection with, or during negotiations of, any merger, sale of company assets, financing or\nacquisition of all or a portion of our business by another company; and with your consent or at your\ndirection.",
+      "lang": "English"
+    }
+  ]
+}

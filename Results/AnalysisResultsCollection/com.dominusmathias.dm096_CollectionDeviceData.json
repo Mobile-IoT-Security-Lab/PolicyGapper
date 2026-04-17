@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "This app uses Google AdMob for advertising. AdMob may collect and use certain data for advertising purposes, as described in Google's Privacy Policy. This may include device information, location data, and other information to serve personalized ads. Users can manage their ad preferences through their device's settings.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "This app uses Google Analytics for Firebase to collect anonymous usage data to help improve the app. This may include information about how the app is used, such as features accessed and session duration. This data is aggregated and does not personally identify any user.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "This app uses Google Analytics for Firebase to collect anonymous usage data to help improve the app. This may include information about how the app is used, such as features accessed and session duration. This data is aggregated and does not personally identify any user.",
+      "lang": "English"
+    }
+  ]
+}

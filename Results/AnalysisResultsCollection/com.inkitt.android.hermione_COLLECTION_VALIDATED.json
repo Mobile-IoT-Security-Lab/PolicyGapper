@@ -1,0 +1,58 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Unless otherwise specified, we will delete your data as soon as it is no longer required. Your data will also be blocked or deleted if a storage period prescribed by law expires unless there is a need to continue storing the data for the conclusion or performance of a contract. Certain data may have to be stored longer for legal reasons. You can, of course, request information about the stored data at any time. You can delete all previously stored data on your orders and reset your authentication within the app at any time.",
+      "justification": "The policy mentions storing data related to user 'orders,' which directly corresponds to 'Purchase history.' This data is stored and not described as being processed only on-device or end-to-end encrypted, indicating it is collected.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you use our app, we collect and store certain data (technically necessary) about you to provide services, and improve it overall:\n• Language settings (e.g. system language German)\n• Approximate location based on device language and time zone\n• Date and time of use (e.g. 11:45 on 25.05.2018)\n• Operating system (iOS, Android)\n• Hardware\nTo protect your privacy, we delete or anonymize identifiers in our database and most technical data after your use.",
+      "justification": "The policy explicitly states the app 'collects and stores' the 'Approximate location based on device language and time zone' in its database, which constitutes data collection.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Access location data: When you select OK in the \"Access Location\" pop-up, you allow the app to capture your location.\nTo protect your privacy, all app permissions are optional, except for the technical permissions required to run the app. You can decline at any time (by clicking \"no\" or \"do not accept\"). You can also revoke the permissions afterward by changing the corresponding settings on your device.\nThe purpose of requesting these permissions is to enable you to use our service and app-specific features.\nThe legal basis is your consent in accordance with the European data protection regulations pursuant to Art. 6 (1) lit. a GDPR.",
+      "justification": "The policy states the app requests permission to 'capture your location' to provide its service. This implies collection, and there is no mention of on-device-only processing or end-to-end encryption to qualify for an exemption.",
+      "how_to_fix": "Declare 'Precise location' as a collected data type in your app's Data Safety form if you collect it. If you only collect approximate location, declare that instead.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Google Firebase: We use Firebase by Google LLC, 1600 Amphitheatre Pkwy, Mountain View, California 94043, USA for the purpose of analytics, sending push notification to users, and storing of storing chat messages. Your IP address, Instance IDs, Crash traces, User agents, Mobile ad IDs, IDFVs/Android IDs, Analytics App Instance IDs, All User events (button clicks, page views, etc) will be processed. Personal data is not stored.",
+      "justification": "The policy states that 'chat messages' are stored using Google Firebase, a third-party service. This is off-device data collection and does not meet any exemption criteria.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in your app's Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Accessing the camera: If you select OK in the \"Access camera\" pop-up window, you allow the app to access its camera.",
+      "justification": "The policy states the app requests permission to 'access its camera.' This access enables the collection of videos. Without an explicit statement that this data is processed only on-device or is end-to-end encrypted, any collection must be declared.",
+      "how_to_fix": "If the app collects and sends user videos off-device, declare 'Videos' as a collected data type in your app's Data Safety form. If camera access is for a feature that processes data only on-device, update your privacy policy to state this explicitly.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Microphone: Access location data: When you select OK in the \"Microphone\" pop-up, you allow the app to use your device's microphone.",
+      "justification": "The policy states the app requests permission to 'use your device's microphone.' This access enables the collection of voice or sound recordings. Without an explicit statement that this data is processed only on-device or is end-to-end encrypted, any collection must be declared.",
+      "how_to_fix": "If the app collects and sends voice or sound recordings off-device, declare 'Voice or sound recordings' as a collected data type in your app's Data Safety form. If microphone access is for a feature that processes data only on-device, update your privacy policy to state this explicitly.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Insofar as you apply to us online or otherwise respond to one of our job ads, we collect and process the personal applicant data for the purpose of handling the application process. The processing is primarily carried out electronically. This is particularly the case if corresponding application documents are submitted electronically to us, for example by e-mail or via a web form located on the website. If we conclude an employment contract, the transmitted data will be stored for the purpose of processing the employment relationship in compliance with the statutory provisions. If we do not conclude an employment contract, the application documents will be deleted six months after notification of the rejection decision - this retention period is justified by a potential obligation to provide evidence in proceedings under the General Equal Treatment Act (AGG). If consent was given, applications may also be retained for longer than six months.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy specifies that 'application documents' are collected via 'e-mail or via a web form located on the website.' Data collection that occurs outside of the mobile app is exempt from disclosure in the app's Data Safety section.",
+      "how_to_fix": "No action is required for the Data Safety form regarding this data type, as it is correctly excluded. The collection happens outside the app.",
+      "lang": "en"
+    }
+  ]
+}
+```

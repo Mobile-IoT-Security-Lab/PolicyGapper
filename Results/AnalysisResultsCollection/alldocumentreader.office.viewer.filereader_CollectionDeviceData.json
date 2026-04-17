@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In order to provide a better user experience, we have integrated data statistics tools in the App, they won't collect users' health data or privacy data and are only used for CRASH targeting and AB-testing for new features and design, The details are as follows:\nDevice information\n• Screen Size\n• OEM Name\n• Model",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "In order to provide a better preview experience, when the file recognition fails, we may upload your file to our cloud server to locate and fix the issue. Please rest assured that we will never share your information with any third parties except with your permission, as described in this Privacy Policy, or in connection with the provision of document reading services.",
+      "lang": "English"
+    }
+  ]
+}

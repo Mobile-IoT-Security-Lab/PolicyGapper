@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We use analytics service providers Umeng Analytics to better understand how people use our services so that we can improve the design and usability of our products, we do not engage in \"tracking\" users outside of our services. These providers collect IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/IMSI, Installed Application information to provide statistics service, it use location to adjust data report, provides basic anti-cheating capabilities, its privacy policy can be find in https://www.umeng.com/page/policy",
+      "lang": "English"
+    }
+  ]
+}

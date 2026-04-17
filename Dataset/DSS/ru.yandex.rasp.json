@@ -1,0 +1,106 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Approximate location",
+      "optional": 1,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": 1,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "User payment info",
+      "optional": 1,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "Financial info"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Name",
+      "optional": 1,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 1,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "Personal info"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://yandex.ru/legal/confidential/?mode=html"
+}

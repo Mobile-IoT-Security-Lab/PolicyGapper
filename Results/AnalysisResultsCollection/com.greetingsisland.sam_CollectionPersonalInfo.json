@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Data received from Facebook, Google and other channels: If you choose to connect your Facebook, Google, or Apple account to our Services, we will receive access to your full name and user ID on Facebook, Google, or Apple. You may also choose to allow us to access your images saved on such services, so that you could fetch these images and use them on our Services. Such access will also allow us to collect the following parameters (to the extent available there and only if you defined them as \"public\"): your profile picture, gender, date of birth, comments on our company page, tags and tagged pictures, locale and time zone. In addition, we or our advertising partners may receive from Facebook, Google and our other marketing channels general information concerning the performance of our advertising campaigns, such as the targeted age group or interests, and we or our partners may be able to link such general data to any other data in our possession.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Transaction Data: Our Services allow you to place purchases. Currently all purchases must be completed either with a credit card or via PayPal, which will then provide us with limited data concerning your order. We will not collect or store your financial data, e.a.. your credit card numbers or bank account. However, we may still receive your n financial personal data related to your order, such as your name, PayPal username, mail, billing and shipping address, the items purchased and paid amount, in order to fulfil your purchase and for our accounting purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Data received from you: you may provide us personal data voluntarily, such as your name and e-mail address when you contact us, your hashed password, your content and images (including details regarding your events or other announcements, if you choose to submit them as you use the Services), when you post on our public forums or groups, when you sign-up to receive e-mail updates, when you place any purchases via our Services, or when you choose to connect your Facebook, Google, or Apple account to our Services. You may also provide us with personal data of your Recipients, such as their names and e-mail addresses, so that you can use our Services to contact and send them content and invitations you uploaded to and created through the Services; and in such cases, we may collect additional information concerning such Recipients (including, for example, analytics data concerning their interactions with the content and invitations you sent them, their phone number, and their responses to such invitations – all on your behalf of course, so you can better manage your events).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Data received from Facebook, Google and other channels: If you choose to connect your Facebook, Google, or Apple account to our Services, we will receive access to your full name and user ID on Facebook, Google, or Apple. You may also choose to allow us to access your images saved on such services, so that you could fetch these images and use them on our Services. Such access will also allow us to collect the following parameters (to the extent available there and only if you defined them as \"public\"): your profile picture, gender, date of birth, comments on our company page, tags and tagged pictures, locale and time zone. In addition, we or our advertising partners may receive from Facebook, Google and our other marketing channels general information concerning the performance of our advertising campaigns, such as the targeted age group or interests, and we or our partners may be able to link such general data to any other data in our possession.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Transaction Data: Our Services allow you to place purchases. Currently all purchases must be completed either with a credit card or via PayPal, which will then provide us with limited data concerning your order. We will not collect or store your financial data, e.a.. your credit card numbers or bank account. However, we may still receive your n financial personal data related to your order, such as your name, PayPal username, mail, billing and shipping address, the items purchased and paid amount, in order to fulfil your purchase and for our accounting purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transaction Data: Our Services allow you to place purchases. Currently all purchases must be completed either with a credit card or via PayPal, which will then provide us with limited data concerning your order. We will not collect or store your financial data, e.a.. your credit card numbers or bank account. However, we may still receive your n financial personal data related to your order, such as your name, PayPal username, mail, billing and shipping address, the items purchased and paid amount, in order to fulfil your purchase and for our accounting purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "For the purposes of the CCPA, in the last 12 months, we have collected the following categories of Personal Information, as defined in the CCPA: Identifiers; Customer Record Information; Internet or other electronic network activity information; Commercial Information; Geolocation Data; Inferences; and Audio, electronic, visual, thermal, olfactory information. Greetings Island does not collect sensitive personal information.",
+      "lang": "English"
+    }
+  ]
+}

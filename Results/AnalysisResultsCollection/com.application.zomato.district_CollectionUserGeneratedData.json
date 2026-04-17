@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "This policy applies only to the information Eternal collects through its Services, in email, text and other electronic communications sent through or in connection with its Services.",
+"lang": "en"
+},
+{
+"data_type": "SMS or MMS",
+"policy_reference": "This policy applies only to the information Eternal collects through its Services, in email, text and other electronic communications sent through or in connection with its Services.",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "This policy applies only to the information Eternal collects through its Services, in email, text and other electronic communications sent through or in connection with its Services.",
+"lang": "en"
+}
+]
+}

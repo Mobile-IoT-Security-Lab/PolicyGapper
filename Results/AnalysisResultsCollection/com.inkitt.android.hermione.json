@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Unless otherwise specified, we will delete your data as soon as it is no longer required. Your data will also be blocked or deleted if a storage period prescribed by law expires unless there is a need to continue storing the data for the conclusion or performance of a contract. Certain data may have to be stored longer for legal reasons. You can, of course, request information about the stored data at any time. You can delete all previously stored data on your orders and reset your authentication within the app at any time.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you use our app, we collect and store certain data (technically necessary) about you to provide services, and improve it overall:\n• Language settings (e.g. system language German)\n• Approximate location based on device language and time zone\n• Date and time of use (e.g. 11:45 on 25.05.2018)\n• Operating system (iOS, Android)\n• Hardware\nTo protect your privacy, we delete or anonymize identifiers in our database and most technical data after your use.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Access location data: When you select OK in the \"Access Location\" pop-up, you allow the app to capture your location.\nTo protect your privacy, all app permissions are optional, except for the technical permissions required to run the app. You can decline at any time (by clicking \"no\" or \"do not accept\"). You can also revoke the permissions afterward by changing the corresponding settings on your device.\nThe purpose of requesting these permissions is to enable you to use our service and app-specific features.\nThe legal basis is your consent in accordance with the European data protection regulations pursuant to Art. 6 (1) lit. a GDPR.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Google Firebase: We use Firebase by Google LLC, 1600 Amphitheatre Pkwy, Mountain View, California 94043, USA for the purpose of analytics, sending push notification to users, and storing of storing chat messages. Your IP address, Instance IDs, Crash traces, User agents, Mobile ad IDs, IDFVs/Android IDs, Analytics App Instance IDs, All User events (button clicks, page views, etc) will be processed. Personal data is not stored.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Accessing the camera: If you select OK in the \"Access camera\" pop-up window, you allow the app to access its camera.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Microphone: Access location data: When you select OK in the \"Microphone\" pop-up, you allow the app to use your device's microphone.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Insofar as you apply to us online or otherwise respond to one of our job ads, we collect and process the personal applicant data for the purpose of handling the application process. The processing is primarily carried out electronically. This is particularly the case if corresponding application documents are submitted electronically to us, for example by e-mail or via a web form located on the website. If we conclude an employment contract, the transmitted data will be stored for the purpose of processing the employment relationship in compliance with the statutory provisions. If we do not conclude an employment contract, the application documents will be deleted six months after notification of the rejection decision - this retention period is justified by a potential obligation to provide evidence in proceedings under the General Equal Treatment Act (AGG). If consent was given, applications may also be retained for longer than six months.",
+      "lang": "en"
+    }
+  ]
+}

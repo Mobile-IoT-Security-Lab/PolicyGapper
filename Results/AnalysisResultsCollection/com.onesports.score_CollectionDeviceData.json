@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "lang": "English"
+    }
+  ]
+}

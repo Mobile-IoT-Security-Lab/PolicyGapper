@@ -1,0 +1,44 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Committed to follow the Play Families Policy",
+      "description": "The developer has committed to follow the Play Families Policy for this app. <a href=\"https://support.google.com/googleplay/android-developer/answer/9893335\" target=\"_blank\">See the policy</a>"
+    }
+  ],
+  "privacyPolicyUrl": "http://en.babybus.com/index/privacyPolicy.shtml"
+}

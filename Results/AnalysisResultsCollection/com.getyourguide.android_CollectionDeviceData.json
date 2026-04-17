@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may allow third party companies, including advertising companies (such as Google), to place cookies on our website. These cookies enable such companies to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you as you browse the Internet. These Cookies store information about the content you are browsing together with an identifier linked to your device or IP address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We use performance/analytics cookies to analyze how our website is accessed, used, or is performing to provide you with a better user experience and to maintain, operate and continually improve the website. For example, these cookies allow us to: Better understand the visitors of our website in order to improve and insure present and relevant content; Test different design ideas for particular pages, such as our homepage; Collect information about our website visitors, such as where they are located and what browsers they are using; Determine the number of unique users that visit our website; Improve our website by measuring any errors that occur; Conduct research and diagnostics to improve product offerings.",
+      "lang": "English"
+    }
+  ]
+}

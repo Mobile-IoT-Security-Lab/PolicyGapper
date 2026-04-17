@@ -1,0 +1,98 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. Weretain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.",
+      "justification": "The policy states, \"If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us.\" This confirms the collection of user-generated content sent to your servers.",
+      "how_to_fix": "Declare \"Other user-generated content\" as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "b. We collect personally identifiable information (email address, other addresses, name,phone number, gender, travel preferences, travel plan, accommodation details, hotel bookings/preferences, telephone (mobile or otherwise) and/or fax numbers.etc.) from you when you register and create an account with us, and that you provide to us from time to time. The information may also include information such as your banking details (including credit/debit card) and any other information relating to your income and/or lifestyle; billing information, payment history etc. (as shared by you).",
+      "justification": "The policy explicitly states, \"We collect personally identifiable information (...other addresses...)\" when a user creates an account, confirming this data is sent off-device.",
+      "how_to_fix": "Declare \"Address\" (e.g., Physical address) as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "d. Such information collected by us may include information considered to be ‘sensitive personal information' of the user under the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 (\"SPIRules\") .Such ‘sensitive personal information' generally includes user's information relating to password, financial information such as bank account or credit card or debit card or other payment instrument details, physical,physiological and mental health condition, sexual orientation, medical records and history, and biometric information. Further, the SPI Rules require your express consent to collect, store and use such personally identifiable information collected by us. You hereby consent to such use, collection,storage and disclosure of ‘sensitive personal information' by us inaccordance with this Privacy Notice as required under applicable law.",
+      "justification": "The policy lists \"sexual orientation\" as an example of 'sensitive personal information' that is collected, stating, \"You hereby consent to such use, collection, storage and disclosure... by us.\"",
+      "how_to_fix": "Declare \"Sexual orientation\" as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "b. We collect personally identifiable information (email address, other addresses, name,phone number, gender, travel preferences, travel plan, accommodation details, hotel bookings/preferences, telephone (mobile or otherwise) and/or fax numbers.etc.) from you when you register and create an account with us, and that you provide to us from time to time. The information may also include information such as your banking details (including credit/debit card) and any other information relating to your income and/or lifestyle; billing information, payment history etc. (as shared by you).",
+      "justification": "The policy confirms collection of various data types that fall under \"Other info,\" such as \"gender, travel preferences, travel plan, accommodation details... income and/or lifestyle; billing information, payment history etc.\"",
+      "how_to_fix": "Declare \"Other info\" as a collected data type in your app's Data Safety section and specify the types of information collected.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "g. While making a booking, we may use ‘sensitive personal information' including,payment details which include card holder name, credit/debit card number (in encrypted form) with an expiration date, banking details, wallet details etc., as shared and allowed to be stored by you. We may also use the information of travelers list as available in or linked with your account. This information is presented to the user at the time of making a booking to enable you to complete your bookings expeditiously. Further, we may use your 'sensitive personal information' to provide seamless and convenient services and such uses will include (without limitation) (i) confirmation of your reservations/bookings withyou and respective service providers, (ii) informing of the transaction status, (iii) communicating booking confirmations either via electronic means or other messaging service, (iv) communicating any updates or changes to your booking(s), (v) enabling customer service team to contact you, if necessary, (vi) customize the content of the Website, Mobile site and Mobile Apps and other Interfaces; (vii) request for reviews of the Services or any other improvements; (viii) sending verification message(s) or email(s), (ix)validating/authenticating your account and to prevent any misuse or abuse and (x)contact you to offer offers. Further to the above, your information will be shared with the end service providers like hotels, bus service providers or anyother suppliers who are responsible for fulfilling your booking. We may employ other companies and individuals to perform functions on our behalf (includingbut not limited to payment processing, data hosting, and data processing platforms). We may also share certain information to our corporate affiliatesor business partners who may contact the customers to offer certain products or services, which may include free or paid products/services (like travel insurance, discount coupons, entertainment services), which will enable the customer to have better travel experience or to avail certain benefits specially made for AbhiBus customers. We may provide anonymous statistical information based on this data to suppliers, advertisers, affiliates and other current and potential business partners. You may note that while making abooking with AbhiBus you authorize us to share your information with the said service providers and suppliers. AbhiBus does not authorize the end service provider to use your information for any other purpose(s) except as may be for fulfilling their part of service. Nevertheless, the information shared with such service providers/suppliers is beyond the purview and control of AbhiBus, and hence we are not accountable for any unauthorized use of such information by any service provider/supplier. You are therefore advised to review the privacy policies of the respective service provider or supplier whose services you choose to avail.",
+      "justification": "The policy states the app may use \"payment details which include card holder name, credit/debit card number (in encrypted form) with an expiration date, banking details, wallet details etc.\" This data is sent off-device for processing and storage.",
+      "how_to_fix": "Declare \"User payment info\" as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "b. We collect personally identifiable information (email address, other addresses, name,phone number, gender, travel preferences, travel plan, accommodation details, hotel bookings/preferences, telephone (mobile or otherwise) and/or fax numbers.etc.) from you when you register and create an account with us, and that you provide to us from time to time. The information may also include information such as your banking details (including credit/debit card) and any other information relating to your income and/or lifestyle; billing information, payment history etc. (as shared by you).",
+      "justification": "The policy states the app collects financial information such as \"banking details (including credit/debit card) and any other information relating to your income and/or lifestyle; billing information, payment history etc.\"",
+      "how_to_fix": "Declare \"Other financial info\" as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "d. Such information collected by us may include information considered to be ‘sensitive personal information' of the user under the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 (\"SPIRules\") .Such ‘sensitive personal information' generally includes user's information relating to password, financial information such as bank account or credit card or debit card or other payment instrument details, physical,physiological and mental health condition, sexual orientation, medical records and history, and biometric information. Further, the SPI Rules require your express consent to collect, store and use such personally identifiable information collected by us. You hereby consent to such use, collection,storage and disclosure of ‘sensitive personal information' by us inaccordance with this Privacy Notice as required under applicable law.",
+      "justification": "The policy lists \"physical, physiological and mental health condition, medical records and history\" as examples of 'sensitive personal information' that is collected, stating, \"You hereby consent to such use, collection, storage and disclosure... by us.\"",
+      "how_to_fix": "Declare \"Health info\" as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "I. If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. Weretain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.",
+      "justification": "The policy states, \"If you choose to post messages on our message boards, chat rooms or other message areas... we will collect that information you provide to us.\" This confirms the collection of in-app messages sent to your servers.",
+      "how_to_fix": "Declare \"Other in-app messages\" as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "i. data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc.;",
+      "justification": "The policy explicitly states collection of data \"which you wish to store on our servers such as image files, documents etc.\", confirming this data is sent off-device.",
+      "how_to_fix": "Declare \"Files and docs\" as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "d. SMS: If you allow us to access your SMS, we read your SMS to autofill or prepopulate 'OTP' while making a transaction and to validate your mobile number. This provides you with a seamless purchase experience while making a booking and you don't need to moveout of the app to read the SMS and then enter it in the app.",
+      "justification": "The policy states the app reads SMS to \"validate your mobile number.\" Validation requires server-side communication, and the policy does not state this processing is exclusively on-device. Therefore, it must be declared as collected.",
+      "how_to_fix": "Declare \"SMS or MMS\" as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "f. Contacts: If you allow us to access your contacts, it enables us to provide a lot of social features to you such as sharing tickets or location with your friends. This permission also allows you to select numbers from your contacts for mobile recharges done on the app.",
+      "justification": "The policy states contacts are used for social features like \"sharing tickets or location with your friends.\" This functionality requires sending contact information off-device to your servers to facilitate the sharing.",
+      "how_to_fix": "Declare \"Contacts\" as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "g. Photo/Media/ Files:The libraries in the app use these permissions to allow users to save and upload multimedia reviews.",
+      "justification": "The policy states the app allows users to \"upload multimedia reviews.\" The term \"upload\" explicitly confirms that photos are sent off the user's device to your servers.",
+      "how_to_fix": "Declare \"Photos\" as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "g. Photo/Media/ Files:The libraries in the app use these permissions to allow users to save and upload multimedia reviews.",
+      "justification": "The policy states the app allows users to \"upload multimedia reviews.\" The term \"upload\" explicitly confirms that videos are sent off the user's device to your servers.",
+      "how_to_fix": "Declare \"Videos\" as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

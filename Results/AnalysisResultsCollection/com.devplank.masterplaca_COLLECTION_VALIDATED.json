@@ -1,0 +1,14 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The privacy policy states that 'Log Data' is collected in case of an app error. This data, which includes device information, OS version, app configuration, and usage statistics, is a form of app performance data. The policy indicates this data is collected and sent off-device via third-party products, making it a declarable data type under Google Play's Data Safety policy.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in the App activity section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

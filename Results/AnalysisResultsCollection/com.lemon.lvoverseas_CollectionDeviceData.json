@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "Technical Information. We automatically collect certain information from you when you use the Services. Such information includes your IP address, unique device identifiers, advertising identifiers, network type and connections, mobile or device model, device manufacturer, country calling codes, application version number, app and file names and types, operating system, device resolution, system language and region, and battery information. Where you log-in from multiple devices, we will be able to use your profile information to identify your activity across devices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Technical Information. We automatically collect certain information from you when you use the Services. Such information includes your IP address, unique device identifiers, advertising identifiers, network type and connections, mobile or device model, device manufacturer, country calling codes, application version number, app and file names and types, operating system, device resolution, system language and region, and battery information. Where you log-in from multiple devices, we will be able to use your profile information to identify your activity across devices.",
+      "lang": "English"
+    }
+  ]
+}

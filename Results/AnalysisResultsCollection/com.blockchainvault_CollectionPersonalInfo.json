@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "Separate from the personal data collected in our app and from other sources as set forth herein, and to comply with industry regulatory standards and government orders in different areas such as Anti-Money Laundering (AML), Know-Your-Client (KYC), and Counter-Terrorist Financing (CTF), SocialChain collects personal information such as identity documents (including passport, driver's license, national identity card, state ID card, tax ID number, passport number, driver's license details, national identity card details, visa information, selfie images, selfie videos etc.), proof of address, source of fund declaration, purposes of fund documents, and source of wealth (\"KYC Data\"). This KYC data is collected and used solely to verify the identity of Pi Network members (\"Pioneers\"), and to be compliant with regulatory requirements and the SocialChain policy that only real human beings can receive Pi. SocialChain's KYC process is multifaceted and incorporates the use of real human beings and Al technology. We utilize AI technology in our KYC process for enhanced efficiency and security. Personal information collected for identity verification may be processed using AI algorithms. We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Some of the information you provide us may constitute sensitive data as defined in the GDPR (also referred to as special categories of personal data), including identification of your race or ethnicity on government-issued identification documents.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Separate from the personal data collected in our app and from other sources as set forth herein, and to comply with industry regulatory standards and government orders in different areas such as Anti-Money Laundering (AML), Know-Your-Client (KYC), and Counter-Terrorist Financing (CTF), SocialChain collects personal information such as identity documents (including passport, driver's license, national identity card, state ID card, tax ID number, passport number, driver's license details, national identity card details, visa information, selfie images, selfie videos etc.), proof of address, source of fund declaration, purposes of fund documents, and source of wealth (\"KYC Data\"). This KYC data is collected and used solely to verify the identity of Pi Network members (\"Pioneers\"), and to be compliant with regulatory requirements and the SocialChain policy that only real human beings can receive Pi. SocialChain's KYC process is multifaceted and incorporates the use of real human beings and Al technology. We utilize AI technology in our KYC process for enhanced efficiency and security. Personal information collected for identity verification may be processed using AI algorithms. We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Information we collect from you includes:\n• Contact and identity information, such as your name, phone number, email address, Facebook name, username;\n•\n•\n•\nUser-created content, such as your chat messages, comments, likes, thumb-ups/downs, arts and graphics in social applications\nincluding chats and forums;\nNetwork information regarding transactions, such as transactions you send or receive.\nFeedback and correspondence, such as information you provide in your responses to surveys, when you participate in community\nresearch activities, report a problem with Service, receive customer support or otherwise correspond with us;\n• Marketing information, such your preferences for receiving marketing communications and ads and details about how you engage\nwith them.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "Separate from the personal data collected in our app and from other sources as set forth herein, and to comply with industry regulatory standards and government orders in different areas such as Anti-Money Laundering (AML), Know-Your-Client (KYC), and Counter-Terrorist Financing (CTF), SocialChain collects personal information such as identity documents (including passport, driver's license, national identity card, state ID card, tax ID number, passport number, driver's license details, national identity card details, visa information, selfie images, selfie videos etc.), proof of address, source of fund declaration, purposes of fund documents, and source of wealth (\"KYC Data\"). This KYC data is collected and used solely to verify the identity of Pi Network members (\"Pioneers\"), and to be compliant with regulatory requirements and the SocialChain policy that only real human beings can receive Pi. SocialChain's KYC process is multifaceted and incorporates the use of real human beings and Al technology. We utilize AI technology in our KYC process for enhanced efficiency and security. Personal information collected for identity verification may be processed using AI algorithms. We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location Information. By using our services, you acknowledge that we may collect information about your location. With your consent, we may also collect information about your precise location using methods that include GPS, wireless networks, cell towers, Wi-Fi access points, and other sensors, such as gyroscopes, accelerometers, and compasses. If you are a Pi Node -meaning you run the desktop software of Pi Node downloadable from link https://node.minepi.com/ - your IP address is public.",
+      "lang": "English"
+    }
+  ]
+}

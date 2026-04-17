@@ -1,0 +1,71 @@
+{
+  "sharedData": [
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "Advertising or marketing",
+      "type": "Location"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Name",
+      "optional": 1,
+      "purpose": "App functionality, Developer communications, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 1,
+      "purpose": "App functionality, Developer communications, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 1,
+      "purpose": "App functionality, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": 1,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics, Personalization",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.uefa.com/privacypolicy/"
+}

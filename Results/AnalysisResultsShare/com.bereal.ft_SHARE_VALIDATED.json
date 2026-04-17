@@ -1,0 +1,77 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "justification": "The privacy policy states personal information is shared with third-party 'Advertising Networks' and 'Data Analytics Providers' based on user 'activities'. This constitutes 'sharing' under Google Play's policy and was not declared.",
+      "how_to_fix": "In your app's Data Safety form, for the 'App interactions' data type, disclose that it is 'Shared' with third parties. Select 'Advertising or marketing' and 'Analytics' as the purposes for this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "justification": "The privacy policy states personal information is shared with third-party 'Advertising Networks' and 'Data Analytics Providers' based on user 'contents'. This constitutes 'sharing' under Google Play's policy and was not declared.",
+      "how_to_fix": "In your app's Data Safety form, for the 'Other user-generated content' data type, disclose that it is 'Shared' with third parties. Select 'Advertising or marketing' and 'Analytics' as the purposes for this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "justification": "The privacy policy states personal information is shared with third-party 'Advertising Networks' and 'Data Analytics Providers' based on user 'activities'. This constitutes 'sharing' under Google Play's policy and was not declared.",
+      "how_to_fix": "In your app's Data Safety form, for the 'Other actions' data type, disclose that it is 'Shared' with third parties. Select 'Advertising or marketing' and 'Analytics' as the purposes for this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "justification": "The privacy policy explicitly states that 'browsing history' is shared with third-party 'Advertising Networks'. This constitutes 'sharing' under Google Play's policy and was not declared.",
+      "how_to_fix": "In your app's Data Safety form, for the 'Web browsing history' data type, disclose that it is 'Shared' with third parties. Select 'Advertising or marketing' and 'Analytics' as the purposes for this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "justification": "The privacy policy states personal information is shared with 'Data Analytics Providers' to 'understand app...usage patterns and improve our services,' which typically includes crash data. This constitutes 'sharing' under Google Play's policy and was not declared.",
+      "how_to_fix": "In your app's Data Safety form, for the 'Crash logs' data type, disclose that it is 'Shared' with third parties. Select 'Analytics' as the purpose for this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In the past twelve (12) months, we have disclosed the following categories of personal\ninformation for business purposes:\n•\nIdentifiers such as IP address, online and device identifiers.",
+      "justification": "The privacy policy states that 'online and device identifiers' have been disclosed for business purposes. This constitutes 'sharing' under Google Play's policy and was not declared.",
+      "how_to_fix": "In your app's Data Safety form, for the 'Device or other IDs' data type, disclose that it is 'Shared' with third parties. Specify the purpose(s) for this sharing (e.g., 'Advertising or marketing', 'Analytics').",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "justification": "The privacy policy states personal information is shared with third-party 'Advertising Networks' based on user 'profile', which can include name. This constitutes 'sharing' under Google Play's policy and was not declared.",
+      "how_to_fix": "In your app's Data Safety form, for the 'Name' data type, disclose that it is 'Shared' with third parties. Select 'Advertising or marketing' and 'Analytics' as the purposes for this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "justification": "The privacy policy states personal information is shared with third-party 'Advertising Networks' based on user 'profile', which can include a phone number. This constitutes 'sharing' under Google Play's policy and was not declared.",
+      "how_to_fix": "In your app's Data Safety form, for the 'Phone number' data type, disclose that it is 'Shared' with third parties. Select 'Advertising or marketing' and 'Analytics' as the purposes for this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "justification": "The privacy policy states personal information is shared with third-party 'Advertising Networks' based on user 'contents', which can include photos. This constitutes 'sharing' under Google Play's policy and was not declared.",
+      "how_to_fix": "In your app's Data Safety form, for the 'Photos' data type, disclose that it is 'Shared' with third parties. Select 'Advertising or marketing' and 'Analytics' as the purposes for this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "justification": "The privacy policy states personal information is shared with third-party 'Advertising Networks' based on user 'contents', which can include videos. This constitutes 'sharing' under Google Play's policy and was not declared.",
+      "how_to_fix": "In your app's Data Safety form, for the 'Videos' data type, disclose that it is 'Shared' with third parties. Select 'Advertising or marketing' and 'Analytics' as the purposes for this sharing.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "User content: We will collect any user content you create, share, or post to the Application, which may include information contained in your user account, as well as text messages, voice input, photos or other image files and associated metadata. Please note that other users of the Application may be able to download and extract any images shared publicly on the Application.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "User content: We will collect any user content you create, share, or post to the Application, which may include information contained in your user account, as well as text messages, voice input, photos or other image files and associated metadata. Please note that other users of the Application may be able to download and extract any images shared publicly on the Application.",
+"lang": "en"
+}
+]
+}

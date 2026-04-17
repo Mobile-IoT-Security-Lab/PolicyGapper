@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Goodreads LLC is a subsidiary of Amazon.com, Inc. (\"Amazon\"). The information we collect is subject to the Amazon Privacy Notice, except as otherwise stated in this notice. By visiting or using Goodreads.com and related services (the \"Service\"), you are accepting the practices described in the Amazon Privacy Notice as supplemented by this notice (the \"Privacy Notice\"). Please note that, if you have an account on www.amazon.com, information gathered by Goodreads may be correlated with any personal information that Amazon.com has and used by Goodreads and Amazon to improve the services we offer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Goodreads LLC is a subsidiary of Amazon.com, Inc. (\"Amazon\"). The information we collect is subject to the Amazon Privacy Notice, except as otherwise stated in this notice. By visiting or using Goodreads.com and related services (the \"Service\"), you are accepting the practices described in the Amazon Privacy Notice as supplemented by this notice (the \"Privacy Notice\"). Please note that, if you have an account on www.amazon.com, information gathered by Goodreads may be correlated with any personal information that Amazon.com has and used by Goodreads and Amazon to improve the services we offer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Goodreads LLC is a subsidiary of Amazon.com, Inc. (\"Amazon\"). The information we collect is subject to the Amazon Privacy Notice, except as otherwise stated in this notice. By visiting or using Goodreads.com and related services (the \"Service\"), you are accepting the practices described in the Amazon Privacy Notice as supplemented by this notice (the \"Privacy Notice\"). Please note that, if you have an account on www.amazon.com, information gathered by Goodreads may be correlated with any personal information that Amazon.com has and used by Goodreads and Amazon to improve the services we offer.",
+      "lang": "English"
+    }
+  ]
+}

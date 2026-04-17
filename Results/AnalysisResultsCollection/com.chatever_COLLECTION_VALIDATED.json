@@ -1,0 +1,150 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "9.1. In order to guarantee an optimal level of usability and performance and to ensure relevance of promoted services, the Company uses cookies and similar technologies in order to track the interaction of Clients with the App. This section explains the different types of cookies that may be set when the Client uses the App, helping to understand and manage them as he/she wishes.",
+      "justification": "The policy states the app uses technologies to track user interaction, which implies data is sent off-device for analysis. This does not qualify for an on-device processing exemption.",
+      "how_to_fix": "Declare 'App interactions' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "b. When completing his/her profile, the Client could provide additional information, such as details on his/her physical characteristics (including height, weight, body type and sexual preferences), background (including education, financial situation, housing situation and ownership of a vehicle), personality (including purpose of acquaintance, sociability and attitude towards children), lifestyle (including attitude towards alcohol and smoking), date of birth, interests and other details about the Client, as well as content, such as pictures and photos.",
+      "justification": "The policy describes user-provided profile information and content like photos. This data is stored on a server to operate the service and is considered collected.",
+      "how_to_fix": "Declare 'Other user-generated content' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Internet or Other Electronic Network Activity : Includes device identifiers, application usage data, and connection information (e.g., technical data from the Client's device and internet connection).",
+      "justification": "The policy explicitly mentions collecting 'application usage data' and 'connection information', which falls under 'Other actions' and is sent off-device.",
+      "how_to_fix": "Declare 'Other actions' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "c. Third-party analytics services. The Company uses the following services (list of services is provided alongside with privacy policies of the relevant services):\n•\nAppmetrica -\nhttps://metrica.yandex.com/about/info/privacy-policy\n•\nAppsFlyer -\nhttps://www.appsflyer.com/services-privacy-policy.",
+      "justification": "The use of third-party analytics services like AppMetrica and AppsFlyer involves sending performance and crash data off-device for analysis.",
+      "how_to_fix": "Declare 'Crash logs' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "c. Third-party analytics services. The Company uses the following services (list of services is provided alongside with privacy policies of the relevant services):\n•\nAppmetrica -\nhttps://metrica.yandex.com/about/info/privacy-policy\n•\nAppsFlyer -\nhttps://www.appsflyer.com/services-privacy-policy.",
+      "justification": "The use of third-party analytics services like AppMetrica and AppsFlyer involves sending diagnostic data off-device for analysis.",
+      "how_to_fix": "Declare 'Diagnostics' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "c. Third-party analytics services. The Company uses the following services (list of services is provided alongside with privacy policies of the relevant services):\n•\nAppmetrica -\nhttps://metrica.yandex.com/about/info/privacy-policy\n•\nAppsFlyer -\nhttps://www.appsflyer.com/services-privacy-policy.",
+      "justification": "The use of third-party analytics services like AppMetrica and AppsFlyer involves sending app performance data off-device for analysis.",
+      "how_to_fix": "Declare 'Other app performance data' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "When the Client is using the Company's App, the Service may collect data regarding the device(s) the Client uses to access the Service (such as his/her IP address, device identifier (including unique advertising device identifiers, for example Google Advertiser ID and IDFA), technical and statistical data (including data about the Internet connection, cellular service provider and application usage data) and location data (upon a separate consent from the Client).",
+      "justification": "The policy explicitly states that the service collects device identifiers like Google Advertiser ID and IDFA, which are sent off-device.",
+      "how_to_fix": "Declare 'Device or other IDs' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "a. When creating an account, the Client provides the Service with at least his/her login credentials (including unique username and password combination for the Client's account), as well as basic details necessary for the Service to work, such as the Client's name, gender and age.",
+      "justification": "The policy states that the user's name is provided during account creation, which means it is sent to and stored on your servers.",
+      "how_to_fix": "Declare 'Name' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "The following information could be received by the Client from the social network: the Client's name, ID within the respective social network, photo, email address, IP address, phone number, age, gender, preferred language, country, information about the Client's device, location, list of friends in the social network, data on the use of other networks (as contained in the respective social network). By connecting his/her Client's account with the Company to a social network, the Client gives an explicit consent to the processing of the Client's Personal Data contained in his/her account in the respective social network.",
+      "justification": "The policy states that the user's email address is collected from a social network for account purposes, meaning it is sent to and stored on your servers.",
+      "how_to_fix": "Declare 'Email address' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "The following information could be received by the Client from the social network: the Client's name, ID within the respective social network, photo, email address, IP address, phone number, age, gender, preferred language, country, information about the Client's device, location, list of friends in the social network, data on the use of other networks (as contained in the respective social network). By connecting his/her Client's account with the Company to a social network, the Client gives an explicit consent to the processing of the Client's Personal Data contained in his/her account in the respective social network.",
+      "justification": "The policy states that the user's phone number can be collected from a social network for account purposes, meaning it is sent to and stored on your servers.",
+      "how_to_fix": "Declare 'Phone number' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Some of the information provided by the Client may be referred to as belonging to Special categories of Personal Data, pursuant to legislation of certain jurisdictions, such as the Client's racial or ethnic origin, sexual orientation, political opinions or religious or philosophical beliefs. By placing such information in Client's account, the Client consents to the processing of the information by the Service.",
+      "justification": "The policy states users can provide information about their racial or ethnic origin in their account, which is processed by the service and stored off-device.",
+      "how_to_fix": "Declare 'Race and ethnicity' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Some of the information provided by the Client may be referred to as belonging to Special categories of Personal Data, pursuant to legislation of certain jurisdictions, such as the Client's racial or ethnic origin, sexual orientation, political opinions or religious or philosophical beliefs. By placing such information in Client's account, the Client consents to the processing of the information by the Service.",
+      "justification": "The policy states users can provide information about their political opinions or religious beliefs in their account, which is processed by the service and stored off-device.",
+      "how_to_fix": "Declare 'Political or religious beliefs' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Some of the information provided by the Client may be referred to as belonging to Special categories of Personal Data, pursuant to legislation of certain jurisdictions, such as the Client's racial or ethnic origin, sexual orientation, political opinions or religious or philosophical beliefs. By placing such information in Client's account, the Client consents to the processing of the information by the Service.",
+      "justification": "The policy states users can provide information about their sexual orientation in their account, which is processed by the service and stored off-device.",
+      "how_to_fix": "Declare 'Sexual orientation' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "b. When completing his/her profile, the Client could provide additional information, such as details on his/her physical characteristics (including height, weight, body type and sexual preferences), background (including education, financial situation, housing situation and ownership of a vehicle), personality (including purpose of acquaintance, sociability and attitude towards children), lifestyle (including attitude towards alcohol and smoking), date of birth, interests and other details about the Client, as well as content, such as pictures and photos.",
+      "justification": "The policy describes a wide range of user-provided profile information (e.g., lifestyle, background, interests) that is stored on a server to operate the service and is considered collected.",
+      "how_to_fix": "Declare 'Other info' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "f. Partners. The Company_may engage its partner APPLICAVE LLC, a company incorporated in the USA under Business ID 202003171380935 with its principal place of business at 9165 Otis Ave, Suite 238, Indianapolis, IN 46216, USA, to facilitate payment processing in certain jurisdictions. In scope of this engagement, APPLICAVE LLC may collect and process Client's data and in this case it will act as a Data Processor.",
+      "justification": "The policy states that a partner is engaged to facilitate payment processing and may collect and process client data. This constitutes the collection of user payment information.",
+      "how_to_fix": "Declare 'User payment info' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "b. When completing his/her profile, the Client could provide additional information, such as details on his/her physical characteristics (including height, weight, body type and sexual preferences), background (including education, financial situation, housing situation and ownership of a vehicle), personality (including purpose of acquaintance, sociability and attitude towards children), lifestyle (including attitude towards alcohol and smoking), date of birth, interests and other details about the Client, as well as content, such as pictures and photos.",
+      "justification": "The policy states users can provide information about their 'financial situation' in their profile, which is stored off-device.",
+      "how_to_fix": "Declare 'Other financial info' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "b. When completing his/her profile, the Client could provide additional information, such as details on his/her physical characteristics (including height, weight, body type and sexual preferences), background (including education, financial situation, housing situation and ownership of a vehicle), personality (including purpose of acquaintance, sociability and attitude towards children), lifestyle (including attitude towards alcohol and smoking), date of birth, interests and other details about the Client, as well as content, such as pictures and photos.",
+      "justification": "The policy explicitly states that users can provide 'pictures and photos' for their profile. This content is sent off-device and stored on your servers.",
+      "how_to_fix": "Declare 'Photos' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "f. When communicating with other Clients through a chat in the App: the contents of the relevant chat (including cases when such contents include Personal Data);",
+      "justification": "The policy states that the 'contents of the relevant chat' are collected. Since there is no mention of end-to-end encryption where the developer cannot access the data, this must be declared as collected.",
+      "how_to_fix": "Declare 'Other in-app messages' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "The Client can connect Client's account to a social network (including but not limited to Facebook) by way of registering through the corresponding social network. After connecting his/her account in a social network, the Client would be able to add the personal information from his/her profile in corresponding social network to his/her profile in the Service. The following information could be received by the Client from the social network: the Client's name, ID within the respective social network, photo, email address, IP address, phone number, age, gender, preferred language, country, information about the Client's device, location, list of friends in the social network, data on the use of other networks (as contained in the respective social network). By connecting his/her Client's account with the Company to a social network, the Client gives an explicit consent to the processing of the Client's Personal Data contained in his/her account in the respective social network.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy reference mentions collecting the user's 'email address', not the content of their emails (e.g., subject, body). The 'Emails' data type in Data Safety refers to email content.",
+      "how_to_fix": "No action needed.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "The Client can connect Client's account to a social network (including but not limited to Facebook) by way of registering through the corresponding social network. After connecting his/her account in a social network, the Client would be able to add the personal information from his/her profile in corresponding social network to his/her profile in the Service. The following information could be received by the Client from the social network: the Client's name, ID within the respective social network, photo, email address, IP address, phone number, age, gender, preferred language, country, information about the Client's device, location, list of friends in the social network, data on the use of other networks (as contained in the respective social network). By connecting his/her Client's account with the Company to a social network, the Client gives an explicit consent to the processing of the Client's Personal Data contained in his/her account in the respective social network.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy reference mentions collecting a 'list of friends in the social network'. This is not equivalent to accessing the user's device contacts list, which is what the 'Contacts' data type refers to in Data Safety.",
+      "how_to_fix": "No action needed.",
+      "lang": "en"
+    }
+  ]
+}
+```

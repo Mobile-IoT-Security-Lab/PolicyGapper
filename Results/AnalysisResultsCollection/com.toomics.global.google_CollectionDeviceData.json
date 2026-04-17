@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "- When using the Service - Means of register, date of register, IP Address, cookie, date of visit, service usage record, malfunction record, device information and etc.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "- When using the Service - Means of register, date of register, IP Address, cookie, date of visit, service usage record, malfunction record, device information and etc.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "- When using the Service - Means of register, date of register, IP Address, cookie, date of visit, service usage record, malfunction record, device information and etc.",
+      "lang": "English"
+    }
+  ]
+}

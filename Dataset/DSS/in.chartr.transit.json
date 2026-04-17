@@ -1,0 +1,22 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://chartr.in/privacy-policy.txt"
+}

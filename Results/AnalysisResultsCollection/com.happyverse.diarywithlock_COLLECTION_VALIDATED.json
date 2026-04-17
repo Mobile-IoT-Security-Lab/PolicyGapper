@@ -1,0 +1,37 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use AdMob, Facebook Audience Network, Applovin, Mopub, Pangle, Unity, LiftOff to display ad banners and other advertisements possibly based on your interests. AdMob, Facebook Audience Network, Applovin, Mopub, Pangle, Unity, LiftOff may or may not use cookies to identify users and they may use the behavioural retargeting technique, i.e. displaying ads tailored to your interests and behaviour, including those detected outside our app. For example, if you've previously visited e-shop selling shoes you might see more ads promoting shoes or shoe shops. The app does not knowingly collect or use personal data from children under the age of 17.",
+      "justification": "The policy states that third-party ad networks use behavioral retargeting based on user interests and behavior detected outside the app. This implies the collection and off-device processing of web browsing history, which is not exempt from declaration.",
+      "how_to_fix": "Declare 'Web browsing history' as collected in your app's Data Safety section on the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We obtain your email address when you request support via email.",
+      "justification": "The policy states the developer obtains the user's email address when they contact support. This data is sent off-device to the developer and is not processed solely on-device or end-to-end encrypted in a way that makes it unreadable to the developer. Therefore, it is not exempt.",
+      "how_to_fix": "Declare 'Email address' as collected in your app's Data Safety section on the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "IP address We collect IP addresses provided by your browser or mobile device to deliver the service to your device. We also use the IP address to determine your approximate location for statistical and analytics purposes, and for regulatory compliance in different countries. To be clear, we do not collect your precise location.",
+      "justification": "The policy states that the user's IP address is collected and used to determine their approximate location for analytics and compliance. This involves sending the IP address off-device for processing and does not qualify for any exemptions.",
+      "how_to_fix": "Declare 'Approximate location' as collected in your app's Data Safety section on the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "We obtain your email address when you request support via email.",
+      "reason_of_removal": "Inconsistent: Policy only mentions collecting 'email address', not the content of 'emails'.",
+      "justification": "The privacy policy states the collection of the user's 'email address' for support. The data type 'Emails' implies collection of email content (subject, body), which is not supported by the policy text.",
+      "how_to_fix": "If you only collect the email address, declare 'Email address'. If you collect email content, update your privacy policy to be explicit about it.",
+      "lang": "en"
+    }
+  ]
+}
+```

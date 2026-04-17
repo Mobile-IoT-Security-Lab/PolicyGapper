@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "When we provide you with relevant advertising on third-party sites and applications, we may share limited personal information about you, such as certain identifiers or hashed email address, with third parties. We may also share such information to provide you with and to measure relevant third-party advertising on our sites and applications. To learn more about how we use your information for personalization and tracking, please visit Online Tracking Technologies and Advertising (https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/).",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "When we provide you with relevant advertising on third-party sites and applications, we may share limited personal information about you, such as certain identifiers or hashed email address, with third parties. We may also share such information to provide you with and to measure relevant third-party advertising on our sites and applications. To learn more about how we use your information for personalization and tracking, please visit Online Tracking Technologies and Advertising (https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "When we provide you with relevant advertising on third-party sites and applications, we may share limited personal information about you, such as certain identifiers or hashed email address, with third parties. We may also share such information to provide you with and to measure relevant third-party advertising on our sites and applications. To learn more about how we use your information for personalization and tracking, please visit Online Tracking Technologies and Advertising (https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/).",
+      "lang": "English"
+    }
+  ]
+}

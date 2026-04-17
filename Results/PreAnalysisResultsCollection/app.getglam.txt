@@ -1,0 +1,333 @@
+A small note on how Al Avatars feature works:
+1. GLAM uses a Neural Network Model Stable Diffusion that allows users to generate personalized Al
+Avatars ("Avatars").
+2. Users upload 10 to 20 photos and select their gender.
+3. Using these data, a copy of the Stable Diffusion model is retrained to personalize the model
+4. After the model copy is retrained, it generates the Avatars
+5. After the Al Avatars are generated, the model copy, along with uploaded photos, are deleted
+permanently from our servers.
+6. We do not use your Personal Data to generally train and/or create our separate artificial
+intelligence/products.
+--- [PAGE BREAK] ---
+Information collected and stored by Glam Labs
+In order to carry out the Services of Glam Labs and to provide a great user experience, we will collect and
+store the following information about you:
+---
+Personal Information, that may be used to identify you as an
+individual
+(Personal information is any information related to an identified or identifiable natural person).
+•
+•
+•
+First and Last Name;
+Profile Picture or Avatar;
+Profile Information from Third-Party Social Media and Payment Websites;
+•
+Your Email Address;
+•
+IP Address;
+•
+Your gender
+---
+Other information that may be linked to personal information
+•
+Content You Post Publicly or Privately on Your Glam Labs Account;
+•
+Searches Completed through the Website;
+•
+Preference Settings;
+•
+Stored Information or Files Created or Stored on Website or through the Services;
+• Any Emails You Send to Glam Labs;
+•
+Times of Access to Website;
+•
+Websites that Referred to Glam Labs;
+•
+Your Operating System Type
+---
+How we collect your personal information
+Glam Labs collects personal information from you upon your registration for our Services and upon your
+log-in to or accessing of GLAM, our Website or Services. We collect any additional information about you
+when you interact with us electronically or in person, when you access GLAM, or our Website and when we
+provide our Services to you.
+--- [PAGE BREAK] ---
+It may not be readily apparent to you when such data is being collected. For instance, when you visit our
+Website or download or use GLAM, your IP address is collected so that we know where to send information
+you are requesting. An IP address is a number that is used by computers on the network to identify your
+computer every time you log on to the Internet.
+---
+Al Avatars: In order to generate Al Avatars, you have to upload 10-20 photos to GLAM. At this point, your
+photos are stored on our servers (provided by Amazon Web Services (USA)). Then, a copy of the Stable
+Diffusion model is created to be retrained with your photos to personalize the model and to create your
+Avatars. Immediately after the successful generation of Avatars, your original photos are deleted from our
+servers. Your purchased Avatars are stored on our servers so that they remain accessible to you in GLAM at
+any time and from any device until you decide to delete them.
+---
+How we process your photos
+With regard to your photos, most processing activities take place on your device, however there are
+exceptions to this rule when you generate Al avatars. When you generate Al avatars, the photos that you
+have uploaded to GLAM or those selected by GLAM from your cameral roll/ library are stored on our servers
+(provided by Amazon Web Services (USA)). Then, a copy of the Stable Diffusion model is created to be
+retrained with your photos to personalize the model and to create your Avatars. Immediately after the
+successful generation of Avatars, your original photos are deleted from our servers. Your purchased Avatars
+are stored on our servers so that they remain accessible to you in GLAM at any time and from any device
+until you decide to delete them.
+---
+Why we collect your personal information
+We process your personal information because we have a contractual obligation with you. When you create
+an account to use GLAM (required for any paid subscriptions), or our Website and Services, and agree to
+our Terms of Service, a contract is formed between you and us. In order to carry out our contractual
+obligations we need to process the information you provide, which also includes personal information. Even
+if there is no direct contractual obligation between us, we may process your information based on your
+explicit consent you have provided (to us or a third-party data controller) for the processing of that
+information.
+---
+How we use your personal information
+We will use the personal information collected from you:
+•
+to administer your account with us and provide you with our Services;
+•
+to respond to your inquiries and deliver reminder e-mails to you;
+--- [PAGE BREAK] ---
+•
+•
+•
+•
+to provide you with information regarding updates and changes to GLAM, our Website, our Terms of
+Service or any Services we offer or provide through it;
+to improve our products and Services;
+to provide personalized experience for you upon use of our Services;
+Information about your gender: When you use our Al Avatars feature, we ask you about your gender.
+This information is used by the Al model solely to generate the Avatars in accordance with the
+indicated gender: for example, if you choose to identify your gender as a female, then you will receive
+conventionally more feminine-like Avatars.
+---
+Additionally, we may use anonymized information we have collected from you to enable us to display
+advertisements to our advertisers' target audiences. Even though we do not disclose your personal
+information for these purposes without your consent, if you click on or otherwise interact with an
+advertisement, the advertiser may assume that you meet its target criteria.
+---
+When you choose to use the Al Avatars feature, you provide your gender identification, which is used to
+retrain the separate copy of the Stable Diffusion model to generate Avatars based on your particular
+photos. It is our contractual obligation to ensure that we provide you with the requested service. This data
+is deleted immediately after the Avatars are successfully generated.
+--- [PAGE BREAK] ---
+Right to access and control your data
+We provide you with many choices about the collection, use and sharing of your data, from deleting or
+correcting data you include in your profile and controlling the visibility of your posts and communication
+controls. We will provide you with access to your personal information that we store and allow you to:
+---
+5. We provide our California consumers with detailed information about the categories of personal
+information you have collected in the past 12 months.
+---
+Cookies and tracking technologies
+We collect information about you using "cookies." Cookies are small data files stored on your hard drive by a
+Website. The cookies that we use are for authentication purposes (to facilitate your log-in) and session
+cookies (to recognize your preferences while navigating through the Website).
+---
+Usually the information that we collect automatically through cookies is statistical data and cannot be used
+to identify you as an individual. It helps us to improve our App(s), Website and Services and to deliver a
+better and more personalized service.
+---
+When you first visit our Website, we ask you whether you wish us to use cookies. If you choose not to
+accept them, we shall not use them for your visit except to record that you have not consented to their use
+for any other purpose. If you choose not to use cookies or you prevent their use through your browser
+settings, you will not be able to use all the functionality of our Website or Services.
+---
+•
+All information you provide to us is stored, if at all, on a secure database behind a Virtual Private
+Network;
+--- [PAGE BREAK] ---
+Commercial and non-commercial communication
+By providing information to the Website or through our App(s) or Services, such as signing up for a
+newsletter or an account, you have agreed to receive e-mail communication from us. However, you may
+unsubscribe from certain communications by notifying Glam Labs that you no longer wish to receive
+solicitations or commercial information. Glam Labs will remove you from the database, where you have the
+right to request this under the Privacy Policy, Terms of Use, or applicable law, or where Glam Labs
+voluntarily decides to grant the request.
+---
+Children's online privacy protection act
+The Glam Labs Website, App(s) and Services are directed to persons over the age of 13. Glam Labs does not
+knowingly collect information from children under 13 years of age or have any reasonable grounds for
+believing that persons under the age of 13 are accessing the Website, or our Services or App(s). If Glam Labs
+discovers any inadvertently collected Personal Information of a person under the age of 13, that information
+will be swiftly deleted from its' records. If you believe that Glam Labs may have any information from a
+person under age 13, please contact Glam Labs at: contact@glamlabs.app
+--- [PAGE BREAK] ---
+collect, how we use it, and under what circumstances, if any, we disclose it.
+---
+[SECTION: Privacy notice for california residents under the California Consumer Privacy Act]
+1. Categories of Information We Collect
+Our Website, App(s) and Services collect information that identifies, relates to, describes, references, is
+capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular
+consumer or device ("personal information"). In particular, our Website, Services and App(s) have collected
+the following categories of personal information from its consumers within the last twelve (12) months:
+1). Identifiers, such as: names, e-mail addresses, Internet Protocol addresses, or other similar identifiers.
+Collected: YES
+2) Personal information categories listed in the California Customer Records statute (Cal. Civ. Code
+§1798.80(e)) such as: a name, signature, Social Security number, physical characteristics or description,
+address, telephone number, passport number, driver's license or state identification card number, insurance
+policy number, education, employment, employment history, bank account number, credit card number,
+debit card number, or any other financial information, medical information, or health insurance information.
+Some personal information included in this category may overlap with other categories.
+Collected: YES
+--- [PAGE BREAK] ---
+4) Commercial information obtained, purchased or considered, such as records of personal property,
+records of products or Services purchased or other purchasing or use histories or tendencies
+Collected: YES
+---
+6) Activity information relating to internet or other electronic networks such as browsing or searching
+history, or interaction with a Website, ad, or app
+Collected: YES
+---
+8) Audio, visual, thermal, electronic, olfactory or other similar information
+Collected: YES
+--- [PAGE BREAK] ---
+3. We obtain the categories of personal information listed above
+from the following categories of sources:
+•
+•
+•
+Directly from you. For example, from forms you complete on our Website or through our App(s) or
+Services.
+Indirectly from you. For example, from observing your actions on our Website or through the use of our
+App(s) or Services or interactions with our advertisers.
+From social media websites that you use to log in or subscribe to our Website, App(s), or Services.
+---
+4. Use of Personal Information
+We may use, or disclose the personal information we collect for one or more of the following business
+purposes:
+---
+•
+As described to you when collecting your personal information or as otherwise set forth in the CCPA.
+•
+We will not collect additional categories of personal information or use the personal information we
+collected for materially different, unrelated, or incompatible purposes without providing you notice.
+---
+We will not collect additional categories of personal information or use the personal information we
+collected for materially different, unrelated, or incompatible purposes without providing you notice.
+--- [PAGE BREAK] ---
+1) Access to Specific Information and Data Portability Rights. You have the right to request that we disclose
+certain information to you about our collection and use of your personal information over the past 12
+months. Once we receive and confirm your verifiable consumer request, we will disclose to you:
+•
+•
+•
+•
+•
+•
+The categories of personal information we collected about you.
+The categories of sources for the personal information we collected about you.
+Our business or commercial purpose for collecting or selling that personal information.
+The categories of third parties with whom we share that personal information.
+The specific pieces of personal information we collected about you (also called a data portability
+request).
+If we sold or disclosed your personal information for a business purpose, two separate lists disclosing: (i)
+sales, identifying the personal information categories that each category of recipient purchased; and (ii)
+disclosures for a business purpose, identifying the personal information categories that each category
+of recipient obtained.
+---
+2) Deletion Request Rights. You have the right to request that we delete any of your personal information
+that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your
+verifiable consumer request, we will delete (and direct our service providers to delete) your personal
+information from our records, unless an exception applies.
+---
+• Complete the transaction for which we collected the personal information, provide a good or service
+that you requested, take actions reasonably anticipated within the context of our ongoing business
+relationship with you, or otherwise perform our contract with you.
+--- [PAGE BREAK] ---
+•
+Provide sufficient information that allows us to reasonably verify you are the person about whom we
+collected personal information or an authorized representative.
+---
+Once you make an opt-out request, we will wait at least twelve (12) months before asking you to reauthorize
+personal information sales. However, you may change your mind and opt back into personal information
+sales at any time by visiting our Website and sending us a message. We will only use personal information
+provided in an opt-out request to review and comply with the request.
+--- [PAGE BREAK] ---
+4. Data Retention and Disposal: We retain personal information only as long as necessary for the purpose
+for which it was collected. When no longer required, data is either securely destroyed or de-identified, in
+accordance with APP 11.2.
+---
+5. Sensitive Information (Gender): When you provide information such as your gender for use with Al
+Avatars, this is treated as sensitive information under Australian privacy law. We collect and use this data
+only with your express consent and solely for the purpose of generating personalized Avatars.
+---
+[SECTION: Canadian (PIPEDA) Compliance]
+3. Full Purposes of Data Use: We collect your personal data for account registration, customer support, Al
+photo generation, analytics, and service improvement. Each purpose is limited, transparent, and
+communicated prior to use, as required under PIPEDA.
+---
+4. Consent Mechanisms: We obtain your informed consent before processing your photos, videos, or
+gender information for Al features. You may withdraw consent at any time via the app or by emailing us.
+---
+Enhanced Cookie Consent
+Enhanced Cookie Consent – UK/AUS/CA: When you visit our site, a cookie banner will inform you of
+cookie usage and allow you to accept or reject non-essential cookies. Essential cookies are necessary for
+functionality. Disabling them may limit access to some site features.
+--- [PAGE BREAK] ---
+Sharing of Consumption Data for Refunds: If you request a refund for an in-app purchase through Apple's
+App Store, we may provide Apple with certain information regarding your usage of the app and the specific
+in-app purchase. This information may include:
+•
+The time elapsed since installation
+•
+Total time the app was used
+• Anonymous account identifiers
+•
+Whether the in-app purchase was consumed
+•
+Whether a free trial was used
+•
+Total purchase amount
+•
+Total amount previously refunded
+--- [PAGE BREAK] ---
+Cookie Management and Consent
+Cookie Categories
+1. Essential Cookies (No Consent Required)
+• Security
+• Load balancing
+• User authentication
+2. Functional Cookies (Consent Required)
+• Language preferences
+• User customization
+• Session management
+3. Analytics Cookies (Consent Required)
+• Usage statistics
+• Performance monitoring
+• Error tracking
+4. Marketing Cookies (Explicit Consent Required)
+• Advertising
+• Social media integration
+• Behavioral tracking
+--- [PAGE BREAK] ---
+Data Retention Periods
+We retain your data for the following periods:
+1. Account Data
+•
+Active accounts: Duration of account existence
+•
+Deleted accounts: 30 days after deletion
+•
+Payment information: 7 years (legal requirement)
+2. Usage Data
+•
+Login records: 90 days
+• Activity logs: 30 days
+•
+Error logs: 60 days
+3. Communication Records
+•
+Support tickets: 2 years
+•
+Email correspondence: 1 year
+•
+Chat logs: 90 days
+4. Al-Generated Content
+•
+Generated images: 30 days
+• Training data: Deleted immediately after processing
+•
+Model data: Not retained

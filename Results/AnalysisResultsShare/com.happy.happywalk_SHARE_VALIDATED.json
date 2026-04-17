@@ -1,0 +1,37 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We will not rent or sell your personal data to third parties, but for your better use of the services provided by third-party organizations we may share your information from tools like device identifiers and location data, with third-party organizations that provide automatic data processing technologies for the App or providing service to the App. We do not have power to control or influence these third parties' tracking technologies or how they may be used. Therefore, if you do not want to share your personal data with any third-party organizations, please contact us for more details or do not use such service provided by that third-party organizations.",
+      "justification": "The policy states data like 'device identifiers' is shared with third parties. It also states, 'We do not have power to control or influence these third parties' tracking technologies or how they may be used,' which disqualifies them from the 'service provider' exemption. This constitutes declarable 'sharing'.",
+      "how_to_fix": "Declare in your app's Data Safety section that 'Device or other IDs' are 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We will share your information with third parties only in the ways that are described in this Privacy Policy.\nWe will not rent or sell your personal data to third parties, but for your better use of the services provided by third-\nparty organizations we may share your information from tools like device identifiers and location data, with third-party\norganizations that provide automatic data processing technologies for the App or providing service to the App. We do\nnot have power to control or influence these third parties' tracking technologies or how they may be used. Therefore,\nif you do not want to share your personal data with any third-party organizations, please contact us for more details\nor do not use such service provided by that third-party organizations.",
+      "justification": "The policy states 'location data' is shared with third parties. It also states, 'We do not have power to control or influence these third parties' tracking technologies or how they may be used,' which disqualifies them from the 'service provider' exemption. This constitutes declarable 'sharing'.",
+      "how_to_fix": "Declare in your app's Data Safety section that 'Approximate location' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We will share your information with third parties only in the ways that are described in this Privacy Policy.\nWe will not rent or sell your personal data to third parties, but for your better use of the services provided by third-\nparty organizations we may share your information from tools like device identifiers and location data, with third-party\norganizations that provide automatic data processing technologies for the App or providing service to the App. We do\nnot have power to control or influence these third parties' tracking technologies or how they may be used. Therefore,\nif you do not want to share your personal data with any third-party organizations, please contact us for more details\nor do not use such service provided by that third-party organizations.",
+      "justification": "The policy states 'location data' is shared with third parties. It also states, 'We do not have power to control or influence these third parties' tracking technologies or how they may be used,' which disqualifies them from the 'service provider' exemption. This constitutes declarable 'sharing'.",
+      "how_to_fix": "Declare in your app's Data Safety section that 'Precise location' is 'Shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We will share your information with third parties only in the ways that are described in this Privacy Policy.\nWe will not rent or sell your personal data to third parties, but for your better use of the services provided by third-\nparty organizations we may share your information from tools like device identifiers and location data, with third-party\norganizations that provide automatic data processing technologies for the App or providing service to the App. We do\nnot have power to control or influence these third parties' tracking technologies or how they may be used. Therefore,\nif you do not want to share your personal data with any third-party organizations, please contact us for more details\nor do not use such service provided by that third-party organizations.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy reference explicitly mentions sharing 'device identifiers and location data' but does not mention sharing 'User IDs'.",
+      "how_to_fix": "No action required based on the current policy text. If User IDs are indeed shared, the privacy policy must be updated to explicitly state this.",
+      "lang": "English"
+    }
+  ]
+}
+```

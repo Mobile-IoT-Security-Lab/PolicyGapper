@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We collect some usage data, such as which features are used and how often. We use this data in aggregate to know what to improve, refactor or remove from the application. We collect a unique user identifier to identify repeated sessions for a given user. We don't cross-reference this identifier with any identifying information. Analytics data is kept for 2 years.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Your documents are uploaded to our backend for backup and synchronization. Your data is encrypted during transmission and at rest. Your documents are retained while you have an active subscription or until deleted. When your account becomes inactive, it's scheduled for deletion within two years. We collect some logs to debug problems in our servers. These logs are archived for up to a year.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "When you create an account, we keep some information (email address, device info, IP address) to help you manage your account and ensure security.",
+      "lang": "English"
+    }
+  ]
+}

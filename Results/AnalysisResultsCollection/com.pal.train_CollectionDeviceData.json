@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• Information that is searched for or browsed when you use our services, such as web pages used or terms searched and pages visited through the app, as well as other information browsed or provided when using our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• Information contained in the content you share through our services, such as a photo shared or uploaded, comments, and dates and times, etc.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• Information that is searched for or browsed when you use our services, such as web pages used or terms searched and pages visited through the app, as well as other information browsed or provided when using our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Information that is searched for or browsed when you use our services, such as web pages used or terms searched and pages visited through the app, as well as other information browsed or provided when using our Services.",
+      "lang": "English"
+    }
+  ]
+}

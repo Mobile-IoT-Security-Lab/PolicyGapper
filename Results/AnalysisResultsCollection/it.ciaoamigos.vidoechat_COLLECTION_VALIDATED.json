@@ -1,0 +1,121 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Raccogliamo dati di log quando interagisci con i nostri servizi, anche se non hai creato un account. Questi dati possono includere il tuo indirizzo IP, tipo di browser, sistema operativo, pagina di riferimento, pagine visitate, posizione, operatore telefonico, informazioni sul dispositivo e termini di ricerca. Utilizziamo questi dati per comprendere le tue preferenze e migliorare i contenuti e gli annunci che ti vengono mostrati. I dati di log non vengono associati al tuo profilo personale e sono utilizzati principalmente per scopi statistici.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Raccogliamo dati di log quando interagisci con i nostri servizi, anche se non hai creato un account. Questi dati possono includere il tuo indirizzo IP, tipo di browser, sistema operativo, pagina di riferimento, pagine visitate, posizione, operatore telefonico, informazioni sul dispositivo e termini di ricerca. Utilizziamo questi dati per comprendere le tue preferenze e migliorare i contenuti e gli annunci che ti vengono mostrati. I dati di log non vengono associati al tuo profilo personale e sono utilizzati principalmente per scopi statistici.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Videochat, Profilo e altre Informazioni Pubbliche: CiaoAmigos.it è progettato principalmente per consentirti di condividere informazioni all'interno della community. Le informazioni che ci fornisci tramite la nostra piattaforma, come il profilo e i dati che decidi di condividere, sono visibili solo agli utenti registrati. Puoi fornirci informazioni di profilo, come una tua breve descrizione, la tua posizione, la tua preferenza sessuale o una tua foto. Le tue informazioni pubbliche includono i commenti che scrivi all'interno della community, le informazioni sul tuo account come l'ora di creazione, la lingua, il Paese e il fuso orario.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Monitoriamo le interazioni con i link presenti nei nostri servizi, comprese le notifiche e-mail, i servizi di terze parti e le applicazioni client, attraverso metodi come il tracciamento dei clic. Questo ci aiuta a migliorare i nostri servizi, a fornire pubblicità più mirate e a condividere statistiche aggregate sui clic, come la frequenza di clic su link specifici. Se clicchi su un link esterno o su un annuncio pubblicitario tramite i nostri servizi, l'operatore pubblicitario o il sito web collegato potrebbe scoprire che sei arrivato tramite ciaoaMigos.it e raccogliere ulteriori informazioni sull'annuncio su cui hai cliccato, come dati demografici del pubblico. Potrebbero inoltre raccogliere altri dati personali, come cookie, identificatori e indirizzo IP.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Raccogliamo dati di log quando interagisci con i nostri servizi, anche se non hai creato un account. Questi dati possono includere il tuo indirizzo IP, tipo di browser, sistema operativo, pagina di riferimento, pagine visitate, posizione, operatore telefonico, informazioni sul dispositivo e termini di ricerca. Utilizziamo questi dati per comprendere le tue preferenze e migliorare i contenuti e gli annunci che ti vengono mostrati. I dati di log non vengono associati al tuo profilo personale e sono utilizzati principalmente per scopi statistici.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Raccogliamo dati di log quando interagisci con i nostri servizi, anche se non hai creato un account. Questi dati possono includere il tuo indirizzo IP, tipo di browser, sistema operativo, pagina di riferimento, pagine visitate, posizione, operatore telefonico, informazioni sul dispositivo e termini di ricerca. Utilizziamo questi dati per comprendere le tue preferenze e migliorare i contenuti e gli annunci che ti vengono mostrati. I dati di log non vengono associati al tuo profilo personale e sono utilizzati principalmente per scopi statistici.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Raccogliamo dati di log quando interagisci con i nostri servizi, anche se non hai creato un account. Questi dati possono includere il tuo indirizzo IP, tipo di browser, sistema operativo, pagina di riferimento, pagine visitate, posizione, operatore telefonico, informazioni sul dispositivo e termini di ricerca. Utilizziamo questi dati per comprendere le tue preferenze e migliorare i contenuti e gli annunci che ti vengono mostrati. I dati di log non vengono associati al tuo profilo personale e sono utilizzati principalmente per scopi statistici.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Informazioni generali sull'account\nNon è necessario creare un profilo per utilizzare alcune funzionalità dei nostri servizi, come la ricerca\ne la visualizzazione dei profili pubblici degli utenti di CiaoAmigos.it, i forum, i video, i racconti e altre\nattività organizzate all'interno del sito. Tuttavia, se scegli di aprire un account, dovrai fornirci alcuni\ndati personali per permetterci di offrirti i nostri servizi. Sulla nostra piattaforma, questo comprende\nun nome utente (un nickname), una password e un indirizzo e-mail, oltre ai dati relativi al tuo\nannuncio, come l'orientamento sessuale e la località. Il tuo nickname, il tuo orientamento sessuale e\nla tua località saranno sempre visibili pubblicamente. La località può essere calcolata\nautomaticamente tramite l'indirizzo IP, con un'approssimazione, o tramite GPS. In ogni caso,\napplichiamo una tolleranza e adottiamo misure specifiche per garantire la tua privacy. Non è\nconsentito creare e gestire account multipli su CiaoAmigos.it, in quanto ciò comporterà la\nsospensione di tutti gli account registrati.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Informazioni generali sull'account\nNon è necessario creare un profilo per utilizzare alcune funzionalità dei nostri servizi, come la ricerca\ne la visualizzazione dei profili pubblici degli utenti di CiaoAmigos.it, i forum, i video, i racconti e altre\nattività organizzate all'interno del sito. Tuttavia, se scegli di aprire un account, dovrai fornirci alcuni\ndati personali per permetterci di offrirti i nostri servizi. Sulla nostra piattaforma, questo comprende\nun nome utente (un nickname), una password e un indirizzo e-mail, oltre ai dati relativi al tuo\nannuncio, come l'orientamento sessuale e la località. Il tuo nickname, il tuo orientamento sessuale e\nla tua località saranno sempre visibili pubblicamente. La località può essere calcolata\nautomaticamente tramite l'indirizzo IP, con un'approssimazione, o tramite GPS. In ogni caso,\napplichiamo una tolleranza e adottiamo misure specifiche per garantire la tua privacy. Non è\nconsentito creare e gestire account multipli su CiaoAmigos.it, in quanto ciò comporterà la\nsospensione di tutti gli account registrati.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Quando accedi a CiaoAmigos.it, riceviamo alcune informazioni personali da parte tua, come il tipo di\ndispositivo che stai usando e il tuo indirizzo IP. Puoi scegliere di condividere ulteriori informazioni\ncon noi, come il tuo indirizzo e-mail, le tue preferenze e orientamento sessuale, e un profilo pubblico.\nUtilizziamo queste informazioni per mostrarti altri profili pertinenti, eventi e pubblicità.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Posizione\nPossiamo raccogliere informazioni sulla tua posizione attraverso il tuo dispositivo, come i dati GPS o\nl'indirizzo IP. Utilizziamo queste informazioni per migliorare le funzionalità dei nostri servizi, come la\ncondivisione della posizione, e per personalizzare i contenuti e le funzionalità offerte, inclusi\nsuggerimenti su persone che potresti incontrare o per la sicurezza del tuo account.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Posizione\nPossiamo raccogliere informazioni sulla tua posizione attraverso il tuo dispositivo, come i dati GPS o\nl'indirizzo IP. Utilizziamo queste informazioni per migliorare le funzionalità dei nostri servizi, come la\ncondivisione della posizione, e per personalizzare i contenuti e le funzionalità offerte, inclusi\nsuggerimenti su persone che potresti incontrare o per la sicurezza del tuo account.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Messaggi diretti tra utenti\nForniamo funzioni che ti permettono di comunicare in modo privato o di visualizzare chi visita il tuo\nprofilo. Ad esempio, puoi utilizzare la Posta del sito o la chat per comunicare privatamente con un\naltro utente iscritto a ciaoamigos.it. Quando comunichi privatamente con altri utenti inviando o\nricevendo messaggi diretti, noi archiviamo ed elaboriamo le tue comunicazioni e le informazioni ad\nesse relative. Questo include la scansione dei link per rilevare contenuti dannosi, la rilevazione di\nspam e di immagini proibite, nonché l'analisi delle segnalazioni di problemi, a protezione della\nsicurezza della piattaforma.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "it"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Informazioni Pubbliche\nVideochat, Profilo e altre Informazioni Pubbliche: CiaoAmigos.it è progettato principalmente per\nconsentirti di condividere informazioni all'interno della community. Le informazioni che ci fornisci\ntramite la nostra piattaforma, come il profilo e i dati che decidi di condividere, sono visibili solo agli\nutenti registrati. Puoi fornirci informazioni di profilo, come una tua breve descrizione, la tua\nposizione, la tua preferenza sessuale o una tua foto. Le tue informazioni pubbliche includono i\ncommenti che scrivi all'interno della community, le informazioni sul tuo account come l'ora di\ncreazione, la lingua, il Paese e il fuso orario.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "it"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Le informazioni che condividi su CiaoAmigos.it sono accessibili solo agli altri membri registrati della\ncommunity. Quando condividi contenuti come foto e video tramite i Servizi, dovresti prestare\nattenzione alle informazioni che rendi visibili. Possiamo utilizzare queste informazioni per capire\nquali argomenti potrebbero interessarti.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "it"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Informazioni generali sull'account\nNon è necessario creare un profilo per utilizzare alcune funzionalità dei nostri servizi, come la ricerca\ne la visualizzazione dei profili pubblici degli utenti di CiaoAmigos.it, i forum, i video, i racconti e altre\nattività organizzate all'interno del sito. Tuttavia, se scegli di aprire un account, dovrai fornirci alcuni\ndati personali per permetterci di offrirti i nostri servizi. Sulla nostra piattaforma, questo comprende\nun nome utente (un nickname), una password e un indirizzo e-mail, oltre ai dati relativi al tuo\nannuncio, come l'orientamento sessuale e la località. Il tuo nickname, il tuo orientamento sessuale e\nla tua località saranno sempre visibili pubblicamente. La località può essere calcolata\nautomaticamente tramite l'indirizzo IP, con un'approssimazione, o tramite GPS. In ogni caso,\napplichiamo una tolleranza e adottiamo misure specifiche per garantire la tua privacy. Non è\nconsentito creare e gestire account multipli su CiaoAmigos.it, in quanto ciò comporterà la\nsospensione di tutti gli account registrati.",
+      "reason_of_removal": "Inconsistent: policy_reference mentions collecting 'Email address' for account creation, not the content of 'Emails'.",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "it"
+    }
+  ]
+}
+```

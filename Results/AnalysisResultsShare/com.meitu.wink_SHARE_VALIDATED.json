@@ -1,0 +1,35 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We and our third-party service providers may include advertisements within our Services, and with your consent, we may collect and use information about you such as your Advertising ID, geographic location and IP address for the purpose of delivering and tracking these advertisements. If your device does not have Advertising ID, we may use other persistent identifiers. We may also access your App list and collect the application package names of the applications installed on your device. We use the above information to help us better count, track and provide advertisements based on suitability, language, geographic location and other details. For a list of our third-party service providers, please click here. If you wish to opt out of interest-based advertising, you may opt out by sending email to global.support@meitu.com (please quote “Wink” in your email title) or “Me – Settings – Privacy and Notifications – Personalized ad recommendations” in Wink.. Please note you will continue to receive generic ads after you opt out of interest-based advertising.",
+      "justification": "The policy states the app list is collected and used by third parties to 'provide advertisements based on suitability,' which constitutes sharing for advertising purposes and is not exempt.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Installed apps' are shared with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Our Services provided to you may contain our service provider's Application Programming Interfaces (APIs) or Software Development Kits (SDKs), which may have tracking tools of such service providers. These third parties may use cookies, APIs and SDKs on our Services and collect and analyze user information. In addition, some third-party SDKs may allow advertisers to collect information in order to provide content that is more relevant to you. Third parties may access your information such as your device identifiers, region (defined as the location where a given language is used), location information and IP address under their respective privacy policies. If you want to know more about such third parties, you may send an email to compliance@meitu.com(please quote “Wink” in your email title).",
+      "justification": "The policy states that third-party SDKs for advertisers access device identifiers 'under their respective privacy policies' to provide relevant content. This is a declarable share, not an exempt service provider use case.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Device or other IDs' are shared with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Our Services provided to you may contain our service provider's Application Programming Interfaces (APIs) or Software Development Kits (SDKs), which may have tracking tools of such service providers. These third parties may use cookies, APIs and SDKs on our Services and collect and analyze user information. In addition, some third-party SDKs may allow advertisers to collect information in order to provide content that is more relevant to you. Third parties may access your information such as your device identifiers, region (defined as the location where a given language is used), location information and IP address under their respective privacy policies. If you want to know more about such third parties, you may send an email to compliance@meitu.com(please quote “Wink” in your email title).",
+      "justification": "The policy states that third-party SDKs for advertisers access 'region' and 'IP address' 'under their respective privacy policies' to provide relevant content. This is a declarable share, not an exempt service provider use case.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Approximate location' is shared with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Our Services provided to you may contain our service provider's Application Programming Interfaces (APIs) or Software Development Kits (SDKs), which may have tracking tools of such service providers. These third parties may use cookies, APIs and SDKs on our Services and collect and analyze user information. In addition, some third-party SDKs may allow advertisers to collect information in order to provide content that is more relevant to you. Third parties may access your information such as your device identifiers, region (defined as the location where a given language is used), location information and IP address under their respective privacy policies. If you want to know more about such third parties, you may send an email to compliance@meitu.com(please quote “Wink” in your email title).",
+      "justification": "The policy states that third-party SDKs for advertisers access 'location information' 'under their respective privacy policies' to provide relevant content. This is a declarable share, not an exempt service provider use case.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Precise location' is shared with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

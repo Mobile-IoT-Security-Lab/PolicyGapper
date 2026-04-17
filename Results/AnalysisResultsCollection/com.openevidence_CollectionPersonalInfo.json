@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Services Information. We automatically collect and store information about your use of the Services, such as your engagement with particular content including editorial, advertisements, sponsored informational programs from our advertisers, which may include pharmaceutical companies (“Sponsored Programs”), whether you opened a particular email, clicked on a link, your search queries and how often and when you engage with the Services. We also collect information about your device when you access the Services including IP address, precise location information, browser information (including referring URL), cookie information and advertising ID (which is a unique, user-resettable identification number for advertising associated with a mobile device). We use cookies and other tracking technologies, such as pixels, tags, web beacons and software development kits, to collect the information about your use of OpenEvidence Services and your device.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Registration. In order to use the Services, you may be required to register an account and provide certain personal information such as your name, email address, zip/postal code, profession, occupation, specialty and depending on your country of practice, your medical license number or equivalent. You may choose to update or supplement the personal information that you provided at registration at any time through your account settings.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Market Research. You may be invited to participate in market research surveys conducted by us or on our behalf for our own internal business purposes and also market research surveys conducted by or on behalf of third party sponsors that commissioned the survey. For some surveys, you may be asked to provide personal information for re-contact (e.g., by email or phone) or payment fulfillment purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "If you receive remuneration for participating in a market research program offered through our Services, we may provide your personal information to our payment fulfillment vendor so that it can process and deliver your payment to you and for its recordkeeping and regulatory compliance purposes, and also to the program sponsor (or the market research company acting on its behalf) for its recordkeeping and regulatory compliance purposes. If you choose to access a survey that is conducted by a third party market research company, we may identify you to this company. Sometimes market research companies send us lists of individuals they wish to reach with particular market research opportunities and we may inform these companies which of these individuals are members of the OpenEvidence Platform so that they can manage their recruitment needs accordingly. Also, certain market research opportunities require us or the market research company to contact you directly to conduct the survey, including by telephone. We will inform you in the research invitation if you will be required to provide additional contact information, e.g., phone number, to participate so that you can decide at that time if you wish to proceed with the opportunity. We do not disclose your survey responses to the sponsor in a manner that identifies you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Registration. In order to use the Services, you may be required to register an account and provide certain personal information such as your name, email address, zip/postal code, profession, occupation, specialty and depending on your country of practice, your medical license number or equivalent. You may choose to update or supplement the personal information that you provided at registration at any time through your account settings.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Services Information. We automatically collect and store information about your use of the Services, such as your engagement with particular content including editorial, advertisements, sponsored informational programs from our advertisers, which may include pharmaceutical companies (“Sponsored Programs”), whether you opened a particular email, clicked on a link, your search queries and how often and when you engage with the Services. We also collect information about your device when you access the Services including IP address, precise location information, browser information (including referring URL), cookie information and advertising ID (which is a unique, user-resettable identification number for advertising associated with a mobile device). We use cookies and other tracking technologies, such as pixels, tags, web beacons and software development kits, to collect the information about your use of OpenEvidence Services and your device.",
+      "lang": "English"
+    }
+  ]
+}

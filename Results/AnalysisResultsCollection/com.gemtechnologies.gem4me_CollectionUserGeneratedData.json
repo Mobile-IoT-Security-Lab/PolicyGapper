@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "3.3. Email Address\nWhen you enable additional security features (for example, two-factor authentication or account recovery), you may be asked to provide an\nemail address. This email address is used exclusively for:\na. Account Recovery: Sending a password recovery code if you lose access.\nb. Alternative Login Options: Facilitating login via third-party services (such as \"Sign in with Google\" or \"Sign in with Apple\").",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "3.4.1. Chats\nAll messages, photos, videos, and documents sent via our messaging service (\"Chats\") are stored on GemSpace servers. This storage\nmechanism enables you to access your data seamlessly from any device, providing enhanced convenience and continuity of service.\nGemSpace employs industry-standard security measures and advanced encryption protocols during both data transit and storage.\nHowever, please be aware that, unlike end-to-end encryption, our Chats do not preclude the possibility of data access in response to\nlegitimate legal requests or in the event of a security incident. By using our platform, you acknowledge and accept that the protection of\nyour communications is subject to these technical and legal constraints, and GemSpace shall not be held liable for any unauthorized\naccess or disclosure arising from circumstances beyond our reasonable control.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "3.4.1. Chats\nAll messages, photos, videos, and documents sent via our messaging service (\"Chats\") are stored on GemSpace servers. This storage\nmechanism enables you to access your data seamlessly from any device, providing enhanced convenience and continuity of service.\nGemSpace employs industry-standard security measures and advanced encryption protocols during both data transit and storage.\nHowever, please be aware that, unlike end-to-end encryption, our Chats do not preclude the possibility of data access in response to\nlegitimate legal requests or in the event of a security incident. By using our platform, you acknowledge and accept that the protection of\nyour communications is subject to these technical and legal constraints, and GemSpace shall not be held liable for any unauthorized\naccess or disclosure arising from circumstances beyond our reasonable control.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "3.4.1. Chats\nAll messages, photos, videos, and documents sent via our messaging service (\"Chats\") are stored on GemSpace servers. This storage\nmechanism enables you to access your data seamlessly from any device, providing enhanced convenience and continuity of service.\nGemSpace employs industry-standard security measures and advanced encryption protocols during both data transit and storage.\nHowever, please be aware that, unlike end-to-end encryption, our Chats do not preclude the possibility of data access in response to\nlegitimate legal requests or in the event of a security incident. By using our platform, you acknowledge and accept that the protection of\nyour communications is subject to these technical and legal constraints, and GemSpace shall not be held liable for any unauthorized\naccess or disclosure arising from circumstances beyond our reasonable control.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "6.5. Transcription of Voice and Video Messages at the Request of the User\nFor your convenience, GemSpace may offer a transcription service for voice and video messages. If you elect to use this feature, the following\nprovisions apply:\nData Transferred:\nThe audio content of your voice or video message will be sent to a third-party service provider (for example, Google LLC or its affiliates) solely\nfor the purpose of generating a text transcript. Only the audio data strictly necessary for transcription is shared. No additional personal data,\nsuch as your IP address, account details, or location data, is transmitted.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "6.5. Transcription of Voice and Video Messages at the Request of the User\nFor your convenience, GemSpace may offer a transcription service for voice and video messages. If you elect to use this feature, the following\nprovisions apply:\nData Transferred:\nThe audio content of your voice or video message will be sent to a third-party service provider (for example, Google LLC or its affiliates) solely\nfor the purpose of generating a text transcript. Only the audio data strictly necessary for transcription is shared. No additional personal data,\nsuch as your IP address, account details, or location data, is transmitted.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "3.4.1. Chats\nAll messages, photos, videos, and documents sent via our messaging service (\"Chats\") are stored on GemSpace servers. This storage\nmechanism enables you to access your data seamlessly from any device, providing enhanced convenience and continuity of service.\nGemSpace employs industry-standard security measures and advanced encryption protocols during both data transit and storage.\nHowever, please be aware that, unlike end-to-end encryption, our Chats do not preclude the possibility of data access in response to\nlegitimate legal requests or in the event of a security incident. By using our platform, you acknowledge and accept that the protection of\nyour communications is subject to these technical and legal constraints, and GemSpace shall not be held liable for any unauthorized\naccess or disclosure arising from circumstances beyond our reasonable control.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "3.5. Phone Number and Contacts\nYour mobile phone number is used as a unique identifier for your GemSpace account, facilitating a smooth transition from other messaging\nplatforms and helping you maintain your network of contacts.\nWith your consent, we may synchronize your contacts to:\na. Notify you when your contacts join GemSpace.\nb. Display the names of your contacts in notifications and within the application interface.\nOnly the minimal necessary data (phone numbers and names) is stored to support this functionality. You may disable contact synchronization or\ndelete your synchronized contacts at any time via the settings.",
+      "lang": "en"
+    }
+  ]
+}

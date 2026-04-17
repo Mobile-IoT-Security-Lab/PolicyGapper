@@ -1,0 +1,73 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "(b) With advertisers and marketing partners in order to display advertisements on our App and support our business, to show how many users of the App have clicked or viewed an advertisement, and analytics providers for the purposes of measurement, analytics, engagement technologies and optimisation of our Services.",
+      "justification": "The privacy policy states that data related to app interactions is shared with advertisers, marketing partners, and analytics providers. This is a declarable 'sharing' event for advertising and analytics purposes under Google Play's policy.",
+      "how_to_fix": "In the Play Console Data safety section, declare that 'App interactions' is 'Shared' with third parties for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "(b) With advertisers and marketing partners in order to display advertisements on our App and support our business, to show how many users of the App have clicked or viewed an advertisement, and analytics providers for the purposes of measurement, analytics, engagement technologies and optimisation of our Services.",
+      "justification": "The privacy policy indicates data is shared with analytics providers for measurement and optimization, which typically includes crash logs. This constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "In the Play Console Data safety section, declare that 'Crash logs' is 'Shared' with third parties for 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "(b) With advertisers and marketing partners in order to display advertisements on our App and support our business, to show how many users of the App have clicked or viewed an advertisement, and analytics providers for the purposes of measurement, analytics, engagement technologies and optimisation of our Services.",
+      "justification": "The privacy policy states data is shared with analytics providers for measurement and optimization, which covers diagnostics data. This is a declarable 'sharing' event under Google Play's policy.",
+      "how_to_fix": "In the Play Console Data safety section, declare that 'Diagnostics' is 'Shared' with third parties for 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "(b) With advertisers and marketing partners in order to display advertisements on our App and support our business, to show how many users of the App have clicked or viewed an advertisement, and analytics providers for the purposes of measurement, analytics, engagement technologies and optimisation of our Services.",
+      "justification": "The privacy policy states data is shared with analytics providers for measurement and optimization, which covers app performance data. This is a declarable 'sharing' event under Google Play's policy.",
+      "how_to_fix": "In the Play Console Data safety section, declare that 'Other app performance data' is 'Shared' with third parties for 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "(b) With advertisers and marketing partners in order to display advertisements on our App and support our business, to show how many users of the App have clicked or viewed an advertisement, and analytics providers for the purposes of measurement, analytics, engagement technologies and optimisation of our Services.",
+      "justification": "The privacy policy states data is shared with advertisers, marketing partners, and analytics providers, which commonly involves device or other IDs for tracking and measurement. This is a declarable 'sharing' event.",
+      "how_to_fix": "In the Play Console Data safety section, declare that 'Device or other IDs' is 'Shared' with third parties for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "With advertisers and marketing partners in order to display advertisements on our App and support our business, to show how many users of the App have clicked or viewed an advertisement, and analytics providers for the purposes of measurement, analytics, engagement technologies and optimisation of our Services.",
+      "justification": "The privacy policy states data is shared with advertisers, marketing partners, and analytics providers. User IDs are often shared for analytics and ad measurement. This is a declarable 'sharing' event.",
+      "how_to_fix": "In the Play Console Data safety section, declare that 'User IDs' is 'Shared' with third parties for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "3.\nHOW AND WHEN WE SHARE YOUR PERSONAL DATA\nWe may share your personal data as follows:\n(a) With our service providers and other third parties that perform services on our behalf and support our business\noperations in connection with our Services. For example, we may partner with companies to send marketing\nmessages, support email services, and analyse information. These third parties which may receive and process\nyour personal data may include: (i) cloud service providers for the purposes of storing and operating data, as\nnecessary for delivering our Services; (ii) fraud prevention agencies in order to detect, prevent or resolve fraud,\nsecurity or technical issues in connection with our Services; and (iii) other third parties that provide services to\nus, such as payment service providers when we hold in-app activities from time to time. The third parties that\nprocess your personal data on our behalf will use your personal data in accordance with the agreement we have\nin place with them and for the purposes described in this Notice.\n(b) With advertisers and marketing partners in order to display advertisements on our App and support our business, to\nshow how many users of the App have clicked or viewed an advertisement, and analytics providers for the\npurposes of measurement, analytics, engagement technologies and optimisation of our Services.\n(c) With members of our group companies, including our affiliate companies as well as joint venture partners, for the\npurposes of processing, analysing, or storing your information or otherwise as needed to provide the Services to\nyou or for the purposes set out in this Notice.\n(d) In certain circumstances, we may be required to disclose or share your personal data with law enforcement agencies,\ncourts, other government authorities (whether in your jurisdiction or abroad) or other third parties where we or\nany of our affiliates believe it is necessary for us to do so to comply with a legal or regulatory obligation, or\notherwise to protect our rights or the rights of any third party.\n(e) With potential transaction partners, service providers, advisors, and other third parties in connection with the\nconsideration, negotiation, or completion of a corporate transaction in which we are acquired by or merged with\nanother company or we sell or transfer all or a portion of our assets or business. Should such a sale or transfer\noccur, we will use reasonable efforts to require the entity to which we transfer your personal data to use it in a\nmanner consistent with this Notice.",
+      "justification": "The policy states email addresses may be shared with advertisers, marketing partners (section b), and group companies (section c). These are non-exempt forms of 'sharing' that must be declared.",
+      "how_to_fix": "In the Play Console Data safety section, declare that 'Email address' is 'Shared' with third parties for purposes like 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "With advertisers and marketing partners in order to display advertisements on our App and support our business, to show how many users of the App have clicked or viewed an advertisement, and analytics providers for the purposes of measurement, analytics, engagement technologies and optimisation of our Services.",
+      "reason_of_removal": "Inconsistent: Policy reference does not mention location data.",
+      "justification": "The provided policy text describes sharing data for advertising and analytics but does not explicitly mention or imply the sharing of 'Precise location' data.",
+      "how_to_fix": "No action is needed based on this policy text. If the app does share this data, the privacy policy should be updated to state this clearly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "3.\nHOW AND WHEN WE SHARE YOUR PERSONAL DATA\nWe may share your personal data as follows:\n(a) With our service providers and other third parties that perform services on our behalf and support our business\noperations in connection with our Services. For example, we may partner with companies to send marketing\nmessages, support email services, and analyse information. These third parties which may receive and process\nyour personal data may include: (i) cloud service providers for the purposes of storing and operating data, as\nnecessary for delivering our Services; (ii) fraud prevention agencies in order to detect, prevent or resolve fraud,\nsecurity or technical issues in connection with our Services; and (iii) other third parties that provide services to\nus, such as payment service providers when we hold in-app activities from time to time. The third parties that\nprocess your personal data on our behalf will use your personal data in accordance with the agreement we have\nin place with them and for the purposes described in this Notice.\n(b) With advertisers and marketing partners in order to display advertisements on our App and support our business, to\nshow how many users of the App have clicked or viewed an advertisement, and analytics providers for the\npurposes of measurement, analytics, engagement technologies and optimisation of our Services.\n(c) With members of our group companies, including our affiliate companies as well as joint venture partners, for the\npurposes of processing, analysing, or storing your information or otherwise as needed to provide the Services to\nyou or for the purposes set out in this Notice.\n(d) In certain circumstances, we may be required to disclose or share your personal data with law enforcement agencies,\ncourts, other government authorities (whether in your jurisdiction or abroad) or other third parties where we or\nany of our affiliates believe it is necessary for us to do so to comply with a legal or regulatory obligation, or\notherwise to protect our rights or the rights of any third party.\n(e) With potential transaction partners, service providers, advisors, and other third parties in connection with the\nconsideration, negotiation, or completion of a corporate transaction in which we are acquired by or merged with\nanother company or we sell or transfer all or a portion of our assets or business. Should such a sale or transfer\noccur, we will use reasonable efforts to require the entity to which we transfer your personal data to use it in a\nmanner consistent with this Notice.",
+      "reason_of_removal": "Exempt: Data is shared with a service provider acting on the developer's behalf.",
+      "justification": "The policy states data is shared with cloud service providers 'on our behalf' for the purpose of 'storing and operating data, as necessary for delivering our Services'. This is a 'service provider' exemption under Google Play policy and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action needed. This use case is exempt from being declared as 'sharing'.",
+      "lang": "English"
+    }
+  ]
+}
+```

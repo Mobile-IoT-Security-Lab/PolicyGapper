@@ -1,0 +1,60 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "With your explicit consent, Marketspace Solutions OU may share your personal data with GN Telecom UK Limited (registered in England and Wales) for their independent marketing activities.\nLegal Basis: Article 6(1)(a) GDPR - Your explicit consent for data sharing\nData Shared: - Contact information (email address, phone number) - Basic profile data (username, user preferences) - Platform usage analytics (anonymized where possible) - Communication preferences and interaction history",
+      "justification": "The privacy policy states that 'Platform usage analytics' and 'interaction history' are shared with 'GN Telecom UK Limited' for their 'independent marketing activities'. This is a form of 'App interactions' data shared with a third party and must be declared.",
+      "how_to_fix": "In the Google Play Console, under the 'Data safety' section, declare that 'App interactions' data is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "With your explicit consent, Marketspace Solutions OU may share your personal data with GN Telecom UK Limited (registered in England and Wales) for their independent marketing activities.\nLegal Basis: Article 6(1)(a) GDPR - Your explicit consent for data sharing\nData Shared: - Contact information (email address, phone number) - Basic profile data (username, user preferences) - Platform usage analytics (anonymized where possible) - Communication preferences and interaction history",
+      "justification": "The privacy policy explicitly states that 'Contact information (email address...)' is shared with 'GN Telecom UK Limited' for their 'independent marketing activities'. This constitutes sharing with a third party and must be declared.",
+      "how_to_fix": "In the Google Play Console, under the 'Data safety' section, declare that 'Email address' data is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "With your explicit consent, Marketspace Solutions OU may share your personal data with GN Telecom UK Limited (registered in England and Wales) for their independent marketing activities.\nLegal Basis: Article 6(1)(a) GDPR - Your explicit consent for data sharing\nData Shared: - Contact information (email address, phone number) - Basic profile data (username, user preferences) - Platform usage analytics (anonymized where possible) - Communication preferences and interaction history",
+      "justification": "The privacy policy states that 'Basic profile data (username...)' is shared with 'GN Telecom UK Limited' for their 'independent marketing activities'. A username is a form of 'User ID' and this sharing must be declared.",
+      "how_to_fix": "In the Google Play Console, under the 'Data safety' section, declare that 'User IDs' data is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "With your explicit consent, Marketspace Solutions OU may share your personal data with GN Telecom UK Limited (registered in England and Wales) for their independent marketing activities.\nLegal Basis: Article 6(1)(a) GDPR - Your explicit consent for data sharing\nData Shared: - Contact information (email address, phone number) - Basic profile data (username, user preferences) - Platform usage analytics (anonymized where possible) - Communication preferences and interaction history",
+      "justification": "The privacy policy explicitly states that 'Contact information (...phone number)' is shared with 'GN Telecom UK Limited' for their 'independent marketing activities'. This constitutes sharing with a third party and must be declared.",
+      "how_to_fix": "In the Google Play Console, under the 'Data safety' section, declare that 'Phone number' data is 'Shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "With your explicit consent, Marketspace Solutions OU may share your personal data with GN Telecom UK Limited (registered in England and Wales) for their independent marketing activities.\nLegal Basis: Article 6(1)(a) GDPR - Your explicit consent for data sharing\nData Shared: - Contact information (email address, phone number) - Basic profile data (username, user preferences) - Platform usage analytics (anonymized where possible) - Communication preferences and interaction history",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The referenced policy text lists specific data types like contact info, profile data, and analytics, but does not mention 'User generated content'. The data type does not logically match the provided text.",
+      "how_to_fix": "No action is required for this specific data type based on the provided text. Ensure all other data types mentioned in the clause (e.g., Email address, User IDs) are correctly declared as shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Content posted in public chats or channels is stored on our servers and is, by design, accessible to all users of the platform. Publicly shared information is subject to standard encryption during transit and storage; however, once posted publicly, such content is inherently available to any member of the GemSpace community. Users are solely responsible for the content they choose to share in public areas. GemSpace expressly disclaims any liability for the public dissemination of user-generated content and reserves the right to remove or moderate any content that violates our terms of use or applicable laws, without incurring any liability for such actions.",
+      "reason_of_removal": "User-Initiated Sharing",
+      "justification": "The policy describes sharing of 'Content posted in public chats or channels', which is a user-initiated action. Per Google Play policy, data shared at the user's direction does not need to be declared as 'shared'.",
+      "how_to_fix": "No action is required for this item as it falls under the user-initiated sharing exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Your personal data may be shared with other users of our Services with whom you choose to communicate or exchange information. Such users may be located both within and outside the European Economic Area (EEA). By using GemSpace and engaging in communication with other users, you instruct us to transfer certain personal data on your behalf. While we implement appropriate technical and organizational measures to protect your data during transmission (including standard encryption methods), please be aware that once you share information with other users, you may lose control over its further distribution. GemSpace is not responsible for any additional sharing or processing of that data by third parties without your knowledge or consent.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The referenced policy text describes sharing 'certain personal data' with other users upon user instruction but does not specify or imply that 'Precise location' is among the data shared.",
+      "how_to_fix": "No action is required for this specific data type based on the provided text.",
+      "lang": "English"
+    }
+  ]
+}
+```

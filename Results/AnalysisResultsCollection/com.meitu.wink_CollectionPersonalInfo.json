@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "When you use our Services, we might recommend you sign up for an account with us to take full advantage of our Services and all their features. When you create an account, we will collect the following information that can be used to identify you or provide our Services to you:\n\no Mandatory: mobile phone number, device ID\n\no Optional: name, username, gender, date of birth, location, profile picture and password.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "When you use our Services, we might recommend you sign up for an account with us to take full advantage of our Services and all their features. When you create an account, we will collect the following information that can be used to identify you or provide our Services to you:\n\no Mandatory: mobile phone number, device ID\n\no Optional: name, username, gender, date of birth, location, profile picture and password.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Anyone can access our Services, but there are certain services that require a subscription fee, such as accessing to our premium content and enjoying advertisement privileges (\"Subscription Service”). If you choose to make a purchase on our Subscription Service, we will collect certain personally identifiable information, such as your device ID. A third-party app store or payment processor may receive, access or use your financial information and billing address for the purpose of processing transactions and renewals. If",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may collect your location-based information from your mobile device if you choose to share it with us.\n\no Mandatory: network information, IP address, and system time zone\n\no Optional: country code, latitude and longitude, network location, and system country.\n\nThis information will help us understand user distribution and usage scenarios and allow us to provide users with the correct version of Wink, the reappearance of the geo-location or the publishing of the real-time geo-location where you take any photos or shoot any videos, and improve our Services. Unless we obtain your consent, location data WILL NOT BE ACQUIRED or USED to identify you individually. Except as otherwise provided in this Policy, we will not share this Location Information with any third parties. If you no longer wish to allow us to collect or use such information, you may turn off your Internet access or GPS, or disable our access to information about your network, GPS and device. Please note that we may still continue to receive some Location Information, such as your Network Information, IP address and system time zone, as a result of you using our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may collect your location-based information from your mobile device if you choose to share it with us.\n\no Mandatory: network information, IP address, and system time zone\n\no Optional: country code, latitude and longitude, network location, and system country.\n\nThis information will help us understand user distribution and usage scenarios and allow us to provide users with the correct version of Wink, the reappearance of the geo-location or the publishing of the real-time geo-location where you take any photos or shoot any videos, and improve our Services. Unless we obtain your consent, location data WILL NOT BE ACQUIRED or USED to identify you individually. Except as otherwise provided in this Policy, we will not share this Location Information with any third parties. If you no longer wish to allow us to collect or use such information, you may turn off your Internet access or GPS, or disable our access to information about your network, GPS and device. Please note that we may still continue to receive some Location Information, such as your Network Information, IP address and system time zone, as a result of you using our Services.",
+      "lang": "English"
+    }
+  ]
+}

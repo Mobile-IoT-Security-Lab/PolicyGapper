@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "1.1 Information you provide us and that relates directly to you We may collect and store any personal information you enter on the website or provide to us in some other manner, including personal information that may be contained in any feedback communication. This includes your name, email address, and other information you decide to submit us. This information is necessary for the performance of the contract between you and us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "1.2 Information that is processed automatically and does not directly identify you When you use the Website, some information about your device and your user behavior may be processed automatically. This information is generally non-personal, and we may access it only in aggregated form. We process this information on the ground of our legitimate interest in improving our Website and giving our users the best experience. Device identifiers. When you access our Website, we may access or monitor one or more \"device identifiers\". Device identifiers are small data files or similar data structures stored on or associated with your device, which uniquely identifies your device. We may process inter alia the following data:\n- IP address;\n- Browser type;\n- Referring / exit pages;\n- Operating system.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Residents of the State of California (USA) have the right to request a list of all third parties to whom our Website disclosed certain personal information (in accordance with the laws of the State of California) in the previous year for the purposes of direct marketing of such third parties. If you are a resident of the State of California and want to receive such a list, please contact us through the email displayed below. When submitting such a request, please include in the text of your appeal the wording \"Your rights to maintain confidentiality in the state of California\", as well as your name, address, city, state, and zip code. In the text of your request, please provide us with sufficient information so that we can determine if the above requirements of the law apply to your situation. You must confirm that you are a resident of the State of California (USA) and provide the current address in the state of California for our response. Please note that we do not accept calls by phone, mail or facsimile, nor are we responsible for calls that are flagged or misdelivered or that do not contain exhaustive information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "1.2 Information that is processed automatically and does not directly identify you When you use the Website, some information about your device and your user behavior may be processed automatically. This information is generally non-personal, and we may access it only in aggregated form. We process this information on the ground of our legitimate interest in improving our Website and giving our users the best experience. Device identifiers. When you access our Website, we may access or monitor one or more \"device identifiers\". Device identifiers are small data files or similar data structures stored on or associated with your device, which uniquely identifies your device. We may process inter alia the following data:\n- IP address;\n- Browser type;\n- Referring / exit pages;\n- Operating system.",
+      "lang": "English"
+    }
+  ]
+}

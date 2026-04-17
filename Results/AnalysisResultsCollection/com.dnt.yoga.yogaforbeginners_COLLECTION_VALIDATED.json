@@ -1,0 +1,77 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Profiling Data: When you use our App we may display advertisements, our partners, the advertisers may place an SDK (as detailed below) and collect certain data on you for the purpose of displaying advertisement. If you wish to prevent the display of advertisements or other identifiers for interest-based advertising, you may change your device settings to reset such advertisement or opt-out of such advertising (typically, this is available under the “Privacy” or “Ads\" section in your device settings). Please note that if you reset your advertising settings or opt-out of interest based advertising, you may still see advertisements in our App, but those ads will not be targeted for you. Please note that such actions may result in a less enjoyable user experience.",
+      "justification": "The policy states that partner SDKs collect data about user activity within the app for advertising purposes, which falls under 'App interactions'. This data is sent off-device and is not end-to-end encrypted.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "List of Installed App: When you install our App, we may collect information from your device, that may include a list of your installed Apps. This data may contain identity information and therefore we treat it as Personal Data.",
+      "justification": "The policy explicitly states the app may 'collect' a 'list of your installed Apps' from the device. This indicates the data is sent off-device.",
+      "how_to_fix": "Declare 'Installed apps' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Contact Information: If you voluntarily contact us, you may be required to provide us with certain information such as your name, job title, company name, email address (\"Contact Information\") and any additional information you decide to share with us.",
+      "justification": "The policy describes collecting 'any additional information you decide to share with us' when a user voluntarily contacts the developer. This is a form of user-generated content that is sent to the developer.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Profiling Data: When you use our App we may display advertisements, our partners, the advertisers may place an SDK (as detailed below) and collect certain data on you for the purpose of displaying advertisement. If you wish to prevent the display of advertisements or other identifiers for interest-based advertising, you may change your device settings to reset such advertisement or opt-out of such advertising (typically, this is available under the “Privacy” or “Ads\" section in your device settings). Please note that if you reset your advertising settings or opt-out of interest based advertising, you may still see advertisements in our App, but those ads will not be targeted for you. Please note that such actions may result in a less enjoyable user experience.",
+      "justification": "The policy states that partner SDKs collect data for advertising and profiling. This collection of user activity qualifies as 'Other actions'. The data is sent off-device and is not end-to-end encrypted.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "The Advertisers are advertising Service Providers. Their targeted advertising SDKs collect information about your browsing activity across multiple websites and online services in order to provide you with relevant advertisements on the App and Services of third parties. The information collected using these advertising SDK does not disclose your identity, and helps us analyze the effectiveness of our advertising.",
+      "justification": "The policy states that SDKs within the app 'collect information about your browsing activity across multiple websites'. This data is collected via the app and sent off-device.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "justification": "The policy explicitly states the app will 'collect' the user's 'full name' during account registration, which requires sending the data off-device to create the account.",
+      "how_to_fix": "Declare 'Name' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "justification": "The policy explicitly states the app will 'collect' the user's 'email address' during account registration, which requires sending the data off-device to create the account.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "In-App Payment Information: When you make a payment through our App and offered Services, all payments are in-app payments and are subject to the applicable App Store terms and privacy policy. Google Terms of We use in app payment processors; the registration and payment information are solely processed by the applicable app store provider. We do not store nor process any Personal Data when you process the payment. We receive an order number which is connected to a user ID which was generated when installing the app (non identifiable).",
+      "justification": "The policy states, 'We receive an order number which is connected to a user ID'. An order number is a record of a purchase and constitutes 'Purchase history'. This data is received by the developer, meaning it is sent off-device.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Non-Personal Data\nDuring your interaction with our website and Services, we may collect aggregated, non-\npersonal non-identifiable information, which may be made available or gathered via your\naccess to and use of the Services (\"Non-Personal Data \"). We are not aware of the identity\nof the user from which the Non-Personal Data is collected. The Non-Personal Data being\ncollected may include your aggregated usage information and technical information\ntransmitted by your device, such as: the type of browser or device you use, language\npreference, time and date stamp, country location, etc.",
+      "justification": "The policy states the app collects 'country location' as part of technical information transmitted by the device. 'Country location' is a form of 'Approximate location' and is sent off-device.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "justification": "The policy explicitly states the app will 'collect' the user's 'email address' during account registration. This data is sent off-device to create the account.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,21 @@
+```json
+{
+"omitted_declarations": [
+{
+"data_type": "App interactions",
+"policy_reference": "• We may collect data about your use of the Games, such as gameplay data and your interactions with other players inside the Games.",
+"justification": "The privacy policy states the collection of 'gameplay data and your interactions with other players', which directly corresponds to the 'App interactions' data type that must be declared as collected.",
+"how_to_fix": "In your Google Play Console's Data safety form, under the 'Data collected' section, you must declare 'App interactions'.",
+"lang": "English"
+},
+{
+"data_type": "Other actions",
+"policy_reference": "• We may collect data about your use of the Games, such as gameplay data and your interactions with other players inside the Games.",
+"justification": "The privacy policy states the collection of 'gameplay data'. This type of user activity within the app falls under the 'Other actions' data type and must be declared as collected.",
+"how_to_fix": "In your Google Play Console's Data safety form, under the 'Data collected' section, you must declare 'Other actions'.",
+"lang": "English"
+}
+],
+"excluded_declarations": []
+}
+```

@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "We use Firebase Authentication, a service provided by Google LLC (\"Google\"), to manage user registration and authentication. For details on how Google processes personal data, please review their Privacy Policy. Firebase is restricted from sharing personal data with any third-party service providers. Personal Data Collected is Email address",
+      "lang": "English"
+    }
+  ]
+}

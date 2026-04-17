@@ -1,0 +1,34 @@
+{
+"omitted_declarations": [
+{
+"data_type": "SMS or MMS",
+"policy_reference": "• Other Identifying Information that You Voluntarily Choose to Provide\n• Examples of Personal Data Collected:\n• Identifying information in emails, letters, or texts you send us or in your survey responses\n• Source:\n• You",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "• Photos, Videos and Recordings\n• Examples of Personal Data Collected:\n• Photos, videos or recordings of you\n• Photos, videos or recordings of your environment.\n• Source:\n• You",
+"lang": "en"
+},
+{
+"data_type": "Music files",
+"policy_reference": "Communications Data\nSource\nMembers provide communications data whenever sending messages, media files, or other communications to other Members using the App's Member-to-Member messaging functions. Members also provide communication data whenever communicating with FEELD representatives, including when filing complaints, reports, or App-related requests.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "Communications Data\nSource\nMembers provide communications data whenever sending messages, media files, or other communications to other Members using the App's Member-to-Member messaging functions. Members also provide communication data whenever communicating with FEELD representatives, including when filing complaints, reports, or App-related requests.",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "Age Estimation and Identity Verification Notice\nAs part of our efforts to provide a safe and protected Feeld experience, Feeld will collect and process your facial biometric data and cellular mobile network operator data through a trusted third party (Yoti) in conjunction with our other Customer Support applications and platforms. Age verification provided by Yoti will be implemented to (a) ensure that everyone using our platform is 18 years old or older; and (b) help prevent any fraudulent or malicious actors from accessing Feeld services. In the event of support ticket escalations, Members may elect to provide a valid government identification card for age verification purposes. If a Member elects to provide government ID data, said data will only be processed for the limited purpose of verifying the Member's age and shall be purged from storage immediately after verification is complete. You can find Yoti's Biometric Policy as linked herein.",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "• Social Network Data\n• Examples of Personal Data Collected:\n• Email\n• Phone number\n• User name\n• IP address\n• Device ID\n• Name\n• Profile picture\n• List of friends\n• Source:\n• You",
+"lang": "en"
+}
+]
+}

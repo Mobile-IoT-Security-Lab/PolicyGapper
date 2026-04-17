@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Data received from you: you may provide us personal data voluntarily, such as your name and e-mail address when you contact us, your hashed password, your content and images (including details regarding your events or other announcements, if you choose to submit them as you use the Services), when you post on our public forums or groups, when you sign-up to receive e-mail updates, when you place any purchases via our Services, or when you choose to connect your Facebook, Google, or Apple account to our Services. You may also provide us with personal data of your Recipients, such as their names and e-mail addresses, so that you can use our Services to contact and send them content and invitations you uploaded to and created through the Services; and in such cases, we may collect additional information concerning such Recipients (including, for example, analytics data concerning their interactions with the content and invitations you sent them, their phone number, and their responses to such invitations – all on your behalf of course, so you can better manage your events).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Data automatically collected or generated: when someone visits, interacts with or uses our Services, including any e-mail or text messages sent to them by us or via our Services, we may collect or generate technical data about them. We collect or generate such data either independently or with the help of third-party services (as detailed in Sections 5 below). Such data consists of connectivity, technical or aggregated usage data, such as IP address, device advertiser ID, non-identifying data regarding the device, operating system, browser version, locale and language settings used, the cookies and pixels installed on such device, and the activity (clicks and other interactions) of Users within our Services.",
+      "lang": "English"
+    }
+  ]
+}

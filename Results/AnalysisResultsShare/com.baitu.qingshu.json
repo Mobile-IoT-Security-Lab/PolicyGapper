@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "account security analysis Conduct user demographic analysis (e.g., region, mobile phone model, operating system platform, system language and Poppo version) for multiple projects to better understand how our users use Poppo The network and account traffic statistics of the content and service used by users to access third-party services through Poppo open platform are carried out, so as to report the basic analysis of how Poppo users use their services to the third-party service providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "account security analysis Conduct user demographic analysis (e.g., region, mobile phone model, operating system platform, system language and Poppo version) for multiple projects to better understand how our users use Poppo The network and account traffic statistics of the content and service used by users to access third-party services through Poppo open platform are carried out, so as to report the basic analysis of how Poppo users use their services to the third-party service providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "A third party that acquires us or all or most of our business.When we sell or acquire any business, enter into a merger, form a partnership, or sell part or all of our assets, we may disclose your information to potential buyers of the business.In such cases, we will always require potential buyers to comply with this privacy policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "A third party that acquires us or all or most of our business.When we sell or acquire any business, enter into a merger, form a partnership, or sell part or all of our assets, we may disclose your information to potential buyers of the business.In such cases, we will always require potential buyers to comply with this privacy policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "A third party that acquires us or all or most of our business.When we sell or acquire any business, enter into a merger, form a partnership, or sell part or all of our assets, we may disclose your information to potential buyers of the business.In such cases, we will always require potential buyers to comply with this privacy policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "A third party that acquires us or all or most of our business.When we sell or acquire any business, enter into a merger, form a partnership, or sell part or all of our assets, we may disclose your information to potential buyers of the business.In such cases, we will always require potential buyers to comply with this privacy policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Some Poppo related features allow you to provide shared information to audiences outside the Poppo Network - for example, publicly accessible blogs and forums, or certain social media features in Poppo allow you to republish and disclose shared information.If you use these features to share information, it may be read or used by third parties not related to us. You can also associate your Poppo contact list with the contact list on your device and / or in the third-party service account to search for and",
+      "lang": "English"
+    }
+  ]
+}

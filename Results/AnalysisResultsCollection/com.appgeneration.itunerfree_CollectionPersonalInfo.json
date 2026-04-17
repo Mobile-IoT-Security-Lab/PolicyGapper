@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We may collect personal identification information from Users in a variety of ways, including when Users visit our apps, register on the apps, and in connection with other activities, services, features, or resources we make available on our apps. Users may voluntarily log in via an email address or a partner login system, Google, Apple, or Facebook authentication systems. This will be used to track user personal data across multiple devices and be able to sync user information such as favorites, recent, and browsing history in order to improve suggested new content inside the app. When the Users log in with Facebook we collect their public profile (name and user ID) as well as their email. Users may be contacted via email in order to get further improvements on their experience with our service. Users may also use our apps anonymously. Users can always refuse to supply personal data and may revoke their consent at any time by sending an email to us asking to delete their information - help@mytuner.mobi.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may collect personal identification information from Users in a variety of ways, including when Users visit our apps, register on the apps, and in connection with other activities, services, features, or resources we make available on our apps. Users may voluntarily log in via an email address or a partner login system, Google, Apple, or Facebook authentication systems. This will be used to track user personal data across multiple devices and be able to sync user information such as favorites, recent, and browsing history in order to improve suggested new content inside the app. When the Users log in with Facebook we collect their public profile (name and user ID) as well as their email. Users may be contacted via email in order to get further improvements on their experience with our service. Users may also use our apps anonymously. Users can always refuse to supply personal data and may revoke their consent at any time by sending an email to us asking to delete their information - help@mytuner.mobi.",
+      "lang": "English"
+    }
+  ]
+}

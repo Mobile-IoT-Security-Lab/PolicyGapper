@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Select Business Partners: We may disclose your information to select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, we may disclose your information to our co-brand partners when you choose to be involved in those programs, such as when you enter contests or sweepstakes that are conducted with those business partners. We are not responsible for the privacy practices of our business partners, and we urge you to review their privacy notices for more detail on how they might process your information and for information about how to exercise your marketing and other choices with such partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Select Business Partners: We may disclose your information to select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, we may disclose your information to our co-brand partners when you choose to be involved in those programs, such as when you enter contests or sweepstakes that are conducted with those business partners. We are not responsible for the privacy practices of our business partners, and we urge you to review their privacy notices for more detail on how they might process your information and for information about how to exercise your marketing and other choices with such partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Third-Party Advertising and Audience and Traffic Measurement Services: We use third party advertising, analytics, and measurement partners to serve you advertisements on the Services as well as across other sites and services. For information about how we may disclose your information to third parties in connection with advertising, please see Section 5, Interest-Based Advertising. These third parties may set their own cookies or similar web technologies on the Services and elsewhere online that enables them to collect information about users' online activities over time and across different websites.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Select Business Partners: We may disclose your information to select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, we may disclose your information to our co-brand partners when you choose to be involved in those programs, such as when you enter contests or sweepstakes that are conducted with those business partners. We are not responsible for the privacy practices of our business partners, and we urge you to review their privacy notices for more detail on how they might process your information and for information about how to exercise your marketing and other choices with such partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Geolocation Information: We may disclose your geolocation information to service providers that perform certain functions or services on our behalf. We also may disclose your geolocation information to third parties so that they may provide you with geographically relevant advertising;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Geolocation Information: We may disclose your geolocation information to service providers that perform certain functions or services on our behalf. We also may disclose your geolocation information to third parties so that they may provide you with geographically relevant advertising;",
+      "lang": "English"
+    }
+  ]
+}

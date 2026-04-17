@@ -1,0 +1,84 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• Social Media Widgets: Our Site may include social media features, such as the Facebook logins, “like” button and widgets, such as the \"share this\" button. These features may collect your personal information and track your use of the Site. These social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing such functionality.",
+      "justification": "The policy states that user interactions with social media widgets are 'governed by the privacy policy of the company providing such functionality.' This indicates the third party is not acting solely as a service provider, which constitutes 'sharing' under Google Play policies.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'App interactions' is 'Shared' with third parties for purposes like 'App functionality' or 'Account management'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• Social Media Widgets: Our Site may include social media features, such as the Facebook logins, “like” button and widgets, such as the \"share this\" button. These features may collect your personal information and track your use of the Site. These social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing such functionality.",
+      "justification": "The policy states that user actions with social media widgets are 'governed by the privacy policy of the company providing such functionality.' This indicates the third party is not acting solely as a service provider, which constitutes 'sharing' under Google Play policies.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Other actions' is 'Shared' with third parties for purposes like 'App functionality' or 'Account management'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Why do we use Cookies?\nWe generally use Cookies for the following purposes:\n• To recognize new or past customers.\n•\nTo store your password if you are registered on our Site.\nTo improve our Site and to better understand your visits on our platforms and Site.\n• To integrate with third party social media websites.\n• To observe your behaviors and browsing activities over time across multiple websites or other platforms.",
+      "justification": "The policy discloses the use of cookies 'To observe your behaviors and browsing activities over time across multiple websites or other platforms.' This cross-platform tracking implies sharing with third-party advertising or analytics networks and must be declared.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Web browsing history' is 'Shared' with third parties for purposes like 'Advertising or marketing' or 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "justification": "The policy states that data for KYC is processed by ChatGPT, which 'maintains its own policies' that users must consent to. This establishes ChatGPT as an independent third party, not a service provider, making this a 'sharing' event.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Name' is 'Shared' with third parties for 'Fraud prevention, security, and compliance' or 'App functionality'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• Social Media Widgets: Our Site may include social media features, such as the Facebook logins, “like” button and widgets, such as the \"share this\" button. These features may collect your personal information and track your use of the Site. These social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing such functionality.",
+      "justification": "The policy states that social media features like Facebook logins collect personal information and are 'governed by the privacy policy of the company providing such functionality.' This indicates the third party is not a service provider, and the sharing of an email address for login must be declared.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Email address' is 'Shared' with third parties for 'Account management' or 'App functionality'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "justification": "The policy states that data for KYC is processed by ChatGPT, which 'maintains its own policies' that users must consent to. This establishes ChatGPT as an independent third party, not a service provider, making this a 'sharing' event.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'User IDs' is 'Shared' with third parties for 'Fraud prevention, security, and compliance' or 'App functionality'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "justification": "The policy states that data for KYC is processed by ChatGPT, which 'maintains its own policies' that users must consent to. This establishes ChatGPT as an independent third party, not a service provider, making this a 'sharing' event.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Address' is 'Shared' with third parties for 'Fraud prevention, security, and compliance' or 'App functionality'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "justification": "The policy states that data for KYC is processed by ChatGPT, which 'maintains its own policies' that users must consent to. This establishes ChatGPT as an independent third party, not a service provider, making this a 'sharing' event.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Other info' is 'Shared' with third parties for 'Fraud prevention, security, and compliance' or 'App functionality'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "justification": "The policy states that data for KYC is processed by ChatGPT, which 'maintains its own policies' that users must consent to. This establishes ChatGPT as an independent third party, not a service provider, making this a 'sharing' event.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Photos' is 'Shared' with third parties for 'Fraud prevention, security, and compliance' or 'App functionality'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "justification": "The policy states that data for KYC is processed by ChatGPT, which 'maintains its own policies' that users must consent to. This establishes ChatGPT as an independent third party, not a service provider, making this a 'sharing' event.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Videos' is 'Shared' with third parties for 'Fraud prevention, security, and compliance' or 'App functionality'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "justification": "The policy states that data for KYC is processed by ChatGPT, which 'maintains its own policies' that users must consent to. This establishes ChatGPT as an independent third party, not a service provider, making this a 'sharing' event.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Files and docs' is 'Shared' with third parties for 'Fraud prevention, security, and compliance' or 'App functionality'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

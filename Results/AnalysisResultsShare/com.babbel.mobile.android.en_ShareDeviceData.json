@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "12.2.3 Category\nInternet or other similar network activity information\nSource\nDirectly from consumers when interacting with our services\nDisclose(d) to\nVendors, service providers and other third parties\nSell/Sold to\nThird parties helping with retargeting advertising to you\nShare(d) with\nThird parties helping with retargeting advertising to you",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "12.2.3 Category\nInternet or other similar network activity information\nSource\nDirectly from consumers when interacting with our services\nDisclose(d) to\nVendors, service providers and other third parties\nSell/Sold to\nThird parties helping with retargeting advertising to you\nShare(d) with\nThird parties helping with retargeting advertising to you",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "12.2.3 Category\nInternet or other similar network activity information\nSource\nDirectly from consumers when interacting with our services\nDisclose(d) to\nVendors, service providers and other third parties\nSell/Sold to\nThird parties helping with retargeting advertising to you\nShare(d) with\nThird parties helping with retargeting advertising to you",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "12.2.3 Category\nInternet or other similar network activity information\nSource\nDirectly from consumers when interacting with our services\nDisclose(d) to\nVendors, service providers and other third parties\nSell/Sold to\nThird parties helping with retargeting advertising to you\nShare(d) with\nThird parties helping with retargeting advertising to you",
+      "lang": "English"
+    }
+  ]
+}

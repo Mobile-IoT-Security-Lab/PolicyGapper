@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "| • The contents of email messages in the email inboxes that you connect to your Shop account, and information from email messages you transfer to the app to be included in your order history (if you use Shop). | |",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "You: We collect the information you provide when you use our platform, including when you sign up for Shopify as a merchant, visit a Shopify-powered store, fill in order information, visit one of Shopify's websites or contact Shopify support. We collect account and payment information you provide to us (including information about your business if you are a merchant), Shopify stores or items you save to favorites, purchases you make, reviews you post, and how you otherwise interact or communicate with stores or other users on our apps or services. We also collect information about how you browse through our apps and sites, including search terms you may enter.",
+"lang": "en"
+}
+]
+}

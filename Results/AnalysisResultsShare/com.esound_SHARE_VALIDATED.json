@@ -1,0 +1,61 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and online services, including your IP address, device identifiers, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by eSound and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and online services, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. If you are in the EU, please visit www.youronlinechoices.eu/. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or \"Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.",
+      "justification": "The policy states data is used by 'eSound and others' for targeted advertising on 'our Services and other websites'. Use by 'others' for their own purposes on other services is non-exempt sharing.",
+      "how_to_fix": "Declare that 'App interactions' is shared for 'Advertising or marketing' purposes in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and online services, including your IP address, device identifiers, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by eSound and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and online services, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. If you are in the EU, please visit www.youronlinechoices.eu/. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or \"Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.",
+      "justification": "The policy states third parties collect information about use of 'other websites and online services' for targeted advertising. This is non-exempt sharing of web browsing history.",
+      "how_to_fix": "Declare that 'Web browsing history' is shared for 'Advertising or marketing' purposes in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We share information about you as follows and as otherwise described in this Privacy Policy:\nWith companies and contractors that perform services for us, including email service providers,\npayment processors, fraud prevention vendors and other service providers;\nIn response to a request for information if we believe disclosure is in accordance with, or\nrequired by, any applicable law or legal process, including lawful requests by public authorities to\nmeet national security or law enforcement requirements;\nIf we believe your actions are inconsistent with our user agreements or policies, if we believe you\nhave violated the law, or to protect the rights, property, and safety of eSound or others;\nIn connection with, or during negotiations of, any merger, sale of company assets, financing or\nacquisition of all or a portion of our business by another company;\nBetween and among eSound and our current and future parents, affiliates, subsidiaries, and\nother companies under common control and ownership; and\nWith your consent or at your direction. For instance, you may choose to share actions you take\non our Services with third-party social media services via the integrated tools we provide via our\nServices.",
+      "justification": "The policy states information is shared with 'current and future parents, affiliates, subsidiaries'. Sharing with affiliates is not covered by the service provider exemption and must be disclosed.",
+      "how_to_fix": "Declare that 'Email address' is shared in the Data Safety section. The purpose of sharing with affiliates must also be declared.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "In the last 12 months, we collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials).",
+      "reason_of_removal": "The provided policy reference only confirms data collection, not sharing. It is insufficient evidence for an omitted 'sharing' declaration.",
+      "justification": "The provided text confirms collection of this data type but does not mention sharing it with third parties. Therefore, it cannot be classified as a non-exempt sharing violation based on this reference alone.",
+      "how_to_fix": "Ensure collection of this data type is declared. If it is also shared, the policy and Data Safety section must be updated to reflect this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "In the last 12 months, we collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials).",
+      "reason_of_removal": "The provided policy reference only confirms data collection, not sharing. It is insufficient evidence for an omitted 'sharing' declaration.",
+      "justification": "The provided text confirms collection of this data type but does not mention sharing it with third parties. Therefore, it cannot be classified as a non-exempt sharing violation based on this reference alone.",
+      "how_to_fix": "Ensure collection of this data type is declared. If it is also shared, the policy and Data Safety section must be updated to reflect this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "In the last 12 months, we collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials).",
+      "reason_of_removal": "The provided policy reference only confirms data collection, not sharing. It is insufficient evidence for an omitted 'sharing' declaration.",
+      "justification": "The provided text confirms collection of this data type but does not mention sharing it with third parties. Therefore, it cannot be classified as a non-exempt sharing violation based on this reference alone.",
+      "how_to_fix": "Ensure collection of this data type is declared. If it is also shared, the policy and Data Safety section must be updated to reflect this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "In the last 12 months, we collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials).",
+      "reason_of_removal": "The provided policy reference only confirms data collection, not sharing. It is insufficient evidence for an omitted 'sharing' declaration.",
+      "justification": "The provided text confirms collection of this data type but does not mention sharing it with third parties. Therefore, it cannot be classified as a non-exempt sharing violation based on this reference alone.",
+      "how_to_fix": "Ensure collection of this data type is declared. If it is also shared, the policy and Data Safety section must be updated to reflect this sharing.",
+      "lang": "English"
+    }
+  ]
+}
+```

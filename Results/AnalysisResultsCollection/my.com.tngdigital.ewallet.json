@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• personal information that you provide when you apply for any of our products and services, including your views or opinions made known to us via feedback or surveys;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• information which we may collect from written communication when you provide us complaints or issue of inconveniences while using our service and we may use it for the purposes of communicating with you and to efficiently manage your requests and to resolve any other issues you may face;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• information relating to your activities, habits, preferences and interests arising from your use of products and services of TNGD Group, our partners or vendors; and/or",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Sensitive Personal Data includes data related to your physical or mental health, religious beliefs, political affiliations, criminal records, biometric data, or any other information that may be classified as sensitive under the PDPA. We will only process such data in accordance with applicable legal requirements, including obtaining your explicit consent where necessary. This Privacy Notice applies solely to individuals and governs how we collect, use, disclose, and safeguard your personal data in accordance with the PDPA Malaysia.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "information which we may collect from written communication when you provide us complaints or issue of inconveniences while using our service and we may use it for the purposes of communicating with you and to efficiently manage your requests and to resolve any other issues you may face;",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "information which we may collect from written communication when you provide us complaints or issue of inconveniences while using our service and we may use it for the purposes of communicating with you and to efficiently manage your requests and to resolve any other issues you may face;",
+      "lang": "en"
+    }
+  ]
+}

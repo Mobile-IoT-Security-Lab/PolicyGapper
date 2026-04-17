@@ -1,0 +1,158 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Installed apps",
+      "optional": 1,
+      "purpose": "Analytics, Fraud prevention, security, and compliance",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "App activity"
+    },
+    {
+      "data": "Photos",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Personalization, Account management",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Music files",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "Audio"
+    },
+    {
+      "data": "Contacts",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Personalization, Account management",
+      "type": "Contacts"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Personalization",
+      "type": "Messages"
+    },
+    {
+      "data": "Name",
+      "optional": 1,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": 1,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": 1,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": 1,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": 1,
+      "purpose": "App functionality, Personalization",
+      "type": "Location"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Independent security review",
+      "description": "This app has been independently validated against a global security standard. <a href=\"https://appdefensealliance.dev/masa\" target=\"_blank\">See details</a>"
+    }
+  ],
+  "privacyPolicyUrl": "http://www.google.com/policies/privacy"
+}

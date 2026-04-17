@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "a. Your mobile number and SMS verification code: We will send a verification code to your mobile number via SMS to confirm your identity. Failure to provide the verification code will result in a failed registration, and you will not be able to use our services. Please note that the mobile number you provide will serve as your user account and identity credential for logging in.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "e. User Profile: You may create your profile by creating your avatar with the tool provided by us, setting your nickname, region and providing a self-introduction of you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you contact our Customer Support team via feedback features in our Service or through any other means, we may receive your email address, your IP address as well as the information you send to us to help resolve your query. When you provide feedback to us you automatically consent us to receive and use such information. You also consent that we are allowed to keep records of our communications with you, including any complaints that we receive from you about other users (and from other users about you).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Achat has a strong commitment to upholding intellectual property laws and has implemented a policy to address any instances of infringement on its products and services. If you believe that any materials or content within Achat's app violate copyrights, trademarks, patents, or trade secrets (referred to collectively as \"IP Rights\"), please submit a notice of infringement to Achat's designated agent. This notice should include a physical signature from the owner of the infringed IP Right.\n(1) Identification of the material that is claimed to be infringing, including its location on the Achat network, with sufficient detail so that Achat is capable of finding the material and verifying its existence. Please address your intention to remove the alleged infringed materials.\n(2) Contact information, including your name, address, telephone number, and email address.\n(3) A statement by you that you have a good faith belief that the disputed use is not authorized by the IP Right owner, its agent or law.\n(4) A statement by you that the above information in your Notice is accurate and that, under penalty of perjury, you are the IP Right owner or authorized to act on the IP Right owner's Behalf.\n(5) Agree to undertake compensation responsibility to Achat for any false and incorrect information addressed in above statements.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "| Information about how you use the Service, such as the time you access the Service and how long you access it for, the approximate location that you access the Service from, the site from which you came and the site to which you are going when you leave the Service, the pages you visit, the links you click, your interactions on the Service and other actions you take on the Service. | We use this information to operate the Service and present it to you in the correct format for your device. | The processing is necessary for the performance of a contract with you. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you use our Service, we may collect the following Personal Data:\n•\n•\n•\nProfile information, such as name, gender, age group and hobbies and interests;\n• Language learning information, such as native language, language learning\ngoals and priorities, previous experience learning English and current proficiency\nlevel;\n• Subscription information, such as the start date and duration of the subscription\nto the Service that you purchase and any free trial periods;\nPurchase information, namely confirmation that you have purchased a\nsubscription to the Service through your App Store Account;\n• Your email address;\n• the Al tutor or avatar you select on the Service;\n• Recordings and transcripts of your conversations with the Al tutor on the\nService;\n• Your lesson plan and progress;\n• Your preferences, such as the preferences you set for push notifications, app\ninterface language and email communications.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "| Information about how you use the Service, such as the time you access the Service and how long you access it for, the approximate location that you access the Service from, the site from which you came and the site to which you are going when you leave the Service, the pages you visit, the links you click, your interactions on the Service and other actions you take on the Service. | We use this information to operate the Service and present it to you in the correct format for your device. | The processing is necessary for the performance of a contract with you. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "| Information about how you use the Service, such as the time you access the Service and how long you access it for, the approximate location that you access the Service from, the site from which you came and the site to which you are going when you leave the Service, the pages you visit, the links you click, your interactions on the Service and other actions you take on the Service. | We use this information to operate the Service and present it to you in the correct format for your device. | The processing is necessary for the performance of a contract with you. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Usage Data may include information such as your Device's Internet Protocol address\n(e.g. IP address), browser type, browser version, the pages of our Service that you\nvisit, the time and date of your visit, the time spent on those pages, unique device\nidentifiers and other diagnostic data.",
+      "lang": "English"
+    }
+  ]
+}

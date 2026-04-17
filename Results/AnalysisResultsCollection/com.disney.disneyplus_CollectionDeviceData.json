@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Information you provide in public forums on our sites and applications, such as your public posts;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Activity information about your use, and the use by any person(s) you authorize through your account (for example, through the creation of profiles under your Disney+ or Hulu account), of our sites and applications, such as the content you view or post, how often you use our services, and your preferences;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Usage, viewing, technical, and device data when you visit our sites, use our applications on third-party sites or platforms, or open emails we send, or connect with our wireless Internet access services and other similar technologies, including your browser or device type, unique device identifier, and IP address;",
+      "lang": "English"
+    }
+  ]
+}

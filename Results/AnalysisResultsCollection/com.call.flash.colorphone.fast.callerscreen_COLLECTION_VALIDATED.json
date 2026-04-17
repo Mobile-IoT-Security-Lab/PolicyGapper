@@ -1,0 +1,23 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may allow the third-party online advertising network such as Google Admob and Facebook ads to collect information about your use of our App over time for playing or displaying ads that may be of interest to you. To personalize the content of promotional communications relating to products and services offered by third parties on Google AdMob. You can find more information on how Google AdMob processes your personal data by visiting Google's Privacy & Terms.",
+      "justification": "The privacy policy states that third-party advertising networks like Google AdMob and Facebook Ads collect user information to display personalized ads. These services commonly use approximate location for ad targeting.",
+      "how_to_fix": "Declare 'Approximate location' as collected in your app's Data Safety section. Specify the purpose as 'Advertising or marketing' and indicate that this data is shared with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Contacts",
+      "policy_reference": "● Read your contacts\nWhen the phone receives an incoming call, you need to read the phone contact to ensure that the application can be\nused normally.\nPurpose : When the phone calls, the screen of the call show can be displayed normally.",
+      "reason_of_removal": "On-device Access/Processing",
+      "justification": "The policy describes reading contacts for a local feature (displaying a custom call screen) at the time of an incoming call. There is no indication that this data is sent off-device, qualifying it for the on-device processing exemption.",
+      "how_to_fix": "No action needed. This data type is exempt from being declared as 'collected' because it is only processed on-device.",
+      "lang": "en"
+    }
+  ]
+}
+```

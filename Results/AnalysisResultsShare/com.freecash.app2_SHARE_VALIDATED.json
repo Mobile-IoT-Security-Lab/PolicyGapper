@@ -1,0 +1,71 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Automated technologies or interactions. As you interact with our Website, we will automatically collect Technical Data about your devices, computer, equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs, and other similar technologies. Our Cookie Policy describes your options for controlling how we and our partners use cookies and similar technologies for advertising. Please note that you can always delete your account at any time. Please see our cookie policy for further details.",
+      "justification": "The policy states that browsing data is collected via cookies and used with partners for advertising. This constitutes 'sharing' with third parties for advertising purposes and must be declared.",
+      "how_to_fix": "In the Google Play Console Data safety section, declare that 'Web browsing history' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Third-party marketing\nWe will get your express opt-in consent before we share your personal data with any third party for marketing purposes. Visit our consent manager where you can view and make certain decisions about your personal data use.",
+      "reason_of_removal": "User Consent Exemption",
+      "justification": "The policy states that data is shared with third parties for marketing only after receiving 'express opt-in consent'. This is an exempt transfer under the Google Play User Data policy and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this declaration as it falls under the user consent exemption for 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Third-party marketing\nWe will get your express opt-in consent before we share your personal data with any third party for marketing purposes. Visit our consent manager where you can view and make certain decisions about your personal data use.",
+      "reason_of_removal": "User Consent Exemption",
+      "justification": "The policy states that data is shared with third parties for marketing only after receiving 'express opt-in consent'. This is an exempt transfer under the Google Play User Data policy and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this declaration as it falls under the user consent exemption for 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Third-party marketing\nWe will get your express opt-in consent before we share your personal data with any third party for marketing purposes. Visit our consent manager where you can view and make certain decisions about your personal data use.",
+      "reason_of_removal": "User Consent Exemption",
+      "justification": "The policy states that data is shared with third parties for marketing only after receiving 'express opt-in consent'. This is an exempt transfer under the Google Play User Data policy and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this declaration as it falls under the user consent exemption for 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Third-party marketing\nWe will get your express opt-in consent before we share your personal data with any third party for marketing purposes. Visit our consent manager where you can view and make certain decisions about your personal data use.",
+      "reason_of_removal": "User Consent Exemption",
+      "justification": "The policy states that data is shared with third parties for marketing only after receiving 'express opt-in consent'. This is an exempt transfer under the Google Play User Data policy and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this declaration as it falls under the user consent exemption for 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Third-party marketing\nWe will get your express opt-in consent before we share your personal data with any third party for marketing purposes. Visit our consent manager where you can view and make certain decisions about your personal data use.",
+      "reason_of_removal": "User Consent Exemption",
+      "justification": "The policy states that data is shared with third parties for marketing only after receiving 'express opt-in consent'. This is an exempt transfer under the Google Play User Data policy and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this declaration as it falls under the user consent exemption for 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Legal/partner requirements\nselfie, government ID images and extracted fields (name, date of birth, document number, issuing country, validity), device/technical metadata (e.g. IP, device identifiers), and verification outcomes (pass/fail, risk signals, provider references)\nWhere applicable, we conduct identity checks to comply with financial-crime and tax obligations or partner/vendor rules (legal obligation)",
+      "reason_of_removal": "Legal Purposes Exemption",
+      "justification": "The policy states this data is processed to comply with a 'legal obligation' (financial-crime and tax obligations). This is an exempt transfer under the Google Play User Data policy and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this declaration as it falls under the legal purposes exemption for 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Legal/partner requirements\nselfie, government ID images and extracted fields (name, date of birth, document number, issuing country, validity), device/technical metadata (e.g. IP, device identifiers), and verification outcomes (pass/fail, risk signals, provider references)\nWhere applicable, we conduct identity checks to comply with financial-crime and tax obligations or partner/vendor rules (legal obligation)",
+      "reason_of_removal": "Legal Purposes Exemption",
+      "justification": "The policy states this data is processed to comply with a 'legal obligation' (financial-crime and tax obligations). This is an exempt transfer under the Google Play User Data policy and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this declaration as it falls under the legal purposes exemption for 'sharing'.",
+      "lang": "English"
+    }
+  ]
+}
+```

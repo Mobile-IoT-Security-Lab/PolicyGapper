@@ -1,0 +1,36 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Diagnostics",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "App interactions",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "App activity"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 1,
+      "purpose": "App functionality, Analytics",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.fundaygames.dk/legal/privacy-policy"
+}

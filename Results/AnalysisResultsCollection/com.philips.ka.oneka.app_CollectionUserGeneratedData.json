@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Calendar events",
+"policy_reference": "The App may request your permission to access your mobile device's storage capabilities, sensors or other features (e.g. photos, agenda, contacts, camera, Wi-Fi, geo-location, or Bluetooth). We require access when strictly necessary to provide the Services as detailed below.",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "The App may request your permission to access your mobile device's storage capabilities, sensors or other features (e.g. photos, agenda, contacts, camera, Wi-Fi, geo-location, or Bluetooth). We require access when strictly necessary to provide the Services as detailed below.",
+"lang": "en"
+}
+]
+}

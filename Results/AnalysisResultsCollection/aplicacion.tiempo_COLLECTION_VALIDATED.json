@@ -1,0 +1,122 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Information collected automatically:\n•\nInformation about your device and its features.\n•\nInformation about your device's operating system.\n•\nInformation about your browser.\n•\nInformation about how to use the Services.\n•\nYour activities in the Services.\n•\nIP address.\n•\nAdvertising identifiers.\n•\nMobile or Internet providers.\n•\nType of browser.\n•\nBrowser identifier.\n•\nReference URL.\nThis information helps us to understand, analyse and measure how users use the Services; to\nmanage the Services operations; to offer ads and measure their effectiveness; to diagnose\nproblems, to recognise returning visitors; and to provide access to the Services, and their use, by\nyou.",
+      "justification": "The privacy policy states that 'Your activities in the Services' and 'how to use the Services' are collected automatically, which corresponds to the 'App interactions' data type.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "By sending a comment, an opinion of a photo or video: for example, you could send us a photo of a weather event you may have witness and we\nmight publish it on the Services so that other users can enjoy it.",
+      "justification": "The privacy policy states that users can send 'a comment, an opinion', which falls under 'Other User generated content'. The data is sent to the developer ('send us') and is not processed only on-device.",
+      "how_to_fix": "Declare 'Other User generated content' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "By reporting on the climate or other conditions: for example, you might tell us that in your area there is a cold or rainy climate.",
+      "justification": "The privacy policy describes users reporting on climate conditions ('you might tell us'), which is an 'Other action'. This data is sent off-device.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We work with various advertisers, advertising networks, ad servers (\"Advertising Partners\") that\nuse various technologies to collect data about how you use the Services (for example, the content\nviewed and the ads on which you have clicked) in order to offer you relevant ads. The Advertising\nPartners use various technologies in the Services through the website and within our mobile\napplications in order to (among other things): track use of the Services, the sites or content with\nwhich the users interact, and with what sites and mobile applications they interact once they leave\nthe Services; link user devices; and to offer more ads in the Services or on other websites or\nmobile applications you may visit.",
+      "justification": "The privacy policy states that data is collected on 'sites or content with which the users interact' and 'what sites and mobile applications they interact once they leave the Services', which constitutes 'Web browsing history'. This collection occurs within the mobile application.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Information collected automatically:\n•\nInformation about your device and its features.\n•\nInformation about your device's operating system.\n•\nInformation about your browser.\n•\nInformation about how to use the Services.\n•\nYour activities in the Services.\n•\nIP address.\n•\nAdvertising identifiers.\n•\nMobile or Internet providers.\n•\nType of browser.\n•\nBrowser identifier.\n•\nReference URL.\nThis information helps us to understand, analyse and measure how users use the Services; to\nmanage the Services operations; to offer ads and measure their effectiveness; to diagnose\nproblems, to recognise returning visitors; and to provide access to the Services, and their use, by\nyou.",
+      "justification": "The privacy policy states that automatically collected information is used to 'diagnose problems', which is consistent with the collection of 'Crash logs'. This data is sent off-device for analysis.",
+      "how_to_fix": "Declare 'Crash logs' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Information collected automatically:\n•\nInformation about your device and its features.\n•\nInformation about your device's operating system.\n•\nInformation about your browser.\n•\nInformation about how to use the Services.\n•\nYour activities in the Services.\n•\nIP address.\n•\nAdvertising identifiers.\n•\nMobile or Internet providers.\n•\nType of browser.\n•\nBrowser identifier.\n•\nReference URL.\nThis information helps us to understand, analyse and measure how users use the Services; to\nmanage the Services operations; to offer ads and measure their effectiveness; to diagnose\nproblems, to recognise returning visitors; and to provide access to the Services, and their use, by\nyou.",
+      "justification": "The privacy policy states that automatically collected information is used to 'diagnose problems' and 'manage the Services operations', which is consistent with the collection of 'Diagnostics' data. This data is sent off-device for analysis.",
+      "how_to_fix": "Declare 'Diagnostics' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We also have certain third parties who use data collection technologies to track use of the\nServices, analyse it and notify data related to them. They are also responsible for analysing and\noptimising the performance of the Services (\"Analytical Partners\").",
+      "justification": "The privacy policy states that third parties 'track use of the Services' and are responsible for 'analysing and optimising the performance of the Services', which corresponds to 'Other app performance data'. This data is sent off-device.",
+      "how_to_fix": "Declare 'Other app performance data' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Alerts and notifications:\nSome Services offer you the ability to receive push notifications for weather-related updates. To\nprovide these Services, it is possible we will have to collect your email address, information about\nthe device and/or information about the mobile telephone company, as well as the postcode or the\ngeographical area to which the alert, the update or the notification belong. If you do not want to\ncontinue to receive this type of notifications, you can deactivate them in the settings of the mobile\ndevice or of the specific Service where you have registered, or you can delete the application.",
+      "justification": "The privacy policy explicitly states, 'it is possible we will have to collect your email address' to provide alerts and notifications. This data is sent off-device.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Alerts and notifications:\nSome Services offer you the ability to receive push notifications for weather-related updates. To\nprovide these Services, it is possible we will have to collect your email address, information about\nthe device and/or information about the mobile telephone company, as well as the postcode or the\ngeographical area to which the alert, the update or the notification belong. If you do not want to\ncontinue to receive this type of notifications, you can deactivate them in the settings of the mobile\ndevice or of the specific Service where you have registered, or you can delete the application.",
+      "justification": "The privacy policy states that the app collects 'the postcode or the geographical area' to provide notifications, which falls under the 'Address' data type. This data is sent off-device.",
+      "how_to_fix": "Declare 'Address' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "By sending a comment, an opinion of a photo or video: for example, you could send us a photo of a weather event you may have witness and we might publish it on the Services so that other users can enjoy it.",
+      "justification": "The privacy policy states that users can send 'a comment, an opinion', which constitutes an in-app message. The data is sent to the developer ('send us') and is not processed only on-device.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "By sending a comment, an opinion of a photo or video: for example, you could send us a photo of a weather event you may have witness and we might publish it on the Services so that other users can enjoy it.",
+      "justification": "The privacy policy explicitly states that users can 'send us a photo'. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "By sending a comment, an opinion of a photo or video: for example, you could send us a photo of a weather event you may have witness and we might publish it on the Services so that other users can enjoy it.",
+      "justification": "The privacy policy explicitly states that users can send a 'video'. This data is sent off-device ('send us') and is not exempt.",
+      "how_to_fix": "Declare 'Videos' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The privacy policy states that the developer receives 'oral... questions or comments', which are 'Voice or sound recordings'. This data is sent off-device ('we receive the information').",
+      "how_to_fix": "Declare 'Voice or sound recordings' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "If the reason for contacting the company and sending information about yourself is that you are seeking employment (sending CVs, etc.). The data provided shall be processed to assess your possible candidacy for job offers at the company. If the data provided are of interest to the company, a profile shall be drawn up and they shall be filed away for human resources management.",
+      "justification": "The privacy policy mentions 'sending CVs', which are a type of 'Files and docs'. This data is sent to and processed by the company off-device.",
+      "how_to_fix": "Declare 'Files and docs' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "On the mobile website, if you choose not to share your current location, you may continue to\nreceive content relevant to the town/city you have entered in the search bar (that is, the name of\nthe contextual town/city).",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy explicitly states this data is collected 'On the mobile website', which is exempt from the app's Data Safety disclosure requirements.",
+      "how_to_fix": "No action needed. This data type is correctly omitted as it falls under the website collection exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Alerts and notifications: Some Services offer you the ability to receive push notifications for weather-related updates. To provide these Services, it is possible we will have to collect your email address, information about the device and/or information about the mobile telephone company, as well as the postcode or the geographical area to which the alert, the update or the notification belong. If you do not want to continue to receive this type of notifications, you can deactivate them in the settings of the mobile device or of the specific Service where you have registered, or you can delete the application.",
+      "reason_of_removal": "Inconsistent: policy reference does not mention the data type.",
+      "justification": "The policy states the collection of 'email address', not the content of 'Emails' (e.g., subject, body, sender). The 'Email address' data type is the correct one for this reference.",
+      "how_to_fix": "No action needed. The data type 'Emails' is not supported by the policy text and should not be declared.",
+      "lang": "en"
+    }
+  ]
+}
+```

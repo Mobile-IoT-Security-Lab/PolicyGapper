@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• name, age, gender, photo, address, phone number, e-mail id, and any other details when you create an account with us, your contacts, nominee details",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "• financial history and other information for the purpose of providing you PhonePe services, verifying and authenticating an investment transaction request you place with us to prevent suspicious transactions, or to comply with court judgements and bankruptcies, from credit reference and fraud prevention agencies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "• KYC-related information such as PAN, income details, your business-related information, videos or other online/ offline verification documents as mandated by relevant regulatory authorities.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "• your health and lifestyle-related information, including your physical activity, when you opt for health-tracking services",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "• your health and lifestyle-related information, including your physical activity, when you opt for health-tracking services",
+      "lang": "English"
+    }
+  ]
+}

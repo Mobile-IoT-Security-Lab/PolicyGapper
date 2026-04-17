@@ -1,0 +1,189 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "6) Activity information relating to internet or other electronic networks such as browsing or searching history, or interaction with a Website, ad, or app\nCollected: YES",
+      "justification": "The privacy policy states that interaction data is collected from the app, and no exemption (e.g., on-device only, E2EE) is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "6) Activity information relating to internet or other electronic networks such as browsing or searching history, or interaction with a Website, ad, or app\nCollected: YES",
+      "justification": "The privacy policy states that search history is collected from the app, and no exemption (e.g., on-device only, E2EE) is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Other information that may be linked to personal information\n•\nContent You Post Publicly or Privately on Your Glam Labs Account;\n•\nSearches Completed through the Website;\n•\nPreference Settings;\n•\nStored Information or Files Created or Stored on Website or through the Services;\n• Any Emails You Send to Glam Labs;\n•\nTimes of Access to Website;\n•\nWebsites that Referred to Glam Labs;\n•\nYour Operating System Type",
+      "justification": "The privacy policy states that user-posted content is stored through the account or services, implying off-device collection. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Indirectly from you. For example, from observing your actions on our Website or through the use of our App(s) or Services or interactions with our advertisers.",
+      "justification": "The privacy policy explicitly states that user actions are observed through the use of the app. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "6) Activity information relating to internet or other electronic networks such as browsing or searching history, or interaction with a Website, ad, or app\nCollected: YES",
+      "justification": "The privacy policy states that browsing history is collected from interaction with the app, and no exemption (e.g., on-device only, E2EE) is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We retain your data for the following periods:\n1. Account Data\n•\nActive accounts: Duration of account existence\n•\nDeleted accounts: 30 days after deletion\n•\nPayment information: 7 years (legal requirement)\n2. Usage Data\n•\nLogin records: 90 days\n• Activity logs: 30 days\n•\nError logs: 60 days\n3. Communication Records\n•\nSupport tickets: 2 years\n•\nEmail correspondence: 1 year\n•\nChat logs: 90 days\n4. Al-Generated Content\n•\nGenerated images: 30 days\n• Training data: Deleted immediately after processing\n•\nModel data: Not retained",
+      "justification": "The privacy policy mentions the retention of 'Error logs', indicating they are collected and stored off-device. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Cookie Categories\n1. Essential Cookies (No Consent Required)\n• Security\n• Load balancing\n• User authentication\n2. Functional Cookies (Consent Required)\n• Language preferences\n• User customization\n• Session management\n3. Analytics Cookies (Consent Required)\n• Usage statistics\n• Performance monitoring\n• Error tracking\n4. Marketing Cookies (Explicit Consent Required)\n• Advertising\n• Social media integration\n• Behavioral tracking",
+      "justification": "The privacy policy mentions 'Analytics Cookies' for 'Performance monitoring' and 'Error tracking', which constitutes off-device data collection for diagnostics. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Cookie Categories\n1. Essential Cookies (No Consent Required)\n• Security\n• Load balancing\n• User authentication\n2. Functional Cookies (Consent Required)\n• Language preferences\n• User customization\n• Session management\n3. Analytics Cookies (Consent Required)\n• Usage statistics\n• Performance monitoring\n• Error tracking\n4. Marketing Cookies (Explicit Consent Required)\n• Advertising\n• Social media integration\n• Behavioral tracking",
+      "justification": "The privacy policy mentions 'Analytics Cookies' for 'Usage statistics' and 'Performance monitoring', which constitutes off-device data collection for app performance. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "1). Identifiers, such as: names, e-mail addresses, Internet Protocol addresses, or other similar identifiers.\nCollected: YES",
+      "justification": "The privacy policy states that 'Internet Protocol addresses' and 'other similar identifiers' are collected, which are sent off-device during app use. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Personal Information, that may be used to identify you as an individual (Personal information is any information related to an identified or identifiable natural person). • • • First and Last Name; Profile Picture or Avatar; Profile Information from Third-Party Social Media and Payment Websites; • Your Email Address; • IP Address; • Your gender",
+      "justification": "The privacy policy explicitly states that 'First and Last Name' are collected as part of personal information, implying off-device storage. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Personal Information, that may be used to identify you as an individual (Personal information is any information related to an identified or identifiable natural person). • • • First and Last Name; Profile Picture or Avatar; Profile Information from Third-Party Social Media and Payment Websites; • Your Email Address; • IP Address; • Your gender",
+      "justification": "The privacy policy explicitly states that 'Your Email Address' is collected, implying off-device storage for account purposes. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "1). Identifiers, such as: names, e-mail addresses, Internet Protocol addresses, or other similar identifiers. Collected: YES",
+      "justification": "The privacy policy states that 'identifiers' are collected. This implies user-specific IDs are generated and stored off-device. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "2) Personal information categories listed in the California Customer Records statute (Cal. Civ. Code §1798.80(e)) such as: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories. Collected: YES",
+      "justification": "The privacy policy explicitly lists 'address' as a type of personal information that is collected, implying off-device storage. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "2) Personal information categories listed in the California Customer Records statute (Cal. Civ. Code §1798.80(e)) such as: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories. Collected: YES",
+      "justification": "The privacy policy explicitly lists 'telephone number' as a type of personal information that is collected, implying off-device storage. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Information about your gender: When you use our Al Avatars feature, we ask you about your gender. This information is used by the Al model solely to generate the Avatars in accordance with the indicated gender: for example, if you choose to identify your gender as a female, then you will receive conventionally more feminine-like Avatars.",
+      "justification": "The privacy policy states that gender information is collected and used by an AI model, which implies off-device processing. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "2) Personal information categories listed in the California Customer Records statute (Cal. Civ. Code §1798.80(e)) such as: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories. Collected: YES",
+      "justification": "The privacy policy explicitly lists 'bank account number, credit card number, debit card number' as collected data, which is processed off-device for transactions. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "4) Commercial information obtained, purchased or considered, such as records of personal property, records of products or Services purchased or other purchasing or use histories or tendencies Collected: YES",
+      "justification": "The privacy policy states that 'records of products or Services purchased' are collected, implying off-device storage. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "2) Personal information categories listed in the California Customer Records statute (Cal. Civ. Code §1798.80(e)) such as: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories. Collected: YES",
+      "justification": "The privacy policy states that 'any other financial information' is collected, implying off-device processing and storage. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "2) Personal information categories listed in the California Customer Records statute (Cal. Civ. Code §1798.80(e)) such as: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories. Collected: YES",
+      "justification": "The privacy policy explicitly lists 'medical information, or health insurance information' as collected data, implying off-device storage. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Other information that may be linked to personal information\n•\nContent You Post Publicly or Privately on Your Glam Labs Account;\n•\nSearches Completed through the Website;\n•\nPreference Settings;\n•\nStored Information or Files Created or Stored on Website or through the Services;\n• Any Emails You Send to Glam Labs;\n•\nTimes of Access to Website;\n•\nWebsites that Referred to Glam Labs;\n•\nYour Operating System Type",
+      "justification": "The privacy policy states that 'Any Emails You Send to Glam Labs' are collected, which are processed and stored off-device. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "3. Communication Records\n•\nSupport tickets: 2 years\n•\nEmail correspondence: 1 year\n•\nChat logs: 90 days",
+      "justification": "The privacy policy mentions retention of 'Support tickets' and 'Chat logs', indicating they are collected and stored off-device. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Al Avatars: In order to generate Al Avatars, you have to upload 10-20 photos to GLAM. At this point, your photos are stored on our servers (provided by Amazon Web Services (USA)). Then, a copy of the Stable Diffusion model is created to be retrained with your photos to personalize the model and to create your Avatars. Immediately after the successful generation of Avatars, your original photos are deleted from our servers. Your purchased Avatars are stored on our servers so that they remain accessible to you in GLAM at any time and from any device until you decide to delete them.",
+      "justification": "The privacy policy explicitly states that photos are uploaded and 'stored on our servers', which is off-device collection. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "4. Consent Mechanisms: We obtain your informed consent before processing your photos, videos, or gender information for Al features. You may withdraw consent at any time via the app or by emailing us.",
+      "justification": "The privacy policy states that videos are processed for AI features, which implies they are sent off-device for processing. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "8) Audio, visual, thermal, electronic, olfactory or other similar information\nCollected: YES",
+      "justification": "The privacy policy states that 'Audio... information' is collected, implying off-device storage or processing. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "8) Audio, visual, thermal, electronic, olfactory or other similar information\nCollected: YES",
+      "justification": "The privacy policy states that 'Audio... information' is collected, implying off-device storage or processing. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Other information that may be linked to personal information\n•\nContent You Post Publicly or Privately on Your Glam Labs Account;\n•\nSearches Completed through the Website;\n•\nPreference Settings;\n•\nStored Information or Files Created or Stored on Website or through the Services;\n• Any Emails You Send to Glam Labs;\n•\nTimes of Access to Website;\n•\nWebsites that Referred to Glam Labs;\n•\nYour Operating System Type",
+      "justification": "The privacy policy states that 'Stored Information or Files' are created or stored through the services, implying off-device collection. No exemption is mentioned.",
+      "how_to_fix": "Declare this data type as 'collected' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

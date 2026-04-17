@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "• IRCTC can share relevant customer information with its aggregator or restaurant partners to create user accounts and serve the order seamlessly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• IRCTC can share relevant customer information with its aggregator or restaurant partners to create user accounts and serve the order seamlessly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "• IRCTC can share relevant customer information with its aggregator or restaurant partners to create user accounts and serve the order seamlessly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• IRCTC can share relevant customer information with its aggregator or restaurant partners to create user accounts and serve the order seamlessly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• IRCTC's payment reconciliation team works on a 24 x 7 basis, IRCTC offers no guarantees whatsoever for the accuracy or timeliness of the refunds reaching the Customers bank accounts. This is on account of the multiplicity of organizations involved in processing of online transactions,",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• IRCTC can share relevant customer information with its aggregator or restaurant partners to create user accounts and serve the order seamlessly.",
+      "lang": "English"
+    }
+  ]
+}

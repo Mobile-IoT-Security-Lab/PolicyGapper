@@ -1,0 +1,62 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "The Service may also include behaviorally profiled advertisements. For the purposes of providing relevant advertisements to you, we may share your device specific advertising ID to advertising networks.",
+      "justification": "The policy states the advertising ID is shared with advertising networks for profiled ads, which constitutes 'sharing' with a third party for marketing purposes under Google Play policy and must be declared.",
+      "how_to_fix": "In the Google Play Console, under Data safety > Data sharing, declare that 'Device or other IDs' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you are a resident of the State of California and you have provided your personal data to us, you have the right to request a list of all third parties to which we have disclosed your personal data for direct marketing purposes. Under California law, you have the right to submit such a request to us and receive the following information:\n\n- The categories of information we have disclosed to third parties for third parties' direct marketing purposes during the preceding year (if any); and\n\nThe names and addresses of third parties that received such information, or if the nature of their business cannot be determined from the name, then examples of the products or services marketed.",
+      "justification": "The policy confirms that personal data, which can include email addresses, has been disclosed to third parties for their own direct marketing purposes. This is a declarable 'sharing' event.",
+      "how_to_fix": "In the Google Play Console, under Data safety > Data sharing, declare that 'Email address' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "When you book a ride with your chosen Transport Provider, we provide the relevant Transport Provider with the following information: your name, phone number, pick-up and drop-off locations, pick up time, and any additional information that you chose to provide us with.",
+      "reason_of_removal": "User-initiated sharing exemption",
+      "justification": "Data is shared with a third party (Transport Provider) only to fulfill a service explicitly requested by the user ('book a ride'). This does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action needed. This sharing is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you book a ride with your chosen Transport Provider, we provide the relevant Transport Provider with the following information: your name, phone number, pick-up and drop-off locations, pick up time, and any additional information that you chose to provide us with.",
+      "reason_of_removal": "User-initiated sharing exemption",
+      "justification": "Data is shared with a third party (Transport Provider) only to fulfill a service explicitly requested by the user ('book a ride'). This does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action needed. This sharing is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "When you book a ride with your chosen Transport Provider, we provide the relevant Transport Provider with the following information: your name, phone number, pick-up and drop-off locations, pick up time, and any additional information that you chose to provide us with.",
+      "reason_of_removal": "User-initiated sharing exemption",
+      "justification": "Data is shared with a third party (Transport Provider) only to fulfill a service explicitly requested by the user ('book a ride'). This does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action needed. This sharing is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "When you book a ride with your chosen Transport Provider, we provide the relevant Transport Provider with the following information: your name, phone number, pick-up and drop-off locations, pick up time, and any additional information that you chose to provide us with.",
+      "reason_of_removal": "User-initiated sharing exemption",
+      "justification": "Data is shared with a third party (Transport Provider) only to fulfill a service explicitly requested by the user ('book a ride'). This does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action needed. This sharing is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "The Service may also include behaviorally profiled advertisements. For the purposes of providing relevant advertisements to you, we may share your device specific advertising ID to advertising networks.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy explicitly mentions 'device specific advertising ID', which corresponds to the 'Device or other IDs' data type, not 'User IDs'.",
+      "how_to_fix": "No action needed. The correct data type ('Device or other IDs') is already flagged for declaration.",
+      "lang": "English"
+    }
+  ]
+}
+```

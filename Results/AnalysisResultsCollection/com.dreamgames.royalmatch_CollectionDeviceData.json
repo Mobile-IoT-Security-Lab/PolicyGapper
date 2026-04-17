@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User Generated Content, including any files, documents, videos, images, data, or information you choose to upload or transmit through your communications with us or your use of our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Analytics Data, including a user ID that is associated with details about how you use and interact with our games, advertising and other Services; event and conversion data about how and when you use our Services; information about the device you use to access our Services; your Internet Protocol (“IP”) address; browsing history and interactions with our website; operating system and version; internet browser type and version and other details regarding the performance of our Services on your device, including crash logs and diagnostic information (such as battery life, loading time, latency, framerate, or other technical diagnostics);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Analytics Data, including a user ID that is associated with details about how you use and interact with our games, advertising and other Services; event and conversion data about how and when you use our Services; information about the device you use to access our Services; your Internet Protocol (“IP”) address; browsing history and interactions with our website; operating system and version; internet browser type and version and other details regarding the performance of our Services on your device, including crash logs and diagnostic information (such as battery life, loading time, latency, framerate, or other technical diagnostics);",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We work with third-party advertising partners to show you ads that we think may interest you. These partners may collect information about your activity on the BlaBlaCar Platform and on other websites and apps to predict your interests and to select and display ads for you. This may include the use of cookies and similar technologies to collect information about your device, such as your device’s advertising ID, IP address, and information about your browser or operating system.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We work with third-party advertising partners to show you ads that we think may interest you. These partners may collect information about your activity on the BlaBlaCar Platform and on other websites and apps to predict your interests and to select and display ads for you. This may include the use of cookies and similar technologies to collect information about your device, such as your device’s advertising ID, IP address, and information about your browser or operating system.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We work with third-party advertising partners to show you ads that we think may interest you. These partners may collect information about your activity on the BlaBlaCar Platform and on other websites and apps to predict your interests and to select and display ads for you. This may include the use of cookies and similar technologies to collect information about your device, such as your device’s advertising ID, IP address, and information about your browser or operating system.",
+      "lang": "English"
+    }
+  ]
+}

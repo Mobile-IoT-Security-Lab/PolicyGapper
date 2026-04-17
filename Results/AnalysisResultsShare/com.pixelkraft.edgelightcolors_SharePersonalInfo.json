@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Third Party SDKs or tools used in our apps:\nWe may, at any point in time, use one or more third party SDKs, tools or softwares from trusted\nsources in our applications for any of (but not limited to) the below reasons -\n1. Capturing Analytics, data & information to further improve our apps & services\n2. Enable monetization through advertising or subscriptions\n3. Enable in-app messaging, notifications to users\n4. Host data & content to display within the app\nSome of the commonly used third party tools in the app are Google AdMob, Facebook Audience\nNetwork, One Signal, Firebase, Crashlytics and Google Play Services. We may at any time add or\nremove any of the new or existing third party softwares.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Third Party SDKs or tools used in our apps:\nWe may, at any point in time, use one or more third party SDKs, tools or softwares from trusted\nsources in our applications for any of (but not limited to) the below reasons -\n1. Capturing Analytics, data & information to further improve our apps & services\n2. Enable monetization through advertising or subscriptions\n3. Enable in-app messaging, notifications to users\n4. Host data & content to display within the app\nSome of the commonly used third party tools in the app are Google AdMob, Facebook Audience\nNetwork, One Signal, Firebase, Crashlytics and Google Play Services. We may at any time add or\nremove any of the new or existing third party softwares.",
+      "lang": "English"
+    }
+  ]
+}

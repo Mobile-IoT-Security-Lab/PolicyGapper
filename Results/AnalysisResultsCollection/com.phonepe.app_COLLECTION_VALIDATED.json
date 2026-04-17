@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• name, age, gender, photo, address, phone number, e-mail id, and any other details when you create an account with us, your contacts, nominee details",
+      "justification": "The privacy policy states that user identifiers like name, phone number, and e-mail ID are collected when a user creates an account, which involves sending data off-device.",
+      "how_to_fix": "Declare 'User IDs' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "• financial history and other information for the purpose of providing you PhonePe services, verifying and authenticating an investment transaction request you place with us to prevent suspicious transactions, or to comply with court judgements and bankruptcies, from credit reference and fraud prevention agencies.",
+      "justification": "The privacy policy explicitly states the collection of financial history from credit reference agencies, which implies the data is processed off-device.",
+      "how_to_fix": "Declare 'Credit score' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "• KYC-related information such as PAN, income details, your business-related information, videos or other online/ offline verification documents as mandated by relevant regulatory authorities.",
+      "justification": "The privacy policy states that KYC-related information like PAN and income details are collected for regulatory purposes, which requires off-device processing.",
+      "how_to_fix": "Declare 'Other financial info' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "• your health and lifestyle-related information, including your physical activity, when you opt for health-tracking services",
+      "justification": "The privacy policy mentions collecting health information for 'health-tracking services', which implies the data is sent off-device to provide the service.",
+      "how_to_fix": "Declare 'Health info' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "• your health and lifestyle-related information, including your physical activity, when you opt for health-tracking services",
+      "justification": "The privacy policy mentions collecting physical activity information for 'health-tracking services', which implies the data is sent off-device to provide the service.",
+      "how_to_fix": "Declare 'Fitness info' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "• your Short Messaging Service (SMS(es)) that are stored on your device for the purposes of, including but not limited to, registering you and your device for payments or investment services, OTPs for logins and payments, enhancing your security, bill payment and recharge reminders, and any other legitimate uses with your explicit consent",
+      "justification": "The policy states SMS data is used for purposes like OTPs for logins and payments, which requires the data to be read from the device and sent off-device for verification. It does not state the processing is on-device only.",
+      "how_to_fix": "Declare 'SMS or MMS' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "accessing links, e-mails, chat conversations, feedbacks, notifications sent or owned by PhonePe Platform and if you opt to participate in our occasional surveys",
+      "justification": "The policy states the collection of 'chat conversations, feedbacks, notifications' which are inherently processed off-device on the platform's servers.",
+      "how_to_fix": "Declare 'Other in-app messages' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "• video, photo, audio, and location, based on your explicit consent through your app permissions (camera, microphone, location) when you opt for a product whose core functionality can be delivered only after accessing your app permissions, or where access is required for regulatory requirements, e.g., video-based KYC, self-inspection of your vehicle, and onboarding",
+      "justification": "The policy states that audio is collected for purposes like video-based KYC, which requires the data to be sent off-device for verification and processing.",
+      "how_to_fix": "Declare 'Voice or sound recordings' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

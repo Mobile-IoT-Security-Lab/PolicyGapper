@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• Profile Data – which includes your username and password, your interests, preferences (other than your communication preferences), feedback, survey responses and your conversations with us where recorded (by chatbot, call or otherwise).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "■ Usage Data – which includes information about how you use our Digital Products and your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Digital Products (including date and time), pages you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.",
+      "lang": "English"
+    }
+  ]
+}

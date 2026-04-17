@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We may share your personal information with companies that help us to run our business by processing personal information on behalf of us for the purposes identified above. Such companies include providers of payment processing services, server services providers, data analysis services providers, fraud monitoring and prevention providers, email delivery service providers, social media, and other marketing platforms and service providers. We use reasonable efforts to vet vendors for their privacy and data security practices. We require that such vendors agree to protect the data we share with them in accordance with this Policy, and access, process, or store your personal data only in the course of performing their duties to us. At the same time, we will clarify the privacy policy terms of these vendors with you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "③Third parties may use tracking technologies in connection with our Service, which may include the collection of information about your online activities over time and across third party websites.\nThis Policy does not apply to these third party technologies because we may not control them and we are not responsible for them. Do Not Track is a technology that enables users to opt out of tracking by websites they do not visit. Currently, we do not monitor or take any action with respect to Do Not Track technology.",
+      "lang": "English"
+    }
+  ]
+}

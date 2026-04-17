@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may collect information about the services that you use and how you use them, such as when you view and interact with our content.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Certain services include a unique application number.\nThis number and information about your installation (for example, the operating system type and application version number) may be sent to Live Weather Forecast & Weather Widget.\nwhen you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We may collect and use non-personal information in the followings.\nTo have a better understanding in user's behavior, solve problems in products and services,\nimprove our products, services and advertising, we may collect non-\npersonal information such as installed application name and package\nname, the data of install, frequency of use, country, equipment and\nchannel.",
+      "lang": "English"
+    }
+  ]
+}

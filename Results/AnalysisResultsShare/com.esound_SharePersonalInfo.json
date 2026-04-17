@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "In the last 12 months, we collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "In the last 12 months, we collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials).",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "In the last 12 months, we collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "In the last 12 months, we collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials).",
+      "lang": "English"
+    }
+  ]
+}

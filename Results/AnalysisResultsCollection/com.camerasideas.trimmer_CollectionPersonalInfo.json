@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Customer service and after-sales service:When you send feedback via email or provide us with an error report,we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Customer service and after-sales service:When you send feedback via email or provide us with an error report,we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Admob, AppLovin as advertisers of YouCut, may collect information generated during your use of our products and services, extract your preferences, and use them to show you ads that are more in line with your individual needs. We will use technical means to anonymize the data, and the anonymized information will not be able to identify the subject. If you are not interested in personalized display, you can choose to turn off the display of personalized content through \"Settings\"-\"Ad Personalization\". Please note that you may still see ads after turning off this option, but the relevance of ads will be reduced.",
+      "lang": "English"
+    }
+  ]
+}

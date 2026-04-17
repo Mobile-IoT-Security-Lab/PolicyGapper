@@ -1,0 +1,47 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We use Delhivery to deliver products to your doorstep. We also use Google Analytics to help us understand how our customers use the Site you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes sharing with Shopify, Delhivery, and Google Analytics for the purpose of powering the store, delivering products, and understanding site usage. These entities are acting as service providers, processing data on the developer's behalf, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This sharing is with a service provider and does not need to be declared as 'shared' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We use Delhivery to deliver products to your doorstep. We also use Google Analytics to help us understand how our customers use the Site you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes sharing with Shopify, Delhivery, and Google Analytics for the purpose of powering the store, delivering products, and understanding site usage. These entities are acting as service providers, processing data on the developer's behalf, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This sharing is with a service provider and does not need to be declared as 'shared' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We use Delhivery to deliver products to your doorstep. We also use Google Analytics to help us understand how our customers use the Site you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes sharing with Shopify, Delhivery, and Google Analytics for the purpose of powering the store, delivering products, and understanding site usage. These entities are acting as service providers, processing data on the developer's behalf, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This sharing is with a service provider and does not need to be declared as 'shared' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We use Delhivery to deliver products to your doorstep. We also use Google Analytics to help us understand how our customers use the Site you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes sharing with Shopify, Delhivery, and Google Analytics for the purpose of powering the store, delivering products, and understanding site usage. These entities are acting as service providers, processing data on the developer's behalf, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This sharing is with a service provider and does not need to be declared as 'shared' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We use Delhivery to deliver products to your doorstep. We also use Google Analytics to help us understand how our customers use the Site you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes sharing with Shopify, Delhivery, and Google Analytics for the purpose of powering the store, delivering products, and understanding site usage. These entities are acting as service providers, processing data on the developer's behalf, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This sharing is with a service provider and does not need to be declared as 'shared' in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

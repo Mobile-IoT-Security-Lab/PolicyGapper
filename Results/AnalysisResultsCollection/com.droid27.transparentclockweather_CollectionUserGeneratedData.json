@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "As a general rule, we do not collect or share any information that may be used to identify you as a person except when you contact us by email. In that case we will save your emails in order to serve you better. Once we are finished providing support to you we will delete all emails received by and sent to you. Please note that we take all the necessary steps to safeguard any personal information you may provide by email using strong passwords and 2-step authentication.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "When you join the Bliss Community we will store the following information on our secure servers:\na) The automatically generated username or the one that you provide at the time of registration\nb) A unique identifier (an automatically generated alphanumeric string) that is used to identify your account\nc) The mixes you have created with our app at the time of joining the Bliss Community\nd) Any mixes you create after you have joined the Bliss Community.\ne) Aggregated statistics about app usage (this is aggregated and anonymous, i.e., not linked to a user's account)",
+      "lang": "en"
+    }
+  ]
+}

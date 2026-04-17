@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "• Contact information, such as your name, email address or other contact information, if you have provided them to us (for example, if you create an account in our Services or subscribe to our communications),",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• Your messages to the Services (such as if you are in touch with us or our support agents about resolving issues in the Services, send messages to our forums or support),",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• Profile information (such as profile photo, if you choose to add this to your profile),",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "• If you choose to connect a third party account (for example a Facebook account) with our Services, we receive information from the third-party account provider (for example if you decide to sign up to our Service with Facebook login, we receive from Facebook your name, email address or other identifier to enable cross-device gameplay, profile picture, and friends information to connect you with your friends who already use our Services),",
+      "lang": "en"
+    }
+  ]
+}

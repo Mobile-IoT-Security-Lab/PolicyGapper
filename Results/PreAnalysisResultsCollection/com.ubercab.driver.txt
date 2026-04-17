@@ -1,0 +1,439 @@
+This notice describes the personal data (“data”) we collect, how it's used and shared, and your choices
+regarding this data. We recommend that you read this along with our privacy overview, which
+highlights key points about our privacy practices.
+
+---
+II. Data collections and uses
+A. Data we collect
+
+---
+This notice describes how we collect and use your data if you request or receive products or services
+through Uber's apps or websites, except when you use Uber Freight or Careem.
+
+---
+delivery person. Uber's notice describing our collection and use of such data is available here. Those
+who use Uber to either request, receive or provide services are referred to as “users” in this notice.
+
+---
+II. Data collections and uses
+
+---
+A. The data we collect
+Uber collects data:
+1. That you provide
+2. When you use our services
+3. From other sources
+Please go here for a summary of the data we collect and how we use it.
+
+---
+Uber collects the following data:
+1. Data you provide: This includes:
+
+---
+Data category
+Data types
+a. Account information. We collect data when
+you create or update your Uber account.
+• Address
+•
+Email
+•
+First and last name
+•
+Login name and password
+•
+Phone number
+•
+Payment method (including related
+payment verification information)
+• Profile picture
+•
+Settings (including accessibility
+settings) and preferences
+• Uber partner loyalty
+program information
+
+---
+b. Demographic data. We collect
+demographic data if necessary to enable
+certain features. For example:
+• We collect your date of birth and/or age
+to verify your eligibility to use age-
+restricted products or services, such as
+Uber for teens, or if you purchase
+alcohol, tobacco or cannabis products.
+• We collect or infer your gender to enable
+Women Rider Preference, and for
+marketing and advertising.
+We may also collect demographic data
+through user surveys.
+•
+Age or date of birth
+• Gender or inferred gender (using
+first name)
+
+---
+c. Identity verification information. This
+refers to the data that we collect to verify your
+account or identity.
+• Government-issued identification
+documents, such as driver's licenses or
+passports (which may contain
+identification photos and numbers,
+expiration date, date of birth,
+and gender)
+• User-submitted selfies
+
+---
+d. User content. This refers to the data that
+we collect when you:
+•
+•
+•
+Contact Uber for customer support or
+other inquiries.
+Use features that enable you to create
+Lists or reviews of restaurants
+or merchants
+Upload photos and recordings (including
+those submitted for purposes of
+customer support)
+• Provide ratings or feedback for drivers,
+delivery people, restaurants or
+• Chat logs and call recordings
+•
+Ratings or feedback
+• User created Lists or reviews of
+•
+restaurants or merchants
+Uploaded photos and recordings,
+including in-app audio recordings
+
+---
+e. Travel information. We collect travel
+itinerary information if you book bus, train or
+flight travel through Uber's apps.
+•
+Dates/times of travel
+
+---
+2. Data collected when you use our services: This includes:
+
+---
+Data category
+Data types
+a. Location data. If you request a ride, we track
+your driver's location during your trip, and link
+that data to your account. This allows us to
+display where you are on your trip.
+We also determine your approximate location,
+and can determine your precise location if you
+allow us to do so through the settings on your
+phone. If you do, we will collect your precise
+location from the time you request a ride or
+order until the ride is finished or your order is
+delivered. We also collect such data when you
+have the Uber app open on your
+phone's screen.
+You can use Uber without letting us collect
+your precise location. However, it may be less
+convenient for you, including because you will
+have to type your location into your phone
+instead of allowing us to detect it for you.
+• Approximate location
+•
+Precise location
+
+---
+See "Choice and transparency” section below
+for information on how to control whether
+Uber may collect your precise location data.
+
+---
+b. Trip/order information. This refers to the
+details we collect about your trip or order,
+including orders placed via guest
+checkout features.
+•
+•
+•
+Payment information (including amount
+charged and payment method)
+Proof of delivery (including photo
+or signature)
+Special instructions, allergies or
+food preferences
+• Statistics derived from past trip/order
+information, such as
+• Averages
+• Cancellation rates
+• Total trips/orders
+• Trip or order details, including
+• Date and time
+• Requested pickup and dropoff
+addresses
+• Distance traveled
+• Restaurant or merchant name and
+location
+• Items ordered
+
+---
+c. Usage data. This refers to data about how
+you interact with Uber's apps and websites.
+•
+App crashes and other system activity
+• Access dates and times
+•
+App features or pages viewed
+•
+Browser type
+
+---
+d. Device data. This refers to data about the
+device(s) you use to access Uber.
+• Advertising identifiers
+•
+Device motion data
+•
+Device IP address or other unique
+device identifiers
+• Hardware models
+• Mobile network data
+•
+Operating systems and versions
+• Preferred languages
+
+---
+e. Communications data. This refers to the
+data we collect when you communicate with
+drivers and delivery people through
+Uber's apps.
+• Communication type (phone or
+text message)
+• Content (including recordings of phone
+calls solely when users are notified of the
+recording in advance)
+•
+Date and time
+
+---
+3. Data from other sources: These include:
+
+---
+Data category
+Data types
+a. Law enforcement officials, public health
+officials and other government authorities.
+•
+Name and contact information
+•
+Information relating to law enforcement,
+health or other investigations
+
+---
+b. Marketing partners and service providers.
+This includes banks in connection with cash
+back programs,* and data resellers.*
+•
+Activity information
+•
+•
+Name and contact information
+User or device identifiers
+
+---
+c. Service providers who help us verify your
+identity or detect fraud.*
+•
+•
+• Confirmation of whether your account
+information relates to known persons
+Name and contact information
+Information relating to the wireless
+carrier associated with your
+phone number
+• Information from government-issued
+identification documents such as
+driver's licenses or passports (such as
+identification numbers, expiration date,
+date of birth, and gender)
+
+---
+d. Uber account owners. This refers to Uber
+account owners who request services for you
+(such as friends or family members), or who
+enable you to request services through their
+accounts (such as Enterprise Customers).
+•
+Name and contact information
+•
+•
+Trip/order info
+Location
+
+---
+e. Uber business partners (account creation
+and access, and APIs). Uber may receive your
+data from business partners through which
+you create or access your Uber account, such
+as payment providers, social media services,
+or apps or websites that use Uber's APIs or
+whose APIs Uber uses.
+• The information received from Uber
+business partners depends on which
+partners you use to create or access your
+Uber account, or the API used.
+
+---
+f. Uber business partners (debit or credit
+cards). Uber may receive your data from
+business partners in connection with debit or
+credit cards issued by a financial institution in
+partnership with Uber to the extent disclosed
+in the terms and conditions for the card.
+•
+Debit or credit card activity information
+
+---
+g. Users or others providing information in
+connection with customer support issues,
+claims or disputes.
+• Name
+• Evidence relating to accidents, conflicts,
+claims or disputes (which may include
+photos or recordings of you)
+
+---
+h. Users participating in Uber's referral
+programs. For example, if you are referred to
+•
+Name and contact information
+
+---
+Uber by another user, we receive your data
+from that user.
+
+---
+•
+•
+•
+•
+Collecting your ID number and/or a
+photo of your ID, and completing a
+verification to confirm that the ID is
+valid, unaltered and that no other
+account is associated with
+that document*
+Collecting a real-time selfie that we
+compare against the photo on your ID to
+confirm that it's the same person*
+Verifying your identity and/or age by
+collecting a photo of your ID when you
+receive delivery of age-restricted items
+like alcohol, tobacco or cannabis, or use
+products like Uber Rent and
+Uber Connect
+Verifying, when you rent a bike or
+scooter through Uber, that you are
+wearing a helmet, or other mandatory
+safety gear, by collecting a real-time
+selfie and using object
+verification technology
+
+---
+These tools look for patterns that may indicate fraudulent behavior, such as those
+that vary significantly from typical user behavior. To do this, Uber performs real-time
+monitoring of information collected from or generated by users, including location
+data, payment information, and Uber usage. We also examine historical data and
+compare it against real-time data to help detect suspicious behavior.
+
+---
+D. Cookies and related technologies
+Uber and its partners use cookies and other identification technologies on our apps,
+websites, emails, and online ads for purposes described in this notice, and Uber's
+Cookie Notice.
+
+---
+Cookies are small text files that are stored on browsers or devices by websites, apps, online media, and
+ads. Uber uses cookies and similar technologies for purposes such as:
+•
+•
+• Authenticating users
+•
+Remembering user preferences and settings
+Determining the popularity of content
+Delivering and measuring the effectiveness of advertising campaigns
+• Analyzing site traffic and trends, and generally understanding the online behaviors and interests
+of people who interact with our services.
+
+---
+We may also allow others to provide audience measurement and analytics services for us, to serve ads
+on our behalf across the internet or for other companies' products and services on our apps, and to
+track and report on the performance of those ads. These entities may use cookies, web beacons, SDKs
+and other technologies to identify the devices used by visitors to our websites, as well as when they
+visit other online sites and services.
+
+---
+These include the third parties, or categories of third parties, listed below. Where a third party is
+identified, please go to their linked privacy notices for information regarding their collection and use
+of personal data.
+
+---
+Uber retains your data for as long as necessary for the purposes described above, which varies
+depending on data type, the category of user to whom the data relates, the purposes for which we
+collected the data, and whether the data must be retained after an account deletion request for the
+purposes described below.
+
+---
+Uber enables you to access and/or control data that Uber collects, including through:
+1. Privacy settings
+2. Device permissions
+3. In-app ratings pages
+4. Marketing and advertising choices
+
+---
+You can set or update your preferences regarding location data collection and sharing,
+emergency data sharing, and notifications in Uber's Privacy Center, which is accessible via
+the Privacy menu in the Uber apps.
+
+---
+Location data collection
+You can enable/disable Uber's collection of your mobile device location data through
+your device settings, which are accessible via the location sharing menu in the
+Privacy Center in Uber's apps.
+
+---
+Third-party app access
+You may authorize third-party applications to access your Uber account data to
+enable additional features. You can review/withdraw access by third-party
+applications here.
+
+---
+2. Device permissions
+Most mobile device platforms (such as iOS and Android) have defined certain types of
+device data that apps cannot access without the device owner's permission, and these
+platforms have different methods for how that permission can be obtained. You should
+check the available settings on your devices, or check with your provider.
+
+---
+Data sharing and tracking
+You can choose here whether Uber may share your data with third parties, or collect
+data regarding your visits and actions on third-party apps or websites, for purposes of
+personalized ads.
+
+---
+Consent
+This legal basis applies when
+we notify you of how we will
+collect and use your data,
+and you voluntarily agree to
+that use of your data (in
+some cases, by enabling that
+collection and use through a
+device or Uber setting).
+Where we rely on consent,
+you have the right to
+withdraw your consent at any
+time, in which case we will
+cease that collection and use
+of your data.

@@ -1,0 +1,70 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content(for example, user bios, notes, or open-ended responses)",
+      "policy_reference": "Personal information refers to information that identifies specifically who you are, such as your name, e-mail address, or mailing address. We may also ask you for demographic information or other information such as ZIP Code, gender, date of birth and your interests. In many cases we need this information to provide the personalized or enhanced service that you have requested. You may provide us with this personal information if you register with WeatherBug, for a personalized service, submit pictures, video or other user generated content, or participate in a promotion or sweepstakes. We or our affiliates may also derive physical address information and infer other general or precise location-related information from the information collected from mobile devices, such as the stores and other places the device frequents, or usage information for differentiating and/or associating multiple device users as well as associating devices or users with locations such as a household or workplace.",
+      "justification": "The privacy policy states that this data is collected by the app, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may partner with GroundTruth and with various third parties that engage in interest-based advertising (\"IBA\"). This type of advertising involves the collection of web viewing, location-related information and mobile application use data from our Services and other non-affiliated websites and mobile applications over time and across associated devices. This data is used to infer interests and deliver relevant advertising back to a browser or device, and to browsers and devices that are associated with each other. WeatherBug adheres to the Digital Advertising Alliance's (\"DAA”) self-regulatory principles. Browser Choice: For more information about IBA, and to learn how you can exercise choice regarding the practice on your browser for companies that participate in the DAA WebChoices tool, you can visit http://www.aboutads.info/choices or TrustArc (click here).",
+      "justification": "The privacy policy states that this data is collected by the app, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We use mobile analytics to allow us to better understand the functionality of our application on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.",
+      "justification": "The privacy policy states that this data is collected by the app, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Internet or other electronic network activity information (such as browsing history, search history, interactions with a website, email, application, or advertisement)",
+      "justification": "The privacy policy states that this data is collected by the app, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Personal information refers to information that identifies specifically who you are, such as your name, e-mail address, or mailing address. We may also ask you for demographic information or other information such as ZIP Code, gender, date of birth and your interests. In many cases we need this information to provide the personalized or enhanced service that you have requested. You may provide us with this personal information if you register with WeatherBug, for a personalized service, submit pictures, video or other user generated content, or participate in a promotion or sweepstakes. We or our affiliates may also derive physical address information and infer other general or precise location-related information from the information collected from mobile devices, such as the stores and other places the device frequents, or usage information for differentiating and/or associating multiple device users as well as associating devices or users with locations such as a household or workplace.",
+      "justification": "The privacy policy states that this data is collected by the app, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Personal information refers to information that identifies specifically who you are, such as your name, e-mail address, or mailing address. We may also ask you for demographic information or other information such as ZIP Code, gender, date of birth and your interests. In many cases we need this information to provide the personalized or enhanced service that you have requested. You may provide us with this personal information if you register with WeatherBug, for a personalized service, submit pictures, video or other user generated content, or participate in a promotion or sweepstakes. We or our affiliates may also derive physical address information and infer other general or precise location-related information from the information collected from mobile devices, such as the stores and other places the device frequents, or usage information for differentiating and/or associating multiple device users as well as associating devices or users with locations such as a household or workplace.",
+      "justification": "The privacy policy states that this data is collected by the app, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Personal information refers to information that identifies specifically who you are, such as your name, e-mail address, or mailing address. We may also ask you for demographic information or other information such as ZIP Code, gender, date of birth and your interests. In many cases we need this information to provide the personalized or enhanced service that you have requested. You may provide us with this personal information if you register with WeatherBug, for a personalized service, submit pictures, video or other user generated content, or participate in a promotion or sweepstakes. We or our affiliates may also derive physical address information and infer other general or precise location-related information from the information collected from mobile devices, such as the stores and other places the device frequents, or usage information for differentiating and/or associating multiple device users as well as associating devices or users with locations such as a household or workplace.",
+      "justification": "The privacy policy states that this data is collected by the app, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Personal information refers to information that identifies specifically who you are, such as your name, e-mail address, or mailing address. We may also ask you for demographic information or other information such as ZIP Code, gender, date of birth and your interests. In many cases we need this information to provide the personalized or enhanced service that you have requested. You may provide us with this personal information if you register with WeatherBug, for a personalized service, submit pictures, video or other user generated content, or participate in a promotion or sweepstakes. We or our affiliates may also derive physical address information and infer other general or precise location-related information from the information collected from mobile devices, such as the stores and other places the device frequents, or usage information for differentiating and/or associating multiple device users as well as associating devices or users with locations such as a household or workplace.",
+      "justification": "The privacy policy states that this data is collected by the app, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Personal information refers to information that identifies specifically who you are, such as your name, e-mail address, or mailing address. We may also ask you for demographic information or other information such as ZIP Code, gender, date of birth and your interests. In many cases we need this information to provide the personalized or enhanced service that you have requested. You may provide us with this personal information if you register with WeatherBug, for a personalized service, submit pictures, video or other user generated content, or participate in a promotion or sweepstakes. We or our affiliates may also derive physical address information and infer other general or precise location-related information from the information collected from mobile devices, such as the stores and other places the device frequents, or usage information for differentiating and/or associating multiple device users as well as associating devices or users with locations such as a household or workplace.",
+      "justification": "The privacy policy states that this data is collected by the app, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

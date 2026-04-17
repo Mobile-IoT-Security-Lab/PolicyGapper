@@ -1,0 +1,87 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "2.4.1. Statistical and measurement data. In addition to the processing of your personal data as outlined for the particular Services in Chapter 3 below, we generally process your personal data also for statistical and analytical purposes. We also collect statistical and measurement data through automated means from Google Analytics. Although the data present in Google Analytics reports is anonymized and we are not able to associate it with you, please note that Google itself collects your IP address. More information about Google Analytics can be found here. For the similar reasons we also use other services, such as BigQuery (more information about Google BigQuery can be found here).",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is processed by Google Analytics and BigQuery for the developer's own statistical and analytical purposes. This falls under the service provider exemption, as they process data on the developer's behalf.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' for Data Safety purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "2.4.1. Statistical and measurement data. In addition to the processing of your personal data as outlined for the particular Services in Chapter 3 below, we generally process your personal data also for statistical and analytical purposes. We also collect statistical and measurement data through automated means from Google Analytics. Although the data present in Google Analytics reports is anonymized and we are not able to associate it with you, please note that Google itself collects your IP address. More information about Google Analytics can be found here. For the similar reasons we also use other services, such as BigQuery (more information about Google BigQuery can be found here).",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is processed by Google Analytics and BigQuery for the developer's own statistical and analytical purposes. This falls under the service provider exemption, as they process data on the developer's behalf.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' for Data Safety purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "2.4.1. Statistical and measurement data. In addition to the processing of your personal data as outlined for the particular Services in Chapter 3 below, we generally process your personal data also for statistical and analytical purposes. We also collect statistical and measurement data through automated means from Google Analytics. Although the data present in Google Analytics reports is anonymized and we are not able to associate it with you, please note that Google itself collects your IP address. More information about Google Analytics can be found here. For the similar reasons we also use other services, such as BigQuery (more information about Google BigQuery can be found here).",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is processed by Google Analytics and BigQuery for the developer's own statistical and analytical purposes. This falls under the service provider exemption, as they process data on the developer's behalf.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' for Data Safety purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "2.4.1. Statistical and measurement data. In addition to the processing of your personal data as outlined for the particular Services in Chapter 3 below, we generally process your personal data also for statistical and analytical purposes. We also collect statistical and measurement data through automated means from Google Analytics. Although the data present in Google Analytics reports is anonymized and we are not able to associate it with you, please note that Google itself collects your IP address. More information about Google Analytics can be found here. For the similar reasons we also use other services, such as BigQuery (more information about Google BigQuery can be found here).",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is processed by Google Analytics and BigQuery for the developer's own statistical and analytical purposes. This falls under the service provider exemption, as they process data on the developer's behalf.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' for Data Safety purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "2.4.1. Statistical and measurement data. In addition to the processing of your personal data as outlined for the particular Services in Chapter 3 below, we generally process your personal data also for statistical and analytical purposes. We also collect statistical and measurement data through automated means from Google Analytics. Although the data present in Google Analytics reports is anonymized and we are not able to associate it with you, please note that Google itself collects your IP address. More information about Google Analytics can be found here. For the similar reasons we also use other services, such as BigQuery (more information about Google BigQuery can be found here).",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is processed by Google Analytics and BigQuery for the developer's own statistical and analytical purposes. This falls under the service provider exemption, as they process data on the developer's behalf.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' for Data Safety purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "2.4.1. Statistical and measurement data. In addition to the processing of your personal data as outlined for the particular Services in Chapter 3 below, we generally process your personal data also for statistical and analytical purposes. We also collect statistical and measurement data through automated means from Google Analytics. Although the data present in Google Analytics reports is anonymized and we are not able to associate it with you, please note that Google itself collects your IP address. More information about Google Analytics can be found here. For the similar reasons we also use other services, such as BigQuery (more information about Google BigQuery can be found here).",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is processed by Google Analytics and BigQuery for the developer's own statistical and analytical purposes. This falls under the service provider exemption, as they process data on the developer's behalf.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' for Data Safety purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "4.4. We may also share your personal data where we, in good faith, believe that it is necessary for the purposes of our own or a third party's legitimate interest relating to law enforcement, litigation and/or criminal investigation, provided that we deem that such interest is not overridden by your interests or fundamental rights and freedoms requiring the protection of your personal data.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy explicitly states data may be shared for legal purposes, such as law enforcement or litigation, which is an exempt form of sharing under the Google Play User Data Policy.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' for Data Safety purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "4.4. We may also share your personal data where we, in good faith, believe that it is necessary for the purposes of our own or a third party's legitimate interest relating to law enforcement, litigation and/or criminal investigation, provided that we deem that such interest is not overridden by your interests or fundamental rights and freedoms requiring the protection of your personal data.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy explicitly states data may be shared for legal purposes, such as law enforcement or litigation, which is an exempt form of sharing under the Google Play User Data Policy.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' for Data Safety purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "4.4. We may also share your personal data where we, in good faith, believe that it is necessary for the purposes of our own or a third party's legitimate interest relating to law enforcement, litigation and/or criminal investigation, provided that we deem that such interest is not overridden by your interests or fundamental rights and freedoms requiring the protection of your personal data.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy explicitly states data may be shared for legal purposes, such as law enforcement or litigation, which is an exempt form of sharing under the Google Play User Data Policy.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' for Data Safety purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "4.4. We may also share your personal data where we, in good faith, believe that it is necessary for the purposes of our own or a third party's legitimate interest relating to law enforcement, litigation and/or criminal investigation, provided that we deem that such interest is not overridden by your interests or fundamental rights and freedoms requiring the protection of your personal data.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy explicitly states data may be shared for legal purposes, such as law enforcement or litigation, which is an exempt form of sharing under the Google Play User Data Policy.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' for Data Safety purposes.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,121 @@
+{
+  "sharedData": [
+    {
+      "data": "Name",
+      "optional": 0,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "Analytics, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Emails",
+      "optional": 0,
+      "purpose": "Advertising or marketing",
+      "type": "Messages"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 0,
+      "purpose": "App functionality, Developer communications",
+      "type": "Messages"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Installed apps",
+      "optional": 0,
+      "purpose": "Advertising or marketing",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Financial info"
+    },
+    {
+      "data": "Name",
+      "optional": 1,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "Analytics, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Messages"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "Analytics, Personalization",
+      "type": "Location"
+    },
+    {
+      "data": "Other actions",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    }
+  ],
+  "privacyPolicyUrl": "https://vitastudio.ai/pp.html"
+}

@@ -1,0 +1,77 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We work with third-party advertising partners to show you ads that we think may interest you. These partners may collect information about your activity on the BlaBlaCar Platform and on other websites and apps to predict your interests and to select and display ads for you. This may include the use of cookies and similar technologies to collect information about your device, such as your device’s advertising ID, IP address, and information about your browser or operating system.",
+      "justification": "The policy states data about user activity is collected by third-party advertising partners to predict interests and display ads. This is a declarable 'sharing' for advertising purposes and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data safety form that 'App interactions' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We work with third-party advertising partners to show you ads that we think may interest you. These partners may collect information about your activity on the BlaBlaCar Platform and on other websites and apps to predict your interests and to select and display ads for you. This may include the use of cookies and similar technologies to collect information about your device, such as your device’s advertising ID, IP address, and information about your browser or operating system.",
+      "justification": "The policy states data about user activity is collected by third-party advertising partners to predict interests and display ads. This is a declarable 'sharing' for advertising purposes and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data safety form that 'Other actions' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We work with third-party advertising partners to show you ads that we think may interest you. These partners may collect information about your activity on the BlaBlaCar Platform and on other websites and apps to predict your interests and to select and display ads for you. This may include the use of cookies and similar technologies to collect information about your device, such as your device’s advertising ID, IP address, and information about your browser or operating system.",
+      "justification": "The policy states that device IDs are collected by third-party advertising partners to display ads. This is a declarable 'sharing' for advertising purposes and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data safety form that 'Device or other IDs' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "3.3. We also work with third parties, who may be recipients of your Personal Data, such as: our business partners who are social media platforms and with whom we may share some of your Data, for example to create and broadcast targeted advertising campaigns on their platforms; our business partners who can advertise their services on our platforms and to whom you can decide to subscribe. These can be in particular insurance, banking, car rental partners. When you decide to subscribe to their services, you authorise us to provide them with your Personal Data necessary for the conclusion of your contract with them; our subcontractors (in particular technical, commercial and payment services, identity verification or providers of analytical solutions).",
+      "justification": "The policy states that Personal Data is shared with business partners, including social media platforms, for targeted advertising campaigns. This is a declarable 'sharing' for advertising purposes and is not covered by service provider or other exemptions.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data safety form that 'Name' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "3.3. We also work with third parties, who may be recipients of your Personal Data, such as: our business partners who are social media platforms and with whom we may share some of your Data, for example to create and broadcast targeted advertising campaigns on their platforms; our business partners who can advertise their services on our platforms and to whom you can decide to subscribe. These can be in particular insurance, banking, car rental partners. When you decide to subscribe to their services, you authorise us to provide them with your Personal Data necessary for the conclusion of your contract with them; our subcontractors (in particular technical, commercial and payment services, identity verification or providers of analytical solutions).",
+      "justification": "The policy states that Personal Data is shared with business partners, including social media platforms, for targeted advertising campaigns. This is a declarable 'sharing' for advertising purposes and is not covered by service provider or other exemptions.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data safety form that 'Email address' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "3.3. We also work with third parties, who may be recipients of your Personal Data, such as: our business partners who are social media platforms and with whom we may share some of your Data, for example to create and broadcast targeted advertising campaigns on their platforms; our business partners who can advertise their services on our platforms and to whom you can decide to subscribe. These can be in particular insurance, banking, car rental partners. When you decide to subscribe to their services, you authorise us to provide them with your Personal Data necessary for the conclusion of your contract with them; our subcontractors (in particular technical, commercial and payment services, identity verification or providers of analytical solutions).",
+      "justification": "The policy states that Personal Data is shared with business partners, including social media platforms, for targeted advertising campaigns. This is a declarable 'sharing' for advertising purposes and is not covered by service provider or other exemptions.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data safety form that 'Address' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "3.3. We also work with third parties, who may be recipients of your Personal Data, such as: our business partners who are social media platforms and with whom we may share some of your Data, for example to create and broadcast targeted advertising campaigns on their platforms; our business partners who can advertise their services on our platforms and to whom you can decide to subscribe. These can be in particular insurance, banking, car rental partners. When you decide to subscribe to their services, you authorise us to provide them with your Personal Data necessary for the conclusion of your contract with them; our subcontractors (in particular technical, commercial and payment services, identity verification or providers of analytical solutions).",
+      "justification": "The policy states that Personal Data is shared with business partners, including social media platforms, for targeted advertising campaigns. This is a declarable 'sharing' for advertising purposes and is not covered by service provider or other exemptions.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data safety form that 'Phone number' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "3.3. We also work with third parties, who may be recipients of your Personal Data, such as: our business partners who are social media platforms and with whom we may share some of your Data, for example to create and broadcast targeted advertising campaigns on their platforms; our business partners who can advertise their services on our platforms and to whom you can decide to subscribe. These can be in particular insurance, banking, car rental partners. When you decide to subscribe to their services, you authorise us to provide them with your Personal Data necessary for the conclusion of your contract with them; our subcontractors (in particular technical, commercial and payment services, identity verification or providers of analytical solutions).",
+      "justification": "The policy states that Personal Data is shared with business partners, including social media platforms, for targeted advertising campaigns. This is a declarable 'sharing' for advertising purposes and is not covered by service provider or other exemptions.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data safety form that 'Other info' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "3.3. We also work with third parties, who may be recipients of your Personal Data, such as: our business partners who are social media platforms and with whom we may share some of your Data, for example to create and broadcast targeted advertising campaigns on their platforms; our business partners who can advertise their services on our platforms and to whom you can decide to subscribe. These can be in particular insurance, banking, car rental partners. When you decide to subscribe to their services, you authorise us to provide them with your Personal Data necessary for the conclusion of your contract with them; our subcontractors (in particular technical, commercial and payment services, identity verification or providers of analytical solutions).",
+      "justification": "The policy states that Personal Data is shared with business partners, including social media platforms, for targeted advertising campaigns. This is a declarable 'sharing' for advertising purposes and is not covered by service provider or other exemptions.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data safety form that 'Purchase history' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Where we use advertising and marketing partners and social networks to help us promote our services, we may share some of your data with them, such as your email address.",
+      "justification": "The policy explicitly states that the email address is shared with advertising and marketing partners to promote services. This is a declarable 'sharing' for advertising purposes.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data safety form that 'Email address' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

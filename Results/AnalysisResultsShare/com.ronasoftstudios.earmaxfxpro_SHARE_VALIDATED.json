@@ -1,0 +1,14 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "The Advertisers are advertising Service Providers. Their targeted advertising SDKs collect information about your browsing activity across multiple websites and online services in order to provide you with relevant advertisements on the App and Services of third parties. The information collected using these advertising SDK does not disclose your identity, and helps us analyze the effectiveness of our advertising.",
+      "justification": "The privacy policy states that advertising SDKs collect web browsing history across multiple websites to serve targeted ads on third-party services. This constitutes sharing data for advertising purposes and is not covered by the service provider exemption.",
+      "how_to_fix": "In your Google Play Console, go to the Data safety section. Under 'Data sharing', declare that 'Web browsing history' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

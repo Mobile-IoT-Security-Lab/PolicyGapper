@@ -1,0 +1,12 @@
+How can we collect information?
+Requested permissions before installing or using our application:
+INTERNET: Full network access is required to serve advertisements and download images.
+---
+Ad Serving Technology
+We may disclose non-personal data to third parties or allow third parties to collect non-personal data through
+embedded technology. To deliver ads, third-party advertising companies may place or recognize unique cookies,
+anonymous identifiers, or similar technology to gather non-personally identifiable information. We use AdMob as our
+advertising provider in the app.
+For more information on third-party service providers used by our app, you can visit the following links:
+Google Play Services
+AdMob

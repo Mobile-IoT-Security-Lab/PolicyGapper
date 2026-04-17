@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "Communication Data: If you communicate with us, such as by email, by our webpages, or on social media sites, we may collect personal information that you submit to us including your name, user name, email address, any other information you voluntarily choose to provide us, and the contents of messages you send.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "lang": "English"
+    }
+  ]
+}

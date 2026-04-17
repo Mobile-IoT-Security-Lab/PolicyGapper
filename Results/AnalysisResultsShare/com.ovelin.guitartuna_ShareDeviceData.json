@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Where you have opted-out of personalized advertising, these third-party SDKs may collect non-personal, contextual data including geolocation data, query terms and content on the Service. They may also collect your advertising ID solely for the purposes of frequency capping, aggregated ad reporting and combating fraud and abuse. Our ad partners may use your information for a number of purposes, including but not limited to, to personalize the ads that you see to make sure they are relevant to your own interests, diagnose problems and improve the SDK, understand the effectiveness of existing product features and plan new features, measure and improve the performance of ads as well as the effectiveness of the Service's features, as well as for analytical purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Where you have not opted-out of receiving personalized advertising, these third-party SDKs may collect your IP address, device ID, performance data, advertising data, non-user-related crash logs, data relating to how you interact with our Service, and other statistical and technical information in order to serve ads relevant to you.",
+      "lang": "English"
+    }
+  ]
+}

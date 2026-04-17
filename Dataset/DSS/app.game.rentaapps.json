@@ -1,0 +1,47 @@
+{
+  "sharedData": [
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics, Advertising or marketing",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Analytics, Developer communications",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Personal info"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://renta.papy.co.jp/renta/sc/frm/page/help/security_1.htm"
+}

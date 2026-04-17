@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Information sent either one-to-one or within a limited group using our message, chat, post, or similar functionality, where we are permitted by applicable law to collect this information;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We collect information you provide to us when you request or purchase products, services, or information from us, register with us (including when you link your profile on a third-party site or platform with your registration account), participate in public forums or other activities on our sites and applications, respond to guest surveys, visit our physical properties, call our reservation centers or other guest services phone numbers, or otherwise interact with us using one or more devices. You may provide information in a variety of ways, including by typing or using voice commands.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "We collect information you provide to us when you request or purchase products, services, or information from us, register with us (including when you link your profile on a third-party site or platform with your registration account), participate in public forums or other activities on our sites and applications, respond to guest surveys, visit our physical properties, call our reservation centers or other guest services phone numbers, or otherwise interact with us using one or more devices. You may provide information in a variety of ways, including by typing or using voice commands.",
+      "lang": "en"
+    }
+  ]
+}

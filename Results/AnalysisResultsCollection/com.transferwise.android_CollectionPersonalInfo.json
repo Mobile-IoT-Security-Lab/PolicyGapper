@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Special categories of personal data. We do not intentionally collect any “special categories of personal data” (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on the nature of your payment, the recipient’s name may indicate some of this information. We will only use this information to execute your payment instruction. We may also receive special categories of personal data if you have provided it to us in a customer support query. We will only use this information to deal with your query.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Special categories of personal data. We do not intentionally collect any “special categories of personal data” (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on the nature of your payment, the recipient’s name may indicate some of this information. We will only use this information to execute your payment instruction. We may also receive special categories of personal data if you have provided it to us in a customer support query. We will only use this information to deal with your query.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Special categories of personal data. We do not intentionally collect any “special categories of personal data” (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on the nature of your payment, the recipient’s name may indicate some of this information. We will only use this information to execute your payment instruction. We may also receive special categories of personal data if you have provided it to us in a customer support query. We will only use this information to deal with your query.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "Information from credit reference agencies. If you use our Services to make or receive payments, we may obtain information about you from credit reference agencies to help us verify your identity, perform a credit check, and assess your credit profile.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Special categories of personal data. We do not intentionally collect any “special categories of personal data” (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). However, depending on the nature of your payment, the recipient’s name may indicate some of this information. We will only use this information to execute your payment instruction. We may also receive special categories of personal data if you have provided it to us in a customer support query. We will only use this information to deal with your query.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, device information; information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number; your location.",
+      "lang": "English"
+    }
+  ]
+}

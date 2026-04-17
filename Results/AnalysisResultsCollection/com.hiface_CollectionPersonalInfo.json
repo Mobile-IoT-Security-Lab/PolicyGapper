@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "For registration through Hiface, you are required to provide your country location, gender, name, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional. When you log in using your mobile number, it is shared with Firebase UI Auth for OTP purposes, to verify the owner of the mobile number that gets logged in. When you log in using your Google account, we may collect personally identifiable information from it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "To complete a commerce transaction on the Hiface item shop, you will be requested to provide your payment information, including your credit card number, card expiration date, CVV code, and billing address. In that event, we will transmit your information securely and directly to a third-party vendor or merchant who will collect such information in order to process and fulfill your purchase. Hiface does not process or store your payment information. However, we may store other information about your purchases made on the Service, which may include the merchant's name, the date, time and amount of the transaction, and other behavioral information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "For registration through Hiface, you are required to provide your country location, gender, name, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional. When you log in using your mobile number, it is shared with Firebase UI Auth for OTP purposes, to verify the owner of the mobile number that gets logged in. When you log in using your Google account, we may collect personally identifiable information from it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "For registration through Hiface, you are required to provide your country location, gender, name, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional. When you log in using your mobile number, it is shared with Firebase UI Auth for OTP purposes, to verify the owner of the mobile number that gets logged in. When you log in using your Google account, we may collect personally identifiable information from it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "To complete a commerce transaction on the Hiface item shop, you will be requested to provide your payment information, including your credit card number, card expiration date, CVV code, and billing address. In that event, we will transmit your information securely and directly to a third-party vendor or merchant who will collect such information in order to process and fulfill your purchase. Hiface does not process or store your payment information. However, we may store other information about your purchases made on the Service, which may include the merchant's name, the date, time and amount of the transaction, and other behavioral information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "To complete a commerce transaction on the Hiface item shop, you will be requested to provide your payment information, including your credit card number, card expiration date, CVV code, and billing address. In that event, we will transmit your information securely and directly to a third-party vendor or merchant who will collect such information in order to process and fulfill your purchase. Hiface does not process or store your payment information. However, we may store other information about your purchases made on the Service, which may include the merchant's name, the date, time and amount of the transaction, and other behavioral information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "For registration through Hiface, you are required to provide your country location, gender, name, depending on the device(s) you are using on the Service. You may also provide personally identifiable information, but that is optional. When you log in using your mobile number, it is shared with Firebase UI Auth for OTP purposes, to verify the owner of the mobile number that gets logged in. When you log in using your Google account, we may collect personally identifiable information from it.",
+      "lang": "English"
+    }
+  ]
+}

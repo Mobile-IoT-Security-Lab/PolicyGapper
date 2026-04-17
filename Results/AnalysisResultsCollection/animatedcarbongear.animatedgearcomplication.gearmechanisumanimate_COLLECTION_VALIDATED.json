@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may collect data about your use of the Games, such as gameplay data and your interactions with other players inside the Games.",
+      "justification": "The policy explicitly states the collection of data about 'your interactions with other players inside the Games,' which directly corresponds to the 'App interactions' data type.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may collect data about your use of the Games, such as gameplay data and your interactions with other players inside the Games.",
+      "justification": "The policy states the collection of 'gameplay data,' which is categorized under 'Other actions' in the Google Play Data Safety form.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We collect data about your device, such as device name and operating system, browser type and language for better understand user expectaion and better serve ads if present in games.",
+      "justification": "The policy mentions collecting device data to 'serve ads,' which typically requires the use of advertising identifiers. This falls under the 'Device or other IDs' data type.",
+      "how_to_fix": "Declare 'Device or other IDs' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Cookies and similar technologies or third party tolls may use.\n• We may collect data we receive if you link a third party tool with the Games\n(such as Facebook or Google).\n• We may collect data for advertising and analytics purposes, so we can provide\nyou a better game experience.",
+      "justification": "The policy states that data is collected when a user links a third-party tool like Facebook or Google. These services typically provide the user's name to the app.",
+      "how_to_fix": "Declare 'Name' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Cookies and similar technologies or third party tolls may use.\n• We may collect data we receive if you link a third party tool with the Games\n(such as Facebook or Google).\n• We may collect data for advertising and analytics purposes, so we can provide\nyou a better game experience.",
+      "justification": "The policy states that data is collected when a user links a third-party tool like Facebook or Google. These services typically provide the user's email address to the app.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Cookies and similar technologies or third party tolls may use.\n• We may collect data we receive if you link a third party tool with the Games\n(such as Facebook or Google).\n• We may collect data for advertising and analytics purposes, so we can provide\nyou a better game experience.",
+      "justification": "The policy states that data is collected when a user links a third-party tool like Facebook or Google, which provides a third-party account ID. This is classified as 'User IDs'.",
+      "how_to_fix": "Declare 'User IDs' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "What data we collect and the ways we collect personal or non personal data about\nyou:\n• we may collect Profile information you may give when you play some of games.\n• We may collect data about game progress.\n• We collect data about your device, such as device name and operating system,\nbrowser type and language for better understand user expectaion and better\nserve ads if present in games.\n• We may collect data about your use of the Games, such as gameplay data and\nyour interactions with other players inside the Games.",
+      "justification": "The policy mentions collecting 'Profile information' and 'game progress.' These fall under the general 'Other info' data type in the Data Safety form.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "To provide a great Games to our players, we have a legitimate interest to collect and process necessary data to:\n• We may collect data and use to develop and improve the Games and player experience, manage our relationship with you,\n,\nprovide social features as part of the Games and enable you to communicate with other players, Customize your game experience,\nrespond to your comments and questions and provide player support, send you related information, such as information about our company or our features, products or games, including but not limited to by sending you notifications (if you do not want to receive further notifications from us, you can always disable this option) or promotional material from some of our partners, or to contact you when necessary, unless the customer has disagreed that for and uses its data.",
+      "justification": "The policy states that data is processed to 'enable you to communicate with other players,' which implies the collection of in-app messages.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

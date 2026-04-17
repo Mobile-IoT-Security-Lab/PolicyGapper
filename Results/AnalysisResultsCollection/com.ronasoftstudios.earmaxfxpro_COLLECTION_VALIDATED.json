@@ -1,0 +1,86 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data” or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states collection of 'Log Data' which includes 'the time and date of your use of the Service, and other statistics', indicating user interaction with the app is tracked and sent off-device.",
+      "how_to_fix": "Declare 'App interactions' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "List of Installed App: When you install our App, we may collect information from your device, that may include a list of your installed Apps. This data may contain identity information and therefore we treat it as Personal Data.",
+      "justification": "The policy explicitly states, 'we may collect information from your device, that may include a list of your installed Apps.' This data is collected from the device and sent off-device.",
+      "how_to_fix": "Declare 'Installed apps' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data” or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states collection of 'Log Data' which includes 'the time and date of your use of the Service, and other statistics', which falls under the 'Other actions' category. This data is sent off-device.",
+      "how_to_fix": "Declare 'Other actions' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data” or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy explicitly states that in case of an error, the app collects 'Crash Data' through third-party service providers. This data is sent off-device.",
+      "how_to_fix": "Declare 'Crash logs' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data” or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states collection of 'Log Data' and 'Crash Data' in case of an app error, including 'operating system version' and 'configuration of the App'. This constitutes diagnostic information sent off-device.",
+      "how_to_fix": "Declare 'Diagnostics' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data” or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states collection of 'Log Data' and 'Crash Data' including 'statistics' related to service use. This is a form of app performance data sent off-device.",
+      "how_to_fix": "Declare 'Other app performance data' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "justification": "The policy states that for account registration, the app will collect 'Personal Data... such as your full name'.",
+      "how_to_fix": "Declare 'Name' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "justification": "The policy states that for account registration, the app will collect 'Personal Data... such as your... email address'.",
+      "how_to_fix": "Declare 'Email address' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We use in app payment processors; the registration and payment information are solely processed by the applicable app store provider. We do not store nor process any Personal Data when you process the payment. We receive an order number which is connected to a user ID which was generated when installing the app (non identifiable).",
+      "justification": "The policy states, 'We receive an order number which is connected to a user ID which was generated when installing the app.' This confirms a user ID is collected and sent off-device.",
+      "how_to_fix": "Declare 'User IDs' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "During your interaction with our website and Services, we may collect aggregated, non-personal non-identifiable information, which may be made available or gathered via your access to and use of the Services (“Non-Personal Data “). We are not aware of the identity of the user from which the Non-Personal Data is collected. The Non-Personal Data being collected may include your aggregated usage information and technical information transmitted by your device, such as: the type of browser or device you use, language preference, time and date stamp, country location, etc.",
+      "justification": "The policy states the collection of 'country location'. While the text mentions 'website and Services', it does not limit this collection to the website only, so it must be declared for the app ('Services').",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "reason_of_removal": "Inconsistent data_type and policy_reference",
+      "justification": "The policy states the collection of 'email address' for account registration. The data type 'Emails' refers to the content of emails (e.g., subject line, body), which is not mentioned in the provided text.",
+      "how_to_fix": "If only the email address is collected, declare the 'Email address' data type. If email content is also collected, the privacy policy must be updated to explicitly state this.",
+      "lang": "en"
+    }
+  ]
+}
+```

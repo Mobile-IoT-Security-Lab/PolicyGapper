@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "To protect your privacy we process your Information with the help of identifiers (Bubadu Identifier, IP address, analytics identifiers) that do not identify you personally but may uniquely identify your device.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We check Apps info and the performance of the Apps on your device for diagnostics purposes. We use information, such as battery life, loading time, latency, frame rate or any technical diagnostics. This information helps us improve our Apps by diagnosing and fixing bugs or crashes and making future performance improvements.",
+      "lang": "English"
+    }
+  ]
+}

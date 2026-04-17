@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "•\nTechnical Data: Technical data includes information such as your IP address, device type, country\nfrom which you access, analytics information, browser type and version, browser plug-in types\nand versions, and operating system. This may also include information about your use of the\nService and how you interact with the Service, including the types of content you view or engage\nwith, the features you use, pages you view and your Grok conversation history.\n•\n•\n•\nHow we may collect it: Automatically when you use or interact with the Service, including\nthrough analytics tools.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to communicate with you; to ensure the security and integrity of our Service; for\nlegal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; and to our related companies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "•\nUser Content: You may provide personal information in prompts and other content you input,\nsuch as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service\n(\"Output”), including responses Grok generates, are based on your Input (together, \"User\nContent\"). If you include personal information in Inputs you provide to the Service, this\ninformation may be reproduced in the Output.\n•\nHow we may collect it: Directly from you.\n•\n•\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; and to our related companies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "•\nFeedback Data: Where applicable, we will collect your Feedback (as defined in our Terms of\nService). This might arise if, for example, in a given conversation with Grok, you rate an Output\nusing the thumbs-up/thumbs-down icons.\n•\nHow we may collect it: Directly from you.\n•\n•\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; and to our related companies.",
+      "lang": "English"
+    }
+  ]
+}

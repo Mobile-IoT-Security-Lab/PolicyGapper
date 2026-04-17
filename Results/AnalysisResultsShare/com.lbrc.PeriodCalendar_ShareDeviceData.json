@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "As mentioned, we may provide the Advertising ID associated with your the Apple or Android mobile device to the third-party ad servers or ad networks listed below (“Advertisers”). While we do not share any other data with your Advertising ID, it is possible for Advertisers to independently collect information about your online activities over time and across different websites, apps, and other online services websites by tracking your Advertising ID elsewhere. Advertisers may use this information (including the information we provide to them) to provide interest-based (behavioral) advertising or other targeted content to your mobile device.",
+      "lang": "English"
+    }
+  ]
+}

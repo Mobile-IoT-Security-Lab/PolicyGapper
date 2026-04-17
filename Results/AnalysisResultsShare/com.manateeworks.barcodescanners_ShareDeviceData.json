@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Cognex uses Google AdWords Remarketing to advertise online using text or image ads. Remarketing is a feature that lets us reach people who have previously visited our website, and show them relevant ads when they visit other websites. Google use cookies to serve ads based on a user's prior visits to our website. For this purpose third party advertising provider cookies are set when you visit our website. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page (https://www.google.com/settings/ads/).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Cognex uses Google AdWords Remarketing to advertise online using text or image ads. Remarketing is a feature that lets us reach people who have previously visited our website, and show them relevant ads when they visit other websites. Google use cookies to serve ads based on a user's prior visits to our website. For this purpose third party advertising provider cookies are set when you visit our website. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page (https://www.google.com/settings/ads/).",
+      "lang": "English"
+    }
+  ]
+}

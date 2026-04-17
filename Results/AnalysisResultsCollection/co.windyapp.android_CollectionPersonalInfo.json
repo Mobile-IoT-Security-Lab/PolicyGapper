@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "For analytics purposes, we use UserX Analytics (https://userx.pro/) provided by BUMPIN L.L.C-FZ and Microsoft Clarity provided by Microsoft Corporation (https://clarity.microsoft.com/), which, in addition to collecting standard anonymized usage data (such as taps, swipes, and virtual device identifiers), also captures anonymized screenshots during app usage. All collected data are ANONYMIZED on the side of end-user devices and DOES NOT CONTAIN any personal, financial or payment information, other sensitive data, or user-generated private content. All transmitted data DOESN'T CONTAIN any information resulting from the device camera, microphone, or other user inputs in the Application. All transmitted data is protected by SSL encryption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    }
+  ]
+}

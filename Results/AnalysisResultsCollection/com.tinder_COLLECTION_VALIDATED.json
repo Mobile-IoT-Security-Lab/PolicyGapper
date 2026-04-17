@@ -1,0 +1,58 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Using the service generates data about your activity, including how you use it (e.g., when you logged in, features you've been using, actions taken, information shown to you, referring webpages, ads you interacted with) and how you interact with others (e.g., searching, matching, communicating). We may also receive data related to interactions you had with our ads on third party's websites or apps.",
+      "justification": "The privacy policy states that the service collects data about user activity, including how they interact with others by 'searching'. This data is sent off-device and is not described as end-to-end encrypted.",
+      "how_to_fix": "Declare the collection of 'In-app search history' in the 'App activity' section of your Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "When you complete your profile, you share additional details about you, such as your gender, interests, preferences, approximate location, etc. Some of this data may be considered sensitive or special in certain countries, such as details about sexual orientation, sexual life, health, or political beliefs. If you choose to provide this data, you consent to us using it as laid out in this Privacy Policy.",
+      "justification": "The privacy policy states that users can provide sensitive information when completing their profile, explicitly mentioning 'political beliefs'. This data is sent off-device and is not described as end-to-end encrypted.",
+      "how_to_fix": "Declare the collection of 'Political or religious beliefs' in the 'Personal info' section of your Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "When you complete your profile, you share additional details about you, such as your gender, interests, preferences, approximate location, etc. Some of this data may be considered sensitive or special in certain countries, such as details about sexual orientation, sexual life, health, or political beliefs. If you choose to provide this data, you consent to us using it as laid out in this Privacy Policy.",
+      "justification": "The privacy policy states that users can provide sensitive information when completing their profile, explicitly mentioning 'health'. This data is sent off-device and is not described as end-to-end encrypted.",
+      "how_to_fix": "Declare the collection of 'Health info' in the 'Health and fitness' section of your Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "When you use our service, you may post photos, videos, audio, text and other types of content, such as your chats with other members.",
+      "justification": "The privacy policy states that users may post content, including 'videos', when using the service. This implies the data is sent off-device and is not described as end-to-end encrypted.",
+      "how_to_fix": "Declare the collection of 'Videos' in the 'Photos and videos' section of your Google Play Console Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "When you use our service, you may post photos, videos, audio, text and other types of content, such as your chats with other members.",
+      "justification": "The privacy policy states that users may post content, including 'audio', which covers voice or sound recordings. This implies the data is sent off-device and is not described as end-to-end encrypted.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in the 'Audio' section of your Google Play Console Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "When you use our service, you may post photos, videos, audio, text and other types of content, such as your chats with other members.",
+      "justification": "The privacy policy states that users may post content, including 'audio', which covers other audio files. This implies the data is sent off-device and is not described as end-to-end encrypted.",
+      "how_to_fix": "Declare the collection of 'Other audio files' in the 'Audio' section of your Google Play Console Data Safety form.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Using the service generates data about your activity, including how you use it (e.g., when you logged in, features you've been using, actions taken, information shown to you, referring webpages, ads you interacted with) and how you interact with others (e.g., searching, matching, communicating). We may also receive data related to interactions you had with our ads on third party's websites or apps.",
+      "reason_of_removal": "Websites collection exemption: The policy describes data received from third-party websites (e.g., referring pages, ad interactions), not collected by the mobile app itself.",
+      "justification": "The policy states the service receives data about 'referring webpages' and 'interactions you had with our ads on third party's websites or apps'. This data is not collected through the app's code.",
+      "how_to_fix": "No action needed. This data type is exempt from declaration as it is not collected by the app.",
+      "lang": "English"
+    }
+  ]
+}
+```

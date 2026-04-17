@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "■ Communicate: Contact you with updates, security alerts, and promotional messages through email or\nother forms of communication.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Health Data:\n■ Dr. Blood Pressure: Diabetes Readings: The core function of the App is to allow you to record and\nmonitor your Dr. Blood Pressure: Diabetes readings. This data is vital for you to track your health\ntrends and make informed decisions.",
+      "lang": "English"
+    }
+  ]
+}

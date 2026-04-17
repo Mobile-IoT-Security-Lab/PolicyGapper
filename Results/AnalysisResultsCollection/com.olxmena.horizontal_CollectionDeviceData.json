@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We collect information about your use of our Services, such as the pages you view, the searches you make, the ads you see, the posts you make, the communications you send and receive, and the time, frequency, and duration of your visits.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We collect information about your use of our Services, such as the pages you view, the searches you make, the ads you see, the posts you make, the communications you send and receive, and the time, frequency, and duration of your visits.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may also collect information about your online activities on other websites or services, such as the websites you visit before and after you visit our Services. We may use this information to personalize your experience and to show you more relevant ads.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may also collect information about your device, such as your IP address, browser type, operating system, and referring URLs. We may use this information to diagnose and troubleshoot problems with our Services, to prevent fraud, and to improve the security of our Services.",
+      "lang": "English"
+    }
+  ]
+}

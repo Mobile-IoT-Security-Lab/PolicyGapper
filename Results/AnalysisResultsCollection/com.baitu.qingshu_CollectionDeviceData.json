@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Log data It is the information that we use, network beacons, log files, scripts or automatically collected when you use Poppo cookie Etag, including: • Device attributes, such as: information about your mobile carrier, configuration information provided by your web browser or other programs you use to access Poppo, your IP address, application ID and application name, as well as the version and identification number of your device; • Information related to content that you have searched or viewed using Poppo, such as used web search terms, accessed social media profiles, and details of other information and content that you have accessed or requested while using Poppo ; • General information about the communication on the platform, such as the identity of the user communicating with you and the time, date and duration of the communication (but excluding the content of such communication, unless you are communicating with our support service team); • Metadata, such as the date of your capture or the date of your publication, or the information about the project you shared.",
+      "lang": "English"
+    }
+  ]
+}

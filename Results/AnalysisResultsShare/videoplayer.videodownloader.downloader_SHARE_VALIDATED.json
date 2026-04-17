@@ -1,0 +1,47 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Analytics: We use a third party analytics tool, Google Analytics, to help us measure traffic and usage trends for the service. Google Analytics collects information such as how often users visit our services, what pages they visit when they do so, and what other pages they use prior to coming to our services. We use the information we get from Google Analytics only to improve our services.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states Google Analytics is used 'only to improve our services', which qualifies as a service provider acting on the developer's behalf and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action needed. This usage does not need to be declared in the 'Data shared' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Log file: During the usage of the app, the data and information collected (through third-party products) on your phone in case of an error in the app called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when using the app, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes data collection by a third-party product 'in case of an error in the app'. This is a standard service provider function for diagnostics and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action needed. This usage does not need to be declared in the 'Data shared' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Log file: During the usage of the app, the data and information collected (through third-party products) on your phone in case of an error in the app called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when using the app, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes data collection by a third-party product 'in case of an error in the app'. This is a standard service provider function for diagnostics and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action needed. This usage does not need to be declared in the 'Data shared' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Log file: During the usage of the app, the data and information collected (through third-party products) on your phone in case of an error in the app called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when using the app, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy indicates this data is collected as part of Log Data for error reporting by a third-party service provider. This usage is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action needed. This usage does not need to be declared in the 'Data shared' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Log file: During the usage of the app, the data and information collected (through third-party products) on your phone in case of an error in the app called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when using the app, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy indicates IP address (which infers approximate location) is collected as part of Log Data for error reporting by a third-party service provider. This usage is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action needed. This usage does not need to be declared in the 'Data shared' section of the Data Safety form.",
+      "lang": "English"
+    }
+  ]
+}
+```

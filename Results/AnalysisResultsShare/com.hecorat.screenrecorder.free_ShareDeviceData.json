@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Third-party components integrated into the Application (e.g., Google AdMob, Firebase, AppLovin, Meta Audience Network, YouTube API Services) may also collect information directly or indirectly from your device using cookies, unique identifiers, or similar technologies. This data may include analytics, device details, or personalized advertisement information.",
+      "lang": "English"
+    }
+  ]
+}

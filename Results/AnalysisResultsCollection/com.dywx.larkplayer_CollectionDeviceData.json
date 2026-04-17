@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Services Usage Data. We will collect your personal data when you are accessing or using the Lark Player services, such as playlists information, including playlists you create, liked songs, most played, recently played, play queue; playing data, including playing length of music/videos; playing history, including video playing history, search records, and hide setting records.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Technical Data. We will collect data when you use the built-in H5 pages/Flash of third parties, such as the third-party website link you shared with other social media Apps.",
+      "lang": "English"
+    }
+  ]
+}

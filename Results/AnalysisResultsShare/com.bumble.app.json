@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Moderatori\nPer monitorare l'attività sull'app e approvare i contenuti.\n•\nNome\n•\nDettagli di registrazione dell'utente\n•\n•\n•\nInformazioni del profilo\nContenuto dei messaggi\nFoto",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Fornitori di servizi marketing\nPer collaborare con fornitori di servizi specializzati in marketing, al fine di:\n•\n•\npromuovere e pubblicizzare la nostra app e i nostri servizi su siti e applicazioni\ndi terze parti;\nmisurare l'efficacia delle nostre campagne pubblicitarie.\nAd esempio, ciò può comportare:\n•\n•\n•\n•\nl'esclusione delle persone che possiedono già un account Bumble dalle\ncampagne pubblicitarie finalizzate alla ricerca di nuovi utenti;\nla somministrazione di pubblicità relative a Bumble alle persone che hanno\nvisitato la nostra app o i nostri siti ma non hanno ancora creato un account;\nla creazione di un pubblico potenziale per i nostri annunci pubblicitari costituito\nda utenti con caratteristiche simili a quelle dell'utente, in base alle informazioni\nfornite dal fornitore di servizi marketing (il cosiddetto \"pubblico simile\");\nl'invio di contenuti pubblicitari specifici di Bumble includendo l'utente in una\nlista di persone potenzialmente interessate a uno specifico servizio (il cosidetto\n\"pubblico personalizzato\").\n•\n•\n•\n•\n•\n•\nIdentificatore pubblicitario associato al tuo\ndispositivo (ID dispositivo)\nPosizione stimata (basata sul tuo indirizzo IP)\nEtà\nGenere\nDati relativi alla tua navigazione sui nostri siti\ne sull'app e alle azioni intraprese, ad\nesempio, se:\n•\nhai scaricato la nostra app\n•\nhai creato un account Bumble\n•\nhai effettuato acquisti nell'app o sul\nsito\nIndirizzo e-mail crittografato (solo per la\ncreazione di \"pubblici personalizzati\")*\n*Quando condivisi con un fornitore di servizi di\nmarketing, gli indirizzi e-mail crittografati vengono\neliminati subito dopo la pubblicazione degli annunci.",
+      "lang": "Italian"
+    }
+  ]
+}

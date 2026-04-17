@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you register for our Services using your web accounts like Google, FB, email login, or any similar services, we retrieve the following Information from your account(s) to continue to interact with you and to continue providing you the Services. Information that we collect include -\nΠ User Name\nE-mail id\n■ Age\nGender\nLocation",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may collect additional information at other times, when you provide feedback(s), modify your content or email preferences, respond to surveys, participate in contests, or communicate with us by posting a comment on our Services or asking us a question through our e-mail. This information may include Personal Information such as, but not limited to, your name, email, mobile number, comment, postal address etc.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may also collect your Information to track user behavior and preferences for internal analytics and research. We may also use your information:\ni. To evaluate your interest for various genres of content, services, offers;\nii. To perform analytics and conduct customer research, to determine your interest, for identifying content that generates sales and to analyze traffic patterns.",
+      "lang": "English"
+    }
+  ]
+}

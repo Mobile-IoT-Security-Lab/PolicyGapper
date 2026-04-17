@@ -1,0 +1,69 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Partners: If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law. For example, depending on what Partner services you use, we may share personal information so that Netflix content and features can be suggested to you in the Partner's user interface. Partners may process your personal information for the following purposes: to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Partners: If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law. For example, depending on what Partner services you use, we may share personal information so that Netflix content and features can be suggested to you in the Partner's user interface. Partners may process your personal information for the following purposes: to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Other Players\nInformation such as your game handle, your gameplay, chat, and user-generated content (including personal information and other information you provide in these features), and your online status will be publicly available to other players when you participate in a Netflix game with features such as leaderboards, local multiplayer, online multiplayer, chat, Netflix game controller, and user-generated content. Note that some games may allow you to play with players from other (non-Netflix) versions of the game, and in that case, this information will be available to those players. Please use good judgment when using chat and user-generated content functions (note that even if you remove text chat, or user-generated content, players that have already seen that information may have saved it).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Partners: If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law. For example, depending on what Partner services you use, we may share personal information so that Netflix content and features can be suggested to you in the Partner's user interface. Partners may process your personal information for the following purposes: to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Advertising Companies: We may disclose certain personal information to Advertising Companies (see definition above) in order to select Advertisements shown on Netflix, to facilitate interaction with Advertisements, and to measure and improve effectiveness of Advertisements. These companies may process your personal information for the following purposes: to support Advertisements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• Matched Identifier Communications from Netflix. Some third party services allow us to reach users with online marketing about Netflix content or the Netflix service by sending privacy protected contact information to the third party. Privacy protected contact information means we use pseudonymization technologies (such as hashing) to convert the original contact information (such as an email address or phone number) into a value (typically a long alphanumeric sequence of characters) that cannot, by itself, reveal your identity or contact information. The third party compares Netflix's privacy protected contact information with privacy protected contact information in its own database and there will be a match only if you have used the same contact information with both Netflix and the third party. If there is a match, Netflix can then choose whether or not to send Netflix marketing to you on that third party service, and can optimize and better measure the effectiveness of such marketing. You can indicate your choices regarding the Matched Identifier Communications in the “Privacy and data settings” (for the relevant profile) within the “Account” section of our website.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Information such as your game handle, your gameplay, chat, and user-generated content (including personal information and other information you provide in these features), and your online status will be publicly available to other players when you participate in a Netflix game with features such as leaderboards, local multiplayer, online multiplayer, chat, Netflix game controller, and user-generated content. Note that some games may allow you to play with players from other (non-Netflix) versions of the game, and in that case, this information will be available to those players. Please use good judgment when using chat and user-generated content functions (note that even if you remove text chat, or user-generated content, players that have already seen that information may have saved it).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• Matched Identifier Communications from Netflix. Some third party services allow us to reach users with online marketing about Netflix content or the Netflix service by sending privacy protected contact information to the third party. Privacy protected contact information means we use pseudonymization technologies (such as hashing) to convert the original contact information (such as an email address or phone number) into a value (typically a long alphanumeric sequence of characters) that cannot, by itself, reveal your identity or contact information. The third party compares Netflix's privacy protected contact information with privacy protected contact information in its own database and there will be a match only if you have used the same contact information with both Netflix and the third party. If there is a match, Netflix can then choose whether or not to send Netflix marketing to you on that third party service, and can optimize and better measure the effectiveness of such marketing. You can indicate your choices regarding the Matched Identifier Communications in the “Privacy and data settings” (for the relevant profile) within the “Account” section of our website.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Information such as your game handle, your gameplay, chat, and user-generated content (including personal information and other information you provide in these features), and your online status will be publicly available to other players when you participate in a Netflix game with features such as leaderboards, local multiplayer, online multiplayer, chat, Netflix game controller, and user-generated content. Note that some games may allow you to play with players from other (non-Netflix) versions of the game, and in that case, this information will be available to those players. Please use good judgment when using chat and user-generated content functions (note that even if you remove text chat, or user-generated content, players that have already seen that information may have saved it).",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "•\nPartners: If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law. For example, depending on what Partner services you use, we may share personal information so that Netflix content and features can be suggested to you in the Partner's user interface. Partners may process your personal information for the following purposes: to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "•\nPromotional collaborations: We may collaborate with third parties to offer promotions. To fulfill these types of promotions, we and the third parties may use your personal information for the following purposes: to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Advertising Companies: We may disclose certain personal information to Advertising Companies (see definition above) in order to select Advertisements shown on Netflix, to facilitate interaction with Advertisements, and to measure and improve effectiveness of Advertisements. These companies may process your personal information for the following purposes: to support Advertisements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Matched Identifier Communications from Netflix. Some third party services allow us to reach users with online marketing about Netflix content or the Netflix service by sending privacy protected contact information to the third party. Privacy protected contact information means we use pseudonymization technologies (such as hashing) to convert the original contact information (such as an email address or phone number) into a value (typically a long alphanumeric sequence of characters) that cannot, by itself, reveal your identity or contact information. The third party compares Netflix's privacy protected contact information with privacy protected contact information in its own database and there will be a match only if you have used the same contact information with both Netflix and the third party. If there is a match, Netflix can then choose whether or not to send Netflix marketing to you on that third party service, and can optimize and better measure the effectiveness of such marketing. You can indicate your choices regarding the Matched Identifier Communications in the “Privacy and data settings” (for the relevant profile) within the “Account” section of our website.",
+      "lang": "English"
+    }
+  ]
+}

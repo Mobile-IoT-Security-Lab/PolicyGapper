@@ -1,0 +1,781 @@
+Meitu (China) Limited and its affiliates (“we”, “us” or “our” or “Meitu”) are dedicated to
+protecting the privacy of our users (“users” or “you”). This Privacy Policy (this “Policy")
+is meant to explain our practices regarding how we collect, store, use, manage and protect
+your user information (including your personal information) as a controller and/or business
+under applicable data protection laws during your use of Wink application including all its
+features (our “Services”). For the purpose of this Policy, the term “affiliates” shall mean
+any entity which directly or indirectly controls, is controlled by, or is under common control
+with Meitu (China) Limited. For the purpose of the foregoing, “control” shall mean (i) the
+direct or indirect ownership of more than 50 per cent of the outstanding voting securities
+or capital stock of such entity or other comparable equity or ownership interest, or (ii) the
+control of management decisions and economic interests of the entity by way of
+contractual arrangements.
+
+---
+Please note that the scope of this Policy is limited solely to your user information
+(including your personal information) collected or received by us when you are using our
+Services. In this Policy, “personal information” refers to any information or combination of
+information that can be used to identify, contact or locate an individual to whom the
+collected information pertains.
+
+---
+BY USING OUR SERVICES, YOU ARE AGREEING TO THIS POLICY AND THE
+COLLECTION, USE, PROCESSING, RETENTION, DISCLOSURE AND SHARING OF
+YOUR USER INFORMATION, INCLUDING YOUR PERSONAL INFORMATION, IN
+THE MANNER PROVIDED IN THIS POLICY. IF YOU DO NOT AGREE WITH ANY OF
+THE TERMS OF THIS POLICY OR ANY SUBSEQUENT CHANGES TO THIS POLICY,
+PLEASE DO NOT USE OUR SERVICES.
+
+---
+Please note that it is mandatory for you to provide certain categories of data (as specified
+at the time of collection). In the event that you do not provide any or sufficient data
+marked as mandatory, we may not be able to complete the registration process or provide
+you with our Services. Also, please note that, unless we define a term in this Policy, all
+
+---
+[PAGE BREAK]
+---
+THE INFORMATION WE COLLECT
+
+---
+In order to provide and improve our Services, we will collect and process your personal
+information and user information in accordance with this Policy. If you do not provide this
+information, we may be unable to provide you with our products or Services. You should
+ensure that all personal information and user information submitted to us is complete,
+accurate, true and correct. Failure on your part to do so may result in our inability to
+provide you with all or some of our Services.
+
+---
+Account Information
+
+When you use our Services, we might recommend you sign up for an account with us to
+take full advantage of our Services and all their features. When you create an account, we
+will collect the following information that can be used to identify you or provide our
+Services to you:
+
+o Mandatory: mobile phone number, device ID
+
+o Optional: name, username, gender, date of birth, location, profile picture and
+password.
+
+---
+Anyone can access our Services, but there are certain services that require a subscription
+fee, such as accessing to our premium content and enjoying advertisement privileges
+("Subscription Service”). If you choose to make a purchase on our Subscription Service,
+we will collect certain personally identifiable information, such as your device ID. A third-
+party app store or payment processor may receive, access or use your financial
+information and billing address for the purpose of processing transactions and renewals. If
+
+---
+[PAGE BREAK]
+---
+you purchase content or sign up for Subscription Services through a third-party app store
+or a payment processor, you should refer to that third party's terms for information on how
+it maintains and uses personal financial information for all purchases. For the avoidance of
+doubt, we will not collect any financial information from you.
+
+---
+Mobile Device Information
+
+When you use our Services on your mobile device, we will collect information about your
+device, including its International Mobile Equipment Identity (IMEI), Unique Device Identifier
+(UDID) or Android ID, Universally Unique Identifier (GUUID), User ID (UID), Identifier for
+Advertising (IDFA) and Identifier for Vendor (IDFV), Open Anonymous Device Identifier
+(OAID), Integrated Circuit Card Identifier (ICCID), Media Access Control (MAC) address, the
+type of device you use, device platform, device manufacturer, device brand, device model,
+operating system version, a list of mobile applications installed on your device and
+resolution, which will be used by us for statistical and/or analytical reasons, including
+without limitation to improve our technical functionality, server load-balancing, analysis of
+technical data relating to your mobile device so as to optimize our Services and graphics
+adaptation.
+
+---
+As stated below in the “Location Information" section, we may collect your location-based
+information from your mobile device if you choose to share it with us. If you subsequently
+wish to stop sharing Location Information, you may do so at any time by editing the
+relevant setting on your mobile device.
+
+---
+Mobile Analytics
+
+We use mobile analytics software to allow us to better understand and improve the
+functionality of our Services. Such software may record information such as how often you
+use the application, the events that occur within the application, aggregated usage,
+performance data, and where the application was downloaded from.
+
+---
+Network Information
+
+When you use our Services, we will collect information about the network you use,
+including the name of the operator and the type of network, so as to understand the
+distribution of operators and networks used by our users. In addition, we will collect
+information such as the name of the WiFi network to which you connect, the location of
+the WiFi network, and the duration of your WiFi connection to understand the environment
+under which you prefer to use our Services.
+
+---
+Location Information
+
+---
+[PAGE BREAK]
+---
+We may collect your location-based information from your mobile device if you choose to
+share it with us.
+
+o Mandatory: network information, IP address, and system time zone
+
+o Optional: country code, latitude and longitude, network location, and system country.
+
+This information will help us understand user distribution and usage scenarios and allow us
+to provide users with the correct version of Wink, the reappearance of the geo-location or
+the publishing of the real-time geo-location where you take any photos or shoot any
+videos, and improve our Services. Unless we obtain your consent, location data WILL NOT
+BE ACQUIRED or USED to identify you individually. Except as otherwise provided in this
+Policy, we will not share this Location Information with any third parties. If you no longer
+wish to allow us to collect or use such information, you may turn off your Internet access
+or GPS, or disable our access to information about your network, GPS and device. Please
+note that we may still continue to receive some Location Information, such as your
+Network Information, IP address and system time zone, as a result of you using our
+Services.
+
+---
+Log Information
+
+When you use some of our Services, including generating and browsing certain content, we
+will automatically collect certain relevant log information stored in Wink ("Log
+Information”). Log Information may include (i) details on when and how often you use our
+Services, (ii) device statistics, including critical operation paths, errors, crashes, language
+and time zone. This Log Information is used to improve our Services and is NOT USED to
+identify our users individually.
+
+---
+Image Information
+
+By choosing to use the cloud editing feature of our Services, you understand and agree
+that we must upload your photos to our server for processing before returning processed
+photos to you for the purposes of providing such service to you and continuous
+optimization and that we will also receive the EXIF data about your photos (EXIF data may
+contain GPS coordinates where photos were taken and processed, equipment type, ISO
+and information about the front and rear cameras and creation time, depending on the
+equipment manufacturer) for the purpose of further optimizing our Services, such as
+providing a better match of photo effects to your equipment.
+
+---
+Voice Information
+
+---
+[PAGE BREAK]
+---
+By enabling the microphone on Wink, you agree that we may collect your voice data (i.e.
+audio clips or recordings of your voice) for video editing. We will not use your voice
+information for advertising purposes. You can turn off Wink's access to your microphone
+on your device at any time using the operating system settings on the device or by muting
+the microphone on your devices.
+
+---
+Metadata
+
+Metadata refers to technical data associated with user content. Put simply, metadata is
+data that describes data. For example, metadata can describe the analysis results of facial
+features, gender, age of the characters in photos and other elements contained in photos,
+which are generated and tagged by the computer algorithm and artificial intelligence. When
+you use our Services, we will use photo metadata to provide you with certain features
+including precise “Facial Recognition”, “Key-Points Recognition”, “Region Segmentation",
+"Content Tags” and other custom features based on a combination of these basic
+features. We may use your photo metadata to provide you with more suitable filters and
+better photo effect when Wink processes your photos; we may also make use of the
+metadata to serve up a more contextually relevant products or services to you.
+
+---
+Facial Feature Information
+
+In order to provide certain Services, apart from utilizing metadata as mentioned above, we
+may collect your facial feature information (including but not limited to facial images) and
+use face recognition technology to recognize faces in photos and camera experiences. We
+may detect and use facial marks to provide face recognition contents and facial
+manipulation features. Our Services may utilize calculation results of certain AR
+technologies in relation to depth of facial mapping information, which may require to use
+your facial recognition features in order to ensure the face image processing effect and
+perform feature analysis using the algorithm. The information we collect will not be used
+for identifying a specific person, and is used to provide the mentioned features only. When
+the content recommendation is finished or upon the closing of the application, the facial
+mapping information is discarded. This information is not shared with any third parties.
+
+---
+We use "cookies" that store and retrieve information of user's usage from time to time
+provide customized Services for each user. Cookies are small amounts of information that
+the server uses to operate the app/website, sends to the user's device and are also stored
+on the hard disk in the user's device. You may refuse the installation of cookies.
+Information collected may include information about your Internet Protocol (IP) address,
+
+---
+[PAGE BREAK]
+---
+browser type, Internet Service Provider (ISP), referring and exit pages, your operating
+system, dates and timestamps, and clickstream data.
+
+o Purpose of use cookies: Cookies are used to provide information optimized for each
+user by identifying the visit to and use type of each service and website that the user
+has visited, popular search terms, secure access status, etc.
+
+---
+Advertising-Related Information
+
+We and our third-party service providers may include advertisements within our Services,
+and with your consent, we may collect and use information about you such as your
+Advertising ID, geographic location and IP address for the purpose of delivering and
+tracking these advertisements. If your device does not have Advertising ID, we may use
+other persistent identifiers. We may also access your App list and collect the application
+package names of the applications installed on your device. We use the above information
+to help us better count, track and provide advertisements based on suitability, language,
+geographic location and other details. For a list of our third-party service providers, please
+click here. If you wish to opt out of interest-based advertising, you may opt out by sending
+email to global.support@meitu.com (please quote “Wink” in your email title) or “Me –
+Settings – Privacy and Notifications – Personalized ad recommendations” in Wink.. Please
+note you will continue to receive generic ads after you opt out of interest-based
+advertising.
+
+---
+Information Collected by Third Party Services
+
+Our Services provided to you may contain our service provider's Application Programming
+Interfaces (APIs) or Software Development Kits (SDKs), which may have tracking tools of
+such service providers. These third parties may use cookies, APIs and SDKs on our
+Services and collect and analyze user information. In addition, some third-party SDKs may
+allow advertisers to collect information in order to provide content that is more relevant to
+you. Third parties may access your information such as your device identifiers, region
+(defined as the location where a given language is used), location information and IP
+address under their respective privacy policies. If you want to know more about such third
+
+---
+[PAGE BREAK]
+---
+parties, you may send an email to compliance@meitu.com(please quote “Wink” in your
+email title).
+
+---
+Information that You Proactively Provide to Us
+
+When you contact us (including but not limited to our customer support team and Data
+Protection Officer), we collect the data you provide to us, for example, your contact details
+(e.g. email address and/or telephone number).
+
+---
+Other Information
+
+We may also collect other information which is not related to your identity. For example,
+we may collect information on the type and version number of your operating system to
+better understand system upgrades, we may collect information on your system language
+for the purpose of language adaptation, and we may collect your App list to understand
+user preferences. If we choose to collect such information, we will do so for the purpose of
+improving our Services provided to you.
+
+---
+HOW WE USE INFORMATION
+
+In addition to the uses listed above, we collect and use your user information and/or
+personal information for the following purposes:
+
+o (i) Services. To provide, process, maintain, improve and develop our Services provided
+to you, including customer support, and other services provided through our products.
+
+o (ii) Statistical analysis. To develop and analyze statistics on the use of our products
+and Services for the purpose of improving our products and our Services.
+
+o (iii) To create an account. The personal information that we collect when you use
+our Services to create an account will be used by us to create your account and
+profile.
+
+o (iv) To provide location-based services. When you use our Services, we or third-
+party service providers may take advantage of your location information to provide you
+with advertising, the correct version of our Services and help you gain good user
+experience.
+
+o (v) To improve user experience. Certain optional features such as user experience
+programs allow us to analyze data regarding the use of our products and our Services
+and improve user experience.
+
+o (vi) To provide push services. Device information may be used by us to provide push
+services to assess the performance of adverts and the success of software updates, or
+
+---
+[PAGE BREAK]
+---
+provide notifications on new product releases.
+
+o (vii) To verify your identity. Verifying your identity using a text message when you
+log in to your account helps prevent unauthorized logins to your account.
+
+o To collect feedback from you. Your feedback is of great value in helping us to
+improve our Services. To keep track of your feedback, we may use the personal
+information provided by you to contact you and retain the records.
+
+o (ix) Other purposes. We will collect, store, maintain and use information about you
+for purposes under the “The Information We Collect", and for purposes of running our
+operations, pursuing our legitimate interests (e.g., research (including marketing
+research), network and information security, and fraud prevention), and satisfying our
+legal obligations.
+
+---
+[PAGE BREAK]
+---
+BASES FOR USING YOUR INFORMATION
+
+We will only collect and process personal information where we have lawful bases and we
+typically rely on one of the following four legal bases: –
+
+o (i) consent(where you have given consent);
+
+o (ii) contract (where processing is necessary for the performance of a contract with
+you, for example, to operate the site or deliver any services you have requested);
+
+o (iii) legitimate interests (for example we need to use your information to provide and
+improve our Services, including protecting your account, providing customer support).
+We rely on our legitimate interests as our lawful basis only where those interests are
+not overridden by the impact on you (unless we have your consent or our processing is
+otherwise required or permitted by law); and
+
+o (iv) legal obligations (to comply with the laws, rules and regulations or requests by
+government departments, judicial authorities or law enforcement).
+
+---
+[PAGE BREAK]
+---
+In accordance with applicable law, you may have the right to: (i) request confirmation of
+whether we are processing your personal information; (ii) obtain access to or a copy of
+your personal information; (iii) receive an electronic copy of personal information that you
+have provided to us, or ask us to send that information to another company (“right to
+data portability”); (iv) object to or restrict our uses of your personal information; (v) seek
+correction or amendment of inaccurate, untrue, incomplete, or improperly processed
+personal information; (vi) withdraw your consent; and (vii) request erasure of personal
+information held about you by us, subject to certain exceptions prescribed by law.
+
+---
+If you wish to exercise your rights, you may send an email to
+compliance@meitu.com(please quote “Wink” in your email title) or mail your request to
+Unit 7702A, Level 77, International Commerce Centre, 1 Austin Road West, Kowloon, Hong
+Kong (attention: Legal Department, Meitu). We will process your request in line with
+applicable laws within a reasonable period of time after receiving your email or mail, and
+will cease collecting, using and disclosing your personal information thereafter, subject to
+certain exceptions prescribed by law. To protect your privacy, we will take steps to verify
+your identity before fulfilling your request. Please note that if you withdraw your consent or
+delete your personal information, your use of some of our Services may be affected.
+
+---
+[PAGE BREAK]
+---
+INFORMATION ABOUT CHILDREN
+
+We will not knowingly collect or request personal information from children under
+16 (or any other age stipulated by law applicable to your region). If you are under
+16, please do not send your personal information to us, including but not limited
+to your name, address, phone number or email address. If you believe we may
+have any information about children under 16 (or any other age stipulated by law
+as children applicable to your region), you may send an email to
+compliance@meitu.com(please quote “Wink” in your email title) or send a
+registered mail to Unit 7702A, Level 77, International Commerce Centre, 1 Austin
+Road West, Kowloon, Hong Kong (attention: Legal Department, Meitu). If we learn
+that we have collected personal information from children under 16 (or any other
+age stipulated by law applicable to your region), we will promptly take steps to
+delete such information and terminate the associated account.
+
+---
+CROSS-BORDER DATA TRANSFERS
+
+Depending on the jurisdiction in which you are a user of, and subject to the
+special rules and policy of such jurisdiction as stated in this Policy, you
+understand and agree that all information collected via or by us may be
+transferred, processed, and stored anywhere in the world, including but not
+limited to, the Hong Kong Special Administrative Region of the People's Republic
+of China (“Hong Kong”), the People's Republic of China, Japan, South Korea,
+Singapore, the United States, the European Union, in the cloud, on our servers,
+on the servers of our affiliates, or the servers of our service providers, in order to
+provide our Services.
+
+---
+[PAGE BREAK]
+---
+FOR USERS IN SOUTH KOREA
+
+International Data Transfers
+
+We process the personal information of users only within the scope specified under HOW
+WE USE INFORMATION, and in principle, will not provide personal information of users to a
+third party. However, with your consent, for purposes of providing our Services described
+under INFORMATION SHARING AND DISCLOSURE to you, we may collect your personal
+information from, transfer it to, and store and process it elsewhere.
+
+o Personal information transferred: please refer to the section “The Information We
+Collect" of this Policy above
+
+---
+[PAGE BREAK]
+---
+| Name of the person providing personal information | Purpose of the use of personal information | Particulars of personal information to be collected | Period for retaining and using personal information |
+|---|---|---|---|
+| Apple Inc. https://www.apple.co m/legal/privacy/en- ww/ | Subscription payment services | IDFA, IP User's UID, country, language | For such period as stated in the privacy policy of the relevant third-party platform |
+| TikTok Pte. Ltd. https://www.tiktok.co m/legal/page/row/pri vacy-policy/en | Sharing of photos and/or videos to third-party social media platforms | Image, video and voice information |
+| Google LLC https://policies.googl e.com/privacy?hl=en -US | Subscription payment services | IDFA, GAID, Android ID, IP User's UID, country, language |
+| Meta Platforms, Inc. https://www.faceboo k.com/policy.php/ | Sharing of photos and/or videos to third-party social media platforms | Image, video, voice information, IDFA, GAID, Android ID, IP User's UID, location |
+
+---
+We may also transfer your personal information to the third-party service providers located
+outside of South Korea which provide advertisements within our Services. For further
+details on how we collect and use such information, please refer to the “Advertising-
+Related Information” section in this Privacy Policy. For a list of our third-party service
+providers, please click here.
+
+---
+Also, we may receive your personal information from the following third parties:
+
+---
+[PAGE BREAK]
+---
+| Name of the person providing personal information | Purpose of the use of personal information | Particulars of personal information to be collected | Period for retaining and using personal information |
+|---|---|---|---|
+| Apple Inc. https://www.apple.co m/legal/privacy/en- ww/ | Subscription payment services | IDFA, IP User's UID, country, language | Until your termination of your account with us |
+| Google LLC https://policies.googl e.com/privacy?hl=en -US | | IDFA, GAID, Android ID, IP User's UID, country, language |
+
+---
+FOR USERS IN THE UNITED STATES OF AMERICA
+
+---
+[PAGE BREAK]
+---
+You agree that Meitu and the Companies may use facial recognition technology to collect
+biometric information from the photos or images you provide. Meitu and the Companies
+may use such information to verify your identity, to provide and improve the Service, and
+for our internal research purposes. If your biometric information is subject to the Illinois
+Biometric Information Privacy Act, we will delete your biometric information within three
+years of your last interaction with the Service.
+
+---
+The CCPA provides California residents with the right to know what categories of personal
+information we have collected about them, and whether we disclosed that personal
+
+---
+[PAGE BREAK]
+---
+information for a business purpose (e.g., to a service provider) in the preceding twelve
+months. California residents can find this information below:
+
+| Category of Personal Information Collected | Category of Third Parties to Whom Personal Information is Disclosed to for a Business Purpose |
+|---|---|
+| Identifiers | Service Providers Meitu Affiliates |
+| Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)) | Service Providers • Meitu Affiliates |
+| Protected classification characteristics under California or federal law | Service Providers • Meitu Affiliates |
+| Commercial information | Service Providers Meitu Affiliates |
+| Biometric information | • Service Providers Meitu Affiliates |
+| Internet or other electronic network activity | Service Providers Meitu Affiliates |
+| Geolocation data | Service Providers Meitu Affiliates |
+| Sensory data | Service Providers Meitu Affiliates |
+| Professional or employment-related information | N/A |
+| Non-public education information (per the Family Education Rights and Privacy Act (20 U.S.C. Sec. 1232g, 34 C.F.R. Part 99)) | N/A |
+| Inferences drawn from other personal information to create a profile about a consumer | Service Providers Meitu Affiliates |
+| Personal information that reveals a consumer's social security, driver's | N/A |
+
+---
+[PAGE BREAK]
+---
+| Category of Personal Information Collected | Category of Third Parties to Whom Personal Information is Disclosed to for a Business Purpose |
+|---|---|
+| license, state identification card, or passport number | |
+| Personal information that reveals a consumer's account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account | • Service Providers Meitu Affiliates |
+| Personal information that reveals a consumer's precise geolocation | Service Providers Meitu Affiliates |
+| Personal information that reveals a consumer's racial or ethnic origin, religious or philosophical beliefs, or union membership | N/A |
+| Personal information that reveals the contents of a consumer's mail, email, and text messages unless Figma is the intended recipient of the communication | N/A |
+| Personal information that reveals consumer's genetic data | N/A |
+| Biometric information that is processed for the purpose of uniquely identifying a consumer | N/A |
+| Personal information collected and analyzed concerning a consumer's health | N/A |
+| Personal information collected and analyzed concerning a consumer's sex life or sexual orientation | N/A |
+
+---
+The categories of sources from which we collect Personal Information and our business
+and commercial purposes for using and disclosing Personal Information are set forth in
+“The Information We Collect”, “How We Use Information”, and “Information Sharing and
+
+---
+[PAGE BREAK]
+---
+To protect your privacy, we will take steps to reasonably verify your identity before
+fulfilling requests submitted under the CCPA. These steps may involve asking you to
+provide sufficient information that allows us to reasonably verify you are the person about
+whom we collected personal information or an authorized representative. Examples of our
+verification process may include asking you to provide the email address or phone number
+we have associated with you and providing a verification code that is sent to your email
+address or phone number.
+
+---
+[PAGE BREAK]
+---
+| Categories of personal data processed | Personal data included in the categories | Sources of the data | Obligation of the data subject to provide the data | Storage duration |
+|---|---|---|---|---|
+| Protocol Data | Protocol data which accrue when using the Services to provide content from the server of our applications. The data accruing during use is defined by the network protocol for transferring information between your | User of the Services | The provision of the data is not a statutory or contractual requirement, or a requirement necessary to enter into a contract. There is no obligation of the data subject to provide the data. If the data is not provided, | The data you provide will remain stored in your account for as long as your account exists until you delete it yourself. You can delete your account at any time. |
+
+---
+[PAGE BREAK]
+---
+| Categories of personal data processed | Personal data included in the categories | Sources of the data | Obligation of the data subject to provide the data | Storage duration |
+|---|---|---|---|---|
+| | terminal device and the applications' server. This includes IP address, type and version of the mobile operating system used, the content accessed, the content previously accessed, date and time of access. | | we cannot provide the content of our applications requested by you. | |
+| Registration Data | Name, username, gender, date of birth, mobile phone number, location, profile picture and password. | User of the Services | The provision of the information marked as mandatory during the registration process is a requirement necessary to enter into a contract. There is no obligation of the data | The data you provide will remain stored in your account for as long as your account exists until you delete it yourself. You can delete your account at any time. |
+
+---
+[PAGE BREAK]
+---
+| Categories of personal data processed | Personal data included in the categories | Sources of the data | Obligation of the data subject to provide the data | Storage duration |
+|---|---|---|---|---|
+| | | | subject to provide the data. If the mandatory information is not provided, you cannot make full use of the Services. | |
+| Subscription Data | Information on current and/or past subscriptions. | User of the Services | The provision of the information marked as mandatory during the registration process is a requirement necessary to enter into a subscription contract. The provision of other data is not a statutory or contractual requirement, or a requirement necessary to enter into a contract. There | The data you provide will remain stored in your account for as long as your account exists until you delete it yourself. You can delete your account at any time. |
+
+---
+[PAGE BREAK]
+---
+| Categories of personal data processed | Personal data included in the categories | Sources of the data | Obligation of the data subject to provide the data | Storage duration |
+|---|---|---|---|---|
+| | | | is no obligation of the data subject to provide the data. If the mandatory information is not provided, you cannot make full use of the Services. | |
+| Mobile Device Data | Information about your mobile device, including its International Mobile Equipment Identity (IMEI), Unique Device Identifier (UDID) or Android ID, Universally Unique Identifier (GUUID), User ID (UID), Identifier for Advertising (IDFA) and | User of the Services | The provision of the data is not a statutory or contractual requirement, or a requirement necessary to enter into a contract. There is no obligation of the data subject to provide the data. If the data is not provided, we cannot provide the content of our applications | The data you provide will remain stored in your account for as long as your account exists until you delete it yourself. You can delete your account at any time. |
+
+---
+[PAGE BREAK]
+---
+| Categories of personal data processed | Personal data included in the categories | Sources of the data | Obligation of the data subject to provide the data | Storage duration |
+|---|---|---|---|---|
+| | Identifier for Vendor (IDFV), Open Anonymous Device Identifier (OAID), Integrated Circuit Card Identifier (ICCID), Media Access Control (MAC) address, Google Advertising ID (GAID), the type of device you use, device platform, device manufacturer, device brand, device model, operating system version, a list of mobile applications installed on your device and resolution. | | requested by you. | |
+| Mobile Analytics Data | Information to better | User of the Services | The provision of the data is | The data you provide will |
+
+---
+[PAGE BREAK]
+---
+| Categories of personal data processed | Personal data included in the categories | Sources of the data | Obligation of the data subject to provide the data | Storage duration |
+|---|---|---|---|---|
+| | understand and improve the functionality of our Services. These include information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. | | not a statutory or contractual requirement, or a requirement necessary to enter into a contract. There is no obligation of the data subject to provide the data. | remain stored in your account for as long as your account exists until you delete it yourself. You can delete your account at any time. |
+| Network Data | Name of the operator and the type of network, name of the WiFi network to which you connect, the location of the WiFi network, and the duration of | User of the Services | The provision of the data is not a statutory or contractual requirement, or a requirement necessary to enter into a contract. There is no obligation of the data subject to | The data you provide will remain stored in your account for as long as your account exists until you delete it yourself. You can delete your account at any time. |
+
+---
+[PAGE BREAK]
+---
+| Categories of personal data processed | Personal data included in the categories | Sources of the data | Obligation of the data subject to provide the data | Storage duration |
+|---|---|---|---|---|
+| | your WiFi connection. | | provide the data. | |
+| Location Data | Country code, latitude and longitude, network location, IP address and the system country and system time zone recorded on your device. | User of the Services | The provision of the data is not a statutory or contractual requirement, or a requirement necessary to enter into a contract. There is no obligation of the data subject to provide the data. | The data you provide will remain stored in your account for as long as your account exists until you delete it yourself. You can delete your account at any time. |
+
+---
+[PAGE BREAK]
+---
+| Categories of personal data processed | Personal data included in the categories | Sources of the data | Obligation of the data subject to provide the data | Storage duration |
+|---|---|---|---|---|
+| Log Data | Log Information may include (i) details on when and how often you use our Services, (ii) device statistics, including critical operation paths, errors, crashes, language and time zone. | User of the Services | The provision of the data is not a statutory or contractual requirement, or a requirement necessary to enter into a contract. There is no obligation of the data subject to provide the data. | The data you provide will remain stored in your account for as long as your account exists until you delete it yourself. You can delete your account at any time. |
+| Image Data | Photo/video of the data subject; EXIF data stored in the image file (EXIF data may contain GPS coordinates where photos were taken and processed, equipment type, ISO and information about the front and rear | User of the Services | The provision of the data is not a statutory or contractual requirement, or a requirement necessary to enter into a contract. There is no obligation of the data subject to provide the data. If the data is not provided, | The data are stored in server log files for a maximum period of 21 days. |
+
+---
+[PAGE BREAK]
+---
+| Categories of personal data processed | Personal data included in the categories | Sources of the data | Obligation of the data subject to provide the data | Storage duration |
+|---|---|---|---|---|
+| | cameras and creation time, depending on the equipment manufacturer). | | you cannot make full use of the Services. | |
+| Voice Data | Voice of data subject. | User of the Services | The provision of the data is not a statutory or contractual requirement, or a requirement necessary to enter into a contract. There is no obligation of the data subject to provide the data. If the data is not provided, you cannot make full use of the Services. | The data are stored in server log files for a maximum period of 21 days. |
+| Meta Data | Information which describes the analysis results of facial features, gender, age of the characters | User of the Services | The provision of the data is not a statutory or contractual requirement, or a requirement necessary to enter into a | The data you provide will remain stored in your account for as long as your account exists until you delete it |
+
+---
+[PAGE BREAK]
+---
+| Categories of personal data processed | Personal data included in the categories | Sources of the data | Obligation of the data subject to provide the data | Storage duration |
+|---|---|---|---|---|
+| | in photos and other elements contained in photos. | | contract. There is no obligation of the data subject to provide the data. If the data is not provided, you cannot make full use of the Services. | yourself. You can delete your account at any time. |
+| Face Recognition Data | Facial feature information of data subject (including but not limited to facial images and facial marks). | User of the Services | The provision of the data is not a statutory or contractual requirement, or a requirement necessary to enter into a contract. There is no obligation of the data subject to provide the data. If the data is not provided, you cannot make full use of the Services. | When the content recommendatio n is finished or upon the closing of the application, the facial mapping information is discarded. |
+
+---
+[PAGE BREAK]
+---
+| Categories of personal data processed | Personal data included in the categories | Sources of the data | Obligation of the data subject to provide the data | Storage duration |
+|---|---|---|---|---|
+| Cookie Data | Data subject's Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), referring and exit pages, operating system, dates and timestamps, clickstream data. To the extent such personal data is stored in cookies, you can find more detailed information in Section III below. | User of the Services | The provision of the data is not a statutory or contractual requirement, or a requirement necessary to enter into a contract. There is no obligation of the data subject to provide the data. If the data is not provided, you cannot make full use of the Services. | The data you provide will remain stored in your account for as long as your account exists until you delete it yourself. You can delete your account at any time. The data will be erased when the user logs out from their account. The cookie will be replaced when the token is expired (after 30 days). |
+| Advertisement Data | Advertising ID (including IMEI, Android ID, OAID, IMSI, ICCID, GAID, MEID, mac addr, IDFV, IDFA), | User of the Services | The provision of the data is not a statutory or contractual requirement, or a requirement necessary to enter into a | The data you provide will remain stored in your account for as long as your account exists until you delete it |
+
+---
+[PAGE BREAK]
+---
+| Categories of personal data processed | Personal data included in the categories | Sources of the data | Obligation of the data subject to provide the data | Storage duration |
+|---|---|---|---|---|
+| | geographic location and IP address. | | contract. There is no obligation of the data subject to provide the data. If you do not provide this data we are not able to provide you with interest- based advertising. | yourself. You can delete your account at any time. |
+| Third Party Tracking Data | Device identifiers, region (defined as the location where a given language is used), location information, IP address. To the extent such personal data is stored in cookies, you can find more detailed information in Section III below. | User of the Services | The provision of the data is not a statutory or contractual requirement, or a requirement necessary to enter into a contract. There is no obligation of the data subject to provide the data. | The data you provide will remain stored in your account for as long as your account exists until you delete it yourself. You can delete your account at any time. |
+
+---
+[PAGE BREAK]
+---
+| Purpose of processing the personal data | Categories of personal data processed |
+|---|---|
+| Provision of the Services | Protocol Data Registration Data Subscription Data Network Data Location Data Image Data Voice Data Meta Data Face Recognition Data |
+| Statistical analysis (develop and analyse statistics on the use of our products and Services for the purpose of improving our products and Services) | Protocol Data Mobile Device Data Mobile Analytics Data Network Data Location Data Log Data Cookie Data |
+| Creating an account | Protocol Data Registration Data Subscription Data Location Data |
+
+---
+[PAGE BREAK]
+---
+| Purpose of processing the personal data | Categories of personal data processed |
+|---|---|
+| Providing location-based services (for providing user with advertising, the correct version of our Services and help user gaining good user experience) | Protocol Data Location Data Advertisement Data |
+| Improving user experience (optional features such as user experience programs allow us to analyse data regarding the use of our products and our Services and improve | Protocol Data Mobile Device Data Mobile Analytics Data Network Data Location Data Log Data Image Data Meta Data Cookie Data |
+
+---
+[PAGE BREAK]
+---
+| Purpose of processing the personal data | Categories of personal data processed |
+|---|---|
+| user experience) | Third Party Tracking Data |
+| Providing push services (for assessing the performance of adverts and the success of software updates, or providing notifications on new product releases) | Protocol Data Mobile Device Data Advertisement Data |
+| Verifying user's identity | Protocol Data Registration Data |
+
+---
+[PAGE BREAK]
+---
+| Purpose of processing the personal data | Categories of personal data processed |
+|---|---|
+| Collecting feedback from user (to help us improve our Services) | Protocol Data Registration Data |
+| Complying with any applicable rules, laws and regulations, codes of practice or guidelines or to assist in law enforcement and investigations by relevant authorities | Protocol Data Registration Data Subscription Data |
+| Maintaining the safe and stable operation of the Services, such as identifying or | Protocol Data Network Data Log Data |
+
+---
+[PAGE BREAK]
+---
+| Purpose of processing the personal data | Categories of personal data processed |
+|---|---|
+| Protecting the security of your account, network, operation, and system, and to prevent phishing, website fraud and Trojan horse viruses | Protocol Data Network Data Log Data |
+
+---
+[PAGE BREAK]
+---
+| Purpose of processing the personal data | Categories of personal data processed |
+|---|---|
+| Processing of requests (customer service) | Protocol Data Registration Data Subscription Data |
+
+---
+[PAGE BREAK]
+---
+III. Information on the use of cookies or similar technologies
+
+The following section currently only deals with cookies. If similar technologies (browser
+fingerprints, local storage, session storage, etc.) are used, this section would have to
+be adapted accordingly.
+
+We use cookies in connection with offering our Services. In doing so, we use the
+processing and storage functions of your device and/or your device's browser and
+collect information from the memory of your device and/or your device's browser.
+
+You will find more detailed information on this in the following.
+
+1. General information on cookies
+
+Cookies are small text files with information that can be placed on a user's device
+when an app is used or a website is visited. When the relevant app or website is
+
+---
+[PAGE BREAK]
+---
+3. Cookies used in our app and on our website
+
+The following cookies may be used in our app and on our website:
+
+| Name | First- party / third- party | Purpose of use and content | Effective term | Consent necessary? |
+|---|---|---|---|---|
+| mt_access_ token | First-party | User login token | It will be erased when users log out from their account. It will be replaced when the | No |
+
+---
+[PAGE BREAK]
+---
+| | | | token is expired (30 days). | |
+|---|---|---|---|---|
+| mt_web_ac cess_token | First-party | User login token | It will be erased when users log out from their account. It will be replaced when the token is expired (30 days). | No |
+| mt_temp_to ken | First-party | User login token | It will be erased when users log out from their account. It will be replaced when the token is expired (30 days). | No |
+| mt_grant_a ccess_toke n | First-party | User login token | It will be erased when users log out from their account. It will be replaced when the token is expired (30 days) | No |
+
+---
+[PAGE BREAK]
+---
+1. Right of access
+
+As a data subject, you have a right to obtain access and information under the
+conditions provided in Art. 15 GDPR.
+
+This means in particular that you have the right to obtain confirmation from us as
+to whether we are processing your personal data. If so, you also have the right to
+obtain access to the personal data and the information listed in Art. 15 (1) GDPR.
+This includes information regarding the purposes of the processing, the categories
+of personal data that are being processed and the recipients or categories of
+recipients to whom the personal data have been or will be disclosed (Art. 15 (1) (a),
+(b) and (c) GDPR).
+
+---
+[PAGE BREAK]
+---
+5. Right to data portability
+
+As a data subject, you have a right to data portability under the conditions
+provided in Art. 20 GDPR.
+
+This means that you generally have the right to receive your personal data with
+which you have provided us in a structured, commonly used and machine-readable
+
+---
+[PAGE BREAK]
+---
+"Processing” means any operation or set of operations which is performed on
+personal data or on sets of personal data, whether or not by automated means, such
+as collection, recording, organisation, structuring, storage, adaptation or alteration,
+retrieval, consultation, use, disclosure by transmission, dissemination or otherwise
+making available, alignment or combination, restriction, erasure or destruction;
+
+---
+[PAGE BREAK]
+---
+Sensitive personal information
+
+If you are in Brazil, you understand and agree that, in order to be able to render our
+Services to you, we may collect sensitive personal information, such as facial features,
+gender, age of the characters in photos or voice data and other elements contained in
+photos or voice data.
+
+---
+International Data Transfers
+
+To provide our Services to you, we may collect your personal information from, transfer it
+to, and store and process it elsewhere.
+
+o Personal information transferred: please refer to the section “The Information We
+Collect" of this Policy above
+
+---
+[PAGE BREAK]
+---
+The Information We Collect
+
+In this Policy, “personal information” or “personal data" refers to any information in
+the form of symbols, letters, numbers, images, sounds or the like on an electronic medium
+that is associated with a particular person or helps to identify a particular person. Personal
+information includes basic personal data and sensitive personal data.
+
+Some of the personal information that we collect may comprise “sensitive personal
+data". This refers to personal data that is associated with your privacy that, when violated,
+will directly affect your legitimate rights and interests. Sensitive personal data that we
+collect and process include but not limited to location information, voice information and
+facial feature information.
+
+---
+[PAGE BREAK]
+---
+The Policy explains how we “process” your personal information. This includes how we
+may collect, record, analyse, verify, store, correct, disclose, associate, access, retrieve,
+revoke, encrypt, decrypt, copy, share, transmit, provide, transfer, delete, destroy or
+undertake such other related actions in respect of your personal information.
+
+---
+[PAGE BREAK]
+---
+o Right of access: You have the right to access your personal informationin order to
+view, correct or request correction of your personal information, unless the law
+provides otherwise.
+
+---
+o Right to be provided with data: You have the right to request us to provide you with
+your personal information, unless the law provides otherwise.

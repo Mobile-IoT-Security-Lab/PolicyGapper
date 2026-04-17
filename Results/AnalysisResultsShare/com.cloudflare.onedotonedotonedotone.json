@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We work with other companies who help us run our business (“Service Providers\"). These companies provide services to help us operate and improve the Application, including assisting with debugging and crash analytics. These Service Providers may only process personal information pursuant to our instructions and in compliance both with this Application Privacy Policy, Cloudflare's Privacy Policy and other applicable confidentiality and security measures and regulations.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We work with other companies who help us run our business (“Service Providers\"). These companies provide services to help us operate and improve the Application, including assisting with debugging and crash analytics. These Service Providers may only process personal information pursuant to our instructions and in compliance both with this Application Privacy Policy, Cloudflare's Privacy Policy and other applicable confidentiality and security measures and regulations.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Some of our watch faces may require access to your device's location to display weather information. This location data is used solely for this purpose and is not stored or shared with any third parties. The data is processed on your device to fetch weather data from a third-party provider.",
+      "lang": "English"
+    }
+  ]
+}

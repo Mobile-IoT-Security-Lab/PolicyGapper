@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "Alerts and notifications:\nSome Services offer you the ability to receive push notifications for weather-related updates. To\nprovide these Services, it is possible we will have to collect your email address, information about\nthe device and/or information about the mobile telephone company, as well as the postcode or the\ngeographical area to which the alert, the update or the notification belong. If you do not want to\ncontinue to receive this type of notifications, you can deactivate them in the settings of the mobile\ndevice or of the specific Service where you have registered, or you can delete the application.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Alerts and notifications:\nSome Services offer you the ability to receive push notifications for weather-related updates. To\nprovide these Services, it is possible we will have to collect your email address, information about\nthe device and/or information about the mobile telephone company, as well as the postcode or the\ngeographical area to which the alert, the update or the notification belong. If you do not want to\ncontinue to receive this type of notifications, you can deactivate them in the settings of the mobile\ndevice or of the specific Service where you have registered, or you can delete the application.",
+      "lang": "English"
+    }
+  ]
+}

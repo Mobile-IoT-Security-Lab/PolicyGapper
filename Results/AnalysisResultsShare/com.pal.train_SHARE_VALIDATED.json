@@ -1,0 +1,92 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may disclose your Automatically Collected Information to third-party marketing partners to provide customized advertising. This allows us to tailor your experience with content that may be of interest and offer better travel experiences. For more details, please refer to our Cookie Statement.",
+      "justification": "The policy states data is disclosed to 'third-party marketing partners' for 'customized advertising'. This is considered 'sharing' for advertising purposes under Google Play's policy and is not covered by any exemptions.",
+      "how_to_fix": "Declare that 'App interactions' are 'Shared' with third parties for 'Advertising or marketing' purposes in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may disclose your Automatically Collected Information to third-party marketing partners to provide customized advertising. This allows us to tailor your experience with content that may be of interest and offer better travel experiences. For more details, please refer to our Cookie Statement.",
+      "justification": "The policy states data is disclosed to 'third-party marketing partners' for 'customized advertising'. This is considered 'sharing' for advertising purposes under Google Play's policy and is not covered by any exemptions.",
+      "how_to_fix": "Declare that 'In-app search history' is 'Shared' with third parties for 'Advertising or marketing' purposes in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may disclose your Automatically Collected Information to third-party marketing partners to provide customized advertising. This allows us to tailor your experience with content that may be of interest and offer better travel experiences. For more details, please refer to our Cookie Statement.",
+      "justification": "The policy states data is disclosed to 'third-party marketing partners' for 'customized advertising'. This is considered 'sharing' for advertising purposes under Google Play's policy and is not covered by any exemptions.",
+      "how_to_fix": "Declare that 'Other actions' are 'Shared' with third parties for 'Advertising or marketing' purposes in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Our marketing activities also involve cross-device tracking, where third parties collect information on your online activities via cookies across multiple linked devices and combine this information to tailor the advertisement that you see across the Internet to your interests (commonly known as Internet based advertising). See our Cookie Statement for more details.",
+      "justification": "The policy states data is collected by third parties for 'cross-device tracking' to 'tailor the advertisement'. This is considered 'sharing' for advertising purposes under Google Play's policy and is not covered by any exemptions.",
+      "how_to_fix": "Declare that 'Web browsing history' is 'Shared' with third parties for 'Advertising or marketing' purposes in the Google Play Console Data Safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We may share your account information, contact information and reservation information with travel service providers, including but not limited to train operators, railway companies, airlines, coach operators and agents that meet your booking needs (collectively \"Travel Service Providers\"). These providers may contact you as needed to provide you with travel products or services. These providers are not controlled by TrainPal and personal data disclosed to them is subject to the applicable provider's privacy statements and security practices. Therefore, we encourage you to review the privacy policies of any travel provider whose products you purchase through TrainPal.",
+      "reason_of_removal": "User-initiated action",
+      "justification": "The policy states data is shared with travel providers to fulfill a user's booking request. This is a transfer of data initiated by the user and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This use case is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may share your account information, contact information and reservation information with travel service providers, including but not limited to train operators, railway companies, airlines, coach operators and agents that meet your booking needs (collectively \"Travel Service Providers\"). These providers may contact you as needed to provide you with travel products or services. These providers are not controlled by TrainPal and personal data disclosed to them is subject to the applicable provider's privacy statements and security practices. Therefore, we encourage you to review the privacy policies of any travel provider whose products you purchase through TrainPal.",
+      "reason_of_removal": "User-initiated action",
+      "justification": "The policy states data is shared with travel providers to fulfill a user's booking request. This is a transfer of data initiated by the user and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This use case is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may share your account information, contact information and reservation information with travel service providers, including but not limited to train operators, railway companies, airlines, coach operators and agents that meet your booking needs (collectively \"Travel Service Providers\"). These providers may contact you as needed to provide you with travel products or services. These providers are not controlled by TrainPal and personal data disclosed to them is subject to the applicable provider's privacy statements and security practices. Therefore, we encourage you to review the privacy policies of any travel provider whose products you purchase through TrainPal.",
+      "reason_of_removal": "User-initiated action",
+      "justification": "The policy states data is shared with travel providers to fulfill a user's booking request. This is a transfer of data initiated by the user and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This use case is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may share your account information, contact information and reservation information with travel service providers, including but not limited to train operators, railway companies, airlines, coach operators and agents that meet your booking needs (collectively \"Travel Service Providers\"). These providers may contact you as needed to provide you with travel products or services. These providers are not controlled by TrainPal and personal data disclosed to them is subject to the applicable provider's privacy statements and security practices. Therefore, we encourage you to review the privacy policies of any travel provider whose products you purchase through TrainPal.",
+      "reason_of_removal": "User-initiated action",
+      "justification": "The policy states data is shared with travel providers to fulfill a user's booking request. This is a transfer of data initiated by the user and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This use case is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may share your account information, contact information and reservation information with travel service providers, including but not limited to train operators, railway companies, airlines, coach operators and agents that meet your booking needs (collectively \"Travel Service Providers\"). These providers may contact you as needed to provide you with travel products or services. These providers are not controlled by TrainPal and personal data disclosed to them is subject to the applicable provider's privacy statements and security practices. Therefore, we encourage you to review the privacy policies of any travel provider whose products you purchase through TrainPal.",
+      "reason_of_removal": "User-initiated action",
+      "justification": "The policy states data is shared with travel providers to fulfill a user's booking request. This is a transfer of data initiated by the user and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This use case is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may share your account information, contact information and reservation information with travel service providers, including but not limited to train operators, railway companies, airlines, coach operators and agents that meet your booking needs (collectively \"Travel Service Providers\"). These providers may contact you as needed to provide you with travel products or services. These providers are not controlled by TrainPal and personal data disclosed to them is subject to the applicable provider's privacy statements and security practices. Therefore, we encourage you to review the privacy policies of any travel provider whose products you purchase through TrainPal.",
+      "reason_of_removal": "User-initiated action",
+      "justification": "The policy states data is shared with travel providers to fulfill a user's booking request. This is a transfer of data initiated by the user and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This use case is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "If dispute arises, including your dispute with the service providers, relevant call recordings may be used as reference for dispute resolution.",
+      "reason_of_removal": "Legal purposes",
+      "justification": "The policy states data may be used for 'dispute resolution', which is a transfer for legal purposes and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action needed. This use case is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "lang": "English"
+    }
+  ]
+}
+```

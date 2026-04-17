@@ -1,0 +1,34 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "We collect personal information that you voluntarily provide to us when you register on the App, express an interest in obtaining information about us or our products and Services, when you participate in activities on the App (such as by posting messages in our online forums or entering competitions, contests or giveaways) or otherwise when you contact us.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "Our App offers you the ability to register and login using your third-party social media account details (like your Facebook or Google logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, profile picture as well as other information you choose to make public on such social media platform.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "The testimonials on the Site are submitted in various forms such as text, audio and/or video, and are reviewed by us before being posted.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "The testimonials on the Site are submitted in various forms such as text, audio and/or video, and are reviewed by us before being posted.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "The testimonials on the Site are submitted in various forms such as text, audio and/or video, and are reviewed by us before being posted.",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "Our App offers you the ability to register and login using your third-party social media account details (like your Facebook or Google logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, profile picture as well as other information you choose to make public on such social media platform.",
+"lang": "en"
+}
+]
+}

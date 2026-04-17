@@ -1,0 +1,42 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Usage Data\nInformation collected automatically through this Application (or third-party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.",
+      "justification": "The policy states the collection of 'the time spent on each page within the Application' and 'the details about the path followed within the Application with special reference to the sequence of pages visited', which corresponds to the 'App interactions' data type. The data is sent to a server and is not exempt.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Usage Data\nInformation collected automatically through this Application (or third-party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.",
+      "justification": "The policy describes collecting 'Usage Data' which includes various user activities and interactions with the application (e.g., 'method utilized to submit the request to the server'), falling under the 'Other actions' data type. The data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Low Lag Labs\nWe've partnered with Low Lag Labs to help provide users with better connectivity and in-app experience on wireless networks (because nobody likes laggy internet).\nLow Lag Labs may collect data relating to network performance (including location and identifiers such as network names, resettable ID, BSSID, IP Address, and other access point information) for the purposes of providing us app performance analytics and connectivity insights, and to support the creation of aggregated reports or anonymized insights for the telecom ecosystem.\nLow Lag Labs does not sell personal data. You can learn more at lowlaglabs.com/privacy-policy. This data is only collected if you consent, and you may opt-out at any time by revoking this app's location permissions from your device settings.",
+      "justification": "The policy explicitly states that a partner, Low Lag Labs, 'may collect data relating to network performance... for the purposes of providing us app performance analytics'. This data is collected by a third party, sent off-device, and is not exempt.",
+      "how_to_fix": "Declare 'Other app performance data' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User. These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.",
+      "justification": "The policy describes a service that 'makes it possible to manage a database of email contacts', indicating the collection and off-device storage of email addresses. This is not exempt.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User. These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.",
+      "justification": "The policy states the service can 'manage a database of email contacts, phone contacts or any other contact information', which corresponds to the 'Contacts' data type. This data is managed off-device and is not exempt.",
+      "how_to_fix": "Declare 'Contacts' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,88 @@
+This document describes data collected and processed by the "Notepad Free" app and third party software. By using
+the app, user consents to the privacy policy.
+---
+[SECTION: 1. Notes]
+Since the 1.7.0 version, the app uses Google device backup copy, if it's turned on in the device's and the app's settings.
+In that case an encrypted copy of notes is stored on Google Drive. It can be changed by a user at any time. More
+information is available on Google's support pages.
+---
+[SECTION: 2. Email address]
+Using the "Technical support" in the app will open an email app and allow to send an email to
+notepad.free@outlook.com. After receiving an email the user's address will be used to answer any question or
+problems related to the app. Email addresses are not stored anywhere outside the email service provider used by the
+developer (outlook.com). The diagnostic data that can be sent using the "Technical support" function contains: device's
+model/vendor, version of the operating system, operations performed in the app, and optionally note titles. Sending
+note titles is optional, is set in the app's settings, and is meant to help diagnose an issue with a specific note. Notes are
+never sent with the aforementioned diagnostic info.
+---
+[SECTION: 3. Information collected]
+Category
+Examples
+Purpose
+A. Identifiers
+IP address, advertising ID, device identifiers
+analytics,
+advertising
+B. Geolocation data
+IP address, country, region, language set on a
+device
+analytics,
+advertising
+C. Internet or other electronic network
+activity information
+IP address, advertising ID, cookies, activity in app: analytics,
+time spent on each screen
+advertising
+---
+[SECTION: 4.1 Analytics]
+This app uses Firebase and Google Analytics for Firebase as an analytic tool. It provides the developer information
+about usage of the app like: number of active users, most popular devices, etc. The information is used to analyze
+performance of the app and detect any problems, for example after publishing an update. Advertising ID is not
+collected, so no demographics or interests data is collected. IP addresses are anonymized.
+---
+[PAGE BREAK]
+---
+More information:
+- Firebase information about privacy.
+- data collected by Google Analytics for Firebase.
+---
+[SECTION: 4.2 Advertising]
+The app uses AdMob and InMobi to provide ads.
+AdMob is an advertising service provided by Google. AdMob can collect and use anonymous data to customize the
+ads for the user. It may use unique Advertising ID which is provided by Google Play services on the device. For users
+in EEA there is an additional dialog which allows to choose between personalized and non-personalized ads. The
+decision can be changed at any time. More information about Google's ads can be found here. The difference between
+personalized and non-personalized ads is explained here.
+More on information collected by InMobi is available here.
+Personalized ads and Advertising ID settings can also be changed in the device settings. More information is available
+here.
+---
+[SECTION: 5. Information shared during last 12 months]
+Information shared during last 12 months consists of the information listed in point 3. The information was shared for
+analytics and advertising purposes. As one can see no personal information that could identify a user (email address,
+for example) was shared. The app doesn't even collect such information (e.g. email address). Please note that notes are
+kept securely, and the only way to access the notes is to use the app.
+---
+[SECTION: 6. Selling "personal" information]
+The app displays ads on some devices. If personalized advertising is enabled, then ad networks may use information
+listed above (point 3): advertising ID, IP address, etc. Sharing these information may be considered as a sale under
+California Consumer Privacy Act (CCPA). The same categories of information were used during last 12 months.
+Please check that no personally identifiable information like email address is even collected by the app. It's worth
+repeating that notes stored in the app can only be accessed by the user of the app.
+---
+[SECTION: 7. Users rights]
+Users in EEA and California have rights to access, obtain, delete, or opt-out of selling personal information. Please use
+the notepad.free.privacy@outlook.com to exercise any of the rights. California residents can use the following link to
+opt-out of selling "personal" information: Do Not Sell My Personal Information
+---
+[SECTION: 9. Data deletion and retention]
+Data used by analytic tools (Firebase Analytics) can be deleted upon request. A request can be sent from the app's
+"Privacy settings" screen or by sending an email to notepad.free.privacy@outlook.com or notepad.free@outlook.com.
+---
+[SECTION: 10. Cloud backup feature]
+The app uses the Google Drive™™ API solely for backup and restore functionality of notes. Note data is stored in
+Google Drive's appDataFolder— a secure, hidden, application-specific storage area accessible only by the app. No
+other portions of Google Drive are accessed or modified.
+The app requests only the minimal OAuth scopes required to interact with the appDataFolder. The only accessed data
+is the note content needed to provide backup and restoration functionality. No additional personal or sensitive
+information from Google Drive is collected, viewed, or shared.

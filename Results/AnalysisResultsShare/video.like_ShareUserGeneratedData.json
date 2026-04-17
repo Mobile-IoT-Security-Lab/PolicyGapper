@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "• to provide you with web-based program or game services, provided that you have given consent of authorization for the web-based program or game developer or operators to use your personal information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "• to provide you with web-based program or game services, provided that you have given consent of authorization for the web-based program or game developer or operators to use your personal information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "• to provide you with web-based program or game services, provided that you have given consent of authorization for the web-based program or game developer or operators to use your personal information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "• to allow other users to identify you via the \"Discover Friends\" function as a user of Likee Services, to allow you to find other users and to connect with them on Likee Services, and to support the socializing function of Likee Services;",
+      "lang": "English"
+    }
+  ]
+}

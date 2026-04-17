@@ -1,0 +1,23 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Please note that we use Google Analytics to analyze certain information about your device and your user activity. Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses data collected to track and monitor the use of our Website. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.",
+      "justification": "The policy states that data collected by Google Analytics is shared with other Google services and may be used by Google to personalize ads on its own network. This use by a third party for its own purposes constitutes 'sharing' under Google Play's policy and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare in the Data Safety section that 'Other actions' (e.g., user activity) is shared with third parties for Advertising or marketing purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "Residents of the State of California (USA) have the right to request a list of all third parties to whom our Website disclosed certain personal information (in accordance with the laws of the State of California) in the previous year for the purposes of direct marketing of such third parties. If you are a resident of the State of California and want to receive such a list, please contact us through the email displayed below. When submitting such a request, please include in the text of your appeal the wording \"Your rights to maintain confidentiality in the state of California\", as well as your name, address, city, state, and zip code. In the text of your request, please provide us with sufficient information so that we can determine if the above requirements of the law apply to your situation. You must confirm that you are a resident of the State of California (USA) and provide the current address in the state of California for our response. Please note that we do not accept calls by phone, mail or facsimile, nor are we responsible for calls that are flagged or misdelivered or that do not contain exhaustive information.",
+      "reason_of_removal": "Legal Purposes Exemption",
+      "justification": "The policy describes a process for users to exercise their legal rights under California law. The collection and use of the user's address in this context is for legal compliance and is user-initiated, which is exempt from disclosure as 'sharing' in the Data Safety section.",
+      "how_to_fix": "No action required. This practice is exempt from disclosure as 'sharing' under the legal purposes and user-initiated action exemptions.",
+      "lang": "English"
+    }
+  ]
+}
+```

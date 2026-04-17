@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "It should be noted that whether or not to send us your feedback or bug report is a completely voluntary initiative upon your own decision. If you have a concern about your personal data being misused, or if you want further information about our privacy policy and what it means, please feel free to email us at support@leap.app, we will endeavor to provide clear answers to your questions in a timely manner.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In order to provide a better user experience, we have integrated data statistics tools in the App, they won't collect users' health data or privacy data and are only used for CRASH targeting and AB-testing for new features and design, The details are as follows:\nDevice information\n•\nScreen Size\n• OEM Name\n•\nModel\nDevice system information\n•\nOS Name\n•\nOS Version\n•\nOS Build\n• Time Zone\n• System Language\n•\nCarrier Country\n• Carrier Name\nLocation information\n•\nLocale\n• Country Area\nApplication information\n• App Name\n• App Build\n• APP Version Number\n• SDK Name\n•\nSDK Version",
+      "lang": "English"
+    }
+  ]
+}

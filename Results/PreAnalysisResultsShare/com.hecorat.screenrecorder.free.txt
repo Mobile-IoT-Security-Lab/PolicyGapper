@@ -1,0 +1,56 @@
+Collecting Information
+Third-party components integrated into the Application (e.g., Google AdMob, Firebase, AppLovin, Meta
+Audience Network, YouTube API Services) may also collect information directly or indirectly from your
+device using cookies, unique identifiers, or similar technologies. This data may include analytics, device
+details, or personalized advertisement information.
+---
+When using YouTube API Services for live streaming, all YouTube-related data (e.g., account
+authentication, live stream metadata) is managed entirely on your device and transmitted securely to
+YouTube. AZ Screen Recorder does not collect, store, or process any YouTube-related data.
+---
+Although the Application might request personal information through third-party components, your
+personal information is stored locally on your device and not sent to our servers.
+---
+Integration with YouTube API Services
+AZ Screen Recorder uses YouTube API Services exclusively to enable live streaming functionalities. By
+using these features, you agree to comply with the Google Privacy Policy and the YouTube Terms of
+Service.
+---
+AZ Screen Recorder does not collect, store, or process any personal data related to YouTube. All
+YouTube-related data, including authentication tokens, live stream metadata (e.g., title, description, privacy
+settings), and account information, are handled directly on your device and transmitted securely to
+YouTube.
+--- [PAGE BREAK] ---
+Third-party Components
+Some third-party components integrated into the Application may use cookies or similar technologies to
+collect data directly or indirectly from your device or browser. These technologies may include placing,
+accessing, or recognizing cookies or device identifiers. Examples of third-party data collection include:
+• Google Privacy Policy
+• AppLovin Privacy Policy
+•
+Facebook Privacy Policy
+---
+In addition to these, AZ Screen Recorder uses YouTube API Services to enable live streaming
+functionalities. These interactions are governed by the Google Privacy Policy and the YouTube Terms of
+Service.
+---
+Sharing of User Information
+We do not share any YouTube-related data with third parties. All interactions with YouTube API Services
+occur directly between the Application and YouTube, ensuring that no data is transmitted to or processed
+by AZ Screen Recorder's servers.
+---
+Other information collected by third-party components is subject to their respective privacy policies. We do
+not sell, rent, or share your information with other third parties, except when required by law or necessary
+to protect the rights, property, or personal safety of Hecorat, our customers, or the public.
+---
+Use of Collected User Information
+We use collected information solely for the purpose of tracking bugs, improving the Application's
+functionality, and enhancing user experience. Data collected by third-party components may also be used
+to serve personalized advertisements or provide analytics.
+--- [PAGE BREAK] ---
+Security
+We take your data security seriously. All YouTube-related interactions, including authentication and
+metadata transmission, are managed directly on your device and transmitted securely to YouTube.
+Information collected by third-party components is subject to their respective privacy policies. While we
+strive to provide robust security measures, no system can guarantee complete protection against all
+potential breaches.

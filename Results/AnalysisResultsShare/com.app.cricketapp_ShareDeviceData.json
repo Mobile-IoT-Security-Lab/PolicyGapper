@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User(s) agree that any information you include in a posting to the public discussion areas on the Company's Website(s)/Mobile Application(s) is available to anyone who has access to the Company's Website(s)/Mobile Exchange(s).",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We use third-party advertising companies to serve ads when the User(s) visit the Company's Website(s)/Mobile Application(s). These companies may use information (not including your name, address, email address or telephone number or other personally identifiable sensitive/non-sensitive information) about your visits to this and other websites or applications, in order to provide advertisements about goods and services of interest to the respective User(s).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use third-party advertising companies to serve ads when the User(s) visit the Company's Website(s)/Mobile Application(s). These companies may use information (not including your name, address, email address or telephone number or other personally identifiable sensitive/non-sensitive information) about your visits to this and other websites or applications, in order to provide advertisements about goods and services of interest to the respective User(s).",
+      "lang": "English"
+    }
+  ]
+}

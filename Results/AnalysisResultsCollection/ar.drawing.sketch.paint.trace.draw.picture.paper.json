@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "You may contact us by email indicated on our website, as well as this Privacy policy, with a question/request/complaint, etc. In such cases, we will have to process Personal Data you provide to give you the appropriate feedback on your inquiry.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "You may contact us by email indicated on our website, as well as this Privacy policy, with a question/request/complaint, etc. In such cases, we will have to process Personal Data you provide to give you the appropriate feedback on your inquiry.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "From time to time, we may offer you paid features in the App. In order to receive payments, confirm payment status, provide you with paid features on the App, and ensure that you can receive a refund for in-app purchases, we require certain Personal Data that we receive from the Platform through which you download our App.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "You may contact us by email indicated on our website, as well as this Privacy policy, with a question/request/complaint, etc. In such cases, we will have to process Personal Data you provide to give you the appropriate feedback on your inquiry.",
+      "lang": "en"
+    }
+  ]
+}

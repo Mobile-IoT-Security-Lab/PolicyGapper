@@ -1,0 +1,59 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Profile Data includes your username and password, selfie picture, your interests, preferences, feedback, and Research and Survey Responses Data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Usage Data includes information about how you use our Website, products, and services. For example, this may include information that you view or click while visiting or using our Website or diagnostic and troubleshooting information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Usage Data includes information about how you use our Website, products, and services. For example, this may include information that you view or click while visiting or using our Website or diagnostic and troubleshooting information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Usage Data includes information about how you use our Website, products, and services. For example, this may include information that you view or click while visiting or using our Website or diagnostic and troubleshooting information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Special Categories Data includes race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, health information and biometric data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Special Categories Data includes race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, health information and biometric data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment information includes bank account details (e.g. IBAN, PayPal email address, digital-wallet identifiers and other payment-instrument details.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transaction Data includes details about the method of payment such as the pay-out, cash-out, redemption method, or gift cards paid to you for participating as a user on our Website.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Special Categories Data includes race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, health information and biometric data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "KYC / Identity verification data: selfie, government ID images and extracted fields (name, date of birth, document number, issuing country, validity), device/technical metadata (e.g. IP, device identifiers), and verification outcomes (pass/fail, risk signals, provider references).",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Identity Data includes first name, last name, username, telephone numbers, country of residence, gender, driver's license, state ID, passport, passport card, permanent resident card, non-citizen travel document, visa, or similar identifier.",
+      "lang": "en"
+    }
+  ]
+}

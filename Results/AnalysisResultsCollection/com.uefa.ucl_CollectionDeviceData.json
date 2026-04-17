@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "(vi) Profile Data includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "UEFA also collects, including but not limited to, your Web browser software, your internet protocol (IP) address which identifies your computer, UEFA's cookies, the referring website, the page you requested, your location, and your online activity on UEFA Platforms.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "UEFA also collects, including but not limited to, your Web browser software, your internet protocol (IP) address which identifies your computer, UEFA's cookies, the referring website, the page you requested, your location, and your online activity on UEFA Platforms.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "UEFA also automatically receives and records non-sensitive information on its technical infrastructure logs about your computer when you visit UEFA Platforms, regardless of whether you have registered for an account or not by just browsing our servers.",
+      "lang": "English"
+    }
+  ]
+}

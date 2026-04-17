@@ -1,0 +1,42 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Information including the actions you take, downloads, shares, issues faced, photo or video editing, and any other data you provide when using our services may be collected by the App. This data is collected to ensure the App functions properly.",
+      "justification": "The policy states 'actions you take, downloads, shares...may be collected by the App', which directly corresponds to the 'App interactions' data type. The policy does not state this data is processed only on-device or is end-to-end encrypted.",
+      "how_to_fix": "Declare 'App interactions' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Information including the actions you take, downloads, shares, issues faced, photo or video editing, and any other data you provide when using our services may be collected by the App. This data is collected to ensure the App functions properly.",
+      "justification": "The policy states 'actions you take...and any other data you provide when using our services may be collected', which covers the 'Other actions' data type. The policy does not state this data is processed only on-device or is end-to-end encrypted.",
+      "how_to_fix": "Declare 'Other actions' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "To provide customized your preference content, we gather information on your approximate location, which includes information on your location based on your SIM card and/or IP address.",
+      "justification": "The policy explicitly states 'we gather information on your approximate location'. The term 'gather' implies collection off-device, and there is no mention of on-device only processing or end-to-end encryption.",
+      "how_to_fix": "Declare 'Approximate location' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Information including the actions you take, downloads, shares, issues faced, photo or video editing, and any other data you provide when using our services may be collected by the App. This data is collected to ensure the App functions properly.",
+      "justification": "The policy mentions 'photo...editing' and that 'data you provide...may be collected'. This implies photos are sent off-device for processing. The policy does not state this data is processed only on-device or is end-to-end encrypted.",
+      "how_to_fix": "Declare 'Photos' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Information including the actions you take, downloads, shares, issues faced, photo or video editing, and any other data you provide when using our services may be collected by the App. This data is collected to ensure the App functions properly.",
+      "justification": "The policy mentions '...video editing' and that 'data you provide...may be collected'. This implies videos are sent off-device for processing. The policy does not state this data is processed only on-device or is end-to-end encrypted.",
+      "how_to_fix": "Declare 'Videos' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

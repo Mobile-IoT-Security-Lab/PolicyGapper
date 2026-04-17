@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We may also collect information that you provide to us when you correspond with us (for example, by email, chat or phone). This includes information you provide when you register to use our Platforms, subscribe to our service, search for a product, place an Order on our Platforms, participate in discussion boards or other social media functions on our Platforms, enter a competition, promotion or survey, submit a query or report a problem with our Platforms. The information you give us may include your name, address, email address and phone number, financial and credit card information, personal description and photograph.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may also collect information that you provide to us when you correspond with us (for example, by email, chat or phone). This includes information you provide when you register to use our Platforms, subscribe to our service, search for a product, place an Order on our Platforms, participate in discussion boards or other social media functions on our Platforms, enter a competition, promotion or survey, submit a query or report a problem with our Platforms. The information you give us may include your name, address, email address and phone number, financial and credit card information, personal description and photograph.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We may record and monitor any communications we have with you, including phone conversations and emails, for the purposes of training, fraud prevention and quality assurance.",
+      "lang": "en"
+    }
+  ]
+}

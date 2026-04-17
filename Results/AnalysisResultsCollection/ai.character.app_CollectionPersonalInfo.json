@@ -1,0 +1,59 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "• Identifiers, such as your name, email address, phone number, display name, or username;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "As described further in the Cookie Policy, we use these technologies to collect and analyze device, Internet, and other electronic network activity information including information about your computer or device (e.g., device type; browser type; ISP or operating system; IP address; device identifiers such as IDFA, Android ID, etc.; version of our Services you are using); information about how you use and interact with the Services (e.g., domain name; access time; referring or exit pages; page views; Service-related identifiers such as User ID, Chat ID, Session ID, etc.; and actions taken within the Services); and geolocation data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• Identifiers, such as your name, email address, phone number, display name, or username;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Information you provide directly to us might also include information that may be treated as sensitive under applicable laws, such as login credentials, personal communications received or sent using our Services, or other information about yourself that you choose to provide when using our Services (e.g., if you voluntarily post user content revealing your race, religion, or sexual orientation).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Information you provide directly to us might also include information that may be treated as sensitive under applicable laws, such as login credentials, personal communications received or sent using our Services, or other information about yourself that you choose to provide when using our Services (e.g., if you voluntarily post user content revealing your race, religion, or sexual orientation).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Information you provide directly to us might also include information that may be treated as sensitive under applicable laws, such as login credentials, personal communications received or sent using our Services, or other information about yourself that you choose to provide when using our Services (e.g., if you voluntarily post user content revealing your race, religion, or sexual orientation).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "• Demographic information, such as your date of birth and general geolocation information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Financial information, such as payment information and other information collected through our payment processing vendors;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Commercial information, such as purchases and transaction history;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "• Financial information, such as payment information and other information collected through our payment processing vendors;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Demographic information, such as your date of birth and general geolocation information;",
+      "lang": "English"
+    }
+  ]
+}

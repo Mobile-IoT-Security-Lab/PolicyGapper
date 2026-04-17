@@ -1,0 +1,70 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may also allow others to provide audience measurement and analytics services for us, to serve ads on our behalf across the internet or for other companies' products and services on our apps, and to track and report on the performance of those ads. These entities may use cookies, web beacons, SDKs and other technologies to identify the devices used by visitors to our websites, as well as when they visit other online sites and services.",
+      "justification": "The policy states data is shared with third parties for advertising and analytics, including tracking across other sites. This goes beyond a service provider role and constitutes 'sharing' that must be declared.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Web browsing history' is shared with third parties for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "This also includes ad intermediaries, such as Criteo, Google, Rokt, The Trade Desk, TripleLift and others. We share data including advertising or device identifier, hashed email address, approximate location, current trip or order information, and ad interaction data with these intermediaries to enable their services and for such other purposes as are disclosed in their privacy notices. You may opt out from ad personalization here. For more information regarding these intermediaries' privacy practices, including how to submit requests to them relating to their handling of personal data, please go to their privacy notices linked above.",
+      "justification": "The policy explicitly states that data, including approximate location, is shared with ad intermediaries for their own purposes as disclosed in their privacy notices. This is not a service provider relationship and must be declared as 'sharing'.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Approximate location' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim.\nData necessary to adjust or handle the claim,\nwhich may include:\n• Account\n• Communications between users\n•\n•\nDevice\nLocation\n• Trip/order info\n•\nUsage\n• User content",
+      "reason_of_removal": "User-Initiated/Consent Exemption",
+      "justification": "The policy indicates data is shared with an insurance company only when a user initiates an action by reporting an incident or submitting a claim. This falls under the user-initiated action exemption and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This data sharing scenario does not need to be declared as 'sharing' in the Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Restaurants/merchants you order from, and your delivery person\n• Account\n•\n• First name\nOrder info\n• Delivery address (including with restaurants/merchants that use their own delivery people to fulfill your order)\n• Items ordered (which may include drug prescriptions)\n• Special instructions, allergies or food preferences\n• User content\n• Feedback\n• Ratings",
+      "reason_of_removal": "User-Initiated/Consent Exemption",
+      "justification": "The policy describes sharing order details, which may include health information like drug prescriptions, with a merchant to fulfill an order placed by the user. This is a direct result of a user-initiated action and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This data sharing scenario does not need to be declared as 'sharing' in the Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim.\nData necessary to adjust or handle the claim, which may include:\n• Account\n• Communications between users\n•\n•\nDevice\nLocation\n• Trip/order info\n•\nUsage\n• User content",
+      "reason_of_removal": "User-Initiated/Consent Exemption",
+      "justification": "The policy indicates data is shared with an insurance company only when a user initiates an action by reporting an incident or submitting a claim. This falls under the user-initiated action exemption and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This data sharing scenario does not need to be declared as 'sharing' in the Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim. Data necessary to adjust or handle the claim, which may include: • Account • Communications between users • Device • Location • Trip/order info • Usage • User content",
+      "reason_of_removal": "User-Initiated/Consent Exemption",
+      "justification": "The policy indicates 'Communications between users' are shared with an insurance company only when a user initiates an action by reporting an incident or submitting a claim. This falls under the user-initiated action exemption and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This data sharing scenario does not need to be declared as 'sharing' in the Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim. Data necessary to adjust or handle the claim, which may include: • Account • Communications between users • Device • Location • Trip/order info • Usage • User content",
+      "reason_of_removal": "User-Initiated/Consent Exemption",
+      "justification": "The policy indicates 'User content', which can include photos, is shared with an insurance company only when a user initiates an action by reporting an incident or submitting a claim. This falls under the user-initiated action exemption and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This data sharing scenario does not need to be declared as 'sharing' in the Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim. Data necessary to adjust or handle the claim, which may include: • Account • Communications between users • Device • Location • Trip/order info • Usage • User content",
+      "reason_of_removal": "User-Initiated/Consent Exemption",
+      "justification": "The policy indicates 'User content', which can include voice recordings, is shared with an insurance company only when a user initiates an action by reporting an incident or submitting a claim. This falls under the user-initiated action exemption and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This data sharing scenario does not need to be declared as 'sharing' in the Data safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

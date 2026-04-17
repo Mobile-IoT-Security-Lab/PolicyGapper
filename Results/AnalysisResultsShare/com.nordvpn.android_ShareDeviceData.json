@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We also partner with third parties to display advertising on our Websites or to manage our advertising on other sites. These partners help us deliver more relevant ads and promotional messages to you, which may include behavioral, contextual, and generic advertising. We and our advertising partners may process certain personal data to help us understand your preferences so that we can deliver advertisements that are more relevant to you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We also partner with third parties to display advertising on our Websites or to manage our advertising on other sites. These partners help us deliver more relevant ads and promotional messages to you, which may include behavioral, contextual, and generic advertising. We and our advertising partners may process certain personal data to help us understand your preferences so that we can deliver advertisements that are more relevant to you.",
+      "lang": "English"
+    }
+  ]
+}

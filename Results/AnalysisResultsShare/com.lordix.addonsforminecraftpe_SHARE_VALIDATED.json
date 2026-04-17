@@ -1,0 +1,119 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "How do we use and share your personal information?\nLordix Studio collects and shares your personal information through:\n• Google Admob\n• Google Analytics\nMore information about our data collection and sharing practices can be found in\nthis privacy notice.",
+      "justification": "The policy states the app 'collects and shares' data through 'Google Admob' and 'Google Analytics'. Sharing data with third parties for advertising and analytics purposes must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'App interactions' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "How do we use and share your personal information?\nLordix Studio collects and shares your personal information through:\n• Google Admob\n• Google Analytics\nMore information about our data collection and sharing practices can be found in\nthis privacy notice.",
+      "justification": "The policy states the app 'collects and shares' data through 'Google Admob' and 'Google Analytics'. Sharing data with third parties for advertising and analytics purposes must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Other actions' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Lordix Studio has not sold any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category A. Identifiers, such as contact details like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name.\n• Category B. Personal Information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history, and financial information.\n• Category C. Characteristics of protected classifications under California or federal law, such as gender or date of birth.\n• Category D. Commercial information, such as transaction information, purchase history, financial details, and payment information.\n• Category E. Biometric information, such as fingerprints and voiceprints.",
+      "justification": "The policy explicitly states that 'Identifiers, such as ... real name' are 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Name' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Lordix Studio has not sold any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category A. Identifiers, such as contact details like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name.\n• Category B. Personal Information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history, and financial information.\n• Category C. Characteristics of protected classifications under California or federal law, such as gender or date of birth.\n• Category D. Commercial information, such as transaction information, purchase history, financial details, and payment information.\n• Category E. Biometric information, such as fingerprints and voiceprints.",
+      "justification": "The policy explicitly states that 'Identifiers, such as ... email address' are 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Email address' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Lordix Studio has not sold any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category A. Identifiers, such as contact details like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name.\n• Category B. Personal Information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history, and financial information.\n• Category C. Characteristics of protected classifications under California or federal law, such as gender or date of birth.\n• Category D. Commercial information, such as transaction information, purchase history, financial details, and payment information.\n• Category E. Biometric information, such as fingerprints and voiceprints.",
+      "justification": "The policy explicitly states that 'Identifiers, such as ... postal address' are 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Address' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Lordix Studio has not sold any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category A. Identifiers, such as contact details like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name.\n• Category B. Personal Information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history, and financial information.\n• Category C. Characteristics of protected classifications under California or federal law, such as gender or date of birth.\n• Category D. Commercial information, such as transaction information, purchase history, financial details, and payment information.\n• Category E. Biometric information, such as fingerprints and voiceprints.",
+      "justification": "The policy explicitly states that 'Identifiers, such as ... telephone or mobile contact number' are 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Phone number' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Lordix Studio has not sold any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category A. Identifiers, such as contact details like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name.\n• Category B. Personal Information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history, and financial information.\n• Category C. Characteristics of protected classifications under California or federal law, such as gender or date of birth.\n• Category D. Commercial information, such as transaction information, purchase history, financial details, and payment information.\n• Category E. Biometric information, such as fingerprints and voiceprints.",
+      "justification": "The policy explicitly states that 'Personal Information...such as...education, employment' and 'Characteristics of protected classifications...such as gender or date of birth' are 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Other info' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Lordix Studio has not sold any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category A. Identifiers, such as contact details like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name.\n• Category B. Personal Information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history, and financial information.\n• Category C. Characteristics of protected classifications under California or federal law, such as gender or date of birth.\n• Category D. Commercial information, such as transaction information, purchase history, financial details, and payment information.\n• Category E. Biometric information, such as fingerprints and voiceprints.",
+      "justification": "The policy explicitly states that 'Commercial information, such as ... payment information' is 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'User payment info' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Lordix Studio has not sold any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category A. Identifiers, such as contact details like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name.\n• Category B. Personal Information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history, and financial information.\n• Category C. Characteristics of protected classifications under California or federal law, such as gender or date of birth.\n• Category D. Commercial information, such as transaction information, purchase history, financial details, and payment information.\n• Category E. Biometric information, such as fingerprints and voiceprints.",
+      "justification": "The policy explicitly states that 'Commercial information, such as ... purchase history' is 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Purchase history' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "Lordix Studio has not sold any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category A. Identifiers, such as contact details like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name.\n• Category B. Personal Information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history, and financial information.\n• Category C. Characteristics of protected classifications under California or federal law, such as gender or date of birth.\n• Category D. Commercial information, such as transaction information, purchase history, financial details, and payment information.\n• Category E. Biometric information, such as fingerprints and voiceprints.",
+      "justification": "The policy explicitly states that 'Commercial information, such as ... financial details' is 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Other financial info' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category A. Identifiers, such as contact details like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name.",
+      "justification": "The policy explicitly states that 'Identifiers, such as ... email address' are 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Email address' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category H. Audio, electronic, visual, and similar information, such as images and audio, video, or call recordings created in connection with our business activities.",
+      "justification": "The policy explicitly states that 'visual... information, such as images' is 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Photos' are shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category H. Audio, electronic, visual, and similar information, such as images and audio, video, or call recordings created in connection with our business activities.",
+      "justification": "The policy explicitly states that 'visual... information, such as ... video' is 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Videos' are shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category H. Audio, electronic, visual, and similar information, such as images and audio, video, or call recordings created in connection with our business activities.",
+      "justification": "The policy explicitly states that 'Audio... information, such as ... audio... recordings' is 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Voice or sound recordings' are shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category H. Audio, electronic, visual, and similar information, such as images and audio, video, or call recordings created in connection with our business activities.",
+      "justification": "The policy explicitly states that 'Audio... information' is 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Other audio files' are shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category A. Identifiers, such as contact details like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name.\n• Category B. Personal Information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history, and financial information.",
+      "justification": "The policy explicitly states that 'Identifiers, such as contact details' and 'Personal Information... such as... contact information' are 'disclosed ... to third parties for a business or commercial purpose'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Data safety section that 'Contacts' are shared with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

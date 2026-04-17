@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Advertising - When you see ads in our apps, we may share your Advertising ID and IP address with our advertising partners. Our advertising partners may also collect information directly from our apps through technologies such as software development kits (SDKs). In each case, they may use your data for a number of purposes, including to limit the number of times you see an ad or to personalize the ads you see to make them more relevant to you (for example, based on the past activity they have associated with your Advertising ID). For more information, please refer to the privacy policies of our advertising partners listed here.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "When this app is in use (or running in the background) we collect and share with our business partners the following device and location data: Precise location data of the device, WiFi signals or Bluetooth Low Energy devices in your proximity, device-based advertising identifiers, app names and/or identifiers, and information about your mobile device such as type of device, operating system version and type, device settings, time zone, carrier, and IP address.",
+      "lang": "English"
+    }
+  ]
+}

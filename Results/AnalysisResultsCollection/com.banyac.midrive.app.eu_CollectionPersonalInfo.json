@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Information you provide to us or upload (including your contact details): we may collect any and all personal information you provide to us, Mi Account details (e.g. your username, avatar), 70mai account details, information in relation to creating an account and participating in 70mai platforms, feedback, and any other information you provide us, like your mobile phone number, email address, QQ number, or Wechat number.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may use your name, phone number, and email address, Mi Account ID, 70mai Account ID and IMEI number to provide marketing materials to you relating to goods and services of 70mai companies and our business partners which offer network, mobile applications and cloud products and services. To provide better user experience, we may recommend above-mentioned products, services and activities based on information about your purchase history, website browsing history, birthday, age, gender, and location. We will only so use your personal data after we have obtained your consent or indication of no objection in accordance with local data protection laws, which may require separate explicit consent. You have the right to opt out of our proposed use of your personal data for direct marketing. If you no longer wish to receive certain types of email communications you may opt-out by following the unsubscribe link located at the bottom of each communication. We will not transfer your personal data to our business partners for use by our business partners in direct marketing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may use your name, phone number, and email address, Mi Account ID, 70mai Account ID and IMEI number to provide marketing materials to you relating to goods and services of 70mai companies and our business partners which offer network, mobile applications and cloud products and services. To provide better user experience, we may recommend above-mentioned products, services and activities based on information about your purchase history, website browsing history, birthday, age, gender, and location. We will only so use your personal data after we have obtained your consent or indication of no objection in accordance with local data protection laws, which may require separate explicit consent. You have the right to opt out of our proposed use of your personal data for direct marketing. If you no longer wish to receive certain types of email communications you may opt-out by following the unsubscribe link located at the bottom of each communication. We will not transfer your personal data to our business partners for use by our business partners in direct marketing.",
+      "lang": "English"
+    }
+  ]
+}

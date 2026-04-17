@@ -1,0 +1,21 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "The app uses a third party service (Firebase Machine Learning Kit) to do face features detection from images provided by you. This process can be conducted locally on your device and/or on third party servers (online). During online image recognition your images are stored in the memory only and deleted after the end of image processing. For more information about data usage during online image recognition, please, review the following document.",
+      "justification": "The policy states that user-provided images are processed on third-party servers ('...and/or on third party servers (online)'). This off-device processing constitutes data collection and must be declared.",
+      "how_to_fix": "Declare 'Other User-generated content' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "The app uses a third party service (Firebase Machine Learning Kit) to do face features detection from images provided by you. This process can be conducted locally on your device and/or on third party servers (online). During online image recognition your images are stored in the memory only and deleted after the end of image processing. For more information about data usage during online image recognition, please, review the following document.",
+      "justification": "The policy explicitly states that user-provided images may be sent to third-party servers for processing ('...and/or on third party servers (online)'). Sending photos off-device is considered data collection and must be declared.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

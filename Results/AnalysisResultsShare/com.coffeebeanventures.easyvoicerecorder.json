@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Digipom may use Google Analytics (see http://www.google.com/analytics/), Google Firebase Analytics (see https://firebase.google.com/features/analytics/), Firebase Crashlytics (see https://firebase.google.com/docs/crashlytics) or other similar services to collect such information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Digipom may use Google Analytics (see http://www.google.com/analytics/), Google Firebase Analytics (see https://firebase.google.com/features/analytics/), Firebase Crashlytics (see https://firebase.google.com/docs/crashlytics) or other similar services to collect such information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "When you view ads in Digipom properties (e.g. in our Apps)\nTo enable us to show in-app ads, we may send your advertising ID, IP address and device information to advertisers (or ad networks) to enable them to find appropriate ads to serve to you in our Apps and on third-party properties. You can control and limit our use of your advertising ID in your device settings. Digipom does not control which specific ads are shown in our apps (this is controlled by the ad networks), but we do prohibit certain types of ads.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Categories of Personal Data disclosed under the CCPA\nWe disclose the following categories of Personal Data as defined in the CCPA, and have done so in the past 12 months:\n1. Internet or other electronic network activity information on our Internet Web sites and applications, including, but not limited to, browsing history, search history, and information regarding your interaction with an Internet Web site, application, or advertisement; and\n2. Geolocation data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Categories of Personal Data disclosed under the CCPA\nWe disclose the following categories of Personal Data as defined in the CCPA, and have done so in the past 12 months:\n1. Internet or other electronic network activity information on our Internet Web sites and applications, including, but not limited to, browsing history, search history, and information regarding your interaction with an Internet Web site, application, or advertisement; and\n2. Geolocation data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Categories of Personal Data disclosed under the CCPA\nWe disclose the following categories of Personal Data as defined in the CCPA, and have done so in the past 12 months:\n1. Internet or other electronic network activity information on our Internet Web sites and applications, including, but not limited to, browsing history, search history, and information regarding your interaction with an Internet Web site, application, or advertisement; and\n2. Geolocation data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "To enable us to show in-app ads, we may send your advertising ID, IP address and device information to advertisers (or ad networks) to enable them to find appropriate ads to serve to you in our Apps and on third-party properties. You can control and limit our use of your advertising ID in your device settings. Digipom does not control which specific ads are shown in our apps (this is controlled by the ad networks), but we do prohibit certain types of ads.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "To enable us to show in-app ads, we may send your advertising ID, IP address and device information to advertisers (or ad networks) to enable them to find appropriate ads to serve to you in our Apps and on third-party properties. You can control and limit our use of your advertising ID in your device settings. Digipom does not control which specific ads are shown in our apps (this is controlled by the ad networks), but we do prohibit certain types of ads.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data\" or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The privacy policy states that data about the use of the service and app configuration is collected, which falls under 'App interactions'. This data is sent off-device to third-party service providers.",
+      "how_to_fix": "Declare the collection of 'App interactions' in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "When you install our App, we may collect information from your device, that may include a list of your installed Apps. This data may contain identity information and therefore we treat it as Personal Data.",
+      "justification": "The privacy policy explicitly states that a 'list of your installed Apps' may be collected from the device. The context implies this data is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Installed apps' in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "The Advertisers are advertising Service Providers. Their targeted advertising SDKs collect information about your browsing activity across multiple websites and online services in order to provide you with relevant advertisements on the App and Services of third parties. The information collected using these advertising SDK does not disclose your identity, and helps us analyze the effectiveness of our advertising.",
+      "justification": "The privacy policy states that third-party advertising SDKs collect information about 'browsing activity across multiple websites'. This data is sent off-device by the SDKs.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data\" or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The privacy policy explicitly states that 'Crash Data' is collected in case of an app error and sent off-device via third-party service providers.",
+      "how_to_fix": "Declare the collection of 'Crash logs' in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data\" or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The privacy policy states that data related to app performance and errors, such as OS version and other statistics, is collected. This falls under 'Diagnostics' and is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Diagnostics' in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "NAME Firebase PURPOSE • Remote Config- data • storage and processing location • Crashlytics- data • Cloud Messaging • data encryption • security purpose • a/b testing • in-app messaging • predictions • analytics PRIVACY AND OPT OUT Firebase Privacy Policy: https://firebase.google.com/support/privacy",
+      "justification": "The privacy policy lists the use of Firebase services like Crashlytics, Analytics, and Predictions, which collect app performance data that is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In case of an error in the App we collect data and information (through third-party service providers) such as \"Log Data\" or \"Crash Data\". This data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The privacy policy states that 'device Internet Protocol (IP) address' and 'device name' are collected. These are considered 'Device or other IDs' and are sent off-device.",
+      "how_to_fix": "Declare the collection of 'Device or other IDs' in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "justification": "The privacy policy explicitly states that 'full name' is collected during the account registration process. This data is sent off-device to create the account.",
+      "how_to_fix": "Declare the collection of 'Name' in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "justification": "The privacy policy explicitly states that 'email address' is collected during the account registration process. This data is sent off-device to create the account.",
+      "how_to_fix": "Declare the collection of 'Email address' in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We use in app payment processors; the registration and payment information are solely processed by the applicable app store provider. We do not store nor process any Personal Data when you process the payment. We receive an order number which is connected to a user ID which was generated when installing the app (non identifiable).",
+      "justification": "The privacy policy states 'We receive an order number', which constitutes a form of 'Purchase history'. This data is sent off-device from the payment processor to the developer.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Non-Personal Data\nDuring your interaction with our website and Services, we may collect aggregated, non-personal non-identifiable information, which may be made available or gathered via your access to and use of the Services (“Non-Personal Data “). We are not aware of the identity of the user from which the Non-Personal Data is collected. The Non-Personal Data being collected may include your aggregated usage information and technical information transmitted by your device, such as: the type of browser or device you use, language preference, time and date stamp, country location, etc.",
+      "justification": "The privacy policy states that 'country location' is collected. This falls under 'Approximate location' and is transmitted from the user's device.",
+      "how_to_fix": "Declare the collection of 'Approximate location' in the Google Play Console's Data safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "reason_of_removal": "Inconsistent: The policy states the collection of 'email address' for registration, not the content of 'Emails'. 'Email address' is a separate, correctly identified data type.",
+      "justification": "The privacy policy explicitly states that 'email address' is collected during the account registration process. This data is sent off-device to create the account.",
+      "how_to_fix": "Declare the collection of 'Email address' in the Google Play Console's Data safety section.",
+      "lang": "en"
+    }
+  ]
+}
+```

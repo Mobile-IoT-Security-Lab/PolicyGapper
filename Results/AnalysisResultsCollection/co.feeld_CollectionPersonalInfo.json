@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Some of the personal information you provide us, including sexual orientation, sexual preferences, and certain other information you may choose to provide as part of using the Services (such as information about your race, ethnicity, politics, religion, philosophical beliefs, health and sex life) will be treated as special category personal data to which additional protections apply under data protection law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Some of the personal information you provide us, including sexual orientation, sexual preferences, and certain other information you may choose to provide as part of using the Services (such as information about your race, ethnicity, politics, religion, philosophical beliefs, health and sex life) will be treated as special category personal data to which additional protections apply under data protection law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Financial Data\nSource\nEach member provides this to FEELD when making any in-App purchases or when purchasing FEELD's premium features.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Some of the personal information you provide us, including sexual orientation, sexual preferences, and certain other information you may choose to provide as part of using the Services (such as information about your race, ethnicity, politics, religion, philosophical beliefs, health and sex life) will be treated as special category personal data to which additional protections apply under data protection law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Geolocation Data\n• Examples of Personal Data Collected:\n• Your precise location, if you have granted us permission to collect it.\n• Your general location, which we may learn from your IP address.",
+      "lang": "English"
+    }
+  ]
+}

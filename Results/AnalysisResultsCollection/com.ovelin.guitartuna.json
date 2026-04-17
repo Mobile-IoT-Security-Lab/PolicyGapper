@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content(for example, user bios, notes, or open-ended responses)",
+      "policy_reference": "Your messages to the Services (such as if you are in touch with us or our support agents about resolving issues in the Services, send messages to our forums or support),",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Contact information, such as your name, email address or other contact information, if you have provided them to us (for example, if you create an account in our Services or subscribe to our communications),",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Contact information, such as your name, email address or other contact information, if you have provided them to us (for example, if you create an account in our Services or subscribe to our communications),",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Your payment related data for processing the billing of your Services subscriptions and other purchases you make,",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Your IP address to bring our product to your device, but also to get an idea of your general location through IP geolocation data (on city, state or country level) so that we can manage the content available in the Service in your territory or to show you pricing in your own currency and also to analyse our Service and its usage.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "• Contact information, such as your name, email address or other contact information, if you have provided them to us (for example, if you create an account in our Services or subscribe to our communications),",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• Your messages to the Services (such as if you are in touch with us or our support agents about resolving issues in the Services, send messages to our forums or support),",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• Profile information (such as profile photo, if you choose to add this to your profile),",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "• If you choose to connect a third party account (for example a Facebook account) with our Services, we receive information from the third-party account provider (for example if you decide to sign up to our Service with Facebook login, we receive from Facebook your name, email address or other identifier to enable cross-device gameplay, profile picture, and friends information to connect you with your friends who already use our Services),",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Payment data. This information is necessary to collect payments for the Services. Our payment processing partners process basic billing information for payment processing and refund requests (e.g., date of purchase, payer's IP address, postal (ZIP) code, credit card owner's full name and credit card information). We also process some of such billing information ourselves (e. g., date of purchase, credit card owner's full name, part of your credit card number, its expiration date) in cases of recurring payments or when you provide your payment details directly to us. In some cases, information about your two previous transactions, along with your IP address, may also be used to resolve transaction disputes. This data helps verify the legitimacy of disputed transactions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Subscription data. When you subscribe to our Services we process certain subscription information (e.g., your email address, the subscription plan you have chosen, subscription term, subscription ID, subscription frequency, amount, currency, status, auto-renewal status, information about enabled/disabled features such as multi-factor authentication (MFA), etc.).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Payment data. This information is necessary to collect payments for the Services. Our payment processing partners process basic billing information for payment processing and refund requests (e.g., date of purchase, payer's IP address, postal (ZIP) code, credit card owner's full name and credit card information). We also process some of such billing information ourselves (e. g., date of purchase, credit card owner's full name, part of your credit card number, its expiration date) in cases of recurring payments or when you provide your payment details directly to us. In some cases, information about your two previous transactions, along with your IP address, may also be used to resolve transaction disputes. This data helps verify the legitimacy of disputed transactions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Phone calls. If phone contact is available in your country and you reach out to us in response to one of our TV advertisements, we will record the call for quality assurance and to respond to your queries (including complaints) about our Services you are interested in, but only with your prior consent. In this case, we will process call metadata (such as your phone number, call time, and duration) along with the content of the call (including your voice, email address, details about our Services you are interested in, and any other information exchanged). Additionally, if your call is dropped while we are locating an available consultant or during your conversation, or if you call when the phone line is closed, we will record your phone number and may call you back. If you prefer not to have your call recorded, we encourage you to contact us via email at support@nordaccount.com instead of reaching out by phone.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment data. This information is necessary to collect payments for the Services. Our payment processing partners process basic billing information for payment processing and refund requests (e.g., date of purchase, payer's IP address, postal (ZIP) code, credit card owner's full name and credit card information). We also process some of such billing information ourselves (e. g., date of purchase, credit card owner's full name, part of your credit card number, its expiration date) in cases of recurring payments or when you provide your payment details directly to us. In some cases, information about your two previous transactions, along with your IP address, may also be used to resolve transaction disputes. This data helps verify the legitimacy of disputed transactions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Country details. When making a purchase we process information on the user's country the purchase takes place from. This information is necessary for VAT calculation purposes.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "justification": "The privacy policy states that the app collects files that record user interaction with the product, referred to as System Logs. This constitutes the collection of 'App interactions'.",
+      "how_to_fix": "Declare the collection of 'App interactions' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "justification": "The privacy policy states that the app collects files that record user interaction with the product, which falls under the 'Other actions' data type.",
+      "how_to_fix": "Declare the collection of 'Other actions' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "justification": "The privacy policy states the collection of 'System Logs' for operation and maintenance. System logs often contain crash data, making this a required declaration.",
+      "how_to_fix": "Declare the collection of 'Crash logs' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "justification": "The privacy policy mentions collecting 'System Logs' for operation and maintenance, which is a form of diagnostics data used to measure app health and technical performance.",
+      "how_to_fix": "Declare the collection of 'Diagnostics' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "justification": "The privacy policy states the collection of 'System Logs' to record interaction, which is considered app performance data.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "justification": "The privacy policy explicitly states the collection of 'IP Address' for operational purposes, which is a type of 'Device or other ID'.",
+      "how_to_fix": "Declare the collection of 'Device or other IDs' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Personal data refers to information that can identify you, such as your name, e-mail address, or any data you provide while using AiScore user account. Our login providers (Facebook or Google) provide us with some of your personal data name, surname, e-mail upon your login to our services. However, your personal information of that kind will never be sold or rented to anyone, for any reason, at any time. We will not store this information in any available database. This information will only be used to easier fulfill your requests for service, such as providing access to your in-app stats and features, and to enforce our Terms of Use.",
+      "justification": "The privacy policy states that login providers (Facebook or Google) provide the app with the user's 'name' and 'surname'. The statement 'provide us with' confirms the data is sent off-device to the developer.",
+      "how_to_fix": "Declare the collection of 'Name' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Personal data refers to information that can identify you, such as your name, e-mail address, or any data you provide while using AiScore user account. Our login providers (Facebook or Google) provide us with some of your personal data name, surname, e-mail upon your login to our services. However, your personal information of that kind will never be sold or rented to anyone, for any reason, at any time. We will not store this information in any available database. This information will only be used to easier fulfill your requests for service, such as providing access to your in-app stats and features, and to enforce our Terms of Use.",
+      "justification": "The privacy policy states that login providers (Facebook or Google) provide the app with the user's 'e-mail'. The statement 'provide us with' confirms the data is sent off-device to the developer.",
+      "how_to_fix": "Declare the collection of 'Email address' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "justification": "The privacy policy states the collection of 'IP Address', which can be used to determine a user's approximate location. This is considered collected data.",
+      "how_to_fix": "Declare the collection of 'Approximate location' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Among the types of personal data that we collect, by itself or through third parties, are: Email, Cookie and Usage Data. If we need any other personal data collected at some point, it will either be described in other sections of this privacy policy or by dedicated explanation text contextually with the data collection, meaning you will be asked and fully informed about it. That means the personal data we collect may be freely provided by the user, or collected",
+      "justification": "The privacy policy explicitly lists 'Email' as a type of personal data that is collected. This is distinct from 'Email address' and refers to the content of emails.",
+      "how_to_fix": "Declare the collection of 'Emails' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

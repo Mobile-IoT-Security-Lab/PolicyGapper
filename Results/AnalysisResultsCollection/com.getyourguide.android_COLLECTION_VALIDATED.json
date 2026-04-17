@@ -1,0 +1,62 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Credit score",
+      "policy_reference": "We may obtain additional information about you from third parties to supplement our account information to the extent permitted by law. This includes demographic and navigation data, credit check data and other information from credit agencies, to the extent permitted by law.",
+      "justification": "The policy states, 'This includes... credit check data and other information from credit agencies, to the extent permitted by law,' indicating the collection of credit-related information about the user.",
+      "how_to_fix": "Declare 'Credit score' as a collected data type in the 'Financial info' section of the Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you download data, use our mobile applications or access one of our websites optimized for mobile devices, we may collect information about you and your mobile device as described above in this statement. This can include location data, for example, if you release it for our mobile application. We use this information to provide you with location-based services such as search results and other personalized content, if approved by you and your device. You can control or deactivate location services from the settings menu on most mobile devices. If you have questions about deactivating location services on your device, we recommend that you contact your mobile service provider or the manufacturer of your device.",
+      "justification": "The policy explicitly states that when using the mobile application, 'we may collect information about you and your mobile device... This can include location data... for our mobile application.' This confirms location data is collected from the app.",
+      "how_to_fix": "Declare 'Approximate location' or 'Precise location' as a collected data type in the 'Location' section of the Google Play Console Data Safety form.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may allow third party companies, including advertising companies (such as Google), to place cookies on our website. These cookies enable such companies to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you as you browse the Internet. These Cookies store information about the content you are browsing together with an identifier linked to your device or IP address.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states, 'place cookies on our website.' This data collection occurs on the website, not the mobile app, and is therefore exempt from declaration.",
+      "how_to_fix": "No action needed. Data collected solely on a website linked from the app does not need to be declared in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We use performance/analytics cookies to analyze how our website is accessed, used, or is performing to provide you with a better user experience and to maintain, operate and continually improve the website. For example, these cookies allow us to: Better understand the visitors of our website in order to improve and insure present and relevant content; Test different design ideas for particular pages, such as our homepage; Collect information about our website visitors, such as where they are located and what browsers they are using; Determine the number of unique users that visit our website; Improve our website by measuring any errors that occur; Conduct research and diagnostics to improve product offerings.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states, 'We use performance/analytics cookies to analyze how our website is accessed, used, or is performing.' This data collection is specific to the website, not the mobile app, and is exempt.",
+      "how_to_fix": "No action needed. Data collected solely on a website linked from the app does not need to be declared in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": ">> Data that you provide when setting up an account, such as your name, email address, telephone number, mobile phone number, address and data which will be provided depending on the service you use\n>> We collect, process and use transaction data regarding your activities on the websites (e.g. purchases, content that you generate or that relates to your account)\n>> Billing and other data you provide for the purchase\n>> Data collected in the context of reviews, chats and correspondence on the website or by email, fax and post\n>> Other personal data that we may ask you to provide for special purposes\n>> If you voluntarily provide us with additional personal data during registration, this data will also be used for the implementation of the usage relationship.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states, 'We collect, process and use transaction data regarding your activities on the websites (e.g. purchases).' This data collection occurs on the website, not the mobile app, and is exempt.",
+      "how_to_fix": "No action needed. Data collected solely on a website linked from the app does not need to be declared in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": ">> Data collected in the context of reviews, chats and correspondence on the website or by email, fax and post",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states data is collected from 'correspondence on the website or by email, fax and post.' This data is collected outside the mobile app and is therefore exempt from declaration.",
+      "how_to_fix": "No action needed. Data collected from sources other than the mobile app does not need to be declared in the app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": ">> Data collected in the context of reviews, chats and correspondence on the website or by email, fax and post",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states data is collected from 'reviews, chats and correspondence on the website.' This data collection occurs on the website, not within the mobile app, and is exempt.",
+      "how_to_fix": "No action needed. Data collected solely on a website linked from the app does not need to be declared in the app's Data Safety section.",
+      "lang": "en"
+    }
+  ]
+}
+```

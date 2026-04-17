@@ -1,0 +1,34 @@
+42apps LLC ("us", "we", or "our") operates the CalZen mobile application. This Privacy
+Policy describes how CalZen (hereinafter referred to as "we", "us", or "our") collects,
+uses, shares, and protects user information obtained through the CalZen mobile
+application (the "App"). By using our App, you understand and agree to the collection,
+storage, processing, and use of your data in accordance with this Privacy Policy.
+---
+1.2 Non-Personal Information
+We may also collect data in a form that does not, on its own, permit direct association
+with any specific individual. We may collect, use, transfer, and disclose non-personal
+information for any
+purpose. This information includes, but is not limited to, task name, task date and time,
+category etc.
+---
+1.3 Information from Third Parties
+We may receive information about you from third-party analytics providers, such as
+Amplitude, Firebase, Appsflyer, Facebook SDK, and Apphud. This information may
+include usage details, geographic location, and demographic information.
+---
+2.2 GPT AΡΙ
+We use the OpenAI GPT API to enhance the features within the app. This means that
+the food photos, calorie tracking requests, and nutritional queries you input into the
+app may be processed by the GPT API to provide you with accurate calorie, macro,
+and health score calculations.
+---
+3. Information Sharing and Disclosure
+We do not sell your personal information to third parties. However, we may share your
+personal information with third parties as described in this policy.
+---
+3.1 Service Providers and Business Partners
+We may use third-party companies and individuals to facilitate our service (e.g.,
+maintenance services, database management, web analytics, and payment
+processing), or to assist us in analyzing how our service is used. These third parties
+may have access to your Personal Information but only to perform these tasks on our
+behalf.

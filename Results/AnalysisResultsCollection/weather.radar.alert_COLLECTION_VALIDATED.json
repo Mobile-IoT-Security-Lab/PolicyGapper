@@ -1,0 +1,28 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.",
+      "justification": "The policy states that user 'correspondence' is collected via email support. The content of this correspondence is a form of user-generated content.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "1、When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.",
+      "justification": "The policy states that the app collects user 'correspondence' through email support services. This process inherently involves collecting the user's email address.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "1、When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.",
+      "justification": "The policy states that 'correspondence' is collected when users engage with email support. This 'correspondence' constitutes the collection of emails.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

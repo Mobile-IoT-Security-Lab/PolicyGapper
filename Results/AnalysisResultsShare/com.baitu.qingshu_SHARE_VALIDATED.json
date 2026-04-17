@@ -1,0 +1,58 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "account security analysis Conduct user demographic analysis (e.g., region, mobile phone model, operating system platform, system language and Poppo version) for multiple projects to better understand how our users use Poppo The network and account traffic statistics of the content and service used by users to access third-party services through Poppo open platform are carried out, so as to report the basic analysis of how Poppo users use their services to the third-party service providers.",
+      "justification": "The privacy policy states that user demographic and network traffic analysis is reported to third-party service providers. This constitutes sharing that must be declared.",
+      "how_to_fix": "Declare in the app's Data Safety section that 'Other app performance data' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "account security analysis Conduct user demographic analysis (e.g., region, mobile phone model, operating system platform, system language and Poppo version) for multiple projects to better understand how our users use Poppo The network and account traffic statistics of the content and service used by users to access third-party services through Poppo open platform are carried out, so as to report the basic analysis of how Poppo users use their services to the third-party service providers.",
+      "justification": "The privacy policy states that analysis based on device and usage data (e.g., mobile phone model, OS, traffic statistics) is reported to third parties. This falls under diagnostics and constitutes sharing that must be declared.",
+      "how_to_fix": "Declare in the app's Data Safety section that 'Diagnostics' data is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "A third party that acquires us or all or most of our business.When we sell or acquire any business, enter into a merger, form a partnership, or sell part or all of our assets, we may disclose your information to potential buyers of the business.In such cases, we will always require potential buyers to comply with this privacy policy.",
+      "justification": "The privacy policy states that user information, which can include email address, may be disclosed to a third party (potential buyer) during a business transfer (merger, acquisition). This is considered 'sharing' under the Data Safety policy.",
+      "how_to_fix": "Declare in the app's Data Safety section that 'Email address' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "A third party that acquires us or all or most of our business.When we sell or acquire any business, enter into a merger, form a partnership, or sell part or all of our assets, we may disclose your information to potential buyers of the business.In such cases, we will always require potential buyers to comply with this privacy policy.",
+      "justification": "The privacy policy states that user information, which can include phone number, may be disclosed to a third party (potential buyer) during a business transfer (merger, acquisition). This is considered 'sharing' under the Data Safety policy.",
+      "how_to_fix": "Declare in the app's Data Safety section that 'Phone number' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "A third party that acquires us or all or most of our business.When we sell or acquire any business, enter into a merger, form a partnership, or sell part or all of our assets, we may disclose your information to potential buyers of the business.In such cases, we will always require potential buyers to comply with this privacy policy.",
+      "justification": "The privacy policy states that user information, which can include payment info, may be disclosed to a third party (potential buyer) during a business transfer (merger, acquisition). This is considered 'sharing' under the Data Safety policy.",
+      "how_to_fix": "Declare in the app's Data Safety section that 'User payment info' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "A third party that acquires us or all or most of our business.When we sell or acquire any business, enter into a merger, form a partnership, or sell part or all of our assets, we may disclose your information to potential buyers of the business.In such cases, we will always require potential buyers to comply with this privacy policy.",
+      "justification": "The privacy policy states that user information, which can include precise location, may be disclosed to a third party (potential buyer) during a business transfer (merger, acquisition). This is considered 'sharing' under the Data Safety policy.",
+      "how_to_fix": "Declare in the app's Data Safety section that 'Precise location' is 'Shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Some Poppo related features allow you to provide shared information to audiences outside the Poppo Network - for example, publicly accessible blogs and forums, or certain social media features in Poppo allow you to republish and disclose shared information.If you use these features to share information, it may be read or used by third parties not related to us. You can also associate your Poppo contact list with the contact list on your device and / or in the third-party service account to search for and",
+      "reason_of_removal": "User-initiated sharing exemption",
+      "justification": "The policy describes sharing that is initiated by the user (e.g., posting on public blogs/forums or using social media features). This is exempt from disclosure as 'sharing' under Google Play's User Data Policy.",
+      "how_to_fix": "No action needed as this is not considered 'sharing' for Data Safety purposes.",
+      "lang": "English"
+    }
+  ]
+}
+```

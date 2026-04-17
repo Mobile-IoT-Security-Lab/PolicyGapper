@@ -1,0 +1,69 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Installation of Cookies. When you visit the Platform, the Platform will use Google Stats via Cookies to record the Platform's performance and check the effectiveness of online advertising. Cookies are a small amount of data that is sent to your browser and stored in your computer hard drive. Only when you use your computer to access the Platform can the Cookies be sent to your computer hard drive.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "(b) Third party service providers:\nWe employ other companies and individuals to perform functions on our behalf. Examples include analysing data, providing marketing assistance, processing payments, transmitting content, assessing and managing credit risk, and coding and developing of MEXC related mobile and/or other forms of portable applications (including MEXC application on Google Play - Developer Name: MEXC; Developer ID: 7724732378084052863). These third-party service providers only have access to personal information needed to perform their functions but may not use it for other purposes. Further, they must process the personal information in accordance with our contractual agreements and only as permitted by applicable data protection laws.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "(b) Third party service providers:\nWe employ other companies and individuals to perform functions on our behalf. Examples include analysing data, providing marketing assistance, processing payments, transmitting content, assessing and managing credit risk, and coding and developing of MEXC related mobile and/or other forms of portable applications (including MEXC application on Google Play - Developer Name: MEXC; Developer ID: 7724732378084052863). These third-party service providers only have access to personal information needed to perform their functions but may not use it for other purposes. Further, they must process the personal information in accordance with our contractual agreements and only as permitted by applicable data protection laws.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "lang": "English"
+    }
+  ]
+}

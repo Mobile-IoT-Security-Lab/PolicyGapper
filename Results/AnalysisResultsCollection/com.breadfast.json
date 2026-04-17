@@ -1,0 +1,59 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Usage Data: Authentication data, security questions, click-stream data, public social networking posts, and other data collected via cookies and similar technologies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Device event information (such as crashes, system activity and hardware settings, browser type, browser language, the date and time of your request and referral URL);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Device event information (such as crashes, system activity and hardware settings, browser type, browser language, the date and time of your request and referral URL);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Log data and device information (such as details about how you've used the Site or the App, IP address, access dates and times, hardware and software information, Device type and unique device identification numbers; device information, and page/product views or clicks)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "• Personal Identification Information: Full name, date of birth, nationality, utility bills, photographs, phone number, home address, password, and/or email.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "• Additional profile information (such as date of birth, gender, location, and preferred language)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "| Application for financing solutions offered by financing providers | We collect your financing information on behalf of the financing provider you choose and send the information to that financing provider to facilitate your application to financing products. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Online Identifiers: Geo location/tracking details, mobile GPS information, browser information , operating system, browser name and version, and/or personal IP addresses",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Online Identifiers: Geo location/tracking details, mobile GPS information, browser information , operating system, browser name and version, and/or personal IP addresses",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "• Your communications and contact history with us (such as service call recordings, chat and instant messages, communications with our social media channels, Audio, electronic, visual and similar information.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• Personal Identification Information: Full name, date of birth, nationality, utility bills, photographs, phone number, home address, password, and/or email.",
+      "lang": "en"
+    }
+  ]
+}

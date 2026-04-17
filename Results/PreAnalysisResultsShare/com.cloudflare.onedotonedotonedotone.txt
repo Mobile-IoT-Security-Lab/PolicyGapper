@@ -1,0 +1,114 @@
+1. Scope of Policy
+Our mission to help build a better Internet is rooted in the importance we place on establishing trust
+with the Internet community globally. To earn and maintain that trust, we commit to communicating
+transparently, providing security, and protecting the privacy of data on our systems.
+This Policy only applies to Cloudflare's collection, use, and disclosure of personal information in
+connection with the use of the Cloudflare Application(s). This Policy does not apply to Cloudflare's
+collection, use, and disclosure of personal information through the Application when the Application is
+used as part of a Cloudflare Zero Trust account, as described in more detail in Section 3.
+
+---
+
+We promise to keep your personal information personal and private. We will not sell or rent your
+personal information to anyone. We will not share or otherwise disclose your personal information
+except as necessary to provide our services or as otherwise described in this Application Privacy Policy
+without first providing you with notice and the opportunity to consent.
+
+--- [PAGE BREAK] ---
+
+3. Cloudflare Zero Trust
+The Application may be used as part of the Cloudflare Zero Trust offerings to which you or your
+organization may subscribe. You understand that when your device is in Cloudflare Zero Trust mode,
+information we collect about your use of the Application and your Internet activity will be associated
+with your Cloudflare Zero Trust identity (e.g., work email address), and Cloudflare will process your
+personal data on behalf of the Cloudflare Zero Trust organization that you have associated with your
+account. All information provided by you or resulting from your use of the Application as part of
+Cloudflare Zero Trust services to which you or your organization subscribe is collected, used,
+maintained, shared, and destroyed in accordance with the Cloudflare Privacy Policy, available here, and
+this Application Privacy Policy will no longer apply.
+
+--- [PAGE BREAK] ---
+
+Section 2 to operate and improve the Application, such as to assist us in our debugging efforts if an
+issue arises. We may also use the information we collect to comply with legal obligations as well as to
+investigate and prevent violations of the Application Terms of Service. We will not combine the
+information collected from DNS queries with any other Cloudflare or third party data in any way that
+can be used to identify individual end users. Learn more.
+
+---
+
+6. Information Sharing
+We work with other companies who help us run our business (“Service Providers"). These companies
+provide services to help us operate and improve the Application, including assisting with debugging
+and crash analytics. These Service Providers may only process personal information pursuant to our
+instructions and in compliance both with this Application Privacy Policy, Cloudflare's Privacy Policy and
+other applicable confidentiality and security measures and regulations.
+Specifically, we do not permit our Service Providers to sell any personal information we share with
+them, or to use any personal information we share with them for their own marketing purposes or for
+any other purpose than to perform the services they provide to us.
+In addition to sharing with Service Providers as described above, we may also share your information
+with others in the following circumstances:
+• Within the Cloudflare Group (defined for the purposes of this Application Privacy Policy as the
+Cloudflare entities listed at the end of this policy);
+• When we are required to disclose personal information to respond to subpoenas, court orders, or
+legal process; or in the case of an emergency to protect any person from the danger of death or
+serious physical injury; or to establish or exercise our legal rights or defend against legal claims.
+(Learn more about how we handle law enforcement requests here);
+• In the event of a merger, sale, change in control, or reorganization of all or part of our business;
+• Where we have a good-faith belief sharing is necessary to investigate, prevent, or take action
+regarding illegal activities, suspected fraud, situations involving potential threats to the physical
+safety of any person, or as otherwise required to comply with our legal obligations; or as you may
+otherwise consent from time to time.
+Learn more about information sharing specific to the 1.1.1.1 Public DNS Resolver here.
+
+--- [PAGE BREAK] ---
+
+We do not sell, rent, or share personal information with third parties as defined under the California
+Consumer Privacy Act of 2018 (California Civil Code Sec. 1798.100 et seq.), nor do we sell, rent, or
+share personal information with third parties for their direct marketing purposes, including as defined
+under California Civil Code Sec. 1798.83.
+
+---
+
+8. International Information Transfers
+Cloudflare is a U.S. based, global company. We primarily store your information in the United States
+and the European Economic Area. To facilitate our global operations, we may transfer and access such
+information from around the world, including from other countries in which the Cloudflare Group has
+operations for the purposes described in this Policy.
+Whenever a Cloudflare company transfers personal information originating from one country to another
+Cloudflare group company or a third party service provider or partner in a different country, we will
+implement appropriate safeguards, consistent with the laws of the territory from which the data is
+exported. We describe the safeguards we implement here. If you have any questions about or need
+further information concerning the safeguards Cloudflare has in place to protect your personal
+information, please contact us at privacyquestions@cloudflare.com.
+When Cloudflare transfers personal data from the EEA, Switzerland, or the United Kingdom (UK) to the
+United States, we rely on our certifications under the EU-U.S. Data Privacy Framework (EU-U.S. DPF),
+the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), and the UK Extension to the EU-U.S. DPF.
+Should these certifications lapse or become otherwise invalidated, Cloudflare relies on the standard
+contractual clauses, including supplementary measures as necessary for transfers to the United
+States. We also use standard contractual clauses for other international transfers from the EEA,
+Switzerland, or the United Kingdom.
+
+--- [PAGE BREAK] ---
+
+The Federal Trade Commission has jurisdiction over Cloudflare's compliance with the EU-U.S. Data
+Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data
+Privacy Framework (Swiss-U.S. DPF). We may be required to disclose personal information we receive
+under the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF in response to
+lawful requests by public authorities, including to meet national security or law enforcement
+requirements.
+
+---
+
+Cloudflare is liable for the processing of personal information it receives under the DPF Principles and
+subsequently transfers to a third party acting as an agent on its behalf. Cloudflare shall remain liable
+under the DPF Principles if its agent processes such personal information in a manner inconsistent with
+the DPF Principles, unless Cloudflare proves that it is not responsible for the event giving rise to the
+damage.
+
+--- [PAGE BREAK] ---
+
+13. Business Transactions
+We may assign or transfer this Application Privacy Policy, as well as information covered by this
+Application Privacy Policy, in the event of a merger, sale, change in control, or reorganization of all or
+part of our business.

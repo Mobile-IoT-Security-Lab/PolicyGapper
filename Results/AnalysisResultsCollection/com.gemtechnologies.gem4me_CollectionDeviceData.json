@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "b. Service Improvement:\nYour usage data helps us understand how users interact with GemSpace, allowing us to optimize performance, troubleshoot issues, and\ndevelop new features to enhance your experience.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "3.4.1. Chats\nAll messages, photos, videos, and documents sent via our messaging service (\"Chats\") are stored on GemSpace servers. This storage\nmechanism enables you to access your data seamlessly from any device, providing enhanced convenience and continuity of service.\nGemSpace employs industry-standard security measures and advanced encryption protocols during both data transit and storage.\nHowever, please be aware that, unlike end-to-end encryption, our Chats do not preclude the possibility of data access in response to\nlegitimate legal requests or in the event of a security incident. By using our platform, you acknowledge and accept that the protection of\nyour communications is subject to these technical and legal constraints, and GemSpace shall not be held liable for any unauthorized\naccess or disclosure arising from circumstances beyond our reasonable control.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "c. Customization:\nInformation about your interactions with the platform enables us to tailor our services to better meet your needs and preferences.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "b. Service Improvement:\nYour usage data helps us understand how users interact with GemSpace, allowing us to optimize performance, troubleshoot issues, and\ndevelop new features to enhance your experience.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "b. Service Improvement:\nYour usage data helps us understand how users interact with GemSpace, allowing us to optimize performance, troubleshoot issues, and\ndevelop new features to enhance your experience.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In the event that GemSpace receives a valid legal request or order from competent judicial or law enforcement authorities - particularly in cases\nwhere there is a reasonable suspicion that your account is involved in criminal activities or violations of our Terms of Service we may conduct\na legal review of the request and, if required, disclose your personal data (such as your IP address and registered phone number) to the relevant\nauthorities. Any such disclosures will be documented and may be included in our periodic transparency reports, subject to applicable law.",
+      "lang": "English"
+    }
+  ]
+}

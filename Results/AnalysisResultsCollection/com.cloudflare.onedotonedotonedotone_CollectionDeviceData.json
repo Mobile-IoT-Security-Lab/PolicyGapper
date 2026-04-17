@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We use crash log information regarding your device's use of the Application for troubleshooting and to improve our Application. Crash logs do not contain your IP addresses or other personal information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We track the services you have enabled and the amount of data you have transferred via the Application. We also use performance data to understand how the Application impacts your Internet connection and to improve our Application. Performance Data does not include personal information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We track the services you have enabled and the amount of data you have transferred via the Application. We also use performance data to understand how the Application impacts your Internet connection and to improve our Application. Performance Data does not include personal information.",
+      "lang": "English"
+    }
+  ]
+}

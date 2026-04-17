@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "• Account Information: To use the core features of our Services, you must register and open an “Account” with us by providing your name, email address, and a password.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "• Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Transactional Information: If you choose to purchase a subscription to Pocket Casts Plus, we may collect information to complete and record the transaction. For example, we'll collect information, like your name and credit card information, to process those payments. We also keep a record of the purchases you've made.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Transactional Information: If you choose to purchase a subscription to Pocket Casts Plus, we may collect information to complete and record the transaction. For example, we'll collect information, like your name and credit card information, to process those payments. We also keep a record of the purchases you've made.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Location Information: We may determine the approximate location of your device from your IP address. We collect and use this information to understand where our users are located so we can identify what features might be meaningful to them.",
+      "lang": "English"
+    }
+  ]
+}

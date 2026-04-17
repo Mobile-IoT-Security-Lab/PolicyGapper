@@ -1,0 +1,42 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "By agreeing to the Privacy Policy, You hereby grant Us Your consent for sharing Your information, including Your Personal Information, with third parties, including third parties situated outside India, for the Permitted Uses, and in all instances henceforth in pursuance of Clause 4 of this Privacy Policy.",
+      "justification": "The privacy policy states user information, including personal information, is shared with third parties. This requires a 'sharing' disclosure in the Data Safety section.",
+      "how_to_fix": "In the Play Console's 'Data safety' section, declare that this data type is 'shared'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "By agreeing to the Privacy Policy, You hereby grant Us Your consent for sharing Your information, including Your Personal Information, with third parties, including third parties situated outside India, for the Permitted Uses, and in all instances henceforth in pursuance of Clause 4 of this Privacy Policy.",
+      "justification": "The privacy policy states user information, including personal information, is shared with third parties. This requires a 'sharing' disclosure in the Data Safety section.",
+      "how_to_fix": "In the Play Console's 'Data safety' section, declare that this data type is 'shared'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "By agreeing to the Privacy Policy, You hereby grant Us Your consent for sharing Your information, including Your Personal Information, with third parties, including third parties situated outside India, for the Permitted Uses, and in all instances henceforth in pursuance of Clause 4 of this Privacy Policy.",
+      "justification": "The privacy policy states user information, including personal information, is shared with third parties. This requires a 'sharing' disclosure in the Data Safety section.",
+      "how_to_fix": "In the Play Console's 'Data safety' section, declare that this data type is 'shared'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "By agreeing to the Privacy Policy, You hereby grant Us Your consent for sharing Your information, including Your Personal Information, with third parties, including third parties situated outside India, for the Permitted Uses, and in all instances henceforth in pursuance of Clause 4 of this Privacy Policy.",
+      "justification": "The privacy policy states user information, including personal information, is shared with third parties. This requires a 'sharing' disclosure in the Data Safety section.",
+      "how_to_fix": "In the Play Console's 'Data safety' section, declare that this data type is 'shared'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "By agreeing to the Privacy Policy, You hereby grant Us Your consent for sharing Your information, including Your Personal Information, with third parties, including third parties situated outside India, for the Permitted Uses, and in all instances henceforth in pursuance of Clause 4 of this Privacy Policy.",
+      "justification": "The privacy policy states user information, including personal information, is shared with third parties. This requires a 'sharing' disclosure in the Data Safety section.",
+      "how_to_fix": "In the Play Console's 'Data safety' section, declare that this data type is 'shared'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

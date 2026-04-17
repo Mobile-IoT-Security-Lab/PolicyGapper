@@ -1,0 +1,65 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "The types of technical data (you or your children) we might collect include:\n• Timestamps of when you install or first open the app;\n• Data on how you interact with the app;\n• Your device ID;\n•\n• URLs you visited before or after using the app;\nInformation shared by advertising platforms like Unity, Inmobi, and Google Ads;\n• Ads you view or click on; and\n• General online behavior patterns.",
+      "justification": "The privacy policy explicitly states the app collects 'URLs you visited before or after using the app', which falls under the 'Web browsing history' data type.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We collect this information to improve performance and reliability of our Games and to get a better understanding of what users in general prefer. We do not link any of this Information in any way to individuals or any other information we might obtain. We do not share, sell or in any other way give other persons or companies. We don't rent or sell your email address.",
+      "justification": "The privacy policy states that information is collected 'to improve performance and reliability of our Games', which corresponds to 'Other app performance data'.",
+      "how_to_fix": "Declare 'Other app performance data' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "When you or your children use our apps, we might collect certain personal information, including your email address, name, and age. This user/children's data is used for the following purposes:\n• To verify your age;\n• To save and track your game progress;\n• To create and manage your user account;\n• To enable gameplay across multiple devices;\n•\nTo send promotional emails (if you have given consent); and\n• To respond to any support inquiries you may send.",
+      "justification": "The privacy policy explicitly states the app might collect 'name'. The stated purposes (e.g., 'create and manage your user account') require this data to be sent off-device.",
+      "how_to_fix": "Declare 'Name' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you or your children use our apps, we might collect certain personal information, including your email address, name, and age. This user/children's data is used for the following purposes:\n• To verify your age;\n• To save and track your game progress;\n• To create and manage your user account;\n• To enable gameplay across multiple devices;\n•\nTo send promotional emails (if you have given consent); and\n• To respond to any support inquiries you may send.",
+      "justification": "The privacy policy explicitly states the app might collect 'your email address'. The stated purposes (e.g., 'send promotional emails') require this data to be sent off-device.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "The types of technical data (you or your children) we might collect include:\n• Timestamps of when you install or first open the app;\n• Data on how you interact with the app;\n• Your device ID;\n•\n• URLs you visited before or after using the app;\nInformation shared by advertising platforms like Unity, Inmobi, and Google Ads;\n• Ads you view or click on; and\n• General online behavior patterns.",
+      "justification": "The privacy policy states the app collects 'Your device ID', which is a type of 'User ID'. The context of sharing information with advertising platforms indicates it is sent off-device.",
+      "how_to_fix": "Declare 'User IDs' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "When you or your children use our apps, we might collect certain personal information, including your email address, name, and age. This user/children's data is used for the following purposes:\n• To verify your age;\n• To save and track your game progress;\n• To create and manage your user account;\n• To enable gameplay across multiple devices;\n•\nTo send promotional emails (if you have given consent); and\n• To respond to any support inquiries you may send.",
+      "justification": "The privacy policy states the app might collect 'age'. Since 'Age' is not a specific data type in Google Play's list, it falls under 'Other info'. The stated purposes require this data to be sent off-device.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you or your children use our apps and services, certain information may be collected automatically. This helps us improve our apps and make them more engaging for kids and other users. We also use this data for internal purposes, such as enhancing our services. We might use Firebase (https://firebase.google.com), a third-party analytics service provided by Google. Firebase automatically collects the following technical and non-personal data:\n• IP address;\n• Number of sessions;\n•\nSession duration;\n• Retention metrics;\n• Events triggered during app usage;\n•\nInstall source; and\n•\nIDFA (Identifier for Advertisers).",
+      "justification": "The privacy policy states the app collects 'IP address' via a third-party service (Firebase). IP address is used to determine 'Approximate location'.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "When you or your children use our apps, we might collect certain personal information, including your email address, name, and age. This user/children's data is used for the following purposes:\n• To verify your age;\n• To save and track your game progress;\n• To create and manage your user account;\n• To enable gameplay across multiple devices;\n•\nTo send promotional emails (if you have given consent); and\n• To respond to any support inquiries you may send.",
+      "reason_of_removal": "Inconsistent: The policy explicitly states collection of 'email address', which is a distinct data type from 'Emails' (which includes email content, subject, etc.). The policy does not mention collection of email content.",
+      "justification": "The policy mentions collecting 'email address', which is a distinct data type from 'Emails' (which includes email content). The policy does not state that email content is collected.",
+      "how_to_fix": "No action needed for this data type. Ensure 'Email address' is declared if it is not already.",
+      "lang": "en"
+    }
+  ]
+}
+```

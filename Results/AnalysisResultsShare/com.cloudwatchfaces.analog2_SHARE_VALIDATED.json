@@ -1,0 +1,39 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We do not collect any personal data. We do not share any data with third parties. We use Google Analytics to collect anonymous usage data to improve our app. This data is not linked to you personally.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states Google Analytics is used 'to improve our app', which qualifies as a service provider processing data on the developer's behalf. This is exempt from 'sharing' disclosure under Google Play's User Data Policy.",
+      "how_to_fix": "This data type is handled by a service provider for app functionality and does not need to be declared as 'shared'. Ensure it is declared under 'data collected' for 'Analytics' or 'App functionality' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We do not collect any personal data. We do not share any data with third parties. We use Google Analytics to collect anonymous usage data to improve our app. This data is not linked to you personally.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states Google Analytics is used 'to improve our app', which qualifies as a service provider processing data on the developer's behalf. This is exempt from 'sharing' disclosure under Google Play's User Data Policy.",
+      "how_to_fix": "This data type is handled by a service provider for app functionality and does not need to be declared as 'shared'. Ensure it is declared under 'data collected' for 'Analytics' or 'App functionality' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We do not collect any personal data. We do not share any data with third parties. We use Google Analytics to collect anonymous usage data to improve our app. This data is not linked to you personally.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states Google Analytics is used 'to improve our app', which qualifies as a service provider processing data on the developer's behalf. This is exempt from 'sharing' disclosure under Google Play's User Data Policy.",
+      "how_to_fix": "This data type is handled by a service provider for app functionality and does not need to be declared as 'shared'. Ensure it is declared under 'data collected' for 'Analytics' or 'App functionality' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We do not collect any personal data. We do not share any data with third parties. We use Google Analytics to collect anonymous usage data to improve our app. This data is not linked to you personally.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states Google Analytics is used 'to improve our app', which qualifies as a service provider processing data on the developer's behalf. This is exempt from 'sharing' disclosure under Google Play's User Data Policy.",
+      "how_to_fix": "This data type is handled by a service provider for app functionality and does not need to be declared as 'shared'. Ensure it is declared under 'data collected' for 'Analytics' or 'App functionality' purposes.",
+      "lang": "English"
+    }
+  ]
+}
+```

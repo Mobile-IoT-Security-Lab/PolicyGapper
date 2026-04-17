@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "As is common practice among businesses that operate websites and applications, we may share certain identifiers, internet or other electronic network activity information with social media, advertising, and analytics partners in a manner that – under some US privacy laws – may be considered (a) a “sale” of information, (b) “sharing\" of information for cross-context behavioral advertising, or (c) targeted advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may share your personal data with the following third parties for the purposes set out above:\n■ Our Formula 1 group companies.\n■ Our third party service providers who carry out processing activities on our behalf as data processors. We do not allow our third party service providers to use your personal data for their own purposes, except where relevant as set out herein, and only permit them to process your personal data for specified purposes and in accordance with our instructions.\n■ Our third party partners who act as independent data controllers in respect of your personal data, where we have the necessary legal basis, e.g. consent.\n• Third parties in connection with a merger, acquisition, divestiture, bankruptcy, or other similar corporate transaction. We may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this Privacy Policy.\n■ Any law enforcement or similar agency where we consider this necessary to protect our rights, property, lawful interests, or safety, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may share your personal data with the following third parties for the purposes set out above:\n■ Our Formula 1 group companies.\n■ Our third party service providers who carry out processing activities on our behalf as data processors. We do not allow our third party service providers to use your personal data for their own purposes, except where relevant as set out herein, and only permit them to process your personal data for specified purposes and in accordance with our instructions.\n■ Our third party partners who act as independent data controllers in respect of your personal data, where we have the necessary legal basis, e.g. consent.\n• Third parties in connection with a merger, acquisition, divestiture, bankruptcy, or other similar corporate transaction. We may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this Privacy Policy.\n■ Any law enforcement or similar agency where we consider this necessary to protect our rights, property, lawful interests, or safety, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We and our service providers and third party partners may monitor some of your uses of, or activity on, our Digital Products – primarily in respect of any chatbots you interact with on our Digital Products or any calls you make to us and we may capture and retain records reflecting such activity on our Digital Products, for our business purposes. We may also use tracking technologies on our Digital Products (described further in our Cookies Policy at https://account.formula1.com/#/en/cookie-policy (https://account.formula1.com/#/en/cookie-policy)) to collect the foregoing information reflecting your use of and activity on our Digital Products, or may enable our third party partners to collect such information. This information may be collected, retained, captured, and/or monitored by us or by our service providers and third party partners. If you do not consent to the monitoring described here, you should not use our Digital Products.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We and our service providers and third party partners may monitor some of your uses of, or activity on, our Digital Products – primarily in respect of any chatbots you interact with on our Digital Products or any calls you make to us and we may capture and retain records reflecting such activity on our Digital Products, for our business purposes. We may also use tracking technologies on our Digital Products (described further in our Cookies Policy at https://account.formula1.com/#/en/cookie-policy (https://account.formula1.com/#/en/cookie-policy)) to collect the foregoing information reflecting your use of and activity on our Digital Products, or may enable our third party partners to collect such information. This information may be collected, retained, captured, and/or monitored by us or by our service providers and third party partners. If you do not consent to the monitoring described here, you should not use our Digital Products.",
+      "lang": "English"
+    }
+  ]
+}

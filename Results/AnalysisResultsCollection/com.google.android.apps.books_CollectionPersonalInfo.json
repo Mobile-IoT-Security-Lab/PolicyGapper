@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "For example, if you add a credit card or other payment method to your Google Account, you can use it to buy things across our services, like apps in the Play Store. We may also ask for other information, like a business tax ID, to help process your payment. In some cases, we may also need to verify your identity and may ask you for information to do this.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "•\n•\n•\n•\n•\n•\n•\nVideos you watch\nViews and interactions with content and ads\nVoice and audio information\nPurchase activity\nPeople with whom you communicate or share content\nActivity on third-party sites and apps that use our services\nChrome browsing history you've synced with your Google Account",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We collect location information when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your location.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Depending on the products you're using and settings you choose, Google may use different types of location information to help make some services and products you use more helpful. These include:\n•\n•\n•\nGPS and other sensor data from your device\nIP address\nActivity on Google services, such as from your searches or places you label like\nhome or work",
+      "lang": "English"
+    }
+  ]
+}

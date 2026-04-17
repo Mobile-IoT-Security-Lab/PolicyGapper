@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "If, after creating a DeepL account, you sign up for a DeepL Pro subscription, additionally the following personal data will be collected and processed for the purposes of concluding and fulfilling the contract (Art. 6 para. 1 sentence 1 lit. b) GDPR):\n•\nFirst name, surname, and where applicable, company name\n• Address\n•\nPayment details",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "No cookies are used in our mobile apps. However, a unique user ID (no cross-device ID) is used, which allows us to track, for example, the source and target language settings, how many characters are translated or improved, whether the copy button is used, and if so, how it is used. The processing of this data is based on our legitimate interest (Art. 6 para. 1 sentence 1 lit. f) GDPR) to better understand the needs of our users and to be able to adapt the app according to customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "If, after creating a DeepL account, you sign up for a DeepL Pro subscription, additionally the following personal data will be collected and processed for the purposes of concluding and fulfilling the contract (Art. 6 para. 1 sentence 1 lit. b) GDPR):\n•\nFirst name, surname, and where applicable, company name\n• Address\n•\nPayment details",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "If you would like to send us a sales enquiry in order to receive further information about our products and subscription plans or to start contract negotiations, you are welcome to use our sales contact forms. In addition to your email address, you are required to provide your name and telephone number; all other information is optional. For the provision of our contact forms, we use the HubSpot service (see section 14).",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "If, after creating a DeepL account, you sign up for a DeepL Pro subscription, additionally the following personal data will be collected and processed for the purposes of concluding and fulfilling the contract (Art. 6 para. 1 sentence 1 lit. b) GDPR):\n•\nFirst name, surname, and where applicable, company name\n• Address\n•\nPayment details",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "In addition to the aforementioned data, we process further (usage-)data relevant for the provision and billing of our service, such as subscription ID, date and time of the subscription conclusion, billing period, successful payment processing, logins, number of translated or improved characters and documents, upgrades and downgrades. The processing and storage of the aforementioned data is necessary for the conclusion of the contract as well as its performance and is therefore justified according to Art. 6 para. 1 sentence 1 lit. b) GDPR. If you yourself are not a party to the contract, but DeepL Pro is provided to you, e.g. by your employer or an organization to which you belong, we justify the processing of the data mentioned in section 6.1 and the aforementioned usage data via Art. 6 para. 1 sentence 1 lit. f) GDPR, as this is necessary for the performance of the business relationship with our customers, i.e. your employer or your organization.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "If, after creating a DeepL account, you sign up for a DeepL Pro subscription, additionally the following personal data will be collected and processed for the purposes of concluding and fulfilling the contract (Art. 6 para. 1 sentence 1 lit. b) GDPR):\n•\nFirst name, surname, and where applicable, company name\n• Address\n•\nPayment details\n• Tax numbers (where applicable)\n• Selected subscription option\n•\nPossibly other, additional data you provided during the registration process.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Based on your IP address, we also use geolocation to determine the region from which you are visiting our website. We use this information to check whether we can offer you the DeepL Pro service in your region, which corresponds to our legitimate interests pursuant to Art. 6 para. 1 sentence 1 lit. f) GDPR. The storage of the full IP address for the users of the DeepL free version for a maximum period of 14 days is also justified by our legitimate interest in achieving the listed purposes, Art. 6 para. 1 sentence 1 lit. f) GDPR. The storage of IP addresses of users of the paid DeepL Pro subscription for the duration of the contract is justified by Art. 6 para. 1 sentence 1 lit. b) GDPR.",
+      "lang": "English"
+    }
+  ]
+}

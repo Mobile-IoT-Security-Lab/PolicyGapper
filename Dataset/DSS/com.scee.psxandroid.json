@@ -1,0 +1,107 @@
+{
+  "sharedData": [
+    {
+      "data": "Web browsing history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Web browsing"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Other in-app messages",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Messages"
+    },
+    {
+      "data": "Web browsing history",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Web browsing"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Name",
+      "optional": 1,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "App functionality, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Address",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    },
+    {
+      "data": "Phone number",
+      "optional": 1,
+      "purpose": "Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User payment info",
+      "optional": 1,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Financial info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.playstation.com/legal/privacy-policy/"
+}

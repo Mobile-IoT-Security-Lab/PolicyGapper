@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Some content in our products and services is provided by third party service providers. For example, IT services, customer support services, email services, and other similar services. Therefore, we need to provide them with some of your personal information, so that they can provide services to us. Some of the data sharing with third parties will be done through application programming interfaces (APIs) and software development kits (SDKs). Third party SDKs may vary from version to version, but generally include the categories of third party account login, sharing, third party payment, vendor message push, and statistics. We will conduct strict security testing on the third party SDKs and specify data protection measures. Before entering the third party page for the first time, please carefully read the relevant agreement and privacy statement shown by the third party service provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Some content in our products and services is provided by third party service providers. For example, IT services, customer support services, email services, and other similar services. Therefore, we need to provide them with some of your personal information, so that they can provide services to us. Some of the data sharing with third parties will be done through application programming interfaces (APIs) and software development kits (SDKs). Third party SDKs may vary from version to version, but generally include the categories of third party account login, sharing, third party payment, vendor message push, and statistics. We will conduct strict security testing on the third party SDKs and specify data protection measures. Before entering the third party page for the first time, please carefully read the relevant agreement and privacy statement shown by the third party service provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Some content in our products and services is provided by third party service providers. For example, IT services, customer support services, email services, and other similar services. Therefore, we need to provide them with some of your personal information, so that they can provide services to us. Some of the data sharing with third parties will be done through application programming interfaces (APIs) and software development kits (SDKs). Third party SDKs may vary from version to version, but generally include the categories of third party account login, sharing, third party payment, vendor message push, and statistics. We will conduct strict security testing on the third party SDKs and specify data protection measures. Before entering the third party page for the first time, please carefully read the relevant agreement and privacy statement shown by the third party service provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Some content in our products and services is provided by third party service providers. For example, IT services, customer support services, email services, and other similar services. Therefore, we need to provide them with some of your personal information, so that they can provide services to us. Some of the data sharing with third parties will be done through application programming interfaces (APIs) and software development kits (SDKs). Third party SDKs may vary from version to version, but generally include the categories of third party account login, sharing, third party payment, vendor message push, and statistics. We will conduct strict security testing on the third party SDKs and specify data protection measures. Before entering the third party page for the first time, please carefully read the relevant agreement and privacy statement shown by the third party service provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Some content in our products and services is provided by third party service providers. For example, IT services, customer support services, email services, and other similar services. Therefore, we need to provide them with some of your personal information, so that they can provide services to us. Some of the data sharing with third parties will be done through application programming interfaces (APIs) and software development kits (SDKs). Third party SDKs may vary from version to version, but generally include the categories of third party account login, sharing, third party payment, vendor message push, and statistics. We will conduct strict security testing on the third party SDKs and specify data protection measures. Before entering the third party page for the first time, please carefully read the relevant agreement and privacy statement shown by the third party service provider.",
+      "lang": "English"
+    }
+  ]
+}

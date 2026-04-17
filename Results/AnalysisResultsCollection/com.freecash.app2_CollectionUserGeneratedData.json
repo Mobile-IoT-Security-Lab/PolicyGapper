@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "KYC / Identity verification data: selfie, government ID images and extracted fields (name, date of birth, document number, issuing country, validity), device/technical metadata (e.g. IP, device identifiers), and verification outcomes (pass/fail, risk signals, provider references).",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "Identity Data includes first name, last name, username, telephone numbers, country of residence, gender, driver's license, state ID, passport, passport card, permanent resident card, non-citizen travel document, visa, or similar identifier.",
+"lang": "en"
+}
+]
+}

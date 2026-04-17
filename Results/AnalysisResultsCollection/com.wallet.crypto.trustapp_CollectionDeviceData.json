@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you use our Services that involve artificial intelligence (\"Al Services\"), such as our Al Chatbot, we process the content you provide in your inputs or feedback so that we can respond and deliver the Al functionality you have chosen to use",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In certain circumstances, we may collect Personal Data automatically from you when you use our Services, in accordance with applicable laws. This may include device, log, and usage data, which helps us enhance your experience, provide customer support, improve the performance of our sites and Services, and safeguard your account by detecting unauthorized access and preventing fraud.",
+      "lang": "English"
+    }
+  ]
+}

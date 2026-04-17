@@ -1,0 +1,39 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "We collect the information you provide when you contact us directly or provide feedback, comments, or suggestions on the Paramount Services, including but not limited to, recordings of customer service interactions, chat transcripts, files you attach, and email, text, or other correspondence.",
+"lang": "en"
+},
+{
+"data_type": "SMS or MMS",
+"policy_reference": "We collect the information you provide when you contact us directly or provide feedback, comments, or suggestions on the Paramount Services, including but not limited to, recordings of customer service interactions, chat transcripts, files you attach, and email, text, or other correspondence.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "When you post or share comments or other content when using the Paramount Services, we collect information about that content, such as your username, screen name, comments, likes, interests, status, and pictures. You may choose to post audio or visual content, such as photos, videos, or recordings when using certain Paramount Services, or when granting us access to your camera or microphone while using interactive features of the Paramount Services.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "When you post or share comments or other content when using the Paramount Services, we collect information about that content, such as your username, screen name, comments, likes, interests, status, and pictures. You may choose to post audio or visual content, such as photos, videos, or recordings when using certain Paramount Services, or when granting us access to your camera or microphone while using interactive features of the Paramount Services.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "When you post or share comments or other content when using the Paramount Services, we collect information about that content, such as your username, screen name, comments, likes, interests, status, and pictures. You may choose to post audio or visual content, such as photos, videos, or recordings when using certain Paramount Services, or when granting us access to your camera or microphone while using interactive features of the Paramount Services.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "When you post or share comments or other content when using the Paramount Services, we collect information about that content, such as your username, screen name, comments, likes, interests, status, and pictures. You may choose to post audio or visual content, such as photos, videos, or recordings when using certain Paramount Services, or when granting us access to your camera or microphone while using interactive features of the Paramount Services.",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "We collect the information you provide when you contact us directly or provide feedback, comments, or suggestions on the Paramount Services, including but not limited to, recordings of customer service interactions, chat transcripts, files you attach, and email, text, or other correspondence.",
+"lang": "en"
+}
+]
+}

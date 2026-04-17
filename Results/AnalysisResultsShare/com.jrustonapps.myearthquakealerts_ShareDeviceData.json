@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "For operation and maintenance purposes, this Application and any third-party services may collect files that record interaction with this Application (System logs) use other Personal Data (such as the IP Address) for this purpose.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "AdMob is an advertising service provided by AdMob Google Inc.\nIn order to understand Google's use of Data, consult Google's partner policy.\nPersonal Data collected: IP address, Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.\nPlace of processing: United States - Privacy Policy - Opt Out.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We've partnered with Opensignal to help improve the performance and reliability of this app and wireless networks while respecting your privacy.\nOpensignal does not collect any information that directly identifies you or your device, and does not sell personal data about you. Opensignal is the independent global standard for helping telecom ecosystem companies better understand and improve network coverage to improve connectivity.\nIf you grant this application location permissions, Opensignal may collect data relating to the wireless network performance your device experiences, and that may include the following types of personal information and/or personal data: Geolocation data, identifiers (e.g. network names, resettable IDs, BSSIDs, and other access point information), and app state. Opensignal uses this data to gather information on network experience and create aggregated reports and/or data solutions including anonymized location, for example by plotting network performance on a map to convey general coverage.",
+      "lang": "English"
+    }
+  ]
+}

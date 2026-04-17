@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may share certain information with our third-party advertising partners, such as your email address, location, cookie information and information relating to your use of our Service, and allow partners to perform a match of your information against information from other third-party networks or sites to serve ads either on the Service or on third-party sites and to measure the effectiveness of these advertisements. We also share certain information with social media platforms to display advertising to potential new users whose demographics and behaviour look like those of our existing users.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may share certain information with our third-party advertising partners, such as your email address, location, cookie information and information relating to your use of our Service, and allow partners to perform a match of your information against information from other third-party networks or sites to serve ads either on the Service or on third-party sites and to measure the effectiveness of these advertisements. We also share certain information with social media platforms to display advertising to potential new users whose demographics and behaviour look like those of our existing users.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We respect and are committed to protecting your privacy. However, we may disclose your personal information to our group companies and to our services providers and partners who provide data processing services to us. This includes, for example, group companies and service providers who assist with functions such as billing, customer support, hosting and storage, data analytics, data labelling and machine learning, security, advertising and marketing, and other services. We may also disclose your personal information to our group companies and partners for other purposes that are described in this Privacy Policy or notified to you when we collect your information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We respect and are committed to protecting your privacy. However, we may disclose your personal information to our group companies and to our services providers and partners who provide data processing services to us. This includes, for example, group companies and service providers who assist with functions such as billing, customer support, hosting and storage, data analytics, data labelling and machine learning, security, advertising and marketing, and other services. We may also disclose your personal information to our group companies and partners for other purposes that are described in this Privacy Policy or notified to you when we collect your information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We respect and are committed to protecting your privacy. However, we may disclose your personal information to our group companies and to our services providers and partners who provide data processing services to us. This includes, for example, group companies and service providers who assist with functions such as billing, customer support, hosting and storage, data analytics, data labelling and machine learning, security, advertising and marketing, and other services. We may also disclose your personal information to our group companies and partners for other purposes that are described in this Privacy Policy or notified to you when we collect your information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In addition, these third-party advertisement servers or advertisement networks may use technology to send, directly to your browser or mobile device, these personalised advertisements and advertising links directly to your browser or mobile device, and will automatically receive your IP address when they do so. They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs) to compile information about your browser's or device's visits and usage patterns on the Service, and to measure the effectiveness of their ads and to personalise the advertising content. Please see our Cookies Policy for more information about how we and our third-party partners use cookies and other technologies to deliver ads to you.",
+      "lang": "English"
+    }
+  ]
+}

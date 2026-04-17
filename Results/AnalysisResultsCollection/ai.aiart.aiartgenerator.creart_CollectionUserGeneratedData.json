@@ -1,0 +1,29 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited mobile device's camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited mobile device's camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.",
+"lang": "en"
+},
+{
+"data_type": "Music files",
+"policy_reference": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited mobile device's camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited mobile device's camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited mobile device's camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.",
+"lang": "en"
+}
+]
+}

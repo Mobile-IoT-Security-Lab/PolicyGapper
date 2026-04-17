@@ -1,0 +1,1907 @@
+Protecting your privacy and personal data is very important to us. We therefore only use your
+personal data within the scope of legal regulations, in particular the General Data Protection
+Regulation ("GDPR") and the German Federal Data Protection Act ("BDSG"). With this privacy
+policy, we would like to inform you - regardless of whether you set up a DeepL account, use our
+DeepL Pro subscriptions, our various apps or visit our website - about the nature, scope and
+purposes of the collection, use and processing of your personal data by DeepL SE.
+--- [PAGE BREAK] ---
+3. Texts, Translations and Improvements
+- DeepL Translator / Write (free version)
+When using our free services, please only enter content that you wish to transfer to our services.
+The transmission of this content is necessary in order for us to provide the translation or
+improvement and offer you our service. We process the content you upload and their translations
+or improvements for a limited period of time to train and improve our neural networks and
+algorithms. This also applies to corrections you make to our translation or improvement
+suggestions. If you use the glossary feature within our free services without a DeepL account and
+enter certain pairs of terms there, this data is only stored locally and is not forwarded to DeepL.
+Therefore, you cannot use your glossary entries in another browser or on another device. If you
+use the glossary feature while being logged into your DeepL account, glossaries may be
+forwarded to DeepL.
+---
+4. Texts and Improvements –
+DeepL Translator Pro / DeepL
+API Pro / DeepL Write Pro
+When using our services DeepL Translator Pro, DeepL API Pro and DeepL Write Pro to translate or
+improve texts, the texts or documents you submit will not be permanently stored and will only be
+kept temporarily to the extent necessary for the production and transmission of the translation or
+improvement. After complete performance of the contractually agreed services all submitted
+texts or documents and their translations or improvements will be deleted. When using these
+services, your texts will not be used to improve the quality of our services. For further information
+on the processing of your data within a DeepL Pro subscription, please refer to section 6 of this
+privacy policy and our Terms and Conditions.
+--- [PAGE BREAK] ---
+5. DeepL Voice
+When using the DeepL Voice services, the audio data of the users will be processed to provide
+our translation services. The processing includes the transcription and translation of the
+audio data.
+---
+After complete performance of the contractually agreed services the audio data, their
+transcriptions and the translations will be deleted. For DeepL Voice for Conversations transcribed
+and translated audio data will be stored in the local storage on the customer's side to guarantee a
+seamless performance of the services. The content in the local storage will be deleted by closing
+the DeepL app. For further information on the processing of your data within a DeepL Pro
+subscription, please refer to section 6 of this privacy policy and our Terms and Conditions.
+---
+For DeepL Voice for Meetings we use third party cloud services to be able to integrate our bot
+application in the Microsoft Teams app. The cloud services are provided by Microsoft Ireland
+Operations Limited, One Microsoft Place, South County Business Park, D18 P521 Dublin 18,
+Ireland ("Microsoft”) or Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855
+Luxembourg (AWS). The cloud services will only be used to host our bot application and forward
+the audio data to our infrastructure. Neither will the transcription or translation be happening on
+Microsoft or AWS servers, nor will we store any data on Microsoft or AWS servers for this
+purpose. We have concluded a data processing agreement with Microsoft and AWS and
+Microsoft and AWS may only process the data according to our instructions and not for its own
+purposes. Further information on the handling of personal data at Microsoft can be found here, at
+AWS it can be found here.
+---
+6. Creating a DeepL account and
+Signing up for a DeepL Pro Subscription
+---
+6.1 Creating a DeepL account
+--- [PAGE BREAK] ---
+You have the option of creating a DeepL account. You can use the DeepL Translator or DeepL
+Write via this account within the applicable DeepL Account Terms and Conditions (please see
+also section 3). To create the account, the following personal data will be stored:
+•
+E-mail address
+•
+Password
+• IP address
+---
+We process the email address and password on the basis of Art. 6 para. 1 sentence 1 lit. b) GDPR
+in order to perform the contract of use. Your IP address is processed in accordance with Art. 6
+para. 1 sentence 1 lit. f) GDPR, as it is in our legitimate interests to match your IP address with IP
+addresses that have misused our service in the past for fraud prevention purposes.
+---
+If your company uses Single Sign-On (SSO) to log in to DeepL, there is no need for a separate
+registration with DeepL. When you log in via Single Sign-On your company transmits your email
+address as well as your first and last name directly to us. We also process this data on the basis
+of Art. 6 para. 1 sentence 1 lit. b) GDPR.
+---
+6.2 Signing up for DeepL Pro
+If, after creating a DeepL account, you sign up for a DeepL Pro subscription, additionally the
+following personal data will be collected and processed for the purposes of concluding and
+fulfilling the contract (Art. 6 para. 1 sentence 1 lit. b) GDPR):
+•
+First name, surname, and where applicable, company name
+• Address
+•
+Payment details
+--- [PAGE BREAK] ---
+• Tax numbers (where applicable)
+• Selected subscription option
+•
+Possibly other, additional data you provided during the registration process.
+---
+Your payment details will also be processed by us if you initially sign up for a DeepL Pro
+subscription with a free trial period. Despite the free trial period, the processing of your payment
+details is already necessary at the time of the formation of the contract within the meaning of
+Art. 6 para. 1 sentence 1 lit. b) GDPR, as a DeepL Pro subscription is in principle a paid
+subscription and we only in some cases allow our customers to test our products free of charge
+for a trial period. However, if no cancellation is made within the aforementioned trial period, the
+subscription will automatically continue to be subject to payment and the method of payment
+specified by you will be debited at the time stated in the booking process.
+---
+In addition to the aforementioned data, we process further (usage-)data relevant for the provision
+and billing of our service, such as subscription ID, date and time of the subscription conclusion,
+billing period, successful payment processing, logins, number of translated or improved
+characters and documents, upgrades and downgrades. The processing and storage of the
+aforementioned data is necessary for the conclusion of the contract as well as its performance
+and is therefore justified according to Art. 6 para. 1 sentence 1 lit. b) GDPR. If you yourself are not
+a party to the contract, but DeepL Pro is provided to you, e.g. by your employer or an organization
+to which you belong, we justify the processing of the data mentioned in section 6.1 and the
+aforementioned usage data via Art. 6 para. 1 sentence 1 lit. f) GDPR, as this is necessary
+for the performance of the business relationship with our customers, i.e. your employer or
+your organization.
+--- [PAGE BREAK] ---
+When you purchase DeepL Pro services on our website, DeepL may transmit data like your first
+name, last name, billing address, email address, the DeepL service you booked, its price, your IP
+address, a truncated form of your payment data (for credit cards this is the BIN, the last four
+digits of the credit card and the bank issuing the card, for SEPA payments this is the bank code
+and the last 4 digits from your IBAN) to Riskified for verification purposes. Riskified also directly
+collects and processes your IP address and information on your device and on your behaviour in
+our checkout process as well as an identifier via its beacon, a Java script that is implemented in
+the DeepL check process. Riskified analyses these various data points and provides us with an
+assessment of whether a transaction is to be considered safe or likely to be fraudulent. More
+information on the logic typically involved in such an analysis can be found here. If Riskified
+assesses a payment as fraudulent, we may automatically decline your request to subscribe to
+DeepL Pro. This is justified, because this fraud analysis is necessary for entering into a contract
+with us. In case you receive an error message, but consider the decision not correct, you can
+reach out to support(at) deepl.com at any time and one of our support agents will review
+your case.
+---
+The inclusion of Riskified's fraud prevention services and the related data processing described
+above is necessary for our legitimate interest pursuant to Art. 6 para. 1 sentence 1 lit. f) GDPR
+for the prevention of fraud in order to verify the legitimacy of payments made via DeepL's
+checkout process.
+---
+Riskified processes the data we transfer to them and the data they collect in our checkout
+process for their own purposes. The data may be transferred to the USA. You can find more
+information about Riskified's handling of personal data here: https://www.riskified.com/privacy/.
+---
+6.4 Processing of usage data
+In your account in the section "usage", you can also view data about your usage behavior e.g., -
+depending on your subscription - the number of characters translated or improved in the past or
+the number of documents translated. If you have a consumption-based subscription, such as the
+DeepL API Pro, you can also view the monthly costs incurred. We justify this data processing via
+Art. 6 para. 1 sentence 1 lit. b) GDPR, insofar as it is necessary for the performance of the
+contract, in particular for billing purposes or for managing the number of documents still
+available for translation. Insofar as the processing goes beyond what is necessary for the
+performance of the contract, we base the processing on our legitimate interests pursuant to Art.
+--- [PAGE BREAK] ---
+6.5 Processing of the Submitted Texts
+and Translations / Improvements
+As contractually agreed, we process the content you submit to DeepL Pro and their translations
+or improvements only temporarily, insofar as this is necessary for the creation and transmission
+of the translation or improvement. This processing is therefore justified by Art. 6 para. 1 sentence
+1 lit. b) GDPR. The content you submit and the translations or improvements will - within the
+framework of the contractual agreements and as stated in section 4 and 5 - will be deleted after
+the performance of the contractually agreed service. This does not apply, if you use the "saved
+translations" or glossary feature. In this case, content provided by you, including translations, will
+be stored for your account and kept accessible for you at all times. When you use the "saved
+translations" feature in our mobile apps, your texts and translations are stored locally.
+---
+7.1 Translation of Documents with
+DeepL Translator and DeepL Pro
+You can translate documents in different file formats both with DeepL Pro (.docx, .pptx, .html,
+.pdf and .txt) as well as with DeepL Translator (.docx, .pptx and .pdf). When using document
+translation in DeepL Translator, section 3 of this privacy policy applies. If you translate
+documents of the file types mentioned above while you are logged in to your DeepL Pro account,
+the texts you submit will only be processed temporarily and will be deleted after the completion
+of the translation process, including the translations themselves (see also section 4 and 6.3 of
+this privacy policy). With both DeepL Pro and DeepL Translator, the translation of your documents
+will be provided exclusively by DeepL and processed on our infrastructure in the EEA.
+--- [PAGE BREAK] ---
+7.2 Temporary Storage of Metadata
+when Translating Documents
+Regardless of whether you use our paid or free service when translating documents, particularly
+the following data is stored for each translation process:
+•
+Status/progress of the translation process
+•
+Document file type
+•
+Selected language pair for translation
+•
+Estimates of time needed for the translation
+•
+•
+•
+References to the applied glossary (when using DeepL Pro)
+Content of the applied glossary (when using the free translator)
+Number of characters calculated
+•
+Errors that occurred during the translation process
+This information is processed in accordance with Art. 6 para. 1 sentence 1 lit. f) GDPR based on
+our legitimate interest in improving the functionality of our products, as this makes it easier to
+identify any sources of error related to the translation process. The data is stored in a database
+that can only be accessed by selected employees and is automatically deleted after 14 days.
+---
+8. Automatic Collection of
+Data via Website Access
+Regardless of whether you use our paid or free service, your device automatically transmits
+certain data for technical reasons when you access our website www.deepl.com. The following
+data that you may send us will be stored:
+•
+Date and time of access
+•
+Browser type and version
+•
+•
+Operating system
+URL of the website previously visited
+• Volume of data transmitted
+•
+Requested domain
+•
+•
+Notification of successful data retrieval
+Search term when using a web browser
+• Abbreviated/anonymized IP
+•
+Full IP address
+•
+Diagnostic information in the event of errors
+Processing is carried out in accordance with Art. 6 para. 1 sentence 1 lit. f) GDPR based on our
+legitimate interest in improving the stability and functionality of our website. The data is stored
+for purely technical reasons. Website access data is used for error analysis, ensuring system
+security, logging access to DeepL Pro and for improving our translation or improvement services.
+--- [PAGE BREAK] ---
+Based on your IP address, we also use geolocation to determine the region from which you are
+visiting our website. We use this information to check whether we can offer you the DeepL Pro
+service in your region, which corresponds to our legitimate interests pursuant to Art. 6 para. 1
+sentence 1 lit. f) GDPR. The storage of the full IP address for the users of the DeepL free version
+for a maximum period of 14 days is also justified by our legitimate interest in achieving the listed
+purposes, Art. 6 para. 1 sentence 1 lit. f) GDPR. The storage of IP addresses of users of the paid
+DeepL Pro subscription for the duration of the contract is justified by Art. 6 para. 1 sentence 1 lit.
+b) GDPR.
+---
+Our website also uses services of Cloudflare, Inc, 101 Townsend St, San Francisco, CA 94107,
+USA ("Cloudflare"), which operates a so-called Content Delivery Network (CDN). To protect our
+website, the data transfer between your browser and our servers is routed through Cloudflare's
+infrastructure in order to analyze whether it is an abusive attack. As part of this analysis, your
+data is transmitted to Cloudflare in encrypted form, if necessary also to Cloudflare servers in the
+USA. However, since your requests and other customer data are encrypted between your end
+device and the DeepL servers, Cloudflare does not have any access to this data, but only to meta-
+data (such as your IP address). Only static resources (such as graphics) are loaded directly from
+Cloudflare-servers. In addition, Cloudflare determines a so-called bot score immediately before
+the login to DeepL, which is based on the analysis of the metadata of the client (browser) used.
+The use of Cloudflare is in our legitimate interest to secure the use of our website and to prevent
+and defend harmful attacks from outside, Art. 6 para. 1 sentence 1 lit. f) GDPR. We have
+concluded a data processing agreement with Cloudflare and Cloudflare may therefore only
+process the data according to our instructions and not for its own purposes. You can find more
+information about Cloudflare's handling of personal data here.
+---
+When you visit the DeepL Dialogues website, we use Matomo Analytics to analyse the website
+traffic for purposes of understanding the use of and optimising our website. In this context we
+collect information relating to your website visit (e.g. signing up for events or newsletters)
+including your IP address, which is anonymized immediately on collection. This means we are not
+able to identify you.
+---
+9. Use of Cookies and other
+Technologies on deepl.com
+---
+9.1 Use of Cookies, Web Storage and
+other Technologies on deepl.com
+We use cookies, web storage objects and other technologies to provide you with a variety of
+features and improve your user experience. If you do not want us to use such technologies, you
+can change your browser settings accordingly. Please note that if you completely disable the use
+--- [PAGE BREAK] ---
+of cookies, web storage objects and other technologies, the functionality and scope of the
+website may be impaired.
+---
+These cookies may process personal data including data about your device, such as your IP
+address as set out in section 8 above. Where we use non-necessary cookies as set out below and
+process your personal data, we will only do so where you have provided us with your consent.
+---
+We specifically use cookies or web storage objects in the following categories:
+•
+•
+•
+•
+Necessary: These cookies or web storage objects are necessary for our website to work properly, to
+enable smooth navigation and access our most important functions. This includes essential security and
+accessibility features and preferences such as interface and translator language as well as the handling
+of the checkout process for DeepL Pro. The collecting of data via the necessary cookies or web storage
+objects is justified according to § 25 para. 2 no. 2 TDDDG (“Telekommunikation-Digitale-Dienste-
+Datenschutz-Gesetz”: German Telecommunications and Digital Services Data Protection Act). The
+further processing of this data is either necessary in accordance with Art. 6 para. 1 sentence 1 lit. b)
+GDPR for performing the contract or justified due to our legitimate interest in presenting our products
+and our company in accordance with Art. 6 para. 1 sentence 1 lit. f) GDPR.
+Performance: These cookies or web storage objects measure how our site is used. We use this
+information to improve our website and services. With these cookies we measure, for example, how
+often users return and which functions they use. We and our external service providers use these
+cookies or web storage objects with your explicit consent in accordance with § 25 para. 1 TDDDG. The
+further processing of this data is also based on your consent, Art. 6 para. 1 sentence 1 lit. a) GDPR.
+Functional: These cookies or web storage objects enable us to provide you with enhanced functionality
+and personalization on our website. For example, we can personalize your experience based on which
+pages you visited,, including when you interact with our chatbot and provide you with personalised
+DeepL solutions based on your interactions with our website. In accordance with § 25 para. 1 TDDDG
+and Art. 6 para. 1 sentence 1 lit. a) GDPR, we only use these cookies or web storage objects and process
+the data collected from them with your explicit consent.
+Marketing: These cookies and other technologies are used to deliver content, offers and advertising
+more relevant to you and your interests. By selecting this category, you also consent to DeepL sending
+your data to third parties outside the EU (e.g., Google), including the sharing of hashed email addresses
+(e.g. Reddit). In accordance with § 25 para. 1 TDDDG and Art. 6 para. 1 sentence 1 lit. a) GDPR, we only
+use these cookies, web storage objects and other technologies and process the data collected from
+them with your explicit consent.
+---
+The table below lists the different types of technologies that may be used on our website.
+Cookies or web storage objects are stored until the specified expiration time or until you delete
+them in your browser or, if it is a session cookie, until the session has expired. You can withdraw
+the consent you have given for the use of cookies, web storage objects and other technologies in
+the categories "Performance”, “Functional” and “Marketing" or manage your settings at any time.
+You can do this by deactivating (or activating) the slide button in the top right-hand corner of the
+respective category in the table below.
+---
+Where you provide us with consent to place third party cookies provided by Google on your
+device (as listed below), you can find out more information about how they store and process
+--- [PAGE BREAK] ---
+your personal data here. If you require additional information, please do reach out to us
+at privacy(at)deepl.com.
+---
+Overview of the cookies and web storage objects used by DeepL:
+Necessary
+Context
+ID
+Site localization IDil
+Description
+Technology
+Expiry
+Owner
+Description
+TechnologyCookieExpiry1 month
+OwnerDeepL
+Stores the
+interface
+language
+selected by the
+user.
+Site localization IDi18nextLng
+Description
+TechnologyLocal ExpiryPersistent OwnerDeepL
+Stores the
+Storage
+Data
+interface
+language
+selected by the
+user.
+Privacy Settings IDprivacySettings Description
+TechnologyCookieExpiry12
+OwnerDeepL
+Stores the user's
+cookie-banner
+months
+decision. You
+can change the
+settings here.
+Translator
+IDLMTBID
+Description
+TechnologyCookieExpiry6 months OwnerDeepL
+Used to
+guarantee the
+origin of a
+request to the
+translator and
+protect from
+malicious
+visitors. This
+ensures that the
+service is not
+compromised
+for the
+remaining
+visitors.
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+Translator
+IDLMT
+Description
+TechnologyLocal Expiry1 month
+OwnerDeepL
+Stores settings
+Storage
+made explicitly
+by the user. E.g.
+preferred
+translation
+language or
+entries in the
+glossary.
+Write
+IDLMT_write
+Description
+TechnologyLocal Expiry30 days
+OwnerDeepL
+Stores settings
+Storage
+made explicitly
+by the user for
+the preferred
+language or
+language
+variant, in order
+to make them
+available when
+Write is used
+again as well as
+whether the user
+has already
+seen the Intro
+Guide. In
+addition, the
+specific use of
+the alternative
+pop-up is noted
+in order to show
+customers the
+relevant
+alternatives in
+the future.
+Stores if pop-up
+announcing
+DeepL Write was
+shown.
+Write
+IDLMT_customizaescription
+TechnologyLocal Expiry30 days OwnerDeepL
+Stores if the
+Storage
+reference to
+Write in the
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+header menu
+was clicked.
+Write
+IDLMT_preferredLes\Mejigits Write TechnologyLocal Expiry30 days OwnerDeepL
+Stores the
+Storage
+weighting of the
+languages used
+by the user to
+allow accurate
+language
+identification of
+the text entered.
+Translator
+IDproductRecommeestarijptincon
+TechnologyCookieExpiry7 days OwnerDeepL
+Used for feature
+onboarding and
+discovery on the
+translator.
+Translator
+IDuserRecommendatisanipltigs
+TechnologyLocal Expiry6 months OwnerDeepL
+Used to store
+Storage
+additional
+translator
+settings of the
+user.
+Discovery and
+Onboarding
+IDclickOnWordHintDescription
+TechnologyLocal Expiry1 to 6 OwnerDeepL
+LMT_MessageBoxStores if the
+Storage
+months
+LMT_onboarding, user has on-
+onboardingData, boarded with
+showAppOnboardifegatures to
+AppOnboardingInfensure that
+apiOnboarding onboarding
+prompts are
+only displayed
+once.
+Checkout
+Process
+IDuserCountry Description
+TechnologyLocal ExpirySession OwnerDeepL
+Stores the user's Storage / Cookie
+selected country
+during the
+checkout
+process.
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+Checkout
+Process
+IDnewpro-
+checkout
+Description
+TechnologyLocal Expiry7 days OwnerDeepL
+Stores the user's Storage
+selected DeepL
+Pro plan during
+the checkout
+process.
+DeepL Pro-User IDdl_session
+Description
+TechnologyCookieExpiry100 years OwnerDeepL
+Login/Session
+Stores users
+login token to
+keep the user
+logged in on the
+site.
+Permanently
+stored when
+"remember me"
+is selected
+during the login,
+or expires after
+30 minutes of
+inactivity if not.
+DeepL Pro-User IDdl_logo
+Description
+TechnologySessioExpirySession OwnerDeepL
+Login/Session
+Temporarily
+Storage
+stores a custom
+logo ID to avoid
+unnecessary
+loading times
+and flickering
+when loading
+the company
+logo as part of
+logging in to a
+subscription
+that has enabled
+the custom
+company logo
+feature.
+DeepL Pro-User IDdl_logoutReasorDescription
+TechnologyCookieExpirySession OwnerDeepL
+Login/Session
+When you get
+logged out
+accidentally, we
+will help you
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+with an error
+message. We
+use this cookie
+to deliver this
+message to you
+so you can
+prevent this
+problem in the
+future.
+DeepL Pro-User IDep
+Description
+TechnologyLocal ExpirySession
+OwnerDeepL
+Login/Session
+Ip-Based
+Storage
+Enterprise
+Account login
+token. Checked
+once per
+session and
+deleted
+afterwards.
+DeepL Pro-User IDuser
+Description
+TechnologyLocal Expiry7 days OwnerDeepL
+Login/Session
+Stores the
+Storage
+display name of
+logged-in users
+to display their
+name. Deleted if
+the user logs
+out.
+DeepL Pro-User IDdl_auth
+Description
+TechnologyLocal ExpiryPersistent OwnerDeepL
+Login/Session
+Stores the "login
+Storage
+Data
+state" of a user,
+the account type
+and sets a
+reminder for
+login. When user
+gets logged out
+accidentally,
+user will be
+helped with an
+error message.
+Release process IDreleaseGroups Description
+TechnologyCookieZkpiral month OwnerDeepL
+Used for
+Storage
+gradual,
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+controlled
+releases to
+ensure stability,
+quality and
+performance of
+our service and
+infrastructure.
+Release process IDdapGid
+Description
+TechnologyCookieExpiry1 month OwnerDeepL
+Used for
+controlled
+rollout of
+features for
+logged users.
+Release process IDDAP_experiment@eiscription
+TechnologyLocal ExpirySession OwnerDeepL
+Used for
+Storage
+controlled
+rollout of
+features for
+logged users.
+Session ID
+IDdapSid
+Description
+TechnologyCookieExpirySession OwnerDeepL
+Session ID and
+timestamp.
+Automatically
+deleted after 30
+minutes of
+inactivity.
+App Usage
+IDappUsageStats Description
+TechnologyLocal ExpiryPersistent OwnerDeepL
+Statistics - only
+Remembers
+Storage
+Data
+for DeepL Apps
+when the user
+last used the
+app.
+Sales Form
+IDsalesContactStalDescription
+TechnologyLocal ExpiryPersistent OwnerDeepL
+Usage Statistics
+Remembers
+Storage
+Data
+when the user
+submitted the
+form.
+Document
+IDLMT_doctranslatestieption
+TechnologyCookieExpiry1 month OwnerDeepL
+translation
+Used to bind an
+ongoing
+--- [PAGE BREAK] ---
+Context
+ID
+Description Technology
+Expiry
+Owner
+document
+translation
+process to a
+user and protect
+the document
+translation
+feature from
+excessive use
+by individual
+users. This
+ensures that the
+service is not
+impacted for the
+remaining users.
+Document
+translation
+IDLMT_text_translatescriptige_free TechnologyCookieExpiry1 month OwnerDeepL
+Used to bind an
+ongoing text
+translation
+process to a
+user and protect
+the translation
+feature from
+excessive use
+by individual
+users. This
+ensures that the
+service is not
+impacted for the
+remaining
+users.
+Security
+IDdapUid
+Description
+TechnologyCookieExpiry12
+OwnerDeepL
+User identifier to
+months
+ensure correct
+operation of our
+systems,
+including to
+identify
+malicious bots
+and measure
+performance.
+Security
+IDdl_clearance Description
+TechnologyCookieExpiry5 minutes OwnerDeepL
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+Used to prevent
+misuse of our
+services by
+using the
+Cloudflare bot
+score.
+Security
+IDdl_camellia_clientescription
+TechnologyCookieExpiry1 month OwnerDeepL
+Used to protect
+services from
+excessive use
+by individual
+users. This
+ensures that the
+service is not
+impacted for the
+remaining users.
+User Features IDdl_featureSet Description
+TechnologyLocal ExpiryPersistent OwnerDeepL
+Stores the
+Storage
+Data
+features which
+are available to
+the user
+depending on
+the account or
+subscription.
+API
+ID_gitbook_cookie_egraription
+TechnologyCookieExpirySession
+Owner Third
+documentation/GitBook
+Third-party
+Party - GitBook
+cookie used by
+GitBook
+documentation
+platform.
+Necessary for
+the operation of
+the service
+(storage of user
+cookie
+preferences).
+API
+ID_session
+Description
+TechnologyCookieExpiry400 days OwnerThird
+documentation/GitBook
+Third-party
+Party - GitBook
+cookie used by
+GitBook
+documentation
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+platform. Used
+for session
+management.
+Speech-to-text IDspeechToTextCessecription
+TechnologyCookieExpiry100 years OwnerDeepL
+Stores the
+consent of the
+Free and DeepL
+account users
+when using the
+speech-to-text
+feature.
+Allocation of
+IDINGRESSCOOKIDescription
+TechnologyCookieExpirysession OwnerDeepL
+assets
+Used to provide
+the user with the
+correct version
+of the assets
+(Javascript, CSS,
+etc.) when
+deepl.com is
+updated.
+Privacy Settings IDgtm_consent Description
+TechnologyLocal ExpiryPersistent OwnerDeepL
+Stores user
+Storage
+Data
+preference
+regarding
+Google Tag
+Manager
+consent.
+Security
+ID_cf_bm /
+Description
+TechnologyCookieExpiry30
+OwnerCloudflare
+Used to prevent
+minutes (after
+Inc.
+misuse of our
+continuous
+services by
+inactivity of the
+using the
+user)
+Cloudflare bot
+score.
+Checkout
+Process
+IDFurther details
+about Stripe 3rd
+party cookies
+can be found
+under
+Description
+TechnologyCookieExpirySession to OwnerThird-
+Fraud detection
+(3rd party)
+2 years
+Party - Stripe
+and security for
+Technology
+check-out and
+Europe, Limited
+payments. This
+cookie is only
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+https://stripe.com/bedokjest enter
+policy/legal.
+the checkout
+process or view
+your account
+payment
+information.
+Checkout
+IDFurther details Description
+TechnologyJavaScriptiryn/a
+Owner Third-
+Process
+about Riskified
+Fraud detection
+Party - Riskified
+3rd party
+and prevention
+Ltd.
+cookies can be for payments in
+found under
+the DeepL Pro
+https://www.riskifieben/deco-
+terms-privacy/. process. This is
+only applied if
+you enter the
+checkout
+process.
+Chat Support /
+Zendesk
+IDZD-
+widgetOpen
+Description
+TechnologyLocal ExpiryPersistent OwnerZendesk
+Maintains the
+Storage
+Data
+open/closed
+state of the chat
+Web Widget
+across page
+visits.
+Chat Support / ID.sessionToken, Description
+TechnologyLocal ExpiryPersistent OwnerZendesk
+Zendesk
+.clientId,
+Third-party
+Storage
+Data
+.appUserId, ZD- cookies used by
+launcherLabelRemoveZendesk
+support tool.
+Necessary for
+the operation of
+the chat widget
+for customer
+support.
+Security
+IDdeviceld
+Description
+TechnologyCookieExpiry6 months OwnerDeepL
+Device identifier
+to ensure
+correct
+operation of our
+systems and
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+enforce fair use
+policies.
+DeepL User
+Login/Session
+IDdl_loggedIn
+Description
+Indicates
+whether a user
+is logged in to
+their DeepL
+account.
+TechnologyCookieExpirySession OwnerDeepL
+Performance
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+Visit Count
+IDdapVn
+Description
+TechnologyCookieExpiry12
+OwnerDeepL
+Stores how
+months
+many times the
+user has visited
+the site.
+Page views
+IDpv
+Description
+TechnologyLocal ExpiryPersistent OwnerDeepL
+Stores the page
+Storage
+Data
+ID of the pages
+accessed by the
+user, including a
+timestamp
+indicating when
+this access was
+last made.
+Based on this,
+corresponding
+information is
+displayed to the
+user.
+DeepL
+ID_pk_id
+Description
+TechnologyCookieExpiry13
+OwnerMatomo
+Dialogues Site
+Stores a unique
+months
+Statistics
+visitor ID.
+Chat Support / IDZD-buid
+Description
+TechnologyLocal ExpiryPersistent OwnerZendesk
+Zendesk
+Stores deviceld
+Storage
+Data
+and tracks
+analytics events
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+for pages that
+load a chat Web
+Widget on them.
+Chat Support /
+Zendesk
+IDZD-suid
+Description
+TechnologyLocal Expiry20
+OwnerZendesk
+Stores
+Storage
+minutes
+sessionID and
+tracks analytics
+events for pages
+that load a chat
+Web Widget on
+them.
+Functional
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+Translator
+IDuserRecommendatis@niption
+TechnologyCookieExpiry7 days OwnerDeepL
+Used
+to personalise
+the users
+experience.
+Translator
+IDuserRecommendatisanipltigs
+TechnologyLocal Expiry6 months OwnerDeepL
+Used to store
+Storage
+additional
+translator
+settings of the
+user.
+Checkout
+IDLMT_resumeChesortption
+TechnologyLocal ExpiryPersistent OwnerDeepL
+Process
+Used to store
+Storage
+Data
+checkout details
+of the user to
+help users
+resume the
+checkout
+process.
+Product
+IDapiDocs Visited Description
+TechnologyLocal ExpiryPersistent OwnerDeepL
+information
+Stores whether
+Storage
+Data
+API
+documentation
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+has been visited
+to help users
+select the
+correct package
+at checkout.
+Marketing
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+Conversion
+ID
+Description
+Technology Trackingxpiry Ongoing
+OwnerLinkedIn
+Tracking
+Records and
+Pixel
+(until consent is
+Ireland
+evaluates
+revoked)
+Unlimited
+conversions
+Company
+from DeepL's
+LinkedIn
+advertising
+campaigns
+Conversion
+ID
+Description
+TechnologyServerExpiryOngoing
+OwnerGoogle
+Tracking
+Records and
+to-server
+(until consent is Ireland Ltd.
+evaluates
+tracking
+revoked)
+conversions in
+connection with
+DeepL's
+advertising
+campaigns in
+Google services.
+Conversion
+ID
+Description
+Technology Trackinīgxpiry Ongoing
+OwnerMicrosoft
+Tracking
+Records and
+Pixel
+(until consent is
+Ireland
+evaluates
+revoked)
+Operations Ltd.
+conversions in
+connection with
+DeepL's
+advertising
+campaigns in
+Microsoft
+services, e.g.
+Bing search.
+Conversion
+ID
+Description
+TechnologyServerExpiryOngoing
+OwnerMeta
+Tracking
+to-server
+(until consent is Platforms, Inc.
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+Records and
+tracking
+revoked)
+evaluates
+conversions in
+connection with
+DeepL's
+advertising
+campaigns in
+Meta services.
+Conversion
+Tracking
+ID
+Description
+Technology Trackinīgxpiry Ongoing
+OwnerNaver
+Records and
+Pixel
+(until consent is Corp.
+evaluates
+revoked)
+conversions in
+connection with
+DeepL's
+advertising
+campaigns in
+Naver services,
+e.g. Naver
+search.
+Conversion
+tracking
+ID
+Description
+Technology Server-ExpiryOngoing OwnerLY
+Records and
+to-server
+(until consent is Corporation
+evaluates
+tracking
+revoked)
+conversions in
+connection with
+DeepL's
+advertising
+campaigns in
+Yahoo Japan
+services.
+Conversion
+tracking
+ID_n, A, B, SSL, T, Description
+TechnologyPixel ExpiryOngoing
+OwnerLY
+XA, XB, Y
+Records and
+(until consent is Corporation
+evaluates
+revoked)
+conversions in
+connection with
+DeepL's
+advertising
+campaigns in
+Yahoo Japan
+services.
+HubSpot
+IDhubspot
+Description
+TechnologyCookieExpiry1 month
+OwnerHubSpot,
+Contact Form
+Inc.
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+Third-party
+cookie by our
+Marketing
+Automation
+Tool, which is
+used in
+particular on our
+contact form
+page. Used for
+session
+management
+and to prevent
+misuse.
+Conversion
+Tracking
+ID
+Description
+TechnologyServerExpiryOngoing
+OwnerReddit
+Records and
+to-server
+(until consent is
+evaluates
+tracking
+revoked)
+conversions
+from DeepL's
+Reddit
+advertising
+campaigns
+Conversion
+ID_sid; _fbp,
+Description
+TechnologyPixel ExpiryOngoing
+OwnerReddit
+Tracking
+_ga_XXX;
+Records and
+(until consent is
+_rdt_em;
+evaluates
+revoked)
+_rdt_uuid;
+conversions
+ajs_anonymous_idfrom DeepL's
+ajs_user_id;
+Reddit
+csrf_token, csv;
+advertising
+edgebucket;
+campaigns
+video_autoplay_disabled;
+loid; pc;
+prefers_reduced_motion;
+prefers_reduced_motion_sync;reddit_session;seeker_session;session_tracker;t2_xxx,
+theme;token_v2
+Conversion
+Tracking
+ID_q_state_XXXXXXXXXXXXXXX TechnologyCookieExpiry1 year
+Owner Qualified.co
+Used to identify
+Inc.
+a website visitor
+and their
+interaction with
+the chatbot.
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+Conversion
+Tracking
+ID_q_domainTestDescription
+TechnologyCookieExpiryShortly
+Owner Qualified.co
+Used to identify
+after the cookie Inc.
+a website
+was set
+visitor's domain.
+Embedded
+Video Player
+IDAEC, APISID,
+HSID, NID,
+SAPISID, SID,
+SSID, SOCS &
+_Secure
+Description
+TechnologyCookieExpiry180 – 400 OwnerYouTube
+We embed
+days
+videos from
+YouTube, using
+YouTube's
+"privacy-
+enhanced
+mode". For
+further
+information on
+this privacy-
+enhanced mode,
+please see
+here. If you visit
+a page
+containing a
+YouTube video
+whilst logged in
+to a YouTube or
+Google account,
+Google may use
+additional
+cookies for
+security
+reasons, to
+remember your
+preferences and
+to receive
+information
+about what you
+have watched
+for analytics and
+advertising
+purposes
+cookies and to
+collect data
+linked to your
+Google account.
+Further
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+information can
+be found here.
+Embedded
+Video Player
+ID_cf, _ga, _gid, Description
+TechnologyCookieExpiry0 – 400 OwnerVimeo
+_uet,
+We embed
+days
+_builderSessionid, videos from
+language,
+Vimeo, using
+Optanon,
+Vimeo's "Do Not
+sd_client_id,
+Track" setting.
+vimeo & vuid
+Further
+information can
+be found here.
+Vimeo may use
+cookies to play
+the video,
+remember
+preferences and
+for security
+reasons. If you
+visit a page
+containing a
+Vimeo video
+whilst logged in
+to a Vimeo
+account or if
+you've visited
+the Vimeo site
+before our
+website, Vimeo
+may use cookies
+including to
+keep you logged
+in, for analytics
+and advertising
+purposes and to
+collect data that
+is linked to your
+Vimeo account.
+Further
+information can
+be found here.
+--- [PAGE BREAK] ---
+Context
+ID
+Description
+Technology
+Expiry
+Owner
+GitHub Gist
+ID_gh_sess,
+Description
+TechnologyCookieExpirySession
+OwnerGitHub
+Embedded
+_octo, logged_in We embed
+Iframes
+Iframes from
+(_gh_sess) or 1
+year (_octo,
+GitHub. GitHub
+logged_in)
+may use cookies
+to display the
+Iframe,
+remember
+preferences and
+for security
+reasons. If you
+visit a page
+containing a
+GitHub
+embedding
+whilst logged in
+to a GitHub
+account or if
+you've visited
+the GutHub site
+before our
+website, GitHub
+may use cookies
+including to
+keep you logged
+in, for analytics
+and advertising
+purposes and to
+collect data that
+is linked to your
+GitHub account.
+Further
+information can
+be found here.
+DeepL Header
+for All Users
+IDdl_header_bann@escription
+TechnologyLocal Expiry30 days
+OwnerDeepL
+Stores if the
+Storage
+user dismisses
+the DeepL Al
+Labs banner.
+---
+10. Analysis of User Behaviour
+--- [PAGE BREAK] ---
+In order to better understand how our products are used and to better tailor our products to the
+needs and desires of our customers, we analyze pseudonymized data about our customers' use
+of DeepL Pro products. The analysis allows us to understand general usage habits and derive
+different target and user groups. We can then address the identified user groups in a more
+specific way and, for example, point them to previously unused or unknown features of our
+products. In this way, we enable our customers to get to know and use all the features of their
+DeepL subscription and can thus improve the user experience of the DeepL products. This
+corresponds to our legitimate interests according to Art. 6 para. 1 p. 1 lit. f) GDPR. The data is
+processed exclusively on DeepL's servers in the EEA, the data is not transferred to the USA. No
+transfer of the data to third parties takes place.
+---
+In case that users visit the website https://developers.deepl.com which is hosted by GitBook we
+use the services of Conva Ventures Inc. ("Conva Ventures” the corporation behind Fathom
+Analytics) to get basic insights about how our API documentation is being used. For the analysis,
+no cookie is set, and the analysis will only rely on the IP address and user agent of the user which
+will be hashed first. These pseudo-anonymized hashes will be anonymized after 24 hours. The
+data will be processed on servers in the USA. We have concluded a data processing agreement
+with Conva Ventures and Conva Ventures only processes the data in accordance with our
+instructions and not for its own purposes. You can find more information about Conva Ventures'
+handling of personal data here.
+---
+11. DeepL Apps
+---
+When translating or improving texts with our apps, for technical reasons - regardless of whether
+you use our paid or free service - your device will automatically transmit certain data. The
+following data which you can transmit to us, is stored:
+•
+Date and time of access
+•
+Version of the app
+•
+Operating system
+• Volume of data transmitted
+•
+Notification of successful data retrieval
+• Abbreviated/anonymized IP address
+--- [PAGE BREAK] ---
+•
+•
+•
+Full IP address
+Diagnostic information in the event of errors
+Type of mobile device (only for iOS and Android app)
+• Language in use
+• Time zone difference from Greenwich Mean Time (GMT)
+• Access status/HTTP status code
+---
+The processing of this data is based on our legitimate interest in ensuring and improving the
+stability and functionality of our services, Art. 6 para. 1 sentence 1 lit. f) GDPR. This data is stored
+solely for technical reasons. Data relating to access is used for error analysis, ensuring system
+security, logging access to DeepL Pro and to improve our translation or improvement services.
+The full IP address of users using the free version of DeepL is stored for a maximum period of 14
+days, which is also justified by our legitimate interest in achieving the listed purposes, Art. 6 para.
+1 sentence 1 lit. f) GDPR. The full IP address of DeepL Pro users is stored for the duration of the
+contract on the basis of Art. 6 para. 1 sentence 1 lit. b) GDPR.
+---
+If you use our mobile apps, it is also possible to have the entered text and the translation or
+improvement read aloud or to dictate the text to be translated or improved yourself. The speech
+service installed on your device is used for this purpose. Please note that this may result in the
+transfer of the entered or spoken content to the provider of the speech service used by your
+device, possibly also to the USA. DeepL has no influence on this processing of your voice and
+audio data, therefore the privacy policy and terms of use of the speech service used by your
+device e.g. provided by Apple, Google or Samsung, but also those of other speech services that
+cannot be listed exhaustively, apply.
+---
+We use necessary cookies and web storage objects in our desktop apps as described in
+section 9.
+---
+No cookies are used in our mobile apps. However, a unique user ID (no cross-device ID) is used,
+which allows us to track, for example, the source and target language settings, how many
+characters are translated or improved, whether the copy button is used, and if so, how it is used.
+The processing of this data is based on our legitimate interest (Art. 6 para. 1 sentence 1 lit. f)
+GDPR) to better understand the needs of our users and to be able to adapt the app according to
+customer requirements.
+---
+12. DeepL API Free
+---
+In order to use DeepL API Free, it is necessary to create a DeepL account (please see section
+6.1). If you select the API Free option during the checkout process, further data, as specified in
+--- [PAGE BREAK] ---
+section 6.2, will be collected. Although no costs are incurred when using DeepL API Free - subject
+to a (possible) upgrade - your payment data is collected in order to prevent improper use of API
+Free. Solely for this purpose, payment information is also passed on, in accordance with section
+6.3, to the payment service provider we have commissioned, Stripe Payments Europe Ltd.
+---
+13. Connecting with our Customer
+Team, including via our ChatBot
+You have various possibilities to connect with us, including via contact forms on our website,
+having calls with our customer team as well as by using our chatbot. You can also contact us
+directly by email.
+We will process your personal data that you provide to us as part of these communications. This
+may include your name, email address and any other personal data you disclose to us.
+---
+13.1 Recording of dialer and Zoom calls
+Our customer team is conducting dialer and Zoom calls with prospects and customers to provide
+them with general information about DeepL's services and to advise them according to their
+needs. In order to continue to provide excellent customer service and to continuously improve it,
+we may record and transcribe the dialer and zoom calls with prospects and customers in certain
+countries with their consent, using the Salesloft platform provided by Salesloft, Inc., 1180 West
+Peachtree St NW Suite 2400, Atlanta, GA 30309. We have concluded a data processing
+agreement with Salesloft and Salesloft is therefore only allowed to process the data according to
+our instructions and not for its own purposes.
+---
+Recordings of the calls, including transcriptions of these, are used for internal training and
+coaching as well as for documentation purposes. At the beginning of each dialer call, an
+automated message will inform the called party that the call is being recorded. If you do not wish
+to participate in a recorded call, you can end the call at any time. For Zoom calls, the Zoom
+invitation will inform you that the call is being recorded and that you can opt out when you join
+the call.
+---
+All recorded calls, including transcriptions, will be securely stored for a period of two years from
+the date of the call. After this period, the recordings will be automatically deleted from our
+systems. You also have the rights mentioned in section 20.
+--- [PAGE BREAK] ---
+13.2 Sales and Support Requests
+If you would like to send us a sales enquiry in order to receive further information about our
+products and subscription plans or to start contract negotiations, you are welcome to use our
+sales contact forms. In addition to your email address, you are required to provide your name and
+telephone number; all other information is optional. For the provision of our contact forms, we
+use the HubSpot service (see section 14).
+---
+If you contact our support team with questions about your subscription, for example via our
+contact form, it is necessary to provide a valid email address so that we know who the inquiry
+comes from and can respond to it. We use the ticket system provided by Zendesk Inc.
+("Zendesk"), 1019 Market Street, San Francisco, CA 94103, USA We have entered into a data
+processing agreement with Zendesk and Zendesk may therefore only process the data in
+accordance with our instructions and not for its own purposes. Further information on the
+handling of personal data at Zendesk can be found here.
+--- [PAGE BREAK] ---
+14.2 Marketing Newsletter and
+other marketing communication
+If you would like to receive more detailed information about our company, products, services and
+promotions, you can sign up for our marketing newsletter or you can agree to receiving marketing
+communication in certain other contexts. We may send you information, within the scope of your
+consent, about offers, special offers, promotions and marketing campaigns and other news from
+DeepL from time to time or get in touch with you to discuss specific products and services. The
+processing of your data is based on your consent (Art. 6 para. 1 sentence 1 lit. a) GDPR). You can
+withdraw your consent at any time with effect for the future by sending an email to
+support(at)deepl.com. Of course, our emails each contain an unsubscribe link at the end.
+We also use the HubSpot service to send the marketing emails, for more information please
+see 14.3.
+---
+Note to US Individuals: We may also send you marketing communications and newsletters and
+offers and promotions if you have agreed to send your information to DeepL, such as via Quora.
+In such a case, we rely on your agreement to send us your information as establishing a
+relationship with us and your consent to such marketing. You can withdraw your consent at any
+time with effect for the future by using the unsubscribe link at the end of our emails.
+--- [PAGE BREAK] ---
+We also statistically record, among other things via HubSpot, which emails you open and which
+links you click on in our emails (opening and click rates). This allows us to understand which
+content is of interest to our users and to optimize the newsletter and our email communication,
+which corresponds to our legitimate interests pursuant to Art. 6 para. 1 sentence 1 lit. f) GDPR.
+---
+15.1 User surveys
+Users are given the opportunity to participate in surveys via the web and app interface of our
+services. Participation in the surveys is voluntary and can be achieved, for example, via a pop-up
+found on the interface. The user may be redirected to a third party website (e.g. Qualtrics) to
+complete the survey.
+---
+In order for us to properly analyse the survey results, we match your survey results with data on
+how you interact with and use our services using parameters that are appended to the survey link
+such as your accountID. This helps us to get better insights on how our users respond to our
+services, which help us to improve our DeepL product offering and services based on the
+collected survey information. We will only do this where you have provided us with your consent
+to do so, which we will collect when you submit the survey form. You may withdraw your consent
+for the cookie at any time with effect for the future by sending an email to privacy(at)deepl.com.
+--- [PAGE BREAK] ---
+to provide your name and/or email address, either optionally or as a requirement for completing
+the survey. If you provide us with your email, we may contact you afterwards (e.g., to invite you to
+participate in research studies or to share your experience in a call with our team).
+---
+We also use a service provided by UserTesting, Inc. 144 Townsend Street, San Francisco, CA
+94107 USA to conduct interviews with you. As a user (Contributor) of UserTesting, you can
+register for our interviews on UserTesting's platform. We also contact selected customers to
+make them aware of the interviews and invite them to attend. The interviews are recorded with
+images and sound and stored by us for two years on the UserTesting platform. We process your
+data on the basis of your given consent, Art. 6 para. 1 sentence 1 lit. a) GDPR. You can withdraw
+your consent at any time with effect for the future by sending an email to privacy(at)deepl.com.
+Please state the exact day and, if possible, the time of the interview. We have concluded a data
+processing agreement with UserTesting and UserTesting may only process the data according to
+our instructions and not for its own purposes. UserTesting uses different subcontractors - such
+as Zoom - which are also partly located in third countries outside the EU. Therefore, in certain
+cases, there may be a transfer of your data to the USA. Further information on the handling of
+personal data at UserTesting can be found here and here.
+---
+15.7 Ethnio
+We use a service provided by Ethnio Inc, 1909 Roselia Ave, Los Angeles CA 90027, USA, ("Ethnio")
+to store contact details of participants who signed up to our internal panel for the purpose of
+inviting them to participate in studies and to incentivize our research studies. Ethnio uses
+different subcontractors, which are also located in the USA. We have concluded a data
+processing agreement with Ethnio and Ethnio only processes the data in accordance with our
+instructions and not for its own purposes. You can find more information about Ethnio's handling
+of personal data here.
+---
+16. DeepL's Social Media Pages
+DeepL operates several social media profiles (also called "pages") on various social networks
+e.g., Facebook, Instagram, Twitter, LinkedIn and Xing. There we regularly publish posts about our
+products, new product features as well as new job offers. If you interact with our pages or
+contact us via them and are a member of the respective social network, we may receive and
+process data that identify you. As operator of the pages, we also have the option of viewing
+anonymous statistics on the interaction of visitors with our pages (insight function). For this
+purpose, the operators of the social networks record your interactions with our pages using
+cookies and similar technologies. You can find more information on this kind of data processing
+by Facebook, Instagram and LinkedIn here, here and here.
+--- [PAGE BREAK] ---
+In addition, we use the LinkedIn image pixel to record and evaluate conversions from our LinkedIn
+advertising campaigns. Conversions mean whether a user is successfully led to our website via
+our LinkedIn advertising campaign. Furthermore, user interactions - i.e., individual steps taken by
+the user on our website - are to be recorded and tracked via conversions. The LinkedIn image
+pixel is embedded on certain pages of our website and provides feedback to LinkedIn if a
+conversion has taken place. In doing so, LinkedIn processes the user's IP address as well as the
+presence of a cookie set by LinkedIn, which provides conclusions about the conversion. The
+processing of your personal data is based on your consent (Art. 6 para. 1 sentence 1 lit. a)
+GDPR). The consent is given via the cookie settings. You can revoke your consent at any time
+with effect for the future by revoking the consent for the "Marketing” cookie category or deleting
+your browser cache.
+--- [PAGE BREAK] ---
+On the Platform, we will publish and make available your name (not your email address) together
+with any optional account or profile information (except for information that you designate as
+non-public) that you add on the Platform. We will also publish and make available any content
+you post on the Platform (such as posts, comments, votes). The Platform will not be made public
+in the early access phase.
+---
+17.4 Content moderation
+We moderate content on the Platform and this means we review and process any content
+flagged to us to the extent required to comply with our legal obligations. Furthermore, we
+use[VL1] your content and personal data for the purpose of identifying malicious content.
+---
+17.5 Cookies
+We are using cookies for your login to our community and to store your preferences. These
+cookies are strictly necessary to provide you with our service. Any other cookies which are not
+strictly necessary will only be used if you consent to this.
+--- [PAGE BREAK] ---
+In the event of registration for a webinar on a landing page provided by Zoom, we collect and
+process all personal data that you provide when registering for one of our webinars (first and last
+name, email address, company (optional), position (optional)). We process your data to fulfil the
+free participation contract concluded between you and us on the basis of Art. 6 para. 1 sentence
+1 lit. b) GDPR. We store your data on this basis for the duration of the existence of our
+contractual relationship, i.e. until the conclusion of the webinar, and subsequently for the duration
+of the statutory retention periods where this is required. If you have a DeepL account and it is
+possible for us to assign the webinar registration to this account, the processing of your personal
+data in the context of our customer database and the analyses of our customer-related
+processes until the end of the webinar is based on Art. 6 para. 1 sentence 1 lit. f) GDPR, as this is
+in our legitimate interest to record the demand for webinars and in this context to improve the
+services for our customers. After completion of the webinar, we note in our customer database
+under your account that you participated in the webinar. The name and e-mail address given
+during registration will not be noted and - if they do not match the details in the DeepL account
+created - will be deleted by us after the webinar has ended. Should personal data be processed at
+all in this note in the customer database beyond the webinar, we base this on Art. 6 para. 1
+sentence 1 lit. f) GDPR, as this is in our legitimate interest to specifically identify whether
+customers understand our products in order to provide them with support more quickly in
+individual cases, or in order to provide certain customers with extended webinars and training.
+--- [PAGE BREAK] ---
+When participating in a webinar and using Zoom, the following additional personal data
+is processed:
+•
+•
+•
+User information (This is data associated with the Zoom account and its authentication, e.g. first name,
+last name, display name, email address, password (unless Single Sign On (SSO) is used), profile picture,
+Zoom unique user ID);
+Communication data (This is data that you independently enter, upload or share as part of the webinar
+and associated Zoom usage);
+Meeting metadata and telemetry data (This technical data is, among other things, data relating to the use
+of the service, including when and how sessions were conducted (IP address, event logs, session
+information, etc.), as well as device and hardware information that Zoom needs to access in order for
+features such as camera, microphone, etc. to be operational in the context of participation).
+---
+Please note that it is also possible to participate in the webinar without having a Zoom account.
+In this case, the collection and processing of data is limited to the minimum necessary to be able
+to maintain the service for you. We have chosen settings so that the collection and processing of
+the communication content generally takes place on servers in the European Union. As Zoom is
+based in the USA, we cannot exclude the possibility that data processing (in particular meeting
+metadata) may also take place in the USA when using the service. A collection and processing of
+your data through the use of Zoom takes place on the basis of Art. 6 para. 1 sentence 1 lit. b)
+GDPR (participation contract). We store the data collected and processed by Zoom on our behalf
+for the duration of the Zoom webinar and subsequently for the duration of the statutory retention
+periods, if this is required. We have no influence on the duration of the data processed by Zoom
+under its own responsibility. Please contact Zoom directly for information in this regard.
+---
+Please note that we may record Zoom webinars and publish them afterwards on our website or
+social media channels. Participants will not be visible or identifiable in these recordings. As
+participants can only ask written questions, they will not appear visually in the recording. The
+answer to the participant's question will be part of the webinar recording. If, contrary to
+expectations, personal data of the participants is visible during the recording, it will be made
+unrecognisable before publication. The recording and storage of the webinar is based on Art. 6
+para. 1 sentence 1 lit. f) GDPR, as these processing operations are in our legitimate interest to
+improve the quality of our webinars. When the webinars are published, no further processing of
+personal data will take place, as we will make them unrecognisable beforehand - if they can be
+viewed at all.
+--- [PAGE BREAK] ---
+21.2 Additional information for
+usage of DeepL's free service
+In addition to section 3, please note that if you enter personal data when using DeepL Translator /
+Write in the free version contrary to the terms of use, this data may be checked by a human.
+---
+21.3 Data Deletion and Retention Periods
+---
+However, as outlined above in section 6.2, DeepL is obliged to retain certain personal data of
+users as required by applicable laws. Relevant laws under Korean law include, in particular, the
+Act on the Consumer Protection in Electronic Commerce (Article 6) which provides for the
+retention of data on contract as well as withdrawals and revocations thereof for 5 years, data on
+the provision of services for 5 years and data on consumer complaints or consumer disputes for
+3 years. The Protection of Communications Secrets Act provides in Article 15-2 to retain records
+of computer communication or internet log and trace data of access point for 3 months.
+--- [PAGE BREAK] ---
+• Process payments: We forward the necessary payment data to our authorized payment service provider
+Stripe Payments Europe Ltd., Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland. Where
+necessary, Stripe will transfer the data to Stripe, Inc., located in the USA. You can contact the company
+through duo(at)stripe.com.
+--- [PAGE BREAK] ---
+• Secure the use of website: Our website uses services of Cloudflare, Inc, 101 Townsend St, San Francisco,
+CA 94107, USA ("Cloudflare"). To protect our website, the data transfer between your browser and our
+servers is routed through Cloudflare's infrastructure in order to analyze whether it is an abusive attack.
+However, since your translation requests and other customer data are encrypted between your end
+device and the DeepL servers, Cloudflare does not have any access to this data, but only to meta-data
+(such as your IP address). You can contact the company through privacyquestions(at)cloudflare.com.
+---
+•
+Support enquires: If you send us a support enquiry, your request is forwarded to the ticket system of the
+provider Zendesk Inc. ("Zendesk"), 1019 Market Street, San Francisco, CA 94103, USA. We use Zendesk
+to process your enquiry and your further communication with us, we also use the service to manage our
+customer database. You can contact the company through privacy(at)zendesk.com.
+---
+•
+Manage customer database: We use the Customer Relationship Management System (CRM) of
+Salesforce.com Germany GmbH, Erika-Mann-Str. 31, 80636 München, Deutschland (“Salesforce CRM") to
+manage our customer database, which includes our existing and potential customers, and to organize
+sales and communication processes. You can contact the company through privacy(at)salesforce.com.
+---
+•
+Send newsletters and other marketing emails: For sending the newsletters and other marketing emails,
+we use a service provided by HubSpot, Inc. with headquarters at 25 First Street, 2nd Floor, Cambridge,
+MA 02141 USA. As part of this, your data may also be transferred to the USA. You can contact the
+company through privacy(at)hubspot.com.
+---
+•
+Conduct the customer satisfaction surveys: To conduct the customer satisfaction surveys, we use a
+service of Typeform SL, Carrer Bac de Roda, 163, local, 08018 Barcelona, Spain ("Typeform"), on whose
+platform the surveys are stored. Typeform uses different subcontractors, which are also partly located in
+third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to the
+USA. You can contact the company through GDPR(at)typeform.com.
+---
+•
+Conduct surveys: For the surveys we use a service of Qualtrics Ireland Limited, Costello House, 1
+Clarendon Row, Dublin 2, DO2 TA43, Ireland ("Qualtrics"), on whose platform the surveys are stored.
+Qualtrics uses different subcontractors, which are also partly located in third countries outside the EU.
+Therefore, in certain cases, there may be a transfer of your data to the USA. You can contact the
+company through privacy-dsr@qualtrics.com.
+---
+•
+Conduct surveys: We use a survey tool of Hotjar Ltd., Dragonara Business Centre, 5th Floor, Dragonara
+Road, Paceville St Julian's STJ 3141, Malta ("Hotjar"), on whose platform the surveys are stored. Hotjar
+uses different subcontractors, which are also partly located in third countries outside the EU. Therefore, in
+certain cases, there may be a transfer of your data to the USA. You can contact the company through
+dpo@hotjar.com
+---
+•
+Conduct interviews: We use a service provided by UserTesting, Inc. 144 Townsend Street, San Francisco,
+CA 94107 USA to conduct interviews with you. UserTesting uses different subcontractors - such as
+Zoom - which are also partly located in third countries outside the EU. Therefore, in certain cases, there
+may be a transfer of your data to the USA. You can contact the company through
+privacy@usertesting.com.
+---
+•
+Host Webinars: We use a service provided by Zoom Video Communications, Inc. ("Zoom"), 55 Almaden
+Blvd. Suite 600, San Jose, CA 95113, USA, on whose platform the webinars are held. You can contact the
+company through privacy@zoom.us.
+---
+•
+Job applications: In order to process your application data, it will be forwarded to the service provider
+Localyze UG (haftungsbeschränkt), Bäckerbreitergang 28, 20355 Hamburg, which carries out the Pre-
+Check on behalf of DeepL. You can contact the company through bohoerdenmdelung@dataguard.de.
+---
+•
+Job applications: In order to process your application data, it will be forwarded to the service provider
+Recruitee B.V., Keizersgracht 313, 1016 EE Amsterdam, The Netherlands, which operates the application
+--- [PAGE BREAK] ---
+system. You can contact the company through hello@recruitee.com.
+---
+• Job applications: In particular applications for developer positions, the applicant's name and email
+address may be forwarded to the service provider Codesse Ltd., FF28, Kao Hockham Building, Edinburgh
+Way, Harlow, Essex, CM20 2NQ, United Kingdom, which provides services regarding the provision and
+review of coding challenges during an application. You can contact the company through
+rick@codesse.com

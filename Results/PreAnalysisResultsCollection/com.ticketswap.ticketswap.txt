@@ -1,0 +1,118 @@
+In this Privacy Statement we explain which personal data we collect through our Services,
+Website and App. We also explain for which purposes we use personal data, how we secure
+them and how long we store them. At the bottom of this Privacy Statement we explain what
+rights you have regarding your personal data and how you can exercise these rights.
+---
+Which personal data do we collect and for which purposes do we use them?
+--- [PAGE BREAK] ---
+We can collect various sorts of personal data of you when you use our Website, App and/or
+Services:
+---
+| (Personal) Data | Purpose(s) |
+|---|---|
+| General Information Name, date of birth, gender, city and country of residence, telephone number, email address,avatar and any personal data that you include in your account or feedback | We use • your general information to contact you in the right manner; • your personal data that is visible on the tickets you upload in the import feature, to enable you to easily store tickets centrally and share them with friends. • your email address to send you information and updates about your transaction(s); Based on your (optional) consent we may also send you information about topics that might be interesting or request your feedback on new functions; • your avatar, city and country of residence to personalize your account; • your telephone number to check whether it is real and it belongs to you. When you sell tickets, the verification of your phone number (and not the number itself) will be shown on our Websites to make buying second hand tickets safer for (potential) buyers. When your ticket is sold we send a text message to your telephone number. • when you use our SecureSwap service, we may share certain personal data with the relevant ticket provider to enable them to issue, manage, and verify your tickets. The specific personal data shared depends on the organizer's requirements for personalization and may include details such as your name, contact information, date of birth and gender. • depending on your consent, we may share your registration details (for example your name, email address) and your interests and purchase history with selected event partners, so they can send you marketing communication based on your interests. |
+--- [PAGE BREAK] ---
+| Payment and Country Information Payment Information Bank account, tokenized payment details and bank account holder name. Country Information the country of residence provided by you, your IP- address, the prefix of your phone number, the country code of your IBAN and the country of the event | We use • your payment information to handle, check and administer your payments. • the payment information to include it in our administration on behalf of the tax authorities. • the country information to determine in which country VAT is due. |
+|---|---|
+| Know Your Customer (KYC) Standard verification | We use • Based on the country of your bank, we are required to ask some of personal details, which are processed and verified by Stripe: • City • Address • Postal code • State • Date of birth • Last 4 digits of Social Security Number (SSN) |
+|---|---|
+| Additional verification | • When Stripe performs additional verifications, more information is requested and handled by Stripe (documents are not shared with TicketSwap): • Copy of identity document • Proof of Home Address |
+--- [PAGE BREAK] ---
+| Social Media Information Apple Login | We use • Your name and email address to (enable you to) complete your account. Depending on your Apple security session we either get your real email address or Apple relay email address. |
+|---|---|
+| Facebook app specific ID and Twitter ID | • Your Facebook ID, avatar, name, Facebook email address, friends and your residence to (enable you to) complete your account (optional). These "Facebook data" will be shown on our Websites and mobile apps when you sell tickets to make buying second hand tickets safer for (potential) buyers. We further use Facebook IDs for marketing purposes, as described further in this document. • Your Twitter ID, username, name, location, followers count, friends count, number of status updates, security status, verification status and account creation date to complete your account. The “Twitter data" will be shown on our Websites and mobile apps when you sell tickets to make buying second hand tickets safer for (potential) buyers. |
+|---|---|
+| Google Login | • Your Google ID, Google Mail. First Name, Last Name, Location, This "Google data" will be shown on our Websites and mobile apps when you sell tickets to make hand tickets safer for (potential) buyers. We further use Google Mail and Google ID for marketing purposes, as described further in this document. |
+|---|---|
+| Instagram | • Your Instagram Public profile will be used by TicketSwap Apps based on the user consent. We may use Instagram public profile for some marketing purposes as described further in this Privacy Statement. |
+|---|---|
+| Electronic Identifiers | We use |
+--- [PAGE BREAK] ---
+| IP address, cookies and pixels | • Your IP address, cookies and pixels in order to communicate with you in a language you speak and to show you content that relates to your location. • Your IP address to define your location for the purpose of determining in which country a transaction takes place so we pay VAT in the correct country. |
+|---|---|
+| Fraud Prevention Personal and technical information | We use • We use personal data to prevent (users that have committed) fraud. |
+|---|---|
+| Health and safetyName and e-mail address | We use • your (sur)name and e-mail address are send to event organizers when it is necessary for the event organizer to safeguard the health and safety of their visitors. Examples include (but are not limited to) communication with visitors on severe weather, terrorism, transport issues, event ingress and egress updates, health, safety and hygiene and Covid-19 requirements, as well as insurance requirements. |
+|---|---|
+| Account Activity | We use • certain information regarding your account activity to be visible to other users. This may include your (user)name, whether you are selling a ticket back to an Event Organizer, the number of sales you have made, and the reviews posted about you or your ads. |
+---
+Why can we process your personal data?
+We process your personal data on the following legal bases:
+• Consent: For sending newsletters and direct marketing through email, push notifications
+and marketing via other channels we request your permission. This permission can also
+--- [PAGE BREAK] ---
+easily be withdrawn through the unsubscribe link in each newsletter or by going to your
+account settings and disabling the toggle for email preferences.
+• Performance of the agreement: We process your general information, payment
+information, social information and electronic identifiers to provide our Services to you as a
+user.
+• Legal obligation: We are required to store certain general information and payment data in
+our records for Tax Authorities, such as invoice data, bank account details, phone number
+and your country of residence.
+• Legitimate interest: For processing general information, social information and electronic
+identifiers, in order to log user activities to identify and prevent unlawful use of the account
+and Services. As part of this, we may use your personal data for purposes of A/B testing to
+improve our services and user experience. To fulfill our tax obligations, we process various
+(personal) data to determine where a transaction took place (and consequently, VAT is
+due), namely the country of residence provided by you, your IP-address, the prefix of your
+phone number, the country code of your IBAN and the country of the event.Further, we
+share your name and e-mail address with event organizers to allow them to send
+information about cancellation, change of an event and health and safety during the event.
+In case you have purchased an e-ticket through SecureSwap services provided by the
+event organizer, we may share your email address with the organizer of the event to allow
+the organizer to update you on new events.
+--- [PAGE BREAK] ---
+Depending on your (optional) consent, we may use the content of any user reviews you
+submit to our website for marketing purposes on our website and third party websites. You
+may object to this processing at any time by sending an email to privacy@ticketswap.com.
+---
+Social Features
+TicketSwap offers social features to make your experience on our platform more personal
+and interactive. When you use these social features and add the following information, we
+process the following personal data based on your consent:
+• Profile Information: You may choose to provide profile information such as your username,
+bio, profile picture, and your favorite artists or events you are following.
+• Following and Followers: You can follow other users or be followed by them. You can
+control whether your profile is public or only visible to approved followers.
+• Visibility of Activities: Depending on your privacy settings, other users may see which
+artists and events you follow.
+We use this data to:
+• Display your profile on the platform to other users in social features, according to your
+privacy preferences.
+• Enable you to make social connections with other users.
+• Improve our recommendations based on the artists and events you follow.
+--- [PAGE BREAK] ---
+We use the services of “Processors” for the processing of (personal) data. Within this context
+these Processors receive personal data from us which they process on our behalf and for
+our purposes. We use, for instance, processors for hosting our data, assisting us in support
+services, providing (marketing and platform) analytics and insights and sending out mass
+communication (e.g. via mail and SMS). One example of a third-party processor that we use is
+OpenAl. We use OpenAl for extracting information from tickets that are uploaded by our
+users. The output from OpenAl will help our users with automatically filling in details about a
+ticket including event title, ticket category and ticket price.
+---
+Payments: Your Payment will be processed via a third-party payment service provider. We
+currently use Stripe and Wise for providing this service. Any personal data you provide to this
+payment provider will be processed by the payment provider (as separate Controller) in
+accordance with their own privacy policies.
+---
+Tax authorities: We are legally obliged to include (some of) the personal data in our financial
+administration, which may have to be shared with various national tax authorities. The tax
+--- [PAGE BREAK] ---
+Ticket providers: For the SecureSwap services, TicketSwap and ticket providers act as a
+separate Controller. Any personal data you provide will be processed by the ticket provider
+in accordance with their own privacy policies.TicketSwap is the first point of contact for
+executing your rights as described in this Privacy Statement in relation to the personal data
+processed for the SecureSwap services. Where appropriate, TicketSwap (or the ticket
+provider) may refer you to the other party, if you can exercise your rights more quickly or
+effectively with that other party.
+---
+Cookies
+--- [PAGE BREAK] ---
+We use cookies on the Website to enhance your experience when you use our Services. To
+know more about our use of cookies, please refer to our cookie statement.
+---
+If you do not want cookies to be sent to your computer, you can change this in the cookie
+settings of your browser. Please note that some of the functions or services of our Website
+may not operate, or not so well, without cookies. If you want to opt-out from tracking
+cookies, click here:

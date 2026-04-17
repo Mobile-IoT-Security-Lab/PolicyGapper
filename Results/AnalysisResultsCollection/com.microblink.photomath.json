@@ -1,0 +1,59 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Usage data: We collect information on the ways in which you use the Service, such as how long you spend on certain parts on the Service. This information helps us understand better how people use our Service and how we can improve their user experience. Additionally, details of transactions you carry out through the Service, such as in-app purchase history or math problems, may also be collected. Such information might be stored on a device storage and sent to the Service servers;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We collect information you provide directly to us. In particular, we may collect the following information from our users that may, in certain circumstances, constitute personal data:\n• Images and text you send for the purpose of providing feedback about the Service;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "•\nYour email address, screen name and age, if you chose to register and are of eligible age for registering a Photomath account;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "•\nYour email address, screen name and age, if you chose to register and are of eligible age for registering a Photomath account;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Subscription information. When you subscribe or choose to use our paid Services, you will provide us or our payment service provider with information such as credit or debit card number or other financial information; and",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "• Subscription information. When you subscribe or choose to use our paid Services, you will provide us or our payment service provider with information such as credit or debit card number or other financial information; and",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "•\nLocation data: We may collect, use and share location data, including the real-time geographic location of your device, in connection with your use of the Service, for example using IP address, satellite, cell phone tower or WiFi signals. The location information may be used as part of certain features of the Service, such as for example to change default language shown in the Service. By using the Service, you consent to the collection of your location information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "•\nLocation data: We may collect, use and share location data, including the real-time geographic location of your device, in connection with your use of the Service, for example using IP address, satellite, cell phone tower or WiFi signals. The location information may be used as part of certain features of the Service, such as for example to change default language shown in the Service. By using the Service, you consent to the collection of your location information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We collect information you provide directly to us. In particular, we may collect the following information from our users that may, in certain circumstances, constitute personal data:\n• Images and text you send for the purpose of providing feedback about the Service;\n•\n•\nYour email address, if you choose to subscribe to our mailing list, request support or provide feedback about the Service;\nYour email address, screen name and age, if you chose to register and are of eligible age for registering a Photomath account;\n• Subscription information. When you subscribe or choose to use our paid Services, you will provide us or our payment service provider with information such as credit or debit card number or other financial information; and\n• Any other information you choose to provide to us or in the Service during a promotion or similar event – we use information you provide for that purpose only.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "If you contact us or our customer care team, we will collect the data you provide. A record of this correspondence may also be kept to ensure a high quality customer service.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Images or videos taken from the camera: We use images and videos taken with your device camera through the app. This information is used to recognize and solve a problem you are trying to solve. This information together with derivatives is used for problem indexing and might be used for testing and improving the quality and features of the Service. Such information might be stored on device storage and sent to the Service servers when your device is connected to a Wi-Fi network. Using a wi-fi network might incur additional charges.",
+      "lang": "en"
+    }
+  ]
+}

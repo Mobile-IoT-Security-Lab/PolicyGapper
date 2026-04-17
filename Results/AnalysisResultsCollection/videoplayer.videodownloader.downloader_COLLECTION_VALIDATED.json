@@ -1,0 +1,42 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Analytics: We use a third party analytics tool, Google Analytics, to help us measure traffic and usage trends for the service. Google Analytics collects information such as how often users visit our services, what pages they visit when they do so, and what other pages they use prior to coming to our services. We use the information we get from Google Analytics only to improve our services.",
+      "justification": "The policy states that Google Analytics collects data on 'what other pages they use prior to coming to our services.' This is a form of web browsing history sent off-device to a third party and must be declared as collected.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We collect your information that you voluntarily provide to us when you use the app, express an interest in obtaining information about us or our apps, when you participate in activities on the app, or send us feedback. The information that we collect depends on the context of your interactions with us and the app. User information we collect may include: email address & user name.",
+      "justification": "The policy explicitly states that 'user name' is collected when voluntarily provided by the user. This data is sent to the developer and must be declared.",
+      "how_to_fix": "Declare 'Name' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We collect your information that you voluntarily provide to us when you use the app, express an interest in obtaining information about us or our apps, when you participate in activities on the app, or send us feedback. The information that we collect depends on the context of your interactions with us and the app. User information we collect may include: email address & user name.",
+      "justification": "The policy explicitly states that 'email address' is collected when voluntarily provided by the user. This data is sent to the developer and must be declared.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "During the usage of the app, the data and information collected (through third-party products) on your phone in case of an error in the app called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when using the app, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states that 'Log Data' containing the device's IP address is collected. An IP address can be used to determine a user's approximate location, and this data is sent off-device for analysis. This qualifies as collection.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Opting for our login via a third-party platform like Google allows us to gather certain details automatically including your account name, email & public profile.",
+      "justification": "The policy states that the user's 'email' is gathered during third-party login. This data is collected by the developer and must be declared.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

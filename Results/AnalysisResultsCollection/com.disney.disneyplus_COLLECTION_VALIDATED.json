@@ -1,0 +1,91 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Information you provide in public forums on our sites and applications, such as your public posts;",
+      "justification": "The privacy policy states this data is collected from users of the app in public forums.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Activity information about your use, and the use by any person(s) you authorize through your account (for example, through the creation of profiles under your Disney+ or Hulu account), of our sites and applications, such as the content you view or post, how often you use our services, and your preferences;",
+      "justification": "The privacy policy states that activity information, such as content viewed or posted, is collected from the app.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Usage, viewing, technical, and device data when you visit our sites, use our applications on third-party sites or platforms, or open emails we send, or connect with our wireless Internet access services and other similar technologies, including your browser or device type, unique device identifier, and IP address;",
+      "justification": "The privacy policy states that usage, technical, and device data (including device identifiers and IP address) are collected when using the applications.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Registration information you provide when you create an account, enter a promotion, or link your profile on a third-party site or platform with your registration account, such as your first name and surname, country of residence, gender, date of birth, email address, username, and password;",
+      "justification": "The privacy policy states that name is collected as part of the registration information.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Transaction information you provide when you request information, contact Guest Services, or purchase, return, request, or exchange a product or service from us, such as your postal address, telephone number, and payment information;",
+      "justification": "The privacy policy states that postal address is collected as part of transaction information.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Transaction information you provide when you request information, contact Guest Services, or purchase, return, request, or exchange a product or service from us, such as your postal address, telephone number, and payment information;",
+      "justification": "The privacy policy states that telephone number is collected as part of transaction information.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Transaction information you provide when you request information, contact Guest Services, or purchase, return, request, or exchange a product or service from us, such as your postal address, telephone number, and payment information;",
+      "justification": "The privacy policy states that payment information is collected as part of transaction information.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transaction information you provide when you request information, contact Guest Services, or purchase, return, request, or exchange a product or service from us, such as your postal address, telephone number, and payment information;",
+      "justification": "The privacy policy indicates that information about purchases, returns, and exchanges is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location information, including precise or approximate location information provided by a mobile or other device interacting with one of our sites, applications, or physical properties (including through beacon technologies), or associated with your IP address or other online or device identifier, where we are permitted by law to process this information;",
+      "justification": "The privacy policy states that precise location information is collected from mobile devices using the applications.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Information sent either one-to-one or within a limited group using our message, chat, post, or similar functionality, where we are permitted by applicable law to collect this information;",
+      "justification": "The privacy policy explicitly states it collects information sent via its message and chat functionality.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We collect information you provide to us when you request or purchase products, services, or information from us, register with us (including when you link your profile on a third-party site or platform with your registration account), participate in public forums or other activities on our sites and applications, respond to guest surveys, visit our physical properties, call our reservation centers or other guest services phone numbers, or otherwise interact with us using one or more devices. You may provide information in a variety of ways, including by typing or using voice commands.",
+      "justification": "The privacy policy states that information provided via 'voice commands' is collected when interacting with the service.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "We collect information you provide to us when you request or purchase products, services, or information from us, register with us (including when you link your profile on a third-party site or platform with your registration account), participate in public forums or other activities on our sites and applications, respond to guest surveys, visit our physical properties, call our reservation centers or other guest services phone numbers, or otherwise interact with us using one or more devices. You may provide information in a variety of ways, including by typing or using voice commands.",
+      "justification": "The privacy policy states that information provided via 'voice commands' is collected, which constitutes audio data.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

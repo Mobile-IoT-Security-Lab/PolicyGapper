@@ -1,0 +1,112 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may automatically track certain information about you based upon your behaviour on our app to the extent we deem fit.",
+      "justification": "The policy states the app tracks user behavior, which falls under 'App interactions'. This data is used for analytics and personalization, requiring it to be sent off-device.",
+      "how_to_fix": "Declare 'App interactions' in the 'App activity' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may automatically track certain information about you based upon your behaviour on our app to the extent we deem fit.",
+      "justification": "The policy states the app tracks user behavior, which can be categorized as 'Other actions'. This data is sent off-device for analysis.",
+      "how_to_fix": "Declare 'Other actions' in the 'App activity' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We use personal information to provide the services you request. We use your personal information to resolve disputes; troubleshoot problems; Send money etc.We use the information thus obtained to customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions which are an integral part of the use of this application; and as otherwise described to you at the time of such collection.",
+      "justification": "The policy mentions using data to troubleshoot problems and detect errors, which is classified as 'Diagnostics'. This requires sending performance and crash data off-device for analysis.",
+      "how_to_fix": "Declare 'Diagnostics' in the 'App performance' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We use personal information to provide the services you request. We use your personal information to resolve disputes; troubleshoot problems; Send money etc.We use the information thus obtained to customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions which are an integral part of the use of this application; and as otherwise described to you at the time of such collection.",
+      "justification": "The policy mentions using data to troubleshoot problems and detect fraud, which can be classified as 'Other app performance data'. This data is sent off-device for server-side analysis.",
+      "how_to_fix": "Declare 'Other app performance data' in the 'App performance' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We retain this information as necessary to resolve disputes in terms of transactions and otherwise, where needed, provide customer support and troubleshoot problems as permitted by law. We collect personally identifiable information (Name, phone number, account number etc.) from you when you register with us to create your unique identification in terms of a Mobile banking transactions pin and/or Application Password and/or any other unique registration identification that is/shall be made available to our customers.",
+      "justification": "The policy explicitly states that 'Name' is collected during registration. Registration data is sent off-device to create and manage the user's account.",
+      "how_to_fix": "Declare 'Name' in the 'Personal info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We retain this information as necessary to resolve disputes in terms of transactions and otherwise, where needed, provide customer support and troubleshoot problems as permitted by law. We collect personally identifiable information (Name, phone number, account number etc.) from you when you register with us to create your unique identification in terms of a Mobile banking transactions pin and/or Application Password and/or any other unique registration identification that is/shall be made available to our customers.",
+      "justification": "The policy explicitly states that 'Phone number' is collected during registration. This data is sent off-device to create and verify the user's account.",
+      "how_to_fix": "Declare 'Phone number' in the 'Personal info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We retain this information as necessary to resolve disputes in terms of transactions and otherwise, where needed, provide customer support and troubleshoot problems as permitted by law. We collect personally identifiable information (Name, phone number, account number etc.) from you when you register with us to create your unique identification in terms of a Mobile banking transactions pin and/or Application Password and/or any other unique registration identification that is/shall be made available to our customers.",
+      "justification": "The policy mentions collecting 'account number' and creating a 'unique identification', which corresponds to 'User IDs'. This data is sent off-device for account management.",
+      "how_to_fix": "Declare 'User IDs' in the 'Personal info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We retain this information as necessary to resolve disputes in terms of transactions and otherwise, where needed, provide customer support and troubleshoot problems as permitted by law. We collect personally identifiable information (Name, phone number, account number etc.) from you when you register with us to create your unique identification in terms of a Mobile banking transactions pin and/or Application Password and/or any other unique registration identification that is/shall be made available to our customers.",
+      "justification": "The policy states the app collects 'account number' for 'Mobile banking transactions', which falls under 'User payment info'. This financial data is processed off-device.",
+      "how_to_fix": "Declare 'User payment info' in the 'Financial info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "When you use our IOB Mobile application, we will collect information about the device in which the App is installed on (e.g. Device identification numbers (ie IMEI), Android versions, device model) and your account with us and associated transaction and store your personal information provided by you from time to time. We do so to ensure that you are provided a safe, efficient, smooth and seamless experience. This also allows us to understand your needs and provide for services and features that best suit them. We strive to provide for customizations on our application to ensure that your experience is always safer and easier.",
+      "justification": "The policy states the app collects information about the user's account and 'associated transaction', which is equivalent to 'Purchase history'. This data is stored and processed off-device.",
+      "how_to_fix": "Declare 'Purchase history' in the 'Financial info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• ACCESS_COARSE_LOCATION – The Coarse location provides less accurate locations when in a battery save mode.",
+      "justification": "The policy states the app requests the 'ACCESS_COARSE_LOCATION' permission. For features like fraud detection or finding nearby branches, this data must be sent off-device. The policy does not state it is processed only locally.",
+      "how_to_fix": "Declare 'Approximate location' in the 'Location' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• ACCESS_FINE_LOCATION – To get a precise location using both GPS_PROVIDER and NETWORK_PROVIDER.",
+      "justification": "The policy states the app requests the 'ACCESS_FINE_LOCATION' permission. This is typically sent off-device for location-based services or security. The policy does not state it is processed only locally.",
+      "how_to_fix": "Declare 'Precise location' in the 'Location' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "By Accepting Privacy policy you are agreeing to provide the below permissions required by the application:\nPRIVACY PERMISSIONS REQUIRED AND THEIR PURPOSE\n• ACCESS_FINE_LOCATION – To get a precise location using both GPS_PROVIDER and NETWORK_PROVIDER.\n• ACCESS_COARSE_LOCATION – The Coarse location provides less accurate locations when in a battery save mode.\n• ACCESS_WIFI_STATE – To access information about Wi-Fi networks.\n• ACCESS_NETWORK_STATE – To access internet connection via Direct Internet\n• INTERNET – for accessing internet,SSL certificate verification.\n• READ_EXTERNAL_STORAGE - To read the saved Profile image files from device gallery.\n• SEND_SMS, Telephony – To verify user's mobile number.\n• WRITE_EXTERNAL_STORAGE - Application requires this permission since application allowing to set the customer profile picture in the application. In this scenario, user can select the picture from the device SD card and Social sharing, PDF download, Camera access for external storage.\n• CAMERA - to take picture for customer profile image purpose.\n• READ_PHONE_STATE – to access sim serial number of user to provide an option to user to send an SMS from available SMS providers.\n• READ_CONTACTS, WRITE_CONTACTS, GET_ACCOUNTS -Getting contact details to use Mobile to Mobile beneficiary registration.\n• USE_FINGERPRINT-to provide Bio metric login authentication.\n• RECEIVE_BOOT_COMPLETED, ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION-to get location details and dependency.\n• VIBRATE,GPS, ACCESS_NETWORK_STATE- To get internet information.\n• READ_PHONE_STATE-To get Sim details for verification.\n• BLUETOOTH-To Diagnostic plugin dependency (IOS).\n• CALL_PHONE- Making phone call.\n• VOICE_RECORD-To provide voice assistance service.",
+      "justification": "The policy states the app uses the 'SEND_SMS' permission to verify the user's mobile number. This process involves communication with a server, thus the data is sent off-device.",
+      "how_to_fix": "Declare 'SMS or MMS' in the 'Messages' section of the Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "By Accepting Privacy policy you are agreeing to provide the below permissions required by the application:\nPRIVACY PERMISSIONS REQUIRED AND THEIR PURPOSE\n• ACCESS_FINE_LOCATION – To get a precise location using both GPS_PROVIDER and NETWORK_PROVIDER.\n• ACCESS_COARSE_LOCATION – The Coarse location provides less accurate locations when in a battery save mode.\n• ACCESS_WIFI_STATE – To access information about Wi-Fi networks.\n• ACCESS_NETWORK_STATE – To access internet connection via Direct Internet\n• INTERNET – for accessing internet,SSL certificate verification.\n• READ_EXTERNAL_STORAGE - To read the saved Profile image files from device gallery.\n• SEND_SMS, Telephony – To verify user's mobile number.\n• WRITE_EXTERNAL_STORAGE - Application requires this permission since application allowing to set the customer profile picture in the application. In this scenario, user can select the picture from the device SD card and Social sharing, PDF download, Camera access for external storage.\n• CAMERA - to take picture for customer profile image purpose.\n• READ_PHONE_STATE – to access sim serial number of user to provide an option to user to send an SMS from available SMS providers.\n• READ_CONTACTS, WRITE_CONTACTS, GET_ACCOUNTS -Getting contact details to use Mobile to Mobile beneficiary registration.\n• USE_FINGERPRINT-to provide Bio metric login authentication.\n• RECEIVE_BOOT_COMPLETED, ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION-to get location details and dependency.\n• VIBRATE,GPS, ACCESS_NETWORK_STATE- To get internet information.\n• READ_PHONE_STATE-To get Sim details for verification.\n• BLUETOOTH-To Diagnostic plugin dependency (IOS).\n• CALL_PHONE- Making phone call.\n• VOICE_RECORD-To provide voice assistance service.",
+      "justification": "The policy states the app uses the 'VOICE_RECORD' permission for a voice assistance service. Such services require sending audio data off-device for processing.",
+      "how_to_fix": "Declare 'Voice or sound recordings' in the 'Audio' section of the Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "By Accepting Privacy policy you are agreeing to provide the below permissions required by the application:\nPRIVACY PERMISSIONS REQUIRED AND THEIR PURPOSE\n• ACCESS_FINE_LOCATION – To get a precise location using both GPS_PROVIDER and NETWORK_PROVIDER.\n• ACCESS_COARSE_LOCATION – The Coarse location provides less accurate locations when in a battery save mode.\n• ACCESS_WIFI_STATE – To access information about Wi-Fi networks.\n• ACCESS_NETWORK_STATE – To access internet connection via Direct Internet\n• INTERNET – for accessing internet,SSL certificate verification.\n• READ_EXTERNAL_STORAGE - To read the saved Profile image files from device gallery.\n• SEND_SMS, Telephony – To verify user's mobile number.\n• WRITE_EXTERNAL_STORAGE - Application requires this permission since application allowing to set the customer profile picture in the application. In this scenario, user can select the picture from the device SD card and Social sharing, PDF download, Camera access for external storage.\n• CAMERA - to take picture for customer profile image purpose.\n• READ_PHONE_STATE – to access sim serial number of user to provide an option to user to send an SMS from available SMS providers.\n• READ_CONTACTS, WRITE_CONTACTS, GET_ACCOUNTS -Getting contact details to use Mobile to Mobile beneficiary registration.\n• USE_FINGERPRINT-to provide Bio metric login authentication.\n• RECEIVE_BOOT_COMPLETED, ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION-to get location details and dependency.\n• VIBRATE,GPS, ACCESS_NETWORK_STATE- To get internet information.\n• READ_PHONE_STATE-To get Sim details for verification.\n• BLUETOOTH-To Diagnostic plugin dependency (IOS).\n• CALL_PHONE- Making phone call.\n• VOICE_RECORD-To provide voice assistance service.",
+      "justification": "The policy states the app uses 'READ_EXTERNAL_STORAGE' to access profile images. Uploading a profile picture involves sending the file off-device to a server.",
+      "how_to_fix": "Declare 'Files and docs' in the 'Files and docs' section of the Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "By Accepting Privacy policy you are agreeing to provide the below permissions required by the application:\nPRIVACY PERMISSIONS REQUIRED AND THEIR PURPOSE\n• ACCESS_FINE_LOCATION – To get a precise location using both GPS_PROVIDER and NETWORK_PROVIDER.\n• ACCESS_COARSE_LOCATION – The Coarse location provides less accurate locations when in a battery save mode.\n• ACCESS_WIFI_STATE – To access information about Wi-Fi networks.\n• ACCESS_NETWORK_STATE – To access internet connection via Direct Internet\n• INTERNET – for accessing internet,SSL certificate verification.\n• READ_EXTERNAL_STORAGE - To read the saved Profile image files from device gallery.\n• SEND_SMS, Telephony – To verify user's mobile number.\n• WRITE_EXTERNAL_STORAGE - Application requires this permission since application allowing to set the customer profile picture in the application. In this scenario, user can select the picture from the device SD card and Social sharing, PDF download, Camera access for external storage.\n• CAMERA - to take picture for customer profile image purpose.\n• READ_PHONE_STATE – to access sim serial number of user to provide an option to user to send an SMS from available SMS providers.\n• READ_CONTACTS, WRITE_CONTACTS, GET_ACCOUNTS -Getting contact details to use Mobile to Mobile beneficiary registration.\n• USE_FINGERPRINT-to provide Bio metric login authentication.\n• RECEIVE_BOOT_COMPLETED, ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION-to get location details and dependency.\n• VIBRATE,GPS, ACCESS_NETWORK_STATE- To get internet information.\n• READ_PHONE_STATE-To get Sim details for verification.\n• BLUETOOTH-To Diagnostic plugin dependency (IOS).\n• CALL_PHONE- Making phone call.\n• VOICE_RECORD-To provide voice assistance service.",
+      "justification": "The policy states the app uses 'READ_CONTACTS' for beneficiary registration. This feature requires sending selected contact information off-device to be stored with the user's account.",
+      "how_to_fix": "Declare 'Contacts' in the 'Contacts' section of the Data Safety form.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

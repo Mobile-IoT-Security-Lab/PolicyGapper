@@ -1,0 +1,49 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "9.1. In order to guarantee an optimal level of usability and performance and to ensure relevance of promoted services, the Company uses cookies and similar technologies in order to track the interaction of Clients with the App. This section explains the different types of cookies that may be set when the Client uses the App, helping to understand and manage them as the Client wishes.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "The Client can connect the Client's account to a social network (including but not limited to Facebook) by way of registering through the corresponding social network. After connecting the Client's account in a social network, the Client would be able to add the personal information from the Client's profile in the corresponding social network to the Client's profile in the Service. The following information could be received by the Client from the social network: the Client's name, ID within the respective social network, photo, email address, IP address, phone number, age, gender, preferred language, country, information about the Client's device, location, list of friends in the social network, data on the use of other networks (as contained in the respective social network). By connecting the Client's account with the Company to a social network, the Client gives explicit consent to the processing of the Client's Personal Data contained in the Client's account in the respective social network.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Some of the information provided by the Client may be referred to as belonging to Special categories of Personal Data, pursuant to legislation of certain jurisdictions within the EU, such as the Client's racial or ethnic origin, sexual orientation, political opinions or religious or philosophical beliefs. By placing such information in the Client's account, the Client consents to the processing of the information by the Service.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Some of the information provided by the Client may be referred to as belonging to Special categories of Personal Data, pursuant to legislation of certain jurisdictions within the EU, such as the Client's racial or ethnic origin, sexual orientation, political opinions or religious or philosophical beliefs. By placing such information in the Client's account, the Client consents to the processing of the information by the Service.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "When completing the Client's profile, the Client could provide additional information, such as details on the Client's physical characteristics (including height, weight, body type and sexual preferences), background (including education, financial situation, housing situation and ownership of a vehicle), personality (including purpose of acquaintance, sociability and attitude towards children), lifestyle (including attitude towards alcohol and smoking), date of birth, interests and other details about the Client, as well as content, such as pictures and photos.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "3.1.3. Personal Data collected from third parties:\nThe Client can connect the Client's account to a social network (including but not limited to Facebook) by way of registering through the corresponding social network. After connecting the Client's account in a social network, the Client would be able to add the personal information from the Client's profile in the corresponding social network to the Client's profile in the Service. The following information could be received by the Client from the social network: the Client's name, ID within the respective social network, photo, email address, IP address, phone number, age, gender, preferred language, country, information about the Client's device, location, list of friends in the social network, data on the use of other networks (as contained in the respective social network). By connecting the Client's account with the Company to a social network, the Client gives explicit consent to the processing of the Client's Personal Data contained in the Client's account in the respective social network.",
+      "justification": "The privacy policy states that this data is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

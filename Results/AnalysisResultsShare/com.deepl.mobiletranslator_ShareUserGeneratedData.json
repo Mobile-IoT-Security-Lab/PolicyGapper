@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you use your business email address for creating an account with DeepL, we may share this email address with the holder of the company email domain associated with your email address. We will only do this, if the company has legitimate reasons to ask for this data e.g., is interested in purchasing DeepL Pro licenses for the whole company and has confirmed to us that email addresses under their company email domain may only be used for business purposes and may not be used for private purposes. In some cases, sharing of data may also include sharing of usage data associated with your account to allow the company to assess their specific need on DeepL Pro licenses. The sharing of this data is in DeepL's legitimate interest to best support our customers in the acquisition, roll-out and adoption of our paid services, Art. 6 para. 1 sentence 1 lit. f) GDPR.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "1. Categories of personal information collected. In connection with the Services, the personal information that Amazon collects, or has collected from you in the twelve months prior to the effective date of this Disclosure, falls into the following categories established by the California Privacy Rights Act:\no identifiers such as your name, address, phone numbers, driver's license or government-issued ID;\no information that may reveal or reflect age, gender, race, citizenship, immigration status, or other protected classifications, for example based on the information on an ID you provide for identity verification, such as your driver's license;\no internet or other electronic network activity information, including content interaction information, such as usage data and feedback you share in the Amazon Transportation Apps;\no biometric information, such as facial geometry or similar biometric identifiers if you have provided consent;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Information from your Transportation Company. Examples of information we may receive from your Transportation Company or its service providers, where permissible by local laws, include:\n• Information or documents provided by you to your Transportation Company, including work permits, registration with health insurance providers, your residence permit, your declaration that you are medically fit to perform the Services, and your national identification number;\n• Personnel administration data, including confirmation of completed safety trainings, pay slips, attendance data, your employment contract or contract for services; and\n• Information regarding whether you passed a background check, including a criminal check, and the results of drug or alcohol screening.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "Information from Amazon Transportation Technology. Examples of information we may collect and analyze through Amazon Transportation Technology include:\n• Route data, including when you pick up and deliver parcels or freight and your progress through delivery/shipment routes, activity classification (e.g. walking, driving), and data collected through device sensors such as position and movement;\n• Location data, including information about your geolocation and movement, and the device operating the Amazon Transportation App(s) as required for location-based services;\n• Vehicle operation and vehicle health information, including telematics data such as location of the vehicle or trailer/container, distance driven, speed, fuel usage or battery consumption, vehicle orientation, and operation of driver assistance technologies;\n• Road safety data, including driving behavior (e.g. harsh braking, cornering, acceleration, speeding), potential traffic violations, seatbelt use, and information related to accidents and other on-road incidents; and\n• Metrics such as your rate of successful or on time deliveries to enable us to manage your or your Transportation Company's compliance with agreed service standards.",
+      "lang": "English"
+    }
+  ]
+}

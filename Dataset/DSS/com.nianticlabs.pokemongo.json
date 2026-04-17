@@ -1,0 +1,110 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "App functionality, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Other info",
+      "optional": 0,
+      "purpose": "Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Precise location",
+      "optional": 0,
+      "purpose": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Location"
+    },
+    {
+      "data": "Fitness info",
+      "optional": 1,
+      "purpose": "App functionality, Fraud prevention, security, and compliance",
+      "type": "Health and fitness"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "App functionality, Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Advertising or marketing, Personalization",
+      "type": "Financial info"
+    },
+    {
+      "data": "Photos",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Other in-app messages",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Messages"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+      "type": "App activity"
+    },
+    {
+      "data": "Other user-generated content",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Committed to follow the Play Families Policy",
+      "description": "The developer has committed to follow the Play Families Policy for this app. <a href=\"https://support.google.com/googleplay/android-developer/answer/9893335\" target=\"_blank\">See the policy</a>"
+    }
+  ],
+  "privacyPolicyUrl": "https://nianticlabs.com/privacy/pokemongo/en"
+}

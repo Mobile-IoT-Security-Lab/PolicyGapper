@@ -1,0 +1,67 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Further, please also be informed that we will only disclose your personal information (which will not include information relating to your affairs or accounts) to third parties such as our merchants and strategic partners for marketing and promotional purposes where your express prior consent has been obtained and subject at all times to any laws (including regulations, guidelines and/or obligations) applicable to the TNGD Group.",
+      "justification": "The policy states personal information is disclosed to third-party 'merchants and strategic partners for marketing and promotional purposes.' This constitutes 'sharing' under Google Play's Data Safety policy and is not covered by exemptions.",
+      "how_to_fix": "In the Data Safety form, declare that this data type is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Further, please also be informed that we will only disclose your personal information (which will not include information relating to your affairs or accounts) to third parties such as our merchants and strategic partners for marketing and promotional purposes where your express prior consent has been obtained and subject at all times to any laws (including regulations, guidelines and/or obligations) applicable to the TNGD Group.",
+      "justification": "The policy states personal information is disclosed to third-party 'merchants and strategic partners for marketing and promotional purposes.' This constitutes 'sharing' under Google Play's Data Safety policy and is not covered by exemptions.",
+      "how_to_fix": "In the Data Safety form, declare that this data type is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Further, please also be informed that we will only disclose your personal information (which will not include information relating to your affairs or accounts) to third parties such as our merchants and strategic partners for marketing and promotional purposes where your express prior consent has been obtained and subject at all times to any laws (including regulations, guidelines and/or obligations) applicable to the TNGD Group.",
+      "justification": "The policy states personal information is disclosed to third-party 'merchants and strategic partners for marketing and promotional purposes.' This constitutes 'sharing' under Google Play's Data Safety policy and is not covered by exemptions.",
+      "how_to_fix": "In the Data Safety form, declare that this data type is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Further, please also be informed that we will only disclose your personal information (which will not include information relating to your affairs or accounts) to third parties such as our merchants and strategic partners for marketing and promotional purposes where your express prior consent has been obtained and subject at all times to any laws (including regulations, guidelines and/or obligations) applicable to the TNGD Group.",
+      "justification": "The policy states personal information is disclosed to third-party 'merchants and strategic partners for marketing and promotional purposes.' This constitutes 'sharing' under Google Play's Data Safety policy and is not covered by exemptions.",
+      "how_to_fix": "In the Data Safety form, declare that this data type is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "products and services. Our products and services may also use or offer products or services from third parties. Information collected by third parties, which may include such things as location data or contact details are governed by their privacy practices. This means, third party internet sites that you can link through our websites are not covered by our policy. Therefore, we encourage you to familiarise with those third parties' sites' privacy policies before using the links or applications and we urge you to be careful when you enter any personal information online. TNGD Group accepts no responsibility or liability for those sites.",
+      "justification": "The policy indicates that third parties collect location data and that this collection is 'governed by their privacy practices,' which means they are not acting as service providers. This is considered 'sharing' and must be declared.",
+      "how_to_fix": "In the Data Safety form, declare that 'Precise location' is 'Shared' with third parties. You must also identify the purpose of this sharing (e.g., Advertising or marketing, Analytics, etc.).",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "In providing you with our products and services and the management and/or operation of the same and/or for any of the purposes as set out in this Privacy Notice in relation to our use of your personal information, you consent and authorise us to disclose information about you and/or your accounts with us to:\n• all the entities within the TNGD Group;\n• all the entities within the TNG Group;\n• companies and/or persons that act as our agents, affiliates, service providers, contractors, merchants, business partners, lawyers, and/or professional advisers (including the employees, directors, sub-contractors, service providers, agents and professional advisors of all the aforesaid companies and/or persons);\n• companies, banks, financial institutions and/or organisations that assist us in processing and/or otherwise fulfilling transactions that you have requested;\n• companies and/or organisations that assist us in providing value added services;\n• companies and/or organisations that provide services to us in delivering or communicating information about our products and services to you;\n• any authority, central depository or depository agent in relation to the securities industry;\n• any insolvency department and our appointed debt recovery agents;\n• any other person under a duty of confidentiality to us which has undertaken to keep such information confidential;\n• any trustees, beneficiaries, administrators or executors;\n• your advisers (including but not limited to accountants, auditors, lawyers, financial advisers or other professional advisers) where authorised by you;",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is disclosed to entities like 'agents, service providers, contractors' who 'assist us in processing' transactions and 'providing value added services.' This describes a service provider relationship, which is exempt from disclosure as 'sharing' in the Data Safety section.",
+      "how_to_fix": "No action is needed in the Data Safety form for this specific policy clause, as sharing with service providers is not considered 'sharing.' However, you must ensure these entities contractually agree to only use the data on your behalf.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "In providing you with our products and services and the management and/or operation of the same and/or for any of the purposes as set out in this Privacy Notice in relation to our use of your personal information, you consent and authorise us to disclose information about you and/or your accounts with us to:\n• all the entities within the TNGD Group;\n• all the entities within the TNG Group;\n• companies and/or persons that act as our agents, affiliates, service providers, contractors, merchants, business partners, lawyers, and/or professional advisers (including the employees, directors, sub-contractors, service providers, agents and professional advisors of all the aforesaid companies and/or persons);\n• companies, banks, financial institutions and/or organisations that assist us in processing and/or otherwise fulfilling transactions that you have requested;\n• companies and/or organisations that assist us in providing value added services;\n• companies and/or organisations that provide services to us in delivering or communicating information about our products and services to you;\n• any authority, central depository or depository agent in relation to the securities industry;\n• any insolvency department and our appointed debt recovery agents;\n• any other person under a duty of confidentiality to us which has undertaken to keep such information confidential;\n• any trustees, beneficiaries, administrators or executors;\n• your advisers (including but not limited to accountants, auditors, lawyers, financial advisers or other professional advisers) where authorised by you;",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is disclosed to entities like 'agents, service providers, contractors' who 'assist us in processing' transactions and 'providing value added services.' This describes a service provider relationship, which is exempt from disclosure as 'sharing' in the Data Safety section.",
+      "how_to_fix": "No action is needed in the Data Safety form for this specific policy clause, as sharing with service providers is not considered 'sharing.' However, you must ensure these entities contractually agree to only use the data on your behalf.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "In providing you with our products and services and the management and/or operation of the same and/or for any of the purposes as set out in this Privacy Notice in relation to our use of your personal information, you consent and authorise us to disclose information about you and/or your accounts with us to:\n• all the entities within the TNGD Group;\n• all the entities within the TNG Group;\n• companies and/or persons that act as our agents, affiliates, service providers, contractors, merchants, business partners, lawyers, and/or professional advisers (including the employees, directors, sub-contractors, service providers, agents and professional advisors of all the aforesaid companies and/or persons);\n• companies, banks, financial institutions and/or organisations that assist us in processing and/or otherwise fulfilling transactions that you have requested;\n• companies and/or organisations that assist us in providing value added services;\n• companies and/or organisations that provide services to us in delivering or communicating information about our products and services to you;\n• any authority, central depository or depository agent in relation to the securities industry;\n• any insolvency department and our appointed debt recovery agents;\n• any other person under a duty of confidentiality to us which has undertaken to keep such information confidential;\n• any trustees, beneficiaries, administrators or executors;\n• your advisers (including but not limited to accountants, auditors, lawyers, financial advisers or other professional advisers) where authorised by you;",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is disclosed to entities like 'agents, service providers, contractors' who 'assist us in processing' transactions and 'providing value added services.' This describes a service provider relationship, which is exempt from disclosure as 'sharing' in the Data Safety section.",
+      "how_to_fix": "No action is needed in the Data Safety form for this specific policy clause, as sharing with service providers is not considered 'sharing.' However, you must ensure these entities contractually agree to only use the data on your behalf.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,235 @@
+2. Collecting and Using Your Personal Data
+Personal information refers to any type of information recorded electronically or otherwise relating to an identified or identifiable natural
+person, excluding information that has been anonymised. We may collect your personal data when you use our products or services or
+interact with us. Different types of data will be collected, depending on the service you use and your interactions with us. In some cases,
+you can choose not to provide such data, but this may prevent us from providing you with corresponding products or services, or
+may mean that we cannot respond to or resolve any issues you have raised.
+We take all reasonable and feasible measures to ensure that the personal data collected is minimal and relevant to what is
+necessary in relation to the purposes for which they are processed. Video Maker Music Video Editor may collect and use personal data
+as follows:
+(1) Personal data collected
+Video Maker Music Video Editor collects the following categories of personal data, which may be collected from you, through the
+collection forms in the ordering process or other processes.
+①Information you provide to us.
+•
+•
+•
+Account Information: We may ask that you provide certain information to us when you set up an account or profile on the Website,
+order the Application or contact us through the Website or Application for information or support. This information may include your
+email address, account name, or other personal identifier.
+Purchase Information: If you use features that involve payment, we and/or our payment providers, such as Google Pay and
+Apple Pay, may collect information about the purchase or payment transaction, such as order information, purchase token, the
+products you purchase, date and amount of the order, expiry date, currency code, country code.
+User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio,
+video recordings and chat history that you input, depending on the features you use.
+②Information we automatically collect when you visit our Services.
+• Device Information: This information may include your IP address (or other unique device identifier, including one that we may
+assign); certain details about your browser, operating system and hardware.
+•
+•
+•
+Location Information: When you access our Services through a mobile device, such as a mobile phone, we may collect your location
+from your device for security reasons and to provide a better service experience.
+Usage Data:We collect information about the products that you use and how you use them and your local device information,
+including but not limited to your device information (e.g. phone model and brand), operating system (system version, ID, and
+language), clicking and the URL that referred you to our Services.
+Log Data: We collect information that your browser or device automatically sends when you use our Services, such as IP
+address, the date, time and number of times of your visit, and event information (such as errors, crashes, restarts, and
+updates). We also use web server logs to collect and store information about service usage.
+③Third parties may use tracking technologies in connection with our Service, which may include the collection of information about your
+online activities over time and across third party websites.
+
+---
+(2) Purpose and legal basis of personal data processing
+1 Under the applicable data protection laws of a particular jurisdiction (e.g. GDPR), we must have a legal basis for processing
+information. For the various purposes described below in this Privacy Policy, Video Maker Music Video Editor explicitly describes the
+legal basis for each processing operation and the type of data processed:
+Purpose of processing
+Types of personal information processed
+legal basis
+Identification and authentication
+Providing the core functionality of the App
+Account Information
+Device Information
+Account Information
+Purchase Information
+User Content
+Device Information
+Location Information
+Usage Data
+Log Data
+Contractual necessity
+Contractual necessity
+Communicating with you
+To improve and develop our services and train
+and improve our technology, such as our
+machine learning models and algorithms
+Marketing and advertising
+To prevent fraud, illegal activity or misuse of
+our services and to protect the security of our
+systems and services
+To comply with legal obligations and protect
+the rights, privacy, safety or property of us, our
+users or third parties
+Account Information
+Purchase Information
+Account Information
+Purchase Information
+User Content
+Usage Data
+Account Information
+User Content
+Purchase Information
+Usage Data
+Log Data
+Account Information
+Device Information
+Location Information
+Usage Data
+Log Data
+Account Information
+Purchase Information
+User Content
+Device Information
+Location Information
+Usage Data
+Log Data
+Contractual necessity
+Legitimate interests
+Legitimate interests; Consent, where required by applicable laws
+Legitimate interests
+Legitimate interests; Legal obligation
+
+---
+① Sensitive information
+The prompts, text, images, audio recordings, videos and chat logs that you enter may be your personal sensitive data, and in order to
+provide you with certain features of our Services, we may collect, generate, access, store and use this sensitive information about you. We
+will only use this data to provide you with the applicable features, and by entering this sensitive information and sending us a request to
+generate it, you consent to us using it for the purposes set out in this Privacy Policy.
+
+---
+(1) Third party tracking tools: Video Maker Music Video Editor may use third party tracking tools (such as Google Firebase Analytics) to
+track the information on how users use the products and websites, such information will be stored in third party servers. Such third party
+track tools may send the data analysis report to Video Maker Music Video Editor for Video Maker Music Video Editor's above mentioned
+purpose. These third party tracking tools include but are not limited to the following;
+Our partner firebase SDK will collect the following information from you: IP address, Users' names,Email addresses, iOS
+UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump
+formatted data (NDK crashes only), Device specs (iOS). The above information will be used to uniquely identify the user to
+provide statistics and data analysis services. To learn more about the personal information protection of firebase currently
+involved in this situation, please click here. 【https://firebase.google.com/support/privacy】
+
+---
+7. Retention of Your Personal Data
+Video Maker Music Video Editor will seek to minimize the amount of personal information that it collects and maintains and will delete
+personal data once it is no longer needed for the purpose for which it was collected, for example if you input prompts, it will be deleted 48
+hours after the purpose of the service has been achieved (such as content generation). Unless we have received your request to delete your
+information, we will use the following criteria to determine the period for which we will keep your information:
+
+---
+(1) The right to be informed
+The User has the right to be provided with clear, transparent and easily understandable information about how Video Maker Music Video
+Editor collects and uses personal data and its rights. This is the reason why Video Maker Music Video Editor is providing the User with
+the information in this privacy policy.
+
+---
+9. Children's Privacy
+We do not knowingly collect personal information from individuals who are under the minimum required ages specified herein. You must
+be at least 13 years of age, or the age of majority in your jurisdiction (whichever is greater), to use our services. Individuals under the
+applicable age may use our services only through a parent or legal guardian's account and with their involvement. In accordance with the
+Child Online Privacy Protection Act, in the event that we learn that we have collected personal information from a child under age 13
+without verification of parental consent, we will delete that information as quickly as possible. If you are believes Video Maker Music
+Video Editor may have collected personal information regarding your child, you may ask us to delete such information by email us at
+developer@videoshowapps.com .
+
+---
+(3)If we have collected and processed your Personal Data with your consent, then you can withdraw your consent at any time.
+Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect
+processing of your Personal Data conducted in reliance on lawful processing grounds other than consent.
+(4)You have the right to complain to a data protection authority about our collection and use of your Personal Data.
+Please note that in order to protect your information, we will need to verify your identity before responding to any request to exercise your
+rights. In some cases we may need to collect additional information to verify your identity, such as e-mail address.
+
+---
+California
+California privacy laws require specific disclosures. The following sections of this section detail additional information about the types of
+personal data we collect and how we use and disclose this information. You can read more about the scope of the personal data we collect
+and how we use it in "Collecting and Using Your Personal Data" above.
+
+---
+Categories of personal data
+• As noted above, we
+collect the following
+information:
+• Account
+Information:
+such as your e-mail
+address, account name or
+other personal identifier.
+• Purchase Information:
+such
+as
+order
+information, proof of
+purchase, the product you
+purchased, the date and
+amount of the order, the
+product expiration time,
+the currency of the
+transaction and the
+exchange in country
+code.
+• User Content: such as
+prompts, text, images,
+audio recordings and
+videos that you enter,
+depending on the features
+you use.
+• Device Information: This
+information may include
+your IP address (or other
+unique device identifier,
+including one that we
+may assign); certain
+details about your
+browser, operating system
+and hardware.
+• Location Information:
+When you access our
+Services through a mobile
+device such as a cell
+phone, we may collect
+your location from your
+device for security
+reasons and to provide a
+better service experience.
+• Usage Data: such as
+information about your
+device (e.g., phone model
+and brand), operating
+system (system version,
+ID and language),
+operation, the URL that
+referred you to our
+Services.
+• Log data: such as IP
+address, date, time, and
+number of times you
+visit, event information
+(errors, crashes, reboots,
+and updates).
+
+---
+Your rights
+If you are a California resident and the CCPA does not recognize an exemption that applies to you or your Personal Information, you have
+the right to:
+(1) Request we disclose to you free of charge the following information covering the 12 months preceding your request:
+— the categories of Personal Information about you that we collected;
+— the categories of sources from which the Personal Information was collected and the purpose for collecting Personal Information about
+you;
+— the categories of third parties to whom we disclosed Personal Information about you and the categories of Personal Information that
+was disclosed (if applicable) and the purpose for disclosing the Personal Information about you; and
+(2) Request we delete Personal Information we collected from you, unless CCPA recognizes an exemption; and
+
+---
+Please note that in order to protect your information, we will need to verify your identity before responding to any request to exercise your
+rights. In some cases we may need to collect additional information to verify your identity, such as e-mail address.

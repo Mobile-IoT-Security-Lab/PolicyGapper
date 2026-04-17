@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may share your personal data with: ... Fraud and crime prevention agencies, to help fight fraud, money laundering and terrorist financing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We may share your personal data with: ... Fraud and crime prevention agencies, to help fight fraud, money laundering and terrorist financing.",
+      "lang": "English"
+    }
+  ]
+}

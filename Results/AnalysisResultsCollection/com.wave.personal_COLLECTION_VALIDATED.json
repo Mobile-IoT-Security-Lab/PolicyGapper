@@ -1,0 +1,79 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User communications: We collect the data submitted by users when they contact service support, including for the purpose of fulfilling user requests and addressing user complaints, and reporting on the same to regulatory authorities where this is required. Information collected may include feedback or other information submitted by users in connection with service support. We may also record telephone calls to our service support teams.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• Account information: We collect data when users create or update their Wave accounts. This may include their name, email, phone number, login name and password, address, and payment or banking information.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "• Account information: We collect data when users create or update their Wave accounts. This may include their name, email, phone number, login name and password, address, and payment or banking information.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Location data: To the extent permitted by applicable law, we may collect users' precise or approximate location data to prevent and detect fraud, and to satisfy legal requirements.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Location data: To the extent permitted by applicable law, we may collect users' precise or approximate location data to prevent and detect fraud, and to satisfy legal requirements.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• User communications: We collect the data submitted by users when they contact service support, including for the purpose of fulfilling user requests and addressing user complaints, and reporting on the same to regulatory authorities where this is required. Information collected may include feedback or other information submitted by users in connection with service support. We may also record telephone calls to our service support teams.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "• User communications: We collect the data submitted by users when they contact service support, including for the purpose of fulfilling user requests and addressing user complaints, and reporting on the same to regulatory authorities where this is required. Information collected may include feedback or other information submitted by users in connection with service support. We may also record telephone calls to our service support teams.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• Identity information: We collect data submitted by users to verify user identity in compliance with our legal obligations. This may include government identification documents such as passports and commercial registrations (which may indicate document numbers as well as birth date, gender, photograph and home address) and photo images of the user. For businesses, this may also include identification information for staff and legal representatives. This information may be collected by an authorized partner on Wave's behalf.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "• Contact list information: We may store user contact information within the application to facilitate payments to contacts and capture payment names in transaction records.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "• Account information: We collect data when users create or update their Wave accounts. This may include their name, email, phone number, login name and password, address, and payment or banking information.",
+      "reason_of_removal": "Inconsistent data_type and policy_reference",
+      "justification": "The policy mentions collecting a user's 'email' for account creation, which corresponds to the 'Email address' data type, not the 'Emails' data type (which implies the content of email messages).",
+      "how_to_fix": "If the app only collects the user's email address, this declaration is not needed. If the app collects the content of emails, the privacy policy must be updated to reflect this.",
+      "lang": "en"
+    }
+  ]
+}
+```

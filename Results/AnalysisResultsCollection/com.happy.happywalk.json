@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "a) Technical Information. When you use the App, we will collect certain technical information regarding your device, and your use of the Software, including the type, name and version of operating system: (i) Your configuration and settings of the Software, version of the Software; (ii) ISP (Internet Service Provider), Internet protocol (IP) address; (iii) Status of the WLAN; (iv) International Mobile Equipment Identity (IMEI) ; (v) Android ID.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "a) Technical Information. When you use the App, we will collect certain technical information regarding your device, and your use of the Software, including the type, name and version of operating system: (i) Your configuration and settings of the Software, version of the Software; (ii) ISP (Internet Service Provider), Internet protocol (IP) address; (iii) Status of the WLAN; (iv) International Mobile Equipment Identity (IMEI) ; (v) Android ID.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "a) Technical Information. When you use the App, we will collect certain technical information regarding your device, and your use of the Software, including the type, name and version of operating system: (i) Your configuration and settings of the Software, version of the Software; (ii) ISP (Internet Service Provider), Internet protocol (IP) address; (iii) Status of the WLAN; (iv) International Mobile Equipment Identity (IMEI) ; (v) Android ID.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "You have the right to access, modify, correct or delete any personal data which we may have collected. In order to exercise this right, please contact us through the email displayed below. If you are in the EEA, you have a right to (subject to a limited number of exceptions): (i) request access to and rectification or erasure of your personal information; (ii) obtain restriction of processing or to object to processing of your personal information; and (iii) ask for a copy of your personal information to be provided in a digital format. You also have the right to lodge a complaint about the processing of your personal information with your local data protection authority in the EEA. To exercise these rights please contact us through the email displayed below.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "a) Technical Information. When you use the App, we will collect certain technical information regarding your device, and your use of the Software, including the type, name and version of operating system: (i) Your configuration and settings of the Software, version of the Software; (ii) ISP (Internet Service Provider), Internet protocol (IP) address; (iii) Status of the WLAN; (iv) International Mobile Equipment Identity (IMEI) ; (v) Android ID.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "Permission to access to the calendar: In order for you to normally use certain functions of our App such as check-in function, we need access to the calendar of your device, and your refusal to grant us the permission will prevent you from using such functions.",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may share non-personally identifiable information publicly and with our partners like publishers, advertisers, developers, or rights holders. For example, we share information publicly to show trends about the general use of our services. We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies.",
+      "justification": "The policy states that specific partners are allowed to collect information from the user's device for advertising and measurement purposes. This constitutes sharing with third parties and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare in the Google Play Console that 'App interactions' data is 'Shared' with third parties for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "If you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "justification": "The policy explicitly states that domain administrators and resellers, who are third parties, can view statistics about the user's account, including the number of apps installed.",
+      "how_to_fix": "Declare in the Google Play Console that 'Installed apps' data is 'Shared' with third parties for 'Account management' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may share non-personally identifiable information publicly and with our partners like publishers, advertisers, developers, or rights holders. For example, we share information publicly to show trends about the general use of our services. We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies.",
+      "justification": "The policy states that specific partners are allowed to collect information about user actions for advertising and measurement purposes. This constitutes sharing with third parties and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare in the Google Play Console that 'Other actions' data is 'Shared' with third parties for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may share non-personally identifiable information publicly and with our partners like publishers, advertisers, developers, or rights holders. For example, we share information publicly to show trends about the general use of our services. We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies.",
+      "justification": "The policy states that partners can collect information from the user's browser for advertising and measurement, which can include web browsing activity. This is considered sharing with a third party.",
+      "how_to_fix": "Declare in the Google Play Console that 'Web browsing history' data is 'Shared' with third parties for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Measure performance\nWe use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to link information about your activity from that site or app with activity from other sites or apps that use our ad services.",
+      "justification": "While Google Analytics can be a service provider, the policy states that Google may be enabled to link activity with other sites/apps that use its ad services. This means Google is using the data for its own purposes beyond just providing analytics to the developer, making it a third-party sharing scenario.",
+      "how_to_fix": "Declare in the Google Play Console that 'Other app performance data' is 'Shared' with third parties for 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may share non-personally identifiable information publicly and with our partners like publishers, advertisers, developers, or rights holders. For example, we share information publicly to show trends about the general use of our services. We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies.",
+      "justification": "The policy states that partners collect information from the user's device using cookies or similar technologies for advertising. This method inherently involves the collection and sharing of device or other identifiers.",
+      "how_to_fix": "Declare in the Google Play Console that 'Device or other IDs' data is 'Shared' with third parties for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "With domain administrators\nIf you're a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:\n•\n•\nAccess and retain information stored in your account, like your email\nView statistics regarding your account, like how many apps you install\n•\nChange your account password\n•\nSuspend or terminate your account access\n•\n•\nReceive your account information in order to satisfy applicable law, regulation, legal\nprocess, or enforceable governmental request\nRestrict your ability to delete or edit your information or your privacy settings",
+      "justification": "The policy explicitly states that domain administrators and resellers, who are third parties, can access information in the user's account, including their email address.",
+      "how_to_fix": "Declare in the Google Play Console that 'Email address' data is 'Shared' with third parties for 'Account management' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We use your information to deliver our services, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.",
+      "reason_of_removal": "First-party use only, no sharing indicated",
+      "justification": "The policy describes using search terms to provide results, which is a first-party operation for core app functionality. It does not mention sharing this data with any third party.",
+      "how_to_fix": "This data use does not need to be declared as 'shared'. Ensure it is declared as 'collected' for 'App functionality'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If other users already have your email address or other information that identifies you, we may show them your publicly visible Google Account information, such as your name and photo. This helps people identify an email coming from you, for example.",
+      "reason_of_removal": "User-initiated action",
+      "justification": "The policy describes showing a user's profile information to another user who already knows their email address, typically as part of a user-initiated communication. This falls under the exemption for user-initiated actions and does not need to be declared as 'sharing'.",
+      "how_to_fix": "This data use does not need to be declared as 'shared' as it is covered by the user-initiated action exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment information. We ask families that want to pay and childcare providers that want to be paid to provide our payment provider with payment information, such as a bank account or credit card information to facilitate the processing of payments.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "If you want to create an account as a parent, we process the following (special) personal data of yours:\n•\nFirst and last name;\n•\nE-mail address;\n•\nPassword;\n• Address information;\n•\nPhone number;\n•\nBank account or credit card number (only the last 4 digits);\n• IP-address;\n•\n•\nIdentity document verification data;\nUser-ID (when you link an Apple, Google, LinkedIn and/or Facebook account\nto this platform, and depending on the settings on your account, data from\nyour registrations with these parties).",
+      "lang": "English"
+    }
+  ]
+}

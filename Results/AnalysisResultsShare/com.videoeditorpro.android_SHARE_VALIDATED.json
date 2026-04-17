@@ -1,0 +1,15 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "•Information push partners. In order to provide you with the information push function, the partner's SDK or other similar applications will be embedded in the software, and the relevant SDK retrieves your unique device ID (AndroidID) and a list of running applications.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is shared with 'Information push partners' via their SDK 'In order to provide you with the information push function'. This indicates the partner is a service provider processing data on the developer's behalf to enable a core app feature, which is exempt from disclosure as 'sharing' under Google Play's User Data Policy.",
+      "how_to_fix": "No action required. This sharing is with a service provider and does not need to be declared as 'sharing' in the Data Safety section, provided the partner is contractually bound to process data only on your behalf.",
+      "lang": "English"
+    }
+  ]
+}
+```

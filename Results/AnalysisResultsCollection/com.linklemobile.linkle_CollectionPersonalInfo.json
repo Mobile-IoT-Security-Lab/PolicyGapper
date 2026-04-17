@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We use payment providers (e.g., Apple, Google) to process payments. When you subscribe to a paid service or make a purchase directly from us, you provide our payment service provider or us with information, such as your debit or credit card number or other financial information. Although we do not store any credit card information ourselves, we store a payment ID number that is given out by the respective provider and can be allocated to a person by that payment provider, as well as duration of your subscription, price, currency, VAT (based on countr info), and payment provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We use payment providers (e.g., Apple, Google) to process payments. When you subscribe to a paid service or make a purchase directly from us, you provide our payment service provider or us with information, such as your debit or credit card number or other financial information. Although we do not store any credit card information ourselves, we store a payment ID number that is given out by the respective provider and can be allocated to a person by that payment provider, as well as duration of your subscription, price, currency, VAT (based on countr info), and payment provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "We use payment providers (e.g., Apple, Google) to process payments. When you subscribe to a paid service or make a purchase directly from us, you provide our payment service provider or us with information, such as your debit or credit card number or other financial information. Although we do not store any credit card information ourselves, we store a payment ID number that is given out by the respective provider and can be allocated to a person by that payment provider, as well as duration of your subscription, price, currency, VAT (based on countr info), and payment provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may use and share non-personal data (meaning data that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other third parties (notably advertisers) to develop and deliver targeted advertising on our products or applications of third parties, and to analyze and report on advertising you see. We may combine this data with additional non-personal information or personal data in hashed, non-human readable form collected from other sources.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Other information with your consent. If you give us permission, we can collect your precise geolocation (latitude and longitude) through various means, depending on the service and device you're using, including GPS, Bluetooth or Wi-Fi connections. The collection of your geolocation may occur in the background even when you aren't using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your geolocation, we will not collect it. Similarly, if you consent, we may collect your photos and videos (for instance, if you want to publish a photo, video or streaming on the services).",
+      "lang": "English"
+    }
+  ]
+}

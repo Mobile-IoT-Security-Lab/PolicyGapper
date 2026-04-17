@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We collect information you provide directly to us. For instance, in order to use a device, we require you to register for an account by providing your name, email address, and phone number. In order to customize and enhance your experience and the messages we send you, we may ask you to provide additional information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We collect information you provide directly to us. For instance, in order to use a device, we require you to register for an account by providing your name, email address, and phone number. In order to customize and enhance your experience and the messages we send you, we may ask you to provide additional information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We collect information you provide directly to us. For instance, in order to use a device, we require you to register for an account by providing your name, email address, and phone number. In order to customize and enhance your experience and the messages we send you, we may ask you to provide additional information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We also collect any information you provide when you sign up for our mailing list, purchase a device, register your device, request customer support, participate in any interactive features of the Services, communicate with us via third-party social media sites, apply for a job, or otherwise communicate with us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We also collect any information you provide when you sign up for our mailing list, purchase a device, register your device, request customer support, participate in any interactive features of the Services, communicate with us via third-party social media sites, apply for a job, or otherwise communicate with us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "When you use our device, we collect real-time audio and video data from the device. We utilize this data to detect and gather information on various vital signs, including physiological indicators, as well as to identify and collect data on entities and objects present in the scene",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "When you use our device, we collect real-time audio and video data from the device. We utilize this data to detect and gather information on various vital signs, including physiological indicators, as well as to identify and collect data on entities and objects present in the scene",
+      "lang": "English"
+    }
+  ]
+}

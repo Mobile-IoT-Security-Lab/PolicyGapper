@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "• Categories of Personal Information Collected/Disclosed: In the preceding 12 months, we may have collected and disclosed for a business purpose (and potentially \"sold” or “shared” for advertising purposes) the categories of personal information listed in Section 1 (Identifiers like name, email, device ID, IP address, Advertising ID; Internet or other electronic network activity information like usage data; Geolocation data; Commercial information like transaction history if applicable; Profile data like preferences).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• Categories of Personal Information Collected/Disclosed: In the preceding 12 months, we may have collected and disclosed for a business purpose (and potentially \"sold” or “shared” for advertising purposes) the categories of personal information listed in Section 1 (Identifiers like name, email, device ID, IP address, Advertising ID; Internet or other electronic network activity information like usage data; Geolocation data; Commercial information like transaction history if applicable; Profile data like preferences).",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• Categories of Personal Information Collected/Disclosed: In the preceding 12 months, we may have collected and disclosed for a business purpose (and potentially \"sold” or “shared” for advertising purposes) the categories of personal information listed in Section 1 (Identifiers like name, email, device ID, IP address, Advertising ID; Internet or other electronic network activity information like usage data; Geolocation data; Commercial information like transaction history if applicable; Profile data like preferences).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Categories of Personal Information Collected/Disclosed: In the preceding 12 months, we may have collected and disclosed for a business purpose (and potentially \"sold” or “shared” for advertising purposes) the categories of personal information listed in Section 1 (Identifiers like name, email, device ID, IP address, Advertising ID; Internet or other electronic network activity information like usage data; Geolocation data; Commercial information like transaction history if applicable; Profile data like preferences).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Advertising Partners: With ad networks and advertising partners to serve advertisements within the Application. This may involve sharing your Advertising ID, IP address, location data (if enabled), and usage information to enable them to select and serve relevant ads, including personalized ads (if you have consented or not opted-out where applicable). Examples include (but are not limited to):\n■ Google AdMob/AdSense: https://policies.google.com/privacy/partners\n■ Meta (Facebook) Audience Network: https://www.facebook.com/about/privacy/\n■ AppLovin: https://www.applovin.com/privacy/\n■ Unity Ads: https://unity3d.com/legal/privacy-policy\n■ ironSource (now part of Unity): https://www.is.com/privacy-policy/\n■ Pangle: https://www.pangleglobal.com/privacy\n■ Vungle (now part of Liftoff): https://liftoff.io/privacy-policy/\n■ InMobi: https://www.inmobi.com/privacy-policy\n■ Adjust: https://www.adjust.com/terms/privacy-policy/\n■ Aarki: https://www.aarki.com/privacy\n■ Bidease: https://bidease.com/privacy-policy/\n■ Jampp: https://jampp.com/privacy-policy/\n■ AppsFlyer: https://www.appsflyer.com/legal/privacy-policy/\nPlease consult the privacy policies of these partners for more information on their data practices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Advertising Partners: With ad networks and advertising partners to serve advertisements within the Application. This may involve sharing your Advertising ID, IP address, location data (if enabled), and usage information to enable them to select and serve relevant ads, including personalized ads (if you have consented or not opted-out where applicable). Examples include (but are not limited to):\n■ Google AdMob/AdSense: https://policies.google.com/privacy/partners\n■ Meta (Facebook) Audience Network: https://www.facebook.com/about/privacy/\n■ AppLovin: https://www.applovin.com/privacy/\n■ Unity Ads: https://unity3d.com/legal/privacy-policy\n■ ironSource (now part of Unity): https://www.is.com/privacy-policy/\n■ Pangle: https://www.pangleglobal.com/privacy\n■ Vungle (now part of Liftoff): https://liftoff.io/privacy-policy/\n■ InMobi: https://www.inmobi.com/privacy-policy\n■ Adjust: https://www.adjust.com/terms/privacy-policy/\n■ Aarki: https://www.aarki.com/privacy\n■ Bidease: https://bidease.com/privacy-policy/\n■ Jampp: https://jampp.com/privacy-policy/\n■ AppsFlyer: https://www.appsflyer.com/legal/privacy-policy/\nPlease consult the privacy policies of these partners for more information on their data practices.",
+      "lang": "English"
+    }
+  ]
+}

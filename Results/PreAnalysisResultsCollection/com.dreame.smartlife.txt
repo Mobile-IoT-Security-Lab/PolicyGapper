@@ -1,0 +1,240 @@
+I. What Information We Collect, and How We Use It
+Personal information refers to all kinds of information recorded electronically or in other ways that are related to an
+identified or identifiable natural person, excluding anonymized information. Sensitive personal information refers to
+information that, once leaked, illegally provided, or abused, could endanger personal or property safety, or easily lead to
+damages to personal reputation or mental and physical health, or lead to discriminatory treatment. Sensitive personal
+information includes but is not limited to ID numbers, personal biometric information, bank account numbers, property
+information, whereabouts, transaction information, and the personal information of children aged 14 or below.
+Please note that sensitive personal information will be bolded to remind you to pay special attention to it. Your
+sensitive personal information will be collected only for specific purposes and when it is sufficiently necessary. We are
+committed to taking strict measures to protect your sensitive personal information. We will obtain your individual
+consent, through pop-ups or other ways, before collecting any sensitive personal information from you. Your written
+consent will be obtained if it is required by law or administrative regulations. Before giving your consent, please ensure
+that you have carefully considered and confirmed that such consent is appropriate.
+(i) Collection and Processing of Your Personal Information for Basic Services of Dreamehome
+
+---
+Personal information is collected for the purpose of providing you with products and/or services. We promise to comply
+with the relevant applicable laws, regulations and other regulatory documents. In the following cases, you need to give
+consent to provide the following categories of information, such that we can safely and effectively implement the basic
+functions. Otherwise, you may not be able to enjoy the corresponding products and services.
+
+---
+1. Signup and Login on Dreamehome
+When you want to sign up or log in to Dreamehome, you are required to provide us with your cell phone number to
+help complete the signup or login process. The collection of such information is to meet the requirements of network real
+name systems specified by relevant laws and regulations. If you refuse to provide your cell phone number for
+verification, your signup/login may fail and you will be unable to enjoy the services provided by Dreamehome. Your
+WeChat account information, Google account information, Facebook account information, Apple account
+information will be collected if you log in with WeChat, Google, Facebook, Apple account, etc.. We will also collect
+your application installation list information to determine whether your device supports third-party account login.
+
+---
+2. Maintenance of Dreamehome Account Information
+You are free to set your avatar and nickname, change your bound phone number, and bind third-party accounts, such as
+Email, WeChat account, Apple ID, Facebook account, Google account, etc., which will help us provide you with a more
+personalized experience. Your access to other features of our products and/or services will not be affected if you forego
+this step. When you upload/change your avatar, we may request you to enable your camera and album permissions and
+collect the image information you uploaded/changed. If you refuse the above permissions, you will be unable to
+personalize your avatar, but this will not affect your access to other features of our products and/or services.
+
+---
+3. Connection and Management of Smart Hardware Devices
+Your login information, as well as information related to your cell phone, smart hardware device, and the connection
+between the hardware device and app may be collected to provide you with Dreamehome services and enable you to
+securely connect and manage your smart hardware device. This information will be used to provide you with quick smart
+hardware device connection, as well as device connection and management functions. In the process of connecting
+devices, we need to enable your mobile phone's Bluetooth permission and WLAN permission for device
+communication and your mobile phone location permission to scan nearby devices and obtain the WiFi information
+currently connected to your mobile phone. If you refuse to enable those permissions, you will not be able to bind your
+device in Dreamhome. The above collected information is listed in detail as follows:
+Account information: ID, nickname and avatar of your Dreamehome account.
+Information related to cell phone: Device identification information (IMEI/OAID/MEID/MAC/Android
+ID/IDFA/OPENUID/GUID, SIM card IMSI information, etc.), model, system version, system language, country or
+region set in your phone, and device display information.
+Information related to smart hardware device: Name, model, version, manufacturer, device identifier, MAC address, IP
+address, and device running status of smart hardware device.
+Information related to device connection: To help you connect your device, we will collect your Wi-Fi information,
+including the name and mode (LAN mode, remote mode) of the Wi-Fi being connected to by your device, the IP address
+assigned, the received signal strength indicator (RSSI), the MAC address, and the Wi-Fi password, MAC address of your
+device, and device ID that you actively provided; your Bluetooth information, including device Bluetooth name, device
+Bluetooth MAC address, mobile phone Bluetooth name, mobile phone Bluetooth MAC address.
+
+---
+4. Updates to Dreamehome App and Smart Hardware Device
+We may use the version information of your Dreamehome app and phone model to provide you with updates to the
+Dreamehome app, so that you can continue to enjoy the latest Dreamehome services. We may also collect the list and
+version information of the connected smart hardware device to provide you with updates to your smart hardware device,
+to ensure that you can use the service provided in the latest version (including the firmware version). Dreamehome only
+provides the update path for the smart hardware device. The firmware version is provided by the manufacturer of the
+smart hardware device, and the manufacturer shall be responsible for the version quality and update results.
+If you fail to provide this information, you will not be able to update to the new versions of the Dreamehome app and
+smart hardware device firmware.
+
+---
+(ii) Collection and Processing of Your Personal Information for Additional Functions of
+Dreamehome
+In addition to the basic services of Dreamehome, we may also collect and use your personal information in the following
+additional functions. If you fail to provide such information, you may still use the basic services of Dreamehome, but it
+may be impossible for you to use the additional functions that could be convenient for you. The additional functions
+include:
+
+---
+1. Device Sharing
+When you use the device sharing feature to share your device with a friend, we may collect your friend's Dreamehome
+account information and information about the device you are sharing. Please note that when you use the device sharing
+feature, the shared user may also view your device information in their app interface at any time. To protect the security
+of your personal information, some personal information involved in certain devices may not be shared, depending on
+the device you are sharing.
+
+---
+2. Online Feedback
+We provide you with an online feedback channel to help you effectively solve any potential problems you might have
+with your Dreamehome app and smart hardware device. To this end, we need to collect the following information from
+you: Log information of Dreamehome app and device, your contact information, problem description, and pictures and
+videos about the problem. When you upload pictures and videos about the problem, we may access your camera and
+album permissions. When you need to use the clipboard content to describe the problem, we will access your clipboard
+content. App and device log information may include device status, information sensed by sensor devices, device
+operation logs, device identifiers, etc. The purpose of collecting such information is to analyze and locate the cause of the
+problem. The purpose of collecting your contact information is to follow up and check if the problem is fully resolved or
+to contact you to supplement additional information as necessary.
+
+---
+3. Marketing Information Displaying and Pushing
+We may provide or promote marketing information for our products and service on the app launch page, homepage, or
+pop-up ads (which you can close with one click), send or display relevant messages to your app. After obtaining your
+authorization, we may send marketing messages to you via SMS, phone, and/or email using the contact information
+provided by you, such as phone number and email. You may choose to refuse such marketing messages at any time.
+
+---
+4. User Experience Program
+In order to enhance the operational experience, operational performance, and functional design of our products, and
+provide better products and services to users, we invite you to participate in our User Experience Program. You agree
+that when you join the User Experience Program, you have carefully read and fully agreed to this program. When you
+participate in our User Experience Program, we may collect your device information; relevant log information after the
+device turns abnormal; relevant data of negative events such as device collision. We collect such information to help us
+improve our products and services and provide you with a better user experience. If you do not provide the above
+information, it will not affect your use of the product, but it may affect your user experience. You understand and agree
+that when you join this program, your above information will be transmitted to our R&D center in China for processing.
+We will store your personal data in accordance with applicable laws or regulations and keep it for as long as it is
+necessary to meet the purpose of personal data collection. We promise to use the data provided by you in strict
+accordance with the requirements of laws and regulations, and take strict protective measures to ensure the security of
+your data. You can join or withdraw from the User Experience Program at any time through "Me" - "Settings" - "About"
+"User Experience Program".
+
+---
+(iii) Obtaining Your Personal Information from Third Parties
+We may obtain your personal information from third parties in some cases where permitted by law. For example:
+
+---
+1. In the management of third party smart hardware devices, we will cooperate with third party service providers subject
+to your authorization, which involves us obtaining your personal information from the third party service providers. In
+the management of third party devices, we will obtain the following personal information about you under the condition
+that you have linked to a third party account:
+Information of the third party account, including the account ID, nickname and avatar, depending on the scope of your
+authorization.
+Device and network information, including device identifier, MAC address, and device serial number, used to identify
+the device currently in operation and security control of the device.
+If our processing of your personal information required in the course of our business is beyond the scope of the consent
+you originally authorized when you provided your personal information to a third party service provider, we will obtain
+your express consent before processing such personal information. In addition, we will strictly comply with relevant laws
+and regulations and require third party service providers to guarantee the legality of the information they provide.
+
+---
+(iv) Non-personal Information
+We may also collect other information that could not identify a specific individual (i.e., non-personal information), for
+example, statistical data generated when you use a specific service, such as user actions (including clicks, page
+redirection, browsing time). The purpose of collecting such information is to improve the service we provide to you. The
+type and amount of information collected depends on how you use our products and/or services. Such information will
+be aggregated to help us provide more useful information to our customers and learn about which parts of our website,
+products and services are of most interest to them, so that our service interface can be optimized. Aggregated data is
+considered non-personal information for the purposes of this Privacy Policy. If non-personal information is used in
+combination with personal information, such information will be treated as personal information during the period of
+combined use.
+
+---
+(v) System Permissions Description
+For the purpose of product function implementation and safe and stable operation, we may request or use relevant system
+permissions, such as camera, album and location permissions. Please be assured that these permissions will not be
+enabled by default, and we will only request the relevant permissions from you and obtain the corresponding information
+(if involved) when you trigger the relevant business function. The permissions we request are only necessary to
+implement specific features, and you may revoke authorization of system permissions at any time. If you refuse or
+revoke your authorization of system permissions, you will not be able to use the corresponding features, but this will not
+affect your normal use of other features.
+
+---
+II. How We Use Cookies and Similar Technologies
+We may store small data files called cookies on your device to ensure the proper functioning of Dreamehome. Cookies
+usually contain identifiers, site names, and some numbers and characters. Dreamehome can use cookies to store your
+login account, preferences and other data to simplify steps for your repetitive operations (such as signup and login) and
+provide you with services that are more suitable for your personal needs.
+We will not use cookies for any purpose other than those specified in this declaration. You may manage or delete cookies
+according to your preferences. If you do so, however, in some cases this may affect your safe access to Dreamehome and
+you may have to change the user settings each time you access Dreamehome.
+
+---
+For the avoidance of doubt, Dreame may collect, use or disclose your personal information without your consent in
+circumstances and to the extent expressly permitted by local data protection laws (e.g., to comply with a subpoena). We
+may disclose your information without your consent in the good faith belief that such disclosure is necessary to protect
+our rights, protect your safety or the safety of others, investigate fraud, or respond to government requirements.
+
+---
+(iii) Our Protection Measures
+We are committed to guaranteeing the security of your personal information. To prevent unauthorized access, disclosure
+or other similar risks, we have implemented reasonable processes of physical, electronic and supervisory measures to
+protect the information we collect from your products and the Dreame website. We will take all reasonable measures to
+protect your personal information.
+Your data will be classified according to importance and sensitivity, and your personal information will be protected with
+the highest level of security. We guarantee that employees and third party service providers who access this information
+to help provide products and services to you have strict contractual confidentiality obligations; otherwise, they will be
+
+---
+subject to disciplinary action or termination of cooperation. In summary, we will regularly review information collection,
+retention and processing practices, including physical security measures, to prevent any unauthorized access and use.
+
+---
+(i) Access to Your Personal Information
+Concerning personal data that we have collected and processed, you can gain the access on the Dreamehome or contact
+us via privacy@dreame.tech for the access.
+
+---
+(ii) Copying Your Personal Information
+Based on your requirements and locally applicable laws and regulations, we can provide a record of your personal data
+we have collected and processed for free. If you make other requests for relevant information, we may charge you a
+reasonable fee based on relevant applicable laws and the actual management cost.
+
+---
+(vi) Withdrawal of Consent
+You can submit a request to withdraw your consent concerning the collection, use and/or disclosure of your personal
+information held or controlled by us. According to the specific services you use, you can withdraw your consent directly
+in the Dreamehome app or contact us to carry out the relevant operations. We will process your request within a
+reasonable time frame after you make it, and will no longer collect, use and/or disclose your personal information
+thereafter in accordance with your request.
+
+---
+1. Request we disclose to you free of charge the following information covering the 12 months preceding your request:
+(1) the categories of Personal Information about you that we collected;
+(2) the categories of sources from which the Personal Information was collected;
+(3) the purpose for collecting Personal Information about you;
+
+---
+(4) the categories of third parties to whom we disclosed Personal Information about you and the categories of Personal
+Information that was disclosed (if applicable) and the purpose for disclosing the Personal Information about you; and
+(5) the specific pieces of Personal Information we collected about you.
+
+---
+2. Request we delete Personal Information we collected from you, unless CCPA recognizes an exemption.
+
+---
+4. Have the right to opt out of certain uses and disclosures of your personal information. Where you have consented to
+Dreame's processing of your personal information, you may withdraw that consent at any time and opt-out to further
+processing by contacting Dreame. In order to provide our services to you, we will ask you to provide personal
+information that is necessary to provide those services to you. If you do not provide your personal information, we may
+not be able to provide you with our products or services. Even if you opt-out, we may still collect and use non-personal
+information regarding your use of our products.
+
+---
+IX. Updates of This Privacy Policy
+Dreame reserves the right to update this Privacy Policy from time to time. In case of any changes, we will inform you via
+a pop-up message or other prominent means. We will only collect, use and retain your personal information in
+accordance with the updated policy with your consent.

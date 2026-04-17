@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "As when you view pages or content on our Site or mobile application, most of the same information is sent to us (including, without limitation, IP Address, information about your operating system, etc.); but, instead of page views, your device sends us information on the content, advertisement viewed and/or software installed and time.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "to maintain and administer and improve any software updates and/or other updates, to support the Services, including to troubleshoot, report, or address any issues (e.g., to respond to errors or crash reports) that may be required from time to time to ensure the smooth running of the Games and/or our Services;",
+      "lang": "English"
+    }
+  ]
+}

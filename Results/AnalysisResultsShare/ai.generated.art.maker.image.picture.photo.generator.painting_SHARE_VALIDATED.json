@@ -1,0 +1,21 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may also share technical data that we collect (such as IP address, device information, and app usage data) with our advertising partners, and to use it for their own advertising-related purposes.",
+      "justification": "The policy states that technical data, which includes diagnostics (e.g., device information, app usage data), is shared with advertising partners for their own purposes. This does not qualify for the service provider exemption and must be declared as 'sharing'.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'Diagnostics' data is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may also share technical data that we collect (such as IP address, device information, and app usage data) with our advertising partners, and to use it for their own advertising-related purposes.",
+      "justification": "The policy states that technical data, including app usage data (a type of app performance data), is shared with advertising partners for their own purposes. This does not qualify for the service provider exemption and must be declared as 'sharing'.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'Other app performance data' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

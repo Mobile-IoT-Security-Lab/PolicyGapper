@@ -1,0 +1,182 @@
+1、What information do we collect about you;
+---
+SECTION 1: WHERE WE ARE A DATA CONTROLLER
+1.The Types of Personal Information We Use
+This section describes the different types of personal information we collect and how we collect it. We will collect and use the following
+information about you:
+---
+Information you provide us.
+•
+- when you register for the Game (including your nominated nickname, or custom accounts and information we import from your
+connected social media account (WeChat, Facebook, Google) in order to set up your profile, including your name as it appears on your social
+media profile and your profile picture);
+•
+- when you log-in as a ‘guest' in order to use the Game (your nickname);
+•
+.
+- when you participate in a survey in the Game (in which case we will process the information you provide to us as part of the survey)
+• information you provide when seeking help from us such as your name, telephone number and records of the issues you experience;
+• Billing information, such as your name, payment card number and payment account details;
+---
+Information we collect about you.
+We automatically collect certain data from you when you use the Game, including your Ip address and device information (such as
+application version, network type, OS) and information regarding your use of the Game, such as date and time stamps of actions. We also
+collect and store your data each time you interact with us, for example, when you use in-app support to communicate with us.
+---
+Information you generate and display in the course of using the Game Services.
+You may provide additional information as part of your profile (such as gender). You may also provide or generate information when you
+communicate with other users in the Game (e.g., chat log data, chat content).
+---
+Data we collect from our partners.
+.
+• Data we receive if you link a third party tool with the Service (such as WeChat, Facebook, Google)
+•
+- Demographic data (such as to determine the coarse location of your Ip address)
+.
+• Data to fight fraud (such as refund abuse in games or click fraud in advertising)
+• Data from platforms that the games run on (such as to verify payment)
+•
+- Data for advertising and analytics purposes, so we can provide you a better Service
+---
+Cookies.
+We use cookies and other similar technologies (e.g. web beacons, log files, scripts and eTags) (“Cookies”) to enhance your experience using
+the Services. Cookies are small files which, when placed on your device, enable us to provide certain features and functionality. You have the
+option to permit installation of such Cookies or subsequently disable them. You may accept all cookies, or instruct the device (in the case of
+the Game) to provide notice at the time of installation of cookies, or refuse to accept all cookies by adjusting the relevant cookie retention
+function in your device. However, in the event of your refusal to install cookies, the Game may be unable to operate as designed.
+--- [PAGE BREAK] ---
+Personal Information
+Nickname
+Use
+We use this information to create your account for the Game in accordance with
+your request.
+Social Connect Information: WeChat: Open ID,
+profile photo, alias, gender, region Facebook: Name,
+Facebook ID, profile picture Google: Nickname,
+profile picture
+We use this information to:create your account for the Game in accordance
+with your request;share in-game photos on Facebook at your request.
+Generated Open ID
+Game Play Statistics (Level, Score/s)
+Ip Address
+We generate this and use this to store your Game data (including level and
+progress) with your profile.
+We use this information to provide you with feedback and information about
+your gameplay and progress.
+We use this information to improve our services, including the functionality of
+the Game.
+Device ID, Device Information
+Advertising ID
+Chat Data
+Transaction Records: payments on Google Play or
+iOS AppStore
+Customer Support Ticket ID & User Communications
+with Support
+Security-Related Information
+We use this information: to improve our services, including the functionality of
+the Game; for security and verification purposes; identify and address bugs and
+assess game function for optimization; and to combat users registering for
+multiple accounts.
+If you click on a link that advertises the Game, we store the Advertising ID for
+that advertisement with your profile.
+If you enable chat services (audio or text) then we will process such data in
+order to deliver your messages to other users.
+We use this information to maintain a record of your transaction history.
+We use this information to:improve our services;provide troubleshooting such
+as addressing and remediating technical issues and bugs.
+We use this information:for security and verification purposes; identify and
+address bugs and assess game function for optimize action; solve game crashes
+and optimize compatibility of devices with the game; and to combat users
+registering for multiple accounts.
+Survey Information and content of survey responses
+---
+analyze, profile, and segment.
+In all of the above cases and purposes, we may analyze, profile and segment all collected data.
+--- [PAGE BREAK] ---
+[SECTION: 4.Data Retention]
+4.Data Retention
+We will retain your personal information as described below (except if otherwise required to be retained by applicable law).
+Personal Information
+Retention Policy
+Nickname
+Social Connect Information:
+WeChat
+Social Connect Information:
+Facebook
+Game Play Statistics (Level,
+Score/s)
+Chat Communications (Audio
+message)
+Stored for the lifetime of your use of the Game (i.e. until account deletion in accordance with your
+request) and then deleted within 30 days.
+Stored for the lifetime of your use of the Game (i.e. until account deletion in accordance with your
+request or you revoke access to your social media account) and then deleted within 30 days.
+Stored for the lifetime of your use of the Game, until account deletion in accordance with your
+request, upon which it will be deleted within 15 days. Where you do not request for account
+deletion, such data will be retained for 1 year after the Game is shut down, before it is deleted.
+Stored for the lifetime of your use of the Game, until account deletion in accordance with your
+request, upon which it will be deleted within 30 days. Where you do not request for account
+deletion, such data will be retained for 1 year after the Game is shut down, before it is deleted.
+Stored for 30 days on our servers and deleted automatically upon expiry of such period.
+Chat Communications (Text)
+Stored for the lifetime of your use of the Game, until account deletion in accordance with your
+request, upon which it will be deleted within 7 days. Where you do not request for account deletion,
+such data will be retained for 1 year after the Game is shut down, before it is deleted.
+OpenID
+Stored for the lifetime of your use of the Game, until account deletion in accordance with your
+request, upon which it will be deleted within 15 days. Where you do not request for account
+deletion, such data will be retained for 1 year after the Game is shut down, before it is deleted.
+Ip Address
+Device ID, Device Information
+Advertising ID
+Stored for the lifetime of your use of the Game, until account deletion in accordance with your
+request, upon which it will be deleted within 15 days. Where you do not request for account
+deletion, such data will be retained for 1 year after the Game is shut down, before it is deleted.
+Stored for the lifetime of your use of the Game, until account deletion in accordance with your
+request, upon which it will be deleted within 30 days. Where you do not request for account
+deletion, such data will be retained for 1 year after the Game is shut down, before it is deleted.
+Stored for the lifetime of your use of the Game, until account deletion in accordance with your
+request, upon which it will be deleted within 15 days. Where you do not request for account
+deletion, such data will be retained for 1 year after the Game is shut down, before it is deleted.
+--- [PAGE BREAK] ---
+Personal Information
+Retention Policy
+Transaction Records
+Security-Related Information
+Survey Information and content
+of survey responses
+Stored for the lifetime of your use of the Game (i.e. until account deletion in accordance with your
+request) and then for the duration of any retention periods for which such data must be retained in
+order to comply with our legal obligations.
+Stored for the lifetime of your use of the Game, until account deletion in accordance with your
+request, upon which it will be deleted within 30 days.
+Stored for: (a) if you provide your email as part of the survey, up to 6 months (in order for us to
+follow up with you) and then the data is anonymized; or (b) if you do not provide your email as part
+of the survey, up to 1 month and then the data is anonymized.
+---
+personal Information is kept until the end of its life cycle (as set out in the retention policy above). When destroying personal information,
+measures will be taken to make the personal information irrecoverable or irreproducible, and electronic files which contain personal
+information will be deleted permanently using a technical method which makes the files irreproducible.
+In the event that the processing and retention period have terminated, but personal information is required to be retained continuously for
+other reasons including for the purposes as prescribed under applicable laws, the relevant personal information will be stored and maintained
+separately from other types of personal information. If you require us to destroy your personal information before the end of its life cycle (as
+set out in the retention policy above), we will destroy your personal information in accordance with local laws.
+--- [PAGE BREAK] ---
+[SECTION: SECTION 3: MISCELLANEOUS]
+2.Information about children
+We do not knowingly collect or solicit personal information from or direct or target interest based advertising to anyone under the age of 16
+or knowingly allow such persons to use our Services. If you are under 16, please do not send any information about yourself to us, including
+your name, address, telephone number, or email address. No one under the age of 16 may provide any personal information. In the event that
+we learn that we have collected personal information from a child under age 16, we will delete that information as quickly as possible. If you
+believe that we might have any information from or about a child under the age of 16, please contact us.
+---
+4.Changes
+CottonGame may update this privacy policy from time to time. When we update it, we will revise the "Last Updated" date above. If we make
+material changes in the way we collect, use, retain or share your personal information, we will notify you by sending you an email at the last
+email address that you provided us, or by posting notice of the changes on the services covered by this privacy policy.
+---
+5.International Transfer
+We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your country or
+jurisdiction to other countries or jurisdictions around the world. Please note that these countries and jurisdictions may not have the same data
+protection laws as your own jurisdiction, and we take steps to ensure adequate safeguards are in place to enable transfer of information and
+the use and disclosure of information about you, including personal information, as described in this Policy.

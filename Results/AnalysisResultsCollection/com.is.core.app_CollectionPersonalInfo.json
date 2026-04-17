@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you contact Comera for support or otherwise communicate with us, you may provide us with your name, email address, and the content of your inquiry. We will retain such correspondence and information as needed to respond and resolve your issue, consistent with this Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "If you share your location in a chat, we will collect and transmit your geolocation to your chosen contacts with your permission; we do not track your location in the background or use your location for any other purpose without consent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may collect information such as your name, billing address, and transaction details (item purchased, amount, date and time). This information is used to process your order, provide you with customer support, and comply with financial record-keeping requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may collect information such as your name, billing address, and transaction details (item purchased, amount, date and time). This information is used to process your order, provide you with customer support, and comply with financial record-keeping requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We do not store your full credit/debit card numbers on Comera's servers. Such financial details are transmitted directly to our payment processor via secure encryption and handled in accordance with industry security standards (e.g., PCI-DSS). The payment provider may return to us a token or reference number which we store to keep track of your purchase.",
+      "lang": "English"
+    }
+  ]
+}

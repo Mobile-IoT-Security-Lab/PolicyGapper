@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "With advertisers and marketing partners in order to display advertisements on our App and support our business, to show how many users of the App have clicked or viewed an advertisement, and analytics providers for the purposes of measurement, analytics, engagement technologies and optimisation of our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "With advertisers and marketing partners in order to display advertisements on our App and support our business, to show how many users of the App have clicked or viewed an advertisement, and analytics providers for the purposes of measurement, analytics, engagement technologies and optimisation of our Services.",
+      "lang": "English"
+    }
+  ]
+}

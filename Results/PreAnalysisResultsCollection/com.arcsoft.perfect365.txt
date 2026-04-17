@@ -1,0 +1,440 @@
+Protecting your privacy is important to Perfect365, Inc. (“Perfect365,” “us,” “our,” or “we”). This Privacy Policy
+contains important information on how and why we collect, store, use, and share your personal information
+or personal data (used interchangeably in this Privacy Policy). It also explains your rights in relation to your
+personal information and how to contact us or supervisory authorities in the event you have a complaint.
+
+---
+
+Please read this Privacy Policy before using the Perfect365 family of websites, mobile products, and services.
+BY USING ANY OF OUR PRODUCTS OR SERVICES OR COMMUNICATING WITH US, YOU CONSENT TO THE
+COLLECTION, TRANSFER, PROCESS, STORAGE, DISCLOSURE, AND USE OF YOUR INFORMATION AS DESCRIBED
+IN THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THIS, PLEASE DO NOT USE AN USE OUR PRODUCTS OR
+SERVICES.
+
+---
+
+[SECTION: 1. SCOPE OF PRIVACY POLICY]
+
+This Policy explains our online and offline information practices, the kinds of information we may collect,
+how we intend to use and share that information, and how you can opt-out of a use or correct or change
+such information. This Policy applies to information we may collect from you or that you may provide when
+you visit any of our mobile products or services, including but not limited to the mobile applications,
+Perfect365, Perfect365 Video, Perfect365 Studio, and Perfect365 SoREAL AI (each, an “Application” and
+collectively the “Applications”), the website perfect365.com and any other websites and subdomains
+provided by us on which a link to this Policy is displayed (the “Website”), or when you communicate with us
+through a "@perfect365.com” email address or otherwise provide us with information, including through a
+third party on your behalf (the “Communications”), and our practices for collecting, using, maintaining,
+protecting, and disclosing that information (Applications, Website, and Communications, collectively, the
+“Services”). This Policy does not apply to information collected by any third party, including through any
+application or content (including advertising), that may link to or be accessible from or through the Services.
+
+---
+
+[SECTION: 2. INFORMATION WE COLLECT]
+
+We may collect and use the following personal information that identifies, relates to, describes, is reasonably
+capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular
+consumer or household that is commonly gathered and produced by automatic means, provided directly
+from you, and/or by your interactions with us or our Services.
+
+---
+
+[PAGE BREAK]
+
+•
+•
+•
+•
+•
+Your username, password and email address when you register for an account on an Application
+Profile information that you provide for your user profile (e.g., name, picture, phone number, gender) on
+an Application
+Your content (e.g., photos, facial scans, comments, and other materials) that you post or upload to an
+Application
+Information you provide to other users through the Applications
+Information that you submit to us in a request through the Website or other Communication
+
+---
+
+Information We Collect Automatically from Your Use of the Applications
+
+---
+
+•
+•
+•
+•
+Payment Information. If you complete an in-app purchase through an Application using either a
+traditional payment method or virtual currency, we or our third-party payment or virtual currency
+processors collect information necessary to process and facilitate your transactions, including:
+The date, time, and amount of a transaction
+For traditional payment transactions, payment (e.g., credit card) and billing information.
+For virtual currency transactions, information identifying your account information and the account you
+are transacting with, your public wallet address, your account balance, your transaction history,
+blockchain transaction identifiers (e.g., the transaction hash), and the public wallet address of payers
+and payees. You should be aware that when you earn and spend using virtual currency, your blockchain
+transactions will be publicly visible to anyone who has access to the blockchain.
+
+---
+
+• Analytics Information. We use third-party analytics tools to help us measure traffic and usage trends for
+the Applications. These tools collect information sent by your device to our Application, including the
+content and ads that you view or click, and other information that assists us in improving the
+Applications. We collect and use this analytics information with analytics information from other users
+so that it cannot reasonably be used to identify any particular individual user.
+
+---
+
+•
+Location Information. Upon your consent, we may collect different types of information about your
+general location (e.g., IP address, zip code) or more specific location information (e.g., precise location
+from your mobile GPS) through methods such as mobile software development kits (“SDK”) that allow
+us to periodically determine your location, including your location relative to and within third party
+merchant locations, and share such information with third parties, for purposes related to advertising
+(e.g. customized ads in an Application), analytics, attribution (e.g., measuring ad performance), and
+research. You may prevent location information from being collected by this or other apps, through your
+device settings (but this may affect the functionality of certain Application features). We may collect
+this information when you use the Applications or when any Application runs in the background on your
+device.
+
+---
+
+• Log information. When you use the Applications, we may automatically collect and store certain
+information in server logs. This may include:
+•
+•
+•
+Information on how you interact with the Applications
+IP address
+Device event information such as crashes, system activity, hardware settings, browser type, browser
+language, the date and time of your request and referral URL
+
+---
+
+• Data derived from facial and other detection scans. We may collect facial detection scan data (from
+uploaded images or photos taken through an Application) as necessary to provide the functionality of
+the Applications, e.g., scanning face to apply makeup/looks.
+
+---
+
+[PAGE BREAK]
+
+images you upload onto the Application (“Inputs”). In order to generate the Outputs and to train the Al
+model, the Application may scan the Inputs to determine the posture, location, topography, and other
+non-identifying characteristics of faces that appear in frame. The Inputs are immediately deleted once
+the avatar is created. Your purchased avatars are stored on our server so that they remain accessible to
+you through the Application at any time and from any device until you decide to delete them. The
+purchased avatars that you decide to download are stored in your device. We currently use the neural
+network model Stable Diffusion to generate the personalized avatars for the SoREAL AI Application. We
+do not use the images or avatars to identify any individual user, for authentication, advertising, or
+marketing purposes, to otherwise target a user in a similar manner, to build a user profile, or to
+otherwise attempt, facilitate, or encourage third parties to identify anonymous users or reconstruct
+user profiles. We do not transfer, share, sell, or otherwise provide your content or avatars to advertising
+platforms, analytics providers, data brokers, information resellers or other such parties.
+
+---
+
+•
+•
+•
+•
+•
+•
+•
+Device and Usage Information. We may collect device and usage information such as:
+Precise geolocation data pertaining to a user's devices (only upon your consent), which may be
+expressed by latitude-longitude coordinates obtained through GPS tools, WiFi data, cell tower
+triangulation or other techniques (collectively, “Device Geolocation Data”) and linked to a device
+identifier, such as the IDFA for iOS devices or Android ID for Android devices.
+Predicted or actual data about a user such as age, gender, date of birth, street address; predicted or
+actual characteristics or interests; and any information that users provide to us or to our users.
+Other information about a user's device, such as: device type (e.g., tablet, smartphone), operating
+system, IP address, network provider, mobile carrier, mobile browser type (e.g., Firefox, Chrome, Safari),
+other apps and SDKs installed on the device, timestamp, time zone, information about the speed,
+bearing, orientation, and altitude of a device, or other device-identifying information.
+Information about the possible relationships among different devices.
+Data about user activities (e.g., the pages you view, the time and duration of your activities in the App)
+that helps us determine how a user interacts with advertising or content, such as determining whether
+a user who viewed a particular advertisement ultimately purchased the advertised product or service.
+
+---
+
+• Cookies and Similar Technologies. When you use the Applications, we allow third-party companies to
+collect certain information. These companies may utilize cookies, pixels, or other similar technologies to
+collect and use non-personally identifiable information in order to provide advertisements about goods
+and services likely to be of greater interest to you. To learn more about this behavioral advertising
+practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising
+Alliance at https://www.aboutads.info and Networking Advertising Initiative at
+networkadvertising.org/choices/. You can also control the use of cookies on your device at any time by
+changing your preferences or options in your browser settings. Each browser provides different
+mechanisms for managing cookies. You can usually find these settings in the “Options” or “Preferences”
+menu of your browser; otherwise, look at your browser's help menu to determine the best way to modify
+your browser's cookie storage. You can also block, disable, or delete the cookies that are stored on your
+device. However, blocking, disabling, or deleting cookies may limit your ability to view all the pages in
+the Applications.
+
+---
+
+• Local Storage. We may access metadata and other information associated with other files stored on
+your device. This may include, for example, your photographs in order to provide the functionality of the
+Applications.
+
+---
+
+[PAGE BREAK]
+
+•
+Certain location, device, and usage information may be collected when any Application is in use or runs
+in the background on your device. If you do not want this information to be linked to your device, you
+may go to your device “Settings” (which are somewhat different for iOS and Android devices) and opt
+out of interest-based or personalized advertising.
+
+---
+
+Information We Collect from Your Use of the Website
+
+---
+
+We use cookies or other automatic data collection techniques, which are small data files stored on a visitor's
+computer or internet-enabled device that serve a number of purposes such as enhancing your on-line
+experience when visiting our Website only.
+
+---
+
+You can control or set your cookies, you may also set your browser to block all cookies, including cookies
+associated with our Website, or to indicate when a cookie is being set by us. However, it's important to
+remember that our Website and/or settings and preferences controlled by such cookies may not function
+properly if your cookies are disabled. For example, we may not remember your language preferences. Most
+web browsers automatically accept cookies but provide controls that allow you to turn off, block or delete
+them. Learn more at https://support.google.com/chrome/answer/95647?
+co=GENIE.Platform%3DAndroid&hl=en.
+
+---
+
+[SECTION: 3. HOW WE USE YOUR INFORMATION]
+
+Generally, and without limiting the uses of information we describe in this Privacy Policy, including in Section
+2 (Information We Collect), we may use information that we receive and the choices you make in your
+settings:
+
+---
+
+[PAGE BREAK]
+
+We have also integrated the consent management tool, “Consent Manager” (www.consentmanager.net) from
+Consent Manager AB (Håltgelvågen 1b, 72348 Västerås, Sweden, mail@consentmanager.net), in our Services
+to obtain consent for data processing and use of cookies or comparable functions. With the help of Consent
+Manager, you can provide your consent for certain functionalities of our Services, e.g. for the purpose of
+integrating external elements, integrating streaming content, statistical analysis, measurement and
+personalized advertising, and can grant or reject your consent for all functions or give your consent for
+individual purposes or individual functions. The settings you have made can also be changed afterwards.
+
+---
+
+The purpose of integrating Consent Manager is to let users of our Services make decisions about their
+information and, as part of the further use of our Services, to offer the option of changing settings that have
+already been made. By using Consent Manager, personal data and information from the end devices used,
+such as the IP address, are processed by Consent Manager. In addition, the processed information may also
+be stored on your device.
+
+---
+
+[PAGE BREAK]
+
+[SECTION: 5. INFORMATION SOLD OR DISCLOSED FOR A BUSINESS PURPOSE]
+
+During the last twelve (12) months, Perfect365 has sold or disclosed personal information, including some or
+all of the categories of information described in Section 2 (Information We Collect), to third parties for
+business and commercial purposes. More specifically, Perfect365 has sold or disclosed the above-described
+personal information with third parties as described in Section 4 (Information Sharing and Disclosure to
+Third Parties), including: (a) to our business partners for enabling and improving their marketing and
+advertising campaigns, from identifying potentially interested consumers to measuring the effectiveness of
+the marketing and advertising campaign, including marketing and user and data analytics; (b) to our service
+providers and cybersecurity business partners, for disease prevention, to improve connectivity and
+application experiences on wireless networks, and for cybersecurity purposes; and (c) to our service providers
+
+---
+
+[PAGE BREAK]
+
+[SECTION: 6. YOUR CHOICES ABOUT YOUR INFORMATION]
+
+Account Information
+You may update or correct information you have provided to us by going into the settings screen (or “Me”)
+within the applicable Application. If you wish to deactivate your account, please delete the applicable
+Application, but note that we may retain your information as required by law and for business purposes.
+Refer below for additional information on your right to deletion and our deletion practices.
+
+---
+
+Apple has recently added a feature where, upon download of an Application, a popup stating “Allow Cross
+App Tracking" will appear that will allow the user to select their preferences for tracking and targeted
+advertising. The user can also go into their settings and disable or enable both tracking and location services
+for all applications.
+
+---
+
+[PAGE BREAK]
+
+When you have opted out using this setting on a device, advertisers will not use in-app information collected
+from that device to infer your interests or serve ads to that device that are targeted based on your inferred
+interests. Please note, however, that opting-out will not block general advertisements that are sent at
+random, and not tied to the perceived interest of the user of a particular device.
+
+---
+
+Control or Disable the Collection of Geolocation Information
+We do not collect geolocation information from you unless we obtain your explicit consent through the
+device's settings (e.g., “Location Services”). You can also control the collection of certain precise location
+information by changing the preferences on your mobile device (certain services may lose functionality as a
+result).
+
+---
+
+Third Party Use of Cookies and Other Tracking Technologies
+Some content or applications related to the Applications are served by third-parties, including advertisers,
+ad networks and servers, content providers, service providers, and application providers. These third parties
+may use cookies, alone or in conjunction with web beacons or other tracking technologies, to collect
+information about you when you use the Applications. The information they collect may be associated with
+your personal information or they may collect information, including personal information, about your
+online activities over time and across different websites and other online services. They may use this
+information to provide you with interest-based (behavioral) advertising or other targeted content.
+
+---
+
+[SECTION: 7. HOW LONG WE KEEP YOUR INFORMATION]
+
+We will not retain your personal information for longer than is allowed under the applicable data protection
+laws and regulations or for longer than is justified for the purposes for which it was originally collected. We
+will delete the personal information when we no longer need it for the purposes for which it was collected,
+unless Perfect365 is required by law to keep data for a certain period of time.
+
+---
+
+[PAGE BREAK]
+
+IF YOU ARE UNDER THE AGE OF SIXTEEN (16) YOU MAY NOT USE THE APPLICATIONS. IF YOU ARE BETWEEN
+SIXTEEN (16) AND EIGHTEEN (18) YEARS OLD, YOU MUST REVIEW THIS PRIVACY POLICY WITH YOUR PARENT
+OR GUARDIAN. IN THE EVENT THAT WE LEARN THAT WE HAVE COLLECTED PERSONAL INFORMATION FROM A
+CHILD UNDER AGE 16 WITHOUT PARENTAL CONSENT, WE WILL DELETE THAT INFORMATION AS QUICKLY AS
+POSSIBLE. IF YOU BELIEVE THAT WE MIGHT HAVE ANY INFORMATION FROM OR ABOUT A CHILD UNDER 16,
+PLEASE CONTACT US AT LEGAL@PERFECT365.COM AND WE WILL IMMEDIATELY TAKE STEPS REQUIRED TO
+DELETE THE INFORMATION AND OTHERWISE COMPLY WITH APPLICABLE LAW.
+
+---
+
+[SECTION: 10. SECURITY]
+
+We use commercially reasonable safeguards to help keep the information collected through the Services
+secure. However, Perfect365 cannot ensure the security of any information you transmit to any Services or
+guarantee that information on the Services may not be accessed, disclosed, altered, or destroyed. You are
+responsible for maintaining the secrecy of your unique passwords and account information at all times. Your
+privacy settings may also be affected by changes the social media services you connect to Perfect365 make
+to their services. We are not responsible for the functionality, privacy, or security measures of any other
+organization.
+
+---
+
+[PAGE BREAK]
+
+[SECTION: 13. ADDITIONAL STATE PRIVACY RIGHTS]
+
+As described above, Perfect365 collects various categories of personal information when you use the
+Services, including identifiers, commercial information, internet or other electronic network or device
+activity information, geolocation data, and professional information. A detailed description of the categories
+of personal information we collect and how we use such personal information is provided above in Section 2
+(Information We Collect) and Section 3 (How We Use Your Information). Section 4 (Information Sharing and
+Disclosure to Third Parties) and Section 5 (Information Sold or Disclosed for a Business Purpose) describe the
+categories of third parties with whom we share personal information for a business purpose. Perfect365
+does not and will not use facial recognition or identification technology in providing you with any products
+or services. Perfect365 does not store any Biometric Information and therefore cannot disclose or
+disseminate any biometric data to any third party for any promotional purposes.
+
+---
+
+In the context of processing personal information of U.S. residents, certain U.S. states, including California,
+Virginia, Colorado, Connecticut, Utah, Texas, Oregon, Florida, Montana, Nebraska, Delaware, lowa, and New
+Jersey, provide their residents with additional rights under consumer privacy laws based on the collection,
+use and sharing of their personal information (if such laws are applicable to the data collector/processor)
+
+---
+
+[PAGE BREAK]
+
+California
+If you are a California resident, you may have the following rights (free of charge) under the California
+Consumer Privacy Act and the California Privacy Rights Act with respect to your Personal Information:
+• Disclosure of Personal Information We Collect About You. You have the right to request we disclose to
+you free of charge the following information covering the 12 months preceding your request:
+• The categories of personal information we have collected about you;
+• The categories of sources from which the personal information is collected;
+• Our business or commercial purpose for collecting or selling personal information;
+• The categories of third parties with whom we share personal information, if any; and
+• The specific pieces of personal information we have collected about you.
+
+---
+
+• Please note that we may not delete your personal information if it is necessary to:
+• Complete the transaction for which the personal information was collected, fulfill the terms of a
+written warranty or product recall conducted in accordance with federal law, provide a good or
+service requested by you, or reasonably anticipated within the context of our ongoing business
+relationship with you, or otherwise perform a contract between you and us;
+
+---
+
+[PAGE BREAK]
+
+Please note that we are not required to: retain any personal information about you that was collected for a
+single one-time transaction if, in the ordinary course of business, that information about you is not retained;
+reidentify or otherwise link any data that, in the ordinary course of business, is not maintained in a manner
+that would be considered personal information; or provide the personal information to you more than twice
+in a 12-month period.
+
+---
+
+We are legally obligated to verify your identity when you submit a request. We may request additional
+information from you to verify your identity. If we are unable to confirm your identity, we may refuse your
+rights request.
+
+---
+
+[PAGE BREAK]
+
+Other States
+If you are a resident of Virginia, Colorado, Connecticut, Utah, Texas, Oregon, Florida, Montana, Nebraska,
+Delaware, lowa, or New Jersey, you may have the following rights (free of charge), unless an exception is
+available:
+• Right to know what personal data has been collected about you and to access that information
+
+---
+
+You can exercise the foregoing rights at any time by contacting us at privacy@perfect365.com (see
+additional contact details below). You can also opt-out of any sale of covered information collected about
+you by visiting “Settings” in the applicable Application and sliding the “Do Not Sell My Personal Information”
+switch off.
+
+---
+
+Transfers of Personal Data: Because of the international nature of our business, Personal Data collected and
+processed by us may be shared with, accessed by, and/or stored with our corporate office, affiliates, parents,
+subsidiaries and service providers, outside of the EEA and UK, including in the United States of America.
+Where personal data is transferred and/or stored outside of the EEA and the UK, appropriate safeguards are
+established to ensure an appropriate level of data protection outside the EEA as well. If we are transferring
+your Personal Data to another country outside of the EEA or UK, we will adhere to local requirements to
+implement safeguards in relation to the transfer. We may implement any mechanism that is approved under
+
+---
+
+[PAGE BREAK]
+
+Rights of Data Subjects: EU residents have the following rights with respect to Perfect365's collection and
+processing of their Personal Data:
+• Right of access: The right pursuant to Art. 15 GDPR to obtain information from the data controller as to
+whether or not your Personal Data is being processed. Where that is the case, you have the right to
+obtain access to the Personal Data and information on how it is being processed.
+• Right to rectification: The right pursuant to Art. 16 GDPR to obtain from the data controller, without
+undue delay, the rectification of inaccurate Personal Data, as well as the right to have incomplete
+Personal Data completed.
+• Right to data portability: The right pursuant to Art. 20 GDPR to receive the Personal Data in a structured,
+commonly-used and machine-readable format, and the right to transmit such data to another
+controller, if the conditions of this provision are met.

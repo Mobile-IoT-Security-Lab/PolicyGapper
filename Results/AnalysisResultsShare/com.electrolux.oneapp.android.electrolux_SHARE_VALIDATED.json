@@ -1,0 +1,23 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "Upon your prior consent we provide Facebook for these purposes with a customer list that includes your email address that you provided to us when you registered. When using the Custom Audience feature, your data is locally hashed on our system before we upload and pass it to Facebook (\"Hashed Data\"). Facebook is producing a Facebook User IDs out of this Hashed Data which is then matched to your Facebook data to be used by Facebook to create the Audience (see Facebook's data protection guidelines for more details). We basically use this feature to display interest-based advertisements to you when you visit the social network \"Facebook\" or other websites also using this tool.",
+      "justification": "The policy describes sharing hashed email addresses with Facebook for Custom Audience advertising. This constitutes 'sharing' for 'Advertising or marketing' because Facebook matches the data to its own user base, acting as an independent third party, not an exempt service provider.",
+      "how_to_fix": "In the Google Play Console's Data Safety section, declare that 'Email address' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Upon your prior consent we provide Facebook for these purposes with a customer list that includes your email address that you provided to us when you registered. When using the Custom Audience feature, your data is locally hashed on our system before we upload and pass it to Facebook (\"Hashed Data\"). Facebook is producing a Facebook User IDs out of this Hashed Data which is then matched to your Facebook data to be used by Facebook to create the Audience (see Facebook's data protection guidelines for more details). We basically use this feature to display interest-based advertisements to you when you visit the social network \"Facebook\" or other websites also using this tool.",
+      "reason_of_removal": "Duplicate entry.",
+      "justification": "This entry is a semantic duplicate of the 'Email address' entry, referencing the same policy text and data sharing practice.",
+      "how_to_fix": "No action required for this specific entry. Ensure the corresponding 'Email address' declaration is correctly made in the Play Console.",
+      "lang": "English"
+    }
+  ]
+}
+```

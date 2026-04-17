@@ -1,0 +1,77 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse movement, scroll position, key events, and touch events.",
+      "justification": "The privacy policy explicitly lists 'installed apps' under 'Application Activity' as data collected.",
+      "how_to_fix": "Declare the collection of 'Installed apps' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse movement, scroll position, key events, and touch events.",
+      "justification": "The privacy policy explicitly lists 'user-generated content' under 'Application Activity' as data collected.",
+      "how_to_fix": "Declare the collection of 'Other user-generated content' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse movement, scroll position, key events, and touch events.",
+      "justification": "The privacy policy lists various user actions like 'tap records', 'mouse movement', 'scroll position', 'key events', and 'touch events' under 'Application Activity' as data collected.",
+      "how_to_fix": "Declare the collection of 'Other actions' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "-Device Information: Carrier, brand, software version, model name, manufacturer, system language, OS version, locale, fingerprint, Build ID, baseband version, SIM country, SIM serial number, battery status, network, OAID, IMEI, IDFA, GUID, MAC address, Android ID, SSID, Advertising ID and gyroscope/accelerometer data.",
+      "justification": "The privacy policy explicitly lists multiple device identifiers such as 'OAID, IMEI, IDFA, GUID, MAC address, Android ID, SSID, Advertising ID' under 'Device Information' as data collected.",
+      "how_to_fix": "Declare the collection of 'Device or other IDs' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Individual customers:\n-Email address\n-Mobile phone number\n-Full legal name (including former name, and names in local language)\n-Nationality\n-Passport number, or any government issued ID number\n-Date of birth (\"DOB\")\n-Proof of identity (e.g. passport, driver's license, or government-issued ID)\n-Residential address\n-Proof of residency\n-Additional Personal Data or documentation at the discretion of our Compliance Team",
+      "justification": "The privacy policy explicitly lists 'Residential address' as data collected from individual customers.",
+      "how_to_fix": "Declare the collection of 'Address' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Individual customers:\n-Email address\n-Mobile phone number\n-Full legal name (including former name, and names in local language)\n-Nationality\n-Passport number, or any government issued ID number\n-Date of birth (\"DOB\")\n-Proof of identity (e.g. passport, driver's license, or government-issued ID)\n-Residential address\n-Proof of residency\n-Additional Personal Data or documentation at the discretion of our Compliance Team",
+      "justification": "The privacy policy lists various other personal information such as 'Nationality', 'Passport number', 'Date of birth', and 'Proof of identity' as data collected from individual customers.",
+      "how_to_fix": "Declare the collection of 'Other info' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "MEXC collects, processes, and stores Personal Data collected from you via your use of the Service or where you have given your\nconsent. This Personal Data may include:\n-Virtual Identity: MEXC Account/ Password, MEXC Nickname.\n-Financial Information: Bank account information, payment card primary account number (PAN), account assets, transaction history, trading data,\nand/or tax identification.\n-Transaction Information: Information about the transactions you make on the Platform, such as the name of the recipient, your name, the amount,\nand/or timestamp.\n-Message Content: Feedback, Email, SMS, App Rating, Comments.\n-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse\nmovement, scroll position, key events, and touch events.\n-Device Information: Carrier, brand, software version, model name, manufacturer, system language, OS version, locale, fingerprint, Build ID,\nbaseband version, SIM country, SIM serial number, battery status, network, OAID, IMEI, IDFA, GUID, MAC address, Android ID, SSID,\nAdvertising ID and gyroscope/accelerometer data.\n-Correspondence: Survey responses, information provided to our support team or user research team.\n-Audio, electronic, visual and similar information, such as call and video recordings.\n-Biometric data about yourself, including facial recognition data, fingerprint data, or other biometric data that may be used as a method of\nauthentication on the Device used to access the Platform.",
+      "justification": "The privacy policy explicitly lists 'Financial Information' including 'Bank account information', 'account assets', 'transaction history', and 'trading data' as data collected.",
+      "how_to_fix": "Declare the collection of 'Other financial info' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "MEXC collects, processes, and stores Personal Data collected from you via your use of the Service or where you have given your\nconsent. This Personal Data may include:\n-Virtual Identity: MEXC Account/ Password, MEXC Nickname.\n-Financial Information: Bank account information, payment card primary account number (PAN), account assets, transaction history, trading data,\nand/or tax identification.\n-Transaction Information: Information about the transactions you make on the Platform, such as the name of the recipient, your name, the amount,\nand/or timestamp.\n-Message Content: Feedback, Email, SMS, App Rating, Comments.\n-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse\nmovement, scroll position, key events, and touch events.\n-Device Information: Carrier, brand, software version, model name, manufacturer, system language, OS version, locale, fingerprint, Build ID,\nbaseband version, SIM country, SIM serial number, battery status, network, OAID, IMEI, IDFA, GUID, MAC address, Android ID, SSID,\nAdvertising ID and gyroscope/accelerometer data.\n-Correspondence: Survey responses, information provided to our support team or user research team.\n-Audio, electronic, visual and similar information, such as call and video recordings.\n-Biometric data about yourself, including facial recognition data, fingerprint data, or other biometric data that may be used as a method of\nauthentication on the Device used to access the Platform.",
+      "justification": "The privacy policy explicitly lists 'SMS' under 'Message Content' as data collected.",
+      "how_to_fix": "Declare the collection of 'SMS or MMS' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "MEXC collects, processes, and stores Personal Data collected from you via your use of the Service or where you have given your\nconsent. This Personal Data may include:\n-Virtual Identity: MEXC Account/ Password, MEXC Nickname.\n-Financial Information: Bank account information, payment card primary account number (PAN), account assets, transaction history, trading data,\nand/or tax identification.\n-Transaction Information: Information about the transactions you make on the Platform, such as the name of the recipient, your name, the amount,\nand/or timestamp.\n-Message Content: Feedback, Email, SMS, App Rating, Comments.\n-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse\nmovement, scroll position, key events, and touch events.\n-Device Information: Carrier, brand, software version, model name, manufacturer, system language, OS version, locale, fingerprint, Build ID,\nbaseband version, SIM country, SIM serial number, battery status, network, OAID, IMEI, IDFA, GUID, MAC address, Android ID, SSID,\nAdvertising ID and gyroscope/accelerometer data.\n-Correspondence: Survey responses, information provided to our support team or user research team.\n-Audio, electronic, visual and similar information, such as call and video recordings.\n-Biometric data about yourself, including facial recognition data, fingerprint data, or other biometric data that may be used as a method of\nauthentication on the Device used to access the Platform.",
+      "justification": "The privacy policy lists 'Message Content' including 'Feedback' and 'Comments' as data collected, which falls under other in-app messages.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "MEXC collects, processes, and stores Personal Data collected from you via your use of the Service or where you have given your\nconsent. This Personal Data may include:\n-Virtual Identity: MEXC Account/ Password, MEXC Nickname.\n-Financial Information: Bank account information, payment card primary account number (PAN), account assets, transaction history, trading data,\nand/or tax identification.\n-Transaction Information: Information about the transactions you make on the Platform, such as the name of the recipient, your name, the amount,\nand/or timestamp.\n-Message Content: Feedback, Email, SMS, App Rating, Comments.\n-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse\nmovement, scroll position, key events, and touch events.\n-Device Information: Carrier, brand, software version, model name, manufacturer, system language, OS version, locale, fingerprint, Build ID,\nbaseband version, SIM country, SIM serial number, battery status, network, OAID, IMEI, IDFA, GUID, MAC address, Android ID, SSID,\nAdvertising ID and gyroscope/accelerometer data.\n-Correspondence: Survey responses, information provided to our support team or user research team.\n-Audio, electronic, visual and similar information, such as call and video recordings.\n-Biometric data about yourself, including facial recognition data, fingerprint data, or other biometric data that may be used as a method of\nauthentication on the Device used to access the Platform.",
+      "justification": "The privacy policy explicitly lists 'Audio... information, such as call... recordings' as data collected.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

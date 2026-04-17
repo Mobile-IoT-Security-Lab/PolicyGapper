@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "\"Personal Related Information” shall mean information related to certain individual including access log information associated with internet use, while not sufficient to identify a specific individual, distinctive in that one can recognize as “information related to a certain individual.\" This includes information concerning information communication equipment (e.g. identifier including identification code unique to each equipment and location data), browsing history of webpages etc. available through cookie identifier etc., email address or account ID, through which alone a specific individual cannot be identified.",
+      "lang": "English"
+    }
+  ]
+}

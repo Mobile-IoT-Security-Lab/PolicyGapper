@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Information you provide to us: We collect information you provide when you create an account, place an order, or contact customer support. This may include your name, email address, phone number, delivery address, and payment information. We also collect your order details, including the items you purchase, special instructions, and your feedback and ratings.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Technical Data: We and our partners use cookies and similar technologies to collect information about your browsing activities, device type, operating system, and other technical details to ensure our Services function correctly, to analyze performance, and to deliver personalized advertising. This may include unique identifiers associated with your device.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "If you choose to link your Just Eat account with a social network account (such as Facebook), you may be asked to provide us with your username and password for your social network accounts. We may also receive certain information from the social network, such as your name, profile picture, gender, friend lists and any other information you have chosen to make available. This information is used by us to create your Just Eat account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "If you choose to link your Just Eat account with a social network account (such as Facebook), you may be asked to provide us with your username and password for your social network accounts. We may also receive certain information from the social network, such as your name, profile picture, gender, friend lists and any other information you have chosen to make available. This information is used by us to create your Just Eat account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "We process health information about you only where you volunteer this to us, for example if you specify any food allergies. We will only do this with your consent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We may also collect information that you provide to us when you correspond with us (for example, by email, chat or phone). This includes information you provide when you register to use our Platforms, subscribe to our service, search for a product, place an Order on our Platforms, participate in discussion boards or other social media functions on our Platforms, enter a competition, promotion or survey, submit a query or report a problem with our Platforms. The information you give us may include your name, address, email address and phone number, financial and credit card information, personal description and photograph.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may also collect information that you provide to us when you correspond with us (for example, by email, chat or phone). This includes information you provide when you register to use our Platforms, subscribe to our service, search for a product, place an Order on our Platforms, participate in discussion boards or other social media functions on our Platforms, enter a competition, promotion or survey, submit a query or report a problem with our Platforms. The information you give us may include your name, address, email address and phone number, financial and credit card information, personal description and photograph.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We may record and monitor any communications we have with you, including phone conversations and emails, for the purposes of training, fraud prevention and quality assurance.",
+      "lang": "en"
+    }
+  ]
+}

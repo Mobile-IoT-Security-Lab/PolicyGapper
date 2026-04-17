@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Internet or other electronic network activity information, such as browsing history, search history, operating system, and information regarding your interactions with our applications, or advertisements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you send us requests via our contact form or email, your details from the contact form or email, including the contact data you have provided there, will be stored for the purpose of processing your request and in the event of follow-up questions. Under no circumstances will we pass on this data without your consent. The legal basis for processing the data is our legitimate interest in responding to your request pursuant to Art. 6 para. 1 lit. f GDPR and, if applicable, Art. 6 para. 1 lit. b GDPR, provided that your request is aimed at concluding a contract.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Internet or other electronic network activity information, such as browsing history, search history, operating system, and information regarding your interactions with our applications, or advertisements.",
+      "lang": "English"
+    }
+  ]
+}

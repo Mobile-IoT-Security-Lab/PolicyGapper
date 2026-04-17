@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "COOKIES\nTo improve the responsiveness for our User(s), we may use \"cookies\", or similar other electronic tools to collect information in order to assign each user a unique, random number as a user identification (\"User ID\") to understand each and every user's individual interests using their identified computer/mobile devices. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer/mobile devices. A cookie also cannot read data off your hard drive. The Android and iOS applications do not use \"cookies\" explicitly. However, the Company's Website(s)/Mobile Application(s) may use third party code and libraries that use \"cookies\" to collect information and improve their services. User(s) have the option to either accept or refuse these cookies and to know when a cookie is being sent to your device. However, in case the User(s) choose to refuse our cookies, he/she may not be able to use some/complete portions of our services. Advertisers using the platform of the Company's Website(s)/Mobile Application(s) to advertise may also assign and use their own cookies to your browser, a process that we do not control. Once the User(s) permit, We may obtain additional information such as list of apps installed on your device, device information, location, network carrier (\"Information\") available on your device, to personalize your experience and improve the app suggestions. This data may also be used at our end to take necessary business decisions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Log File Information: It is necessary to inform and clarify our User(s) that:\n(i) We automatically collect limited information about your computer's or mobile's connection to the internet, mobile number/email address (if applicable), including your IP address, when you visit the Company's Website(s)/Mobile Application(s).\n(ii) Your IP address is a number that lets computers attached to the Internet know where to send you data - such as the pages you view.\n(iii) We automatically receive and log information from your browser, including your IP address, your computer's name, your operating system, browser type and version.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "DEMOGRAPHIC AND PURCHASE INFORMATION\n(i) We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the User(s) behavior on our Website(s)/Mobile Application(s).\n(ii) Google Analytics specifically has been enabled to support display advertising helping us to gain understanding of our User(s); Demographics and Interests.",
+      "lang": "English"
+    }
+  ]
+}

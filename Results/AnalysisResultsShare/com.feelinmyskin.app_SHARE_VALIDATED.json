@@ -1,0 +1,47 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "50. The information obtained from the cookie files about the way the User uses the\nfeelinmyskin.com website is transferred and saved on the Google Inc. servers located in the\nUnited States.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes using Google as a service provider for first-party analytics, which is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' under the policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "50. The information obtained from the cookie files about the way the User uses the\nfeelinmyskin.com website is transferred and saved on the Google Inc. servers located in the\nUnited States.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes using Google as a service provider for first-party analytics, which is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' under the policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "50. The information obtained from the cookie files about the way the User uses the\nfeelinmyskin.com website is transferred and saved on the Google Inc. servers located in the\nUnited States.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes using Google as a service provider for first-party analytics, which is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' under the policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "50. The information obtained from the cookie files about the way the User uses the\nfeelinmyskin.com website is transferred and saved on the Google Inc. servers located in the\nUnited States.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes using Google as a service provider for first-party analytics, which is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' under the policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "The personal data of Users making payments via the mobile application, to the extent necessary for the payment execution, are entrusted to App Store for iOS devices or Google Play for Android devices.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes sharing data with Google Play for the essential purpose of payment processing, which is a service provider exemption.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' under the policy.",
+      "lang": "English"
+    }
+  ]
+}
+```

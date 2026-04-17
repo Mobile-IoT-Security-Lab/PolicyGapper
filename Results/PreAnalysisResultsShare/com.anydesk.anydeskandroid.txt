@@ -1,0 +1,441 @@
+With the following information, we would like to inform you about what types of personal data will be
+processed by us or on our behalf, based on which legal basis, for which purposes, and to what extent. In
+addition, we will inform you of your rights as a data subject with regards to this processing.
+
+---
+[SECTION: Controller]
+AnyDesk may operate through its subsidiary companies in different locations, including in Hong Kong
+SAR and in the State of Florida, USA. If AnyDesk is operating through its subsidiary companies:
+1. the same principles of this Privacy Policy will apply but will be construed in accordance with the relevant
+laws of the subsidiary company's jurisdiction; and
+2. the subsidiary company may be the data controller or joint data controller for the processing of your
+personal data.
+
+---
+[SECTION: Users of our website]
+Log files
+When users visit our website, we (or our web hosting provider) collect user access data (so-called server
+log files). The server log files can include the following data:
+
+---
+[SECTION: Cookies]
+• Third-party cookies are mainly used by advertisers (so-called third parties) to process user information.
+
+---
+[SECTION: Surveys]
+We rely on the voluntary feedback from our customers and website users in order to continuously
+improve our services and products. For this reason, we also use technical services and form functions of
+third-party providers, which we integrate into our website, in order to establish contact and to design
+specific surveys. In doing so, we collect the requested data, which you enter in the form, as well as meta
+and communication data (e.g. IP address), which we can assign to your customer and contract data.
+
+---
+[SECTION: Newsletters (email marketing)]
+Newsletters are sent on the basis of the recipient's consent, which can be withdrawn at any time (Art. 6 (1)
+(a) GDPR), or, if such consent is not required, on the basis of our legitimate interests in direct marketing
+(Art. 6 (1) (f) GDPR), if and to the extent that this is permitted by law (e.g. in the case of advertising to
+existing customers). The subscription process is recorded on the basis of our legitimate interests for the
+purpose of proving that it has been conducted properly (Art. 6 (1) (f) GDPR). If we commission a service
+provider to send emails, this is done on the basis of our legitimate interests in an efficient and secure
+mailing system (Art. 6 (1) (f) GDPR).
+
+Please note: The newsletters may contain a so-called web beacon (also called tracking pixel), i.e. a pixel-
+sized file that is retrieved from our server or from the server of a mailing service provider commissioned
+by us when the newsletter is opened. As part of this retrieval, we collect technical information, such as
+information about the browser and your system, as well as your IP address and the time of retrieval.
+
+On the one hand, this information is used to improve our newsletters on the basis of the technical data or
+to determine target groups and their reading behavior on the basis of their retrieval locations (which can
+be determined using the IP address) or access times.
+
+On the other hand, this analysis includes determining whether or not the newsletters are opened, when
+they are opened, and which links are clicked on. For technical reasons, this information can be assigned
+to the individual email addresses of the newsletter recipients. However, neither we nor the mailing service
+provider commissioned by us will make such an assignment; the data is evaluated exclusively to adapt our
+contents to the reading habits of our users. This evaluation takes place, subject to the express consent of
+the user to receive the newsletter, on the basis of our legitimate interests for the purpose of using a user-
+friendly and secure newsletter system which both serves our business interests and meets the
+expectations of the users (Art. 6 (1) (f) GDPR).
+
+---
+[SECTION: Plugins, embedded functions and content]
+We integrate various functions and content from third-party providers (e.g. graphics, videos or social
+media buttons and posts) in our website in order to make relevant information about our company and
+our services easily accessible to you as a user of our website. For this purpose, the third-party provide. -
+ess the IP addresses of the users, since without the IP address they would not be able to send the
+nt to their browsers.
+
+---
+[SECTION: Social media buttons]
+When you click on one of our social media buttons, the data is transferred to the corresponding social
+network via the so-called "Shariff" application. Instead of your browser, a connection with the server of
+the respective social network platform is established by the server on which our website is located, i.e.
+initially no personal data of the user is passed on to the social network provider. A "Shariff" button
+establishes direct contact between the social network and you as a user only when you actively click on
+the "Share" button. You can recognize the respective provider of the plugin by the marking on the box or
+in the circle above its respective first letter or the logo. More information about the "Shariff project" can
+be obtained from the developers of the ct magazine: https://www.heise.de/ct/artikel/Shariff-Social-
+Media-Buttons-mit-Datenschutz-2467514.html.
+
+---
+[SECTION: Pixel tags]
+In addition, third-party providers may use so-called pixel tags (also known as web beacons) in order to
+evaluate visitor flows. This exclusively pseudonymous information may also be stored in cookies on the
+user's device and may contain technical information about the browser and operating system, websites to
+be referred to, the time of visit, and other details on the use of our website, and may also be linked to
+such information from other sources. With regard to the legal basis and the individual opt-out options,
+please refer to the information on the use of cookies in this Privacy Policy.
+
+---
+[SECTION: Video integration]
+We integrate videos from the YouTube platform on our website, in particular via a plugin, in order to
+provide you with visually rich information about our products and technical processes. In doing so, we
+use the YouTube "No Cookies" function, i.e. we have enabled the "privacy-enhanced" function. Therefore,
+videos are accessed via youtube-nocookie.com instead of youtube.com. When the relevant pages are
+accessed, however, the IP address and other data mentioned under "Log files" are transferred and thus,
+in particular, information is provided as to which of our Internet pages you have visited. However, this
+information cannot be associated with you if you are permanently signed in to YouTube or another
+Google service when you access the page. When you start playing such an integrated video by clicking on
+it, the YouTube privacy-enhanced mode on your device only stores cookies that do not contain any
+personally identifiable information, unless you are currently signed in to a Google service. These cookies
+can be blocked via certain browser settings and extensions. With regard to the legal basis, please also
+refer to the information on the use of cookies in this Privacy Policy.
+
+---
+[SECTION: Interactive maps]
+Furthermore, we integrate Google Maps on our website in order to include an interactive map directly on
+the website to determine our company location and to allow you to conveniently use the map functioi:
+better navigation. In certain versions, the integration means that when the user accesses the website,
+e may set cookies with which a connection to the Google network is established. The legal basis for
+the integration of Google Maps and the associated data transfer to Google is your consent (Art. 6 (1) (a)
+GDPR). Please refer to the information on the use of cookies in this Privacy Policy.
+
+---
+[SECTION: eRecruiting]
+We also integrate a plugin for the "Prescreen" eRecruiting system on our website. This allows us to place
+job advertisements under the ".jobbase.io" domain and receive and manage applications. Cookies may be
+used on our website to record users of application forms. The legal basis for this is your consent (Art. 6 (1)
+(a) GDPR). Please refer to the information on the use of cookies in this Privacy Policy. When you go to our
+application page under https://anydesk.com/en/career/jobs and click the "Apply Now" button, the IP
+address as well as the information listed under "Log files" will be transferred to the server of the third-
+party provider and you will be forwarded to our current job offers on their server. The legal basis for this
+is § 26 BDSG in conjunction with Art. 88 GDPR, as well as (for the implementation of pre-contractual
+measures) Art. 6 (1) (b) GDPR. For more information, please refer to "Job offers and application process".
+
+---
+[SECTION: Protection of the website]
+We use the "Wordfence Security" service to protect our website from viruses and malware and to fend off
+attacks by computer criminals. IP addresses are stored on the third-party servers, in particular, to protect
+against so-called brute-force and DDoS attacks. IP addresses classified as harmless are placed on a white
+list. The protection of our website and its users constitutes a legitimate interest within the meaning of Art.
+6 (1) (f) GDPR. In addition, the plugin uses cookies to recognize whether the visitor of our website is a
+human or a robot. In this respect, please refer to the information on the use of cookies in this Privacy
+Policy. The Live Traffic View option of the plugin is disabled as it is not mandatory.
+
+---
+[SECTION: Online marketing]
+User profiles can be created and stored in a file (cookie) to display advertising content or to market
+advertising space (online marketing). These data can be used to determine the users' potential interests
+and to measure the effectiveness of online marketing. The stored data may include content accessed,
+websites visited, online networks used, as well as communication partners and technical information,
+such as the IP address, the browser used, the computer system used, and information on usage times. If
+users have consented to their location data being collected, this data may also be processed.
+
+The following shall also apply in the case of online marketing: We use a so-called IP masking procedure
+(pseudonymization by shortening the IP address) when storing IP addresses. In the context of web
+analysis and optimization, no real user ID data is stored (i.e. neither email addresses nor names), but
+strictly pseudonyms.
+
+Therefore, we do not know the actual identity of the users. We use these stored data exclusively for the
+aforementioned purposes in their pseudonymous user profiles. In exceptional cases, real ID data may be
+assigned to the user profiles if the respective user is a member of a social network whose online
+marketing process we use and with whose providers the users have entered into agreements (e.g. by
+giving consent during registration), according to which the network may link the user profiles with the
+aforementioned data.
+
+---
+In general, the data stored in the cookies (or using comparable processes) may also be read on other
+websites (which use the same online marketing process) and, in turn, may be analyzed for the purpose of
+displaying content, supplemented with further data if necessary, and stored on the server of the online
+marketing process provider.
+
+---
+[SECTION: Review procedures and widgets]
+We use the so-called review widgets on the AnyDesk website to allow our customers to review providers
+and products, and for our own quality management. In the process, a reference to the results of the
+review of our products by customers offered by a service provider named in there is integrated via a
+linked page or image element. When the image element is called up, the service provider's web server
+automatically saves the IP address and the information listed under "Log files". Further personal data may
+be transferred to the respective service provider if you have decided to review our products according to
+their terms and conditions.
+
+---
+[SECTION: Content Delivery Network]
+In order to deliver the content of our website, i.e. also large media files (such as graphics, videos or
+program scripts) to you faster and more securely, we use regionally distributed servers of a so-called
+Content Delivery Network (CDN), which are connected via the Internet. In doing so, we establish a
+connection to the server of the CDN service provider and transfer your IP address there. If you are signed
+in with an existing user account with this service provider while visiting our website, this service provider
+can also associate your visit to our website with your user behavior. The legal basis for the use of a CDN
+and the associated data transfer are our legitimate interests in improving our website to make it easier
+for the customers to use it (Art. 6 (1) (f) GDPR).
+
+In addition, the service provider can send further cookies to your browser. In this respect, please refer to
+the information on the use of cookies in this Privacy Policy.
+
+---
+[SECTION: Services and service providers used]
+Albacross
+Service provider: Albacross Nordic AB, Kungsgatan 26, 111 35 Stockholm, Sweden
+Privacy Policy: https://albacross.com/privacy-policy/
+Cookie Policy: https://albacross.com/cookie-policy/
+Brainformatik CRM PLUS
+Service provider: Brainformatik GmbH, Mobil-Oil-Str. 31, D-84539 Ampfing
+Website: https://www.brainformatik.com
+Privacy Policy: https://www.brainformatik.com/datenschutz/
+Cloudfront
+Service provider: Amazon Web Services, Inc., 410 Terry Avenue North, Seattle WA 98109, USA
+Website: https://aws.amazon.com/de/
+Privacy Policy: https://aws.amazon.com/de/privacy/?nc1=f_pr
+Criteo
+Le provider: Criteo GmbH, Gewürzmühlstr. 11, D-80538 Munich
+--- [PAGE BREAK] ---
+Website: https://www.criteo.com/de
+Privacy Policy: https://www.criteo.com/privacy/
+Opt-Out: https://www.criteo.com/privacy/
+G2Crowd
+Service provider: G2Crowd Inc., 20 N. Wacker Drive, Suite 2050, Chicago, IL 60606, USA
+Privacy Policy: https://www.g2.com/static/privacy
+Cookie Policy: https://www.g2.com/static/cookie_policy
+Further legal information: https://www.g2.com/static/legal
+Google Analytics
+Service provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland
+Parent company: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+Website: https://marketingplatform.google.com/intl/de/about/analytics/
+Privacy Policy: https://policies.google.com/privacy
+Opt-Out:https://tools.google.com/dlpage/gaoptout
+Settings for the display of advertising pop-ups: https://adssettings.google.com/authenticated
+Google Ads and Conversion Measurement
+Service provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland
+Parent company: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+Website: https://marketingplatform.google.com
+Privacy Policy: https://policies.google.com/privacy
+Google Maps
+Service provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland
+Parent company: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+Website: https://www.google.com/maps
+y Policy: https://policies.google.com/privacy
+--- [PAGE BREAK] ---
+Facebook Pixels and Target Group Formation (Custom Audiences)
+Service provider: https://www.facebook.com, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal
+Harbor, Dublin 2, Ireland
+Parent company: Facebook, 1 Hacker Way, Menlo Park, CA 94025, USA
+Website: https://www.facebook.com
+Privacy Policy: https://www.facebook.com/about/privacy
+Opt-Out: https://www.facebook.com/settings?tab=ads
+Hotjar
+Service provider: Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000,
+Malta
+Privacy Statement: www.hotjar.com/privacy
+Privacy Policy: www.hotjar.com/legal/policies/privacy
+HubSpot
+Service provider: HubSpot, Inc., 25 First St., 2nd floor, Cambridge, Massachusetts 02141, USA
+Website: https://www.hubspot.de
+Privacy Policy: https://legal.hubspot.com/de/privacy-policy
+Prescreen
+Service provider: Prescreen International GmbH, Mariahilfer Strasse 17, 1060 Vienna
+Website: https://prescreen.io/de/
+Privacy Policy: https://prescreen.io/de/datenschutzerklaerung/
+Shariff
+Service provider: Heise Medien GmbH & Co. KG, Karl-Wiechert-Allee 10, 30625 Hanover
+Website: https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html
+Privacy Policy: https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-
+4860.html
+la
+--- [PAGE BREAK] ---
+Service provider: Taboola, Inc. 16 Madison Square West 7th Floor New York, New York 10010, USA
+Website: https://www.taboola.com/de
+Privacy Policy: https://www.taboola.com/privacy-policy
+Opt-Out: https://www.taboola.com/privacy-policy#user-choices-and-optout
+Typeform
+Service provider: Typeform S.L., Carrer Bac de Roda, 163, 08018 Barcelona, 1-2, Spain
+Privacy Policy: https://admin.typeform.com/to/dwk6gt
+Cookie Policy: https://admin.typeform.com/to/dwk6gt
+Wordfence Security
+Service provider: Defiant Inc., 800 5th Ave., Suite 4100, Seattle, WA 98104, USA
+Privacy Policy: https://www.wordfence.com/privacy-policy/
+WPML
+Service provider: OnTheGoSystems Limited, 22/F 3 Lockhart Road, Wanchai, Hong Kong
+Privacy Policy: https://wpml.org/documentation/privacy-policy-and-gdpr-compliance
+Yoast SEO
+Service provider: Yoast BV, Don Emanuelstraat 3, 6602 GX Wijchen, the Netherlands
+Privacy Policy: https://yoast.com/privacy-policy
+YouTube
+Service provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland
+Privacy Policy: https://policies.google.com/privacy
+Opt-Out: https://adssettings.google.com/authenticated
+
+---
+[SECTION: Applications (apps)]
+When the remote data connection takes place between the connection partners, the session data are
+transferred to the software client of the other connection partner via our master server and (taking into
+account, in particular, the locations and the current load) certain routing servers. AnyDesk itself does not
+access these session data. We store the following usage data for the purposes also mentioned in here
+(existing data will be overwritten):
+
+---
+[SECTION: Google Speech-to-Text]
+In our app you will find the Google Speech-to-Text function. This is operated by Google LLC, 1600
+Amphitheatre Parkway, Mountain View, CA 94043, USA (hereinafter "Google").
+This function is used to compose voice messages and send them to the Google Cloud for conversion into
+character strings.
+The Google Speech-to-Text function is provided as an option.
+Data is therefore only transmitted to Google when you press the microphone icon. This activates the
+microphone you are using and you now have the option of converting the spoken language into text.
+
+---
+[SECTION: Recipients of the data]
+If you activate the microphone icon and make a voice input, Google receives the spoken sentence in
+order to convert it into text.
+Google does not make the audio sent to the Speech-to-Text API available to anyone except as necessary
+to provide the Speech-to-Text API service. For example, it may be necessary to engage a third-party
+provider to provide some aspects of Google's services, such as data storage or transmission. In these
+cases, that provider is subject to contractual obligations of security and confidentiality. Google does not
+share your audio content with other parties for any other purpose.
+
+---
+[SECTION: Provision mandatory or required]
+The provision of your personal data is voluntary and is not required by law or contract. However, without
+the data transfer to Google-Speech-to-Text, a conversion of your spoken language into text is not
+possible.
+
+---
+[SECTION: Social networks]
+Our company maintains an online presence within various social networks (social media). We process
+data of active users of these social networks in order to communicate with them there or to offer
+information about AnyDesk. This processing takes place on the basis of our legitimate interests in
+effective information for users and communication with users under the applicable framework conditions
+of the respective social medium in accordance with Art. 6 (1) (f) GDPR. If you, as a user of the respective
+social medium, are asked to give your consent to data processing (e.g. by ticking a check box), the legal
+basis for processing is Art. 6 (1) (a) GDPR.
+
+If it is technically possible for us to influence the processing operations relevant to the data protection
+regulations of the respective social media you have accessed, we will do so in the sense of data
+minimization within the meaning of Art. 5 (1) (c) GDPR. However, please note that your use of the
+respective social networks is subject to their terms and conditions and data processing guidelines.
+Therefore, it cannot be ruled out that your data may also be processed outside the European Union. On
+the one hand, this could make it more difficult to enforce your rights. On the other hand, the data
+collected when using the functionalities of the social networks may also be analyzed and processed fo
+''et research and advertising purposes. This is done by storing your usage behavior and the resulting
+sts and preferences as usage profiles in cookies and by placing advertisements based on these
+profiles inside and outside the social networks that presumably match your interests (online marketing). If
+you as a user are also a member of the respective social networks and are signed in to them, the usage
+profiles may also store data that are independent of those of the end devices you are using.
+
+Information and notes on the respective forms of processing and the opt-out options can be found in the
+privacy policies and details of the operators of the respective networks. Since only the respective
+operators of the social networks have access to the data processed by them, you would also need to
+make requests for information in this regard and assert your rights as a data subject with them. We will
+be more than happy to help you if you need our support in this regard.
+
+Services and service providers used:
+• Facebook
+Service provider: Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbor, Dublin 2, Ireland
+Parent company: Facebook, 1 Hacker Way, Menlo Park, CA 94025, USA
+Website: https://www.facebook.com
+Privacy Policy: https://www.facebook.com/about/privacy
+Opt-Out: Settings for advertisements: https://www.facebook.com/settings?tab=ads
+Facebook offers a special agreement ("Information about Page Insights",
+https://www.facebook.com/legal/terms/page_controller_addendum), which regulates which security
+measures Facebook must observe and in which Facebook has agreed to respect the rights of data
+subjects. We have entered into this agreement with Facebook in order to better assert your rights. Your
+rights as a user (in particular, to information, erasure, objection and complaint to the competent
+supervisory authority) are, of course, not restricted by these agreements with Facebook. Further
+information can be found in the "Information about Page Insights"
+(https://www.facebook.com/legal/terms/information_about_page_insights_data).
+• LinkedIn
+Service provider: LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Ireland
+Website: https://www.linkedin.com
+Privacy Policy: https://www.linkedin.com/legal/privacy-policy
+Opt-Out: https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out
+• Twitter
+Service provider: Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA
+Privacy Policy: https://twitter.com/de/privacy
+Settings: https://twitter.com/personalization
+dit
+vice provider: reddit Inc., 520 Third Street, Suite 305, San Francisco, CA 94107, USA
+--- [PAGE BREAK] ---
+Website: https://www.redditinc.com
+Privacy Policy: http://www.reddit.com/help/privacypolicy
+• Spiceworks (Community)
+Service provider: Spiceworks, Inc., 3700 N. Capital of Texas Highway, Suite 100, Austin, Texas 78746,
+USA
+Website: https://community.spiceworks.com
+Privacy Policy: https://www.spiceworks.com/privacy/
+Cookie Policy: https://www.spiceworks.com/privacy/cookies/
+• Xing
+Service provider: XING AG, Dammtorstrasse 29-32, 20354 Hamburg, Germany
+Website: https://www.xing.de
+Privacy Policy: https://privacy.xing.com/de/datenschutzerklaerung
+
+---
+[SECTION: Job offers and application process]
+the implementation of pre-contractual measures with regard to freelancers) Art. 6 (1) (b) GDPR. The data
+will be encrypted and transferred to us in accordance with the latest state of the art. Please note that we
+may use third-party services for the purpose of searching for and selecting applicants (e.g. applicant
+management or recruitment software and platforms). The legal basis for this is our legitimate interest in
+an efficient and transparent job advertisement (Art. 6 (1) (f) GDPR; please also refer to the information in
+"Data recipients").
+
+---
+[SECTION: Duration of storage]
+We will inform you if we use the services of third-party providers or platforms to provide our services,
+since the relationship between you as a user of these services and the respective providers will then be
+governed by their terms and conditions and privacy policies (and thus possibly different storage periods).
+It is the responsibility of the contractual partner to secure their data when the storage period expires (e.g.
+if the customer account is terminated).
+
+---
+[SECTION: Data recipients]
+We will only pass on your data to third parties in compliance with the statutory provisions to the extent
+that this
+a. is necessary for the purposes described under "Categories of data",
+b. is necessary to fulfill legal obligations, or
+c. takes place with your consent as a data subject.
+If the transfer or disclosure of the data takes place on our behalf for the execution of data processing
+processes that are earmarked for a specific purpose or subject to consent according to (a) above, we will
+enter into suitable contracts or agreements with the recipients of the data (processors) which serve to
+protect your data (Art. 28 GDPR).
+Recipients of this data can be:
+• Telecommunications companies
+• (Technical and organizational) auxiliary service providers
+• Subcontractors
+• Banks
+• Tax and legal advisers
+• Web hosting providers
+• IT service providers
+• Providers of product review procedures
+• Payment service providers
+• Providers of online application tools
+viders of web analysis, online marketing or CRM services
+--- [PAGE BREAK] ---
+• Providers of survey tools
+• Cloud services
+• Tax authorities
+We may transfer personal data to affiliated companies of our group of companies or grant them access
+to this data. If this transfer takes place for administrative purposes, the transfer of the data is based on
+our legitimate business and commercial interests (Art. 6 (1) (f) GDPR) or takes place if it is necessary to
+fulfill our contractual obligations (Art. 6 (1) (b) GDPR), or if the consent of the data subject (Art. 6 (1) (a)
+GDPR) or legal permission (Art. 6 (1) (c) GDPR) has been obtained.
+
+Subject to your express consent (Art. 6 (1) (a) GDPR) or a transfer required by contract (Art. 6 (1) (b) GDPR)
+or by law (Art. 6 (1) (c) GDPR), your personal data will only be processed in third countries (i.e. outside the
+European Union or the European Economic Area) with a recognized level of data protection, a contractual
+obligation through so-called standard protection clauses of the EU Commission, in the presence of
+certifications or binding internal data protection regulations, by us or on our behalf (Art. 44 to 49 GDPR).
+
+---
+[SECTION: Right to data portability]
+In accordance with the legal requirements, you have the right to receive the data you have provided in a
+structured, common and machine-readable format or to request that it be transferred to another
+responsible party.

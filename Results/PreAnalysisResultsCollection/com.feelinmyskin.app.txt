@@ -1,0 +1,234 @@
+10. 'processing' means any operation or a set of operations which is performed on personal
+data or on sets of personal data, whether or not by automated means, such as collection,
+recording, organisation, structuring, storage, adaptation or alteration, retrieval,
+consultation, use, disclosure by transmission, dissemination or otherwise making
+available, alignment or combination, restriction, erasure or destruction;
+
+---
+
+21. 'data collected automatically' means demographic data and data concerning the use of
+the Application which do not allow for unambiguous identification of the User.
+
+---
+
+5. The personal data of the user are processed exclusively for the following purposes:
+a. sending commercial and marketing information by means of a newsletter;
+b. maintaining contact by means of a contact form available on the website;
+c. acceptance and publication of the user's comments regarding the content presented on
+the website provided by means of the form;
+d. establishment, exercise or defence of legal claims of the Personal Data Controller,
+including for the purposes of recovery and conducting court proceedings;
+
+---
+
+6. The basis for processing of personal data of the users using the contact form and commenting
+on the content presented on the website is the user's consent collected in compliance with
+Article 6(1)(a) of the GDPR.
+
+---
+
+7. The basis for processing of personal data of the users using the newsletter for marketing and
+promotional purposes is the user's voluntary consent, collected in accordance with Article 6(1)
+(a) of GDPR, the Act of 18 July 2002 on the provision of services by electronic means and the
+Act of 16 July 2004 – telecommunications law.
+
+---
+
+9. The Personal Data Controller processes the following personal data of a user:
+1. Contact form: Name and surname, email address, IP address;
+2. comments: Name, email address, URL; IP address;
+3. newsletter: email address.
+
+---
+
+Newsletter
+12. Receiving the newsletter by a user is possible only upon provision of an email address in the
+newsletter form and provision of a consent to personal data processing, to personal data
+processing for marketing purposes in line with the Act from 16 April 2004 – telecomunications
+law – as well as provision of consent for receiving commercial information by electronic means
+in accordance with the Act of 18 July 2002 – on the provision of electronic services.
+
+---
+
+Contact Form
+15. The personal data of the user collected by means of a contact form are processed only for the
+purposes of making and maintaining contact between the user and the Controller, to which the
+user consents by ticking a clause located under the contact form.
+
+---
+
+Application
+16. The Controller collects personal data through the Feelin My Skin mobile application.
+
+---
+
+19. When creating a User Account, the User enters his or her e-mail address and defines its
+password.
+
+---
+
+21. The e-mail address provided by the User during the registration of the User Account must be
+confirmed by the User.
+
+---
+
+22. The Controller will send an e-mail with a registration confirmation link to the User's e-mail
+address provided upon creating a User account. The User must click on the activation link or
+copy it to the address bar of its web browser and then confirm it by pressing “Enter”. After that,
+a confirmation of the registration process completion will be displayed in the web browser and
+the User will be able to use all functionalities of the Application.
+
+---
+
+The Application's access to resources available on the User's mobile
+device
+24. Το function properly, the Application may require access to the resources available on the User's
+mobile device.
+25. The User may, but does not have to, consent to the Application accessing the resources of its
+mobile device, however, refusing access to some of those resources may limit or prevent the
+use of certain functionalities of the Application.
+
+---
+
+27. The Application may require access to: the gallery, camera, calendar and notifications.
+
+---
+
+Collection of personal data by the Application
+30. The Controller collects the following personal data of the User:
+1. User's name and surname
+2. User's image (the so-called avatar) – optional
+3. contact details: e-mail address, website address, links to the User's accounts on social
+media sites – optional
+4. User's birth date – optional (publication of this information is at the User's discretion)
+5. location information (town/city, country) – optional (publication of this information is at the
+User's discretion)
+6. information about the User's skin type – optional (publication of this information is at the
+User's discretion)
+
+---
+
+31. Users' data will be processed through the Application for the following purposes:
+1. to provide services by electronic means and to enable the use of the services available
+within the Application, including registration and use of the Application, making the
+functionalities of the Application available to Users, maintaining contact, maintaining and
+operating the account in the Application (Article 6(1)(b) of the GDPR) and, in the case of
+data belonging to special categories of data, on the basis of the User's consent (Article
+9(2)(a) of the GDPR);
+2. to handle the electronic contact form made available within the Application on the basis of
+the Controller's legitimate interest consisting in the handling of inquiries and requests,
+including responding to them (Article 6(1)(f) of the GDPR);
+3. to potentially establish, exercise or defend legal claims on the basis of Controller's
+legitimate interest consisting in protecting its rights (Article 6(1)(f) of the GDPR);
+4. to allow the Controller to offer products or services directly on the basis of the Controller's
+legitimate interest, consisting in particular in the sending of e-mail notifications about
+offers or content, which in some cases contain commercial information, and conducting
+other activities related to direct marketing of products or services, including contextual
+(i.e. not adjusted to the User's preferences) and behavioural (i.e. adjusted to the User's
+preferences) advertising (Article 6(1)(f) of the GDPR); whereby you will be invited to give
+your consent to receive commercial information by e-mail or other electronic means of
+communication;
+5. for analytical and statistical purposes on the basis of the Controller 's legitimate interest
+consisting in conducting analyses of User's activity and their preferences in order to
+optimise services and products and improve the functionalities of the Application (Article
+6(1)(f) of the GDPR);
+6. for archival purposes on the basis of the Controller's legitimate interest consisting in
+securing information in the event of a legal need to prove facts which constitute the
+fulfilment of the Controller's legitimate interest (Article 6(1)(f) of the GDPR).
+
+---
+
+32. The Controller does not collect personal data without the User's consent, only data without such
+qualities, in particular demographic data and data concerning the use of the Application.
+
+---
+
+33. Data collected automatically do not allow for unambiguous identification of the User.
+
+---
+
+34. Data collected automatically may be used by the Controller to improve the quality of the
+services provided, in particular in the event of an error in the Application. In the situation
+described above, data collected automatically will concern the error in the Application, including
+the condition of the User's mobile device at the time of the error occurrence, identification of the
+User's mobile device, physical location of the User's mobile device at the time of the occurrence
+of error.
+
+---
+
+Application data on the User's mobile device
+36. The following data are stored on the User's mobile device: an encrypted unique Application
+identifier – it is stored on the device until the Application is removed. The identifier of the
+Application and information about the brand, model and hardware identifier of the mobile device
+are sent to the Controller in the process of device registration in the Application and are used to
+unambiguously identify the Application and the mobile device.
+
+---
+
+41. The user has the right to have his or her data erased ('right to be forgotten'), whereas the
+Personal Data Controller is obliged to erase them without undue delay in a situation when: a) the
+personal data are no longer necessary in relation to the purposes for which they have been
+collected, b) the data subject has withdrawn consent which constitutes the basis for processing,
+c) the data subject objects to the processing regarding his or her personal data, d) the personal
+data have been unlawfully processed, e) the personal data have to be erased for compliance
+with a legal obligation specified in the provisions of law.
+
+---
+
+User responsibility
+62. The User is responsible for the accuracy and factual correctness of the personal data he or she
+provides.
+
+---
+
+Google Analytics
+48. The feelinmyskin.com website uses the Google Analytics plugin (a tool created by Google Inc.).
+Google Analytics is a service that analyzes Internet services using the so-called "Cookies", text
+files that are saved on the website User's computer and enable feelinmyskin.com to analyze the
+use of the website by Users.
+
+---
+
+50. The information obtained from the cookie files about the way the User uses the
+feelinmyskin.com website is transferred and saved on the Google Inc. servers located in the
+United States.
+
+---
+
+51. The feelinmyskin.com website uses Google Analytics with the following settings:
+1. IP anonymisation – this means that the Users' IP addresses of the feelinmyskin.com
+website are processed after being shortened to exclude the possibility of referring them to
+a specific User. The IP address is not collated with other Google data;
+2. Disabled Advertising and Remarketing options – which means that the feelinmyskin.com
+website will not send personalized ads to the Users and will not display advertisements of
+the website when User uses Google search engine;
+3. Disabled Demographics and Interest Reports options – which means that the
+feelinmyskin.com website does not collect information about sex and age of the User and
+does not combine this information with information about their interests;
+4. Disabled User-ID – which means that the feelinmyskin.com internet service does not allow
+to combine data from interactions with multiple devices and different sessions with
+unique User identifiers; the website does not use the User-ID function and does not allow
+assigning one or more sessions (along with all activity in these sessions) to a unique and
+permanent identifier;
+5. Disabled option to share data with Google Inc. – feelinmyskin.com website does not
+provide Users' data collected from cookies:
+a. to other Google services used to analyze online behaviors and trends that are
+intended to improve Google's tools;
+b. for the purposes of comparative analysis involving the use of data to create tools
+and materials helpful in the marketing activities of a given industry;
+c. for Google technical support – Google support does not receive access to collected
+data;
+d. to Google's marketing and sales specialists to improve the effectiveness of using
+Google tools through feelinmyskin.com.
+
+---
+
+52. The maximum period of User's data storage by the feelinmyskin.com website is 26 months.
+
+---
+
+53. The user can prevent the saving of cookies by setting the appropriate settings in the browser
+software. Changing those settings may cause the User to lose the access to some of the
+functions of the feelinmyskin.com website. In order to disable Google Analytics tracking, the
+User can install a browser extension available at the following address:
+tools.google.com/dlpage/gaoptout.

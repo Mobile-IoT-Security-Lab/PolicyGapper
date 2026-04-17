@@ -1,0 +1,317 @@
+•
+•
+•
+•
+•
+•
+•
+•
+SHARE, TRANSFER, SELLING AND DISCLOSURE OF USER INFORMATION
+MANAGEMENT OF USER INFORMATION
+RETENTION OF USER INFORMATION
+SECURITY OF USER INFORMATION
+INTERNATIONAL TRANSFER OF USER INFORMATION
+PROTECTION OF CHILD USERS' PERSONAL INFORMATION
+REGIONAL PRIVACY DISCLOSURES
+USERS' RIGHT OF REMEDY
+•
+CONTACT US
+---
+1. Scope and Consent
+This Policy sets out why, how and what personal information we collect, use, store, process, share,
+transfer and publicly disclose about you, the information security protection measures we take, and the
+rights we honor for your access, update, deletion and control of your personal information. Please read
+this Policy in combination with PolyBuzz Terms of Use . If you do not agree to this Policy, you shall stop
+using PolyBuzz and/or our Services.
+---
+We will provide a child user, defined by Children's Online Privacy Protection Rule ("COPPA"), with our
+Services only after his/her parent or guardian has read this Policy, fully acknowledged and agreed to all
+the terms herein, and given consent required by applicable laws. Unless otherwise permitted or required
+by law, we will not collect, use, or disclose any personal information of a child user without obtaining
+consent from that child's parent or guardian. Parents can review personal information collected about the
+child user, have the information deleted, and request us to discontinue collection or use of the child's
+personal information.
+---
+Please read this Policy carefully. By accessing or using PolyBuzz and/or our Services, you agree and
+acknowledge that you understand, agree and consent to this Policy and to the collection, use, process,
+share, transfer and disclosure of information about you that you have provided or may in the future
+provide to us for the purposes set out in this Policy and in accordance with applicable laws.
+---
+•
+Information collected from other sources in line with this Policy (e.g., third-party service providers or
+social media platforms).
+---
+2.1.2.1 Registration
+You may log in with your current Google, or Apple account. When you do so, a PolyBuzz account will be
+automatically created. You may create a new account through your email and follow our registration
+steps.
+---
+2.1.2.6 User Consent
+You will be asked to consent to the following:
+•
+photos/storage: to collect the photos that you wish to upload and display to other users, or train our Al
+algorithm (photos will be uploaded to our back-end server)
+•
+Microphone: to input texts via voice input feature
+•
+Internet access: to view WLAN state and network connections to optimize Internet access by cellular
+network status camera: to take photos and/or videos for your questions identity: to link to and enable
+login through a third-party account (e.g., Google or Apple)
+---
+2.3 User Information Obtained from Third Parties
+2.3.1 We may collect and use user personal information from a third party upon your consent. We process
+your personal information in accordance with the contract with the third party and applicable laws, and
+we ask that you carefully read the service agreement and privacy policy of such third party. Your refusal
+to a third party's collection, use or sending of your personal information may result in failure to use
+PolyBuzz. Please note that we do not condition your use of our Services on the disclosure of more
+personal information than is reasonably necessary.
+2.3.2 When You log into PolyBuzz through a social media plug-in, you will be redirected to the third-party
+platform, where you can register or log into an account thereof. When logging in through the registered
+account of a permitted third party, your profile of that third-party account will be bound with an
+automatically created PolyBuzz account. Currently, we offer social media sign-in for Google and Apple
+users. Through the link between two accounts, we only collect user name and profile picture from the
+third-party account. Please note that even if the third-party provider may collect your device version,
+system version, generated ID, phone style, phone name, ICCID (for iOS only), BSSID (for iOS only), MAC
+(for iOS only), IMSI (for iOS only), IMEI (for iOS only) for their purpose, such information will not be
+needed by and transferred to us.
+WE HAVE NO CONTROL OVER AND ASSUME NO RESPONSIBILITY FOR THE CONTENT, PRIVACY
+POLICIES OR PRACTICES OF ANY THIRD-PARTY WEBSITES AND MOBILE APPLICATIONS OR ANY
+SERVICES OFFERED BY SUCH THIRD PARTIES. YOU AGREE THAT WE WILL NOT BE LIABLE FOR ANY
+BREACH OF YOUR 'S PRIVACY OF PERSONAL INFORMATION NOR FOR ANY LOSS INCURRED TO YOU
+AS A RESULT OF USE OF SUCH THIRD-PARTY PRODUCTS OR SERVICES.
+---
+Subject to applicable laws, we may not need to obtain your consent when collecting and using your
+personal information, but only if:
+•
+it is directly related to crime investigation, prosecution, trial and execution of judgment, or is required
+by the competent authorities or other circumstances required by applicable laws including but not limited
+to in response to court orders and subpoenas;
+---
+[PAGE BREAK]
+---
+•
+SDKs
+An SDK (Software Development Kit) is a collection of software tools, libraries, documentation, code
+samples, and sometimes APIs (Application Programming Interfaces) that developers use to create
+applications for specific platforms, frameworks, or devices. SDKs make it easier to integrate certain
+features or functionalities into an app without building them from scratch.
+Our application integrates third-party Software Development Kits (SDKs) to enhance its functionality and
+provide certain features. These SDKs may collect information automatically, such as:
+Device identifiers (e.g., IMEI, MAC address, advertising ID)
+•
+•
+Usage data (e.g., app interactions, session duration)
+•
+•
+Technical data (e.g., IP address, operating system, device type, mobile network information)
+Location information, if you grant permission
+The data collected by these SDKs is used to improve user experience, provide analytics, serve
+advertisements, or enable features like in-app purchases. We ensure that any third-party SDK we
+integrate complies with applicable data protection laws and has a robust privacy policy governing the
+collection and use of data.
+---
+We may allow third-party advertising networks to place cookies or other tracking technologies on your
+computer, mobile phone, or other device to collect information about your use of the Services in order to
+(a) inform, optimize, and serve marketing content based on past visits to our website and other online
+services and (b) report how our marketing content impressions and interactions with these marketing
+impressions are related to visits to our online services.
+---
+Our third-party operators may provide you with an ad based on your data includes GAID (Google
+Advertising ID on Android devices) or IDFA (Identifier for Advertising on IOS devices), region, location
+information and IP address. This Policy does not govern Third-party Operators, as they have their own
+privacy policies (such as TopOn: https://help.toponad.com/docs/Privacy-Policy).
+---
+You may receive advertising on your computer through a web browser. Cookies may be associated with
+de-identified data linked to or derived from data you voluntarily have submitted to us (e.g., your email
+address) that we may disclose to a vendor in hashed, non-human-readable form.
+---
+•
+We use your information collected by PolyBuzz to:
+•
+provide our Services;
+•
+improve PolyBuzz and/or our Services;
+•
+respond to your questions and requests;
+•
+provide you with a safe, efficient, and customized experience, and
+•
+share with third parties (including the Chat-GPT platform) that help us deliver effective functionality.
+---
+5.3 We use user information to prevent, detect, and investigate fraud, security breaches, and potentially
+prohibited or illegal activities, establish, exercise, or defend a legal claim, and enforce our Terms of
+Use or this Policy. We also use information in response to requests by government or law enforcement
+authorities, or in response to complaints where we are under a legal or regulatory obligation to adhere to
+a complaint-handling procedure.
+---
+[PAGE BREAK]
+---
+6. Share, Transfer, Selling and Disclosure of User Information
+6.1 Share of user information
+You have the right to the knowledge that whether your information has been shared. Except as otherwise
+expressly described herein or otherwise permitted by applicable laws, we will not share user personal
+information with any third party, unless:
+•
+•
+you propose the request for doing so, or we have obtained your prior express consent for doing so;
+it is related to performance of our obligations required by applicable laws;
+•
+•
+it is directly related to national security, public safety, public health, and/or significant public interests;
+it is directly related to crime investigation, prosecution, trial and execution of judgment, or is required
+by the competent or law enforcement authorities or other circumstances required by applicable laws
+including but not limited to in response to court orders and subpoenas;
+•
+it is required for safeguarding your life, property and other significant legal interests, but it is difficult
+to obtain your consent, or we have reason to believe that someone is or may be causing injury to or
+interference with our rights or property, other users, or anyone else that could be harmed by such
+activities;
+•
+•
+•
+•
+the information was made available to the general public by yourself;
+the information is collected from legally and publicly disclosed channels, such as legal news reports,
+published government information or other channels;
+it is shared with our business partners, subsidiaries, affiliates, contractors, service providers, and
+other third parties we collaborate with to support our Services in compliance with this Policy, as may
+be needed.
+To provide users with integrated services of high quality, some features may be supported by our
+technical service contractors, and we may therefore subcontract the processing of personal information
+to them. We will enter into a strict confidentiality agreement and data processing agreement with each
+service contractor regarding user personal information. Such agreements will specify the responsibilities
+of the parties, the information to be processed, and the period, nature and purpose of processing. We will
+require the contactors to process user personal information only as per our request, this Policy and any
+other relevant confidentiality and security measures.
+Any such contractor is deemed an independent data processor who has been asked to obtain your
+consent in its own name. Each contractor may have its independent service agreement and privacy
+policy, and we suggest that you read them carefully and decide on your own as to whether to grant
+consent. But please be reminded that your refusal may result in failure to use certain functions contained
+in PolyBuzz that are provided by such contractor.
+---
+In principle, we will not transfer the right to control user personal information to any other individual,
+company, or organization, unless we are subject to merger, acquisition, bankruptcy, or liquidation. On that
+occasion, we will notify you of the purpose of transfer, the type of information to be transferred and the
+recipient of that information.
+---
+6.3 Selling of User Information
+We DO NOT sell User Information to any other individual, company, or organization. If you suspect that
+your personal data has been sold or commodified, you should contact our Data Protection Officer (DPO)
+immediately. You may find our DPO contact information in the “Contact Us" section below.
+---
+6.4 Disclosure of User Information
+Generally, we will not disclose any user personal information, unless:
+•
+it is necessary for us to perform our obligations stipulated in our Terms of Use, this Policy, or
+applicable laws;
+•
+we have obtained your consent;
+•
+we are legally required to do so in order to comply with applicable laws, governmental requests,
+judicial proceedings, court orders and subpoenas, or other legal requirements; or
+•
+we believe it is necessary to investigate, prevent, or act regarding illegal activities, suspected fraud,
+potential threats to the safety of any person, violations of our Terms and Condition or this Policy, or as
+evidence in litigation in which we are involved.
+---
+6.5 Transfer of Selected User Information Upon Subscription Cancellation Request
+You have the right and may cancel your paid subscription at any time. But you must be aware and
+consent that some of your personal information will be transferred to the third-party payment vender
+(such as Apple Pay, Google Pay, Stripe, etc.) you used to make the payment. The transferred information
+is for the purpose of ensuring an accurate cancellation. The personal information to be collected and
+transferred will include, but not limited to, days of your account registration, active hours of your account,
+the in-app virtual merchandise you have purchased, usage of your purchased in-app virtual merchandise,
+value of your purchased in-app virtual merchandise, etc.
+---
+[PAGE BREAK]
+---
+If you need a copy of your user information retained by PolyBuzz, you may contact us for assistance.
+Where it is technically feasible and reasonably requested by you, we may supply your user information to
+a third party.
+---
+[PAGE BREAK]
+---
+Subject to applicable laws, user personal information may be transferred and processed outside of your
+local jurisdiction. We will endeavor to ensure appropriate safeguards so that user information will remain
+protected in accordance with this Policy and applicable laws.
+---
+We will take reasonably necessary steps to ensure that your personal information is treated securely and
+in accordance with this Policy and applicable laws, and no transfer of your personal information will be
+made to an organization or a country unless there is adequate security control in place.
+---
+12. Regional Privacy Disclosures
+Residents of the European Economic Area and United Kingdom
+PolyBuzz is considered the “data controller” of the “personal data” (as defined under the General Data
+Protection Regulation, GDPR) we handle under this Policy. In other words, PolyBuzz is responsible for
+deciding how to collect, use, and disclose personal data, subject to applicable law. The laws of the
+European Economic Area and the United Kingdom require data controllers to tell you about the legal
+ground that they rely on for using, sharing, or disclosing your personal data. To the extent those laws
+apply, our legal grounds are as follows:
+Contractual Commitments: We may use, share, or disclose personal data to honor our contractual
+commitments to you. For example, we will process your personal data to comply with our agreements
+with you, and to honor our commitments in any contracts that we have with you.
+With Your Consent: Where required by law, and in some other cases, we use, share, or disclose personal
+data on the basis of your consent.
+---
+[PAGE BREAK]
+---
+Legal Compliance: We need to use and disclose personal data in certain ways to comply with our legal
+obligations.
+---
+•
+Residents of California
+Starting on January 1, 2020, the California Consumer Privacy Act (“CCPA") governs how businesses
+handle the personal information of California residents. CCPA was amended by the adoption of the
+Consumer Privacy Rights Act (“CPRA”) effective March 29, 2023. At PolyBuzz, we are committed to our
+subscribers' success, including their compliance efforts with respect to the CCPA. We're here to assist
+our subscribers with their efforts to comply with the ССРА.
+For PolyBuzz's subscribers, PolyBuzz is a “service provider" under the CCPA. We process personal
+information only on behalf of our subscribers, pursuant to written contracts. Those contracts, which are
+already in place, permit PolyBuzz to process our subscribers' data (including personal information) only
+for the purpose of providing our services. While we necessarily have to process personal information
+transmitted through our network, we do not sell that information to third parties.
+The CCPA sets forth certain obligations for businesses that “sell" or "share" personal information. Where
+we refer to "sell” or “share” (or their variants) in quotes, we are referring to those terms as uniquely
+defined in the CCPA.
+We may use third-party analytics services and online advertising services that may result in the “sharing”
+of online identifiers (e.g., cookie data, IP addresses, device identifiers, general location information, and
+usage information) with advertising partners to advertise the Services on other websites. If you or your
+authorized agent would like to opt out of our “sharing” of your information for such purposes, you may do
+so by go to "settings" on our website or in-app and disable the data sharing. We do not knowingly "sell”
+or "share" the personal information of children under 17.
+---
+If you are a resident of Nevada, you have the right to opt-out of the sale of certain personal information to
+unaffiliated parties. You can exercise this right by contacting us as described in the “Contact Us" section
+below with the subject line "Nevada Do Not Sell Request” and providing us with your name and the email
+address. We do not currently sell your personal information as sales are defined in Nevada Revised
+Statutes Chapter 603A.
+---
+•
+Residents of Brazilian
+We are committed to complying with the Brazilian General Data Protection Law (LGPD) regarding the
+collection, use, and protection of personal data for users located in Brazil. Other than the detailed
+explanations of how we handle your personal data in this Privacy Policy, as a Brazilian user, you have the
+following rights regarding your personal data under the LGPD: 1) Right to Confirmation: You have the right
+to know whether we process any of your personal data. 2) Right to Access: You may request access to
+your personal data and receive a copy of the data we hold about you. 3) Right to Rectification: You can
+request correction of inaccurate, incomplete, or outdated data. 4) Right to Anonymization, Blocking, or
+Deletion: You may request the anonymization, blocking, or deletion of unnecessary or excessive data. 5)
+Right to Data Portability: You have the right to request the transfer of your data to another service
+provider. 6) Right to Information: You can request information about the entities with whom we have
+shared your data. 7) Right to Withdraw Consent: You have the right to withdraw your consent at any time
+when data processing is based on consent. 8) Right to Object to Processing: You can object to certain
+types of data processing, such as direct marketing or profiling. 9) Right to Review Automated Decisions:
+You may request a review of decisions made solely on automated processing, which affect your interests.
+---
+•
+Residents of Virginia
+This section explains the rights of Virginia residents under the Virginia Consumer Data Protection Act
+(VCDPA). As a Virginia resident, you have the following rights regarding your personal data: 1) Right to
+Access: You have the right to confirm whether we process your personal data and to access such data. 2)
+Right to Correct: You may request that we correct inaccuracies in the personal data we hold about you. 3)
+Right to Delete: You can request the deletion of personal data that we have collected from you, subject to
+certain exceptions. 4) Right to Data Portability: You have the right to obtain a copy of your personal data
+in a portable and readily usable format. 5) Right to Opt Out of Targeted Advertising, Sale of Personal
+Data, and Profiling: You may opt out of the processing of your personal data for targeted advertising, the
+sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant
+effects.

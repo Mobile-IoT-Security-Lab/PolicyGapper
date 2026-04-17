@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Zerodha may from time to time use cookies. Cookies are small data files that a website stores on Your computer. Zerodha may use persistent cookies which are permanently placed on your computer to store non-personal (Browser, ISP, OS, Clickstream information etc) and profiling information (age, gender, income etc). While cookies have unique identification nos, personal information (name, a/c no, contact nos etc) shall not be stored on the cookies. We will use the information stored in the cookies to improve Your browsing experience on our website, by throwing up relevant content where possible. We will also use the cookies to store visitor preferences to ease visitor navigation on the site.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Zerodha may from time to time collect information, i.e. Non-personal information which cannot be used to identify you personally, while You are using the website or mobile application. Zerodha may from time to time collect information such as Non-personal information such as IP (internet protocol) addresses, browser types, the name of your ISP (internet service provider), information about a third party link/URL from where You arrive to our website/mobile application, which pages/URLs do You click on the Zerodha website / mobile application, and the amount of time spent on each.",
+      "lang": "English"
+    }
+  ]
+}

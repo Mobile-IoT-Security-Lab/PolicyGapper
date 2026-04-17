@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "2. Payment information. Paid Users must provide payment information (name, postal address, payment card information or payment account information). This information is used for billing purposes only and is processed by our payment processors. When you are making a payment, we do not have access to your payment card information. Should we have any issues with processing an order, the email address you have provided will be used to contact you. For more information on what type of information is collected by our payment processors, please view their privacy policies: • Braintree Privacy Statement • Coinbase Commerce Privacy Policy • Razorpay Privacy Policy • Apple Privacy Policy • Google Privacy Policy • Triple-A Terms and Conditions • dLocal Privacy Policy",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "2. Payment information. Paid Users must provide payment information (name, postal address, payment card information or payment account information). This information is used for billing purposes only and is processed by our payment processors. When you are making a payment, we do not have access to your payment card information. Should we have any issues with processing an order, the email address you have provided will be used to contact you. For more information on what type of information is collected by our payment processors, please view their privacy policies: • Braintree Privacy Statement • Coinbase Commerce Privacy Policy • Razorpay Privacy Policy • Apple Privacy Policy • Google Privacy Policy • Triple-A Terms and Conditions • dLocal Privacy Policy",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "For legitimate business processes and for compliance with legal obligations, including tax laws, audits, and security, we must retain certain data for an extended period. This data includes, but is not limited to, transaction logs, financial records, addresses, and employment details. The duration of retention for each type of data will comply with specific legal requirements, extending up to 10 years.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "2. Payment information. Paid Users must provide payment information (name, postal address, payment card information or payment account information). This information is used for billing purposes only and is processed by our payment processors. When you are making a payment, we do not have access to your payment card information. Should we have any issues with processing an order, the email address you have provided will be used to contact you. For more information on what type of information is collected by our payment processors, please view their privacy policies: • Braintree Privacy Statement • Coinbase Commerce Privacy Policy • Razorpay Privacy Policy • Apple Privacy Policy • Google Privacy Policy • Triple-A Terms and Conditions • dLocal Privacy Policy",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "2. Contact data. We also process any personal data you choose to give when corresponding with us by phone, email, or otherwise visiting and interacting with this Website or any other services we operate.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "7. Customer service. When you open a support ticket, we use your contact details as well as information about your device, server logs, a description of the problem, along with any other supporting materials (videos, screenshots, etc.) to help resolve the issue(s).",
+      "lang": "en"
+    }
+  ]
+}

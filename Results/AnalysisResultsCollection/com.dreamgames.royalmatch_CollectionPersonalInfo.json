@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may collect the following types of personal data from you depending on how you use our Services and where you are located:\n• Contact Information, including your country or region, name, surname, e-mail address or username.\n• User Generated Content, including any files, documents, videos, images, data, or information you choose to upload or transmit through your communications with us or your use of our Services.\n• Profile and Gameplay Information, such as your screen name, avatar or profile picture; your in-game progress, scores, achievements and payments (including what you paid for, when and for how much); the competitions you enter; details about how and when you use our Services; and information about your membership and participation in teams on our Services, including messages you send in team forums.\n• Survey Information, including feedback and ratings you provide relating to our Services.\n• Inferences, such as information generated from your use of our Services, reflecting predictions about your interests and preferences.\n• Parental Information, including your parent's e-mail address and PIN to be created, only if you activate parental control setting in our Services.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "The app does use third party services that may collect information used to identify you.\nLink to privacy policy of third party service providers used by the app\n•\n•\nAdMob (https://support.google.com/admob/answer/6128543?hl=en)\n•\nFirebase Analytics (https://firebase.google.com/policies/analytics)\n• Crashlytics (https://firebase.google.com/support/privacy)\n• Google Places API for Android (http://www.google.com/policies/privacy/)",
+      "justification": "The privacy policy lists third-party services, specifically Google Places API and AdMob, which are known to collect location data. This data sharing was not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare that 'Precise location' is shared with third parties in your app's Data Safety form, and specify the purpose (e.g., App functionality, Advertising).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "The app does use third party services that may collect information used to identify you.\nLink to privacy policy of third party service providers used by the app\n•\n•\nAdMob (https://support.google.com/admob/answer/6128543?hl=en)\n•\nFirebase Analytics (https://firebase.google.com/policies/analytics)\n• Crashlytics (https://firebase.google.com/support/privacy)\n• Google Places API for Android (http://www.google.com/policies/privacy/)",
+      "justification": "The privacy policy lists third-party services, specifically AdMob and Firebase Analytics, which are known to collect approximate location data for advertising and analytics. This data sharing was not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare that 'Approximate location' is shared with third parties in your app's Data Safety form, and specify the purpose (e.g., Advertising, Analytics).",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states that log data is collected through third-party products in case of an app error. This describes a typical service provider function (crash reporting) where data is processed on the developer's behalf. This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is needed for the 'sharing' declaration. Ensure data 'collection' for 'Crash logs' is declared for purposes like 'App functionality' or 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states that log data is collected through third-party products in case of an app error. This describes a typical service provider function (diagnostics/crash reporting) where data is processed on the developer's behalf. This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is needed for the 'sharing' declaration. Ensure data 'collection' for 'Diagnostics' is declared for purposes like 'App functionality' or 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states that identifiers like IP address and device name are collected as part of log data in case of an app error. This is for a service provider function (crash reporting) where data is processed on the developer's behalf and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is needed for the 'sharing' declaration. Ensure data 'collection' for 'Device or other IDs' is declared for purposes like 'App functionality' or 'Analytics'.",
+      "lang": "English"
+    }
+  ]
+}
+```

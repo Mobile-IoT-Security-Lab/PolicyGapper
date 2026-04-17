@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "If you decide to submit content, such as photographs, to the Guardian. We will ask permission to access your camera or photographs.",
+"lang": "en"
+},
+{
+"data_type": "Emails",
+"policy_reference": "Sometimes we may receive a letter, email or another form of communication from you that we consider to be significant to the history of the Guardian. We may decide to share this with the Guardian Archive run by the Guardian Foundation for historic and archiving purposes.",
+"lang": "en"
+}
+]
+}

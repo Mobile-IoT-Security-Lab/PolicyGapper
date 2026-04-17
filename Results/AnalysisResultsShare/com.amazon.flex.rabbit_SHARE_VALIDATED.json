@@ -1,0 +1,39 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Shippers, customers, and delivery recipients: We may share some personal information, such as your first name, photo, and location data, with shippers, customers, or other delivery recipients when you are providing Services to protect your safety and the safety of others, to enable shippers, customers, or other delivery recipients to see the status and location of their shipment or delivery, and to improve the shipping or delivery experience.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy describes sharing the user's (driver's) first name with the customer/recipient as a core and expected part of the user-initiated delivery service. This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "This data sharing is exempt from disclosure as it is initiated by the user. No action is required in the Data Safety form for this specific sharing practice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "2. Categories of personal information disclosed for a business purpose. The personal information that Amazon disclosed to the third parties identified in the \"Does Amazon share my personal information?\" section of the Notice about you for a business purpose in the twelve months prior to the date of this Disclosure falls into the following categories established by the California Privacy Rights Act:\no identifiers such as your name, address, or government-issued ID, for example if we use a third-party provider to conduct a background check;\no information that may reveal or reflect age, gender, race, citizenship, immigration status, or other protected classifications, for example if we share your drivers' license with a service provider to confirm your eligibility to provide Services;\no internet or other electronic network activity information, such as if we use a service provider to help us gather crash reports for analyzing the health of our services or the devices provided to you in connection with the Services;\no biometric information, for example if we use a service provider to verify your identity, and you have provided consent;\no geolocation data, which may constitute precise geolocation data, such as providing a shipper or delivery recipient with updates regarding your location or progress through delivery and shipment routes;\no audio and visual information, for example, if you provide Services through an AFP, we might use a service provider to help assess videos with audio recordings and images collected through Camera Technology for potentially unsafe driving behaviors;\no professional or employment-related information, for example if we share your information with a service provider to confirm your eligibility to provide Services or compliance with health and safety rules or standards, or if we share accident information with your Transportation Company to support programs and operations; and\no inference data, for example if we use a service provider to help us detect potentially unsafe driving behaviors.",
+      "reason_of_removal": "Service Providers",
+      "justification": "The policy explicitly states the address is shared with a 'third-party provider to conduct a background check'. This is a service provider processing data on the developer's behalf and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "This data sharing is exempt from disclosure as it is with a service provider. No action is required in the Data Safety form for this specific sharing practice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "2. Categories of personal information disclosed for a business purpose. The personal information that Amazon disclosed to the third parties identified in the \"Does Amazon share my personal information?\" section of the Notice about you for a business purpose in the twelve months prior to the date of this Disclosure falls into the following categories established by the California Privacy Rights Act:\no identifiers such as your name, address, or government-issued ID, for example if we use a third-party provider to conduct a background check;\no information that may reveal or reflect age, gender, race, citizenship, immigration status, or other protected classifications, for example if we share your drivers' license with a service provider to confirm your eligibility to provide Services;\no internet or other electronic network activity information, such as if we use a service provider to help us gather crash reports for analyzing the health of our services or the devices provided to you in connection with the Services;\no biometric information, for example if we use a service provider to verify your identity, and you have provided consent;\no geolocation data, which may constitute precise geolocation data, such as providing a shipper or delivery recipient with updates regarding your location or progress through delivery and shipment routes;\no audio and visual information, for example, if you provide Services through an AFP, we might use a service provider to help assess videos with audio recordings and images collected through Camera Technology for potentially unsafe driving behaviors;\no professional or employment-related information, for example if we share your information with a service provider to confirm your eligibility to provide Services or compliance with health and safety rules or standards, or if we share accident information with your Transportation Company to support programs and operations; and\no inference data, for example if we use a service provider to help us detect potentially unsafe driving behaviors.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states location data is shared with the shipper or delivery recipient for tracking updates. This is a core part of the user-initiated delivery service and an expected data transfer, exempt from being declared as 'sharing'.",
+      "how_to_fix": "This data sharing is exempt from disclosure as it is initiated by the user. No action is required in the Data Safety form for this specific sharing practice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Shippers, customers, and delivery recipients: We may share some personal information, such as your first name, photo, and location data, with shippers, customers, or other delivery recipients when you are providing Services to protect your safety and the safety of others, to enable shippers, customers, or other delivery recipients to see the status and location of their shipment or delivery, and to improve the shipping or delivery experience.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy describes sharing the user's (driver's) photo with the customer/recipient for identification as a core and expected part of the user-initiated delivery service. This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "This data sharing is exempt from disclosure as it is initiated by the user. No action is required in the Data Safety form for this specific sharing practice.",
+      "lang": "English"
+    }
+  ]
+}
+```

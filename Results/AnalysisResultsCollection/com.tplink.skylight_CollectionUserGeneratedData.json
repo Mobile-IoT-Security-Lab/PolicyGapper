@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "In addition to the above, with regard to the registration of a tpCamera Account and its subsequent use, we process:\n• Information (such as your name, user name and email address) that is provided by registration;\n• Information in connection with an account sign-in facility (e.g. log-in and password details);\nCommunications sent by you (e.g. via e-mail or website communication forms);\n• Device data (e.g. Device ID, MAC address, IP address)\n• Device/Service usage data (e.g. device activation such as friendly name of device);",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "When using the Services your personal data (incl. any video footage) will be transferred into and stored in the US. The transfer is necessary for the performance of the contract and delivery of the Services by TP-Link (Art. 6 (1) b), 49 (1) b) GDPR.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "When using the Services your personal data (incl. any video footage) will be transferred into and stored in the US. The transfer is necessary for the performance of the contract and delivery of the Services by TP-Link (Art. 6 (1) b), 49 (1) b) GDPR.",
+      "lang": "en"
+    }
+  ]
+}

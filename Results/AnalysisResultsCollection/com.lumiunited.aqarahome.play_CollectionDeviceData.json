@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• Analysis and Improvement of Services (Non-personal Information). When you use our services, in order to help us provide you with more useful information, understand which parts of our website, products, and services you are most interested in, and improve the services we offer to you, we may also collect other information that cannot be used to identify a specific individual (i.e., information that does not fall within the category of personal information). For example, we may collect aggregated statistical data generated when you use specific services, such as users' operation behaviors (including clicks, page jumps, browsing time, and function usage). The categories and quantity of the collected information depend on how you use our products and/or services. We use such information in an aggregated form to enhance your experience when using our application. For the purposes of this privacy policy, aggregated data is considered non-personal information and cannot be used to identify your identity.If we combine non-personal information with personal information, during the period of combined use, such information will be regarded as personal information, and we will use this information in strict compliance with this privacy policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "10. Third-party SDK name: OPPO PUSH\nInformation collection types: Device-related information (such as IMEI [targeting at the following versions of Android Q], Android ID), application list\nPurpose of use: It is used to provide the message pushing service for the mobile terminal of OPPO brand\nOperating systems: Android",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• Feedback information. We may collect the feedback information that you provide, including feedback content (including product usage or quality problems), router model, basic contact information and error logs.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• Analysis and Improvement of Services (Non-personal Information). When you use our services, in order to help us provide you with more useful information, understand which parts of our website, products, and services you are most interested in, and improve the services we offer to you, we may also collect other information that cannot be used to identify a specific individual (i.e., information that does not fall within the category of personal information). For example, we may collect aggregated statistical data generated when you use specific services, such as users' operation behaviors (including clicks, page jumps, browsing time, and function usage). The categories and quantity of the collected information depend on how you use our products and/or services. We use such information in an aggregated form to enhance your experience when using our application. For the purposes of this privacy policy, aggregated data is considered non-personal information and cannot be used to identify your identity.If we combine non-personal information with personal information, during the period of combined use, such information will be regarded as personal information, and we will use this information in strict compliance with this privacy policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Analysis and Improvement of Services (Non-personal Information). When you use our services, in order to help us provide you with more useful information, understand which parts of our website, products, and services you are most interested in, and improve the services we offer to you, we may also collect other information that cannot be used to identify a specific individual (i.e., information that does not fall within the category of personal information). For example, we may collect aggregated statistical data generated when you use specific services, such as users' operation behaviors (including clicks, page jumps, browsing time, and function usage). The categories and quantity of the collected information depend on how you use our products and/or services. We use such information in an aggregated form to enhance your experience when using our application. For the purposes of this privacy policy, aggregated data is considered non-personal information and cannot be used to identify your identity.If we combine non-personal information with personal information, during the period of combined use, such information will be regarded as personal information, and we will use this information in strict compliance with this privacy policy.",
+      "lang": "English"
+    }
+  ]
+}

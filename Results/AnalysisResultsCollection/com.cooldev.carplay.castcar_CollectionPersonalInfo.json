@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Transaction information: When you order paid versions of the Service, we collect information necessary to complete the transaction, including your name, payment information and billing information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Account information: We collect personal information when you create an account, such as your email address and password, as well as your phone number if you provide one to enable two-factor authentication or if you use our telephony service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Device and usage information: We use server logs, cookies and similar technologies to automatically collect information about your computer or device and how you interact with the Service. For example, we may record your application version, browser type, computer or mobile operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer or mobile device when you use the Internet, which may vary from session to session) and your unique device, application or advertising identifiers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Contact details: We collect the contact details you share with us when you communicate with us, which may include your email address, phone number, postal address or social media handles.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Account information: We collect personal information when you create an account, such as your email address and password, as well as your phone number if you provide one to enable two-factor authentication or if you use our telephony service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Transaction information: When you order paid versions of the Service, we collect information necessary to complete the transaction, including your name, payment information and billing information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transaction information: When you order paid versions of the Service, we collect information necessary to complete the transaction, including your name, payment information and billing information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Device and usage information: We use server logs, cookies and similar technologies to automatically collect information about your computer or device and how you interact with the Service. For example, we may record your application version, browser type, computer or mobile operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer or mobile device when you use the Internet, which may vary from session to session) and your unique device, application or advertising identifiers.",
+      "lang": "English"
+    }
+  ]
+}

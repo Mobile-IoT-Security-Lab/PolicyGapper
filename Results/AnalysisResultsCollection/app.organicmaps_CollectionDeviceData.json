@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The app collects anonymous usage statistics to help us improve the app. You can opt-out of this in the app's settings. We do not collect any personal information, and the collected data is not associated with your identity. The data we collect includes anonymous information about the app usage, such as the features you use and the time you spend in the app. This data is aggregated and cannot be used to identify you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "The app may collect crash reports if it crashes. These reports may contain information about your device and the app's state at the time of the crash. This information is used to diagnose and fix bugs. You can choose to send or not to send crash reports. We use our own servers for crash reports collection, and we do not share this information with any third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "The app may collect crash reports if it crashes. These reports may contain information about your device and the app's state at the time of the crash. This information is used to diagnose and fix bugs. You can choose to send or not to send crash reports. We use our own servers for crash reports collection, and we do not share this information with any third parties.",
+      "lang": "English"
+    }
+  ]
+}

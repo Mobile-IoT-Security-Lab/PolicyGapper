@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Informazioni generali sull'account\nNon è necessario creare un profilo per utilizzare alcune funzionalità dei nostri servizi, come la ricerca\ne la visualizzazione dei profili pubblici degli utenti di CiaoAmigos.it, i forum, i video, i racconti e altre\nattività organizzate all'interno del sito. Tuttavia, se scegli di aprire un account, dovrai fornirci alcuni\ndati personali per permetterci di offrirti i nostri servizi. Sulla nostra piattaforma, questo comprende\nun nome utente (un nickname), una password e un indirizzo e-mail, oltre ai dati relativi al tuo\nannuncio, come l'orientamento sessuale e la località. Il tuo nickname, il tuo orientamento sessuale e\nla tua località saranno sempre visibili pubblicamente. La località può essere calcolata\nautomaticamente tramite l'indirizzo IP, con un'approssimazione, o tramite GPS. In ogni caso,\napplichiamo una tolleranza e adottiamo misure specifiche per garantire la tua privacy. Non è\nconsentito creare e gestire account multipli su CiaoAmigos.it, in quanto ciò comporterà la\nsospensione di tutti gli account registrati.",
+      "lang": "it"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Messaggi diretti tra utenti\nForniamo funzioni che ti permettono di comunicare in modo privato o di visualizzare chi visita il tuo\nprofilo. Ad esempio, puoi utilizzare la Posta del sito o la chat per comunicare privatamente con un\naltro utente iscritto a ciaoamigos.it. Quando comunichi privatamente con altri utenti inviando o\nricevendo messaggi diretti, noi archiviamo ed elaboriamo le tue comunicazioni e le informazioni ad\nesse relative. Questo include la scansione dei link per rilevare contenuti dannosi, la rilevazione di\nspam e di immagini proibite, nonché l'analisi delle segnalazioni di problemi, a protezione della\nsicurezza della piattaforma.",
+      "lang": "it"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Informazioni Pubbliche\nVideochat, Profilo e altre Informazioni Pubbliche: CiaoAmigos.it è progettato principalmente per\nconsentirti di condividere informazioni all'interno della community. Le informazioni che ci fornisci\ntramite la nostra piattaforma, come il profilo e i dati che decidi di condividere, sono visibili solo agli\nutenti registrati. Puoi fornirci informazioni di profilo, come una tua breve descrizione, la tua\nposizione, la tua preferenza sessuale o una tua foto. Le tue informazioni pubbliche includono i\ncommenti che scrivi all'interno della community, le informazioni sul tuo account come l'ora di\ncreazione, la lingua, il Paese e il fuso orario.",
+      "lang": "it"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Le informazioni che condividi su CiaoAmigos.it sono accessibili solo agli altri membri registrati della\ncommunity. Quando condividi contenuti come foto e video tramite i Servizi, dovresti prestare\nattenzione alle informazioni che rendi visibili. Possiamo utilizzare queste informazioni per capire\nquali argomenti potrebbero interessarti.",
+      "lang": "it"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "If you send us requests via our contact form or email, your details from the contact form or email, including the contact data you have provided there, will be stored for the purpose of processing your request and in the event of follow-up questions. Under no circumstances will we pass on this data without your consent. The legal basis for processing the data is our legitimate interest in responding to your request pursuant to Art. 6 para. 1 lit. f GDPR and, if applicable, Art. 6 para. 1 lit. b GDPR, provided that your request is aimed at concluding a contract.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Data processing through making contact\nWe collect data when you contact us, for example via contact form or messenger services such as Facebook Messenger. The data collected depends on the details you provide, and the contact details you specify. It will be stored for the purpose of processing the inquiry and in the event of follow-up questions. Under no circumstances we will pass on the data to third parties without a legal basis in accordance with Art. 6 para 1 GDPR. The legal basis for the data processing is our legitimate interest in responding to your request pursuant to Art. 6 para. 1 lit. f GDPR and, if applicable, Art. 6 para. 1 lit. b GDPR if your request aimed at the conclusion or performance of a contract. Unless there are legal reasons, your data will be erased after final processing. We assume the processing is finalised, when the regarding circumstances are clarified.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "In order to use the cashout feature within the JustPlayApp for the first time, you will need to use your device's camera and software provided by FaceTec that is embedded within the JustPlayApp to scan your face and provide us with facial mapping data that is unique to you, as well as a photo of your face. We use the facial mapping data and photo for the following purposes:\n• Real person verification: To verify that you are a real person\n• Fraud prevention: To prevent unauthorized access and fraud. We compare the facial mapping data that you provide with facial mapping data that has been provided by other JustPlayApp users within the last four months to help prevent the same user from creating multiple accounts. We store the facial mapping data that you provide for four months and use your facial mapping data for this purpose as well.\n• Minor identification: To ensure that users are not underaged minors",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "2.9.2. A device identifier may deliver information to us or to a third party partner about how you browse and use the Services and may help us or others provide reports or personalised content and ads. Some features of the Services may not function properly if use or availability of device identifiers is impaired or disabled.",
+      "justification": "The policy states that device identifiers are shared with a 'third party partner' to help 'us or others provide... personalised content and ads'. The term 'or others' indicates the partner is not solely a service provider, and the purpose is advertising, which constitutes declarable sharing.",
+      "how_to_fix": "Declare 'Device or other IDs' as 'shared' with third parties for 'Advertising or marketing' purposes in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "2.9.2. A device identifier may deliver information to us or to a third party partner about how you browse and use the Services and may help us or others provide reports or personalised content and ads. Some features of the Services may not function properly if use or availability of device identifiers is impaired or disabled.",
+      "justification": "The policy states that device identifiers (a form of user ID) are shared with a 'third party partner' to help 'us or others provide... personalised content and ads'. The term 'or others' indicates the partner is not solely a service provider, and the purpose is advertising, which constitutes declarable sharing.",
+      "how_to_fix": "Declare 'User IDs' as 'shared' with third parties for 'Advertising or marketing' purposes in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "c) Third Party Advertisers: We may provide Information to third party advertisers so that they can notify you of events or products which may be of interest to you. For instance, you may be notified of an upcoming concert or product release.",
+      "justification": "The policy explicitly states 'We may provide Information to third party advertisers so that they can notify you of events or products'. This is direct sharing of user data for third-party marketing and must be declared.",
+      "how_to_fix": "Declare 'Email address' as 'shared' with third parties for 'Advertising or marketing' purposes in the Data Safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "d) Analytics Services: We may use third party analytics providers and products to obtain, compile and analyse Information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data), and may provide such Information to these analytics providers for the purpose of obtaining statistics and other information about how users are using and interacting with the Services. One of our analytics providers is Google Analytics and more information on their privacy policy is available at www.google.com/policies/privacy/partners.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with analytics providers 'for the purpose of obtaining statistics' about service usage. This falls under the service provider exemption, as they process data on the developer's behalf.",
+      "how_to_fix": "No action needed. Sharing with service providers acting on the developer's behalf does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "2.6.1. We use third-party analytics tools to help us measure traffic and usage trends for the Services. These tools collect information sent by your device including the web pages you visit, add-ons, and other information that assists us in improving the Services. We collect and use this analytics information with analytics information from other users so that it cannot reasonably be used to identify any particular individual user.",
+      "reason_of_removal": "Anonymous Data",
+      "justification": "The policy states the analytics information is used with data from other users 'so that it cannot reasonably be used to identify any particular individual user', meeting the anonymized data exemption.",
+      "how_to_fix": "No action needed. Sharing of aggregated, anonymized data does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "d) Analytics Services: We may use third party analytics providers and products to obtain, compile and analyse Information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data), and may provide such Information to these analytics providers for the purpose of obtaining statistics and other information about how users are using and interacting with the Services. One of our analytics providers is Google Analytics and more information on their privacy policy is available at www.google.com/policies/privacy/partners.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data (like log files) is shared with analytics providers 'for the purpose of obtaining statistics'. This falls under the service provider exemption, as they process data on the developer's behalf.",
+      "how_to_fix": "No action needed. Sharing with service providers acting on the developer's behalf does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "d) Analytics Services: We may use third party analytics providers and products to obtain, compile and analyse Information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data), and may provide such Information to these analytics providers for the purpose of obtaining statistics and other information about how users are using and interacting with the Services. One of our analytics providers is Google Analytics and more information on their privacy policy is available at www.google.com/policies/privacy/partners.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data (like usage data) is shared with analytics providers 'for the purpose of obtaining statistics'. This falls under the service provider exemption, as they process data on the developer's behalf.",
+      "how_to_fix": "No action needed. Sharing with service providers acting on the developer's behalf does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "2.1.2. Once your account has been registered, your name, username and profile picture (if you have signed up using your Social Network ID) will automatically be displayed on your profile page and will be available to other users through the Services. This allows other users to identify you, find you, and refer to you properly.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states the user's name is displayed on their profile page, which is a core, user-facing feature of the service that the user consents to by creating a profile.",
+      "how_to_fix": "No action needed. Data sharing that is integral to a user-initiated feature does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "f) We may share your contact details with other user(s) whose updates you opt to follow via our Fan Reach Service. You can unfollow such other user(s) and unsubscribe from such updates at any time.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy specifies that contact details are shared only when the user 'opt[s] to follow' another user, which is a clear user-initiated action.",
+      "how_to_fix": "No action needed. Data sharing based on a specific user action does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "f) We may share your contact details with other user(s) whose updates you opt to follow via our Fan Reach Service. You can unfollow such other user(s) and unsubscribe from such updates at any time.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy specifies that contact details are shared only when the user 'opt[s] to follow' another user, which is a clear user-initiated action.",
+      "how_to_fix": "No action needed. Data sharing based on a specific user action does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "d) Analytics Services: We may use third party analytics providers and products to obtain, compile and analyse Information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data), and may provide such Information to these analytics providers for the purpose of obtaining statistics and other information about how users are using and interacting with the Services. One of our analytics providers is Google Analytics and more information on their privacy policy is available at www.google.com/policies/privacy/partners.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates location data is shared with analytics providers 'for the purpose of obtaining statistics'. This falls under the service provider exemption, as they process data on the developer's behalf.",
+      "how_to_fix": "No action needed. Sharing with service providers acting on the developer's behalf does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "d) Analytics Services: We may use third party analytics providers and products to obtain, compile and analyse Information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data), and may provide such Information to these analytics providers for the purpose of obtaining statistics and other information about how users are using and interacting with the Services. One of our analytics providers is Google Analytics and more information on their privacy policy is available at www.google.com/policies/privacy/partners.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates location data is shared with analytics providers 'for the purpose of obtaining statistics'. This falls under the service provider exemption, as they process data on the developer's behalf.",
+      "how_to_fix": "No action needed. Sharing with service providers acting on the developer's behalf does not need to be declared as 'sharing'.",
+      "lang": "English"
+    }
+  ]
+}
+```

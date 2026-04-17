@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "lang": "English"
+    }
+  ]
+}

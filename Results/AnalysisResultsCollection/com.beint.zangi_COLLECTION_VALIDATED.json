@@ -1,0 +1,109 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "investigation/ suppoеnа / Court order requesting to share any available in the system data, Zangi will share the following data of the suspected in the crime user: registration date, account deletion date, last login date, name completed in the profile, Bio, Premium subscription status, subscription transaction ID, subscription/renewal date, device model, device platform and operating system version, push token, Device ID, which is the real Device ID for Android and system generated for iOS. If the user is an old user who has signed in via email/phone number, also the sign-in email /phone number will be provided. Users with Zangi virtual numbers starting with 10 DO NOT have any assigned email or phone number. Authority requests supported by duly served supporting documents must be sent to legal@zangi.com",
+      "justification": "The privacy policy states that 'Bio' (a form of user-generated content) is available in the system and can be shared with authorities, indicating it is collected and sent off-device.",
+      "how_to_fix": "Declare 'Other user-generated content' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "investigation/ suppoеnа / Court order requesting to share any available in the system data, Zangi will share the following data of the suspected in the crime user: registration date, account deletion date, last login date, name completed in the profile, Bio, Premium subscription status, subscription transaction ID, subscription/renewal date, device model, device platform and operating system version, push token, Device ID, which is the real Device ID for Android and system generated for iOS. If the user is an old user who has signed in via email/phone number, also the sign-in email /phone number will be provided. Users with Zangi virtual numbers starting with 10 DO NOT have any assigned email or phone number. Authority requests supported by duly served supporting documents must be sent to legal@zangi.com",
+      "justification": "The privacy policy states that data such as 'registration date', 'account deletion date', 'last login date', and 'Premium subscription status' are available in the system, indicating collection of user actions.",
+      "how_to_fix": "Declare 'Other actions' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "You agree that we may collect and use technical data and related information, including but not limited to technical information about Your mobile device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to You (if any) related to the Licensed Application. We may use this information, as long as it is in a form that does not personally identify You, to improve our Services offered to You (for further information on our privacy policy click here).",
+      "justification": "The policy states that 'technical data' about the device, system, and software is collected to 'facilitate... product support' and 'improve our Services', which aligns with the definition of Diagnostics data and implies it is sent off-device for analysis.",
+      "how_to_fix": "Declare 'Diagnostics' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "3.3 Registration data and technical identifiers. On sign-up the app assigns the user a country code, push token and device ID, as well as gets your device type and / or model, operating system and Zangi app version. All listed in section 3.3 data is securely stored on servers and is used for technical and support purposes unless otherwise required by law.",
+      "justification": "The policy explicitly states that 'device type and / or model, operating system and Zangi app version' are 'securely stored on servers', confirming this app performance data is collected and sent off-device.",
+      "how_to_fix": "Declare 'Other app performance data' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "3.3 Registration data and technical identifiers. On sign-up the app assigns the user a country code, push token and device ID, as well as gets your device type and / or model, operating system and Zangi app version. All listed in section 3.3 data is securely stored on servers and is used for technical and support purposes unless otherwise required by law.",
+      "justification": "The policy explicitly states that a 'device ID' is collected and 'securely stored on servers', confirming it is sent off-device.",
+      "how_to_fix": "Declare 'Device or other IDs' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "3.1 User Profile name Name/ Surname/ Photo / Bio (Optional): Users can choose to skip adding their Name/ Surname/ Photo / Bio in their Profile and communicate absolutely anonymously, but when filled out, they are to be aware that the Name/ Surname/ Photo /Bio in Zangi Messenger Profile is shared with other Zangi users, who knows the user's Zangi Private number. How? When you call or message each other, Zangi shows the Name/ Surname / Photo of the sender in the conversation/ push/ call screen. All listed plus Bio are seen in the your profile when other users tap on your profile avatar in the app. None of the listed is shared to any 3rd party outside of the Zangi Messenger system except for legal compliance cases.",
+      "justification": "The policy states that 'Name/ Surname' is part of the user profile and is shared with other users via the Zangi Messenger system, indicating it is collected and stored on servers.",
+      "how_to_fix": "Declare 'Name' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "investigation/ suppoеnа / Court order requesting to share any available in the system data, Zangi will share the following data of the suspected in the crime user:\nregistration date, account deletion date, last login date, name completed in the profile, Bio, Premium subscription status, subscription transaction ID, subscription/renewal date, device model, device platform and operating system version, push token, Device ID, which is the real Device ID for Android and system generated for iOS. If the user is an old user who has signed in via email/phone number, also the sign-in email /phone number will be provided. Users with Zangi virtual numbers starting with 10 DO NOT have any assigned email or phone number. Authority requests supported by duly served supporting documents must be sent to legal@zangi.com",
+      "justification": "The policy states that for some users, the 'sign-in email' will be provided to authorities, confirming it is collected and stored on their system.",
+      "how_to_fix": "Declare 'Email address' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "3.3 Registration data and technical identifiers. On sign-up the app assigns the user a country code, push token and device ID, as well as gets your device type and / or model, operating system and Zangi app version. All listed in section 3.3 data is securely stored on servers and is used for technical and support purposes unless otherwise required by law.",
+      "justification": "The policy states that a 'push token' is assigned to the user and 'securely stored on servers', which qualifies as a User ID that is collected and sent off-device.",
+      "how_to_fix": "Declare 'User IDs' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "investigation/ suppoеnа / Court order requesting to share any available in the system data, Zangi will share the following data of the suspected in the crime user:\nregistration date, account deletion date, last login date, name completed in the profile, Bio, Premium subscription status, subscription transaction ID, subscription/renewal date, device model, device platform and operating system version, push token, Device ID, which is the real Device ID for Android and system generated for iOS. If the user is an old user who has signed in via email/phone number, also the sign-in email /phone number will be provided. Users with Zangi virtual numbers starting with 10 DO NOT have any assigned email or phone number. Authority requests supported by duly served supporting documents must be sent to legal@zangi.com",
+      "justification": "The policy states that for some users, the 'sign-in... phone number' will be provided to authorities, confirming it is collected and stored on their system.",
+      "how_to_fix": "Declare 'Phone number' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "investigation/ suppoеnа / Court order requesting to share any available in the system data, Zangi will share the following data of the suspected in the crime user:\nregistration date, account deletion date, last login date, name completed in the profile, Bio, Premium subscription status, subscription transaction ID, subscription/renewal date, device model, device platform and operating system version, push token, Device ID, which is the real Device ID for Android and system generated for iOS. If the user is an old user who has signed in via email/phone number, also the sign-in email /phone number will be provided. Users with Zangi virtual numbers starting with 10 DO NOT have any assigned email or phone number. Authority requests supported by duly served supporting documents must be sent to legal@zangi.com",
+      "justification": "The policy states that 'Premium subscription status, subscription transaction ID, subscription/renewal date' are available in the system and can be shared, which constitutes purchase history.",
+      "how_to_fix": "Declare 'Purchase history' as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "3.1 User Profile name Name/ Surname/ Photo / Bio (Optional): Users can choose to skip adding their Name/ Surname/ Photo / Bio in their Profile and communicate absolutely anonymously, but when filled out, they are to be aware that the Name/ Surname/ Photo /Bio in Zangi Messenger Profile is shared with other Zangi users, who knows the user's Zangi Private number. How? When you call or message each other, Zangi shows the Name/ Surname / Photo of the sender in the conversation/ push/ call screen. All listed plus Bio are seen in the your profile when other users tap on your profile avatar in the app. None of the listed is shared to any 3rd party outside of the Zangi Messenger system except for legal compliance cases.",
+      "justification": "The policy states that a user's 'Photo' is part of their profile and is shared with other users via the Zangi Messenger system, indicating it is collected and stored on servers.",
+      "how_to_fix": "Declare 'Photos' as collected in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "investigation/ suppoеnа / Court order requesting to share any available in the system data, Zangi will share the following data of the suspected in the crime user: registration date, account deletion date, last login date, name completed in the profile, Bio, Premium subscription status, subscription transaction ID, subscription/renewal date, device model, device platform and operating system version, push token, Device ID, which is the real Device ID for Android and system generated for iOS. If the user is an old user who has signed in via email/phone number, also the sign-in email /phone number will be provided. Users with Zangi virtual numbers starting with 10 DO NOT have any assigned email or phone number. Authority requests supported by duly served supporting documents must be sent to legal@zangi.com",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference mentions the collection of a user's 'sign-in email' (Email address), not the content of their 'Emails' (e.g., subject, body, sender).",
+      "how_to_fix": "This data type does not need to be declared based on the provided policy text. No action is needed unless other parts of the policy indicate its collection.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "3.1 User Profile name Name/ Surname/ Photo / Bio (Optional): Users can choose to skip adding their Name/ Surname/ Photo / Bio in their Profile and communicate absolutely anonymously, but when filled out, they are to be aware that the Name/ Surname/ Photo /Bio in Zangi Messenger Profile is shared with other Zangi users, who knows the user's Zangi Private number. How? When you call or message each other, Zangi shows the Name/ Surname / Photo of the sender in the conversation/ push/ call screen. All listed plus Bio are seen in the your profile when other users tap on your profile avatar in the app. None of the listed is shared to any 3rd party outside of the Zangi Messenger system except for legal compliance cases.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference describes displaying profile information (Name, Photo) during a message or call, but does not state that the content of the messages themselves is collected or stored on servers.",
+      "how_to_fix": "This data type does not need to be declared based on the provided policy text. No action is needed unless other parts of the policy indicate its collection.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "3.1 User Profile name Name/ Surname/ Photo / Bio (Optional): Users can choose to skip adding their Name/ Surname/ Photo / Bio in their Profile and communicate absolutely anonymously, but when filled out, they are to be aware that the Name/ Surname/ Photo /Bio in Zangi Messenger Profile is shared with other Zangi users, who knows the user's Zangi Private number. How? When you call or message each other, Zangi shows the Name/ Surname / Photo of the sender in the conversation/ push/ call screen. All listed plus Bio are seen in the your profile when other users tap on your profile avatar in the app. None of the listed is shared to any 3rd party outside of the Zangi Messenger system except for legal compliance cases.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference mentions 'call screen' in the context of displaying a user's profile photo, but it does not state that voice or sound recordings from calls are collected or stored.",
+      "how_to_fix": "This data type does not need to be declared based on the provided policy text. No action is needed unless other parts of the policy indicate its collection.",
+      "lang": "en"
+    }
+  ]
+}
+```

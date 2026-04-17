@@ -1,0 +1,93 @@
+What information does the Application
+obtain and how is it used?
+Automatically Collected Information
+The Application may collect certain information automatically, including:
+• The IP address of your device, your operating system, and the type of mobile
+Internet browsers you use: this data is visible by our servers while processing a
+request but it is not permanently stored or sent to third party servers.
+• Precise Location of the device: the Application collects your device's precise
+location to determine the city where you are located and to compute and
+display an accurate sky map. The precise location data remains on-device and
+is not sent to our servers or third party servers.
+--- [PAGE BREAK] ---
+• Country code, Language code, Time zone, Platform version, OS version,
+Firebase Android App ID, Device ID, Ad ID, Package name of the app, Firebase
+installation ID (FID). We have integrated Firebase Analytics and Firebase
+Remote Config into our Application to collect data about how users interact
+with the app. This includes monitoring events such as when users open a
+dialog or use a feature. This data is sent and stored on the Google Firebase
+servers and is used to enhance the app's functionality and overall user
+experience. This data is anonymous and does not include your personal
+information (it does not uniquely identify a user).
+---
+Other permissions
+• The application might ask for bluetooth connection permissions when using
+the telescope control feature in order to connect with external telescope
+controllers.
+• If you contact us by email (directly or from within the application), we may
+collect your email and any information you sent us. This will be used to reply
+to your query.
+---
+Do third parties see and/or have access to
+information obtained by the Application?
+---
+In addition to our own usage, aggregated and anonymized data collected
+through Firebase Analytics may be shared with other third parties for industry
+analysis, demographic profiling, and other purposes. This data does not include
+your personal information.
+We may disclose User Provided and Automatically Collected Information:
+--- [PAGE BREAK] ---
+Your Opt-Out Rights
+You can halt all collection of information by the Application easily by
+uninstalling the Application. You may use the standard uninstall processes as
+may be available as part of your mobile device or via the mobile application
+marketplace or network.
+---
+Your Rights to Access Personal Data
+Under data protection laws such as the General Data Protection Regulation
+(GDPR), the California Consumer Privacy Act (CCPA), the Virginia Consumer Data
+Protection Act (VCDPA) or the Lei Geral de Proteção de Dados (LGPD), you have
+the right to access personal information we hold about you. Here's how you can
+exercise this right:
+--- [PAGE BREAK] ---
+• What to Include: Please provide sufficient information that allows us to verify
+you are the person about whom we have collected personal data. This may
+include your full name, email address, if applicable.
+---
+Data Retention Policy, Managing Your
+Information
+We will retain User Provided data for as long as you use the Application and for
+a reasonable time thereafter. We will retain Automatically Collected information
+for up to 24 months and thereafter may store it in aggregate. If you'd like us to
+delete User Provided Data that you have provided via the Application, please
+contact them at contact@stellarium-labs.com and we will respond in a
+reasonable time. Please note that some or all of the User Provided Data may be
+required in order for the Application to function properly.
+---
+Children
+We do not use the Application to knowingly solicit data from or market to
+children under the age of 13.
+The Application does not address anyone under the age of 13. We do not
+knowingly collect personally identifiable information from children under 13
+years of age. In the case the we discover that a child under 13 has provided
+personal information, we will immediately delete this from their servers. If you
+are a parent or guardian and you are aware that your child has provided us with
+personal information, please contact us (contact@stellarium-labs.com) so that
+they will be able to take the necessary actions.
+--- [PAGE BREAK] ---
+Security
+We are concerned about safeguarding the confidentiality of your information.
+We provide physical, electronic, and procedural safeguards to protect
+information we process and maintain. For example, we limit access to this
+information to authorized employees and contractors who need to know that
+information in order to operate, develop or improve their Application. Please be
+aware that, although we endeavor provide reasonable security for information
+we process and maintain, no security system can prevent all potential security
+breaches.
+---
+Your Consent
+By using the Application, you are giving us your consent to processing of your
+information as set forth in this Privacy Policy now and as amended by us.
+"Processing,” means using cookies on a computer/hand held device or using or
+touching information in any way, including, but not limited to, collecting,
+storing, deleting, using, combining and disclosing information.

@@ -1,0 +1,67 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Information That Is Collected Automatically. When our Services are used we may collect some information automatically. This helps us analyze and optimize the performance of our Services. We do not use this information to personally identify users. Information we collect automatically includes information such as user device properties, IP address, Media Access Control (“MAC”) address and unique device identifier or other device identifier (“UDID”); user device software platform and firmware; user's mobile phone carrier; user's internet service provider; the search terms used on our website; specific web pages users visit; the duration of use of our website; geographical data; and other non-personally identifying information as is reasonably required to enhance our website and other Leqing products and services. This information may be collected from all users of the Services, including children under the age of 13.",
+      "justification": "The privacy policy explicitly states the collection of 'Media Access Control (“MAC”) address and unique device identifier or other device identifier (“UDID”)', which fall under this data type.",
+      "how_to_fix": "Declare 'Device or other IDs' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may collect, maintain, and use a user's information for the following purposes:\n• To respond to customer support inquiries.\nTo analyse use of time Services to imргоvе thе user expепеnсе аnd to ensure that content is presented im\nthe most effective manner for user devices.\n•\nTo ensure that our Services are safe and secure.\n•\nTo notify users of any changes to the Services.\n•\nFor geo-based redirection.\n•\nTo fulfill purchases.\n•\nFor age screening purposes.",
+      "justification": "The policy states user information is collected for various purposes like analysis and security, which implies the collection of data not covered by other specific types.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in your app's Data Safety section on Google Play and provide examples of the data collected.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may collect, maintain, and use a user's information for the following purposes:\n• To respond to customer support inquiries.\nTo analyse use of time Services to imргоvе thе user expепеnсе аnd to ensure that content is presented im\nthe most effective manner for user devices.\n•\nTo ensure that our Services are safe and secure.\n•\nTo notify users of any changes to the Services.\n•\nFor geo-based redirection.\n•\nTo fulfill purchases.\n•\nFor age screening purposes.",
+      "justification": "The policy states that user information is used 'To fulfill purchases,' which logically requires the collection of user payment information.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may collect, maintain, and use a user's information for the following purposes:\n• To respond to customer support inquiries.\nTo analyse use of time Services to imргоvе thе user expепеnсе аnd to ensure that content is presented im\nthe most effective manner for user devices.\n•\nTo ensure that our Services are safe and secure.\n•\nTo notify users of any changes to the Services.\n•\nFor geo-based redirection.\n•\nTo fulfill purchases.\n•\nFor age screening purposes.",
+      "justification": "The policy states that user information is used 'To fulfill purchases,' which implies the creation and storage of a purchase history.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We may collect, maintain, and use a user's information for the following purposes:\n• To respond to customer support inquiries.",
+      "justification": "The policy states user information is used 'To respond to customer support inquiries,' which commonly involves collecting an email address.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Information That Is Collected Automatically. When our Services are used we may collect some information automatically. This helps us analyze and optimize the performance of our Services. We do not use this information to personally identify users. Information we collect automatically includes information such as user device properties, IP address, Media Access Control (“MAC”) address and unique device identifier or other device identifier (“UDID”); user device software platform and firmware; user's mobile phone carrier; user's internet service provider; the search terms used on our website; specific web pages users visit; the duration of use of our website; geographical data; and other non-personally identifying information as is reasonably required to enhance our website and other Leqing products and services. This information may be collected from all users of the Services, including children under the age of 13.",
+      "reason_of_removal": "Websites collection exemption: The policy explicitly states collection of 'search terms used on our website', not within the app.",
+      "justification": "The privacy policy mentions collection of search terms on the website, not in the app.",
+      "how_to_fix": "If you collect in-app search history, update your privacy policy. Otherwise, no declaration is needed for website data collection.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Information That Is Collected Automatically. When our Services are used we may collect some information automatically. This helps us analyze and optimize the performance of our Services. We do not use this information to personally identify users. Information we collect automatically includes information such as user device properties, IP address, Media Access Control (“MAC”) address and unique device identifier or other device identifier (“UDID”); user device software platform and firmware; user's mobile phone carrier; user's internet service provider; the search terms used on our website; specific web pages users visit; the duration of use of our website; geographical data; and other non-personally identifying information as is reasonably required to enhance our website and other Leqing products and services. This information may be collected from all users of the Services, including children under the age of 13.",
+      "reason_of_removal": "Websites collection exemption: The policy explicitly refers to 'specific web pages users visit' and 'duration of use of our website', not browsing history collected by the app.",
+      "justification": "The privacy policy mentions collection of web browsing history on the website, not from the app.",
+      "how_to_fix": "If your app collects web browsing history, update your privacy policy. Otherwise, no declaration is needed for website data collection.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Information That Is Collected Automatically. When our Services are used we may collect some information\nautomatically. This helps us analyze and optimize the performance of our Services. We do not use this\ninformation to personally identify users. Information we collect automatically includes information such as user\ndevice properties, IP address, Media Access Control (“MAC”) address and unique device identifier or other\ndevice identifier (“UDID”); user device software platform and firmware; user's mobile phone carrier; user's\ninternet service provider; the search terms used on our website; specific web pages users visit; the duration of\nuse of our website; geographical data; and other non-personally identifying information as is reasonably\nrequired to enhance our website and other Leqing products and services. This information may be collected\nfrom all users of the Services, including children under the age of 13.",
+      "reason_of_removal": "Inconsistent: The policy mentions 'unique device identifier... (UDID)', which falls under 'Device or other IDs', not 'User IDs' (e.g., account IDs).",
+      "justification": "The privacy policy mentions collection of device identifiers, not user-specific account IDs.",
+      "how_to_fix": "Declare 'Device or other IDs' instead of 'User IDs', or update the privacy policy if you collect account-level user IDs.",
+      "lang": "English"
+    }
+  ]
+}
+```

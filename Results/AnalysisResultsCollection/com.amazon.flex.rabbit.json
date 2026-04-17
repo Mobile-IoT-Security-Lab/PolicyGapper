@@ -1,0 +1,59 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "As a result of the above actions, you might supply us with information such as: • Your name, phone number, email address, home address, date of birth, driver's license and photo ID, national identification number, photos, vehicle information, login credentials, information that we use for payment purposes, feedback on routing and the delivery experience, and information regarding on-road accidents or other incidents.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Route data, including when you pick up and deliver parcels or freight and your progress through delivery/shipment routes, activity classification (e.g. walking, driving), and data collected through device sensors such as position and movement;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may also use device identifiers, cookies, and other technologies on devices, applications, web pages, and other Amazon Transportation Technologies to collect browsing, usage, or other technical information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Metrics such as your rate of successful or on time deliveries to enable us to manage your or your Transportation Company's compliance with agreed service standards.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "1. Categories of personal information collected. In connection with the Services, the personal information that Amazon collects, or has collected from you in the twelve months prior to the effective date of this Disclosure, falls into the following categories established by the California Privacy Rights Act:\no identifiers such as your name, address, phone numbers, driver's license or government-issued ID;\no information that may reveal or reflect age, gender, race, citizenship, immigration status, or other protected classifications, for example based on the information on an ID you provide for identity verification, such as your driver's license;\no internet or other electronic network activity information, including content interaction information, such as usage data and feedback you share in the Amazon Transportation Apps;\no biometric information, such as facial geometry or similar biometric identifiers if you have provided consent;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Information from your Transportation Company. Examples of information we may receive from your Transportation Company or its service providers, where permissible by local laws, include:\n• Information or documents provided by you to your Transportation Company, including work permits, registration with health insurance providers, your residence permit, your declaration that you are medically fit to perform the Services, and your national identification number;\n• Personnel administration data, including confirmation of completed safety trainings, pay slips, attendance data, your employment contract or contract for services; and\n• Information regarding whether you passed a background check, including a criminal check, and the results of drug or alcohol screening.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "Information from Amazon Transportation Technology. Examples of information we may collect and analyze through Amazon Transportation Technology include:\n• Route data, including when you pick up and deliver parcels or freight and your progress through delivery/shipment routes, activity classification (e.g. walking, driving), and data collected through device sensors such as position and movement;\n• Location data, including information about your geolocation and movement, and the device operating the Amazon Transportation App(s) as required for location-based services;\n• Vehicle operation and vehicle health information, including telematics data such as location of the vehicle or trailer/container, distance driven, speed, fuel usage or battery consumption, vehicle orientation, and operation of driver assistance technologies;\n• Road safety data, including driving behavior (e.g. harsh braking, cornering, acceleration, speeding), potential traffic violations, seatbelt use, and information related to accidents and other on-road incidents; and\n• Metrics such as your rate of successful or on time deliveries to enable us to manage your or your Transportation Company's compliance with agreed service standards.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "You provide information to us when you:\n• Onboard or register to provide Services, including when you create an account and provide information in the Amazon Transportation App(s);\n• Answer in app questions, surveys, or provide other feedback to Amazon; and\n• Communicate and interact with Amazon personnel, including Amazon support services. We may record phone calls you make to support services, including when you call an Amazon emergency or operations helpline.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Video recordings of the vehicle interior (including occupants of the driver and passenger seats) and external views including to the front, right, left, and the rear of the vehicle. This footage may be uploaded from the Camera Technology to secure servers, including in the following circumstances:\no When you tell the camera to record and upload, if this feature is available (for example, you may choose to upload video footage manually to document safety concerns or delivery issues);\no When the camera detects an accident or potential safety incident, such as a failure to stop at a stop sign or at a red light, unsafe following distance, speeding, distracted driving (e.g. using a handheld device while operating the vehicle), or an emergency braking event;\no When information useful to improve maps and routing is detected; and\no If still available, when Amazon or your Transportation Company requests it in compliance with applicable law, such as when the footage could be useful in connection with an investigation. Footage that is not uploaded remains encrypted and is automatically overwritten so that there is never more than a limited amount of footage stored on the Camera Technology.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "You provide information to us when you:\n• Onboard or register to provide Services, including when you create an account and provide information in the Amazon Transportation App(s);\n• Answer in app questions, surveys, or provide other feedback to Amazon; and\n• Communicate and interact with Amazon personnel, including Amazon support services. We may record phone calls you make to support services, including when you call an Amazon emergency or operations helpline.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Information from your Transportation Company. Examples of information we may receive from your Transportation Company or its service providers, where permissible by local laws, include:\n• Information or documents provided by you to your Transportation Company, including work permits, registration with health insurance providers, your residence permit, your declaration that you are medically fit to perform the Services, and your national identification number;\n• Personnel administration data, including confirmation of completed safety trainings, pay slips, attendance data, your employment contract or contract for services; and\n• Information regarding whether you passed a background check, including a criminal check, and the results of drug or alcohol screening.",
+      "lang": "en"
+    }
+  ]
+}

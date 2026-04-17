@@ -1,0 +1,28 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Emails",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Messages"
+    },
+    {
+      "data": "Email address",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Personal info"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://api-server-gl.sp-games.com/site/policy?type=2&area=EN"
+}

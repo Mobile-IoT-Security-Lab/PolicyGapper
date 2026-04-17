@@ -1,0 +1,54 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Business Partners: Third parties through whom you receive access to our Services, including via use of a promotion code or other method provided by such business partners, in our legitimate interest to provide you with free or discounted access to our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Business Partners: Third parties through whom you receive access to our Services, including via use of a promotion code or other method provided by such business partners, in our legitimate interest to provide you with free or discounted access to our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Business Partners: Third parties through whom you receive access to our Services, including via use of a promotion code or other method provided by such business partners, in our legitimate interest to provide you with free or discounted access to our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Business Partners: Third parties through whom you receive access to our Services, including via use of a promotion code or other method provided by such business partners, in our legitimate interest to provide you with free or discounted access to our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Business Partners: Third parties through whom you receive access to our Services, including via use of a promotion code or other method provided by such business partners, in our legitimate interest to provide you with free or discounted access to our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "Business Partners: Third parties through whom you receive access to our Services, including via use of a promotion code or other method provided by such business partners, in our legitimate interest to provide you with free or discounted access to our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Business Partners: Third parties through whom you receive access to our Services, including via use of a promotion code or other method provided by such business partners, in our legitimate interest to provide you with free or discounted access to our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Business Partners: Third parties through whom you receive access to our Services, including via use of a promotion code or other method provided by such business partners, in our legitimate interest to provide you with free or discounted access to our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "Business Partners: Third parties through whom you receive access to our Services, including via use of a promotion code or other method provided by such business partners, in our legitimate interest to provide you with free or discounted access to our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Business Partners: Third parties through whom you receive access to our Services, including via use of a promotion code or other method provided by such business partners, in our legitimate interest to provide you with free or discounted access to our Services.",
+      "lang": "English"
+    }
+  ]
+}

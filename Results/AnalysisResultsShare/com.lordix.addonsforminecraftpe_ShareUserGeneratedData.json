@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category A. Identifiers, such as contact details like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category H. Audio, electronic, visual, and similar information, such as images and audio, video, or call recordings created in connection with our business activities.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category H. Audio, electronic, visual, and similar information, such as images and audio, video, or call recordings created in connection with our business activities.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category H. Audio, electronic, visual, and similar information, such as images and audio, video, or call recordings created in connection with our business activities.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category H. Audio, electronic, visual, and similar information, such as images and audio, video, or call recordings created in connection with our business activities.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Lordix Studio has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n• Category A. Identifiers, such as contact details like your real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name.\n• Category B. Personal Information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history, and financial information.",
+      "lang": "English"
+    }
+  ]
+}

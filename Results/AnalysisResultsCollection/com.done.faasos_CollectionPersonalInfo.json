@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other info",
+      "policy_reference": "Information you give us This includes information submitted when you:\ni. Create or update your EatSure account, which may include your name, email, phone number, login name and password, address, payment or banking information, date of birth and profile picture. If you sign in to the EatSure Platform through third-party sign-in services such as Facebook, Google Plus or Gmail or any other social networking or similar site (collectively, “SNS”), an option of which may be provided to you by EatSure at its sole discretion, you will be allowing us to pass through and receive from the SNS your log-in information and other user data; or",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Information you give us This includes information submitted when you:\niii. Use our Services, we may collect and store information about you to process your requests and automatically complete forms for future transactions, including (but not limited to) your phone number, address, email, billing information and credit or payment card information.",
+      "lang": "English"
+    }
+  ]
+}

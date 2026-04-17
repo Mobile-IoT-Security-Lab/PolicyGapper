@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Communicate with you about promotions, contests, rewards, upcoming events, and other news about products and services offered by LOGICLABS LIMITED and our selected partners;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Communicate with you about promotions, contests, rewards, upcoming events, and other news about products and services offered by LOGICLABS LIMITED and our selected partners;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Advertising. To the extent we display advertising in our Services, we may allow advertising networks of our affiliates and partner networks to collect information about your mobile device to enable them to serve targeted ads to you. Such mobile device data includes the following:\n- Device make, model and operating system;\n- Device properties related to screen size & orientation, audio volume and battery;\n- Carrier;\n- Operating system;\n- Name and properties of mobile application through which a consumer interacts with the Services;\n- Country, time zone and locale settings (country and preferred language);\n- Network connection type and speed;\n- IP Address;\n- Internet browser user-agent used to access the Services; and\n- Advertising ID (IDFA on iOS devices and GAID on Android devices).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Communicate with you about promotions, contests, rewards, upcoming events, and other news about products and services offered by LOGICLABS LIMITED and our selected partners;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Advertising. To the extent we display advertising in our Services, we may allow advertising networks of our affiliates and partner networks to collect information about your mobile device to enable them to serve targeted ads to you. Such mobile device data includes the following:\n- Device make, model and operating system;\n- Device properties related to screen size & orientation, audio volume and battery;\n- Carrier;\n- Operating system;\n- Name and properties of mobile application through which a consumer interacts with the Services;\n- Country, time zone and locale settings (country and preferred language);\n- Network connection type and speed;\n- IP Address;\n- Internet browser user-agent used to access the Services; and\n- Advertising ID (IDFA on iOS devices and GAID on Android devices).",
+      "lang": "English"
+    }
+  ]
+}

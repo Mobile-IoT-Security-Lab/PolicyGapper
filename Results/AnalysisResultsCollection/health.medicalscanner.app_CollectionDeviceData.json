@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "a) Device information:\nDevice model;\n- Information about the operating system and its version;\nUnique device identifiers (e.g., IDFA);\nEnabled device accessibility functions (e.g., display functions, auditory functions, physical and motor functions);\n- Mobile carrier and network information;\n- Information about the data stored on the device;\n- System version of the device.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "c) Data regarding your use of the Services, including but not limited to:\n- Frequency of use;\n- Areas and features of the Services that you access, visit or use;\n- Involvement in specific functions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "c) Data regarding your use of the Services, including but not limited to:\n- Frequency of use;\n- Areas and features of the Services that you access, visit or use;\n- Involvement in specific functions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Any information (including Personal Information) shared in any area reserved for the online community or in an online discussion is generally available to all members of the Application community. We recommend that you think carefully before posting Personal Information in any public forum. What you post may be read, disclosed or collected by third parties and may be used by others in ways we cannot control or predict, including, to contact you for illegal purposes. If you accidentally post Personal Information in social posts on our services and wish to remove it, please send us a message at. pomoc@medicscanner.com (mailto:pomoc@medicscanner.com).",
+      "lang": "English"
+    }
+  ]
+}

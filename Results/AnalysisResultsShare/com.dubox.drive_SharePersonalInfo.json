@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "You may choose to connect to your TeraBox account through a third-party service. By connecting to a service of this kind, you allow the third parties and us to exchange the information listed in the \"What information is collected and for what purpose\" section of this Privacy Policy so that the third parties and we can deliver, optimize, protect, and promote their services. In these cases, the use of your information will be governed by the privacy policies and terms of service of the third parties whose services you choose to connect through.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "You may choose to connect to your TeraBox account through a third-party service. By connecting to a service of this kind, you allow the third parties and us to exchange the information listed in the \"What information is collected and for what purpose\" section of this Privacy Policy so that the third parties and we can deliver, optimize, protect, and promote their services. In these cases, the use of your information will be governed by the privacy policies and terms of service of the third parties whose services you choose to connect through.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "You may choose to connect to your TeraBox account through a third-party service. By connecting to a service of this kind, you allow the third parties and us to exchange the information listed in the \"What information is collected and for what purpose\" section of this Privacy Policy so that the third parties and we can deliver, optimize, protect, and promote their services. In these cases, the use of your information will be governed by the privacy policies and terms of service of the third parties whose services you choose to connect through.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "You may choose to connect to your TeraBox account through a third-party service. By connecting to a service of this kind, you allow the third parties and us to exchange the information listed in the \"What information is collected and for what purpose\" section of this Privacy Policy so that the third parties and we can deliver, optimize, protect, and promote their services. In these cases, the use of your information will be governed by the privacy policies and terms of service of the third parties whose services you choose to connect through.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "You may choose to connect to your TeraBox account through a third-party service. By connecting to a service of this kind, you allow the third parties and us to exchange the information listed in the \"What information is collected and for what purpose\" section of this Privacy Policy so that the third parties and we can deliver, optimize, protect, and promote their services. In these cases, the use of your information will be governed by the privacy policies and terms of service of the third parties whose services you choose to connect through.",
+      "lang": "English"
+    }
+  ]
+}

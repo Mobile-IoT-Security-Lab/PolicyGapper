@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Our corporate group\nWe may share your information with our subsidiaries or affiliates to provide, improve and optimize the Services, to prevent illegal use and to support you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Our corporate group\nWe may share your information with our subsidiaries or affiliates to provide, improve and optimize the Services, to prevent illegal use and to support you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Our corporate group\nWe may share your information with our subsidiaries or affiliates to provide, improve and optimize the Services, to prevent illegal use and to support you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Our corporate group\nWe may share your information with our subsidiaries or affiliates to provide, improve and optimize the Services, to prevent illegal use and to support you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment providers. If you choose to use your debit/credit card or any Payment Provider's services for your payment or transaction on the Platform, we may share your information with the relevant Payment Provider to facilitate your payment or transaction.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "If we sell, buy, merge, are acquired by, or partner with other companies or businesses, or sell some or all of our assets. Your information may be among the transferred assets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Delivery service providers. If you choose to purchase items using the delivery method on the Platform, we may share your information with delivery service providers to facilitate the delivery of items you purchased.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "Directory of third-party SDKs that may be accessed\nCategory\nFunction\nTypes of information collected\nFirebase SDK\nData statistical analysis service\nApplication software list\nAdmob Ads SDK\nGet and display ads\nUnique device identification code\n(Android ID)\nAppLovin Ads SDK\nGet and display ads\nDevice location information, unique\ndevice identification code (Android I\nD)\nGiphy SDK\nGet Gif picture\nNetwork status, unique device ident\nification code(Android ID)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• Customer service and after-sales service:When you send feedback via email or provide us with an error report,we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Directory of third-party SDKs that may be accessed\nCategory\nFunction\nTypes of information collected\nFirebase SDK\nData statistical analysis service\nApplication software list\nAdmob Ads SDK\nGet and display ads\nUnique device identification code\n(Android ID)\nAppLovin Ads SDK\nGet and display ads\nDevice location information, unique\ndevice identification code (Android I\nD)\nGiphy SDK\nGet Gif picture\nNetwork status, unique device ident\nification code(Android ID)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Directory of third-party SDKs that may be accessed\nCategory\nFunction\nTypes of information collected\nFirebase SDK\nData statistical analysis service\nApplication software list\nAdmob Ads SDK\nGet and display ads\nUnique device identification code\n(Android ID)\nAppLovin Ads SDK\nGet and display ads\nDevice location information, unique\ndevice identification code (Android I\nD)\nGiphy SDK\nGet Gif picture\nNetwork status, unique device ident\nification code(Android ID)",
+      "lang": "English"
+    }
+  ]
+}

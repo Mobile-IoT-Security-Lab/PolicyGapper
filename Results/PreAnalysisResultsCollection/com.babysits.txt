@@ -1,0 +1,181 @@
+Privacy
+Introduction
+This privacy policy describes how Babysits B.V. collects, uses, and protects your
+information. Babysits B.V. is aware that your personal data must be secured well.
+We have internal guidelines that describe exactly how our collaborators must
+handle personal data. Babysits B.V. will only process your personal data in
+accordance with the purposes that you provided them for, as well as in conformity
+with the General Data Protection Regulation.
+---
+Use of our services
+When you make use of the services of Babysits B.V., we ask you to provide
+personal data. We use your personal data to create your Babysits account, to
+activate, and to verify it. Your data are stored in our systems and are used to be
+able to provide our services to you.
+--- [PAGE BREAK] ---
+The personal data
+If you want to create an account as a parent, we process the following (special)
+personal data of yours:
+•
+First and last name;
+•
+E-mail address;
+•
+Password;
+• Address information;
+•
+Phone number;
+•
+Bank account or credit card number (only the last 4 digits);
+• IP-address;
+•
+•
+Identity document verification data;
+User-ID (when you link an Apple, Google, LinkedIn and/or Facebook account
+to this platform, and depending on the settings on your account, data from
+your registrations with these parties).
+If you want to create an account as a babysitter, we will process the following
+(special) personal data of yours:
+•
+First and last name;
+•
+E-mail address;
+• Password;
+• Address information;
+•
+Phone number;
+•
+Bank account or credit card number;
+•
+•
+•
+IP-address;
+Identity document verification data;
+Gender;
+•
+Date of birth;
+•
+•
+User-ID (when you link an Apple, Google, LinkedIn and/or Facebook account
+to this platform, and depending on the settings on your account, data from
+your registrations with these parties);
+Profession;
+• Education/diplomas;
+•
+Skills;
+• Availability;
+•
+Bank account number;
+•
+•
+ID;
+Criminal register check (or local equivalent).
+--- [PAGE BREAK] ---
+Grounds 1 - Consent
+Babysits B.V. asks your permission for the use of your personal data. You grant this
+permission by creating an account on our platform and/or by downloading our
+mobile app. For biometric data processing during identity verification, we obtain
+separate explicit consent.
+---
+Data processing
+Babysits B.V. collects and processes your personal data with the greatest possible
+care and only when necessary. At Babysits B.V., we collect and keep the following
+information you provide us with:
+• Account information. When you register for a Babysits account, we collect
+certain information, such as your first name, last name, and your e-mail
+address.
+•
+Profile information. To activate your Babysits profile, we can ask you for
+additional information, such as address, gender, and date of birth.
+• Verification information. To create and maintain a trusted community, we can
+collect verification information, including a phone number and e-mail
+address.
+•
+Payment information. We ask families that want to pay and childcare
+providers that want to be paid
+to provide our payment provider with payment information, such as a bank
+account or credit card information to facilitate the processing of payments.
+• Communication with other platform users. When you communicate with
+other Babysits users via our messaging system, we collect information about
+your communications and all information that you want to provide.
+• Booking information. When you use our booking system, we collect
+information about your booking, payment, and all information you provide us
+with.
+•
+•
+User-IDs of contacts. If you register via a Facebook account, we collect the
+user-IDs of your connections on this platform in order to provide you with
+more accurate recommendations, and this enables you to see the favorite
+users of your contacts. On your Babysits profile we also show you your
+Facebook friends who actively use Babysits as well.
+Document control: We enable users to provide a Criminal Registration Check
+(or local equivalent). As soon as Babysits has assessed the document, it is
+removed from our servers.
+--- [PAGE BREAK] ---
+•
+ID verification. Identity verification is one of the ways we keep Babysits safe.
+This helps us check that you're really you. We may collect your facial imagery,
+ID-number, date of birth, first name, last name, middle name, document type,
+document issuing country, nationality and address, as well as sophisticated
+fraud signals and information about the devices that connect with our
+services. To pay babysitters we may share babysitter IDs with our payment
+provider Stripe due to regulatory and financial partner requirements. Facial
+recognition data is processed by our service provider; Amazon Web Services
+(AWS). The pictures of your ID-document will not be stored by Babysits after
+the verification is completed and this may take up to 1 week.
+---
+The security measures
+Babysits B.V. has taken appropriate technical and organizational measures by
+using the latest technologies to protect your information against loss, abuse, or
+unlawful processing. Babysits B.V. uses security measures to keep the collected
+information safe.
+--- [PAGE BREAK] ---
+For identity verification our system processes and stores:
+Facial Recognition Templates through AWS Rekognition
+•
+Encrypted mathematical templates for verification
+• Stored in secure AWS Face Collections
+•
+Used only for verification purposes
+Original Facial Images
+We store original facial images for child safety and fraud prevention. This is
+necessary to:
+•
+Assist law enforcement when required
+•
+Prevent identity fraud
+•
+Support safety investigations
+•
+Comply with childcare service regulations
+--- [PAGE BREAK] ---
+Cookies
+This platform makes use of cookies to render access to the service easier. If you do
+not want your data to be stored as a cookie, you can modify this under your
+browser settings. Cookies we make use of are:
+•
+•
+•
+•
+•
+Session: to log in and for the use of our website;
+Keep me logged in: to remember login names;
+New Relic: to use their service Server Monitoring;
+Stripe: to process payments;
+Google Analytics: to analyze the effectiveness of the website;
+• VWO: to analyze the effectiveness of the website.
+We use cookies to modify and measure advertisements. The following cookies are
+only applicable if you have clicked on an ad and have subsequently agreed to the
+use of cookies to collect information on and outside Babysits:
+•
+Bing: to analyze the effectiveness of ads;
+• Facebook: to analyze the effectiveness of ads;
+•
+Google: to analyze the effectiveness of ads;
+Google Analytics cookies
+We make use of Google Analytics, which is a web-analysis service that is offered
+by Google to keep track of and report on activities on our website.
+--- [PAGE BREAK] ---
+Data that are collected, processed, and stored in Google Analytics are safe and are
+treated with confidentiality. For more information about Google Analytics cookies,
+we advise you to go to https://policies.google.com/privacy.

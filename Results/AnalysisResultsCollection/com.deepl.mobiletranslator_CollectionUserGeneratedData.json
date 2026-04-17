@@ -1,0 +1,29 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "You have various possibilities to connect with us, including via contact forms on our website, having calls with our customer team as well as by using our chatbot. You can also contact us directly by email. We will process your personal data that you provide to us as part of these communications. This may include your name, email address and any other personal data you disclose to us.",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "On the Platform, we will publish and make available your name (not your email address) together with any optional account or profile information (except for information that you designate as non-public) that you add on the Platform. We will also publish and make available any content you post on the Platform (such as posts, comments, votes). The Platform will not be made public in the early access phase.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "We also use a service provided by UserTesting, Inc. 144 Townsend Street, San Francisco, CA 94107 USA to conduct interviews with you. As a user (Contributor) of UserTesting, you can register for our interviews on UserTesting's platform. We also contact selected customers to make them aware of the interviews and invite them to attend. The interviews are recorded with images and sound and stored by us for two years on the UserTesting platform. We process your data on the basis of your given consent, Art. 6 para. 1 sentence 1 lit. a) GDPR. You can withdraw your consent at any time with effect for the future by sending an email to privacy(at)deepl.com. Please state the exact day and, if possible, the time of the interview. We have concluded a data processing agreement with UserTesting and UserTesting may only process the data according to our instructions and not for its own purposes. UserTesting uses different subcontractors - such as Zoom - which are also partly located in third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to the USA. Further information on the handling of personal data at UserTesting can be found here and here.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "We also use a service provided by UserTesting, Inc. 144 Townsend Street, San Francisco, CA 94107 USA to conduct interviews with you. As a user (Contributor) of UserTesting, you can register for our interviews on UserTesting's platform. We also contact selected customers to make them aware of the interviews and invite them to attend. The interviews are recorded with images and sound and stored by us for two years on the UserTesting platform. We process your data on the basis of your given consent, Art. 6 para. 1 sentence 1 lit. a) GDPR. You can withdraw your consent at any time with effect for the future by sending an email to privacy(at)deepl.com. Please state the exact day and, if possible, the time of the interview. We have concluded a data processing agreement with UserTesting and UserTesting may only process the data according to our instructions and not for its own purposes. UserTesting uses different subcontractors - such as Zoom - which are also partly located in third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to the USA. Further information on the handling of personal data at UserTesting can be found here and here.",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "You can translate documents in different file formats both with DeepL Pro (.docx, .pptx, .html, .pdf and .txt) as well as with DeepL Translator (.docx, .pptx and .pdf). When using document translation in DeepL Translator, section 3 of this privacy policy applies. If you translate documents of the file types mentioned above while you are logged in to your DeepL Pro account, the texts you submit will only be processed temporarily and will be deleted after the completion of the translation process, including the translations themselves (see also section 4 and 6.3 of this privacy policy). With both DeepL Pro and DeepL Translator, the translation of your documents will be provided exclusively by DeepL and processed on our infrastructure in the EEA.",
+"lang": "en"
+}
+]
+}

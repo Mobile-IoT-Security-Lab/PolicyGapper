@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "•\nMobile Device Data. We automatically collect device information (such as your mobile\ndevice ID, model, and manufacturer), operating system, version information and system\nconfiguration information, device and application identification numbers, browser type and\nversion, hardware model Internet service provider and/or mobile carrier, and Internet Protocol\n(IP) address (or proxy server). If you are using our application(s), we may also collect\ninformation about the phone network associated with your mobile device, your mobile\ndevice's operating system or platform, the type of mobile device you use, your mobile\ndevice's unique device ID, and information about the features of our application(s) you\naccessed.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "•\nMobile Device Data. We automatically collect device information (such as your mobile\ndevice ID, model, and manufacturer), operating system, version information and system\nconfiguration information, device and application identification numbers, browser type and\nversion, hardware model Internet service provider and/or mobile carrier, and Internet Protocol\n(IP) address (or proxy server). If you are using our application(s), we may also collect\ninformation about the phone network associated with your mobile device, your mobile\ndevice's operating system or platform, the type of mobile device you use, your mobile\ndevice's unique device ID, and information about the features of our application(s) you\naccessed.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "This information is primarily needed to maintain the security and operation of our\napplication(s), for troubleshooting, and for our internal analytics and reporting purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "This information is primarily needed to maintain the security and operation of our\napplication(s), for troubleshooting, and for our internal analytics and reporting purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "This information is primarily needed to maintain the security and operation of our\napplication(s), for troubleshooting, and for our internal analytics and reporting purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "•\nMobile Device Data. We automatically collect device information (such as your mobile\ndevice ID, model, and manufacturer), operating system, version information and system\nconfiguration information, device and application identification numbers, browser type and\nversion, hardware model Internet service provider and/or mobile carrier, and Internet Protocol\n(IP) address (or proxy server). If you are using our application(s), we may also collect\ninformation about the phone network associated with your mobile device, your mobile\ndevice's operating system or platform, the type of mobile device you use, your mobile\ndevice's unique device ID, and information about the features of our application(s) you\naccessed.",
+      "lang": "English"
+    }
+  ]
+}

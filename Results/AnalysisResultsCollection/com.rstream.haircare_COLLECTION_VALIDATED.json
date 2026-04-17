@@ -1,0 +1,56 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User Content (e.g., photos and other materials) that you post through the Service. Communications between you and Hair Care. For example, we may send you Service-related emails (e.g., changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.",
+      "justification": "The policy states collection of \"User Content (e.g., photos and other materials) that you post through the Service\" and \"Communications between you and Hair Care.\"",
+      "how_to_fix": "Declare \"Other user-generated content\" as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Log file information is automatically reported by your browser each time you make a request to access (i.e., visit) a web page or app. It can also be provided when the content of the webpage or app is downloaded to your browser or device. When you use our Service, our servers automatically record certain log file information, including your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may also collect similar information from emails sent to our Users which then help us track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.",
+      "justification": "The policy mentions collecting log file information, including \"number of clicks and how you interact with links on the Service,\" which falls under 'Other actions'.",
+      "how_to_fix": "Declare \"Other actions\" as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Log file information is automatically reported by your browser each time you make a request to access (i.e., visit) a web page or app. It can also be provided when the content of the webpage or app is downloaded to your browser or device. When you use our Service, our servers automatically record certain log file information, including your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may also collect similar information from emails sent to our Users which then help us track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.",
+      "justification": "The policy states that servers record log file information, including \"referring / exit pages and URLs, domain names, landing pages, pages viewed.\"",
+      "how_to_fix": "Declare \"Web browsing history\" as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Communications between you and Hair Care. For example, we may send you Service-related emails (e.g., changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.",
+      "justification": "The policy mentions sending \"Service-related emails,\" which implies the collection and storage of the user's email address to facilitate these communications.",
+      "how_to_fix": "Declare \"Email address\" as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you use our Service, our servers automatically record certain log file information, including your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may also collect similar information from emails sent to our Users which then help us track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.",
+      "justification": "The policy states that servers record the user's \"Internet Protocol ('IP') address,\" which can be used to determine their approximate location.",
+      "how_to_fix": "Declare \"Approximate location\" as collected in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Communications between you and Hair Care. For example, we may send you Service-related emails (e.g., changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.",
+      "justification": "The policy states it collects \"Communications between you and Hair Care,\" which includes the content of emails sent by the user to the service.",
+      "how_to_fix": "Declare \"Emails\" as collected in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "User Content (e.g., photos and other materials) that you post through the Service.",
+      "justification": "The policy explicitly states the collection of \"User Content (e.g., photos...)\" that users post through the service.",
+      "how_to_fix": "Declare \"Photos\" as collected in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

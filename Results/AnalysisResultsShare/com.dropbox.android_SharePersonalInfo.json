@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Other users. Our Services are designed to help you collaborate with others. If you register your Dropbox account with an email address on a domain owned by your employer or organization, join a Dropbox Team, or collaborate with other Dropbox users, we may suggest you or your team as a potential collaborator to other users or teams. For example, if you interact with a person at a company, and that person frequently works with one of their coworkers, we may suggest you as a potential collaborator for that coworker. Collaborators and potential collaborators may see some of your basic information, like your name, Dropbox Team name, profile picture, device, email address, and usage information. This helps you sync up with teams you can join and helps other users share files and folders with you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Certain features let you make additional information available to others. For example, if you view a file or folder shared from a feature that provides recipient or viewer analytics to content owners, we will share your identifying information such as name and email address, information on the device you used to view the content, and for how long you viewed content and what portion of the content you viewed with the owner of the file or folder. As another example, if you comment on a file, your name and email will be associated with your comment and visible to other people viewing that file, including logged-out viewers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "If we're involved in a reorganization, merger, acquisition, or sale of our assets, your data may be transferred as part of that deal. We'll notify you (for example, via a message to the email address associated with your account) of any such deal and outline your choices in that event.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+"lang": "en"
+},
+{
+"data_type": "Calendar events",
+"policy_reference": "27. The Application may require access to: the gallery, camera, calendar and notifications.",
+"lang": "en"
+}
+]
+}

@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We use Usage Data in our legitimate interests to tailor features and content to you, run analytics and measure and better understand user interaction with the Services, and we may permit third parties to use Usage Data for such purposes. For more information on how we use Tracking Technologies and your choices, see the section below, Cookies and Other Tracking Technologies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We use Usage Data in our legitimate interests to tailor features and content to you, run analytics and measure and better understand user interaction with the Services, and we may permit third parties to use Usage Data for such purposes. For more information on how we use Tracking Technologies and your choices, see the section below, Cookies and Other Tracking Technologies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We use Usage Data in our legitimate interests to tailor features and content to you, run analytics and measure and better understand user interaction with the Services, and we may permit third parties to use Usage Data for such purposes. For more information on how we use Tracking Technologies and your choices, see the section below, Cookies and Other Tracking Technologies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use Usage Data in our legitimate interests to tailor features and content to you, run analytics and measure and better understand user interaction with the Services, and we may permit third parties to use Usage Data for such purposes. For more information on how we use Tracking Technologies and your choices, see the section below, Cookies and Other Tracking Technologies.",
+      "lang": "English"
+    }
+  ]
+}

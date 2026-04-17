@@ -1,0 +1,100 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "On Buenovela, you can read or publish novels, make comments, and purchase coins for charged chapters and so on. We will collect the operation that you may perform on Buenovela and the data you provide, such as:\n• the content you create, for example novel or comments;\n• the metadata about the content itself, for example upload address or creation documents date, in accordance with the relevant legislation;\n• the type of content that you read or comment;\n• the application and function you use, and your operation during this;\n• the purchase or other transactions you do including the credit card data;\n• the time, frequency, and duration of your operation.",
+      "justification": "The privacy policy states that the app collects 'the content you create, for example novel or comments'. This falls under the 'Other User generated content' data type.",
+      "how_to_fix": "Declare the collection of 'Other User generated content' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "On Buenovela, you can read or publish novels, make comments, and purchase coins for charged chapters and so on. We will collect the operation that you may perform on Buenovela and the data you provide, such as:\n• the content you create, for example novel or comments;\n• the metadata about the content itself, for example upload address or creation documents date, in accordance with the relevant legislation;\n• the type of content that you read or comment;\n• the application and function you use, and your operation during this;\n• the purchase or other transactions you do including the credit card data;\n• the time, frequency, and duration of your operation.",
+      "justification": "The privacy policy states 'We will collect the operation that you may perform on Buenovela' and 'the application and function you use, and your operation during this'. This corresponds to the 'Other actions' data type.",
+      "how_to_fix": "Declare the collection of 'Other actions' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use cookies if you have a Buenovela account, use Buenovela, including our website and apps, or visit other websites and apps that use Buenovela. Cookies enable Buenovela to offer Buenovela to you and to understand the data that we receive about you, including data about your use of other websites and apps, whether you are registered or logged in or not.",
+      "justification": "The privacy policy states that the app collects data about the user's 'use of other websites and apps'. This corresponds to the 'Web browsing history' data type.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Providing Buenovela involves collecting, storing, sharing, analyzing, reviewing, and collating data when necessary, and in some cases using not only automated processing techniques but also a manual (manual) review process to accomplish the following purposes: •Creating and maintaining your account and personal homepage; • Promoting content presenting; • Providing the comments function; • Offering the commercial novels; and • Carrying out an analysis. We also use the available data to develop, study, and test Buenovela improvement. The data we have is used for the following purposes: • Knowing if Buenovela is working properly; • Solving issues and correcting exceptions; • Testing New Features; • Acquiring feedback for Buenovela or functions.",
+      "justification": "The privacy policy states that data is used for 'Knowing if Buenovela is working properly; • Solving issues and correcting exceptions'. This falls under the 'Diagnostics' data type.",
+      "how_to_fix": "Declare the collection of 'Diagnostics' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We use cookies to:\n• Verify log-in data.\n• Track traffic flow and patterns of travel in connection with the Services.\n• Understand the total number of visitors to the Services on an ongoing basis and the types of devices.\n• Monitor the performance of the Services and continually improve it.\n• Customize and enhance your online experience.\n• Provide customer service.",
+      "justification": "The privacy policy states that data is used to 'Track traffic flow and patterns of travel' and 'Monitor the performance of the Services'. This falls under 'Other app performance data'.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We will collect various data and operations that you are on or out of Buenovela from business partner, supplier and third party. For example, we will collect your device data, your using application and the advertisement you view. Furthermore, a business partner will share us some other data, such as your email, third-party account data.",
+      "justification": "The privacy policy explicitly states 'we will collect... your using application'. This corresponds to the 'Installed apps' data type.",
+      "how_to_fix": "Declare the collection of 'Installed apps' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "You can choose to provide data about your age, gender, address, and email address. These and some other types of data may be specially protected under the laws of your jurisdiction.",
+      "justification": "The privacy policy explicitly states that users can provide data about their 'address'.",
+      "how_to_fix": "Declare the collection of 'Address' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "You can choose to provide data about your age, gender, address, and email address. These and some other types of data may be specially protected under the laws of your jurisdiction.",
+      "justification": "The privacy policy states that users can provide data about their 'age, gender... and some other types of data'. This corresponds to the 'Other info' data type.",
+      "how_to_fix": "Declare the collection of 'Other info' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "On Buenovela, you can read or publish novels, make comments, and purchase coins for charged chapters and so on. We will collect the operation that you may perform on Buenovela and the data you provide, such as:\n• the content you create, for example novel or comments;\n• the metadata about the content itself, for example upload address or creation documents date, in accordance with the relevant legislation;\n• the type of content that you read or comment;\n• the application and function you use, and your operation during this;\n• the purchase or other transactions you do including the credit card data;\n• the time, frequency, and duration of your operation.",
+      "justification": "The privacy policy states that the app collects data on 'purchase or other transactions you do including the credit card data'. This corresponds to 'User payment info'.",
+      "how_to_fix": "Declare the collection of 'User payment info' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "On Buenovela, you can read or publish novels, make comments, and purchase coins for charged chapters and so on. We will collect the operation that you may perform on Buenovela and the data you provide, such as:\n• the content you create, for example novel or comments;\n• the metadata about the content itself, for example upload address or creation documents date, in accordance with the relevant legislation;\n• the type of content that you read or comment;\n• the application and function you use, and your operation during this;\n• the purchase or other transactions you do including the credit card data;\n• the time, frequency, and duration of your operation.",
+      "justification": "The privacy policy states that the app collects data on 'purchase or other transactions you do'. This corresponds to 'Purchase history'.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "On Buenovela, you can read or publish novels, make comments, and purchase coins for charged chapters and so on. We will collect the operation that you may perform on Buenovela and the data you provide, such as:\n• the content you create, for example novel or comments;\n• the metadata about the content itself, for example upload address or creation documents date, in accordance with the relevant legislation;\n• the type of content that you read or comment;\n• the application and function you use, and your operation during this;\n• the purchase or other transactions you do including the credit card data;\n• the time, frequency, and duration of your operation.",
+      "justification": "The privacy policy states that the app collects 'comments', which are a form of in-app messaging.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "On Buenovela, you can read or publish novels, make comments, and purchase coins for charged chapters and so on. We will collect the operation that you may perform on Buenovela and the data you provide, such as:\n• the content you create, for example novel or comments;\n• the metadata about the content itself, for example upload address or creation documents date, in accordance with the relevant legislation;\n• the type of content that you read or comment;\n• the application and function you use, and your operation during this;\n• the purchase or other transactions you do including the credit card data;\n• the time, frequency, and duration of your operation.",
+      "justification": "The privacy policy states that the app collects 'the content you create, for example novel' and metadata like 'creation documents date', which implies the collection of user-created files and documents.",
+      "how_to_fix": "Declare the collection of 'Files and docs' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "On Buenovela, you can read or publish novels, make comments, and purchase coins for charged chapters and so on. We will collect the operation that you may perform on Buenovela and the data you provide, such as:\n• the content you create, for example novel or comments;\n• the metadata about the content itself, for example upload address or creation documents date, in accordance with the relevant legislation;\n• the type of content that you read or comment;\n• the application and function you use, and your operation during this;\n• the purchase or other transactions you do including the credit card data;\n• the time, frequency, and duration of your operation.",
+      "reason_of_removal": "Inconsistent data_type and policy_reference.",
+      "justification": "The policy mentions 'upload address' as metadata, which is too ambiguous to definitively confirm the collection of 'Approximate location' data. The term does not explicitly refer to IP addresses or geographical location.",
+      "how_to_fix": "No action needed as the policy does not clearly state collection of this data type.",
+      "lang": "English"
+    }
+  ]
+}
+```

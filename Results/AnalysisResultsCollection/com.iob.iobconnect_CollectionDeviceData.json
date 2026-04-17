@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may automatically track certain information about you based upon your behaviour on our app to the extent we deem fit.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may automatically track certain information about you based upon your behaviour on our app to the extent we deem fit.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We use personal information to provide the services you request. We use your personal information to resolve disputes; troubleshoot problems; Send money etc.We use the information thus obtained to customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions which are an integral part of the use of this application; and as otherwise described to you at the time of such collection.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We use personal information to provide the services you request. We use your personal information to resolve disputes; troubleshoot problems; Send money etc.We use the information thus obtained to customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions which are an integral part of the use of this application; and as otherwise described to you at the time of such collection.",
+      "lang": "English"
+    }
+  ]
+}

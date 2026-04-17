@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "As described in our terms of service, our Software is ad-supported. Ads help us keep the lights on and continue to provide free products for our users. In order to provide our news services and serve targeted ads, we collect data such as advertising IDs from your device and your general location, as well as data you submit to us if you choose to create or update a user profile (such as your name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by our monetization partners. We process this data based on your consent. You can always adjust your personalized ad choices or withdraw your consent in the application's \"Settings\" menu.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "As described in our terms of service, our Software is ad-supported. Ads help us keep the lights on and continue to provide free products for our users. In order to provide our news services and serve targeted ads, we collect data such as advertising IDs from your device and your general location, as well as data you submit to us if you choose to create or update a user profile (such as your name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by our monetization partners. We process this data based on your consent. You can always adjust your personalized ad choices or withdraw your consent in the application's \"Settings\" menu.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "As described in our terms of service, our Software is ad-supported. Ads help us keep the lights on and continue to provide free products for our users. In order to provide our news services and serve targeted ads, we collect data such as advertising IDs from your device and your general location, as well as data you submit to us if you choose to create or update a user profile (such as your name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by our monetization partners. We process this data based on your consent. You can always adjust your personalized ad choices or withdraw your consent in the application's \"Settings\" menu.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may collect the following information for account registration, customer support, and service\ndelivery.\n•\nRequired: email address, mobile phone number\n• Optional: date of birth, gender\n•\n•\n•\nDuring service use: device information (model, OS version, device identifier, etc.), IP address,\nlocation information, access time, and usage logs\nFor payments: credit card information, carrier information, purchase history, and other\npayment details\nFor refunds/restores: email address, purchase verification details, and identity verification\ninformation as needed\nMethods of collection: sign-up and consent flows, events/promotions (with separate consent),\nautomatic collection via partner platforms, and information provided during customer support\ninteractions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may collect the following information for account registration, customer support, and service\ndelivery.\n•\nRequired: email address, mobile phone number\n• Optional: date of birth, gender\n•\n•\n•\nDuring service use: device information (model, OS version, device identifier, etc.), IP address,\nlocation information, access time, and usage logs\nFor payments: credit card information, carrier information, purchase history, and other\npayment details\nFor refunds/restores: email address, purchase verification details, and identity verification\ninformation as needed\nMethods of collection: sign-up and consent flows, events/promotions (with separate consent),\nautomatic collection via partner platforms, and information provided during customer support\ninteractions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may collect the following information for account registration, customer support, and service\ndelivery.\n•\nRequired: email address, mobile phone number\n• Optional: date of birth, gender\n•\n•\n•\nDuring service use: device information (model, OS version, device identifier, etc.), IP address,\nlocation information, access time, and usage logs\nFor payments: credit card information, carrier information, purchase history, and other\npayment details\nFor refunds/restores: email address, purchase verification details, and identity verification\ninformation as needed\nMethods of collection: sign-up and consent flows, events/promotions (with separate consent),\nautomatic collection via partner platforms, and information provided during customer support\ninteractions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may collect the following information for account registration, customer support, and service\ndelivery.\n•\nRequired: email address, mobile phone number\n• Optional: date of birth, gender\n•\n•\n•\nDuring service use: device information (model, OS version, device identifier, etc.), IP address,\nlocation information, access time, and usage logs\nFor payments: credit card information, carrier information, purchase history, and other\npayment details\nFor refunds/restores: email address, purchase verification details, and identity verification\ninformation as needed\nMethods of collection: sign-up and consent flows, events/promotions (with separate consent),\nautomatic collection via partner platforms, and information provided during customer support\ninteractions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may collect the following information for account registration, customer support, and service\ndelivery.\n•\nRequired: email address, mobile phone number\n• Optional: date of birth, gender\n•\n•\n•\nDuring service use: device information (model, OS version, device identifier, etc.), IP address,\nlocation information, access time, and usage logs\nFor payments: credit card information, carrier information, purchase history, and other\npayment details\nFor refunds/restores: email address, purchase verification details, and identity verification\ninformation as needed\nMethods of collection: sign-up and consent flows, events/promotions (with separate consent),\nautomatic collection via partner platforms, and information provided during customer support\ninteractions.",
+      "lang": "English"
+    }
+  ]
+}

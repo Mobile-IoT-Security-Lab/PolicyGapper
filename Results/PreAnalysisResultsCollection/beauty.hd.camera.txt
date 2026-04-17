@@ -1,0 +1,40 @@
+Our products("service", "we,") collects some information from you in order to provide better service
+and better user experience. Your privacy is a top priority to us, and this Privacy policy explains how
+we collect, use, and protect your information.
+---
+1. Information we may collect from you and how we use it:
+When you use our services, we automatically collect Non-Personal information about the device you
+use to access our services and your usage of our services.
+- The information we collect may include (where available) the type and model of the device you use,
+the device's unique device identifier, operating system, language options and mobile network
+information to allow you to use our services. We use this information to administer our services and
+for our internal operations including troubleshooting, data analysis, testing, research, statistical and
+survey purposes, to improve our services.
+---
+2. Explaination for permissions:
+CAMERA :
+Camera sensor, which is used for the purpose of taking photos.
+A permission is required to use the phone's camera hardware,It is necessary for the basic
+function of the application.
+AUDIO RECORD:
+Microphone data, which is used for the purpose of recording videos.
+It is a necessary permission for recording voices during video recording. It can not be used for
+any other purpose.
+ACCESS LOCATION:
+Location permission is required for geotagging of photos, but this is disabled by default. If
+enabled, your location is encoded in the saved image and video files (and it is only used for this
+purpose).
+--- [PAGE BREAK] ---
+3. Information collected by our Third Party Advertising Partners:
+We work with third party advertising partners to provide personalized ads for you. Our partners
+include but are not limited to Google AdMob, Facebook Audience Network, and etc.
+Our partners may collect hardware and software information such as IP address, device ID and type,
+advertising IDs (such as Google's AAID, randomly generated numbers that you can reset by going
+into your device' settings), device language, operating system, time zones, and identifiers associated
+with cookies or other technologies that may uniquely identify your device.
+---
+4. Children's Privacy
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally
+identifiable information from anyone under the age of 13. Should we become aware of inadvertently
+collecting Personal Data from minors without appropriate parental consent, we will endeavor to
+promptly delete such data from our systems.

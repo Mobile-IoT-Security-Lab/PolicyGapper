@@ -1,0 +1,99 @@
+Use of our services
+Your personal data can be used to enable third parties to conclude an agreement
+with you. The personal data of users are not sold to third parties. Babysits
+monitors the platform for safety risks and may investigate matters that affect
+member safety or platform integrity. When necessary to protect our community's
+safety, Babysits will cooperate with law enforcement authorities when required or
+appropriate to do so. This may include sharing user data as part of such
+cooperation.
+---
+Data processing
+•
+Payment information. We ask families that want to pay and childcare
+providers that want to be paid
+to provide our payment provider with payment information, such as a bank
+account or credit card information to facilitate the processing of payments.
+---
+•
+ID verification. Identity verification is one of the ways we keep Babysits safe.
+This helps us check that you're really you. We may collect your facial imagery,
+ID-number, date of birth, first name, last name, middle name, document type,
+document issuing country, nationality and address, as well as sophisticated
+fraud signals and information about the devices that connect with our
+services. To pay babysitters we may share babysitter IDs with our payment
+provider Stripe due to regulatory and financial partner requirements. Facial
+recognition data is processed by our service provider; Amazon Web Services
+(AWS). The pictures of your ID-document will not be stored by Babysits after
+the verification is completed and this may take up to 1 week.
+---
+• Matched Identifier Communications. To enhance our online advertising
+effectiveness, we may share privacy-protected contact information with third-
+party platforms. This helps us measure ad performance and may be used to
+send or withhold promotional messages to individuals on these third-party
+platforms. Privacy protection involves converting identifiable details (like
+email addresses or phone numbers) into a secure format to prevent revealing
+the original information. The third-party matches this data against its own
+database and there will be a match only if you have used the same identifier
+(such as an email address) with Babysits and the third party. If there is a
+match, Babysits can then choose whether or not to send a given promotional
+communication to you on that third party site or app, and can optimize and
+better measure the effectiveness of online advertising.
+---
+The security measures
+As a user, you can choose yourself whether you render public the personal data on
+your profile for all Babysits users or only for users that you have been in contact
+with. If you opt for "everyone", then public search engines (such as Google) and
+job vacancy websites will include your profile as well.
+---
+Original Facial Images
+We store original facial images for child safety and fraud prevention. This is
+necessary to:
+•
+Assist law enforcement when required
+•
+Prevent identity fraud
+•
+Support safety investigations
+•
+Comply with childcare service regulations
+---
+Cookies
+This platform makes use of cookies to render access to the service easier. If you do
+not want your data to be stored as a cookie, you can modify this under your
+browser settings. Cookies we make use of are:
+•
+•
+•
+•
+•
+Session: to log in and for the use of our website;
+Keep me logged in: to remember login names;
+New Relic: to use their service Server Monitoring;
+Stripe: to process payments;
+Google Analytics: to analyze the effectiveness of the website;
+• VWO: to analyze the effectiveness of the website.
+We use cookies to modify and measure advertisements. The following cookies are
+only applicable if you have clicked on an ad and have subsequently agreed to the
+use of cookies to collect information on and outside Babysits:
+•
+Bing: to analyze the effectiveness of ads;
+• Facebook: to analyze the effectiveness of ads;
+•
+Google: to analyze the effectiveness of ads;
+---
+Google Analytics cookies
+We make use of Google Analytics, which is a web-analysis service that is offered
+by Google to keep track of and report on activities on our website.
+In order to remain transparent and protect our users, we have:
+•
+Concluded a Data Processor Agreement with Google;
+• Anonymized IP-addresses by removing the last eight digits from the IP-
+address;
+•
+•
+Deactivated the sharing of statistics with Google;
+Deactivated use of different Google services in combination with Google
+Analytics cookies.
+Data that are collected, processed, and stored in Google Analytics are safe and are
+treated with confidentiality. For more information about Google Analytics cookies,
+we advise you to go to https://policies.google.com/privacy.

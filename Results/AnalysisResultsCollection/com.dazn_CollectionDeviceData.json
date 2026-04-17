@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We may also collect information about other software on your device (such as other streaming media services, for the purposes of content discovery and rights management).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may also receive information from others. For example: Our partners may provide us with information, such as information about their products and services. Our service providers (such as our payment services providers, or customer support providers) may provide us with information, such as updated payment method information or customer service-related information. We may also receive information from our partners, or from other third parties, such as joint marketing partners, and from third party social media platforms. We may also receive information about you from third party data providers, such as demographic data, interest-based data and internet browsing behaviour.",
+      "lang": "English"
+    }
+  ]
+}

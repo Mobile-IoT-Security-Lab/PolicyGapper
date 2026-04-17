@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "- Communicate with you about promotions, contests, rewards, upcoming events, and other news about products and services offered by LOGICLABS LIMITED and our selected partners;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Technical and Usage Information: When you access our Services, we may collect (i) certain technical information about your mobile device or computer system, including IP Address, mobile device ID (IDFA, Google Advertising ID or other identifiers), and the version of your operating system; and (ii) usage statistics about your interactions with the Services. In certain Services we will create and assign to your device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as username, character name, or e-mail address. We may also access your contacts to enable you to invite friends to join you in the Services. This information is typically collected through the use of third-party mobile device software development kits. We may occasionally send you push notifications through our Services to send you game updates, high scores and other service-related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.",
+      "lang": "English"
+    }
+  ]
+}

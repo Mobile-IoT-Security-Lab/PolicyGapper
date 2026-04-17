@@ -1,0 +1,15 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data (including IP address, which can infer approximate location) is collected by third-party products for error logging ('Log Data'). This is a standard service provider function for app diagnostics and crash reporting, where the third party processes data on the developer's behalf. This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No 'sharing' disclosure is required for this data type when used with a service provider for app functionality like crash reporting. Ensure you have declared the 'collection' of this data type for 'App functionality' or 'Analytics' purposes.",
+      "lang": "English"
+    }
+  ]
+}
+```

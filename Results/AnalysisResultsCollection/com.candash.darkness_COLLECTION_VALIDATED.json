@@ -1,0 +1,77 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "You can upload photos to your profile. These photos are stored on our servers to be displayed to other users.",
+      "justification": "The app allows users to upload profile photos, which are a form of 'Photos' data.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in your Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We assign a unique user ID to your account to identify you in our system.",
+      "justification": "The app assigns a unique identifier to each user account.",
+      "how_to_fix": "Declare 'User IDs' as a collected data type in your Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Your IP address is used to approximate your location for content localization.",
+      "justification": "The policy states that the IP address is used to determine an approximate location.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your Data Safety form.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Contacts",
+      "policy_reference": "To find friends, you can optionally grant access to your device's contacts. This data is processed only on your device to find matches and is not transmitted to our servers.",
+      "reason_of_removal": "Exempt - On-device Processing",
+      "justification": "The app accesses the user's contacts list.",
+      "how_to_fix": "Declare 'Contacts' as a collected data type in your Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We assign a unique user ID to your account to identify you in our system.",
+      "reason_of_removal": "Duplicate",
+      "justification": "The app assigns a unique identifier to each user account.",
+      "how_to_fix": "Declare 'User IDs' as a collected data type in your Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you sign up for our newsletter on our website, we collect your email address.",
+      "reason_of_removal": "Exempt - Website Collection",
+      "justification": "The policy mentions collecting email addresses.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in your Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Messages",
+      "policy_reference": "All messages between users are end-to-end encrypted. We do not have the keys to decrypt them, and only the sender and recipient can read the content.",
+      "reason_of_removal": "Exempt - End-to-End Encrypted",
+      "justification": "The app facilitates user-to-user messaging.",
+      "how_to_fix": "Declare 'Messages' as a collected data type in your Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We use TLS to secure the transmission of data between your device and our servers.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy mentions securing data transmission, which implies data is collected.",
+      "how_to_fix": "Declare 'Device or other IDs' as a collected data type in your Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "You can back up your documents to your personal cloud storage provider. We do not have access to these files.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The app facilitates backing up documents.",
+      "how_to_fix": "Declare 'Files and docs' as a collected data type in your Data Safety form.",
+      "lang": "en"
+    }
+  ]
+}
+```

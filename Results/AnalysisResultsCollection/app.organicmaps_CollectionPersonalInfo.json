@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you contact us via email for support or feedback, we will have your email address and any information you provide in your message. We use this information solely to communicate with you and address your inquiry. We do not use your email for marketing or share it with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "When you make a donation to support the project, your payment is processed by a third-party payment processor (e.g., Google Play, Stripe, PayPal). We do not receive or store your payment information, such as credit card numbers. The payment processor's privacy policy will apply to your donation.",
+      "lang": "English"
+    }
+  ]
+}

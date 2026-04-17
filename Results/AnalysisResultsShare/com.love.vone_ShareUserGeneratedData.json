@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "4. Personal information and profile media (accessible to all users)\n○ Period: Until you request to delete or revise your personal\ninformation, or your account number is deleted, whichever is earlier\n(however, data cached in third-party services may still be available).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "4. Personal information and profile media (accessible to all users)\n○ Period: Until you request to delete or revise your personal\ninformation, or your account number is deleted, whichever is earlier\n(however, data cached in third-party services may still be available).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Vone enables you to publicly share certain information with your Vone\ncontacts and other Vone users. You can always unselect \"allow me to find\nme through Twitter, line or facebook\" in your account settings to hide your\npersonal data, so as to avoid public viewing and searching. This means that\nother Vone users will not be able to find you. We refer to these types of\ninformation as shared information. As long as you or users who have shared\nit retain it, the shared information will remain publicly visible.Even after you\ndelete the shared information, other users or third parties that are not\naffiliated with us and are not under our control may cache, copy, store, or\nkeep it public separately.",
+      "lang": "English"
+    }
+  ]
+}

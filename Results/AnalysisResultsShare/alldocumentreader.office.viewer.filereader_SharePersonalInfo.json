@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Behavioral Remarketing\nThe Company uses remarketing services to advertise on third party websites to You after You visited our\nService. We and Our third-party vendors use cookies to inform, optimize and serve ads based on Your past\nvisits to our Service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Analytics - We use third party analytics tools, Google Analytics, to help us measure traffic and usage\ntrends for the Service. Google Analytics collects information such as device, location and app usage\ninformation. We may use the information get from Google Analytics only to customize and personalize\nyour App experience for statistical purposes and analytics.",
+      "lang": "English"
+    }
+  ]
+}

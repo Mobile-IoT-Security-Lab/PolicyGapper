@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "If you encounter a technical issue, you may contact us. We will receive your name and email, as well as diagnostics containing detailed logs of the app's activity. This may include document names and user identifiers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "To manage your purchases, we collect minimal information such as a unique user identifier.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "If you subscribe to Genius Scan for Teams through our website or other direct billing methods, billing details and payment methods are handled by Stripe. The Grizzly Labs does not store billing information but has access to it through Stripe for managing subscriptions and payments.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "If you subscribe through the Apple App Store or Google Play Store, please refer to their respective terms and privacy policies for details on how your billing information is handled. The Grizzly Labs doesn't have access to your billing information but only receives your subscription status from the payment providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Genius Scan may request your location for two reasons:\n• When you export your scans to a service such as Evernote, you can opt-in to attach your location to the note. That's the only instance where your location information leaves your device.\n• The document renaming features of Genius Scan can suggest document names based on your location.",
+      "lang": "English"
+    }
+  ]
+}

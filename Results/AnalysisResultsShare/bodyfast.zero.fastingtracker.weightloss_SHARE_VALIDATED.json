@@ -1,0 +1,91 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.",
+      "justification": "The policy states data is shared with Google which may use it to personalize ads on its own network. This use goes beyond a service provider role, constituting 'sharing' that must be declared.",
+      "how_to_fix": "In the Google Play Console, under Data safety, declare that 'App interactions' data is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.",
+      "justification": "The policy describes sharing data with Google and its partners for advertising based on visits to other websites. This is a clear case of 'sharing' for third-party advertising purposes.",
+      "how_to_fix": "In the Google Play Console, under Data safety, declare that 'Web browsing history' data is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.",
+      "justification": "The policy states data is shared with Google which may use it to personalize ads on its own network. This use goes beyond a service provider role, constituting 'sharing' that must be declared.",
+      "how_to_fix": "In the Google Play Console, under Data safety, declare that 'Device or other IDs' data is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+      "justification": "The policy states information is shared with 'Business partners' for their own promotional offers. This is not a service provider relationship and qualifies as 'sharing' that must be declared.",
+      "how_to_fix": "In the Google Play Console, under Data safety, declare that 'Email address' data is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.",
+      "justification": "The policy states data collected by Google Analytics (which can include location) is shared with Google for its own advertising purposes. This is 'sharing' and must be declared.",
+      "how_to_fix": "In the Google Play Console, under Data safety, declare that 'Approximate location' data is shared with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. If You interact with other users or register through a Third-Party Social Media Service, Your contacts on the Third-Party Social Media Service may see Your name, profile, pictures and description of Your activity. Similarly, other users will be able to view descriptions of Your activity, communicate with You and view Your profile.",
+      "reason_of_removal": "Exempt: User-initiated sharing.",
+      "justification": "This declaration was removed because the policy describes sharing that is a direct result of a user's action (e.g., interacting in public areas), which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This sharing scenario is exempt from the 'sharing' declaration.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).\n\nWe will not store or collect Your payment card details. That information is provided directly to Our third-party payment processors whose use of Your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.",
+      "reason_of_removal": "Exempt: Sharing with a service provider.",
+      "justification": "This declaration was removed because payment processors are considered 'service providers' processing data on the developer's behalf. This is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. Sharing with service providers for core functionality is exempt from the 'sharing' declaration.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+      "reason_of_removal": "Inconsistent: Policy reference is too generic and does not mention this data type.",
+      "justification": "This declaration was removed because the referenced policy text ('Your information') is too broad and does not specifically mention sharing 'Health info'.",
+      "how_to_fix": "No action required for this item based on the current policy text.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+      "reason_of_removal": "Inconsistent: Policy reference is too generic and does not mention this data type.",
+      "justification": "This declaration was removed because the referenced policy text ('Your information') is too broad and does not specifically mention sharing 'Fitness info'.",
+      "how_to_fix": "No action required for this item based on the current policy text.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+      "reason_of_removal": "Duplicate entry.",
+      "justification": "This declaration was removed as it is an exact duplicate of another entry that was retained.",
+      "how_to_fix": "No action required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "• With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+      "reason_of_removal": "Inconsistent: Policy reference is too generic and does not mention this data type.",
+      "justification": "This declaration was removed because the referenced policy text ('Your information') is too broad and does not specifically mention sharing 'Contacts'.",
+      "how_to_fix": "No action required for this item based on the current policy text.",
+      "lang": "English"
+    }
+  ]
+}
+```

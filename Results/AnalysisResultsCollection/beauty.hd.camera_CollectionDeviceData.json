@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The information we collect may include (where available) the type and model of the device you use, the device's unique device identifier, operating system, language options and mobile network information to allow you to use our services. We use this information to administer our services and for our internal operations including troubleshooting, data analysis, testing, research, statistical and survey purposes, to improve our services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "The information we collect may include (where available) the type and model of the device you use, the device's unique device identifier, operating system, language options and mobile network information to allow you to use our services. We use this information to administer our services and for our internal operations including troubleshooting, data analysis, testing, research, statistical and survey purposes, to improve our services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "The information we collect may include (where available) the type and model of the device you use, the device's unique device identifier, operating system, language options and mobile network information to allow you to use our services. We use this information to administer our services and for our internal operations including troubleshooting, data analysis, testing, research, statistical and survey purposes, to improve our services.",
+      "lang": "English"
+    }
+  ]
+}

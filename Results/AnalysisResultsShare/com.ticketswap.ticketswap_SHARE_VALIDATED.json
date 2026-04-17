@@ -1,0 +1,23 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content(for example, user bios, notes, or open-ended responses)",
+      "policy_reference": "Depending on your (optional) consent, we may use the content of any user reviews you submit to our website for marketing purposes on our website and third party websites. You may object to this processing at any time by sending an email to privacy@ticketswap.com.",
+      "justification": "The policy states user reviews may be used for marketing on 'third party websites'. This constitutes data sharing that is not covered by exemptions, as it's for marketing rather than with a service provider performing functions solely on the developer's behalf.",
+      "how_to_fix": "In the Data Safety form, declare that 'Other user-generated content' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "Based on the country of your bank, we are required to ask some of personal details, which are processed and verified by Stripe:\n• City\n• Address\n• Postal code\n• State\n• Date of birth\n• Last 4 digits of Social Security Number (SSN)",
+      "reason_of_removal": "Exempted as sharing with a service provider and for legal purposes.",
+      "justification": "The policy indicates 'Address' is shared with Stripe, a payment processor, for verification. This falls under the 'service provider' exemption as Stripe processes data on the developer's behalf. The policy also states this is a legal requirement ('we are required to ask'), which is another exemption from 'sharing' disclosures.",
+      "how_to_fix": "No action is needed. This disclosure is not required in the 'Shared' section of the Data Safety form as it meets the service provider and legal purposes exemptions.",
+      "lang": "English"
+    }
+  ]
+}
+```

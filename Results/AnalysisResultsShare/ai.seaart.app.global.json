@@ -1,0 +1,59 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "a third party that acquires all or substantially all of us or our business. We will disclose information to a third party in the event that we sell or buy any business or undergo a merger, in which case we will disclose your data to the prospective buyer of such business. We will also disclose information to a third party if we sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "a third party that acquires all or substantially all of us or our business. We will disclose information to a third party in the event that we sell or buy any business or undergo a merger, in which case we will disclose your data to the prospective buyer of such business. We will also disclose information to a third party if we sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Chat Data\nIf you enable chat services (audio or\ntext) then we will process such data\nin order to deliver your messages to\nother users.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "a third party that acquires all or substantially all of us or our business. We will disclose information to a third party in the event that we sell or buy any business or undergo a merger, in which case we will disclose your data to the prospective buyer of such business. We will also disclose information to a third party if we sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets.",
+      "lang": "English"
+    }
+  ]
+}

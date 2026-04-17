@@ -1,0 +1,44 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Vito Technology may collect personal data that you voluntarily provide to it when registering on the Apps and/or the Websites to receive information about Vito Technology Services, when participating in other activities on the Apps, the Websites, or otherwise contacting Vito Technology. The personal data that Vito Technology may collect depends on the context of your interactions with the Apps, the Websites, and Services. Such data may include: geo-location (with explicit consent), first and last name, e-mail address, and any other information you voluntarily provide through our services.",
+      "justification": "The privacy policy states that the app may collect 'any other information you voluntarily provide through our services'. This data is collected via the app, is not processed exclusively on-device, and is not end-to-end encrypted. Therefore, it must be declared as collected.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Vito Technology automatically collects certain data to facilitate the end users' requested service. This includes technical information such as the end users' Internet Protocol (IP) address, device information, operating system and browser information (where applicable), time zone setting, and information about end users' interaction with our Apps and/or Websites. For Websites, this may include full Uniform Resource Locators (URLs), products viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. For Apps, this may include information about features used, screens viewed, in-app events, session length, and interactions with in-app elements. We also collect device identification information (e.g., unique device ID, advertising ID). We collect this data in order to make our Apps and Websites function correctly and provide you the functionality that you see on the Apps and/or the Websites, as our servers use this data to deliver the pages to you through the Apps and/or the Websites. We also use this data to better understand how visitors use our Apps and/or Websites and how we can better tune our Services, their contents, and functionality to meet your needs. However, this data is not associated with any personally identifiable information of persons browsing the Apps and/or Websites.",
+      "justification": "The privacy policy states that for Apps, the developer collects 'information about features used, screens viewed, in-app events, session length, and interactions with in-app elements'. This data is collected from the app and sent off-device, and is not end-to-end encrypted. Therefore, it must be declared as collected.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Vito Technology may collect personal data that you voluntarily provide to it when registering on the Apps and/or the Websites to receive information about Vito Technology Services, when participating in other activities on the Apps, the Websites, or otherwise contacting Vito Technology. The personal data that Vito Technology may collect depends on the context of your interactions with the Apps, the Websites, and Services. Such data may include: geo-location (with explicit consent), first and last name, e-mail address, and any other information you voluntarily provide through our services.",
+      "justification": "The privacy policy explicitly states that 'first and last name' may be collected from users of the app. This data is sent off-device and is not end-to-end encrypted. Therefore, it must be declared as collected.",
+      "how_to_fix": "Declare 'Name' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Vito Technology may collect personal data that you voluntarily provide to it when registering on the Apps and/or the Websites to receive information about Vito Technology Services, when participating in other activities on the Apps, the Websites, or otherwise contacting Vito Technology. The personal data that Vito Technology may collect depends on the context of your interactions with the Apps, the Websites, and Services. Such data may include: geo-location (with explicit consent), first and last name, e-mail address, and any other information you voluntarily provide through our services.",
+      "justification": "The privacy policy explicitly states that 'e-mail address' may be collected from users of the app. This data is sent off-device and is not end-to-end encrypted. Therefore, it must be declared as collected.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Vito Technology may collect personal data that you voluntarily provide to it when registering on the Apps and/or the Websites to receive information about Vito Technology Services, when participating in other activities on the Apps, the Websites, or otherwise contacting Vito Technology. The personal data that Vito Technology may collect depends on the context of your interactions with the Apps, the Websites, and Services. Such data may include: geo-location (with explicit consent), first and last name, e-mail address, and any other information you voluntarily provide through our services.",
+      "reason_of_removal": "Inconsistent data type and policy reference",
+      "justification": "The policy explicitly mentions the collection of 'e-mail address'. It does not mention collecting the content, subject, or other metadata of emails, which is covered by the 'Emails' data type.",
+      "how_to_fix": "The app should declare 'Email address' instead of 'Emails' if it only collects the user's email address.",
+      "lang": "en"
+    }
+  ]
+}
+```

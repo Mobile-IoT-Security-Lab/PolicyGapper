@@ -1,0 +1,23 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may disclose non-personal data to third parties or allow third parties to collect non-personal data through embedded technology. To deliver ads, third-party advertising companies may place or recognize unique cookies, anonymous identifiers, or similar technology to gather non-personally identifiable information. We use AdMob as our advertising provider in the app.",
+      "justification": "The privacy policy states that the app uses AdMob for advertising, which may collect non-personal data like anonymous identifiers. AdMob's own policies confirm that it can collect approximate location data for serving relevant ads.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in the app's Data Safety section on Google Play, and specify that it is collected for 'Advertising or marketing' purposes and shared with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you have any concerns or need further information regarding our privacy policy, feel free to email us at okapps2016@gmail.com. We will endeavor to provide clear answers to your questions in a timely manner.",
+      "reason_of_removal": "Inconsistent: Policy reference describes user-initiated contact, not app data collection.",
+      "justification": "The policy provides a support email address for users to contact the developer. This is not considered data 'collected' by the app according to Google Play's definition, as the user provides it voluntarily outside of the app's functionality.",
+      "how_to_fix": "No action needed. This is not a declarable data collection event.",
+      "lang": "English"
+    }
+  ]
+}
+```

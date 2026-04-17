@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "The types of technical data (you or your children) we might collect include:\n• Timestamps of when you install or first open the app;\n• Data on how you interact with the app;\n• Your device ID;\n•\n• URLs you visited before or after using the app;\nInformation shared by advertising platforms like Unity, Inmobi, and Google Ads;\n• Ads you view or click on; and\n• General online behavior patterns.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We collect this information to improve performance and reliability of our Games and to get a better understanding of what users in general prefer. We do not link any of this Information in any way to individuals or any other information we might obtain. We do not share, sell or in any other way give other persons or companies. We don't rent or sell your email address.",
+      "lang": "English"
+    }
+  ]
+}

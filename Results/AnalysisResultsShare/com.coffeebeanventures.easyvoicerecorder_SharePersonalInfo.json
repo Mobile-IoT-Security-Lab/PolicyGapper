@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "To enable us to show in-app ads, we may send your advertising ID, IP address and device information to advertisers (or ad networks) to enable them to find appropriate ads to serve to you in our Apps and on third-party properties. You can control and limit our use of your advertising ID in your device settings. Digipom does not control which specific ads are shown in our apps (this is controlled by the ad networks), but we do prohibit certain types of ads.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "To enable us to show in-app ads, we may send your advertising ID, IP address and device information to advertisers (or ad networks) to enable them to find appropriate ads to serve to you in our Apps and on third-party properties. You can control and limit our use of your advertising ID in your device settings. Digipom does not control which specific ads are shown in our apps (this is controlled by the ad networks), but we do prohibit certain types of ads.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We will only disclose direct message contents to people other than the intended recipients in very limited circumstances where allowed or required by law, for example, in response to valid court orders or in emergency situations involving danger of death or serious physical injury. While we maintain strict internal access controls on direct messaging content, keep in mind that Substack personnel may access the contents of direct messages to enforce our Terms of Use, ensure the security of our platform, to provide user support, or as otherwise necessary to provide our services. We may also use automated means to ensure the safety of direct messaging content, including scanning for spam, malicious content, and child abuse material.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "If your user profile allows it, you may choose to populate certain user profile information, including, without limitation, your name, subscriptions, publications, location, and any image content. Any user profile information uploaded may be displayed to other users to facilitate user interaction within the services (including when you post comments or upload images or videos through the services). Your account privacy settings may allow you to limit the other users who can see the Personal Information in your user profile and/or what information in your user profile is visible to others. Your username and user profile may also be displayed to other users when you interact with a publication post, for instance, by \"liking\" the post or leaving a comment. You may have the option to allow Substack to share information on what you've read or are reading on Substack with the public, or with other accounts socially connected to your own, such as your social media followers. If you opt into contact syncing through our app, your profile information will be shared with any user who has (i) also opted into contact syncing, and who (ii) identified you as a contact.",
+      "lang": "en"
+    }
+  ]
+}

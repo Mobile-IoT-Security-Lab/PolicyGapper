@@ -1,0 +1,79 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "1.1 - Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our application you visited.",
+      "justification": "The policy states collection of \"Usage activity about how you interact with us... what content you viewed, and which areas of our application you visited.\"",
+      "how_to_fix": "Declare \"App interactions\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "1.1 - Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our application you visited.",
+      "justification": "The policy mentions collecting \"Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our application you visited,\" which falls under the broad category of \"Other actions.\"",
+      "how_to_fix": "Declare \"Other actions\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "When you access our Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use and other statistics (“Log Data\").",
+      "justification": "The policy states collection of \"Log Data\" including device type, OS, browser type, and \"other statistics,\" which are considered app performance data.",
+      "how_to_fix": "Declare \"Other app performance data\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "1.1 - Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our application you visited.",
+      "justification": "The policy explicitly states collection of \"purchase history.\"",
+      "how_to_fix": "Declare \"Purchase history\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "1.2 - Physical Data. This may include your gender identity, age, weight, sleeping schedule, nutrition information.",
+      "justification": "The policy states collection of \"Physical Data\" such as \"gender identity, age, weight, sleeping schedule, nutrition information,\" which can be categorized under \"Other info.\"",
+      "how_to_fix": "Declare \"Other info\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "1.2 - Physical Data. This may include your gender identity, age, weight, sleeping schedule, nutrition information.",
+      "justification": "The policy states collection of \"Physical Data\" including \"weight, sleeping schedule, nutrition information,\" which qualifies as fitness information.",
+      "how_to_fix": "Declare \"Fitness info\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "1.5 - Correspondence Data. While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address (“Personal Information”). We may collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services. You have the right to request its deletion by contacting us. The personal information will be delisted within 30 days upon receiving the request.",
+      "justification": "The policy explicitly states, \"Personally identifiable information may include, but is not limited to, your email address.\"",
+      "how_to_fix": "Declare \"Email address\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you access our Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use and other statistics (“Log Data\").",
+      "justification": "The policy states collection of the \"IP address of your mobile device,\" which is used to determine approximate location.",
+      "how_to_fix": "Declare \"Approximate location\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "1.6 - Facial Data Processing, for not authorized users:\n• If you store your avatar that contains your face picture («selfie\"), you give us the right to store this picture on our server and you have the right to request its deletion by contacting us. The picture will be delisted within 30 days upon receiving the request.",
+      "justification": "The policy states users can \"store your avatar that contains your face picture («selfie\")\" on the server. A selfie is a photo.",
+      "how_to_fix": "Declare \"Photos\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "1.5 - Correspondence Data. While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address (“Personal Information”). We may collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services. You have the right to request its deletion by contacting us. The personal information will be delisted within 30 days upon receiving the request.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy explicitly mentions collecting the user's \"email address\" for contact and identification, not the content of their emails (e.g., subject, body, sender). The \"Emails\" data type in Google Play refers to email content.",
+      "how_to_fix": "This declaration is incorrect. The app should declare \"Email address\" instead, which is already correctly identified as an omitted declaration.",
+      "lang": "en"
+    }
+  ]
+}
+```

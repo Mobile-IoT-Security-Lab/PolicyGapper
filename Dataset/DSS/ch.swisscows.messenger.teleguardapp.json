@@ -1,0 +1,52 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "Other in-app messages",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Messages"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "Voice or sound recordings",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Audio"
+    },
+    {
+      "data": "Photos",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Videos",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Files and docs",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Files and docs"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://teleguard.com/en/privacy"
+}

@@ -1,0 +1,549 @@
+This Privacy Policy ("Privacy Policy"), is an integral part of our End User License Agreement
+(“EULA”), and governs the processing and transfer of personal data collected or processed by
+using or accessing FeverCheck mobile application (“we”, “us” or “our”) or our services, all as
+detailed in the applicable EULA (respectively the “App” and “Service”).
+
+---
+
+This Privacy Policy explains what data we may collect from you, how such data may be used
+or shared with others, how we safeguard it and how you may exercise your rights related to
+your Personal Data (as defined below), among others, and where applicable, as required
+according to the EU General Data Protection Regulation (“GDPR”),the Brazilian General Data
+Protection Law (as amended by Law No. 13,853/2019) (“LGPD”), the California Consumer
+Privacy Act ("CCPA”) and other US states as further detailed below.
+
+---
+
+This Privacy Policy explains our data collection practices that are applicable to any users of
+our App or our Services (“you” or “your”).
+
+---
+
+C. DATA SETS WE COLLECT AND FOR WHAT PURPOSE:
+
+---
+
+D. HOW WE COLLECT YOUR INFORMATION:
+
+---
+
+E. SDK & TRACKING TECHNOLOGIES:
+
+---
+[PAGE BREAK]
+---
+C. DATA SETS WE COLLECT AND FOR WHAT PURPOSE:
+You can find here information regarding the purposes for which we process your personal
+data as well as our lawful basis for processing, the definition of “personal” and “non-
+personal" data, and how it is technically processed.
+
+---
+
+Non-Personal Data
+During your interaction with our website and Services, we may collect aggregated, non-
+personal non-identifiable information, which may be made available or gathered via your
+access to and use of the Services (“Non-Personal Data “). We are not aware of the identity of
+the user from which the Non-Personal Data is collected. The Non-Personal Data being
+collected may include your aggregated usage information and technical information
+transmitted by your device, such as: the type of browser or device you use, language
+preference, time and date stamp, country location, etc.
+
+---
+
+Personal Data
+We may also collect from you, directly or indirectly, during your access or interaction with the
+website or Services, individually identifiable information, namely information that identifies
+an individual or may, with reasonable effort, be used to identify an individual (“Personal
+Data"). The types of Personal Data that we collect as well as the purpose for processing and
+the lawfulness are specified in the table below.
+
+---
+
+We do not knowingly collect or process any Personal Data constituting or revealing racial or
+ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership,
+genetic data, biometric data, data concerning a person's health or data concerning a
+person's sex life or sexual orientation (“Special Categories of Personal Data").
+
+---
+
+The table below details the processing of Personal Data, the purpose, lawful basis, and
+processing operations:
+
+---
+[PAGE BREAK]
+---
+DATA SET
+Registration
+Information:
+If you are required to
+register and create an
+account through our
+App, we will collect the
+Personal Data that you
+are required to provide
+us during the registry
+process, such as your full
+name and email
+address.
+Further, during the
+registration process you
+will be supplied with
+username and password
+for your account, at
+which time you thereby
+represent and warrant
+that you are responsible
+for maintaining the
+confidentiality of your
+details and password.
+You represent and
+warrant that you will not
+provide us with
+inaccurate, misleading
+or false information.
+
+---
+
+Contact Information:
+If you voluntarily contact
+us, you may be required
+to provide us with
+certain information such
+as your name, job title,
+company name, email
+address ("Contact
+Information") and any
+additional information
+you decide to share with
+us.
+
+---
+
+GPS Location
+Information:
+Certain features may
+require access to your
+
+---
+[PAGE BREAK]
+---
+DATA SET
+GPS location
+permissions.
+In addition, in certain
+features we will use your
+"Access Fine Location"
+permission in the
+background while you
+are using the App so
+that we are able to
+locate the wifi networks
+and connection to
+provide the Services.
+
+---
+
+Push Notifications:
+We may store Firebase
+Cloud Messages token.
+If you wish to stop
+getting push
+notifications, you may
+do so simply by
+disabling push
+notifications on your
+device's settings or
+uninstall the app.
+
+---
+
+In-App Payment
+Information:
+When you make a
+payment through our
+App and offered
+Services, all payments
+are in-app payments and
+are subject to the
+applicable App Store
+terms and privacy policy.
+Google Terms of Service
+Google Privacy Policy
+App Store Terms of Use
+App Store Privacy Policy
+PURPOSE AND OPERATIONS
+We use in app payment processors; the
+registration and payment information
+are solely processed by the applicable
+app store provider. We do not store nor
+process any Personal Data when you
+process the payment.
+We receive an order number which is
+connected to a user ID which was
+generated when installing the app (non
+identifiable).
+
+---
+[PAGE BREAK]
+---
+DATA SET
+Log Data and Unique
+Identifiers:
+In case of an error in the
+App we collect data and
+information (through
+third-party service
+providers) such as “Log
+Data" or "Crash Data”.
+This data may include
+information such as your
+device Internet Protocol
+("IP") address, device
+name, operating system
+version, the
+configuration of the App
+when utilizing our
+Service, the time and
+date of your use of the
+Service, and other
+statistics.
+
+---
+
+List of Installed App:
+When you install our
+App, we may collect
+information from your
+device, that may include
+a list of your installed
+Apps.
+This data may contain
+identity information and
+therefore we treat it as
+Personal Data.
+
+---
+
+Profiling Data:
+When you use our App
+we may display
+advertisements, our
+partners, the advertisers
+may place an SDK (as
+detailed below) and
+collect certain data on
+you for the purpose of
+displaying
+advertisement.
+If you wish to prevent
+the display of
+
+---
+[PAGE BREAK]
+---
+Photos and Videos:
+if you use our
+designated feature in
+the applicable App in
+order to provide you
+with our Services, we will
+ask you to provide us
+with photos, images or
+videos of you
+(collectively "Content”)
+for editing purposes and
+to create
+animations.While we
+cannot prevent you from
+doing so, we still do not
+use Personal Data from
+photos for purposes
+other than providing our
+Service.
+
+---
+[PAGE BORDER]
+---
+DATA SET
+Microphone and audio:
+As part of our dialer
+feature which is
+provided to certain Apps
+of ours, you will be
+required to provide us
+permissions to your
+Microphone.
+
+---
+
+Call log and Contacts:
+As part of our dialer
+feature which is
+provided to certain Apps
+of ours, you will be
+required to provide us
+permissions to your call
+log and contacts.
+
+---
+
+Bluetooth and
+Network:
+We may collect through
+your Bluetooth and
+network permissions list
+of devices and networks
+your device "see" and
+connection history of
+your device
+
+---
+[PAGE BREAK]
+---
+DATA SET
+Calendar:
+Some of our Apps will
+provide you with new
+design features for your
+device. In order to apply
+those designs, we will
+need to access your
+calendar.
+
+---
+
+Health Data:
+Our Apps may access
+and process certain
+health related data. This
+data shall be solely
+processed on your
+device and we will not
+transmit such data to
+our servers or taking any
+action which will cause
+the data to leave your
+device
+
+---
+
+Please note that the actual processing operation per each purpose of use and lawful basis
+detailed in the table above may differ. Such processing operation usually includes a set of
+operations made by automated means, such as collection, storage, use, disclosure by
+transmission, erasure, or destruction. The transfer of personal data to third-party countries,
+as further detailed in the Data Transfer Section, is based on the same lawful basis as
+stipulated in the table above.
+
+---
+[PAGE BREAK]
+---
+We may collect different categories of Personal Data and Non-Personal Data from you,
+depending on the nature of your interaction with the Services provided through the website
+and Platform, as detailed above. If we combine Personal Data with Non-Personal Data, the
+combined information will be treated as Personal Data or for as long as it remains combined.
+
+---
+
+D. HOW WE COLLECT YOUR INFORMATION:
+Depending on the nature of your interaction with us, we may collect the above detailed
+information from you, as follows:
+• Automatically, We process this information based on your consent provided through
+the organic in-app permissions in order to execute our contract with you and provide
+you with our services..
+• When you voluntarily choose to provide us with information, such as when you contact
+us, all as detailed in this Policy.
+• Provided from third-parties.
+
+---
+
+E. SDK & TRACKING TECHNOLOGIES:
+Our Services and some of our Service Providers utilize “cookies” or “software development
+kits ("SDK")" anonymous identifiers and other tracking technologies (collectively, “Tracking
+Technologies") which help us provide and improve our Services, personalize your experience
+and monitor the performance of our activities and campaigns, as well as the usage of our
+Apps and Services as a whole.
+
+---
+
+The specific SDK we currently use, the purpose of the SDK, their privacy policy and opt-out
+controls are set forth in the table below:
+NAME
+Firebase
+PURPOSE
+• Remote Config- data
+• storage and
+processing location
+• Crashlytics- data
+• Cloud Messaging
+• data encryption
+• security purpose
+• a/b testing
+• in-app messaging
+• predictions
+• analytics
+
+---
+[PAGE BREAK]
+---
+PURPOSE
+Providers. Their
+targeted advertising
+SDKs collect
+information about
+your browsing activity
+across multiple
+websites and online
+services in order to
+provide you with
+relevant
+advertisements on the
+App and Services of
+third parties. The
+information collected
+using these
+advertising SDK does
+not disclose your
+identity, and helps us
+analyze the
+effectiveness of our
+advertising.
+
+---
+[PAGE BREAK]
+---
+G. DATA RETENTION:
+In general, we retain the Personal Data we collect for as long as it remains necessary for the
+purposes set forth above, all under the applicable regulation, or until you express your
+preference to optout, where applicable.
+
+---
+[PAGE BREAK]
+---
+Further, when Personal Data
+collected within the EU is transferred outside the EU (and not to a recipient in a country that
+the European Commission has decided provides adequate protection) it shall be transferred
+under the provisions of the standard contractual clauses approved by the European Union. If
+you would like to understand more about these arrangements and your rights in connection
+therewith, please contact us at our email.
+
+---
+
+When you contact us and request to exercise your rights regarding your Personal Data, we
+will require certain information from you in order to verify your identity and locate your data
+and that the process of locating and deleting the data may take reasonable time and effort,
+as required or permitted under applicable law. Data privacy and related laws in your
+jurisdiction may provide you with different or additional rights related to the data we collect
+from you, which may also apply.
+
+---
+[PAGE BREAK]
+---
+Please note that even if
+you opt-out you may still see personalized ads based on information other companies and ad
+networks have collected about you, if you have not opted out of sharing with them.
+
+---
+
+The Services are not intended for use by children (the phrase “child” shall mean an individual
+that is under the age defined by applicable law, which concerning the EEA is under the age of
+16, and with respect to the US, under the age of 13), and we do not knowingly process
+children's information. We will discard any information we receive from a user that is
+considered a “child” immediately upon discovering that such a user shared information with
+us. Please contact us at: support.fevercheck@firehawk.ai if you have reason to believe that a
+child has shared any information with us.
+
+---
+
+Please see the CCPA Privacy Notice: link which discloses the categories of personal
+information collected, purpose of processing, source, categories of recipients with whom the
+personal information is shared for a business purpose, whether the personal information is
+sole or shared, the retention period, and how to exercise your rights as a California resident.
+
+---
+[PAGE BREAK]
+---
+Sensitive Data includes (i) racial or ethnic origin, religious beliefs, mental or physical health
+condition or diagnosis, sex life or sexual orientation; (ii) Genetic or biometric data that can be
+processed to uniquely identify an individual; or (iii) child data. We do not process or collect
+any sensitive data.
+
+---
+
+Section I.C “DATA SETS WE COLLECT AND FOR WHAT PURPOSE" of the Privacy Policy, we
+describe our collection and processing of personal data, the categories of personal data that
+are collected or processed, and the purposes.
+
+---
+
+Right to Access/
+Right to Know
+You have the right to confirm whether and
+know the Personal Data we collected on you
+
+---
+[PAGE BREAK]
+---
+Right to
+Deletion
+You have the right to delete the Personal Data,
+this right is not absolute and in certain
+circumstances we may deny such request. We
+may deny your deletion request, in full or in
+part, if retaining the information is necessary
+for us or our service provider(s) for any of the
+following reasons: (1) Complete the transaction
+for which we collected the Personal Data,
+provide a good or service that you requested,
+take actions reasonably anticipated within the
+context of our ongoing business relationship
+with you, fulfill the terms of a written warranty
+or product recall conducted in accordance with
+federal law, or otherwise perform our contract
+with you; (2) Detect security incidents, protect
+against malicious, deceptive, fraudulent, or
+illegal activity, or prosecute those responsible
+for such activities; (3) Debug products to
+identify and repair errors that impair existing
+intended functionality; (4) Exercise free speech,
+ensure the right of another consumer to
+exercise their free speech rights, or exercise
+another right provided for by law; (5) Comply
+with the law or legal obligation; (6) Engage in
+public or peer-reviewed scientific, historical, or
+statistical research in the public interest that
+adheres to all other applicable ethics and
+privacy laws, when the information's deletion
+may likely render impossible or seriously
+impair the research's achievement, if you
+previously provided informed consent; (7)
+Enable solely internal uses that are reasonably
+aligned with consumer expectations based on
+your relationship with us; (8) Make other
+internal and lawful uses of that information
+that are compatible with the context in which
+you provided it.
+
+---
+[PAGE BREAK]
+---
+The VCDPA requires us to disclose the Categories of data processing and the purpose of each
+category, as detailed in Section I.C "DATA SETS WE COLLECT AND FOR WHAT PURPOSE" of the
+Privacy Policy, the categories of data shared and the third parties with whom it is shared, as
+detailed in Section I.F “DATA SHARING – CATEGORIES OF RECIPIENTS WE SHARE PERSONAL
+DATA WITH”.
+
+---
+[PAGE BREAK]
+---
+The categories of personal data processed, purpose of processing, are detailed in Section I.C
+“DATA SETS WE COLLECT AND FOR WHAT PURPOSE”, categories of personal data shared with
+third parties, categories of third parties with whom data is shared, are detailed in Section I.F
+"DATA SHARING – CATEGORIES OF RECIPIENTS WE SHARE PERSONAL DATA WITH".
+
+---
+[PAGE BREAK]
+---
+The categories of personal data processed, purpose of processing, are detailed in Section I.C
+“DATA SETS WE COLLECT AND FOR WHAT PURPOSE", categories of personal data shared with
+third parties, categories of third parties with whom data is shared, are detailed in Section I.F
+"DATA SHARING – CATEGORIES OF RECIPIENTS WE SHARE PERSONAL DATA WITH".

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "In the preceding 12 months, Company has disclosed the following categories of personal information for a business purpose:\nCategory A: Identifiers.\nCategory F: Internet or other similar network activity.\nWe disclose your personal information for a business purpose to the following categories of third parties:\n•\nService providers.\n•\nInternet cookie data recipients, like Google Analytics.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Our Website uses Google Remarketing, a service of Google LLC, to advertise on nonparty websites to you after you visit our Website. We and Google use cookies to inform, optimize, and serve ads based on your past visits to our Website. Cookies and similar technologies are also used to perform the analysis of website usage as a basis for creating interest-based advertisements. The data arising in this context can be transmitted by Google to a server in the US for evaluation and stored there. If you use a Google Account, depending on the settings in your Google Account, Google may link your Google web and app browsing history to your Google Account and use information from your Google Account to personalize ads. If you don't want this association with your Google Account, you'll need to log out of Google before you can access our contact page.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In the preceding 12 months, Company has disclosed the following categories of personal information for a business purpose:\nCategory A: Identifiers.\nCategory F: Internet or other similar network activity.\nWe disclose your personal information for a business purpose to the following categories of third parties:\n•\nService providers.\n•\nInternet cookie data recipients, like Google Analytics.",
+      "lang": "English"
+    }
+  ]
+}

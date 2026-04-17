@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We may access or collect the following information in order to provide you with a better user experience and better services and to improve our products:\nCategories of information may be collected from the following categories of sources:\nDirectly from you or your agent, such as through your submissions to the Services.\nDirectly or indirectly from activities through the Services, such as through your interactions with the Services.\nFrom third parties with whom we partner to provide services.\nWe may access your personal information when you voluntarily choose to use our services, applications or provide us with your personal information.\n• Content Information, i.e. photos, pictures and other data that you transfer using the App.\n• Product interaction information and any user-generated content.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We automatically collect certain information when you visit, use or navigate the Apps. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device ID, device name, country, location, apps interactions about how you use our Apps and other technical information. This information is primarily needed to maintain the security and operation of our Apps, and for our internal analytics and reporting purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We may collect, store and process some information about you when you use the form available within the \"Contact us\" section on the Website (hereinafter, “Contact us” form). In particular, if you decide to make a request via the “Contact us” form, the following categories of information are voluntarily provided by you: your name, email address, the text of your message and/or any files that you optionally choose to attach to your request.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We also receive and analyze content, communications and information that other people provide when they use our Services. This can include information about you, such as when others invite you to use our application, and for doing so they provide us your phone number, name and other information. We require that these users have the legal rights to collect, use and share your data before they provide us with any information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We automatically collect certain information when you visit, use or navigate the Apps. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device ID, device name, country, location, apps interactions about how you use our Apps and other technical information. This information is primarily needed to maintain the security and operation of our Apps, and for our internal analytics and reporting purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We may collect, store and process some information about you when you use the form available within the \"Contact us\" section on the Website (hereinafter, “Contact us” form). In particular, if you decide to make a request via the “Contact us” form, the following categories of information are voluntarily provided by you: your name, email address, the text of your message and/or any files that you optionally choose to attach to your request.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "We may collect, store and process some information about you when you use the form available within the \"Contact us\" section on the Website (hereinafter, “Contact us” form). In particular, if you decide to make a request via the “Contact us” form, the following categories of information are voluntarily provided by you: your name, email address, the text of your message and/or any files that you optionally choose to attach to your request.",
+      "lang": "en"
+    }
+  ]
+}

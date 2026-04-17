@@ -1,0 +1,437 @@
+DeepL's external corporate Data Protection Officer, Dr. Christian Lenz, can be contacted at the
+following address: dhpg IT-Services GmbH, Bunsenstr. 10a, 51647 Gummersbach, via email to
+datenschutz(at)dhpg.de, or by telephone on +49 2261 8195 0.
+---
+For DeepL Voice for Meetings we use third party cloud services to be able to integrate our bot
+application in the Microsoft Teams app. The cloud services are provided by Microsoft Ireland
+Operations Limited, One Microsoft Place, South County Business Park, D18 P521 Dublin 18,
+Ireland ("Microsoft”) or Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855
+Luxembourg (AWS). The cloud services will only be used to host our bot application and forward
+the audio data to our infrastructure. Neither will the transcription or translation be happening on
+Microsoft or AWS servers, nor will we store any data on Microsoft or AWS servers for this
+purpose. We have concluded a data processing agreement with Microsoft and AWS and
+Microsoft and AWS may only process the data according to our instructions and not for its own
+purposes. Further information on the handling of personal data at Microsoft can be found here, at
+AWS it can be found here.
+---
+If you use your business email address for creating an account with DeepL, we may share this
+email address with the holder of the company email domain associated with your email address.
+We will only do this, if the company has legitimate reasons to ask for this data e.g., is interested
+in purchasing DeepL Pro licenses for the whole company and has confirmed to us that email
+addresses under their company email domain may only be used for business purposes and may
+not be used for private purposes. In some cases, sharing of data may also include sharing of
+usage data associated with your account to allow the company to assess their specific need on
+DeepL Pro licenses. The sharing of this data is in DeepL's legitimate interest to best support our
+customers in the acquisition, roll-out and adoption of our paid services, Art. 6 para. 1 sentence 1
+lit. f) GDPR.
+---
+If your company uses Single Sign-On (SSO) to log in to DeepL, there is no need for a separate
+registration with DeepL. When you log in via Single Sign-On your company transmits your email
+address as well as your first and last name directly to us. We also process this data on the basis
+of Art. 6 para. 1 sentence 1 lit. b) GDPR.
+---
+6.3 Processors involved in the
+DeepL Pro checkout process
+In order to process payments, we forward the necessary payment data to our authorized payment
+service provider Stripe Payments Europe Ltd., Block 4, Harcourt Centre, Harcourt Road, Dublin 2,
+Ireland (“Stripe”). Where necessary, Stripe will transfer the data to Stripe, Inc., located in the USA.
+Further information on data protection at Stripe and compliance with the requirements of Art. 44
+GDPR can be found here and here. We have concluded a data processing agreement with Stripe,
+which allows Stripe to process the data solely in accordance with our instructions and not for its
+own purposes.
+---
+In addition, we use the fraud prevention services of Riskified Ltd, 30 Kalisher St., Tel-Aviv,
+6525724, Israel (“Riskified”). Riskified's service helps us to detect and analyse fraud in online
+transactions. This enables us to prevent fraudulent activity and misuse of our services.
+---
+When you purchase DeepL Pro services on our website, DeepL may transmit data like your first
+name, last name, billing address, email address, the DeepL service you booked, its price, your IP
+address, a truncated form of your payment data (for credit cards this is the BIN, the last four
+digits of the credit card and the bank issuing the card, for SEPA payments this is the bank code
+and the last 4 digits from your IBAN) to Riskified for verification purposes. Riskified also directly
+collects and processes your IP address and information on your device and on your behaviour in
+our checkout process as well as an identifier via its beacon, a Java script that is implemented in
+the DeepL check process. Riskified analyses these various data points and provides us with an
+assessment of whether a transaction is to be considered safe or likely to be fraudulent. More
+information on the logic typically involved in such an analysis can be found here. If Riskified
+assesses a payment as fraudulent, we may automatically decline your request to subscribe to
+DeepL Pro. This is justified, because this fraud analysis is necessary for entering into a contract
+with us. In case you receive an error message, but consider the decision not correct, you can
+reach out to support(at) deepl.com at any time and one of our support agents will review
+your case.
+---
+We will also feed back user data to Riskified if Riskified has provided us with a positive
+assessment and we have concluded and executed the contract, but the transaction is subject to
+a chargeback or the debit on the specified means of payment is not successful after the end of
+the trial period.
+---
+Riskified processes the data we transfer to them and the data they collect in our checkout
+process for their own purposes. The data may be transferred to the USA. You can find more
+information about Riskified's handling of personal data here: https://www.riskified.com/privacy/.
+---
+If you yourself are not a party to the DeepL Pro subscription, but access to our products is
+provided to you by your employer or an organization to which you belong, we may share data
+about your usage of the subscription (e.g. number of translated characters and documents
+across the DeepL products, last session and last usage date) with your employer or organization.
+Providing this data corresponds to our legitimate interests as well as the legitimate interests of
+our customers in receiving the information they need about the use of the subscription they have
+paid for, Art. 6 para. 1 sentence 1 lit. f) GDPR.
+---
+Our website also uses services of Cloudflare, Inc, 101 Townsend St, San Francisco, CA 94107,
+USA ("Cloudflare"), which operates a so-called Content Delivery Network (CDN). To protect our
+website, the data transfer between your browser and our servers is routed through Cloudflare's
+infrastructure in order to analyze whether it is an abusive attack. As part of this analysis, your
+data is transmitted to Cloudflare in encrypted form, if necessary also to Cloudflare servers in the
+USA. However, since your requests and other customer data are encrypted between your end
+device and the DeepL servers, Cloudflare does not have any access to this data, but only to meta-
+data (such as your IP address). Only static resources (such as graphics) are loaded directly from
+Cloudflare-servers. In addition, Cloudflare determines a so-called bot score immediately before
+the login to DeepL, which is based on the analysis of the metadata of the client (browser) used.
+The use of Cloudflare is in our legitimate interest to secure the use of our website and to prevent
+and defend harmful attacks from outside, Art. 6 para. 1 sentence 1 lit. f) GDPR. We have
+concluded a data processing agreement with Cloudflare and Cloudflare may therefore only
+process the data according to our instructions and not for its own purposes. You can find more
+information about Cloudflare's handling of personal data here.
+---
+When you visit the DeepL Dialogues website, we use Matomo Analytics to analyse the website
+traffic for purposes of understanding the use of and optimising our website. In this context we
+collect information relating to your website visit (e.g. signing up for events or newsletters)
+including your IP address, which is anonymized immediately on collection. This means we are not
+able to identify you.
+---
+• Performance: These cookies or web storage objects measure how our site is used. We use this
+information to improve our website and services. With these cookies we measure, for example, how
+often users return and which functions they use. We and our external service providers use these
+cookies or web storage objects with your explicit consent in accordance with § 25 para. 1 TDDDG. The
+further processing of this data is also based on your consent, Art. 6 para. 1 sentence 1 lit. a) GDPR.
+---
+• Marketing: These cookies and other technologies are used to deliver content, offers and advertising
+more relevant to you and your interests. By selecting this category, you also consent to DeepL sending
+your data to third parties outside the EU (e.g., Google), including the sharing of hashed email addresses
+(e.g. Reddit). In accordance with § 25 para. 1 TDDDG and Art. 6 para. 1 sentence 1 lit. a) GDPR, we only
+use these cookies, web storage objects and other technologies and process the data collected from
+them with your explicit consent.
+---
+Where you provide us with consent to place third party cookies provided by Google on your
+device (as listed below), you can find out more information about how they store and process
+your personal data here.
+---
+| Context | ID | Description | Technology | Expiry | Owner |
+|---|---|---|---|---|---|
+| API documentation/GitBook | ID__gitbook_cookie_egraription Third-party cookie used by GitBook documentation platform. Necessary for the operation of the service (storage of user cookie preferences). | | TechnologyCookie | ExpirySession | OwnerThird Party - GitBook |
+| API documentation/GitBook | ID__session | Description Third-party cookie used by GitBook documentation platform. Used for session management. | TechnologyCookie | Expiry400 days | OwnerThird Party - GitBook |
+| Security | ID__cf_bm / | Description Used to prevent misuse of our services by using the Cloudflare bot score. | TechnologyCookie | Expiry30 minutes (after continuous inactivity of the user) | OwnerCloudflare Inc. |
+| Checkout Process | IDFurther details about Stripe 3rd party cookies can be found under | Description Fraud detection and security for check-out and payments. This cookie is only | TechnologyCookie (3rd party) | ExpirySession to 2 years | OwnerThird- Party - Stripe Technology Europe, Limited |
+| Checkout Process | IDFurther details about Riskified 3rd party cookies can be found under https://www.riskifieben/deco- terms-privacy/. | Description Fraud detection and prevention for payments in the DeepL Pro process. This is only applied if you enter the checkout process. | TechnologyJavaScript | Expiryn/a | OwnerThird- Party - Riskified Ltd. |
+| Chat Support / Zendesk | IDZD- widgetOpen | Description Maintains the open/closed state of the chat Web Widget across page visits. | TechnologyLocal Storage | ExpiryPersistent Data | OwnerZendesk |
+| Chat Support / Zendesk | ID.sessionToken, .clientId, .appUserId, ZD- launcherLabelRemove | Description Third-party cookies used by Zendesk support tool. Necessary for the operation of the chat widget for customer support. | TechnologyLocal Storage | ExpiryPersistent Data | OwnerZendesk |
+| DeepL Dialogues Site Statistics | ID_pk_id | Description Stores a unique visitor ID. | TechnologyCookie | Expiry13 months | OwnerMatomo |
+| Chat Support / Zendesk | IDZD-buid | Description Stores deviceld and tracks analytics events | TechnologyLocal Storage | ExpiryPersistent Data | OwnerZendesk |
+| Chat Support / Zendesk | IDZD-suid | Description Stores sessionID and tracks analytics events for pages that load a chat Web Widget on them. | TechnologyLocal Storage | Expiry20 minutes | OwnerZendesk |
+| Conversion Tracking | ID | Description Records and evaluates conversions from DeepL's LinkedIn advertising campaigns | TechnologyTracking Pixel | Expiry Ongoing (until consent is revoked) | OwnerLinkedIn Ireland Unlimited Company |
+| Conversion Tracking | ID | Description Records and evaluates conversions in connection with DeepL's advertising campaigns in Google services. | TechnologyServer- to-server tracking | ExpiryOngoing (until consent is revoked) | OwnerGoogle Ireland Ltd. |
+| Conversion Tracking | ID | Description Records and evaluates conversions in connection with DeepL's advertising campaigns in Microsoft services, e.g. Bing search. | TechnologyTracking Pixel | Expiry Ongoing (until consent is revoked) | OwnerMicrosoft Ireland Operations Ltd. |
+| Conversion Tracking | ID | Description | TechnologyServer- to-server | ExpiryOngoing (until consent is | OwnerMeta Platforms, Inc. |
+| Conversion Tracking | ID | Description Records and evaluates conversions in connection with DeepL's advertising campaigns in Naver services, e.g. Naver search. | TechnologyTracking Pixel | Expiry Ongoing (until consent is revoked) | OwnerNaver Corp. |
+| Conversion tracking | ID | Description Records and evaluates conversions in connection with DeepL's advertising campaigns in Yahoo Japan services. | TechnologyServer- to-server tracking | ExpiryOngoing (until consent is revoked) | OwnerLY Corporation |
+| Conversion tracking | ID_n, A, B, SSL, T, XA, XB, Y | Description Records and evaluates conversions in connection with DeepL's advertising campaigns in Yahoo Japan services. | TechnologyPixel | ExpiryOngoing (until consent is revoked) | OwnerLY Corporation |
+| HubSpot Contact Form | IDhubspot | Description Third-party cookie by our Marketing Automation Tool, which is used in particular on our contact form page. Used for session management and to prevent misuse. | TechnologyCookie | Expiry1 month | OwnerHubSpot, Inc. |
+| Conversion Tracking | ID | Description Records and evaluates conversions from DeepL's Reddit advertising campaigns | TechnologyServer- to-server tracking | ExpiryOngoing (until consent is revoked) | OwnerReddit |
+| Conversion Tracking | ID_sid; _fbp, _ga_XXX; _rdt_em; _rdt_uuid; ajs_anonymous_id ajs_user_id; csrf_token, csv; edgebucket; video_autoplay_disabled; loid; pc; prefers_reduced_motion; prefers_reduced_motion_sync;reddit_session;seeker_session;session_tracker;t2_xxx, theme;token_v2 | Description Records and evaluates conversions from DeepL's Reddit advertising campaigns | TechnologyPixel | ExpiryOngoing (until consent is revoked) | OwnerReddit |
+| Conversion Tracking | ID_q_state_XXXXXXXXXXXXXXX | Description Used to identify a website visitor and their interaction with the chatbot. | TechnologyCookie | Expiry1 year | OwnerQualified.co Inc. |
+| Conversion Tracking | ID__q_domainTest | Description Used to identify a website visitor's domain. | TechnologyCookie | ExpiryShortly after the cookie was set | OwnerQualified.co Inc. |
+| Embedded Video Player | IDAEC, APISID, HSID, NID, SAPISID, SID, SSID, SOCS & _Secure | Description We embed videos from YouTube, using YouTube's "privacy- enhanced mode". For further information on this privacy- enhanced mode, please see here.If you visit a page containing a YouTube video whilst logged in to a YouTube or Google account, Google may use additional cookies for security reasons, to remember your preferences and to receive information about what you have watched for analytics and advertising purposes cookies and to collect data linked to your Google account. Further information can be found here. | TechnologyCookie | Expiry180 – 400 days | OwnerYouTube |
+| Embedded Video Player | ID_cf, _ga, _gid, _uet, _builderSessionid, language, Optanon, sd_client_id, vimeo & vuid | Description We embed videos from Vimeo, using Vimeo's "Do Not Track" setting. Further information can be found here. Vimeo may use cookies to play the video, remember preferences and for security reasons.If you visit a page containing a Vimeo video whilst logged in to a Vimeo account or if you've visited the Vimeo site before our website, Vimeo may use cookies including to keep you logged in, for analytics and advertising purposes and to collect data that is linked to your Vimeo account. Further information can be found here. | TechnologyCookie | Expiry0 – 400 days | OwnerVimeo |
+| GitHub Gist Embedded Iframes | ID_gh_sess, _octo, logged_in | Description We embed Iframes from GitHub. GitHub may use cookies to display the Iframe, remember preferences and for security reasons. If you visit a page containing a GitHub embedding whilst logged in to a GitHub account or if you've visited the GutHub site before our website, GitHub may use cookies including to keep you logged in, for analytics and advertising purposes and to collect data that is linked to your GitHub account. Further information can be found here. | TechnologyCookie | ExpirySession (_gh_sess) or 1 year (_octo, logged_in) | OwnerGitHub |
+---
+In case that users visit the website https://developers.deepl.com which is hosted by GitBook we
+use the services of Conva Ventures Inc. ("Conva Ventures” the corporation behind Fathom
+Analytics) to get basic insights about how our API documentation is being used. For the analysis,
+no cookie is set, and the analysis will only rely on the IP address and user agent of the user which
+will be hashed first. These pseudo-anonymized hashes will be anonymized after 24 hours. The
+data will be processed on servers in the USA. We have concluded a data processing agreement
+with Conva Ventures and Conva Ventures only processes the data in accordance with our
+instructions and not for its own purposes. You can find more information about Conva Ventures'
+handling of personal data here.
+---
+If you use our mobile apps, it is also possible to have the entered text and the translation or
+improvement read aloud or to dictate the text to be translated or improved yourself. The speech
+service installed on your device is used for this purpose. Please note that this may result in the
+transfer of the entered or spoken content to the provider of the speech service used by your
+device, possibly also to the USA. DeepL has no influence on this processing of your voice and
+audio data, therefore the privacy policy and terms of use of the speech service used by your
+device e.g. provided by Apple, Google or Samsung, but also those of other speech services that
+cannot be listed exhaustively, apply.
+---
+section 6.2, will be collected. Although no costs are incurred when using DeepL API Free - subject
+to a (possible) upgrade - your payment data is collected in order to prevent improper use of API
+Free. Solely for this purpose, payment information is also passed on, in accordance with section
+6.3, to the payment service provider we have commissioned, Stripe Payments Europe Ltd.
+---
+13.1 Recording of dialer and Zoom calls
+Our customer team is conducting dialer and Zoom calls with prospects and customers to provide
+them with general information about DeepL's services and to advise them according to their
+needs. In order to continue to provide excellent customer service and to continuously improve it,
+we may record and transcribe the dialer and zoom calls with prospects and customers in certain
+countries with their consent, using the Salesloft platform provided by Salesloft, Inc., 1180 West
+Peachtree St NW Suite 2400, Atlanta, GA 30309. We have concluded a data processing
+agreement with Salesloft and Salesloft is therefore only allowed to process the data according to
+our instructions and not for its own purposes.
+---
+If you would like to send us a sales enquiry in order to receive further information about our
+products and subscription plans or to start contract negotiations, you are welcome to use our
+sales contact forms. In addition to your email address, you are required to provide your name and
+telephone number; all other information is optional. For the provision of our contact forms, we
+use the HubSpot service (see section 14).
+---
+We also use the Customer Relationship Management System (CRM) of Salesforce.com Germany
+GmbH, Erika-Mann-Str. 31, 80636 München, Deutschland (“Salesforce CRM") to manage our
+customer database, which includes our existing and potential customers, and to organize sales
+and communication processes. Furthermore, Salesforce CRM enables us to analyse our
+customer-related processes. We have concluded a data processing agreement with Salesforce
+and Salesforce is therefore only allowed to process the data according to our instructions and
+not for its own purposes. The customer data is stored on servers in the EU.
+---
+If you contact our support team with questions about your subscription, for example via our
+contact form, it is necessary to provide a valid email address so that we know who the inquiry
+comes from and can respond to it. We use the ticket system provided by Zendesk Inc.
+("Zendesk"), 1019 Market Street, San Francisco, CA 94103, USA We have entered into a data
+processing agreement with Zendesk and Zendesk may therefore only process the data in
+accordance with our instructions and not for its own purposes. Further information on the
+handling of personal data at Zendesk can be found here.
+---
+a) GDPR on the basis of your voluntarily given consent. We also use the Zendesk ticket system to
+respond to privacy enquiries, so please also note the above explanations in this regard under
+section 13.1.
+---
+If you have signed up for a DeepL account, for DeepL Pro or DeepL API Free, we will occasionally
+send you emails with news on our products, such as the launch of new languages and new
+features as well as on related products and services. This will also include information and tips
+on how to get the most out of DeepL Pro. We are entitled to use the email address you provided
+when signing up for a DeepL account, for a DeepL Pro/DeepL Free API subscription in this way
+under the legal conditions of § 7 para. 3 of the German Act against Unfair Competition (UWG).
+Given our existing contractual relationship, it is also in our legitimate interest to inform you as set
+out above (Art. 6 para. 1 sentence 1 lit. f) GDPR). If you do not wish to receive such emails from
+us, you can object to the use of your email address for this purpose at any time by sending an
+email to support(at)deepl.com. Of course, each of our emails contain an unsubscribe link at the
+end. For sending the newsletter, we use a service provided by HubSpot, Inc. ("HubSpot"), for more
+information see 14.3.
+---
+If you would like to receive more detailed information about our company, products, services and
+promotions, you can sign up for our marketing newsletter or you can agree to receiving marketing
+communication in certain other contexts. We may send you information, within the scope of your
+consent, about offers, special offers, promotions and marketing campaigns and other news from
+DeepL from time to time or get in touch with you to discuss specific products and services. The
+processing of your data is based on your consent (Art. 6 para. 1 sentence 1 lit. a) GDPR). You can
+withdraw your consent at any time with effect for the future by sending an email to
+support(at)deepl.com. Of course, our emails each contain an unsubscribe link at the end.
+We also use the HubSpot service to send the marketing emails, for more information please
+see 14.3.
+---
+Note to US Individuals: We may also send you marketing communications and newsletters and
+offers and promotions if you have agreed to send your information to DeepL, such as via Quora.
+In such a case, we rely on your agreement to send us your information as establishing a
+relationship with us and your consent to such marketing. You can withdraw your consent at any
+time with effect for the future by using the unsubscribe link at the end of our emails.
+---
+14.3 Email Service Provider HubSpot
+For sending the newsletters and other marketing emails, we use a service provided by HubSpot,
+Inc. with headquarters at 25 First Street, 2nd Floor, Cambridge, MA 02141 USA. As part of this,
+your data may also be transferred to the USA. We have concluded a data processing agreement
+with HubSpot and therefore HubSpot may only process the data according to our instructions
+and not for its own purposes. You can find more information on HubSpot's handling of personal
+data here and here.
+---
+Users are given the opportunity to participate in surveys via the web and app interface of our
+services. Participation in the surveys is voluntary and can be achieved, for example, via a pop-up
+found on the interface. The user may be redirected to a third party website (e.g. Qualtrics) to
+complete the survey.
+---
+15.3 Typeform
+To conduct the customer satisfaction surveys, we use a service of Typeform SL, Carrer Bac de
+Roda, 163, local, 08018 Barcelona, Spain ("Typeform"), on whose platform the surveys are stored.
+Typeform uses different subcontractors, which are also partly located in third countries outside
+the EU. Therefore, in certain cases, there may be a transfer of your data to the USA. We have
+concluded a data processing agreement with Typeform and Typeform only processes the data in
+accordance with our instructions and not for its own purposes. You can find more information
+about Typeform's handling of personal data here.
+---
+15.4 Qualtrics
+For the surveys we use a service of Qualtrics Ireland Limited, Costello House, 1 Clarendon Row,
+Dublin 2, DO2 TA43, Ireland ("Qualtrics"), on whose platform the surveys are stored. Access to the
+surveys is placed on the website by DeepL so that each user can freely decide whether to
+participate in the survey. Qualtrics uses different subcontractors, which are also partly located in
+third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to
+the USA. We have concluded a data processing agreement with Qualtrics and therefore Qualtrics
+may only process the data according to our instructions and not for its own purposes. Further
+information on the handling of personal data at Qualtrics can be found here and here.
+---
+15.5 Hotjar
+Furthermore, we use a survey tool of Hotjar Ltd., Dragonara Business Centre, 5th Floor, Dragonara
+Road, Paceville St Julian's STJ 3141, Malta ("Hotjar"), on whose platform the surveys are stored.
+Hotjar uses different subcontractors, which are also partly located in third countries outside the
+EU. Therefore, in certain cases, there may be a transfer of your data to the USA. We have
+concluded a data processing agreement with Hotjar and Hotjar only processes the data in
+accordance with our instructions and not for its own purposes. You can find more information
+about Hotjar's handling of personal data here.
+---
+We also use a service provided by UserTesting, Inc. 144 Townsend Street, San Francisco, CA
+94107 USA to conduct interviews with you. As a user (Contributor) of UserTesting, you can
+register for our interviews on UserTesting's platform. We also contact selected customers to
+make them aware of the interviews and invite them to attend. The interviews are recorded with
+images and sound and stored by us for two years on the UserTesting platform. We process your
+data on the basis of your given consent, Art. 6 para. 1 sentence 1 lit. a) GDPR. You can withdraw
+your consent at any time with effect for the future by sending an email to privacy(at)deepl.com.
+Please state the exact day and, if possible, the time of the interview. We have concluded a data
+processing agreement with UserTesting and UserTesting may only process the data according to
+our instructions and not for its own purposes. UserTesting uses different subcontractors - such
+as Zoom - which are also partly located in third countries outside the EU. Therefore, in certain
+cases, there may be a transfer of your data to the USA. Further information on the handling of
+personal data at UserTesting can be found here and here.
+---
+15.7 Ethnio
+We use a service provided by Ethnio Inc, 1909 Roselia Ave, Los Angeles CA 90027, USA, ("Ethnio")
+to store contact details of participants who signed up to our internal panel for the purpose of
+inviting them to participate in studies and to incentivize our research studies. Ethnio uses
+different subcontractors, which are also located in the USA. We have concluded a data
+processing agreement with Ethnio and Ethnio only processes the data in accordance with our
+instructions and not for its own purposes. You can find more information about Ethnio's handling
+of personal data here.
+---
+DeepL operates several social media profiles (also called "pages") on various social networks
+e.g., Facebook, Instagram, Twitter, LinkedIn and Xing. There we regularly publish posts about our
+products, new product features as well as new job offers. If you interact with our pages or
+contact us via them and are a member of the respective social network, we may receive and
+process data that identify you. As operator of the pages, we also have the option of viewing
+anonymous statistics on the interaction of visitors with our pages (insight function). For this
+purpose, the operators of the social networks record your interactions with our pages using
+cookies and similar technologies. You can find more information on this kind of data processing
+by Facebook, Instagram and LinkedIn here, here and here.
+---
+In addition, we use the LinkedIn image pixel to record and evaluate conversions from our LinkedIn
+advertising campaigns. Conversions mean whether a user is successfully led to our website via
+our LinkedIn advertising campaign. Furthermore, user interactions - i.e., individual steps taken by
+the user on our website - are to be recorded and tracked via conversions. The LinkedIn image
+pixel is embedded on certain pages of our website and provides feedback to LinkedIn if a
+conversion has taken place. In doing so, LinkedIn processes the user's IP address as well as the
+presence of a cookie set by LinkedIn, which provides conclusions about the conversion. The
+processing of your personal data is based on your consent (Art. 6 para. 1 sentence 1 lit. a)
+GDPR). The consent is given via the cookie settings. You can revoke your consent at any time
+with effect for the future by revoking the consent for the "Marketing” cookie category or deleting
+your browser cache.
+---
+Please note that we together with the operator of the respective social network are jointly
+responsible for the data processing operations triggered when you visit our page. However, the
+operators of the social networks may also process your data for their own purposes, which are
+not depicted in this privacy policy. It is also possible that data collected about you will be
+transferred to third countries, in particular the USA. We have no influence on this data processing
+and refer to the privacy policies of the respective social networks e.g., for Facebook here, for
+Instagram here, for Twitter here, for LinkedIn here and for Xing here.
+---
+17.8 Bettermode as Processor
+We provide our Platform using Bettermode, a software provided by Bettermode Inc. We have
+concluded a data processing agreement with Bettermode and Bettermode may only process the
+data according to our instructions and not for its own purposes. Your data will be stored within
+the EU. Bettermode, Inc. is located in Canada. Any data transfers will be carried out on the basis
+of the EU Commission's adequacy decision for Canada.
+---
+We use a service provided by Zoom Video Communications, Inc. ("Zoom"), 55 Almaden Blvd.
+Suite 600, San Jose, CA 95113, USA, on whose platform the webinars are held. Registration for
+our webinars takes place via a corresponding landing page of Zoom. We have concluded a data
+processing agreement with Zoom and Zoom may only process personal data according to our
+instructions and not for its own purposes. We would like to point out that if you access Zoom's
+website, Zoom is responsible for the personal data processed through your use of the website. If
+you have entered into a contractual relationship with Zoom, we have no influence on the personal
+data collected and processed in this context as part of our webinars. Further information on the
+handling of personal data at Zoom - in particular also in relation to webinars - can be found here.
+---
+Please note that it is also possible to participate in the webinar without having a Zoom account.
+In this case, the collection and processing of data is limited to the minimum necessary to be able
+to maintain the service for you. We have chosen settings so that the collection and processing of
+the communication content generally takes place on servers in the European Union. As Zoom is
+based in the USA, we cannot exclude the possibility that data processing (in particular meeting
+metadata) may also take place in the USA when using the service. A collection and processing of
+your data through the use of Zoom takes place on the basis of Art. 6 para. 1 sentence 1 lit. b)
+GDPR (participation contract). We store the data collected and processed by Zoom on our behalf
+for the duration of the Zoom webinar and subsequently for the duration of the statutory retention
+periods, if this is required. We have no influence on the duration of the data processed by Zoom
+under its own responsibility. Please contact Zoom directly for information in this regard.
+---
+21.7 Overseas Transfer and Delegation
+of Personal Data Processing
+We may transfer personal data to the overseas delegatees listed below in order to provide
+services and enhance customer convenience. In order to deliver our services, we may store your
+personal data on DeepL servers located within the EEA and transfer it to the delegatees located
+abroad. The overseas transfer is conducted through telecommunication network from time to
+time as needed. The transferred data will be retained and used in accordance with our privacy
+policy's retention periods. This overseas transfer is essential for the provision of our services.
+Therefore, if you refuse the overseas transfer, it may restrict your access to our services.
+---
+• Process payments: We forward the necessary payment data to our authorized payment service provider
+Stripe Payments Europe Ltd., Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland. Where
+necessary, Stripe will transfer the data to Stripe, Inc., located in the USA. You can contact the company
+through duo(at)stripe.com.
+---
+• Secure the use of website: Our website uses services of Cloudflare, Inc, 101 Townsend St, San Francisco,
+CA 94107, USA ("Cloudflare"). To protect our website, the data transfer between your browser and our
+servers is routed through Cloudflare's infrastructure in order to analyze whether it is an abusive attack.
+However, since your translation requests and other customer data are encrypted between your end
+device and the DeepL servers, Cloudflare does not have any access to this data, but only to meta-data
+(such as your IP address). You can contact the company through privacyquestions(at)cloudflare.com.
+---
+• Support enquires: If you send us a support enquiry, your request is forwarded to the ticket system of the
+provider Zendesk Inc. ("Zendesk"), 1019 Market Street, San Francisco, CA 94103, USA. We use Zendesk
+to process your enquiry and your further communication with us, we also use the service to manage our
+customer database. You can contact the company through privacy(at)zendesk.com.
+---
+• Manage customer database: We use the Customer Relationship Management System (CRM) of
+Salesforce.com Germany GmbH, Erika-Mann-Str. 31, 80636 München, Deutschland (“Salesforce CRM") to
+manage our customer database, which includes our existing and potential customers, and to organize
+sales and communication processes. You can contact the company through privacy(at)salesforce.com.
+---
+• Send newsletters and other marketing emails: For sending the newsletters and other marketing emails,
+we use a service provided by HubSpot, Inc. with headquarters at 25 First Street, 2nd Floor, Cambridge,
+MA 02141 USA. As part of this, your data may also be transferred to the USA. You can contact the
+company through privacy(at)hubspot.com.
+---
+• Conduct the customer satisfaction surveys: To conduct the customer satisfaction surveys, we use a
+service of Typeform SL, Carrer Bac de Roda, 163, local, 08018 Barcelona, Spain ("Typeform"), on whose
+platform the surveys are stored. Typeform uses different subcontractors, which are also partly located in
+third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to the
+USA. You can contact the company through GDPR(at)typeform.com.
+---
+• Conduct surveys: For the surveys we use a service of Qualtrics Ireland Limited, Costello House, 1
+Clarendon Row, Dublin 2, DO2 TA43, Ireland ("Qualtrics"), on whose platform the surveys are stored.
+Qualtrics uses different subcontractors, which are also partly located in third countries outside the EU.
+Therefore, in certain cases, there may be a transfer of your data to the USA. You can contact the
+company through privacy-dsr@qualtrics.com.
+---
+• Conduct surveys: We use a survey tool of Hotjar Ltd., Dragonara Business Centre, 5th Floor, Dragonara
+Road, Paceville St Julian's STJ 3141, Malta ("Hotjar"), on whose platform the surveys are stored. Hotjar
+uses different subcontractors, which are also partly located in third countries outside the EU. Therefore, in
+certain cases, there may be a transfer of your data to the USA. You can contact the company through
+dpo@hotjar.com
+---
+• Conduct interviews: We use a service provided by UserTesting, Inc. 144 Townsend Street, San Francisco,
+CA 94107 USA to conduct interviews with you. UserTesting uses different subcontractors - such as
+Zoom - which are also partly located in third countries outside the EU. Therefore, in certain cases, there
+may be a transfer of your data to the USA. You can contact the company through
+privacy@usertesting.com.
+---
+• Host Webinars: We use a service provided by Zoom Video Communications, Inc. ("Zoom"), 55 Almaden
+Blvd. Suite 600, San Jose, CA 95113, USA, on whose platform the webinars are held. You can contact the
+company through privacy@zoom.us.
+---
+• Job applications: In order to process your application data, it will be forwarded to the service provider
+Localyze UG (haftungsbeschränkt), Bäckerbreitergang 28, 20355 Hamburg, which carries out the Pre-
+Check on behalf of DeepL. You can contact the company through bohoerdenmdelung@dataguard.de.
+---
+• Job applications: In order to process your application data, it will be forwarded to the service provider
+Recruitee B.V., Keizersgracht 313, 1016 EE Amsterdam, The Netherlands, which operates the application
+system. You can contact the company through hello@recruitee.com.
+---
+• Job applications: In particular applications for developer positions, the applicant's name and email
+address may be forwarded to the service provider Codesse Ltd., FF28, Kao Hockham Building, Edinburgh
+Way, Harlow, Essex, CM20 2NQ, United Kingdom, which provides services regarding the provision and
+review of coding challenges during an application. You can contact the company through
+rick@codesse.com

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "You may add data such as username, gender, birthdate, education, and occupation, as well as a publicly visible bio, to the News account. We use this information to provide you with a more personalized experience. If you log in using Facebook or Twitter, we will receive your account username and profile picture from those sites. If you log in using your phone number, your phone number will be used as your display name. We will retain data you upload to your account for as long as your account is active. We process this data based on your consent. You can modify your account, withdraw consent, and delete data by navigating to your application's settings menu.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "When you install an Opera application, a random installation ID is generated. We collect this identifier, as well as device ID, hardware specifications (model, release date, etc.), operating system, environment configuration, and feature usage data. We use this data to improve our products and services. For example, we may use it to analyze how our users interact with our applications, or to determine the effectiveness of promotional campaigns, or to detect and debug problems. We have no practical way to use this information to identify you personally. We may retain this usage data for up to three years. You can opt out of reporting Usage statistics through the application settings menu and disabling Usage statistics at the bottom of the settings menu.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "When you install an Opera application, a random installation ID is generated. We collect this identifier, as well as device ID, hardware specifications (model, release date, etc.), operating system, environment configuration, and feature usage data. We use this data to improve our products and services. For example, we may use it to analyze how our users interact with our applications, or to determine the effectiveness of promotional campaigns, or to detect and debug problems. We have no practical way to use this information to identify you personally. We may retain this usage data for up to three years. You can opt out of reporting Usage statistics through the application settings menu and disabling Usage statistics at the bottom of the settings menu.",
+      "lang": "English"
+    }
+  ]
+}

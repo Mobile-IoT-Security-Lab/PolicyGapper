@@ -1,0 +1,114 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Device and usage information: We use server logs, cookies and similar technologies to automatically collect information about your computer or device and how you interact with the Service. For example, we may record your application version, browser type, computer or mobile operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer or mobile device when you use the Internet, which may vary from session to session) and your unique device, application or advertising identifiers. In addition to information about your device, we collect information about how you interact with the Service, such as the page that referred you, your search terms, pages or areas of the Service you use or share, the time and duration of visits, features you used and links you clicked on.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Device and usage information: We use server logs, cookies and similar technologies to automatically collect information about your computer or device and how you interact with the Service. For example, we may record your application version, browser type, computer or mobile operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer or mobile device when you use the Internet, which may vary from session to session) and your unique device, application or advertising identifiers. In addition to information about your device, we collect information about how you interact with the Service, such as the page that referred you, your search terms, pages or areas of the Service you use or share, the time and duration of visits, features you used and links you clicked on.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Forum content: You may post messages and other content in help forums or message boards within the Service. This information is stored within the Service and other users can see it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Device and usage information: We use server logs, cookies and similar technologies to automatically collect information about your computer or device and how you interact with the Service. For example, we may record your application version, browser type, computer or mobile operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer or mobile device when you use the Internet, which may vary from session to session) and your unique device, application or advertising identifiers. In addition to information about your device, we collect information about how you interact with the Service, such as the page that referred you, your search terms, pages or areas of the Service you use or share, the time and duration of visits, features you used and links you clicked on.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Device and usage information: We use server logs, cookies and similar technologies to automatically collect information about your computer or device and how you interact with the Service. For example, we may record your application version, browser type, computer or mobile operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer or mobile device when you use the Internet, which may vary from session to session) and your unique device, application or advertising identifiers. In addition to information about your device, we collect information about how you interact with the Service, such as the page that referred you, your search terms, pages or areas of the Service you use or share, the time and duration of visits, features you used and links you clicked on.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Device and usage information: We use server logs, cookies and similar technologies to automatically collect information about your computer or device and how you interact with the Service. For example, we may record your application version, browser type, computer or mobile operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer or mobile device when you use the Internet, which may vary from session to session) and your unique device, application or advertising identifiers. In addition to information about your device, we collect information about how you interact with the Service, such as the page that referred you, your search terms, pages or areas of the Service you use or share, the time and duration of visits, features you used and links you clicked on.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Device and usage information: We use server logs, cookies and similar technologies to automatically collect information about your computer or device and how you interact with the Service. For example, we may record your application version, browser type, computer or mobile operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer or mobile device when you use the Internet, which may vary from session to session) and your unique device, application or advertising identifiers. In addition to information about your device, we collect information about how you interact with the Service, such as the page that referred you, your search terms, pages or areas of the Service you use or share, the time and duration of visits, features you used and links you clicked on.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Transaction information: When you order paid versions of the Service, we collect information necessary to complete the transaction, including your name, payment information and billing information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Account information: We collect personal information when you create an account, such as your email address and password, as well as your phone number if you provide one to enable two-factor authentication or if you use our telephony service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Device and usage information: We use server logs, cookies and similar technologies to automatically collect information about your computer or device and how you interact with the Service. For example, we may record your application version, browser type, computer or mobile operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer or mobile device when you use the Internet, which may vary from session to session) and your unique device, application or advertising identifiers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Contact details: We collect the contact details you share with us when you communicate with us, which may include your email address, phone number, postal address or social media handles.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Account information: We collect personal information when you create an account, such as your email address and password, as well as your phone number if you provide one to enable two-factor authentication or if you use our telephony service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Transaction information: When you order paid versions of the Service, we collect information necessary to complete the transaction, including your name, payment information and billing information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transaction information: When you order paid versions of the Service, we collect information necessary to complete the transaction, including your name, payment information and billing information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Device and usage information: We use server logs, cookies and similar technologies to automatically collect information about your computer or device and how you interact with the Service. For example, we may record your application version, browser type, computer or mobile operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer or mobile device when you use the Internet, which may vary from session to session) and your unique device, application or advertising identifiers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Account content: If you have a Service account, you can use and store different types of data in the Service, such as photos and videos, files, messages and other content.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Account content: If you have a Service account, you can use and store different types of data in the Service, such as photos and videos, files, messages and other content.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Account content: If you have a Service account, you can use and store different types of data in the Service, such as photos and videos, files, messages and other content.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Device data: You may choose to give us permission to access certain data on or components of your device, such as your photos, contacts, microphone and camera. You can always disable this access in your device's settings.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Account content: If you have a Service account, you can use and store different types of data in the Service, such as photos and videos, files, messages and other content.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Device data: You may choose to give us permission to access certain data on or components of your device, such as your photos, contacts, microphone and camera. You can always disable this access in your device's settings.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "Phone information: If you use the telephony or text messaging services available in some of our mobile applications, we may collect information related to your use of these services, such as the phone numbers you call and message and from which you receive calls and messages, the content of text messages, number of minutes used, number of text messages sent, and amount of data plan consumed.",
+      "lang": "en"
+    }
+  ]
+}

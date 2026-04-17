@@ -1,0 +1,332 @@
+1. Introduction
+1.1. Comera is an end-to-end encrypted internet calling and messaging application that offers text messaging, voice and
+video calling, group chats, and media sharing services, as well as an integrated platform called Comera Souq for
+accessing third-party services. This Privacy Policy explains how Comera Technology L.L.C. ("Comera", "we", "us" or "the
+Company") collects, uses, shares, and protects your personal data when you use the Comera mobile app and the
+Comera Souq platform (collectively, our "Services"). We are committed to protecting your privacy and handling your
+personal data in compliance with all applicable laws, including the UAE Federal Decree-Law No. 45 of 2021 on Personal
+Data Protection (PDPL), and the EU General Data Protection Regulation (GDPR). By using our Services, you agree to the
+collection and use of your information as described in this Privacy Policy and our Terms of Use.
+
+---
+
+1.2. We act as the "data controller" of your personal data when providing the Services (meaning we determine the
+purposes and means of processing). For any third-party services accessed via Comera Souq, the respective third-party
+providers are independent controllers of any personal data you provide to them, and their own privacy policies will apply.
+We encourage you to review those third-party privacy policies when using Comera Souq features.
+
+---
+
+2.1. By registering for or using Comera, you consent to our collection, processing, and transfer of your personal data as
+needed to provide the Services and as otherwise permitted by law. This includes information you provide directly,
+information collected automatically, and information from third parties. We rely on different legal bases for processing
+under applicable laws, including your consent (for example, for optional features or marketing communications),
+performance of a contract (to provide the Services you request), compliance with legal obligations, and our legitimate
+interests (such as improving and securing our app), always balanced with your rights and expectations.
+
+---
+
+3.1.5. Optional Features: You may choose to provide additional information when using certain features. If you share
+your location in a chat, we will collect and transmit your geolocation to your chosen contacts with your permission; we
+do not track your location in the background or use your location for any other purpose without consent.
+
+---
+
+3.1.6.3. Cookies and Similar Technologies: Like most online services, we use cookies and similar tracking
+technologies in our app and website to store preferences and gather analytics data. For example, cookies help us keep
+you logged in on our web portal and remember your choices. We also use cookies or mobile SDKs to analyze how
+users interact with our Services (e.g., which features are most used) and to customize your experience. You can
+
+--- [PAGE BREAK] ---
+
+manage cookie preferences via our website's cookie settings or your browser settings. For mobile app analytics, you
+can reset your advertising identifier or opt out of personalized ads in your device settings. For more information,
+please see our Cookie Policy.
+
+---
+
+3.1.7. Information from Third-Party Sources: We may receive information about you from other users or external
+sources:
+
+---
+
+3.1.7.1. Your Contacts on Comera: Other Comera users may provide your phone number and name (for example, by
+syncing their address book). They may also send you messages or call you. We require that users only share
+information they have the right to share.
+
+---
+
+3.1.7.2. Third-Party Login or Import: If we enable third-party account integration (for example, logging in via a social
+media account or importing a profile picture from another service), we will obtain information from that third party with
+your permission, such as your profile name and avatar from that account.
+
+---
+
+3.1.7.3. User Reports: If another user or a third party reports you for violating our Terms (e.g., for spam or abuse), we
+may receive information as part of that report, including the reporter's user ID and the content of the report. We will
+only use this information to review and address the issue in accordance with our policies.
+
+---
+
+4. Comera Souq and Third-Party Services
+4.1. Comera Souq is a feature within the Comera app that allows you to access a variety of services offered by
+independent third-party providers. These services are integrated via secure iframes or APIs to provide a seamless in-app
+experience. When you choose to use a third-party service through Comera Souq:
+
+---
+
+4.1.1. Data Collection by Third Parties: You may be asked to provide information directly to the third-party service
+provider. Such information is collected by the third-party within the embedded iframe or via the API integration, and is
+subject to that provider's own privacy policy. Comera does not receive the content of forms you fill in an embedded
+third-party page, unless it is necessary for the integration to function.
+
+---
+
+4.1.2. Data Shared by Comera: To facilitate the integration, we might share limited data with the third-party service. For
+instance, if a Comera Souq game or service needs to identify your Comera account, we may confirm your user ID or
+phone number, or if you choose to use an Al chatbot, we may transmit your query to the Al service provider to get a
+response. We will only share the minimum data necessary for the service to operate, and only with your initiation. No
+third-party service receives your Comera messages or contacts from us, unless you actively invoke that service to do
+SO.
+
+---
+
+4.1.3. Independent Responsibility: Third-party providers accessible through Comera Souq are independent controllers
+of the data they collect. Comera is not responsible for how third-party providers handle your information, and their
+actions are not governed by this Privacy Policy. However, if you encounter an issue with a third-party service integrated
+in our app, we would appreciate feedback and will endeavor to ensure the security of integrations. We strongly
+recommend you review the privacy policy of any third-party service before proceeding.
+
+---
+
+5. Payment Processing and Financial Data
+5.1. When you make a payment or transact through Comera (for example, purchasing a service on Comera Souq) and if
+the payment is handled by the Comera authorized payment processor, your payment and financial information will be
+handled securely. Comera uses trusted third-party payment processors to process transactions (e.g., credit card
+payments or money transfers). If you choose to make a purchase:
+
+---
+
+5.1.2. Payment Card Information: We do not store your full credit/debit card numbers on Comera's servers. Such
+financial details are transmitted directly to our payment processor via secure encryption and handled in accordance
+with industry security standards (e.g., PCI-DSS). The payment provider may return to us a token or reference number
+which we store to keep track of your purchase.
+
+---
+
+5.1.3. Our payment processors are contractually obligated to protect your data and to use it only for processing
+transactions. They might have their own privacy policies which you should review when providing payment information.
+
+---
+
+6.1.6. Legal Compliance We process personal data as required to comply with applicable laws and regulations. If we
+receive lawful requests from authorities, we may process data to comply (see Disclosure of Information below).
+
+---
+
+6.2.2. Al Features Comera Souq may offer Al-driven features, such as an Al chatbot or smart assistant. If you choose to
+use these features, the content you input (e.g. your chatbot queries or messages) will be processed by the Al service
+provider to generate responses.
+
+---
+
+6.3. Disclosure of Your Information (Information Sharing)
+6.3.1. We share personal data with third parties only as necessary for the purposes described below, and we ensure
+appropriate safeguards are in place to protect your data.
+
+---
+
+6.3.2. With Other Comera Users Comera is a social communication platform, so certain information is shared with
+other users by your own actions:
+
+---
+
+6.3.2.1. When you message or call someone on Comera, that person will see your name, phone number, and any profile
+photo or status you have set (unless you adjust your privacy settings to restrict visibility). They will, of course, see the
+content of messages you send them or hear your voice on calls.
+
+---
+
+6.3.2.2. If you participate in a group chat or group call, other participants will see your messages, name, phone number,
+and any other information you share in that group.
+
+---
+
+6.3.2.3. You can control what information is visible to other users via our in-app Privacy Settings (for example, you can
+hide your profile photo or "last seen" status from non-contacts). Please be aware that users with whom you
+communicate may always save or re-share your information (for example, a message or photo you send them) with
+others inside or outside the platform. Comera cannot prevent recipients from capturing screenshots or forwarding
+content you've shared, so please only share content that you are comfortable being saved or spread.
+
+---
+
+6.3.2.4. When using Comera Souq third-party services, if you choose to share data or content with those services, you
+are directing us to send that information to the third party. For example, if you use a backup service through Comera
+(like backing up chats to Google Drive or iCloud), or you order a product via an integrated marketplace, you are
+consenting to share relevant data with that provider. Those third parties will receive the data needed to fulfill your
+request (such as your chat content for backup, or your name and address for an e-commerce order).
+
+---
+
+6.3.3. With Our Service Providers and Affiliates We employ trusted third-party companies and individuals to help us
+provide, support, and improve Comera. These service providers perform tasks under our instruction and on our behalf
+(acting as "processors" of your data). They include, for example:
+
+---
+
+6.3.3.1. Infrastructure and Delivery Hosting providers for data storage, and network providers to route
+communications.
+
+---
+
+6.3.3.2. Analytics and Crash Reporting Tools that help us analyze app performance and usage (e.g., to detect crashes
+or understand user behavior in aggregate).
+
+---
+
+6.3.3.3. Customer Support Tools Platforms that assist with managing support requests or user inquiries.
+
+---
+
+6.3.3.4. Marketing and Outreach Providers that help us send emails or other messages to users (for instance, to
+announce new features).
+
+---
+
+6.3.3.5. Security Services Partners who assist in protecting our platform from fraud or abuse (such as services to
+verify accounts or detect bot activity).
+
+---
+
+6.3.4. We also may share information with our affiliate companies (companies that are under common ownership or
+control with Comera) for purposes consistent with this Policy, such as improving service functionality or where
+infrastructure is shared. All these third parties are contractually obligated to handle personal data strictly per our
+instructions and to provide at least an equivalent level of data protection. They are not permitted to use your data for
+their own purposes.
+
+---
+
+6.3.5. With Third-Party Partners (with your consent) Comera may, with your consent, share certain information with
+third-party partners for specific purposes. For instance, if in the future Comera offers an integrated advertising program
+or loyalty program in partnership with another company, we would share the necessary identifiers or eligibility
+information. At present, we do not share your personal data with third parties for their own marketing or advertising
+purposes without your consent. We do not sell your personal data to third parties for profit.
+
+---
+
+6.3.6. For Legal Compliance and Safety We may disclose information about you if we are required to do so by law or
+legal process, or to respond to valid legal requests by public authorities (such as a subpoena, court order, or
+government demand). We will only provide the data that we are compelled to disclose and will object to overly broad
+requests where appropriate. We may also share information when we believe in good faith that such disclosure is
+necessary to:
+
+---
+
+6.3.6.1. Investigate, prevent, or take action regarding suspected illegal activities, fraud, or security vulnerabilities;
+
+---
+
+6.3.6.2. Enforce our Terms of Service or other agreements;
+
+---
+
+6.3.6.3. Protect the rights, property, or safety of Comera, our users, or the public. This may include exchanging
+information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+---
+
+6.3.7. Business Transfers If Comera undertakes a merger, acquisition, restructuring, bankruptcy, or sale of some or all
+of its assets, personal data may be transferred to the successor or assignee as part of that transaction. We will ensure
+the recipient agrees to respect your personal data in a manner consistent with this Privacy Policy. You will be notified
+via the app or other means of any change of ownership or uses of your personal information due to such a transaction,
+as well as any choices you may have regarding your information.
+
+---
+
+6.4. Aggregated or De-Identified Data: We may also share information that has been aggregated or anonymized in such
+a way that it can no longer be associated with you. For example, we might share general user trends with partners. This
+information does not constitute personal data and may be shared for lawful purposes.
+
+---
+
+7. International Data Transfers
+Comera is a global service. By using our app, you acknowledge that your personal data may be transferred to and
+processed in countries other than your own. In particular:
+
+---
+
+7.2. If you are located outside the UAE, your information will be transferred to the UAE (and potentially to other locations
+where we or our service providers operate). Many of these locations may have data protection laws different from (and
+potentially less protective than) the laws in your country. We take measures to protect all personal data, regardless of
+location, as described in this Policy.
+
+---
+
+7.3. For transfers from the European Economic Area (EEA) or United Kingdom to UAE or any other country not deemed
+"adequate" by the EU Commission, we implement appropriate safeguards as required by GDPR Chapter V. These may
+include Standard Contractual Clauses (SCCs) approved by the European Commission, binding corporate rules (if
+
+--- [PAGE BREAK] ---
+
+applicable), or reliance on an approved certification mechanism. We may also rely on derogations in GDPR Article 49
+where appropriate - for example, if a transfer is necessary to perform a contract with you (such as routing data to
+connect an international call) or with your explicit consent in certain cases.
+
+---
+
+7.4. Under the UAE PDPL, we will likewise ensure that any transfer of personal data outside the UAE is done to
+jurisdictions approved by the UAE Data Office as having adequate data protection, or we will adopt alternative
+safeguards (such as contractual agreements) as required by law. We will not transfer UAE users' data out of UAE except
+in compliance with PDPL's regulations and any future directives of the UAE Data Office.
+
+---
+
+7.5. Regardless of where your data is processed, we will protect it with the same high standards described in this Policy.
+We also require our service providers to comply with applicable transfer safeguards.
+
+---
+
+8.3. Third-Party Services Data: Any data shared with third-party providers via Comera Souq is not stored by Comera
+beyond what is necessary to facilitate the connection. For example, if you link a third-party account, we store the token
+or status needed to maintain the link, until you unlink or delete your account.
+
+---
+
+Deletion Requests: You have the right to request deletion of your personal data at any time (see Your Rights below).
+Upon a verified deletion request, we will delete your data (and direct our processors to delete it) unless retention is
+required by law. Note that deleting your Comera account will remove your personal information and message content
+from our live systems, and you will not be able to recover that information once the account is deleted. However, any
+content you shared with other users (for example, messages you sent) may still be retained in those recipients' devices
+or accounts for which we will not held responsible for.
+
+---
+
+9.4. Access Controls: We restrict access to personal data to Comera employees, contractors, and agents who need to
+know that information to operate, develop or support our Services. They are subject to strict confidentiality obligations
+and may be disciplined or terminated if they fail to meet these obligations.
+
+---
+
+11.1.1. Right to Be Informed and Access Your Data: You have the right to know what personal data we have about you
+and to request a copy of that information. This includes information about the categories of data, the purposes of
+processing, the third parties with whom we share data, and how long we keep data. You also have the right to obtain
+more detailed information about automated decision-making that affects you and about the safeguards used for data
+transfers. We will provide you with a copy of your personal data undergoing processing upon request, free of charge
+(unless requests are repetitive or excessive, in which case a reasonable fee may apply as permitted by law).
+
+---
+
+11.1.5.1. Right to Object to Direct Marketing: Comera does not currently send third-party ads, but if we ever do or if we
+use your data for direct marketing, you can opt-out at any time and we will cease such use for your data.
+
+---
+
+11.1.6. Right to Data Portability: You have the right to receive the personal data you provided to us in a structured,
+commonly used, machine-readable format, and to have that data transmitted to another service provider where
+technically feasible. This right applies when our processing is based on your consent or on a contract with you, and is
+
+--- [PAGE BREAK] ---
+
+carried out by automated means. We support data portability by allowing you to export certain data (for example, you
+may be able to export your chat history or account info) and will otherwise work with you to transfer your data to a third
+party if you request.

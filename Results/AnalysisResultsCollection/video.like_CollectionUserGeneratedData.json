@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "Messages, which include information you provide when you compose, send, or receive messages through Likee's messaging functionalities. They include comments you post on other users' profiles or UGC pages and messages you send through our chat functionality. Such information includes the content of the message (private chats excluded) and the messaging log, such as when it was sent, received, or read, and message participants. Please be aware that messages you choose to send to other Likee users will be accessible by those users and that we are not responsible for the manner in which those users use or share the messages;",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "User generated contents (“UGC”), including photographs, livestreams, videos, audio recordings, hashtags, virtual item content, comments, messages, code or other data or materials that you upload, distribute or stream on the App when you use Likee Services (e.g. uploading logs, creator information, etc.);",
+"lang": "en"
+}
+]
+}

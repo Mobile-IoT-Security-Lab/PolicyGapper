@@ -1,0 +1,33 @@
+Act as a privacy auditor for Android apps, expert in Google Play Data Safety.
+
+INPUT:
+
+SUMMARY_PRIVACY_POLICY_TXT: .txt file uploaded
+
+DATA_SAFETY_STATEMENT (DSS) OF THE APP: .json file uploaded
+
+SCOPE_OF_REVIEW: [DATA TO ANALYZE]
+
+EXCLUSION CONSTRAINTS:
+
+[DSS CONSTRAINTS]
+
+TASK:
+
+Analyze the SUMMARY_PRIVACY_POLICY_TXT to identify implicit or explicit [collection/share] of SCOPE_OF_REVIEW data.
+
+For each such data type identified, check if it is explicitly declared as [“collected”/“share”] in the DSS.
+
+Flag as undeclared any technical/performance data [collected/shared] off-device but missing in DSS (outside exclusions).
+
+Important:
+
+[CONSTRAINTS TO FOCUS]
+
+RETURN ONLY valid JSON. NO extra text, comments or explanations. Format:
+
+[JSON RESULT FORMAT]
+
+If none found, return exactly:
+
+[JSON RESULT FORMAT]

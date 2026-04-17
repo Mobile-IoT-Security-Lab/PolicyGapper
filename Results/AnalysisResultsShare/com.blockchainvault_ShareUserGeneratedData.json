@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "lang": "English"
+    }
+  ]
+}

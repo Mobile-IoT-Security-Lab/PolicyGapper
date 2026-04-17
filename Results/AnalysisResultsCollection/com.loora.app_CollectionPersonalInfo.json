@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "We may collect and store Personal Information such as name, address, email address, telephone number, gender, birth date, and other contact information in order to provide you with Services. We may also collect and store Personal Information regarding your usage of the App, for example, the information you provide during a lesson offered by the App, the transcript of the lessons, and your voice recording during the conversation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may collect and store Personal Information such as name, address, email address, telephone number, gender, birth date, and other contact information in order to provide you with Services. We may also collect and store Personal Information regarding your usage of the App, for example, the information you provide during a lesson offered by the App, the transcript of the lessons, and your voice recording during the conversation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may collect and store Personal Information such as name, address, email address, telephone number, gender, birth date, and other contact information in order to provide you with Services. We may also collect and store Personal Information regarding your usage of the App, for example, the information you provide during a lesson offered by the App, the transcript of the lessons, and your voice recording during the conversation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may also use your Personal Information, such as personal information regarding your usage of the App, as web server logs, IP addresses, cookies, local storage tools, pixel tags, web beacons when you send us inquiries regarding our App, Services or when you browse the website, in order to administrate and improve the App, website, or our Services, for our internal records and for statistical analysis, as set forth in this Policy.",
+      "lang": "English"
+    }
+  ]
+}

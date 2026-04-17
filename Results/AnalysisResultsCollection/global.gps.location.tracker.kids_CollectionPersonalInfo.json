@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other info",
+      "policy_reference": "The \"Pingo: Chat with Parents\" app is intended for children. It can be set up by an adult or a child. If the app is set up by a child, We first request a parent's code from the Kidsy app. These apps need to be used together. The only personal information we ask for within Pingo is the child's age.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "The Company does not store sound around the device or audio data, usage statistics, fitness data, or activity recognition data on any servers. Only the parent connected to the same child profile is allowed to access this information within their “Kidsy\" app.",
+      "lang": "English"
+    }
+  ]
+}

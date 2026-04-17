@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "Identifiers such as a real name, alias, postal address, telephone number, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers.",
+      "lang": "English"
+    }
+  ]
+}

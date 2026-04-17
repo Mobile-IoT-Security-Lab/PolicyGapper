@@ -1,0 +1,49 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may receive information about you from third-party analytics providers, such as Amplitude, Firebase, Appsflyer, Facebook SDK, and Apphud. This information may include usage details, geographic location, and demographic information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We use the OpenAI GPT API to enhance the features within the app. This means that the food photos, calorie tracking requests, and nutritional queries you input into the app may be processed by the GPT API to provide you with accurate calorie, macro, and health score calculations.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We may also collect data in a form that does not, on its own, permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. This information includes, but is not limited to, task name, task date and time, category etc.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "This refers to the data that you voluntarily provide to us, which identifies you personally. This includes, but is not limited to, your name and email address; it may also include other personal and preference information you provide to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "This refers to the data that you voluntarily provide to us, which identifies you personally. This includes, but is not limited to, your name and email address; it may also include other personal and preference information you provide to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may use third-party companies and individuals to facilitate our service (e.g., maintenance services, database management, web analytics, and payment processing), or to assist us in analyzing how our service is used. These third parties may have access to your Personal Information but only to perform these tasks on our behalf.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may receive information about you from third-party analytics providers, such as Amplitude, Firebase, Appsflyer, Facebook SDK, and Apphud. This information may include usage details, geographic location, and demographic information.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "This refers to the data that you voluntarily provide to us, which identifies you personally. This includes, but is not limited to, your name and email address; it may also include other personal and preference information you provide to us.",
+      "lang": "en",
+      "reason_of_removal": "Duplicate entry"
+    }
+  ]
+}
+```

@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "• Basic contact details, such as name, address, phone number, and email (\"Contact Information”). We use this information where necessary to perform our contract with you to provide the Services, and to communicate with you (including, with your consent where required, to tell you about certain promotions or products or services that may be of interest to you).",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• Account information, such as name, username, email and password (“Account Information”). We use this information where necessary to perform our contract with you to provide the Services and to maintain and secure your account with us. If you choose to register an account, you are responsible for keeping your account credentials safe. We recommend you do not share your access details with anyone else. If you believe your account has been compromised, please contact us immediately at support@perplexity.ai.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "• Basic contact details, such as name, address, phone number, and email (\"Contact Information”). We use this information where necessary to perform our contract with you to provide the Services, and to communicate with you (including, with your consent where required, to tell you about certain promotions or products or services that may be of interest to you).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• Basic contact details, such as name, address, phone number, and email (\"Contact Information”). We use this information where necessary to perform our contract with you to provide the Services, and to communicate with you (including, with your consent where required, to tell you about certain promotions or products or services that may be of interest to you).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "• Any other information you choose to include in communications with us when necessary to perform our contract with you, for example, when sending a message through the Services or providing your size when purchasing certain products (“Other Information You Provide\").",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Payment information, such as credit or debit card information and billing address, which we collect using a third party payment processor (\"Payment Information”). We use this information where necessary to perform our contract with you to process your payment and provide the Services.",
+      "lang": "English"
+    }
+  ]
+}

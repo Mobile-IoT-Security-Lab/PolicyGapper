@@ -1,0 +1,177 @@
+The privacy details that apply to you different whether you subscribe to
+Genius Scan Ultra and created an account or not. If you didn't create an
+account, your documents stay on your device and you don't have any
+account with us. The personal information shared with us is very limited.
+
+---
+Your documents
+Your documents are only stored on your device and are never sent to a
+third-party unless you explicitly choose to (if your export them to other
+apps, if back them up to a cloud storage service, or if you activate Genius
+Cloud).
+• export them to other apps or third-party services (for instance, you can
+export your documents to Dropbox).
+• create a Genius Scan account.
+If you sign up for a Genius Scan account—or if it's enabled automatically
+as part of your Genius Scan for Teams subscription—your documents will
+be stored on our servers so that Genius Scan can synchronize them
+between your devices and back them up. We may provide additional
+services such as indexing your documents for better search or suggesting
+better titles when saving new documents.
+
+---
+Your data
+Genius Scan may request your location for two reasons:
+• When you export your scans to a service such as Evernote, you can
+opt-in to attach your location to the note. That's the only instance
+where your location information leaves your device.
+• The document renaming features of Genius Scan can suggest
+document names based on your location.
+
+---
+Third-party Services
+If you connect Genius Scan to third-party cloud services such as Box,
+Dropbox, Google Drive, etc., It will request some permissions to export
+documents to these services.
+Genius Scan interactions with these services are limited to:
+• Listing the drives and/or folders available in the cloud service to let you
+select where to export your scans.
+• Uploading your scanned documents to the chosen destination.
+
+---
+Processing
+Legal basis
+Process scans
+Contract (Genius
+Scan account)
+Your documents are uploaded
+to our backend for backup and
+synchronization. Your data is
+encrypted during transmission
+and at rest.
+Your documents are retained
+while you have an active
+subscription or until deleted.
+When your account becomes
+inactive, it's scheduled for
+deletion within two years.
+We collect some logs to debug
+problems in our servers. These
+logs are archived for up to a
+year.
+
+---
+Manage user
+accounts
+Contract (Genius
+Scan account)
+When you create an account,
+we keep some information
+(email address, device info, IP
+address) to help you manage
+your account and ensure
+security.
+
+---
+Process purchases
+Contract (All users)
+To manage your purchases,
+we collect minimal information
+such as a unique user
+identifier.
+
+---
+If you subscribe through the
+Apple App Store or Google
+Play Store, please refer to their
+respective terms and privacy
+policies for details on how
+your billing information is
+handled. The Grizzly Labs
+doesn't have access to your
+billing information but only
+receives your subscription
+status from the payment
+providers.
+If you subscribe to Genius
+Scan for Teams through our
+website or other direct billing
+methods, billing details and
+payment methods are handled
+by Stripe. The Grizzly Labs
+does not store billing
+information but has access to
+it through Stripe for managing
+subscriptions and payments.
+
+---
+Genius Renaming
+Consent (All users)
+We process the text of the first
+page of your scanned
+document to suggest
+document names. OpenAl may
+keep the text for up to 30 days
+for abuse monitoring.
+This feature is optional.
+
+---
+Customer support
+Consent (All users)
+If you encounter a technical
+issue, you may contact us. We
+will receive your name and
+email, as well as diagnostics
+containing detailed logs of the
+app's activity. This may
+include document names and
+user identifiers.
+Your conversations are kept
+indefinitely.
+
+---
+Analytics
+Legitimate interest
+(All users)
+We collect some usage data,
+such as which features are
+used and how often. We use
+this data in aggregate to know
+what to improve, refactor or
+remove from the application.
+We collect a unique user
+identifier to identify repeated
+sessions for a given user. We
+don't cross-reference this
+identifier with any identifying
+information.
+Analytics data is kept for 2
+years.
+
+---
+Crash analytics
+Legitimate interest
+(All users)
+We also collect crash data to
+improve the app's quality.
+Crash data may include some
+detailed logs of the user's
+activity.
+Crash data is kept for 1 year.
+
+---
+Data Retention
+Unless this privacy policy specifies otherwise, our data retention policy is
+to keep the data for one year.
+
+---
+Storage Location
+We store data only in the EU or countries deemed adequate by European
+regulators (e.g., under EU-US or Swiss-US Privacy Shield frameworks).
+
+---
+Restrictions
+Our services and applications are not directed at children. If you are a
+parent or guardian and believe your child has provided us with personal
+data without your consent, please contact us as described below, and we
+will delete such data from our systems.

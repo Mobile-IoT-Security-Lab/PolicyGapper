@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "You provide information to us when you:\n• Onboard or register to provide Services, including when you create an account and provide information in the Amazon Transportation App(s);\n• Answer in app questions, surveys, or provide other feedback to Amazon; and\n• Communicate and interact with Amazon personnel, including Amazon support services. We may record phone calls you make to support services, including when you call an Amazon emergency or operations helpline.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Video recordings of the vehicle interior (including occupants of the driver and passenger seats) and external views including to the front, right, left, and the rear of the vehicle. This footage may be uploaded from the Camera Technology to secure servers, including in the following circumstances:\no When you tell the camera to record and upload, if this feature is available (for example, you may choose to upload video footage manually to document safety concerns or delivery issues);\no When the camera detects an accident or potential safety incident, such as a failure to stop at a stop sign or at a red light, unsafe following distance, speeding, distracted driving (e.g. using a handheld device while operating the vehicle), or an emergency braking event;\no When information useful to improve maps and routing is detected; and\no If still available, when Amazon or your Transportation Company requests it in compliance with applicable law, such as when the footage could be useful in connection with an investigation. Footage that is not uploaded remains encrypted and is automatically overwritten so that there is never more than a limited amount of footage stored on the Camera Technology.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "You provide information to us when you:\n• Onboard or register to provide Services, including when you create an account and provide information in the Amazon Transportation App(s);\n• Answer in app questions, surveys, or provide other feedback to Amazon; and\n• Communicate and interact with Amazon personnel, including Amazon support services. We may record phone calls you make to support services, including when you call an Amazon emergency or operations helpline.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Information from your Transportation Company. Examples of information we may receive from your Transportation Company or its service providers, where permissible by local laws, include:\n• Information or documents provided by you to your Transportation Company, including work permits, registration with health insurance providers, your residence permit, your declaration that you are medically fit to perform the Services, and your national identification number;\n• Personnel administration data, including confirmation of completed safety trainings, pay slips, attendance data, your employment contract or contract for services; and\n• Information regarding whether you passed a background check, including a criminal check, and the results of drug or alcohol screening.",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "50. The information obtained from the cookie files about the way the User uses the\nfeelinmyskin.com website is transferred and saved on the Google Inc. servers located in the\nUnited States.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "50. The information obtained from the cookie files about the way the User uses the\nfeelinmyskin.com website is transferred and saved on the Google Inc. servers located in the\nUnited States.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "50. The information obtained from the cookie files about the way the User uses the\nfeelinmyskin.com website is transferred and saved on the Google Inc. servers located in the\nUnited States.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "50. The information obtained from the cookie files about the way the User uses the\nfeelinmyskin.com website is transferred and saved on the Google Inc. servers located in the\nUnited States.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "The personal data of Users making payments via the mobile application, to the extent necessary for the payment execution, are entrusted to App Store for iOS devices or Google Play for Android devices.",
+      "lang": "English"
+    }
+  ]
+}

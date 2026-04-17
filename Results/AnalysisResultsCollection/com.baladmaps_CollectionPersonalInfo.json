@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "The information you provide to us (upon creating an account) may include but is not limited to your:\n3-2-1-email address, cell phone number or other contact information; password associated with your account; additional information you provide us with, for example, to create an account on the App, your reviews;\n3-2-2-Your voice or correspondences with our call center\n3-2-3-Places you have visited with Balad and starred as a favorite address",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "3-1-5-Your exact location will be sent to Balad servers for pace by pace navigating. Your location (anonymously) will be used for estimating traffic and other statistical purposes like editing ways. By anonymously we mean no one can track the identity or characteristics of the User.",
+      "lang": "English"
+    }
+  ]
+}

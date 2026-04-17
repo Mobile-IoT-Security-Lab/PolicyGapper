@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Our partner firebase SDK will collect the following information from you: IP address, Users' names, Email addresses, iOS UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump formatted data (NDK crashes only), Device specs (iOS). The above information will be used to uniquely identify the user to provide statistics and data analysis services. To learn more about the personal information protection of firebase currently involved in this situation, please click here. 【https://firebase.google.com/support/privacy】",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Our partner firebase SDK will collect the following information from you: IP address, Users' names, Email addresses, iOS UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump formatted data (NDK crashes only), Device specs (iOS). The above information will be used to uniquely identify the user to provide statistics and data analysis services. To learn more about the personal information protection of firebase currently involved in this situation, please click here. 【https://firebase.google.com/support/privacy】",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Our partner firebase SDK will collect the following information from you: IP address, Users' names, Email addresses, iOS UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump formatted data (NDK crashes only), Device specs (iOS). The above information will be used to uniquely identify the user to provide statistics and data analysis services. To learn more about the personal information protection of firebase currently involved in this situation, please click here. 【https://firebase.google.com/support/privacy】",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Our partner firebase SDK will collect the following information from you: IP address, Users' names, Email addresses, iOS UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump formatted data (NDK crashes only), Device specs (iOS). The above information will be used to uniquely identify the user to provide statistics and data analysis services. To learn more about the personal information protection of firebase currently involved in this situation, please click here. 【https://firebase.google.com/support/privacy】",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Location Information: When you access our Services through a mobile device, such as a mobile phone, we may collect your location from your device for security reasons and to provide a better service experience.",
+      "lang": "English"
+    }
+  ]
+}

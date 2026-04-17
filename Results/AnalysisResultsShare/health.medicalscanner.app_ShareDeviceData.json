@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "When you use the Website and Online Services, certain third parties may collect information about your visits and activities through cookies or other tracking technologies (i.e. special pixels) and for various purposes, such as analytics or the need to improve performance. You can learn more about cookies and how to block them in our Privacy Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "When you use the Website and Online Services, certain third parties may collect information about your visits and activities through cookies or other tracking technologies (i.e. special pixels) and for various purposes, such as analytics or the need to improve performance. You can learn more about cookies and how to block them in our Privacy Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We use Google's reCAPTCHA service on the payment pages of our Website. The reCAPTCHA distinguishes data entered by humans from data entered by machines. Google's reCAPTCHA service collects information (e.g. IP address, time spent on the website or mouse movements made by the visitor) for analysis. Google's reCAPTCHA service then transmits information to Medic Scanner that you are a human and not a robot. More information about Google reCAPTCHA and Google's privacy policy can be found at the highlighted links.",
+      "lang": "English"
+    }
+  ]
+}

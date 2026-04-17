@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We rely on third-party advertising networks and other advertising technology providers (“AdTech Providers”) to serve targeted online ads at users of other companies' websites, games and online services. These ads are targeted at users that we or AdTech Providers believe would be interested in our Services. To enable these targeted ads, we may disclose the following types of personal data about players of our mobile games and viewers of our ads to AdTech Providers:\n• Identifier For Advertisers (IDFA) and Google Advertising ID\n• IP address\n• What Services of ours they have used\n• Date and time of when they used our Services\n• Inferred interests",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We rely on third-party advertising networks and other advertising technology providers (“AdTech Providers”) to serve targeted online ads at users of other companies' websites, games and online services. These ads are targeted at users that we or AdTech Providers believe would be interested in our Services. To enable these targeted ads, we may disclose the following types of personal data about players of our mobile games and viewers of our ads to AdTech Providers:\n• Identifier For Advertisers (IDFA) and Google Advertising ID\n• IP address\n• What Services of ours they have used\n• Date and time of when they used our Services\n• Inferred interests",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "• Other Users in Your Online Community: If you participate in any of our online communities or send a virtual gift of virtual items to other users on our Services, we may disclose your profile information to other online community members, including your screen name, profile picture or avatar, your in-game scores and achievements, the gifted items, and any other information you choose to include in the profile shown to other online community members.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Contests, Sweepstakes, and Survey Providers: We may disclose personal data to third parties who assist us in delivering our contests, sweepstakes, or survey offerings and processing the responses.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Other Users in Your Online Community: If you participate in any of our online communities or send a virtual gift of virtual items to other users on our Services, we may disclose your profile information to other online community members, including your screen name, profile picture or avatar, your in-game scores and achievements, the gifted items, and any other information you choose to include in the profile shown to other online community members.",
+      "lang": "English"
+    }
+  ]
+}

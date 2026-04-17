@@ -1,0 +1,9 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Contacts",
+"policy_reference": "● Read your contacts\nWhen the phone receives an incoming call, you need to read the phone contact to ensure that the application can be\nused normally.\nPurpose : When the phone calls, the screen of the call show can be displayed normally.",
+"lang": "en"
+}
+]
+}

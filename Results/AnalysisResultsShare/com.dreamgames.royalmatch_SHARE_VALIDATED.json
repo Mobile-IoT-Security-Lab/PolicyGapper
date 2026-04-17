@@ -1,0 +1,46 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We rely on third-party advertising networks and other advertising technology providers (“AdTech Providers”) to serve targeted online ads at users of other companies' websites, games and online services. These ads are targeted at users that we or AdTech Providers believe would be interested in our Services. To enable these targeted ads, we may disclose the following types of personal data about players of our mobile games and viewers of our ads to AdTech Providers:\n• Identifier For Advertisers (IDFA) and Google Advertising ID\n• IP address\n• What Services of ours they have used\n• Date and time of when they used our Services\n• Inferred interests",
+      "justification": "The privacy policy states that data is shared with third-party AdTech Providers for targeted advertising. This is considered 'sharing' under Google Play's policy and is not exempt as the providers are not acting solely as service providers on the developer's behalf.",
+      "how_to_fix": "Declare that 'App interactions' data is shared with third parties for 'Advertising or marketing' purposes in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We rely on third-party advertising networks and other advertising technology providers (“AdTech Providers”) to serve targeted online ads at users of other companies' websites, games and online services. These ads are targeted at users that we or AdTech Providers believe would be interested in our Services. To enable these targeted ads, we may disclose the following types of personal data about players of our mobile games and viewers of our ads to AdTech Providers:\n• Identifier For Advertisers (IDFA) and Google Advertising ID\n• IP address\n• What Services of ours they have used\n• Date and time of when they used our Services\n• Inferred interests",
+      "justification": "The privacy policy states that data related to user actions is shared with third-party AdTech Providers for targeted advertising. This is considered 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare that 'Other actions' data is shared with third parties for 'Advertising or marketing' purposes in the Google Play Console's Data safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "• Other Users in Your Online Community: If you participate in any of our online communities or send a virtual gift of virtual items to other users on our Services, we may disclose your profile information to other online community members, including your screen name, profile picture or avatar, your in-game scores and achievements, the gifted items, and any other information you choose to include in the profile shown to other online community members.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy describes data disclosure to other users as a direct result of the user choosing to participate in an online community. This is a user-initiated action and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Contests, Sweepstakes, and Survey Providers: We may disclose personal data to third parties who assist us in delivering our contests, sweepstakes, or survey offerings and processing the responses.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is disclosed to third parties who 'assist us in delivering' services. This indicates a service provider relationship where the third party processes data on the developer's behalf, which is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Other Users in Your Online Community: If you participate in any of our online communities or send a virtual gift of virtual items to other users on our Services, we may disclose your profile information to other online community members, including your screen name, profile picture or avatar, your in-game scores and achievements, the gifted items, and any other information you choose to include in the profile shown to other online community members.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy describes disclosing a 'profile picture or avatar' to other users as a direct result of the user choosing to participate in an online community. This is a user-initiated action and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing' with third parties.",
+      "lang": "English"
+    }
+  ]
+}
+```

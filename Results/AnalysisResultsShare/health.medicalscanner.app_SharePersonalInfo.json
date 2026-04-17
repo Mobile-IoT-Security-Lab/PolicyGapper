@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "With your consent, we may share certain Personal Information unrelated to your health for marketing and promotional purposes. By using partners for marketing and promotional purposes, we are able to reach you and similar individuals through various platforms and spread the word about Medic Scanner. If we need to share your Personal Information with other platforms for the mentioned purpose we will ask for your consent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "With your consent, we may share certain Personal Information unrelated to your health for marketing and promotional purposes. By using partners for marketing and promotional purposes, we are able to reach you and similar individuals through various platforms and spread the word about Medic Scanner. If we need to share your Personal Information with other platforms for the mentioned purpose we will ask for your consent.",
+      "lang": "English"
+    }
+  ]
+}

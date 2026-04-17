@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "• Third Party Vendors: We may share information about you with third party vendors, consultants, and advisors who help us provide our Services or who otherwise perform services for us. This includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information, cloud storage services, and customer chat and email support services that help us communicate with you), those that assist us with our marketing efforts (like sending emails to our marketing list), those that help us understand and enhance our Services (like analytics providers), those that make tools to help us run our operations (like programs that help us with task management, scheduling, word processing, email and other communications, and collaboration among our teams), and other third-party tools that help us manage operations. We require vendors to agree to privacy commitments in order to share information with them;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• Third Party Vendors: We may share information about you with third party vendors, consultants, and advisors who help us provide our Services or who otherwise perform services for us. This includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information, cloud storage services, and customer chat and email support services that help us communicate with you), those that assist us with our marketing efforts (like sending emails to our marketing list), those that help us understand and enhance our Services (like analytics providers), those that make tools to help us run our operations (like programs that help us with task management, scheduling, word processing, email and other communications, and collaboration among our teams), and other third-party tools that help us manage operations. We require vendors to agree to privacy commitments in order to share information with them;",
+      "lang": "English"
+    }
+  ]
+}

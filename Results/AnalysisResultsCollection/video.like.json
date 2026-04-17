@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• Usage Information. We collect Information related to your use of the Likee Services, including your browsing and viewing history (e.g., visiting log), search history, the date and time of profile visits, applied filters and effects, subscriptions, information regarding your interaction with other users, and your purchase information and history.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Usage Information. We collect Information related to your use of the Likee Services, including your browsing and viewing history (e.g., visiting log), search history, the date and time of profile visits, applied filters and effects, subscriptions, information regarding your interaction with other users, and your purchase information and history.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Purchase information. When you make a purchase on the Likee Services, you may provide us with information about your orders, payment information, billing, and shipping address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Purchase information. When you make a purchase on the Likee Services, you may provide us with information about your orders, payment information, billing, and shipping address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location Information. We may collect information about your location (e.g., country) based on your IP addresses. We may also collect and use your precise location with your permission and when you use certain location-related features.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Messages, which include information you provide when you compose, send, or receive messages through Likee's messaging functionalities. They include comments you post on other users' profiles or UGC pages and messages you send through our chat functionality. Such information includes the content of the message (private chats excluded) and the messaging log, such as when it was sent, received, or read, and message participants. Please be aware that messages you choose to send to other Likee users will be accessible by those users and that we are not responsible for the manner in which those users use or share the messages;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "User generated contents (“UGC”), including photographs, livestreams, videos, audio recordings, hashtags, virtual item content, comments, messages, code or other data or materials that you upload, distribute or stream on the App when you use Likee Services (e.g. uploading logs, creator information, etc.);",
+      "lang": "en"
+    }
+  ]
+}

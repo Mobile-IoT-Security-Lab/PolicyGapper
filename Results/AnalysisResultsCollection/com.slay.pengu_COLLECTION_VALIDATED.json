@@ -1,0 +1,54 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Contact form: If users contact us via our contact form, e-mail or other communication channels, we process the data communicated to us in this context to process the communicated request; Legal basis: Contract performance and pre-contractual requests (Art. 6 para. 1 p. 1 lit. b) DSGVO), Legitimate interests (Art. 6 para. 1 p. 1 lit. f) DSGVO).When contacting us (e.g. by contact form, e-mail, telephone or via social media) as well as in the context of existing user and business relationships, the information of the inquiring persons is processed to the extent necessary to respond to the contact requests and any requested measures.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Information about your interactions with the ads (such as click-throughs and time spent viewing an ad);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Information about your app usage patterns, preferences, and geographic location.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Contact form: If users contact us via our contact form, e-mail or other communication channels, we process the data communicated to us in this context to process the communicated request; Legal basis: Contract performance and pre-contractual requests (Art. 6 para. 1 p. 1 lit. b) DSGVO), Legitimate interests (Art. 6 para. 1 p. 1 lit. f) DSGVO).When contacting us (e.g. by contact form, e-mail, telephone or via social media) as well as in the context of existing user and business relationships, the information of the inquiring persons is processed to the extent necessary to respond to the contact requests and any requested measures.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "If you provide us with your mobile phone number and explicitly consent, we will use it to send you SMS messages. These may include updates about our app, promotional offers, reminders, and other marketing content. Message frequency may vary. Message and data rates may apply depending on your mobile carrier. You can unsubscribe from receiving SMS messages at any time. To do so, simply reply with **STOP** to one of our SMS messages. After this, you will no longer receive marketing SMS from us. For support, you can reply with **HELP** or contact us directly at hi@slay.cool.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Our app displays advertisements to support our services and enhance your user experience. To make the ads more relevant to you, we may collect and use certain information about your activities within our app, including but not limited to:\n\n- Device identifiers and technical information about your device (such as model, operating system version, and IP address);\n- Information about your interactions with the ads (such as click-throughs and time spent viewing an ad);\n- Information about your app usage patterns, preferences, and geographic location.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Contact form: If users contact us via our contact form, e-mail or other communication channels, we process the data communicated to us in this context to process the communicated request; Legal basis: Contract performance and pre-contractual requests (Art. 6 para. 1 p. 1 lit. b) DSGVO), Legitimate interests (Art. 6 para. 1 p. 1 lit. f) DSGVO).When contacting us (e.g. by contact form, e-mail, telephone or via social media) as well as in the context of existing user and business relationships, the information of the inquiring persons is processed to the extent necessary to respond to the contact requests and any requested measures.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Contact form: If users contact us via our contact form, e-mail or other communication channels, we process the data communicated to us in this context to process the communicated request; Legal basis: Contract performance and pre-contractual requests (Art. 6 para. 1 p. 1 lit. b) DSGVO), Legitimate interests (Art. 6 para. 1 p. 1 lit. f) DSGVO).When contacting us (e.g. by contact form, e-mail, telephone or via social media) as well as in the context of existing user and business relationships, the information of the inquiring persons is processed to the extent necessary to respond to the contact requests and any requested measures.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Collection of access data and log files: Access to our online offer is logged in the form of so-called \"server log files\". The server log files may include the address and name of the web pages and files accessed, date and time of access, data volumes transferred, notification of successful access, browser type and version, the user's operating system, referrer URL (the previously visited page) and, as a rule, IP addresses and the requesting provider. The server log files may be used, on the one hand, for security purposes, e.g., to prevent server overload (especially in the event of abusive attacks, so-called DDoS attacks) and, on the other hand, to ensure the utilization of the servers and their stability; Legal basis: Legitimate interests (Art. 6 para. 1 p. 1 lit. f) DSGVO); Deletion of data: Log file information is stored for a maximum of 30 days and then deleted or anonymized. Data whose further storage is required for evidentiary purposes is exempt from deletion until final clarification of the respective incident.",
+      "lang": "English",
+      "reason_of_removal": "Websites collection"
+    }
+  ]
+}
+```

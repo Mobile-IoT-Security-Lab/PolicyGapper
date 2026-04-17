@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "As described further in the Cookie Policy, we use these technologies to collect and analyze device, Internet, and other electronic network activity information including information about your computer or device (e.g., device type; browser type; ISP or operating system; IP address; device identifiers such as IDFA, Android ID, etc.; version of our Services you are using); information about how you use and interact with the Services (e.g., domain name; access time; referring or exit pages; page views; Service-related identifiers such as User ID, Chat ID, Session ID, etc.; and actions taken within the Services); and geolocation data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "As described further in the Cookie Policy, we use these technologies to collect and analyze device, Internet, and other electronic network activity information including information about your computer or device (e.g., device type; browser type; ISP or operating system; IP address; device identifiers such as IDFA, Android ID, etc.; version of our Services you are using); information about how you use and interact with the Services (e.g., domain name; access time; referring or exit pages; page views; Service-related identifiers such as User ID, Chat ID, Session ID, etc.; and actions taken within the Services); and geolocation data.",
+      "lang": "English"
+    }
+  ]
+}

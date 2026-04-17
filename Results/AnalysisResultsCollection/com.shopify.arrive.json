@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "When you browse or shop with Shopify Merchants, we receive information about your activity on the Shopify Merchant site, including information about your browsing and search activity, the products and services you place in your cart and/or purchase, your billing and shipping information, transaction details and your payment information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Information: We may receive payment information when you use Shop Pay or make a purchase through Shopify or Shopify Merchants, such as your payment card number and expiration date.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "1. Profile and Contact Information: We receive contact or other account profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us. We may link this information to the different devices or accounts you use when you interact with Shopify, Shopify Merchants, and/or use the Shopify Consumer Services.",
+      "lang": "en"
+    }
+  ]
+}

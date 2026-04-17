@@ -1,0 +1,9 @@
+{
+    "omitted_declarations": [
+        {
+            "data_type": "Emails",
+            "policy_reference": "If you contact us by email (directly or from within the application), we may collect your email and any information you sent us. This will be used to reply to your query.",
+            "lang": "en"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Usage Data is collected automatically when using the Service. Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data. When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.",
+      "justification": "The policy states that data about user visits to pages and time spent on them is collected, which falls under 'App interactions'. This data is sent off-device and is not E2EE.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Usage Data is collected automatically when using the Service. Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data. When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.",
+      "justification": "The policy states that 'diagnostic data' is collected automatically. This category includes crash logs. This data is sent off-device and is not E2EE.",
+      "how_to_fix": "Declare 'Crash logs' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Usage Data is collected automatically when using the Service. Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data. When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.",
+      "justification": "The policy explicitly states that 'diagnostic data' is collected automatically. This data is sent off-device and is not E2EE.",
+      "how_to_fix": "Declare 'Diagnostics' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Usage Data is collected automatically when using the Service. Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data. When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.",
+      "justification": "The policy mentions collecting 'diagnostic data' and 'time spent on those pages', which are types of app performance data. This data is sent off-device and is not E2EE.",
+      "how_to_fix": "Declare 'Other app performance data' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Usage Data is collected automatically when using the Service. Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data. When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.",
+      "justification": "The policy explicitly states that 'unique device identifiers' and 'Your mobile device unique ID' are collected. This data is sent off-device and is not E2EE.",
+      "how_to_fix": "Declare 'Device or other IDs' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.",
+      "justification": "The policy states the developer will contact the user by email, which implies the collection and off-device storage of the user's email address.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.",
+      "justification": "The policy describes users sharing information and interacting with other users, which constitutes in-app messages. This data is sent off-device to be shared and is not E2EE.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Some of our watch faces may require access to your device's location to display weather information. This location data is used solely for this purpose and is not stored or shared with any third parties. The data is processed on your device to fetch weather data from a third-party provider.",
+      "reason_of_removal": "On-device processing exemption",
+      "justification": "The policy explicitly states that location data 'is processed on your device' and is not stored or shared, meaning it is not sent off-device to the developer. This meets the criteria for exemption.",
+      "how_to_fix": "No action needed. This data type is exempt from disclosure as 'collected' under Google Play's policy.",
+      "lang": "English"
+    }
+  ]
+}
+```

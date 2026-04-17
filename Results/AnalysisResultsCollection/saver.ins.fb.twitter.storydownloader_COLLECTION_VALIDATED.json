@@ -1,0 +1,105 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "AI Video Generator, Kiss Video collects the following categories of personal data, which may be collected from you, through the\ncollection forms in the ordering process or other processes.\n①Information you provide to us.\nAccount Information: We may ask that you provide certain information to us when you set up an account or profile on the Website,\norder the Application or contact us through the Website or Application for information or support. This information may include your\nemail address, account name, or other personal identifier.\n●Purchase Information: If you use features that involve payment, we and/or our payment providers, such as Google Pay\nand Apple Pay, may collect information about the purchase or payment transaction, such as order information, purchase\ntoken, the products you purchase, date and amount of the order, expiry date, currency code, country code.\n●User Content: We may collect content that you create or upload through the Services, including prompts, text, images,\naudio, video recordings and chat history that you input, depending on the features you use.\n②Information we automatically collect when you visit our Services.\nDevice Information: This information may include your IP address (or other unique device identifier, including one that we\nmay assign); certain details about your browser, operating system and hardware.\nLocation Information: When you access our Services through a mobile device, such as a mobile phone, we may collect your\nlocation from your device for security reasons and to provide a better service experience.\nUsage Data:We collect information about the products that you use and how you use them and your local device information,\nincluding but not limited to your device information (e.g. phone model and brand), operating system (system version, ID,\nand language), clicking and the URL that referred you to our Services.\nLog Data: We collect information that your browser or device automatically sends when you use our Services, such as IP\naddress, the date, time and number of times of your visit, and event information (such as errors, crashes, restarts, and\nupdates). We also use web server logs to collect and store information about service usage.",
+      "justification": "The privacy policy states: 'User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input...'. This confirms the collection of user-generated content.",
+      "how_to_fix": "Declare 'Other user-generated content' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "③Third parties may use tracking technologies in connection with our Service, which may include the collection of information about your\nonline activities over time and across third party websites.",
+      "justification": "The privacy policy states that third parties may collect information about online activities across third-party websites, which constitutes web browsing history.",
+      "how_to_fix": "Declare 'Web browsing history' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Our partner firebase SDK will collect the following information from you: IP address, Users' names,Email addresses, iOS UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump formatted data (NDK crashes only), Device specs (iOS). The above information will be used to uniquely identify the user to provide statistics and data analysis services. To learn more about the personal information protection of firebase currently involved in this situation, please click here. 【https://firebase.google.com/support/privacy】",
+      "justification": "The privacy policy explicitly states that the Firebase SDK will collect 'Users' names'.",
+      "how_to_fix": "Declare 'Name' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Our partner firebase SDK will collect the following information from you: IP address, Users' names,Email addresses, iOS UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump formatted data (NDK crashes only), Device specs (iOS). The above information will be used to uniquely identify the user to provide statistics and data analysis services. To learn more about the personal information protection of firebase currently involved in this situation, please click here. 【https://firebase.google.com/support/privacy】",
+      "justification": "The privacy policy explicitly states that the Firebase SDK will collect 'Email addresses'.",
+      "how_to_fix": "Declare 'Email address' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Our partner firebase SDK will collect the following information from you: IP address, Users' names,Email addresses, iOS UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump formatted data (NDK crashes only), Device specs (iOS). The above information will be used to uniquely identify the user to provide statistics and data analysis services. To learn more about the personal information protection of firebase currently involved in this situation, please click here. 【https://firebase.google.com/support/privacy】",
+      "justification": "The privacy policy states that the Firebase SDK collects identifiers such as 'iOS UDIDs', 'Secure Android IDs', and 'Instance IDs', which fall under the 'User IDs' data type.",
+      "how_to_fix": "Declare 'User IDs' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Our partner firebase SDK will collect the following information from you: IP address, Users' names,Email addresses, iOS UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump formatted data (NDK crashes only), Device specs (iOS). The above information will be used to uniquely identify the user to provide statistics and data analysis services. To learn more about the personal information protection of firebase currently involved in this situation, please click here. 【https://firebase.google.com/support/privacy】",
+      "justification": "The privacy policy explicitly states that the Firebase SDK will collect 'Phone numbers'.",
+      "how_to_fix": "Declare 'Phone number' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "●Purchase Information: If you use features that involve payment, we and/or our payment providers, such as Google Pay and Apple Pay, may collect information about the purchase or payment transaction, such as order information, purchase token, the products you purchase, date and amount of the order, expiry date, currency code, country code.",
+      "justification": "The privacy policy states the collection of 'Purchase Information', including 'the products you purchase, date and amount of the order', which constitutes purchase history.",
+      "how_to_fix": "Declare 'Purchase history' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Location Information: When you access our Services through a mobile device, such as a mobile phone, we may collect your location from your device for security reasons and to provide a better service experience.",
+      "justification": "The privacy policy states: 'we may collect your location from your device'. This confirms the collection of location data.",
+      "how_to_fix": "Declare 'Approximate location' and/or 'Precise location' as collected in your app's Data Safety section on Google Play, depending on the granularity of the data collected.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Account Information: We may ask that you provide certain information to us when you set up an account or profile on the Website, order the Application or contact us through the Website or Application for information or support. This information may include your email address, account name, or other personal identifier.",
+      "justification": "The privacy policy states that 'Account Information' may include your 'email address'. While this refers to the address itself, the context of contacting support implies communication which falls under the broader 'Emails' category.",
+      "how_to_fix": "Declare 'Email address' as collected. If the app also collects the content of emails (e.g., from support requests), declare 'Emails' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "●User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+      "justification": "The privacy policy states the collection of 'User Content', which explicitly includes 'chat history that you input'.",
+      "how_to_fix": "Declare 'Other in-app messages' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "●User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+      "justification": "The privacy policy states the collection of 'User Content', which explicitly includes 'images' that users create or upload.",
+      "how_to_fix": "Declare 'Photos' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "●User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+      "justification": "The privacy policy states the collection of 'User Content', which explicitly includes 'video recordings' that users create or upload.",
+      "how_to_fix": "Declare 'Videos' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "●User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+      "justification": "The privacy policy states the collection of 'User Content', which explicitly includes 'audio' that users create or upload.",
+      "how_to_fix": "Declare 'Voice or sound recordings' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "●User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+      "justification": "The privacy policy states the collection of 'User Content', which explicitly includes 'audio' that users create or upload.",
+      "how_to_fix": "Declare 'Other audio files' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

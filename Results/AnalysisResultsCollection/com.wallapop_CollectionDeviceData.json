@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Wallapop obtains and uses the IP data and other identifiers provided by the device from which you browse our website or application, as well as the Data you provide when registering as a Wallapop \"User\", alongside the Data obtained as a result of your browsing, requests, publications, conversations, searches, purchases, ratings from other users, participation in competitions and the Data derived, where appropriate, from the linking of your registration on our website or application with your Facebook or Google account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "In accordance with the choice of cookies provided (if and when applicable), when you use our Platform for informational purposes only (e.g., you do not register on the Platform, shop through the Platform or otherwise submit your data), your Internet browser automatically collects, and transfers to us, certain basic information related to your use of the Platform. Such registration data may include the type and version of your browser, your operating system and interface, the device being used, language preference, the website from which you are visiting us (referring URL), the page(s) you visit on our Platforms, the date and time of your visit, part of your Internet Protocol address (IP), your actions taken on the Platforms, and the name of your access provider.",
+      "lang": "English"
+    }
+  ]
+}

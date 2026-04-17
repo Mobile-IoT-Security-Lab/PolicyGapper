@@ -1,0 +1,23 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "(a) Identity Data includes first name and last name. If you sign up using a social media account, we will also receive information from those social media services such as your name, email address, city, state, zip code and third-party ID numbers. When interacting with the Service, you may also choose to provide other profile information, including photos and other identifying information.",
+      "justification": "The privacy policy states that upon social media sign-up, the app receives user information including 'city, state, zip code', which corresponds to the 'Address' data type.",
+      "how_to_fix": "Declare the collection of 'Address' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "(b) Web payments. All purchases made through the website or web app are processed by a third party payment processor, Paddle (paddle.com). Paddle may ask you for personal and/or non-personal data, such as your name, address, email address, credit card information, or other personal data. Paddle has a privacy policy (http://paddle.com/legal-buyers/) that describes their collection and use of personal data. We do not control Paddle or its collection or use of data. Any questions or concerns about Paddle's practices should be directed to Paddle.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy specifies that payment data is collected for purchases made through the 'website or web app', not the mobile application. Data collected outside the mobile app is exempt from disclosure.",
+      "how_to_fix": "No action is needed in the Data Safety section for data collected exclusively outside the mobile app.",
+      "lang": "English"
+    }
+  ]
+}
+```

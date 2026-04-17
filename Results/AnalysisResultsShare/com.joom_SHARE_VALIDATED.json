@@ -1,0 +1,95 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may also share your personal data with our partners for marketing and advertising purposes. This may include information about your interests and preferences, such as your search history and purchase history.",
+      "justification": "The privacy policy explicitly states that 'search history' is shared with partners for 'marketing and advertising purposes'. This constitutes 'sharing' under Google Play's policy and is not covered by any exemption.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Google Play Data Safety form that 'In-app search history' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We may also collect information about the applications installed on your device. This information may be shared with our partners to help them personalize the ads you see.",
+      "justification": "The privacy policy explicitly states that information about installed applications is shared with partners to 'personalize the ads you see'. This constitutes 'sharing' for advertising purposes under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Google Play Data Safety form that 'Installed apps' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We may share your user-generated content, such as reviews and comments, with our partners for marketing and promotional purposes.",
+      "justification": "The privacy policy states that 'user-generated content' is shared with partners for 'marketing and promotional purposes'. This is a declarable 'sharing' activity under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Google Play Data Safety form that 'Other user-generated content' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may collect and share your web browsing history with our advertising partners to show you more relevant ads.",
+      "justification": "The privacy policy explicitly states that 'web browsing history' is shared with 'advertising partners'. This is a clear case of 'sharing' for advertising that must be declared.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Google Play Data Safety form that 'Web browsing history' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "We may share your political or religious beliefs with our partners for the purpose of showing you targeted advertising.",
+      "justification": "The privacy policy states that 'political or religious beliefs' are shared with partners for 'targeted advertising'. This is a declarable 'sharing' activity under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Google Play Data Safety form that 'Political or religious beliefs' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "We may share your sexual orientation with our partners for the purpose of showing you targeted advertising.",
+      "justification": "The privacy policy states that 'sexual orientation' is shared with partners for 'targeted advertising'. This is a declarable 'sharing' activity under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Google Play Data Safety form that 'Sexual orientation' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may also share your personal data with our business partners. These companies may use your data to provide you with advertising that may be of interest to you. This data may include your personal details (such as your name and age), your contact details (such as email), your photos and videos, your contact list, your location, your communications with other users, your posts, your device data, and your usage data.",
+      "justification": "The privacy policy states that 'photos' are shared with business partners for advertising purposes. This constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Google Play Data Safety form that 'Photos' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We may also share your personal data with our business partners. These companies may use your data to provide you with advertising that may be of interest to you. This data may include your personal details (such as your name and age), your contact details (such as email), your photos and videos, your contact list, your location, your communications with other users, your posts, your device data, and your usage data.",
+      "justification": "The privacy policy states that 'videos' are shared with business partners for advertising purposes. This constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Google Play Data Safety form that 'Videos' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "We may also share your personal data with our business partners. These companies may use your data to provide you with advertising that may be of interest to you. This data may include your personal details (such as your name and age), your contact details (such as email), your photos and videos, your contact list, your location, your communications with other users, your posts, your device data, and your usage data.",
+      "justification": "The privacy policy states that the 'contact list' is shared with business partners for advertising purposes. This constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Google Play Data Safety form that 'Contacts' is shared for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may share other app performance data with our analytics partners to help us improve our services.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with 'analytics partners' to 'help us improve our services'. This is a service provider relationship where the partner processes data on the developer's behalf, which is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required for the 'Data shared' section. This is correctly omitted as it qualifies for the 'Service Provider' exemption. Ensure this data transfer is disclosed under the 'Data collected' section for 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "We may share your health and fitness data with our partners to provide you with personalized health and fitness recommendations. This includes your heart rate, step count, and other activity data.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is shared with partners to 'provide you with personalized health and fitness recommendations'. This describes a core app function performed by a partner on the developer's behalf, qualifying for the 'Service Provider' exemption.",
+      "how_to_fix": "No action required for the 'Data shared' section. This is correctly omitted as it qualifies for the 'Service Provider' exemption. Ensure this data transfer is disclosed under the 'Data collected' section for 'App functionality' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "We may share your health and fitness data with our partners to provide you with personalized health and fitness recommendations. This includes your heart rate, step count, and other activity data.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is shared with partners to 'provide you with personalized health and fitness recommendations'. This describes a core app function performed by a partner on the developer's behalf, qualifying for the 'Service Provider' exemption.",
+      "how_to_fix": "No action required for the 'Data shared' section. This is correctly omitted as it qualifies for the 'Service Provider' exemption. Ensure this data transfer is disclosed under the 'Data collected' section for 'App functionality' purposes.",
+      "lang": "English"
+    }
+  ]
+}
+```

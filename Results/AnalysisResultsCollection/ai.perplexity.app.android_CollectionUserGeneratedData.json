@@ -1,0 +1,54 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may constitute or contain personal information, depending on the substance and how it is associated with your account. We use this information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or otherwise used or disclosed without your permission, and may or may not be attributed to you.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "You may also have the ability to sync your third party email account or calendar (such as Gmail and Google Calendar) with the Services. If you choose to sync these accounts, we will have access to your contacts and information from the email messages and calendar appointments in your email account, including the content of your emails (together, “Email Service Information”). Notwithstanding anything else in this Privacy Policy, we only use and disclose Email Service Information to provide the Services or as otherwise required by applicable law, and we do not use or disclose Email Service Information to create, train, improve or fine-tune Al models. If you sync your Google account with the Services, we only use and disclose information from your Google account in accordance with the Google API Services User Data Policy, including the Limited Use requirements.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "You may also have the ability to sync your third party email account or calendar (such as Gmail and Google Calendar) with the Services. If you choose to sync these accounts, we will have access to your contacts and information from the email messages and calendar appointments in your email account, including the content of your emails (together, “Email Service Information”). Notwithstanding anything else in this Privacy Policy, we only use and disclose Email Service Information to provide the Services or as otherwise required by applicable law, and we do not use or disclose Email Service Information to create, train, improve or fine-tune Al models. If you sync your Google account with the Services, we only use and disclose information from your Google account in accordance with the Google API Services User Data Policy, including the Limited Use requirements.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "You may also have the ability to sync your third party email account or calendar (such as Gmail and Google Calendar) with the Services. If you choose to sync these accounts, we will have access to your contacts and information from the email messages and calendar appointments in your email account, including the content of your emails (together, “Email Service Information”). Notwithstanding anything else in this Privacy Policy, we only use and disclose Email Service Information to provide the Services or as otherwise required by applicable law, and we do not use or disclose Email Service Information to create, train, improve or fine-tune Al models. If you sync your Google account with the Services, we only use and disclose information from your Google account in accordance with the Google API Services User Data Policy, including the Limited Use requirements.",
+      "lang": "en"
+    }
+  ]
+}

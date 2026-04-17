@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "To facilitate in-app advertising, we may share the collected data with trusted third-party advertising partners. These partners may use this information to: Display targeted ads within our app or in other apps; Measure the effectiveness of ads; Conduct analysis and research to improve advertising strategies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "To facilitate in-app advertising, we may share the collected data with trusted third-party advertising partners. These partners may use this information to: Display targeted ads within our app or in other apps; Measure the effectiveness of ads; Conduct analysis and research to improve advertising strategies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "To facilitate in-app advertising, we may share the collected data with trusted third-party advertising partners. These partners may use this information to: Display targeted ads within our app or in other apps; Measure the effectiveness of ads; Conduct analysis and research to improve advertising strategies.",
+      "lang": "English"
+    }
+  ]
+}

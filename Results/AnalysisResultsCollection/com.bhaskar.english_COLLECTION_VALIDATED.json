@@ -1,0 +1,97 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you register for our Services using your web accounts like Google, FB, email login, or any similar services, we retrieve the following Information from your account(s) to continue to interact with you and to continue providing you the Services. Information that we collect include -\nΠ User Name\nE-mail id\n■ Age\nGender\nLocation",
+      "justification": "The privacy policy states that 'Email address' is collected. For example, the policy says: 'When you register for our Services using your web accounts like Google, FB, email login... we retrieve the following Information from your account(s)... E-mail id'.",
+      "how_to_fix": "Declare 'Email address' as collected in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may collect additional information at other times, when you provide feedback(s), modify your content or email preferences, respond to surveys, participate in contests, or communicate with us by posting a comment on our Services or asking us a question through our e-mail. This information may include Personal Information such as, but not limited to, your name, email, mobile number, comment, postal address etc.",
+      "justification": "The privacy policy states that 'Address' is collected. For example, the policy says: 'This information may include Personal Information such as, but not limited to, your name, email, mobile number, comment, postal address etc.'.",
+      "how_to_fix": "Declare 'Address' as collected in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Information Collected when you use our Mobile Application\nWhen you download our mobile application we collect the below information, but not limited to\n1. Device OS, ID & Model\n2. Device Location\n3. Contacts access\n4. Name\n5. Contact Number\n6. Date of Birth\n7. Gender\n8. Photograph\nWe may also ask for any other device permissions as required when using the app or its features which may be updated from time to time.\"",
+      "justification": "The privacy policy explicitly states that 'Photograph' is collected when using the mobile application.",
+      "how_to_fix": "Declare 'Photos' as collected in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The privacy policy states that third-party advertising companies may use 'media files on your device'. This implies collection via the app, for which the developer is responsible, even if not stored on the developer's servers.",
+      "how_to_fix": "Declare 'Videos' as collected in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The privacy policy states that third-party advertising companies may use 'media files on your device' and 'audio'. This implies collection via the app, for which the developer is responsible, even if not stored on the developer's servers.",
+      "how_to_fix": "Declare 'Music files' as collected in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The privacy policy states that third-party advertising companies may use 'audio' from the device. This implies collection via the app, for which the developer is responsible, even if not stored on the developer's servers.",
+      "how_to_fix": "Declare 'Other audio files' as collected in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Information Collected when you use our Mobile Application\nWhen you download our mobile application we collect the below information, but not limited to\n1. Device OS, ID & Model\n2. Device Location\n3. Contacts access\n4. Name\n5. Contact Number\n6. Date of Birth\n7. Gender\n8. Photograph\nWe may also ask for any other device permissions as required when using the app or its features which may be updated from time to time.\"",
+      "justification": "The privacy policy explicitly states 'Contacts access' as information collected when using the mobile application.",
+      "how_to_fix": "Declare 'Contacts' as collected in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you choose to post messages on social media accounts, message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.",
+      "reason_of_removal": "Website collection",
+      "justification": "The policy reference describes data collection from 'social media accounts', which occurs outside of the mobile app and is exempt from disclosure.",
+      "how_to_fix": "No action required. This data type does not need to be declared as 'collected' for the mobile app based on the provided policy text.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may also collect your Information to track user behavior and preferences for internal analytics and research. We may also use your information:\ni. To evaluate your interest for various genres of content, services, offers;\nii. To perform analytics and conduct customer research, to determine your interest, for identifying content that generates sales and to analyze traffic patterns.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference mentions tracking user behavior and 'content that generates sales' for analytics, which does not explicitly state the collection of the user's 'Purchase history'.",
+      "how_to_fix": "No action required. This data type does not need to be declared as 'collected' for the mobile app based on the provided policy text.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "If you send us personal correspondence, such as emails or letters or with any other communication channel, or if other users or third parties send us correspondence about your activities or postings on the Services, we may collect and store such information.",
+      "reason_of_removal": "Website collection",
+      "justification": "The policy reference describes collecting personal correspondence such as emails or letters sent to the company, which occurs outside of the mobile app and is exempt from disclosure.",
+      "how_to_fix": "No action required. This data type does not need to be declared as 'collected' for the mobile app based on the provided policy text.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "If you choose to post messages on social media accounts, message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.",
+      "reason_of_removal": "Website collection",
+      "justification": "The policy reference describes data collection from 'social media accounts', which occurs outside of the mobile app and is exempt from disclosure.",
+      "how_to_fix": "No action required. This data type does not need to be declared as 'collected' for the mobile app based on the provided policy text.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "To the extent permitted by law, DBCL may record and monitor your communications with us to ensure compliance with our legal and regulatory obligations and our internal policies. This may include the recording of telephone conversations.",
+      "reason_of_removal": "Website collection",
+      "justification": "The policy reference describes the 'recording of telephone conversations' with the company, which is a communication channel outside of the mobile app and is exempt from disclosure.",
+      "how_to_fix": "No action required. This data type does not need to be declared as 'collected' for the mobile app based on the provided policy text.",
+      "lang": "en"
+    }
+  ]
+}
+```

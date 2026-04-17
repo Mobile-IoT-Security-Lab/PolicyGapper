@@ -1,0 +1,312 @@
+When using these general data and information, Windfinder does not draw any conclusions about the data subject.
+Rather, this information is needed to (1) deliver the content of our applications correctly, (2) optimize the content of
+our applications and the advertising for them, (3) ensure the long-term viability of our information technology
+systems and the technology of our applications, and (4) provide law enforcement authorities with the information
+necessary for criminal prosecution in the event of a cyber-attack. Therefore, Windfinder analyzes anonymously
+collected data and information statistically, with the aim of increasing the data protection and data security of our
+enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of
+the server log files are stored separately from all personal data provided by a data subject.
+---
+5. Single Sign On (SSO)
+a) SSO with Apple or the Apple ID
+You can use our services by signing in with your Apple ID (hereinafter: "Sign in with Apple"). "Sign in with Apple" is
+a service offered by Apple Inc, One Apple Park Way, Cupertino, CA 95014, USA (hereinafter "Apple"). If you choose
+"Sign in with Apple", we process your data on the basis of your consent in accordance with Art. 6 para. 1 sentence
+1 lit. a GDPR. You can revoke your consent at any time for the future in the iOS settings or app settings. The data
+will be deleted as soon as it is no longer required to achieve the purpose. You can find more information on data
+protection at Apple here (https://www.apple.com/legal/privacy/de-ww).
+When you use "Sign in with Apple", we receive information about your name and e-mail address. You can find more
+information about "Sign in with Apple" here (https://www.apple.com/de/legal/privacy/data/de/sign-in-with-apple). If
+you use "Sign in with Apple", Apple will send us a numerical code. We only use this code for fraud prevention
+purposes. We cannot draw any conclusions about your behavior or track you.
+Apple processes and transfers your data in the USA. For the USA as a third country, a new adequacy decision of
+the EU Commission with the USA, the Trans-Atlantic Data Protection Framework (TADPF)
+(https://www.dataprivacyframework.gov/s/) (https://www.dataprivacyframework.gov/s), has been in place since
+July 2023 (see also below under "Data transfers outside the EEA"). We have also concluded standard data
+protection clauses approved by the EU Commission with Apple in order to provide sufficient guarantees for the
+transfer in accordance with Art. 46 para. 2 lit. c GDPR.
+---
+b) SSO with Google or the Google ID
+You can use our services by logging in with your Google ID (hereinafter: "Google ID"). This service is offered by
+Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (hereinafter referred to as "Google"). If you
+decide to use this service, we process your data on the basis of your consent in accordance with Art. 6 para. 1
+sentence 1 lit. a GDPR. You can revoke your consent at any time via your Android settings or your settings in your
+Google account and in the app settings. The data will be deleted as soon as it is no longer required to achieve the
+purpose. You can find more information on data protection at Google here (https://policies.google.com/privacy).
+When you use the Google service, Google shares your e-mail address and your name with us. Google does not
+gain access to your user behavior. You can find more information about this here
+(https://support.google.com/accounts/answer/10130420#siwg&zippy=%2Cso-funktionierts%2Cso-werden-daten-
+geteilt%2Chow-data-is-shared%2Chow-it-works%2Chow-to-manage-it).
+Google processes and transfers your data in the USA. For the USA as a third country, a new adequacy decision of
+the EU Commission with the USA, the Trans-Atlantic Data Protection Framework (TADPF
+(https://www.dataprivacyframework.gov/s)), has been in place since July 2023 (see also below under "Data
+transfers outside the EEA"). We have also concluded standard data protection clauses approved by the EU
+Commission with Google in order to provide sufficient guarantees for the transfer in accordance with Art. 46 para. 2
+lit. c GDPR.
+--- [PAGE BREAK] ---
+6. Contact options in the application&tions)
+The Windfinder applications contain options for quickly contacting our company via contact form, e-mail and
+telephone. If a data subject contacts the controller by e-mail or via a contact form, the personal data transmitted by
+the data subject are automatically stored. Such personal data transmitted on a voluntary basis by a data subject to
+the controller are stored for the purpose of processing or contacting the data subject.
+Windfinder uses the following systems to provide the aforementioned contact options and to maintain the customer
+data received in the process: Help-desk system "Freshdesk". The provider of this system is Freshworks Inc, 1250
+Bayhill Drive, Suite 315, San Bruno, CA 94066, USA (hereinafter: "Freshworks"). If you contact us via the
+aforementioned contact options offered on our website and in our apps, the data you provide will be transmitted to
+"Freshworks" and stored on its servers in the USA. "Freshworks" has joined the Trans-Atlantic Data Protection
+Framework (TADPF), the new agreement between the European Union and the USA
+(https://www.dataprivacyframework.gov/s/) (https://www.dataprivacyframework.gov/s) as an adequacy decision for
+the admissibility of data transfers to the USA as a third country (see also below under "Data transfers outside the
+EEA"). You can find more information about "Freshdesk" and data protection at Freshworks Inc. here:
+http://freshworks.com/privacy (http://freshworks.com/privacy). Data processing is carried out on the basis of Art. 6
+para. 1 sentence 1 lit. f) GDPR. Specifically, our legitimate interest in the processing results from the need for direct
+customer communication and the needs-based design of the applications, including for the provision of our
+services.
+---
+8. Data protection provisions about the
+application and use of Google AdSense
+Windfinder uses Google AdSense in its applications. Google AdSense is an online service of Google LLC Inc.
+("Google"), 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA, which enables the placement of
+advertising on third-party sites. Google AdSense is based on an algorithm that selects the advertisements
+displayed on third-party sites to match the content of the respective third-party site. Google AdSense allows
+interest-based targeting of Internet users, which is implemented by generating individual user profiles. The purpose
+of the Google AdSense component is the integration of advertisements on our website. Google AdSense places a
+cookie on the information technology system of the data subject.
+By setting the cookie, Google is enabled to analyze the use of our website. With each call-up to one of the
+individual pages of this Internet site, which is operated by the controller and on which a Google AdSense
+component was integrated, the Internet browser on the information technology system of the data subject is
+automatically prompted to submit data through the Google AdSense component for the purpose of online
+advertising and the settlement of commissions to Google. As part of this technical process, Google obtains
+knowledge of personal data, such as the IP address of the data subject, which Alphabet Inc. uses, among other
+things, to trace the origin of visitors and clicks and subsequently to enable commission settlements.
+Via Google AdSense, personal data and information, which also includes the IP address and is necessary for the
+collection and billing of the advertisements displayed, is transferred to Alphabet Inc. in the United States of
+America. This personal data is stored and processed in the United States of America. Alphabet Inc. may pass on
+this personal data collected via the technical process to third parties.
+Google AdSense is explained in more detail at this link https://www.google.de/intl/de/adsense/start/
+(https://www.google.de/intl/de/adsense/start) and more information and options for deactivating this ad placement
+can be found at https://www.google.com/settings/u/0/ads/anonymous?hl=de
+(https://www.google.com/settings/u/0/ads/anonymous?hl=de).
+---
+9. Data protection provisions about the application
+and use of Google Ad Exchange (Doubleclick)
+This website uses Google Ad Exchange (also known as "Doubleclick"), a web advertising service of Google Inc.
+1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA ("Google"), to place advertisements (text ads,
+banners, etc.).
+--- [PAGE BREAK] ---
+(/) Doubleclick transmits data to the Doubleclick server with every view as well as with clicks or other activities. Each
+of these data transfers triggers a cookie request to the user's browser.
+Doubleclick places a cookie on the user's II system, provided the user has consented to this. The purpose of the
+cookie is to optimize and display advertising. The cookie is used, among other things, to place and display user-
+relevant advertising and to create reports on advertising campaigns or to improve them. The cookie is also used to
+avoid multiple displays of the same advertisement.
+Correquest fations/locationswser. If the browser accepts this request,
+Doubleclick uses a so-called cookie ID, which is required to handle the technical process. The cookie ID is
+required, for example, to display an advertisement in a browser. Doubleclick can also use the cookie ID to record
+which advertisements have already been displayed in a browser in order to avoid duplication. The cookie ID also
+enables Doubleclick to record conversions. Conversions are recorded, for example, if a user has previously been
+shown a Doubleclick advertisement and subsequently makes a purchase or performs another relevant action on
+the advertiser's website using the same Internet browser.
+A Doubleclick cookie does not contain any personal data. However, a Doubleclick cookie may contain additional
+campaign identifiers; these are used to identify campaigns with which the user has already been in contact.
+Each time you access one of the individual pages of applications operated by us and on which a Doubleclick
+component has been integrated, your Internet browser is prompted by the respective Doubleclick component to
+transmit data to Google for the purpose of online advertising and billing of commissions. As part of this technical
+process, Google obtains knowledge of data that Google also uses to create commission statements. Among other
+things, Google can see that the data subject has clicked on certain links on our website. Further information and
+the applicable data protection provisions of Doubleclick may be retrieved under
+https://www.google.com/intl/de/policies/ (https://www.google.com/intl/de/policies).
+---
+10. Data protection provisions about the
+application and use of Google Analytics
+In our applications, we use Google Analytics 4, a web analysis service of Google Ireland Limited, Gordon House,
+Barrow Street, Dublin 4, Ireland (hereinafter: "Google"). In this context, pseudonymous user profiles are created and
+cookies are used. The information generated by the cookie about the use of our website (e.g. IP address of the
+accessing computer, time of access, referrer URL and information about the browser and operating system used) is
+usually transmitted to Google servers in the USA and processed there.
+The use of Google Analytics is based on your consent in accordance with (Art. 6 para. 1 sentence 1 lit. a GDPR in
+conjunction with § 25 para. 1 TTDSG) in the analysis and optimization of our online offer and the economic
+operation of this website. Google therefore processes the information on our behalf to evaluate the use of the
+website, to compile reports on website activity and to provide us with other services relating to website activity and
+internet usage for the purposes of market research and the needs-based design of this website.
+We have concluded a data processing agreement with Google for the use of Google Analytics. Through this
+contract, Google ensures that it processes the data in accordance with the General Data Protection Regulation and
+guarantees the protection of the rights of the data subject.
+The IP address processed by Google Analytics is automatically shortened. The last three digits of your IP address
+are replaced by a "0", which prevents them from being assigned. The data collected may be transferred to third
+parties if this is required by law or if third parties process the data on our behalf. The user data collected via
+cookies is automatically deleted after 2 months.
+The information generated by the cookies about the use of our website (e.g. IP address of the accessing computer,
+time of access, referrer URL and information about the browser and operating system used) is transferred to
+Google servers in the USA and processed there. Since the summer of 2023, the Transatlantic Data Privacy
+Framework TADPF(https://www.dataprivacyframework.gov/s/) (https://www.dataprivacyframework.gov/s) has
+applied to data transfers to the USA, as the Privacy Shield has been replaced by an adequacy decision and Google
+has joined it. In addition, we have concluded the standard contractual clauses approved and provided by the EU
+Commission with Google for the transfer as a guarantee of a level of data protection comparable to that in the EU.
+You can obtain a copy of the standard contractual clauses here (https://policies.google.com/privacy/frameworks?
+hl=de).
+You can revoke or adjust your consent at any time with effect for the future. Further information on data protection
+in connection with Google Analytics can be found in the Google Analytics help
+(https://support.google.com/analytics/answer/6004245) section. Information on the use of data by Google can be
+found in their privacy policy (https://policies.google.com/privacy?hl=de).
+--- [PAGE BREAK] ---
+(/) Further information and the applicable data protection provisions of Google may be retrieved under
+https://www.google.de/intl/de/policies/privacy/pswww.google.de/intl/de/policies/privacy) and under
+http://www.google.com/analytics/terms/de.html (http://www.google.com/analytics/terms/de.html). Google Analytics
+is explained in more detail at this link https://www.google.com/intl/de_de/analytics/
+(https://www.google.com/intl/de_de/analytics).
+---
+11. Data protection provisions about the
+application and use of Google Firebase
+Windfinder has integrated the Firebase SDK (Software Development Kit) into its applications. Firebase is operated
+by Google Firebase (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland "Google"). Firebase is
+part of the Google Cloud Platform and is a real-time database that can be used to embed real-time information in
+your own app in order to better understand and optimize user behavior in the apps. In addition, other Firebase
+functions are also used to enable better user guidance or an evaluation of the causes of crashes in the apps:
+Firebase Analytics enables us to analyze the use of our website. Information about the use of our app is collected,
+transmitted to Google and stored there. Google uses the advertising ID of the end device for this purpose. Google
+will use this information to anonymously evaluate the use of our app and to provide us with other services related to
+the use of apps. You can restrict the use of the advertising ID in the device settings (iOS: Privacy/ Advertising/ No
+Ad Tracking; Android: Account/Google/ Ads).
+Firebase Cloud Messaging is used to send push messages or so-called in-app messages (messages that are only
+displayed within the app). A pseudonymized push reference is assigned to the mobile device, which serves as the
+destination for the push messages or in-app messages. Firebase Messaging is used by Windfinder for the delivery
+of wind alerts in the Windfinder Plus service. The push messages can be deactivated and reactivated at any time in
+the settings of the mobile device.
+Firebase Authentication is a login and authentication service provided by Google Inc. To simplify the login and
+authentication process, Firebase Authentication may use third-party identity services and store the information on
+its platform. Personal data collected in this process are email address, surname and first name. Firebase
+Authentication is used to log in to Windfinder, including as part of the Windfinder Plus service.
+Firebase Crash Reporting is used for the stability and improvement of the app. It collects information about the
+device used and the use of our app (e.g. the time stamp, when the app was started and when the crash occurred),
+which enables us to diagnose and solve problems. You can find information about how Crashlytics works here:
+https://firebase.google.com/products/crashlytics/ (https://firebase.google.com/products/crashlytics)
+Firebase Remote Config enables the configuration of app settings so that we can change the app on the end
+devices on which it is installed without having to completely reinstall it from the respective app store each time a
+change is made. For this purpose, the device information, language settings and country settings are transferred to
+Google in the USA and processed there. Information about how Remote Config works can be found here:
+https://firebase.google.com/products/remote-config (https://firebase.google.com/products/remote-config)
+Further information and the applicable data protection provisions of Firebase may be retrieved under
+https://www.firebase.com/terms/privacy-policy.html (https://www.firebase.com/terms/privacy-policy.html).
+---
+12. Data protection provisions about the application and use of Sentry
+The SDK of the Sentry service (www.sentry.io (https://www.sentry.io)) is integrated into the Windfinder apps and
+website. We use Sentry to improve the technical stability of the app and website by monitoring system stability and
+detecting code errors. Sentry is used solely for these purposes and does not evaluate any data for advertising
+purposes. User data, such as information on the device or time of error, is collected anonymously and is not used
+for personal purposes and is subsequently deleted. Further information on this can be found in Sentry's privacy
+policy at https://sentry.io/privacy/ (https://sentry.io/privacy).
+---
+13. Data protection provisions about the
+application and use of advertising by SnigelWeb
+The party responsible for some of our advertising placements in the Windfinder desktop version is Snigel
+WebServices Limited, The Black Church, St. Mary's Place in Dublin 7 Dublin, Ireland, hereinafter referred to as
+"SnigelWeb".
+Snigel Web delivers advertising on websites on behalf of its partners. You can find SnigelWeb's privacy policy and
+explanations on cookies here (https://www.snigel.com/privacy-policy).
+--- [PAGE BREAK] ---
+(/) For diagnostic purposes, troubleshooting and detection of fraudulent behavior, SnigelWeb collects user information
+Map(
+in some ad units using cookies, which have a lifes
+Locations/locations)
+which have a lifespan of six months. The user information collected includes user
+agent, device, HTTP referrer and IP. This data is not stored for longer than 7 days.
+SnigelWeb is an auxiliary service; does not itself store any personal data and processes personal data only for
+technically necessary purposes; also provides for the loading of other components that may themselves collect
+data. SnigelWeb does not access this data and takes reasonable steps to protect all information processed from
+misuse, loss, unauthorized access, alteration or notification. We take physical, electronic and procedural security
+measures to protect the data we process.
+A central opt-out option for various third-party providers, in particular US providers, is also available under this link
+(http://optout.networkadvertising.org). However, you can also opt out separately for each individual company that
+SnigelWeb works with.
+We have concluded an data processing agreement with SnigelWeb. The data transfer is based on Art. 6 para. 1 lit.
+a) and Art. 28 para. 3 GDPR in conjunction with the concluded data processing agreement.
+---
+14. Data protection provisions about the application and use of
+OpenStreetMap
+Via the Thunderforest application of the provider Gravitystorm Limited, 53 Ancaster Crescent, New Malden KT3
+6BD, United Kingdom, we integrate maps of the "OpenStreetMap" service (https://www.openstreetmap.org
+(https://www.openstreetmap.org)), which are offered on the basis of the Open Data Commons Open Database
+License (ODbL) by the OpenStreetMap Foundation (OSMF), 132 Maney Hill Road, Sutton Coldfield, West Midlands,
+B72 1JU, United Kingdom. To the best of our knowledge, OpenStreetMap uses user data exclusively for the
+purpose of displaying the map view; in addition, map material is loaded from an external server. This data may
+include, in particular, users' IP addresses and location data, which are not collected without their consent (usually
+as part of the settings of their mobile devices). The data may also be processed in the USA under certain
+circumstances. Please note that OpenStreetMap has its own privacy policy, which is independent of ours; further
+information can be found in OpenStreetMap's privacy policy https://osmfoundation.org/wiki/Privacy_Policy
+(https://osmfoundation.org/wiki/Privacy_Policy) and from Thunderforest here:
+https://www.thunderforest.com/privacy/ (https://www.thunderforest.com/privacy). Please inform yourself about
+these privacy policies before using our applications. Since we cannot provide our services to you as a user, or at
+least not in a meaningful way, without such use of maps, the use of OpenStreetMap is in the interest of an
+appealing presentation of our online services and to make it easy to find the places we indicate in the applications;
+this constitutes a legitimate interest within the meaning of Art. 6 para. 1 lit. f GDPR.
+---
+15. Privacy policy for the use of our store for historical weather data
+In the applications, it is possible to order historical weather data from the Windfinder archive. In the course of the
+ordering process, personal data such as name and address are collected for the purpose of contract fulfillment.
+These are used for invoicing and payment processing and stored in accordance with the statutory provisions. Data
+is transferred to PDFCrowd, Jaroslav Grešula, Kostelní náměstí 506/1, 288 02 Nymburk, Czech Republic (privacy
+policy (https://pdfcrowd.com/legal)) to generate the PDF files for the invoices. For payment processing, data is
+forwarded to PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (Privacy Policy
+(https://www.paypal.com/webapps/mpp/ua/privacy-prev)).
+---
+16. Data protection provisions on the use of and
+communication via our online presence in social media
+We maintain online presences within social networks and platforms in order to communicate with the customers,
+interested parties and users active there and to inform them about our services. Social networks (Facebook, "X",
+YouTube and Instagram) are integrated into our applications via plugins (links) to the corresponding services. After
+clicking on the integrated text/image link, you will be redirected to the page of the respective provider. User
+information is only transferred to the respective provider after you have been redirected. For information on the
+handling of your personal data when using these services, please refer to the respective privacy policies of the
+providers you use. When accessing the respective networks and platforms, the terms and conditions and data
+processing guidelines of the respective operators apply. Unless otherwise stated in our privacy policy, we process
+users' data if they communicate with us within the social networks and platforms, e.g. write posts on our online
+presences or send us messages.
+--- [PAGE BREAK] ---
+17. Data transfers to third parties within and outside the EEAR
+Your personal data will not be transferred to third parties for purposes other than those listed below. We only pass
+on your personal data to third parties if:
+1. you have given your express consent in accordance with Art. 6 para. 1 sentence 1 lit. a GDPR,
+2. this is legally permissible and necessary for the processing of contractual relationships with you in
+accordance with Art. 6 para. 1 sentence 1 lit. b GDPR;
+3. the disclosure pursuant to Art. 6 para. 1 sentence 1 lit. f GDPR is necessary for the assertion, exercise or
+defense of legal claims and there is no reason to assume that you have an overriding interest worthy of
+protection in not disclosing your data, and
+4. in the event that there is a legal obligation for disclosure pursuant to Art. 6 para. 1 sentence 1 lit. c GDPR.
+The data transfer in cases a) and b) is based on Art. 28 (3) GDPR in conjunction with the respective data processing
+agreement concluded.
+We may also transfer personal data to countries outside the European Economic Area ("EEA"), e.g. to the USA.
+Insofar as a so-called adequacy decision of the EU exists, we transfer such data on the basis of the relevant
+adequacy decision.
+A limited adequacy decision has recently been introduced for the USA, which only applies to transfers that are
+carried out in accordance with the requirements of the EU-US Data Privacy Framework
+(https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/eu-us-data-
+transfers_en). This permits transfers to companies and bodies in the USA that have been certified in accordance
+with the requirements of the Transatlantic Data Privacy Framework(TADPF
+(https://www.dataprivacyframework.gov/s)). Insofar as we work with companies from the USA and have appropriate
+certification in accordance with the requirements of the TADPF, we transfer the data on the basis of this limited
+adequacy decision for the USA.
+For transfers to other countries and transfers to US companies that are not certified in accordance with the TADPF,
+we have concluded standard data protection clauses of the European Commission, which ensure that an adequate
+level of data protection is guaranteed at all times.
+Otherwise, we only transmit personal data with the express consent of the user.
+In general, however, we cannot protect the user's personal data from access by surveillance or investigative
+authorities in third countries. Rights and protective measures that apply to the processing of data in Europe may
+not be available in third countries, or only to a limited extent.
+---
+19. Rights of data subjects
+Depending on the circumstances of the specific case, you have the following data protection rights:
+•
+•
+• to request access to your personal data and/or copies of this data. This includes information about the
+purpose of use, the category of data used, its recipients and authorized persons and, if possible, the planned
+duration of data storage or, if this is not possible, the criteria for determining this duration;
+to request the rectification, erasure or restriction of the processing of your personal data to the extent that its
+use is unlawful under data protection law, in particular because (i) the data is incomplete or inaccurate, (ii) it
+is no longer necessary for the purposes for which it was collected, (iii) the consent on which the processing
+was based has been withdrawn, or (iv) you have successfully exercised a right to object to data processing;
+in cases where the data is processed by third parties, we will forward your requests for rectification, erasure
+or restriction of processing to these third parties, unless this proves impossible or involves a disproportionate
+effort;
+to refuse consent or - without affecting the lawfulness of the data processing carried out before the
+withdrawal - to withdraw your consent to the processing of your personal data at any time;

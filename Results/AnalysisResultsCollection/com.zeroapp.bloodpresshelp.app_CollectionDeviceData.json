@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "■ Optional Data: You may also choose to enter additional health data points relevant to your Dr.\nBlood Pressure: Diabetes management, such as time of day, medications taken, and notes about\nyour readings. We will only collect this data if you explicitly enter it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "■ Device Data: We collect certain device information to ensure the App functions properly and to improve\nyour experience. This information may include:\n■ Device model (e.g., Pixel 6 Pro)\n■ Operating system (e.g., Android 13)\n■ De-identified crash logs (to identify and fix bugs)",
+      "lang": "English"
+    }
+  ]
+}

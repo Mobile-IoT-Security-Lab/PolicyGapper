@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other info",
+      "policy_reference": "3.3 Identity Data includes first name, last name, username or similar identifier, marital status, title, date of birth and gender. It also includes images of your face and appearance when appearing on video footage or photograph when you attend any of our events.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "3.6 Transaction Data includes details about payments to and from you and other details of services you have purchased from us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "3.7 Technical Data includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access this website.",
+      "lang": "English"
+    }
+  ]
+}

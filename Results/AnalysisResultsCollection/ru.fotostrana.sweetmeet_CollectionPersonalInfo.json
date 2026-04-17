@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "The Client can connect the Client's account to a social network (including but not limited to Facebook) by way of registering through the corresponding social network. After connecting the Client's account in a social network, the Client would be able to add the personal information from the Client's profile in the corresponding social network to the Client's profile in the Service. The following information could be received by the Client from the social network: the Client's name, ID within the respective social network, photo, email address, IP address, phone number, age, gender, preferred language, country, information about the Client's device, location, list of friends in the social network, data on the use of other networks (as contained in the respective social network). By connecting the Client's account with the Company to a social network, the Client gives explicit consent to the processing of the Client's Personal Data contained in the Client's account in the respective social network.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Some of the information provided by the Client may be referred to as belonging to Special categories of Personal Data, pursuant to legislation of certain jurisdictions within the EU, such as the Client's racial or ethnic origin, sexual orientation, political opinions or religious or philosophical beliefs. By placing such information in the Client's account, the Client consents to the processing of the information by the Service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Some of the information provided by the Client may be referred to as belonging to Special categories of Personal Data, pursuant to legislation of certain jurisdictions within the EU, such as the Client's racial or ethnic origin, sexual orientation, political opinions or religious or philosophical beliefs. By placing such information in the Client's account, the Client consents to the processing of the information by the Service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "When completing the Client's profile, the Client could provide additional information, such as details on the Client's physical characteristics (including height, weight, body type and sexual preferences), background (including education, financial situation, housing situation and ownership of a vehicle), personality (including purpose of acquaintance, sociability and attitude towards children), lifestyle (including attitude towards alcohol and smoking), date of birth, interests and other details about the Client, as well as content, such as pictures and photos.",
+      "lang": "English"
+    }
+  ]
+}

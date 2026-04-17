@@ -1,0 +1,84 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Like most online services, we use cookies and similar tracking technologies in our app and website to store preferences and gather analytics data. For example, cookies help us keep you logged in on our web portal and remember your choices. We also use cookies or mobile SDKs to analyze how users interact with our Services (e.g., which features are most used) and to customize your experience. You can manage cookie preferences via our website's cookie settings or your browser settings. For mobile app analytics, you can reset your advertising identifier or opt out of personalized ads in your device settings. For more information, please see our Cookie Policy.",
+      "justification": "The policy states that mobile SDKs are used to analyze how users interact with the app. This analytics data is sent off-device and is considered 'collected' under Google Play's policy.",
+      "how_to_fix": "Declare the collection of 'App interactions' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Al Features Comera Souq may offer Al-driven features, such as an Al chatbot or smart assistant. If you choose to use these features, the content you input (e.g. your chatbot queries or messages) will be processed by the Al service provider to generate responses.",
+      "justification": "The policy states that user queries to the AI chatbot are sent to and processed by an external AI service provider. This off-device transmission constitutes data collection.",
+      "how_to_fix": "Declare the collection of 'In-app search history' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When creating a Comera account, you provide your mobile phone number and a profile name or nickname. You may also add an optional profile photo and status message to your profile.",
+      "justification": "The policy states that users can add a status message to their profile. This user-generated content is sent off-device to be stored on your servers and must be declared as collected.",
+      "how_to_fix": "Declare the collection of 'Other user-generated content' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you contact Comera for support or otherwise communicate with us, you may provide us with your name, email address, and the content of your inquiry. We will retain such correspondence and information as needed to respond and resolve your issue, consistent with this Policy.",
+      "justification": "The policy explicitly states that email addresses are collected and retained when users contact support. This data is sent off-device to the developer and is considered 'collected'.",
+      "how_to_fix": "Declare the collection of 'Email address' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "If you share your location in a chat, we will collect and transmit your geolocation to your chosen contacts with your permission; we do not track your location in the background or use your location for any other purpose without consent.",
+      "justification": "The policy states that geolocation data is collected and transmitted off-device when a user shares their location. This transmission means the data is 'collected' and must be declared.",
+      "how_to_fix": "Declare the collection of 'Precise location' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may collect information such as your name, billing address, and transaction details (item purchased, amount, date and time). This information is used to process your order, provide you with customer support, and comply with financial record-keeping requirements.",
+      "justification": "The policy states that the user's billing address is collected to process orders. This information is sent off-device and is considered 'collected' under Google Play's policy.",
+      "how_to_fix": "Declare the collection of 'Address' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may collect information such as your name, billing address, and transaction details (item purchased, amount, date and time). This information is used to process your order, provide you with customer support, and comply with financial record-keeping requirements.",
+      "justification": "The policy states that transaction details, which constitute purchase history, are collected to process orders. This data is sent off-device and must be declared as 'collected'.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We do not store your full credit/debit card numbers on Comera's servers. Such financial details are transmitted directly to our payment processor via secure encryption and handled in accordance with industry security standards (e.g., PCI-DSS). The payment provider may return to us a token or reference number which we store to keep track of your purchase.",
+      "justification": "The policy states that a payment token or reference number is received from a payment processor and stored on your servers. This token is considered 'User payment info' and its collection must be declared.",
+      "how_to_fix": "Declare the collection of 'User payment info' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "3.1.1. Account Information: When creating a Comera account, you provide your mobile phone number and a profile name or nickname. You may also add an optional profile photo and status message to your profile.",
+      "justification": "The policy states that users can add a profile photo. This photo is uploaded and stored on your servers, which constitutes data collection and must be declared.",
+      "how_to_fix": "Declare the collection of 'Photos' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "3.1.4. User Communications: When you contact Comera for support or otherwise communicate with us, you may provide us with your name, email address, and the content of your inquiry. We will retain such correspondence and information as needed to respond and resolve your issue, consistent with this Policy.",
+      "justification": "The policy states that the content of user inquiries (emails) is collected and retained for support. This data is sent off-device to the developer and is considered 'collected'.",
+      "how_to_fix": "Declare the collection of 'Emails' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "6.2.2. Al Features Comera Souq may offer Al-driven features, such as an Al chatbot or smart assistant. If you choose to use these features, the content you input (e.g. your chatbot queries or messages) will be processed by the Al service provider to generate responses.",
+      "justification": "The policy states that user messages to the AI chatbot are sent to and processed by an external AI service provider. This off-device transmission constitutes data collection.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

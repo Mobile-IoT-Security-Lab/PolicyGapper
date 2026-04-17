@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "How are User's Name, User's Avatar and User's ID used?\nOur Game does not require you to provide your real name or upload your own image. Having a User's Name and User's Avatar is\nrequired, but if you do not want to provide them, they will be generated automatically. If you wish to personalize your account, you\nhave the option of providing us with a User's Name yourself, unless it is already used by another player in our Game. If you do this,\nwe will process your User's Name and User's Avatar, but you can delete or change them at any time. Also, to minimize the personal\ndata we process, we assign a User's ID to your account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "As we do not collect the data when you make in-app purchases within our Game directly, in order to better process you refund\nrequests we have to obtain your consent for this data collection and processing as well as for transfer thereof to our payment's\nagents.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• \"Location Information\" - general information about your location (without information about the exact geolocation) at the time\nwhen you are playing Game (for example, IP address, country and city).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "In order to serve you ads that may be of interest to you (\"Targeted Advertising\"), Advertising Partners collect and use your\nAdvertising ID, Location Information, and Device Information. If location services are enabled in your Device settings, Advertising\npartners may additionally collect data about your geolocation.",
+      "lang": "English"
+    }
+  ]
+}

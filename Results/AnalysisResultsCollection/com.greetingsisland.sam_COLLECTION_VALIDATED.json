@@ -1,0 +1,98 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Data received from you: you may provide us personal data voluntarily, such as your name and e-mail address when you contact us, your hashed password, your content and images (including details regarding your events or other announcements, if you choose to submit them as you use the Services), when you post on our public forums or groups, when you sign-up to receive e-mail updates, when you place any purchases via our Services, or when you choose to connect your Facebook, Google, or Apple account to our Services. You may also provide us with personal data of your Recipients, such as their names and e-mail addresses, so that you can use our Services to contact and send them content and invitations you uploaded to and created through the Services; and in such cases, we may collect additional information concerning such Recipients (including, for example, analytics data concerning their interactions with the content and invitations you sent them, their phone number, and their responses to such invitations – all on your behalf of course, so you can better manage your events).",
+      "justification": "The privacy policy states that user-generated content, such as content, images, and posts on public forums, is collected when users submit them through the Services.",
+      "how_to_fix": "Declare 'Other user-generated content' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Data automatically collected or generated: when someone visits, interacts with or uses our Services, including any e-mail or text messages sent to them by us or via our Services, we may collect or generate technical data about them. We collect or generate such data either independently or with the help of third-party services (as detailed in Sections 5 below). Such data consists of connectivity, technical or aggregated usage data, such as IP address, device advertiser ID, non-identifying data regarding the device, operating system, browser version, locale and language settings used, the cookies and pixels installed on such device, and the activity (clicks and other interactions) of Users within our Services.",
+      "justification": "The privacy policy states that technical data, including IP address and device advertiser ID, is automatically collected when users interact with the Services.",
+      "how_to_fix": "Declare 'Device or other IDs' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Data received from Facebook, Google and other channels: If you choose to connect your Facebook, Google, or Apple account to our Services, we will receive access to your full name and user ID on Facebook, Google, or Apple. You may also choose to allow us to access your images saved on such services, so that you could fetch these images and use them on our Services. Such access will also allow us to collect the following parameters (to the extent available there and only if you defined them as \"public\"): your profile picture, gender, date of birth, comments on our company page, tags and tagged pictures, locale and time zone. In addition, we or our advertising partners may receive from Facebook, Google and our other marketing channels general information concerning the performance of our advertising campaigns, such as the targeted age group or interests, and we or our partners may be able to link such general data to any other data in our possession.",
+      "justification": "The privacy policy states that when a user connects their Facebook, Google, or Apple account, the app receives their user ID from that service.",
+      "how_to_fix": "Declare 'User IDs' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Transaction Data: Our Services allow you to place purchases. Currently all purchases must be completed either with a credit card or via PayPal, which will then provide us with limited data concerning your order. We will not collect or store your financial data, e.a.. your credit card numbers or bank account. However, we may still receive your n financial personal data related to your order, such as your name, PayPal username, mail, billing and shipping address, the items purchased and paid amount, in order to fulfil your purchase and for our accounting purposes.",
+      "justification": "The privacy policy states that for transaction fulfillment, the app may receive the user's billing and shipping address.",
+      "how_to_fix": "Declare 'Address' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Data received from you: you may provide us personal data voluntarily, such as your name and e-mail address when you contact us, your hashed password, your content and images (including details regarding your events or other announcements, if you choose to submit them as you use the Services), when you post on our public forums or groups, when you sign-up to receive e-mail updates, when you place any purchases via our Services, or when you choose to connect your Facebook, Google, or Apple account to our Services. You may also provide us with personal data of your Recipients, such as their names and e-mail addresses, so that you can use our Services to contact and send them content and invitations you uploaded to and created through the Services; and in such cases, we may collect additional information concerning such Recipients (including, for example, analytics data concerning their interactions with the content and invitations you sent them, their phone number, and their responses to such invitations – all on your behalf of course, so you can better manage your events).",
+      "justification": "The privacy policy states that the app may collect the phone numbers of recipients when users send them content or invitations through the Services.",
+      "how_to_fix": "Declare 'Phone number' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Data received from Facebook, Google and other channels: If you choose to connect your Facebook, Google, or Apple account to our Services, we will receive access to your full name and user ID on Facebook, Google, or Apple. You may also choose to allow us to access your images saved on such services, so that you could fetch these images and use them on our Services. Such access will also allow us to collect the following parameters (to the extent available there and only if you defined them as \"public\"): your profile picture, gender, date of birth, comments on our company page, tags and tagged pictures, locale and time zone. In addition, we or our advertising partners may receive from Facebook, Google and our other marketing channels general information concerning the performance of our advertising campaigns, such as the targeted age group or interests, and we or our partners may be able to link such general data to any other data in our possession.",
+      "justification": "The privacy policy states that when connecting a social media account, the app may collect other information such as profile picture, gender, and date of birth.",
+      "how_to_fix": "Declare 'Other info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Transaction Data: Our Services allow you to place purchases. Currently all purchases must be completed either with a credit card or via PayPal, which will then provide us with limited data concerning your order. We will not collect or store your financial data, e.a.. your credit card numbers or bank account. However, we may still receive your n financial personal data related to your order, such as your name, PayPal username, mail, billing and shipping address, the items purchased and paid amount, in order to fulfil your purchase and for our accounting purposes.",
+      "justification": "The privacy policy states that while full financial data is not stored, it receives payment-related information like PayPal username, items purchased, and paid amount to fulfill orders.",
+      "how_to_fix": "Declare 'User payment info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transaction Data: Our Services allow you to place purchases. Currently all purchases must be completed either with a credit card or via PayPal, which will then provide us with limited data concerning your order. We will not collect or store your financial data, e.a.. your credit card numbers or bank account. However, we may still receive your n financial personal data related to your order, such as your name, PayPal username, mail, billing and shipping address, the items purchased and paid amount, in order to fulfil your purchase and for our accounting purposes.",
+      "justification": "The privacy policy states that it receives transaction data, including the items purchased and the amount paid, to fulfill orders.",
+      "how_to_fix": "Declare 'Purchase history' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "For the purposes of the CCPA, in the last 12 months, we have collected the following categories of Personal Information, as defined in the CCPA: Identifiers; Customer Record Information; Internet or other electronic network activity information; Commercial Information; Geolocation Data; Inferences; and Audio, electronic, visual, thermal, olfactory information. Greetings Island does not collect sensitive personal information.",
+      "justification": "The privacy policy, in its CCPA section, explicitly lists 'Geolocation Data' as a category of Personal Information collected.",
+      "how_to_fix": "Declare 'Approximate location' and/or 'Precise location' in your app's Data Safety section on Google Play, depending on the specificity of the data collected.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Data received from you: you may provide us personal data voluntarily, such as your name and e-mail address when you contact us, your hashed password, your content and images (including details regarding your events or other announcements, if you choose to submit them as you use the Services), when you post on our public forums or groups, when you sign-up to receive e-mail updates, when you place any purchases via our Services, or when you choose to connect your Facebook, Google, or Apple account to our Services. You may also provide us with personal data of your Recipients, such as their names and e-mail addresses, so that you can use our Services to contact and send them content and invitations you uploaded to and created through the Services; and in such cases, we may collect additional information concerning such Recipients (including, for example, analytics data concerning their interactions with the content and invitations you sent them, their phone number, and their responses to such invitations – all on your behalf of course, so you can better manage your events).",
+      "justification": "The privacy policy states that users can create and send content and invitations to recipients through the Services, which constitutes in-app messaging.",
+      "how_to_fix": "Declare 'Other in-app messages' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "For the purposes of the CCPA, in the last 12 months, we have collected the following categories of Personal Information, as defined in the CCPA: Identifiers; Customer Record Information; Internet or other electronic network activity information; Commercial Information; Geolocation Data; Inferences; and Audio, electronic, visual, thermal, olfactory information. Greetings Island does not collect sensitive personal information.",
+      "justification": "The privacy policy, in its CCPA section, explicitly lists 'Audio...information' as a category of Personal Information collected.",
+      "how_to_fix": "Declare 'Voice or sound recordings' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "For the purposes of the CCPA, in the last 12 months, we have collected the following categories of Personal Information, as defined in the CCPA: Identifiers; Customer Record Information; Internet or other electronic network activity information; Commercial Information; Geolocation Data; Inferences; and Audio, electronic, visual, thermal, olfactory information. Greetings Island does not collect sensitive personal information.",
+      "justification": "The privacy policy, in its CCPA section, explicitly lists 'Audio...information' as a category of Personal Information collected.",
+      "how_to_fix": "Declare 'Other audio files' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Data received from you: you may provide us personal data voluntarily, such as your name and e-mail address when you contact us, your hashed password, your content and images (including details regarding your events or other announcements, if you choose to submit them as you use the Services), when you post on our public forums or groups, when you sign-up to receive e-mail updates, when you place any purchases via our Services, or when you choose to connect your Facebook, Google, or Apple account to our Services. You may also provide us with personal data of your Recipients, such as their names and e-mail addresses, so that you can use our Services to contact and send them content and invitations you uploaded to and created through the Services; and in such cases, we may collect additional information concerning such Recipients (including, for example, analytics data concerning their interactions with the content and invitations you sent them, their phone number, and their responses to such invitations – all on your behalf of course, so you can better manage your events).",
+      "justification": "The privacy policy states that users may provide personal data of their recipients, such as names and e-mail addresses, to use the Services to contact them.",
+      "how_to_fix": "Declare 'Contacts' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

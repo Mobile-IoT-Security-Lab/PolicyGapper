@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Using the service generates data about your activity, including how you use it (e.g., when you logged in, features you've been using, actions taken, information shown to you, referring webpages, ads you interacted with) and how you interact with others (e.g., searching, matching, communicating). We may also receive data related to interactions you had with our ads on third party's websites or apps.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Using the service generates data about your activity, including how you use it (e.g., when you logged in, features you've been using, actions taken, information shown to you, referring webpages, ads you interacted with) and how you interact with others (e.g., searching, matching, communicating). We may also receive data related to interactions you had with our ads on third party's websites or apps.",
+      "lang": "English"
+    }
+  ]
+}

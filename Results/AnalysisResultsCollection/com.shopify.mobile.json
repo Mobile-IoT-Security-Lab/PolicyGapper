@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "| • Information you voluntarily disclose that may reveal certain characteristics about you such as your racial or ethnic origin or sexual orientation | |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "| • Information you voluntarily disclose that may reveal certain characteristics about you such as your racial or ethnic origin or sexual orientation | |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "| • Other information you provide; and | |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "| • Commercial information, including products you purchase, place in your shopping cart, favorite or review (if you are a customer) and information you provide us about | • Merchants whose shops you visit or make purchases from; |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "| • Geolocation data, including your mailing and billing address; | |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "| • Your device's precise location (if you are a Shop App user, but only when you allow Shop to access this information); | |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "| • The contents of email messages in the email inboxes that you connect to your Shop account, and information from email messages you transfer to the app to be included in your order history (if you use Shop). | |",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "You: We collect the information you provide when you use our platform, including when you sign up for Shopify as a merchant, visit a Shopify-powered store, fill in order information, visit one of Shopify's websites or contact Shopify support. We collect account and payment information you provide to us (including information about your business if you are a merchant), Shopify stores or items you save to favorites, purchases you make, reviews you post, and how you otherwise interact or communicate with stores or other users on our apps or services. We also collect information about how you browse through our apps and sites, including search terms you may enter.",
+      "lang": "en"
+    }
+  ]
+}

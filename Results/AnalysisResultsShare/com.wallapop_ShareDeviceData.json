@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Only when you provide us with your express consent through our consent management platform, we will share some personal data with Partners (such as Google Ireland Limited, Amazon Ad Server, Magnite, Inc or LiveRamp France) with the strict purpose of ads targeting and delivery. You can check the full list of Partners and gather further information about the processing of your personal data in the Partners' own privacy policies linked in our consent management platform accessible through the following link.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Only when you provide us with your express consent through our consent management platform, we will share some personal data with Partners (such as Google Ireland Limited, Amazon Ad Server, Magnite, Inc or LiveRamp France) with the strict purpose of ads targeting and delivery. You can check the full list of Partners and gather further information about the processing of your personal data in the Partners' own privacy policies linked in our consent management platform accessible through the following link.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Only when you provide us with your express consent through our consent management platform, we will share some personal data with Partners (such as Google Ireland Limited, Amazon Ad Server, Magnite, Inc or LiveRamp France) with the strict purpose of ads targeting and delivery. You can check the full list of Partners and gather further information about the processing of your personal data in the Partners' own privacy policies linked in our consent management platform accessible through the following link.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "In order to fulfill the purposes indicated in this privacy policy, it is necessary for us to provide access to your personal data and to third parties that support us in the services we offer you, among which are: financial entities, tax and fraud prevention entities, government agencies, technology service providers, transport and logistics service providers and partners, marketing and advertising companies, and customer service and complaint or claim management companies.",
+      "lang": "English"
+    }
+  ]
+}

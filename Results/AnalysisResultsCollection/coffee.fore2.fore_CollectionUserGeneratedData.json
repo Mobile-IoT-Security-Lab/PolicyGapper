@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "Your profile information. You give us information when you register your account on the Platform, including your username, password, gender, date of birth, email address, mobile number, and/or photograph, and any other information you disclose in your account profile.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "Your profile information. You give us information when you register your account on the Platform, including your username, password, gender, date of birth, email address, mobile number, and/or photograph, and any other information you disclose in your account profile.",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "Your phone contacts. If you choose to sync your phone contacts, we will access and collect information such as names, phone numbers, and email addresses, and match that information against existing users of the Platform.",
+"lang": "en"
+}
+]
+}

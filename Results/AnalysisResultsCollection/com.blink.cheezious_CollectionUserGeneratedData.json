@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "When you sign up to become a Registered User or enter a promotion or our referral program, you may be required to provide us with some personal information (the \"Personal Information\") about yourself, such as your name, address, phone number, and e-mail address. We may also collect information regarding your business, such as your company name, business type and industry, corporate registration details and information about your business license.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We will process any information provided to us in connection with disputes or to support complaints in connection with the Platform or Services acquired via the Platform. Please note, Users may submit complaints regarding the Services on the Platform, we will process the data provided to us by you that is relevant to the disputes or complaints submitted.",
+      "lang": "en"
+    }
+  ]
+}

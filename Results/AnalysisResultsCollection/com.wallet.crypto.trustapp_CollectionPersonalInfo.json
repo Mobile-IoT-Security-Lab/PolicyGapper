@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We process your Wallet Information and Transaction Information to deliver self-custody crypto wallet services and to facilitate, execute, and manage the transactions you request. Our legal basis for this processing is that it is essential for the performance of a contract of which you are a party.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you use our self-custody wallet or visit our website, your IP address may be processed on a transient basis. This limited processing is used solely (a) to route traffic and facilitate service localization in accordance with regulatory requirements, and (b) to establish secure connections with third-party platforms (e.g., Coinbase) when you choose to connect with them. In such cases, your IP address may be briefly shared with the relevant platform only for generating security and authentication tokens to safeguard your account and transactions. Your privacy remains protected at all times, and we do not log, retain or otherwise access your IP address beyond these temporary uses.",
+      "lang": "English"
+    }
+  ]
+}

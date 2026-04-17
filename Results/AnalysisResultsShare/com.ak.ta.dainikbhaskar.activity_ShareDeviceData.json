@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may use cookies to personalize content and advertisements, to provide social media features and to analyze our traffic. We may also share information about your use of our Services with our social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We may use cookies to personalize content and advertisements, to provide social media features and to analyze our traffic. We may also share information about your use of our Services with our social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may use cookies to personalize content and advertisements, to provide social media features and to analyze our traffic. We may also share information about your use of our Services with our social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We may use cookies to personalize content and advertisements, to provide social media features and to analyze our traffic. We may also share information about your use of our Services with our social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may use cookies to personalize content and advertisements, to provide social media features and to analyze our traffic. We may also share information about your use of our Services with our social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may use cookies to personalize content and advertisements, to provide social media features and to analyze our traffic. We may also share information about your use of our Services with our social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services.",
+      "lang": "English"
+    }
+  ]
+}

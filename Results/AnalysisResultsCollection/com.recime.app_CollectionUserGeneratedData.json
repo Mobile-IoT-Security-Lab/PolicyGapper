@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "• Records of communications and dealings with you, such as emails, text, SMS, chat, telephone, and in-person communications",
+"lang": "en"
+},
+{
+"data_type": "SMS or MMS",
+"policy_reference": "• Records of communications and dealings with you, such as emails, text, SMS, chat, telephone, and in-person communications",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "• Records of communications and dealings with you, such as emails, text, SMS, chat, telephone, and in-person communications",
+"lang": "en"
+}
+]
+}

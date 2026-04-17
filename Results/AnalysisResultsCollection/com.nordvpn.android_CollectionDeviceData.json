@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Customer support inquiries. We keep the information that you provide to our customer support team that was necessary to resolve the query. Depending on what information is necessary, it can consist of, but not limited to: payment information for customer verification processes, your country name, information of your OS, local application logs, etc.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We sometimes may process your personal data under the legal basis of our or third parties' legitimate interest. Such cases include: i) to properly administer business communication with you; ii) to detect, prevent, or otherwise address fraud, abuse, security, or technical issues with our Services and Websites; iii) to protect against harm to the rights, property, and safety of Nord, our users, or third parties; iv) to improve or maintain our Services and provide new products and features; v) to receive knowledge of how our Websites and applications are being used (crash reports, app store reviews, information about the channel from which our app was downloaded, etc.).",
+      "lang": "English"
+    }
+  ]
+}

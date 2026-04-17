@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The provision of your Personal Data is voluntary. However, if you do not provide the Company your Personal Data, the Company will not be able to process your Personal Data for the following purposes:\n1. To provide you access to the Company's services and to validate your bookings;\n2. To improve the overall user experience when using the application from data collected based on your individual needs;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "You provide us Personal Data directly when you:\n1. Create an Account by filling out our online Signup Form through the Company website or through the Company mobile application.\n2. Get in touch with the Company to ask about something, file a complaint or request for service;\n3. When you apply for job with the Company.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "To provide you with a more personalized and responsive service, the Company needs to remember and store information about how you use the Company's website through the use of cookies. Whenever you use the Company's website, information may be collected using cookies and other technologies. By using the website, you agree to the Company's use of cookies as described in this Cookie Policy.",
+      "lang": "English"
+    }
+  ]
+}

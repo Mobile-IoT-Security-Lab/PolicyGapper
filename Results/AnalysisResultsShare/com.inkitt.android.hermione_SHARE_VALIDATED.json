@@ -1,0 +1,15 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Sentry, operated by Functional Software Inc., 45 Fremont St, San Francisco, California 94105, USA, for the purpose of error tracking. Your device, operating system, visitor_id, country, release version, url, and user ID will be processed via servers in the US and Europe. For more information, please refer to the privacy policy for Sentry at: https://sentry.io/privacy/#eu-us-privacy-shield",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states Sentry is used 'for the purpose of error tracking'. This indicates Sentry is acting as a service provider, processing data on the developer's behalf to provide a core app function, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "",
+      "lang": "English"
+    }
+  ]
+}
+```

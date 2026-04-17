@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of our website and mobile application and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by InstaVision and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Your device may also include a feature ( \"Limit Ad Tracking\" on iOS, or \"Opt Out of Interest-Based Ads\" or \"Opt Out of Ads Personalization\" on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.",
+      "lang": "English"
+    }
+  ]
+}

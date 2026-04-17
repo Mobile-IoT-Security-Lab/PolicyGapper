@@ -1,0 +1,24 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "Communication Data: If you communicate with us, such as by email, by our webpages, or on social media sites, we may collect personal information that you submit to us including your name, user name, email address, any other information you voluntarily choose to provide us, and the contents of messages you send.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.",
+"lang": "en"
+}
+]
+}

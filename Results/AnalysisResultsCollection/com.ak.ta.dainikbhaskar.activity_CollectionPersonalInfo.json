@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you register for our Services using your web accounts like Google, FB, email login, or any similar services, we retrieve the following Information from your account(s) to continue to interact with you and to continue providing you the Services. Information that we collect include -\n■ User Name\n■ E-mail id\n■ Age\n■ Gender",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may collect additional information at other times, when you provide feedback(s), modify your content or email preferences, respond to surveys, participate in contests, or communicate with us by posting a comment on our Services or asking us a question through our e-mail. This information may include Personal Information such as, but not limited to, your name, email, mobile number, comment, postal address etc.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Based on Your purchase of a subscription package, our payment gateway partners including, but not limited to, RazorPay Software Private Limited or other partner whom we may appoint for the purpose in future, may collect information with respect to your payment details including, but not limited to credit/debit card details or other bank account details, UPI details or wallet details along with your billing address. This information is stored by our payment gateway partners. For instance, DBCL will be using third party payment gateway partners to process and facilitate the payment of your subscription fee to DBCL for providing you access to the subscription. Please note that the DBCL does not directly collect any financial information including, but not limited to credit/debit card details or other bank account details, UPI details or wallet details from you. Such payment gateway partners are not controlled by us. When you visit such payment gateways you do so at your own risk. These payment gateways may have their own privacy policies in place, which we recommend you review if you visit any such payment gateways. We do not assume any responsibility or liability for such payment gateways, the content of such payment gateways and their privacy practices, nor do we endorse them. We encourage you to familiarize yourself with the privacy statements provided by such payment gateways prior to providing them with information about you or entering into any transactions with them.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "When you enroll for any subscription we may collect the following information from you:\n■ Full Name\n■ Email ID\n■ Mobile No.\n■ State\n■ Country\n■ IP Address",
+      "lang": "English"
+    }
+  ]
+}

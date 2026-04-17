@@ -1,0 +1,79 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "3 \"Tap\" behaviour information when you use and operate FlashGet (e.g. the behaviour of tapping \"File Transferring\" button, \"Apps\", \"Backup\" button, etc.) | • Develop new Services • Improve our Services • Statistical analysis",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "6 Information when you communicate with us whether in person, through our websites, via email, through other feedback channels provided by us, including: • Your contact details (this may include your social media account if that is the way you communicate with us) • The details of your communications with us • Log files you submitted from within FlashGet for product support | • Answer any issues or concerns • Monitor customer communications for quality improvement and training purposes • Develop new services • Improve our Services • Personalise our Services • Troubleshoot",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "6 Information when you communicate with us whether in person, through our websites, via email, through other feedback channels provided by us, including: • Your contact details (this may include your social media account if that is the way you communicate with us) • The details of your communications with us • Log files you submitted from within FlashGet for product support | • Answer any issues or concerns • Monitor customer communications for quality improvement and training purposes • Develop new services • Improve our Services • Personalise our Services • Troubleshoot",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "2 When you access and use our Services, we will collect: • IP address • Your account settings • Your account preferences • Device information, such as your IMEI, IMSI, MAC, Android ID, operating system version, system language, CPU model, memory, hard disk and its usage, etc. | • Provision of Services • Identify issues with our Services • Improve our Services",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "5 Information on transaction, e.g. when you purchase our Services | • Complete the transaction • Store as transaction history for future reference",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "5 Information on transaction, e.g. when you purchase our Services | • Complete the transaction • Store as transaction history for future reference",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "| 1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience |",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "| 6 Information when you communicate with us whether in person, through our websites, via email, through other feedback channels provided by us, including: • Your contact details (this may include your social media account if that is the way you communicate with us) • The details of your communications with us • Log files you submitted from within FlashGet for product support | • Answer any issues or concerns • Monitor customer communications for quality improvement and training purposes • Develop new services • Improve our Services • Personalise our Services • Troubleshoot |",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "| 6 Information when you communicate with us whether in person, through our websites, via email, through other feedback channels provided by us, including: • Your contact details (this may include your social media account if that is the way you communicate with us) • The details of your communications with us • Log files you submitted from within FlashGet for product support | • Answer any issues or concerns • Monitor customer communications for quality improvement and training purposes • Develop new services • Improve our Services • Personalise our Services • Troubleshoot |",
+      "lang": "en"
+    }
+  ]
+}

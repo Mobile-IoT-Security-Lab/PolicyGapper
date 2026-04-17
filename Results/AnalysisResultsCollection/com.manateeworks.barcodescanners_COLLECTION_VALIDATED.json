@@ -1,0 +1,127 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Our website uses Google Analytics to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. You can \"opt-out\" of this web-site analysis tool by downloading and installing the Google Analytics opt-out browser add-on at https://tools.google.com/dlpage/gaoptout.\n(https://tools.google.com/dlpage/gaoptout)",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Occasionally you may be asked to give us more specific information about yourself, such as when you download software, register for a seminar or other event, respond to a survey, interact with the chat function on our website, enter a contest from our website, and register at the customer portal. Supplying such information to us is optional, but you may be unable to complete certain transactions without giving such information.",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Our website uses Google Adwords Conversion Tracking which uses cookies to help us determine how many people who clicked on our Google Ads end up contacting us through the website. This tracking cookie is set on your browser only when you click on a Google Ad and these cookies help us increase the website's effectiveness for our visitors. These cookies expire within 30 days and do not contain information that can identify you personally. Please refer to the Google Advertising Privacy Notice\n(http://www.google.com/policies/technologies/ads/) for more information about Google Conversion Tracking and the ability to opt out.",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Cognex uses Google AdWords Remarketing to advertise online using text or image ads. Remarketing is a feature that lets us reach people who have previously visited our website, and show them relevant ads when they visit other websites. Google use cookies to serve ads based on a user's prior visits to our website. For this purpose third party advertising provider cookies are set when you visit our website. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page\n(https://www.google.com/settings/ads/).",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Cognex uses the services of Salesforce Marketing Cloud Account Engagement to help us measure and analyze the effectiveness of our website and how visitors use www.cognex.com (https://www.cognex.com/). Account Engagement tracks visitor and prospect activities on our website by setting cookies on their browsers. Cookies are set to remember preferences (like form field values) when a visitor returns to our site, the pages visited and navigation patterns, which helps us learn how visitors use our website, and what information is of the most interest to our customers and visitors to our website. Once consent is provided, through a form submission by the visitor, we can associate a visitor's ID to individual characteristics and past behavior. See more at: https://www.salesforce.com/ap/company/privacy/\n(https://www.salesforce.com/ap/company/privacy/)",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Our web server collects IP addresses to obtain certain aggregate information concerning the use of our website. An IP address is a number that is automatically assigned to your computer whenever you're surfing the web. We do not link IP addresses to any personally identifiable information. Therefore, you can remain anonymous when you visit our website.",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Cognex respects your privacy and recognizes your need for appropriate protection and management of any\npersonally identifiable information you share with us (any information by which you can be identified, such as\nname, address, and telephone number). That is why Cognex has established this privacy policy (this\n\"General Website Privacy Policy\") – so that you can understand the care with which we will treat your\ninformation.",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "From time to time, Cognex may contact you via phone, email, or postal mail\nto notify you of various products and services. If you do not want to receive such communication,\nsimply tell us when you provide your personal information. You can easily opt-out of receiving further\nmarketing information from Cognex by unsubscribing (https://go.cognex.com/email-unsubscribe) at any time.",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Certain features, resources or services offered on or through the website may require You to register for an account (including setting up a username and password) for which You agree to: (a) provide true, accurate and complete information as prompted by the website's registration forms; and (b) maintain and promptly update such information to keep it true, accurate, current and complete. You agree that all information you provide to register with this website or otherwise, including, but not limited to, through the use of any interactive features on the website, is governed by our Privacy Policy (https://www.cognex.com/privacy-\npolicy), and You consent to all actions we take with respect to your information consistent with our Privacy Policy. Without limiting any other matter contained herein, access to or use of the website may be suspended or terminated if Cognex reasonably believes any account information is false, inaccurate or incomplete. If You choose, or are provided with, a username, password as part of our security procedures, You must treat such information as confidential, and you must not disclose it to any other person or entity. You are responsible for maintaining the confidentiality of your account information including your password (or other identifying information), and are solely responsible for all activities that occur under your account. You may not assign or transfer your account to any other person or entity without Cognex's prior written consent. You will not allow anyone else to use your account or password to access the website at any time. You agree to immediately notify Cognex of any unauthorized access to your account or password, or any other breach of security of which you become aware. You may be held liable for losses incurred by Cognex or other users of or visitor to the website due to someone else accessing the website using your account. Cognex will not be held liable for any loss or damage arising from a your failure to comply with these obligations. We have the right to disable any username, password, or other identifier, whether chosen by You or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, You have violated any provision of these Terms.",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Cognex respects your privacy and recognizes your need for appropriate protection and management of any\npersonally identifiable information you share with us (any information by which you can be identified, such as\nname, address, and telephone number). That is why Cognex has established this privacy policy (this\n\"General Website Privacy Policy\") – so that you can understand the care with which we will treat your\ninformation.",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Cognex respects your privacy and recognizes your need for appropriate protection and management of any\npersonally identifiable information you share with us (any information by which you can be identified, such as\nname, address, and telephone number). That is why Cognex has established this privacy policy (this\n\"General Website Privacy Policy\") – so that you can understand the care with which we will treat your\ninformation.",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Advertising/targeting - Use an identification number to monitor personal preferences for the\npurposes of personalizing pages and gathering further information. For example, presenting adverts or\npromotions for products similar to those previously viewed or purchased.",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Our web server collects IP addresses to obtain certain aggregate information concerning the use of our\nwebsite. An IP address is a number that is automatically assigned to your computer whenever you're surfing\nthe web. We do not link IP addresses to any personally identifiable information. Therefore, you can remain\nanonymous when you visit our website. Occasionally you may be asked to give us more specific information\nabout yourself, such as when you download software, register for a seminar or other event, respond to a\nsurvey, interact with the chat function on our website, enter a contest from our website, and register at the\ncustomer portal. Supplying such information to us is optional, but you may be unable to complete certain\ntransactions without giving such information.",
+      "reason_of_removal": "Exempt - Data collected on website, not the app",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "From time to time, Cognex may contact you via phone, email, or postal mail to notify you of various products and services. If you do not want to receive such communication, simply tell us when you provide your personal information. You can easily opt-out of receiving further marketing information from Cognex by unsubscribing (https://go.cognex.com/email-unsubscribe) at any time.",
+      "reason_of_removal": "Inconsistent - Policy does not mention collection of email content",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Our web server collects IP addresses to obtain certain aggregate information concerning the use of our website. An IP address is a number that is automatically assigned to your computer whenever you're surfing the web. We do not link IP addresses to any personally identifiable information. Therefore, you can remain anonymous when you visit our website. Occasionally you may be asked to give us more specific information about yourself, such as when you download software, register for a seminar or other event, respond to a survey, interact with the chat function on our website, enter a contest from our website, and register at the customer portal. Supplying such information to us is optional, but you may be unable to complete certain transactions without giving such information.",
+      "reason_of_removal": "Inconsistent - Policy refers to website chat, not in-app messages",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "en"
+    }
+  ]
+}
+```

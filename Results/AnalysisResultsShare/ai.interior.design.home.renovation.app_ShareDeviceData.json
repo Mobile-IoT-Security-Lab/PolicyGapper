@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "To enhance our services and advertising effectiveness, we use Google Signal (provided by Google). Google Signal collects and analyzes the following types of data to help us optimize ad targeting and user experience:\n• User behavior data: This includes, but is not limited to, user interactions within our product, such as clicks, page views, session duration, and other usage data.\n• Device information: Includes data such as device type, operating system version, IP address, browser type, and similar technical details.\n• Ad interaction data: Includes information related to ad impressions, clicks, conversions, and other metrics used to evaluate the effectiveness of our advertising campaigns.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Information we collect automatically through the use of technology. When\nyou visit our website, use our mobile app, read our emails or otherwise\nengage with us, we and our business partners may automatically collect\ncertain information about your computer or device through a variety of\ntracking technologies, including crash logs, diagnostic information, cookies,\nweb beacons, log files, embedded scripts, location-identifying technologies,\nor other tracking/recording tools (collectively, “tracking technologies\"). We\nuse these tracking technologies to maintain a perfect quality of our Services\nand provide you with efficient support.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Information we collect automatically through the use of technology. When\nyou visit our website, use our mobile app, read our emails or otherwise\nengage with us, we and our business partners may automatically collect\ncertain information about your computer or device through a variety of\ntracking technologies, including crash logs, diagnostic information, cookies,\nweb beacons, log files, embedded scripts, location-identifying technologies,\nor other tracking/recording tools (collectively, “tracking technologies\"). We\nuse these tracking technologies to maintain a perfect quality of our Services\nand provide you with efficient support.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We use various third-party services to help provide our services, such as hosting services, including Google Cloud Platform, analytics services, such as Google Analytics and Google Firebase, bug reporting services, such as Instabug and transactional SMS Serve.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We will not rent or sell your personal data to third parties, but we may share information you obtain through tools such as cookies, log files and device identifiers with third-party organizations that provide automatic data processing technology for this website. We do it in such a way that no individual user can be identified or linked to any specific action or information. We do not control or influence these third parties' tracking technologies or how they are used.",
+      "lang": "English"
+    }
+  ]
+}

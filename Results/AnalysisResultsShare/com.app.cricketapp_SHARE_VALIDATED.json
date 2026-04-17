@@ -1,0 +1,37 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We use third-party advertising companies to serve ads when the User(s) visit the Company's Website(s)/Mobile Application(s). These companies may use information (not including your name, address, email address or telephone number or other personally identifiable sensitive/non-sensitive information) about your visits to this and other websites or applications, in order to provide advertisements about goods and services of interest to the respective User(s).",
+      "justification": "The policy states that third-party advertising companies use information about user visits to the app to provide interest-based ads. This constitutes 'sharing' with a third party that is not acting as a service provider.",
+      "how_to_fix": "Declare in the Data Safety section that 'App interactions' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use third-party advertising companies to serve ads when the User(s) visit the Company's Website(s)/Mobile Application(s). These companies may use information (not including your name, address, email address or telephone number or other personally identifiable sensitive/non-sensitive information) about your visits to this and other websites or applications, in order to provide advertisements about goods and services of interest to the respective User(s).",
+      "justification": "The policy explicitly mentions that third-party advertisers use information about visits to 'other websites or applications' for advertising. This is considered 'sharing' of web browsing history.",
+      "how_to_fix": "Declare in the Data Safety section that 'Web browsing history' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "(iii) The Company may use third-party advertising companies to serve ads when the User(s) visit the Company's Website(s)/Mobile Application(s). These companies may use Personal Information (non-sensitive personal information only) about the User(s) visit to the Company's Website(s)/Mobile Application(s) and other third party websites in order to provide advertisements about goods and services of interest to any particular User(s).",
+      "justification": "The policy states that 'Personal Information' is used by third-party advertising companies for targeted ads. This implies the use of an identifier (like an advertising ID) and constitutes 'sharing'.",
+      "how_to_fix": "Declare in the Data Safety section that 'User IDs' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User(s) agree that any information you include in a posting to the public discussion areas on the Company's Website(s)/Mobile Application(s) is available to anyone who has access to the Company's Website(s)/Mobile Exchange(s).",
+      "reason_of_removal": "User-initiated sharing exemption",
+      "justification": "The policy describes content posted by the user to public areas. This is a user-initiated action where the user reasonably expects the data to be shared, and is exempt from being declared as 'sharing' under Google Play policy.",
+      "how_to_fix": "No action is needed for this specific item as it falls under a policy exemption for sharing. Ensure the app provides a prominent in-app disclosure for this user-initiated action.",
+      "lang": "English"
+    }
+  ]
+}
+```

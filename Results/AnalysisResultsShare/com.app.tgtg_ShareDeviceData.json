@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Technology and service providers – including Google LLC and its affiliates as providers of geolocation services (with your consent), as well as other providers supporting functionality, analytics, or security. In many cases, these providers act under our instructions and control; where they act independently, we will ensure any sharing is in line with this Schedule and applicable law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Technology and service providers – including Google LLC and its affiliates as providers of geolocation services (with your consent), as well as other providers supporting functionality, analytics, or security. In many cases, these providers act under our instructions and control; where they act independently, we will ensure any sharing is in line with this Schedule and applicable law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Technology and service providers – including Google LLC and its affiliates as providers of geolocation services (with your consent), as well as other providers supporting functionality, analytics, or security. In many cases, these providers act under our instructions and control; where they act independently, we will ensure any sharing is in line with this Schedule and applicable law.",
+      "lang": "English"
+    }
+  ]
+}

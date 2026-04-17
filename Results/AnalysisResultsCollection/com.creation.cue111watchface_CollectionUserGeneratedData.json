@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "You may provide us with information when you use the App, such as when you create an account, contact us with inquiries, or respond to one of our surveys. This information may include your name, email address, and any other information you choose to provide.",
+      "lang": "en"
+    }
+  ]
+}

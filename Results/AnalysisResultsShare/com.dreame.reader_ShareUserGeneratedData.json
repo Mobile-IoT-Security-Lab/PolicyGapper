@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Any information that you include in your publicly-visible STARY profile, which may include your profile ID, nickname, photo and your personal introduction will be shared on our Services to all other users. If you participate in social features, such as chat, picture and other electronic information you disclose may become publicly available. It may also be read, copied, collected, or used by other users.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Any information that you include in your publicly-visible STARY profile, which may include your profile ID, nickname, photo and your personal introduction will be shared on our Services to all other users. If you participate in social features, such as chat, picture and other electronic information you disclose may become publicly available. It may also be read, copied, collected, or used by other users.",
+      "lang": "English"
+    }
+  ]
+}

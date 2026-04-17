@@ -1,0 +1,59 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "12.2.3 Category\nInternet or other similar network activity information\nSource\nDirectly from consumers when interacting with our services\nDisclose(d) to\nVendors, service providers and other third parties\nSell/Sold to\nThird parties helping with retargeting advertising to you\nShare(d) with\nThird parties helping with retargeting advertising to you",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "12.2.3 Category\nInternet or other similar network activity information\nSource\nDirectly from consumers when interacting with our services\nDisclose(d) to\nVendors, service providers and other third parties\nSell/Sold to\nThird parties helping with retargeting advertising to you\nShare(d) with\nThird parties helping with retargeting advertising to you",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "12.2.3 Category\nInternet or other similar network activity information\nSource\nDirectly from consumers when interacting with our services\nDisclose(d) to\nVendors, service providers and other third parties\nSell/Sold to\nThird parties helping with retargeting advertising to you\nShare(d) with\nThird parties helping with retargeting advertising to you",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "12.2.3 Category\nInternet or other similar network activity information\nSource\nDirectly from consumers when interacting with our services\nDisclose(d) to\nVendors, service providers and other third parties\nSell/Sold to\nThird parties helping with retargeting advertising to you\nShare(d) with\nThird parties helping with retargeting advertising to you",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "13.2.1 Category\nIdentifiers\nSource\nDirectly from consumers when interacting with our services\nDisclose(d) to\nVendors, service providers and other third parties\nSold to\nThird parties helping with retargeting advertising to you",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "2.1.3 We process pseudonymized information about how\nyou behave on our app. This includes server log files, IP\naddresses, and user IDs, some of which are assigned by or\nprovided to third-party providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "9.7 Payment provider\nReason for the disclosure: To process payments, we share your data with\npayment providers and banks that process your data as data controllers and\nprocessors.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "13.2.3 Category\nInternet or other similar network activity information\nSource\nDirectly from consumers when interacting with our services\nDisclose(d) to\nVendors, service providers and other third parties\nSold to\nThird parties helping with retargeting advertising to you",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "12.2.1 Category\nIdentifiers\nSource\nDirectly from consumers when interacting with our services\nDisclose(d) to\nVendors, service providers and other third parties\nSell/Sold to\nThird parties helping with retargeting advertising to you\nShare(d) with\nThird parties helping with retargeting advertising to you",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "2.4.3 We process data you provide us by participating in our B2B events. This includes your name, business email address and information about the company you are working for. It is possible that we take photos and videos of the event in which you are recognizable and post them online (e.g. on social media such as LinkedIn).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "2.4.3 We process data you provide us by participating in our B2B events. This includes your name, business email address and information about the company you are working for. It is possible that we take photos and videos of the event in which you are recognizable and post them online (e.g. on social media such as LinkedIn).",
+      "lang": "English"
+    }
+  ]
+}

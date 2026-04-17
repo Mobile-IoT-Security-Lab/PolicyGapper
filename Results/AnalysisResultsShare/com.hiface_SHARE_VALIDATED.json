@@ -1,0 +1,37 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We may share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that Hiface is part of, or that become part of that group (\"Affiliates”). Affiliates may use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences).",
+      "justification": "The policy states data is shared with 'Affiliates' who may use it for their 'own services'. Under Google Play policy, affiliates using data for their own purposes are considered third parties, and this sharing must be declared.",
+      "how_to_fix": "In the Play Console Data Safety section, declare that 'Other User generated content' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that Hiface is part of, or that become part of that group (\"Affiliates”). Affiliates may use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences).",
+      "justification": "The policy states 'usage data' is shared with 'Affiliates' who may use it for their 'own services'. Under Google Play policy, affiliates using data for their own purposes are considered third parties, and this sharing must be declared.",
+      "how_to_fix": "In the Play Console Data Safety section, declare that 'App interactions' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that Hiface is part of, or that become part of that group (\"Affiliates”). Affiliates may use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences).",
+      "justification": "The policy explicitly states 'device identifiers' are shared with 'Affiliates' who may use it for their 'own services'. Under Google Play policy, affiliates using data for their own purposes are considered third parties, and this sharing must be declared.",
+      "how_to_fix": "In the Play Console Data Safety section, declare that 'Device or other IDs' is shared with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "Hiface may also collect and gather user contents (e.g., photos, screenshots, comments, and other materials) that you create on the Service. Your photo can be taken by other users on Hiface, and if they use the capturing function provided by Hiface, those photos can be stored and used for Hiface and third-party services (e.g., Facebook, etc.). You can change the sharing option of third parties on the Hiface settings. If you do not agree with all the terms of this Privacy Policy, please do not use the Service.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy states the user can 'change the sharing option of third parties on the Hiface settings'. This indicates a user-initiated transfer of data, which is exempt from being declared as 'sharing' in the Data Safety section.",
+      "how_to_fix": "No action required. This type of user-initiated sharing does not need to be declared.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,34 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "Account Information: We may ask that you provide certain information to us when you set up an account or profile on the Website, order the Application or contact us through the Website or Application for information or support. This information may include your email address, account name, or other personal identifier.",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "●User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "●User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "●User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "●User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "●User Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+"lang": "en"
+}
+]
+}

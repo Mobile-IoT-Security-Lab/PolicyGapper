@@ -1,0 +1,66 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our Privacy Policy. (/en/help/private_terms)",
+      "justification": "The privacy policy states that cookies are used for 'ads based on your interests, and for measurements and analytics purposes'. This implies sharing data types like 'App interactions' and 'Device or other IDs' with third-party advertising and analytics partners, which constitutes 'sharing' under the Google Play policy.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that this data type is 'Shared' with third parties. Specify the purposes, such as 'Advertising or marketing' and 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our Privacy Policy. (/en/help/private_terms)",
+      "justification": "The privacy policy states that cookies are used for 'ads based on your interests, and for measurements and analytics purposes'. This implies sharing data types like 'In-app search history' with third-party advertising and analytics partners for personalization, which constitutes 'sharing' under the Google Play policy.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that this data type is 'Shared' with third parties. Specify the purposes, such as 'Advertising or marketing' and 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our Privacy Policy. (/en/help/private_terms)",
+      "justification": "The privacy policy states that cookies are used for 'ads based on your interests, and for measurements and analytics purposes'. This implies sharing data about user actions with third-party advertising and analytics partners, which constitutes 'sharing' under the Google Play policy.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that this data type is 'Shared' with third parties. Specify the purposes, such as 'Advertising or marketing' and 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our Privacy Policy. (/en/help/private_terms)",
+      "justification": "The privacy policy states that cookies are used for 'measurements and analytics purposes'. This implies sharing diagnostics data with third-party analytics partners, which constitutes 'sharing' under the Google Play policy.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that this data type is 'Shared' with third parties. Specify the purpose as 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our Privacy Policy. (/en/help/private_terms)",
+      "justification": "The privacy policy states that cookies are used for 'measurements and analytics purposes'. This implies sharing app performance data with third-party analytics partners, which constitutes 'sharing' under the Google Play policy.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that this data type is 'Shared' with third parties. Specify the purpose as 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our Privacy Policy. (/en/help/private_terms)",
+      "justification": "The privacy policy states that cookies are used for 'ads based on your interests, and for measurements and analytics purposes'. This requires sharing device identifiers with third-party advertising and analytics partners, which constitutes 'sharing' under the Google Play policy.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that this data type is 'Shared' with third parties. Specify the purposes, such as 'Advertising or marketing' and 'Analytics'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "We use personal information of users within the scopes mentioned in \"Collecting Personal Information & Its Purpose\". We do not use personal information of users beyond those scopes without the consent of users, or share with external parties. However, for social log-in, we may share information in order to process social log-in.",
+      "reason_of_removal": "Exempted as a user-initiated action.",
+      "justification": "The policy states data is shared to 'process social log-in'. This is a transfer based on a specific user-initiated action where the user reasonably expects the data to be shared with the social login provider. This is exempt from being declared as 'sharing' per Google Play policy.",
+      "how_to_fix": "No action is required. This data transfer does not need to be declared as 'sharing' in the Data safety section because it falls under the user-initiated action exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We use personal information of users within the scopes mentioned in \"Collecting Personal Information & Its Purpose\". We do not use personal information of users beyond those scopes without the consent of users, or share with external parties. However, for social log-in, we may share information in order to process social log-in.",
+      "reason_of_removal": "Exempted as a user-initiated action.",
+      "justification": "The policy states data is shared to 'process social log-in'. This is a transfer based on a specific user-initiated action where the user reasonably expects the data to be shared with the social login provider. This is exempt from being declared as 'sharing' per Google Play policy.",
+      "how_to_fix": "No action is required. This data transfer does not need to be declared as 'sharing' in the Data safety section because it falls under the user-initiated action exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

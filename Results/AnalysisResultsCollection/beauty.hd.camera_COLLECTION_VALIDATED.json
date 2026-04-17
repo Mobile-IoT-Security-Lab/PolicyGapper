@@ -1,0 +1,68 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The information we collect may include (where available) the type and model of the device you use, the device's unique device identifier, operating system, language options and mobile network information to allow you to use our services. We use this information to administer our services and for our internal operations including troubleshooting, data analysis, testing, research, statistical and survey purposes, to improve our services.",
+      "justification": "The privacy policy states that this data is collected by the app for administration, internal operations, and analysis, which implies it is sent off-device.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "The information we collect may include (where available) the type and model of the device you use, the device's unique device identifier, operating system, language options and mobile network information to allow you to use our services. We use this information to administer our services and for our internal operations including troubleshooting, data analysis, testing, research, statistical and survey purposes, to improve our services.",
+      "justification": "The privacy policy states that this data is collected by the app for administration, internal operations, and analysis, which implies it is sent off-device.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "The information we collect may include (where available) the type and model of the device you use, the device's unique device identifier, operating system, language options and mobile network information to allow you to use our services. We use this information to administer our services and for our internal operations including troubleshooting, data analysis, testing, research, statistical and survey purposes, to improve our services.",
+      "justification": "The privacy policy states that this data is collected by the app for troubleshooting and testing, which implies it is sent off-device for analysis.",
+      "how_to_fix": "Declare 'Other app performance data' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Our partners may collect hardware and software information such as IP address, device ID and type, advertising IDs (such as Google's AAID, randomly generated numbers that you can reset by going into your device' settings), device language, operating system, time zones, and identifiers associated with cookies or other technologies that may uniquely identify your device.",
+      "justification": "The privacy policy states that partners collect IP addresses, which can be used to determine approximate location and implies data is sent off-device.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location permission is required for geotagging of photos, but this is disabled by default. If enabled, your location is encoded in the saved image and video files (and it is only used for this purpose).",
+      "reason_of_removal": "On-device processing exemption",
+      "justification": "The policy explicitly states location data is only encoded into saved files on the device for geotagging and is not described as being sent off-device by the app.",
+      "how_to_fix": "No action needed. This data type is exempt from disclosure as 'collected' under the on-device processing exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "CAMERA :\nCamera sensor, which is used for the purpose of taking photos.\nA permission is required to use the phone's camera hardware,It is necessary for the basic\nfunction of the application.",
+      "reason_of_removal": "On-device access exemption",
+      "justification": "The policy describes accessing the camera to take photos, which is on-device functionality. It does not state that the photos are sent off-device by the app.",
+      "how_to_fix": "No action needed. This data type is exempt from disclosure as 'collected' under the on-device access exemption.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "AUDIO RECORD:\nMicrophone data, which is used for the purpose of recording videos.\nIt is a necessary permission for recording voices during video recording. It can not be used for\nany other purpose.",
+      "reason_of_removal": "On-device access exemption",
+      "justification": "The policy describes accessing the microphone to record videos, which is on-device functionality. It does not state that the videos are sent off-device by the app.",
+      "how_to_fix": "No action needed. This data type is exempt from disclosure as 'collected' under the on-device access exemption.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "AUDIO RECORD:\nMicrophone data, which is used for the purpose of recording videos.\nIt is a necessary permission for recording voices during video recording. It can not be used for\nany other purpose.",
+      "reason_of_removal": "On-device access exemption",
+      "justification": "The policy describes accessing the microphone to record voice for videos, which is on-device functionality. It does not state that the recordings are sent off-device by the app.",
+      "how_to_fix": "No action needed. This data type is exempt from disclosure as 'collected' under the on-device access exemption.",
+      "lang": "en"
+    }
+  ]
+}
+```

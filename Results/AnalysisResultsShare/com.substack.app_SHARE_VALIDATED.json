@@ -1,0 +1,73 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator's own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, AdQuick, and Parse.ly.",
+      "justification": "The privacy policy states that third parties (e.g., Twitter, Facebook, Google) may set tracking and analytics cookies, which collect app interaction data. This constitutes sharing with third parties and must be declared.",
+      "how_to_fix": "Declare in your Data Safety form that 'App interactions' data is shared with third parties for purposes like analytics or advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator's own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, AdQuick, and Parse.ly.",
+      "justification": "The privacy policy states that third parties (e.g., Twitter, Facebook, Google) may set tracking and analytics cookies, which can collect data on other user actions. This constitutes sharing with third parties and must be declared.",
+      "how_to_fix": "Declare in your Data Safety form that 'Other actions' data is shared with third parties for purposes like analytics or advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator's own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, AdQuick, and Parse.ly.",
+      "justification": "The privacy policy indicates that third-party tracking cookies (e.g., from Twitter, Facebook, Google) may be used, which can collect web browsing history. This is considered sharing and must be declared.",
+      "how_to_fix": "Declare in your Data Safety form that 'Web browsing history' is shared with third parties for purposes like analytics or advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator's own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, AdQuick, and Parse.ly.",
+      "justification": "The privacy policy states that third-party tracking and analytics cookies are used, which inherently collect device or other identifiers. This sharing must be declared.",
+      "how_to_fix": "Declare in your Data Safety form that 'Device or other IDs' are shared with third parties for purposes like analytics or advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Prospective sellers or buyers: We may share and/or transfer customer information in connection with the sale or merger of our business or assets (subject to local laws). Also, if we go out of business, enter bankruptcy, or go through some other change of control.",
+      "justification": "The policy states that customer information, which includes User IDs, may be transferred during a merger, sale, or bankruptcy. Per Google Play policy, this type of transfer must be disclosed as 'sharing'.",
+      "how_to_fix": "Declare in your Data Safety form that 'User IDs' may be shared for this purpose.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Prospective sellers or buyers: We may share and/or transfer customer information in connection with the sale or merger of our business or assets (subject to local laws). Also, if we go out of business, enter bankruptcy, or go through some other change of control.",
+      "justification": "The policy states that customer information, which can include Phone number, may be transferred during a merger, sale, or bankruptcy. Per Google Play policy, this type of transfer must be disclosed as 'sharing'.",
+      "how_to_fix": "Declare in your Data Safety form that 'Phone number' may be shared for this purpose.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Prospective sellers or buyers: We may share and/or transfer customer information in connection with the sale or merger of our business or assets (subject to local laws). Also, if we go out of business, enter bankruptcy, or go through some other change of control.",
+      "justification": "The policy states that customer information, which can include User payment info, may be transferred during a merger, sale, or bankruptcy. Per Google Play policy, this type of transfer must be disclosed as 'sharing'.",
+      "how_to_fix": "Declare in your Data Safety form that 'User payment info' may be shared for this purpose.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Creators: when you subscribe to a Creator's publication, we provide them the information necessary (including your name and email address) to provide you their publication(s). Please note that Creators control their own publications; accordingly, when you interact with a Creator's publication in a way that requires your personal information, including when commenting on a publication that you have not subscribed to, that personal information is provided directly to the Creator.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing the user's name with a Creator only when the user explicitly subscribes to that Creator's publication. This is a user-initiated action to receive a service and is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action required. This sharing does not need to be declared under the user-initiated action exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Creators: when you subscribe to a Creator's publication, we provide them the information necessary (including your name and email address) to provide you their publication(s). Please note that Creators control their own publications; accordingly, when you interact with a Creator's publication in a way that requires your personal information, including when commenting on a publication that you have not subscribed to, that personal information is provided directly to the Creator.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing the user's email address with a Creator only when the user explicitly subscribes to that Creator's publication. This is a user-initiated action to receive a service and is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action required. This sharing does not need to be declared under the user-initiated action exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

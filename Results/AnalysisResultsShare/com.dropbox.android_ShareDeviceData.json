@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Certain features let you make additional information available to others. For example, if you view a file or folder shared from a feature that provides recipient or viewer analytics to content owners, we will share your identifying information such as name and email address, information on the device you used to view the content, and for how long you viewed content and what portion of the content you viewed with the owner of the file or folder. As another example, if you comment on a file, your name and email will be associated with your comment and visible to other people viewing that file, including logged-out viewers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Certain features let you make additional information available to others. For example, if you view a file or folder shared from a feature that provides recipient or viewer analytics to content owners, we will share your identifying information such as name and email address, information on the device you used to view the content, and for how long you viewed content and what portion of the content you viewed with the owner of the file or folder. As another example, if you comment on a file, your name and email will be associated with your comment and visible to other people viewing that file, including logged-out viewers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Certain features let you make additional information available to others. For example, if you view a file or folder shared from a feature that provides recipient or viewer analytics to content owners, we will share your identifying information such as name and email address, information on the device you used to view the content, and for how long you viewed content and what portion of the content you viewed with the owner of the file or folder. As another example, if you comment on a file, your name and email will be associated with your comment and visible to other people viewing that file, including logged-out viewers.",
+      "lang": "English"
+    }
+  ]
+}

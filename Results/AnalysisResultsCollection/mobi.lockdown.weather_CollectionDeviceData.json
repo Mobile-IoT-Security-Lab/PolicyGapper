@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Users may upload weather-related images, which are stored on our servers for app functionality.\n•\nData Handling: Shared images are not shared with third parties and can be deleted or managed by\nusers anytime.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• To improve our services and provide a better user experience.\n•\nTo display personalized advertisements through:\n• AdMob by Google\n• Meta Audience Network\n•\nTo analyze user behavior for app optimization.",
+      "lang": "English"
+    }
+  ]
+}

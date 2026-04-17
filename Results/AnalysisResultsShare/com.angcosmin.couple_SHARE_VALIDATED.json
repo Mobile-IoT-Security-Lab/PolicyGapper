@@ -1,0 +1,70 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Web beacons are used to track online movements of web users or to access cookies. They help us understand how users interact with our Platform by transmitting information back to us or our partners.",
+      "justification": "The privacy policy states that web beacons and cookies are used to track user interactions and transmit this information to 'partners'. This constitutes sharing of 'App interactions' data with third parties, which was not declared in the Data Safety section.",
+      "how_to_fix": "In the Google Play Console, go to the 'Data safety' section and declare that 'App interactions' data is 'Shared' with third parties. Specify the purpose of sharing, such as 'Analytics' or 'Advertising'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Web beacons are used to track online movements of web users or to access cookies. They help us understand how users interact with our Platform by transmitting information back to us or our partners.",
+      "justification": "The policy mentions using web beacons and cookies to track users and transmit information to 'partners'. Cookies and similar technologies inherently involve the use and sharing of 'Device or other IDs'. This sharing was not declared in the Data Safety section.",
+      "how_to_fix": "In the Google Play Console, go to the 'Data safety' section and declare that 'Device or other IDs' are 'Shared' with third parties. Specify the purpose of sharing, such as 'Analytics' or 'Advertising'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Business Transfers: In the event of a merger, acquisition, sale, or transfer of assets, your personal data may be shared or transferred to the acquiring entity or third parties involved in the transaction. If such a change occurs, we will notify you of the new ownership and any changes to the way your data is handled, as described in this Privacy Policy.",
+      "reason_of_removal": "Inconsistent data_type and policy_reference",
+      "justification": "The policy reference is a generic 'Business Transfers' clause that applies to all 'personal data' but does not specifically mention the collection or sharing of 'Approximate location'.",
+      "how_to_fix": "If the app does not collect or share this data type, no action is needed. If it does, find a more specific policy reference that confirms its collection and potential sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Business Transfers: In the event of a merger, acquisition, sale, or transfer of assets, your personal data may be shared or transferred to the acquiring entity or third parties involved in the transaction. If such a change occurs, we will notify you of the new ownership and any changes to the way your data is handled, as described in this Privacy Policy.",
+      "reason_of_removal": "Inconsistent data_type and policy_reference",
+      "justification": "The policy reference is a generic 'Business Transfers' clause that applies to all 'personal data' but does not specifically mention the collection or sharing of 'Precise location'.",
+      "how_to_fix": "If the app does not collect or share this data type, no action is needed. If it does, find a more specific policy reference that confirms its collection and potential sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Business Transfers: In the event of a merger, acquisition, sale, or transfer of assets, your personal data may be shared or transferred to the acquiring entity or third parties involved in the transaction. If such a change occurs, we will notify you of the new ownership and any changes to the way your data is handled, as described in this Privacy Policy.",
+      "reason_of_removal": "Inconsistent data_type and policy_reference",
+      "justification": "The policy reference is a generic 'Business Transfers' clause that applies to all 'personal data' but does not specifically mention the collection or sharing of 'Name'.",
+      "how_to_fix": "If the app does not collect or share this data type, no action is needed. If it does, find a more specific policy reference that confirms its collection and potential sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Business Transfers: In the event of a merger, acquisition, sale, or transfer of assets, your personal data may be shared or transferred to the acquiring entity or third parties involved in the transaction. If such a change occurs, we will notify you of the new ownership and any changes to the way your data is handled, as described in this Privacy Policy.",
+      "reason_of_removal": "Inconsistent data_type and policy_reference",
+      "justification": "The policy reference is a generic 'Business Transfers' clause that applies to all 'personal data' but does not specifically mention the collection or sharing of 'User IDs'.",
+      "how_to_fix": "If the app does not collect or share this data type, no action is needed. If it does, find a more specific policy reference that confirms its collection and potential sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Business Transfers: In the event of a merger, acquisition, sale, or transfer of assets, your personal data may be shared or transferred to the acquiring entity or third parties involved in the transaction. If such a change occurs, we will notify you of the new ownership and any changes to the way your data is handled, as described in this Privacy Policy.",
+      "reason_of_removal": "Inconsistent data_type and policy_reference",
+      "justification": "The policy reference is a generic 'Business Transfers' clause that applies to all 'personal data' but does not specifically mention the collection or sharing of 'Photos'.",
+      "how_to_fix": "If the app does not collect or share this data type, no action is needed. If it does, find a more specific policy reference that confirms its collection and potential sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Business Transfers: In the event of a merger, acquisition, sale, or transfer of assets, your personal data may be shared or transferred to the acquiring entity or third parties involved in the transaction. If such a change occurs, we will notify you of the new ownership and any changes to the way your data is handled, as described in this Privacy Policy.",
+      "reason_of_removal": "Inconsistent data_type and policy_reference",
+      "justification": "The policy reference is a generic 'Business Transfers' clause that applies to all 'personal data' but does not specifically mention the collection or sharing of 'Videos'.",
+      "how_to_fix": "If the app does not collect or share this data type, no action is needed. If it does, find a more specific policy reference that confirms its collection and potential sharing.",
+      "lang": "English"
+    }
+  ]
+}
+```

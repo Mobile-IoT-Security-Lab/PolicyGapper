@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Advertising partners - We may also share your data collected through our sites with our advertising partners, as set out in our cookie policy. These partners help us deliver relevant advertising across our sites. For example, we use Google Ad Manager to assist us with the delivery of relevant ads. These partners may also generate their own identifier from your device or email address for the purpose of personalised advertising. You can find details about these partners' use of data and opt out of their identifiers through the following links:\nLiveRamp: https://liveramp.uk/privacy/service-privacy-policy/ and opt out - https://liveramp.uk/privacy/your-rights/\nID5: Privacy policy - https://id5.io/platform-privacy-policy/ and opt out - https://id5-sync.com/privacy\nLotame: Privacy policy - https://www.lotame.com/privacy/privacy-notices/services/ and opt out - https://www.lotame.com/privacy/privacy-manager/\nThe Trade Desk: Privacy policy - https://www.thetradedesk.com/us/privacy and opt out - https://adsrvr.org/\nEUID: Privacy policy - https://www.transparentadvertising.eu/privacy and opt out - https://www.transparentadvertising.eu/\nUID2: Privacy policy - https://transparentadvertising.com/privacy and opt out - https://www.transparentadvertising.com/",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Event sponsors and partners - We may share your personal data with sponsors of Guardian events and partners who we hold events with for marketing purposes when you have given your permission for us to do so. We may also share your personal data with these sponsors and partners for event administration and security purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Advertising partners - We may also share your data collected through our sites with our advertising partners, as set out in our cookie policy. These partners help us deliver relevant advertising across our sites. For example, we use Google Ad Manager to assist us with the delivery of relevant ads. These partners may also generate their own identifier from your device or email address for the purpose of personalised advertising. You can find details about these partners' use of data and opt out of their identifiers through the following links:\nLiveRamp: https://liveramp.uk/privacy/service-privacy-policy/ and opt out - https://liveramp.uk/privacy/your-rights/\nID5: Privacy policy - https://id5.io/platform-privacy-policy/ and opt out - https://id5-sync.com/privacy\nLotame: Privacy policy - https://www.lotame.com/privacy/privacy-notices/services/ and opt out - https://www.lotame.com/privacy/privacy-manager/\nThe Trade Desk: Privacy policy - https://www.thetradedesk.com/us/privacy and opt out - https://adsrvr.org/\nEUID: Privacy policy - https://www.transparentadvertising.eu/privacy and opt out - https://www.transparentadvertising.eu/\nUID2: Privacy policy - https://transparentadvertising.com/privacy and opt out - https://www.transparentadvertising.com/",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Skimlinks because they are an affiliate marketing service provider. We do not drop first or third party cookies, or otherwise access local storage through our affiliate links. Instead we use a type of link that redirects users into Skimlinks' network. This means we are tracking and identifying the click, rather than individuals. Skimlinks will use IP addresses to direct readers to the geographically relevant affiliate link. The IP address and user agent are anonymised and truncated by Skimlinks. Third party sites including retailers and sites in Skimlinks' network may place cookies or collect additional information. Details about Skimlinks use of data is set out in their privacy policy at https://skimlinks.com/privacy-policy.",
+      "lang": "English"
+    }
+  ]
+}

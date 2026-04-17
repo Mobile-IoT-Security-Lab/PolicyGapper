@@ -1,0 +1,84 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "justification": "The privacy policy states that 'Other User generated content' (e.g., content of messages, job applications) is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Other User generated content' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may also automatically record certain information from your device by using various types of technology, including “clear gifs\" or \"web beacons.” In this context, we may collect certain information about you, such as your IP address or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after you use the Service, the pages or other content you view or otherwise interact with on the Service, and the dates and times that you visit, access, or use the Service. We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message. This information is gathered from all users, and may be connected with other information about you.",
+      "justification": "The privacy policy states that 'Web browsing history' (e.g., sites visited before/after using the service) is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may also automatically record certain information from your device by using various types of technology, including “clear gifs\" or \"web beacons.” In this context, we may collect certain information about you, such as your IP address or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after you use the Service, the pages or other content you view or otherwise interact with on the Service, and the dates and times that you visit, access, or use the Service. We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message. This information is gathered from all users, and may be connected with other information about you.",
+      "justification": "The privacy policy states that 'Device or other IDs' (e.g., IP address, device address or ID) are collected, but this is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Device or other IDs' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "User-provided Information: When you use the Service, we ask you to provide certain Personal Information about you, including your name, gender, email address, mailing address, phone number, credit card or other billing information, your date of birth, geographic area, or preferences and we may link this information with other information about you. For example, we may ask you to provide us with Personal Information when you register for an account, use the Service, or make a purchase on the Service. We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "justification": "The privacy policy states that 'Address' (e.g., mailing address) is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Address' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "User-provided Information: When you use the Service, we ask you to provide certain Personal Information about you, including your name, gender, email address, mailing address, phone number, credit card or other billing information, your date of birth, geographic area, or preferences and we may link this information with other information about you. For example, we may ask you to provide us with Personal Information when you register for an account, use the Service, or make a purchase on the Service. We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "justification": "The privacy policy states that 'Phone number' is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Phone number' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "User-provided Information: When you use the Service, we ask you to provide certain Personal Information about you, including your name, gender, email address, mailing address, phone number, credit card or other billing information, your date of birth, geographic area, or preferences and we may link this information with other information about you. For example, we may ask you to provide us with Personal Information when you register for an account, use the Service, or make a purchase on the Service. We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "justification": "The privacy policy states that 'Other info' (e.g., gender, date of birth, preferences) is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Other info' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "User-provided Information: When you use the Service, we ask you to provide certain Personal Information about you, including your name, gender, email address, mailing address, phone number, credit card or other billing information, your date of birth, geographic area, or preferences and we may link this information with other information about you. For example, we may ask you to provide us with Personal Information when you register for an account, use the Service, or make a purchase on the Service. We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "justification": "The privacy policy states that 'User payment info' (e.g., credit card or other billing information) is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'User payment info' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "If you choose to provide your PayPal account, we may ask for additional information such as your Name (Legal Name/Business Alias), Full name/Business Name, Country, Residency, Address, Postal code, E-mail, Signature and Tax ID (or Social Security Number when applicable) for tax processing purposes.",
+      "justification": "The privacy policy states that 'Other financial info' (e.g., Tax ID or Social Security Number) is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Other financial info' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "User-provided Information: When you use the Service, we ask you to provide certain Personal Information about you, including your name, gender, email address, mailing address, phone number, credit card or other billing information, your date of birth, geographic area, or preferences and we may link this information with other information about you. For example, we may ask you to provide us with Personal Information when you register for an account, use the Service, or make a purchase on the Service. We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "justification": "The privacy policy states that 'Approximate location' (e.g., geographic area) is collected, but it is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Approximate location' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "User-provided Information: When you use the Service, we ask you to provide certain Personal Information about you, including your name, gender, email address, mailing address, phone number, credit card or other billing information, your date of birth, geographic area, or preferences and we may link this information with other information about you. For example, we may ask you to provide us with Personal Information when you register for an account, use the Service, or make a purchase on the Service. We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "justification": "The privacy policy states that 'Other in-app messages' (e.g., the content of a contact request) are collected, but this is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "User-provided Information: When you use the Service, we ask you to provide certain Personal Information about you, including your name, gender, email address, mailing address, phone number, credit card or other billing information, your date of birth, geographic area, or preferences and we may link this information with other information about you. For example, we may ask you to provide us with Personal Information when you register for an account, use the Service, or make a purchase on the Service. We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "justification": "The privacy policy states that 'Files and docs' (e.g., curriculum vitae for a job application) are collected, but this is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Files and docs' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

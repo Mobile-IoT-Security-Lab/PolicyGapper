@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Other information that may be linked to personal information\n•\nContent You Post Publicly or Privately on Your Glam Labs Account;\n•\nSearches Completed through the Website;\n•\nPreference Settings;\n•\nStored Information or Files Created or Stored on Website or through the Services;\n• Any Emails You Send to Glam Labs;\n•\nTimes of Access to Website;\n•\nWebsites that Referred to Glam Labs;\n•\nYour Operating System Type",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "3. Communication Records\n•\nSupport tickets: 2 years\n•\nEmail correspondence: 1 year\n•\nChat logs: 90 days",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Al Avatars: In order to generate Al Avatars, you have to upload 10-20 photos to GLAM. At this point, your photos are stored on our servers (provided by Amazon Web Services (USA)). Then, a copy of the Stable Diffusion model is created to be retrained with your photos to personalize the model and to create your Avatars. Immediately after the successful generation of Avatars, your original photos are deleted from our servers. Your purchased Avatars are stored on our servers so that they remain accessible to you in GLAM at any time and from any device until you decide to delete them.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "4. Consent Mechanisms: We obtain your informed consent before processing your photos, videos, or gender information for Al features. You may withdraw consent at any time via the app or by emailing us.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "8) Audio, visual, thermal, electronic, olfactory or other similar information\nCollected: YES",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "8) Audio, visual, thermal, electronic, olfactory or other similar information\nCollected: YES",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Other information that may be linked to personal information\n•\nContent You Post Publicly or Privately on Your Glam Labs Account;\n•\nSearches Completed through the Website;\n•\nPreference Settings;\n•\nStored Information or Files Created or Stored on Website or through the Services;\n• Any Emails You Send to Glam Labs;\n•\nTimes of Access to Website;\n•\nWebsites that Referred to Glam Labs;\n•\nYour Operating System Type",
+      "lang": "en"
+    }
+  ]
+}

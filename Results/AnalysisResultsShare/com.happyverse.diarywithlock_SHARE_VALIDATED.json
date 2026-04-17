@@ -1,0 +1,15 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "This service helps us to collect and analyze usage data in order to understand usage patterns and to improve our Android app.\nPersonal data collected: various usage and device data such as cookies, unique device identifiers, usage data, anonymized IP addresses",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states the service 'helps us to collect and analyze usage data...to improve our Android app'. This describes a service provider processing data on the developer's behalf, which is exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+      "how_to_fix": "No action required for 'sharing' disclosure. This data transfer is to a service provider acting on your behalf. Ensure you have declared the 'collection' of this data type for 'App functionality' or 'Analytics' purposes.",
+      "lang": "English"
+    }
+  ]
+}
+```

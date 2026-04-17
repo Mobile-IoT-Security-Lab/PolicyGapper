@@ -1,0 +1,823 @@
+• Applicable Data Protection Law: all laws, regulations, and other legal requirements relating to (i) privacy, data
+security, consumer protection, marketing, promotion, and text messaging, email, and other communications; (ii)
+the use, collection, retention, storage, security, disclosure, transfer, disposal, and other processing of Personal
+Data under the Terms.
+
+---
+• Indeed Apply: Any profile, resume or application information that you submit through the Site to an Employer,
+including Personal Data included in a resume, application or responses to screener or other questions. This
+includes all references on the Site to "Apply Now", "Easily Apply", "Simple Apply", "Apply from your phone", "Apply
+with Indeed", "RSVP to hiring event" or any similar references.
+
+---
+• Personal Data: Any information that relates to an identified or identifiable natural person. An identifiable natural
+person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a
+name, an identification number, location data, an online identifier or to one or more factors specific to the
+physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. This definition
+shall adjust as necessary to include data defined as "Personal Information", "Personally Identifiable Information",
+and similar terms under Applicable Data Protection Law.
+
+---
+• User Content: Any data, text, images, reviews, audio, video, or other materials that a User submits, posts,
+displays, or otherwise makes available or provides to Indeed on or through the Site, including via an API. Job Ads,
+Resumes, reviews, ratings, and messages are all forms of User Content. User Content includes Al-Generated
+Content that is generated in response to User Content.
+
+---
+[PAGE BREAK]
+h. Matches: Job matches are recommendations which may be presented to both you as a Job Seeker and to
+Employers in various formats on the Site. The purpose of presenting matches is to allow Users to make their own
+decisions regarding employment opportunities. For example, Indeed may recommend Job Ads which are similar
+to jobs to which you recently applied, highlight certain aspects of Job Ads to you, or recommend Indeed Profiles
+to Employers which match Job Ads they post. To generate matches, Indeed uses data collected through our Site
+from both Employers and Job Seekers. This includes Job Ads, Your Profile information, information from your
+resume(s), your application materials (including responses to screener questions), and your activity on the Site
+(such as searches you run and Job Ads you click on and apply to).
+
+---
+2. Your Profile and Resume
+a. General: By creating or adding information to a profile through the Site, creating an Indeed Resume, using a
+resume builder feature on your profile, or uploading a file resume on the Site (collectively, "Profile," "Your Profile"
+or "Job Seeker Profile" or "Indeed Profile"), you authorize Indeed to make it available to potential Employers and
+users of Indeed's Smart Sourcing or other Resume Search program. Your Profile includes any information you
+provide on the Site in the "Profile" section of your account, including Profile, your Indeed Resume, any uploaded
+file resume(s), and any other information that you choose to provide on the Site, including job preferences,
+desired job title, work schedule, qualifications, etc. You are responsible for keeping Your Profile accurate and up-
+to-date.
+
+---
+c. Contact Info: By providing your phone number in your Profile and setting it to "Searchable" or by including it in
+materials sent to employers, you agree that this phone number may be shared with employers or employers may
+be provided the ability to contact you through the Site. Indeed may mask your contact information (name, email,
+phone) on your profile, resume, or application with an alias (like your job title) to mitigate fraud. This decision is at
+Indeed's sole discretion. Indeed may also mask Employer contact information, or Employers may choose to do so.
+You agree to be contacted by masked numbers/emails and may not be able to return calls without the real
+number.
+
+---
+e. Feedback: We may provide feedback on your resume or profile, including suggestions for improvement. By
+creating or adding information or a resume to Your Profile, you are requesting and authorizing Indeed, or an
+Indeed vendor, to review or scan Your Profile and resume(s) and provide you feedback (at Indeed's discretion).
+This is for informational purposes only and does not guarantee results. You are solely responsible for deciding
+
+---
+[PAGE BREAK]
+a. Review Your Application: When you apply to a Job Ad through the Site, you authorize Indeed to transmit your
+application and any related information to the relevant Employer via automated processing. Before submitting
+your Indeed Apply application, you can and should review all information, including attached files, to ensure
+accuracy and completeness for your desired job application. You are solely responsible for your application's
+content. Indeed may reformat applications or messages. Employers may request Indeed assemble applicant
+materials (applications, resumes, screener answers, and other provided information) into a single document;
+Indeed performs this assembly on your behalf. You acknowledge that Employers may also use tools, including
+artificial intelligence and machine learning models, to process, sort, and analyze applicant materials. The function
+of these tools may include generating summaries, translations, and other information, which Employers can use
+or discard as part of their decision-making process.
+
+---
+e. Limits: To maintain the quality of the Site, Indeed in its sole discretion may impose limits on your use of the Site.
+Use of any automation, scripting, or bots to automate the Indeed Apply process outside of Indeed's official
+vendors and tooling is prohibited. You acknowledge that as part of its efforts to combat fraud and spam, Indeed
+may require that users verify their email address or phone number. When you apply to a job through the Site, you
+agree that you may be required to verify your email address or phone number.
+
+---
+g. Automations: By using Indeed Apply and answering screener questions, you acknowledge that Employers may
+have instructed Indeed to send out rejection notices if your answers do not match the answers sought by the
+Employer, and you acknowledge that Indeed has no discretion in the transmission of these rejections. You also
+acknowledge that Employers may instruct Indeed to schedule interviews with Job Seekers who meet criteria
+(based on information the Job Seeker has provided to Indeed) that the Employers have selected. You agree that
+transmission or storage of these messages is not guaranteed, and that the availability or criteria the Employer
+provided to Indeed may not be accurate. It is ultimately your and the Employer's responsibility to confirm
+whether any interviews were scheduled, or to reschedule or cancel interviews if necessary.
+
+---
+[PAGE BREAK]
+4. Demographic Data
+a. Indeed's Voluntary Demographic Data Survey: You may have the opportunity to provide Indeed with certain
+demographic information about yourself, such as your race and ethnicity, gender, age, LGBTQ+ community
+membership, and disability status, as well as whether you have an arrest or conviction record ("demographic
+data"). By choosing to provide your demographic data you agree that Indeed may use it to evaluate and improve
+our services, and share aggregate summaries of job seeker information with employers. If you do not want your
+demographic data to be used in this way, do not provide it to Indeed (or, if you have already provided your
+demographic data to Indeed, you can remove it). You further acknowledge and agree that another Job Seeker's
+demographic data is personal information, and to the extent permitted by law you waive any right to request or
+view demographic data pertaining to any other Job Seeker.
+
+---
+b. Legal Obligations: Indeed may be required to comply with legal obligations or governmental requests or to
+establish or exercise its legal rights or defend against legal claims. This means, for example, that Indeed may
+receive legal process from courts or law enforcement to reveal user data, including demographic data, and that
+Indeed may comply with such requests.
+
+---
+c. Employers' Voluntary Self-Identification Questions: Employers may ask applicants to voluntarily self-identify
+certain demographic information such as race, ethnicity, sex, disability or veteran status along with their job
+applications. Some Employers are required by law to ask these questions and you may see these questions when
+applying to jobs on the Site. That is a separate process from Indeed's voluntary collection of demographic data
+and Indeed is not responsible for these questions. If you have questions or concerns about an Employer's
+application materials, please contact the Employer directly or refer to their privacy policy.
+
+---
+5. Indeed Recruiting Services
+a. General: Indeed Recruiting Services provides recruitment services to its clients. When you apply to a job
+supported by Indeed Recruiting Services, or otherwise engage with Indeed Recruiting Services, you agree that
+Indeed Recruiting Services may use information you provide to Indeed Recruiting Services and data collected
+through the Site to present potential job matches to you and to potential Employers.
+
+---
+6. Your Job Seeker Data
+a. Data Shared With Employers (Labels, Badges): You agree that in addition to making your profile available to
+Employers as described above, Indeed may inform Employers about activities you take on the Site, including
+through labels, badges, or other means. We may let them know your status (like if you're online or recently
+active), or if you are responding to their messages or are responsive to messages generally. If you set your Profile
+to Searchable, Indeed may inform Employers that you have viewed, clicked, saved, liked, or started to apply for
+their job to indicate your potential interest. Indeed solely determines how such labels or badges are added and
+which Job Seekers qualify based on Job Seeker activity on Indeed. The lack of a label or badge may indicate
+insufficient data. Indeed does not guarantee the accuracy of any such label or badge, and reserves the right to
+change or remove such label or badge features at any time and in Indeed's sole discretion.
+
+---
+[PAGE BREAK]
+b. Indeed's and Employers' Collection of Information: Indeed may collect certain information about you and any
+actions taken by you on the Site, an Employer's site or ATS (e.g., Job Ads viewed, applications started/completed)
+using automated means, such as via API, cookies, pixels and web beacons. Under the Terms, any Employers using
+tracker functionality on the Site must provide notice and obtain consent as required by applicable law. However,
+you acknowledge and agree that Indeed has no control over such an Employer, its website, or ATS. You agree to
+Indeed's use of, and receipt of information from, any such tracker functionality. Indeed's use and receipt of
+information from such trackers will comply with the Terms and Indeed's Privacy Policy.
+
+---
+c. Use of Profile Data for Matching: You agree that any data contained in or associated with Your Profile may be
+used to suggest jobs to you and, if your Profile is Searchable, to suggest your Profile to Employers that might be
+interested in a person who matches your qualifications and preferences on the Site. You also agree that Indeed
+may contact you based on this observed behavior or provided info on behalf of Employers or Indeed itself. When
+you make changes to your Indeed Profile, including updating, deleting, or changing settings, it may take a few
+days for the changes to be reflected.
+
+---
+d. Prior Job Applications: Employers that provide information about their job applicants/candidates from their ATS
+to Indeed through our Candidate Import service may also see information about your prior job applications
+submitted through the Employer's ATS. Indeed does not guarantee the accuracy of such information.
+
+---
+a. Virtual Interviews: Employers may offer you virtual remote communications via Indeed services like Indeed
+Interview and Interview On Demand. Indeed is not a telecommunications provider but facilitates communication
+through third-party services, which may experience technical delays or malfunctions. Indeed doesn't guarantee
+the Virtual Interview experience, including transmission, audio/visual quality, data security, usage, or restrictions,
+and is not liable for claims arising from their use. Indeed doesn't guarantee Employer schedules or availability for
+Virtual Interviews, nor the validity of provided contact information. Employers are responsible for all questions,
+comments, hiring decisions, and accommodations during Virtual Interviews. An "online" indication in a Job Ad
+doesn't guarantee a live Virtual Interview selection, as employer availability is discretionary and subject to
+change. Virtual Interviews may be recorded by Employers or pre-recorded by you. You agree to respect
+recording notifications. If you don't consent to recording, you must exit. By using Virtual Interviews, you agree to
+recording, and that Indeed and third parties can store, access, and analyze recordings. Employers can also access,
+store, use, analyze, and share recordings, which is outside Indeed's control. Indeed is not liable for claims arising
+from Virtual Interview recordings. TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU UNDERSTAND AND
+AGREE THAT INDEED OFFERS NO PROTECTION, AND IS NOT RESPONSIBLE FOR SECURING OR PROTECTING,
+ANY INFORMATION OR DATA YOU SHARE OR TRANSMIT DURING VIRTUAL INTERVIEWS (INCLUDING
+AUDIO/VISUAL CONTENT, INTERVIEW QUESTIONS/ANSWERS, OR YOUR IMAGE/LIKENESS). INDEED ASSUMES
+NO LIABILITY FOR THE MISUSE OF SUCH DATA, NOR RESPONSIBILITY FOR THE AVAILABILITY OR RETENTION OF
+ANY INTERVIEW RECORDINGS. YOU ACCESS AND USE VIRTUAL INTERVIEWS AT YOUR OWN RISK.
+
+---
+c. Emails: Indeed may use an alias for your email. Once an Employer has your contact info, Indeed is not responsible
+for its use. Messages sent to an Indeed alias are processed by Indeed and its vendors for service, display, and
+other purposes as per the Terms. Indeed decides how to extract and display messages on Indeed Messaging,
+though grouping of related messages is not guaranteed. Information provided about a message sender and
+other conversation participants, like display name, may vary.
+
+---
+d. My Jobs: Indeed may offer you the opportunity to link a third-party email client to the Site for Indeed to scan
+your emails in your third-party email account and add job application updates to the "My jobs" page within your
+Indeed account. If you choose to use this feature, Indeed will automatically scan your emails and extract data that
+it identifies as being relevant to application statuses. The updates will not be limited to applications submitted on
+or through the Site, and will include applications submitted outside the Site as well. You agree to your extracted
+data being processed, analyzed, reviewed, and stored, including via automated means, for data analysis, quality
+control, enforcement of the Site's rules and other Indeed policies, content moderation, and to improve the Site or
+any other Indeed program or service. Indeed does not guarantee that the updates to the job applications listed
+on the "My jobs" page within your Indeed account will be accurate or complete. You may turn off this feature at
+any time via your email settings.
+
+---
+[PAGE BREAK]
+b. Identity Verification: When you create an Employer account, you may be required to verify your identity,
+potentially through a third-party service like ID.me or Persona ("Third Party Verification Services"). You agree that
+Third Party Verification Services are separate from Indeed and are responsible for their collection, use, storage,
+processing or loss of data you provide to them, and any related legal obligations. Indeed does not collect any
+biometric information or biometric identifiers, or receive any biometric information or biometric identifiers from
+the Third Party Verification Services.
+
+---
+c. Data: When you create an account on behalf of an Employer, the account belongs to the Employer, and you
+acknowledge that any and all information that you provide Indeed through the account, such as the actions you
+take and when you take them, will be visible to the Employer. As part of this account you may have an individual
+profile ("Employer Profile"). Your Employer Profile consists of information you provide on the Site in the "Account
+Settings" and "Employer Settings" section of the account. Employers may request that Indeed disable an account
+at any time by contacting the Employer Help Center. Please note that Indeed may be required to preserve
+business records pertaining to that account to comply with its obligations under law or to establish or exercise its
+legal rights. If you access or use any Indeed Application Programming Interface (API), including accessing and
+using the Site or any of the Indeed Apps or any Applicant Tracking System (ATS) through an API, you agree to be
+
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+e. Extended Campaign Tools: Indeed's Extended Campaign Tools (also known as "Indeed Central" or "Groups")
+help coordinate Job Ads for multi-location businesses like franchises or large companies with many locations.
+Use of these tools means sharing your account data (locations, Job Ad performance, contact, spend) with your
+franchisor or corporate HQ. The franchisor or corporate HQ may also provide Indeed with contact info for their
+franchisees/local offices and Job Ad content. By using these tools, you consent to this data sharing, confirm all
+provided information is accurate, and warrant you have the right to share it. You can request Indeed grant
+additional users access to your Extended Campaign Tools account; Indeed will contact these users based on the
+information you provide and is not responsible for user verification.
+
+---
+a. General: When you post a Job Ad, Indeed/Glassdoor may automatically create a Company Page or Glassdoor
+Profile Page for you, displaying public company information. You authorize Indeed to claim this page on your
+behalf (known as "Claimed Profile" or similar), allowing you to edit it. User Content, including Job Ads (both
+directly posted by you and indexed by Indeed from other sources), may appear on your Company Page. You are
+solely responsible for content you add or edit on your Company Page, including photos, videos, and linked third-
+party websites. We moderate User Content using the same standard of review for all employers and do not
+provide preferential treatment for our customers. You understand and agree that our application of User
+Content moderation policies, and our decision of whether or not to remove a piece of User Content, is within our
+sole discretion and cannot form the basis of a violation of the Terms.
+
+---
+[PAGE BREAK]
+a. General: When you use Indeed's candidate management tools (e.g., using the interface where you can view and
+manage your candidate data (your "Employer Dashboard"), using the Indeed Apply function for your Job Ads),
+you agree Indeed may make available functions allowing you to take actions regarding the Job Seeker, such as
+tools for setting up interviews, viewing resumes, and rejecting candidates. If you use Indeed's candidate
+management tools, Indeed may compile a candidate's application materials into a single document or webpage
+and may add functions into corresponding Indeed Apply emails. Indeed may also enable a chatbot for Job
+Seekers to apply to your Job Ad by answering questions, with their answers presented as a job application.
+Additionally, Indeed may activate its Indeed Apply relay function for your Job Ads and send applications to your
+provided email address. Indeed may use your data from interactions with materials (Job Ads, resumes,
+applications, interviews, messages) on the Site or ATS for data analysis, quality control, or to improve programs
+and services, including search results. Indeed may store such information regardless of whether a job vacancy
+has been filled.
+
+---
+[PAGE BREAK]
+e. Matches: Indeed may present Job Seeker Resumes which match Job Ads you have posted, or present Job Ads to
+matching Job Seekers. To generate matches, Indeed uses data collected through our Site from both Employers
+and Job Seekers. This includes Job Ads, Resume, application materials (including responses to screener
+questions), and user activity on the Site (such as searches run and Job Ads clicked on and applied to). Indeed's
+matches use the ESCO classification of the European Commission. You are free to disregard such matches and
+are ultimately responsible for your sourcing and screening decisions.
+
+---
+g. Your Collection of Demographic Data: Indeed may offer functionality permitting you to request demographic
+information, including disability status, from applicants to your Job Ad. If you use such functionality, you
+represent that you are a federal contractor or subcontractor who is required to seek disability status information
+from job applicants for the purpose of complying with the Department of Labor's Office of Federal Contract
+Compliance Programs ("OFCCP") requirements. You acknowledge that this functionality is presented without
+warranty, and compliance with any OFCCP or other governmental record-keeping requirements remains your
+sole responsibility.
+
+---
+h. Indeed's Collection of Demographic Data: Indeed may give Job Seekers the opportunity to provide certain
+demographic information to Indeed, such as race and ethnicity, gender, age, LGBTQ+ community membership,
+and disability status, as well as whether they have an arrest or conviction record ("demographic data"). This
+Indeed demographic data survey is separate from any voluntary self-identification questions provided by
+Employers. You agree that Indeed may collect demographic data from Job Seekers applying to your Job Ad using
+Indeed's demographic survey, and that Indeed may use information from that survey to evaluate and improve
+our services. You further agree that you as an Employer have no ability, right, or entitlement to view or access
+demographic data collected via the Indeed demographic data survey pertaining to any Job Seeker or related to
+any employer by any means including civil discovery, subpoena, or any other legal process without their
+permission. Indeed disclaims any warranty regarding the demographic composition of Job Seekers applying to
+any particular job.
+
+---
+j. Verification: You acknowledge that as part of its efforts to combat fraud and spam, Indeed may require that
+users verify their email address, including Job Seekers applying to your job. However, email verification is not
+guaranteed. You are responsible for your use of any software that rejects applications from unverified email
+addresses.
+
+---
+[PAGE BREAK]
+1. Phone Screening: By using any automated phone screen service, you agree that you are requesting Indeed to
+send a Job Seeker a telephone number, which the Job Seeker may call with the purpose of answering your
+telephone screening questions. You agree these questions are part of your application process, are solely
+determined by you, and are not being asked by Indeed. You also agree that Indeed will forward you the recording
+of the answers to your questions. This includes Indeed listening to and analyzing the recording in accordance
+with Indeed's Privacy Policy, as well as Indeed providing the recording to third parties to aid in analysis or quality
+of the service. Indeed disclaims all warranties with regard to the transmission or storage of such phone screens
+and responses, does not guarantee their delivery or receipt, and does not guarantee the date or time at which
+they may be sent.
+
+---
+m. Labels: Indeed may add informational labels like "Responsive Candidate" or "Interested" to Job Seeker profiles
+based on activity or status, and can change or remove them. If you transfer candidate data to a third-party ATS,
+Indeed may reflect the status of that transfer on your dashboard, based on whether the ATS has acknowledged
+receipt of the data or not. Indeed does not guarantee the accuracy of such labels.
+
+---
+a. Virtual Interviews: You may be offered tools for virtual interviews or other communications. (e.g., Indeed
+Interview, Indeed Hiring Platform, Interview On Demand, phone/video interviews). These services may include
+scheduling, conferencing, and other collaborative tools from third-party providers. Indeed is not a
+telecommunications provider and does not guarantee service availability, quality, or interview times. Indeed also
+doesn't verify Job Seeker identities or qualifications. Indeed is not a party to your Virtual Interviews and is not a
+participant in any arrangements you make with Job Seekers. While Indeed may allow you to signal availability for
+live Virtual Interviews in Job Ads, this doesn't guarantee applications or interview availability. By using Interview
+On Demand, you commit to being available when your Job Ad status is set to "online." Upon your request, Indeed
+may invite additional company representatives to join Virtual Interviews using email addresses you provide. You
+are responsible for the accuracy of this contact information and for the conduct of your representatives. By
+extending invitations, you are binding them to Indeed's Terms, and you represent that you have the authority to
+do so. TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU UNDERSTAND AND AGREE THAT INDEED OFFERS
+NO PROTECTION, AND IS NOT RESPONSIBLE FOR SECURING OR PROTECTING, ANY INFORMATION OR DATA
+YOU SHARE OR TRANSMIT DURING VIRTUAL INTERVIEWS (INCLUDING AUDIO/VISUAL CONTENT, INTERVIEW
+QUESTIONS/ANSWERS, OR YOUR IMAGE/LIKENESS). INDEED ASSUMES NO LIABILITY FOR THE MISUSE OF SUCH
+DATA, NOR RESPONSIBILITY FOR THE AVAILABILITY OR RETENTION OF ANY INTERVIEW RECORDINGS. YOU
+ACCESS AND USE VIRTUAL INTERVIEWS AT YOUR OWN RISK.
+
+---
+c. Use of Virtual Communications: You shall only use the recordings and other information obtained through
+Virtual Communications for your internal hiring purposes. You agree that the interview questions are part of
+your application process and determined solely by you. Indeed reserves the right to not submit a candidate's
+response if a candidate or Employer uses the tool in an abusive manner, which shall be determined in Indeed's
+sole discretion. The content of the interview questions, as well as the content of any video recordings, transcripts
+and any other information that you or a Job Seeker sends through the Site are considered User Content as
+defined in the Terms.
+
+---
+d. Recording Consent: You shall not record any communication with a Job Seeker without securing all necessary
+consents from all participants, in compliance with all applicable laws. By enabling any recording feature on the
+Site, you represent and warrant that you have obtained such consent and will comply with all applicable laws,
+including state and federal law regarding consent to record interviews and phone calls.
+i. You agree that any recordings made through the Site may be stored and accessed by Indeed and its
+vendors.
+ii. We may retain recordings in accordance with our video retention policy, after which they will be
+permanently deleted. However, you agree that Indeed is not obligated to store or retain any recording of a
+Virtual Interview.
+
+---
+[PAGE BREAK]
+g. Information Provided by Indeed (e.g., Badges, Summaries): Indeed may, at its discretion, add labels, badges, or
+summaries (e.g., "Responsive Employer," "Active Employer," "Hired on Indeed," "Verified") to Employer names or
+Job Ads, and may share explanatory content with Job Seekers regarding an Employer's responsiveness or a Job
+Ad's details. Such content may be Al-Generated Content. Indeed determines eligibility for such labels and
+content. The absence of a label or content may indicate insufficient data. Indeed does not guarantee the
+accuracy of such labels, badges, or content and may change or remove them at any time. Indeed may inform Job
+Seekers of your actions or inactivity regarding their application materials (e.g., viewing, responding, online
+status), and you consent to this.
+
+---
+7. Candidate Import
+a. General: Indeed may offer functionality that allows you, or someone acting on your behalf or authority (such as a
+recruitment management service), to upload (or otherwise sync or provide) information about job
+applicants/candidates to Indeed and to manage these candidates and direct Indeed to interact with these
+candidates on your behalf (hereafter "Candidate Import").
+
+---
+b. Data Processing: By using Candidate Import, you instruct Indeed to display information about interactions with
+job applicants within your and your applicants' respective Indeed accounts. If this information includes Client
+Personal Data (as defined below), you instruct Indeed to process such information on your behalf pursuant to the
+Terms and the Data Processing Agreement. You represent and warrant that you or any authorised third party
+have obtained all necessary rights and consents from, and provided all necessary information and disclosures to,
+job applicants as required under Applicable Data Protection Law to share their Personal Data with Indeed. You
+agree to defend and indemnify Indeed for any losses, claims (including third party and direct claims), actions,
+suits, demands, damages, judgments, settlements, liabilities, and costs and expenses (including attorneys' fees
+and costs) arising out of or related to the breach of the foregoing sentence.
+
+---
+d. Collection and Processing of Data: The Extension permits Employers to access certain Site features, programs,
+and services from an Employer's ATS. To provide its services, the Extension interacts with certain web pages (like
+pages within your Employer ATS) that you visit. If you do not want the Extension to interact with or access
+those certain web pages, do not use the Extension. It is your sole responsibility to permit or deny the Extension
+access.
+When using Site features, programs, and services accessed through the Extension, you agree to your activities,
+
+---
+[PAGE BREAK]
+communication, materials, and User Content (including on your ATS) being recorded, processed, analyzed,
+reviewed, and stored (including via automated means) for data analysis, quality control, enforcement of the Sites'
+rules and other Indeed policies, content moderation, and to improve the Extension, the Site or any other Indeed
+program or service. To achieve these purposes, we use such data about your particular activity, communication,
+and materials to develop, train, build, and use statistical models, including artificial intelligence and machine
+learning models. In accordance with Indeed's Data Processing Agreement and as allowed by applicable laws, we
+may use Indeed Job Seeker data to improve our services, including by developing, training, fine-tuning, building,
+and using artificial intelligence, including statistical and machine learning models.
+Indeed also uses vendors as an extension of the Site and the Extension to collect, record, process, analyze, and
+store activity and communication data and User Content to help Indeed achieve the aforementioned purposes. If
+you disagree with any part of these terms, do not use the Extension.
+By installing the Extension, you agree to Indeed's collection of data relating to your visit to third party sites, as
+described in Indeed's Privacy Policy and Cookie Policy.
+
+---
+c. Target audience: Target audience membership is based partly on information and criteria provided by the
+Employer, for example information provided in the Ad, but the composition of each target audience on the Site,
+and the frequency of publication to that audience, are determined by Indeed in its sole discretion. Indeed may
+have limited or no control over the display of Ads on Other Sites, including their audiences.
+
+---
+[PAGE BREAK]
+f. Pricing Generally: The price to sponsor an Ad is measured by user activity, such as impressions, clicks, Started
+RSVPS, RSVPS, or Started Applications. You are not buying these clicks or other actions themselves; they are only
+different ways to measure the advertising service Indeed provides. Prices vary based on many factors, including
+supply and demand of Ads, impressions, clicks, Started RSVPS, RSVPs, Started Applications, Applications, internet
+traffic, time of day or year, job title, and job location. You are responsible for setting and managing your campaign
+budgets. Indeed's budget recommendations and performance estimates (like expected visibility or clicks) for
+your Ad are "as is," without warranty. They don't guarantee performance, visibility, or interaction. A budget set
+for one campaign does not apply to others. You may have the option to sponsor an Ad at a "per day" budget
+specified on the Site; in that case, Indeed charges the specified amount daily regardless of Ad activity. Your Ad
+runs only up to the daily budget and may not last all day. Budget changes or closures can take a day to apply,
+during which the budget is non-refundable.
+Indeed may require a minimum budget per Job Ad or Indeed Hiring Event, including for each Ad in a campaign. If
+a campaign budget is insufficient, some Ads will not be sponsored until more budget is added.
+You can sponsor an Ad or a campaign at a premium budget for specific features on the Site. Available features for
+each Ad within a single campaign may vary. You are responsible for reviewing and selecting features and optional
+targeting, including geographic and job criteria. Indeed does not guarantee the accuracy of user-provided
+information for some targeting features. You can opt in or out of optional Ad features, and your Ad budget won't
+change unless stated otherwise. Charges are based solely on Indeed's measurements of user activity (e.g.,
+clicks, applications, impressions), which are binding. Indeed's measurements of user activity may include and
+rely on data from third parties, including vendors and Other Sites, over which Indeed has limited control or
+knowledge.
+
+---
+[PAGE BREAK]
+1. Tracking Pixels: Indeed permits you to include tracking pixels in Ads as a courtesy but may disable them at any
+time, without warranty of function or accuracy. Do not rely on pixels; they are for convenience only and cannot
+be used for user profiling, behavioral analytics, or to dispute Indeed's advertising charges. You are solely
+responsible for your pixels and must comply with all applicable privacy and data protection laws. You agree to
+defend and indemnify Indeed from any losses, claims (including third party claims and direct claims), actions,
+suits, demands, damages, judgments, settlements, liabilities, and costs and expenses (including attorneys' fees
+and costs) arising out of or related to your use of tracking pixels.
+
+---
+m. Integrations: Indeed may support or offer functionality by which an Employer may monitor progress through
+parts of their hiring process, such as a conversion tracker or ATS integration ("Integrations"). Integrations send
+data to Indeed about applications originating on the Site, including completion of an application, contacts,
+interviews, and hiring decisions. This data is User Content under the Terms. Integrations involving Indeed's
+Sponsored Jobs API may also allow Employers to automate the sponsorship of Job Ads. By accessing or using the
+Sponsored Jobs API, you or your End User may incur a charge whenever your or your End User's monthly spend
+to sponsor Job Ads via monthly campaign(s) is less than the calculated total monthly cost of using the API as
+determined by Indeed and indicated on the Site, in the API Documentation (including in the Indeed Developer
+Portal), or as otherwise communicated to you by Indeed. Spend on Job Ads sponsored with daily budgets is not
+considered when determining if you or your End User will incur a charge. Charges are solely based on Indeed's
+
+---
+[PAGE BREAK]
+d. Disclaimer: Smart Sourcing tools use Job Seeker-provided information and your job requirements to filter, sort,
+match, or rank. A resume's appearance in results doesn't guarantee the Resume Owner has selected
+attributes/experience or job interest. You are solely responsible for verifying all Resume Owner/Job Seeker
+information, including licenses, certifications, or security clearances. Indeed does not guarantee the accuracy of
+any skill, certification, or qualification verifications on the Site; you are solely responsible for verifying this
+information. You also are solely responsible for any action or decision you make with respect to recruitment or
+hiring that is based in whole or in part on information you receive in connection with your use of Smart Sourcing.
+
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+a. General: When filling out forms
+associated with Career Services, you agree to provide complete and accurate information. Any information you
+upload through the forms, including a resume, constitutes User Content and shall be treated in accordance with
+any User Content sections herein.
+
+---
+b. Features: Jobseeker Premium features may vary based on your location, as described on the Site. Top Applicant
+Feed suggests jobs where you may be a top applicant, based on your Profile data, applicant data and the job's
+information. It does not guarantee outcomes and is not endorsed by the hiring authority or Employer for each
+particular job. With your Jobseeker Premium subscription, you may receive Top Choice credits, where you can
+mark an application as a Top Choice. Only certain jobs are eligible for Top Choice designations. During your free
+trial, you may be able to mark one application as a top choice. Top Choice credits do not have a particular
+monetary value. They do not roll over at the end of each month. If you do not use all of your Top Choice credits
+during a monthly billing cycle, you will lose any unused credits. If you cancel your Jobseeker Premium
+subscription, you will lose any unused Top Choice credits at the end of your subscription period. Applicant
+Insights provides information about other applicants to a job. This data is aggregated and only available for
+certain jobs where enough information is available. Who Viewed My Profile provides information about
+companies that have viewed Your Profile or your application. This may reflect times when Your Profile was
+returned in search results or in a list of Jobseekers. In certain locations, Jobseeker Premium may also include
+access to Beta Al features, such as Mock Interviews (Section C.6 of our Terms for Specific Programs and Services)
+and certain Career Scout features (Section C.7 of our Terms for Specific Programs and Services). Use of these
+features is subject to our Al-Generated Content Terms (Section D.9 of our Terms for All Users).
+
+---
+[PAGE BREAK]
+6. Mock Interviews (Beta)
+Indeed may offer you the opportunity to participate in mock interviews facilitated by an Al interviewer and powered by
+Al ("Mock Interviews"). Mock Interviews is subject to our Beta Program terms. If you access or use Mock Interviews, in
+addition to the Terms, you agree to be bound by these Mock Interviews Terms. Mock Interviews are a practice
+exercise only and are not affiliated with any Employer. The questions and format may differ from actual Employer
+interviews. Al may be used to both generate and select interview questions that are asked during the interview. At the
+end of the session, an Al-generated score and feedback will be provided based on your responses, which will be
+recorded. The score is determined based on the substance of the responses, including their relevance, clarity,
+structure, and other factors. Feedback on pacing (speaking speed) and filler words is provided separately and does not
+impact your score. The score and feedback will not be shared with employers and should not be considered a
+prediction of your performance in an actual interview.
+
+---
+All Al-Generated Content provided as part of Mock Interviews is subject to the "Al-Generated Content" section of the
+General Terms for All Users, Section D.9, below. No biometric data is collected as part of Mock Interviews. Indeed may
+suggest best practices, but you are solely responsible for your job search and interview process. Indeed is not
+responsible and disclaims liability for actions taken or not taken based on Mock Interviews content. Mock Interviews
+are not professional career counseling or staffing services. In providing Mock Interviews, Indeed is not acting as a job
+placement agency or staffing firm. The Mock Interviews feature has no impact on your real job applications or
+searches on Indeed. Your Mock Interviews responses, interactions, score and feedback will not be shared with any
+employers, and will not influence your experience with other Indeed features. For example, Mock Interviews will not
+affect your applications, which jobs you are matched with, the information displayed or saved in your Indeed Profile, or
+which job recommendations you receive.
+
+---
+[PAGE BREAK]
+b. Career Scout uses Al to give you job suggestions, resume help, company information, and general support with
+the job search and application process. This Al-Generated Content is based on your profile, how you use Indeed,
+and other user-generated data like Employer's Job Ads and company reviews. Career Scout involves interacting
+with an Al chatbot. Career Scout may assist you with pre-filling application materials based on your profile,
+previous screener question answers, and information you choose to share with the chatbot. If you choose to use
+this feature, you are responsible for reviewing and editing all pre-filled information prior to submitting the
+application to an employer. Indeed is not a career or legal advisor when providing Career Scout. We do not
+promise you any particular employment outcomes. You are responsible for your own job search and your use of
+Career Scout, as further explained in Indeed's Terms for Job Seekers. We collect, store, process, and analyze
+your interactions with Career Scout. We do this as and for the purposes described in the Indeed Terms of Service
+for All Users and our Privacy Policy.
+
+---
+[PAGE BREAK]
+f. Collection and Processing of Data: When using Talent Scout, you agree to your activities, communication,
+materials, and User Content on or through Talent Scout (and your ATS when using Talent Scout through your
+ATS) being recorded, processed, analyzed, reviewed, and stored, including via automated means, for data
+analysis, quality control, enforcement of the Sites' rules and other Indeed policies, content moderation, and to
+improve Talent Scout, the Site or any other Indeed program or service. We use such data about your activities,
+communication, materials, and User Content to develop, train, build, and use statistical models, including artificial
+intelligence and machine learning models. Indeed also uses vendors as an extension of the Site to collect, record,
+process, analyze, and store activity and communication data, and User Content. In accordance with Indeed's Data
+Processing Agreement and as allowed by applicable laws, we may use Client Personal Data to improve our
+services, including by developing, training, fine-tuning, building, and using artificial intelligence, including
+statistical and machine learning models. If you disagree with any part of these terms, do not use Talent Scout.
+Employers, their representatives or someone acting on their behalf or authority (such as recruitment
+management services or agencies) agree that Indeed may process Client Personal Data in accordance with
+Indeed's Data Processing Agreement, and instruct Indeed to process such information on their behalf, when
+using Talent Scout on or through their ATS.
+
+---
+[PAGE BREAK]
+a. General: If you access or use Indeed Al Recruiting Summaries ("Al Recruiting Summaries"), in addition to the
+general Terms of Service, you agree to be bound by these Al Recruiting Summaries Terms and the Terms of
+Service for Employers. You also acknowledge our Privacy Policy and Cookie Policy.
+Al Recruiting Summaries uses artificial intelligence and machine learning models (including third-party large
+language models) to support Employer hiring needs, including by providing a match score and summaries based
+on your job criteria; providing Indeed Al generated follow-up questions based on your job criteria for applicants
+to answer using video, audio, and text-based responses ("Al Follow-Up"); providing optional license verification
+(via public state licensing boards) for certain health care professions; and optional automated messaging tools.
+You can choose to enable Al Recruiting Summaries for certain jobs as indicated on the Site. For every job for
+which you enable Al Recruiting Summaries, you request Indeed to include an Al-powered match score and
+summary with each candidate application delivered to you, and you request Indeed to generate Al Follow-Up
+questions for your job applicants based on your job criteria so that you can get to know your applicants better.
+You can access the candidate's Al Follow-Up responses and a summary thereof, but the Al-powered match score
+will not include any evaluation of a candidate's Al Follow-Up responses. Al Follow-Up is automatically enabled for
+jobs for which you enable Al Recruiting Summaries, but you can turn off Al Follow-Up or Al Recruiting Summaries
+at any time in your Employer Dashboard. Each applicable job ad will include a notice to job seekers that your job
+uses Indeed to provide Al summaries.
+
+---
+[PAGE BREAK]
+f. Collection and Processing of Data: When using Al Recruiting Summaries, you agree to your activities,
+communication, materials, and User Content on or through Al Recruiting Summaries (and your ATS when using
+Al Recruiting Summaries through your ATS) being recorded, processed, analyzed, reviewed, and stored, including
+via automated means, for data analysis, quality control, enforcement of the Sites' rules and other Indeed policies,
+content moderation, and to improve Al Recruiting Summaries, the Site or any other Indeed program or service.
+We use such data about your activities, communication, materials, and User Content to develop, train, build, and
+use statistical models, including artificial intelligence and machine learning models. We also use vendors as an
+extension of the Site to collect, record, process, analyze, and store activity and communication data and User
+Content in furtherance of the aforementioned purposes. In accordance with Indeed's Data Processing
+Agreement and as allowed by applicable laws, we may use Client Personal Data to improve our services,
+including by developing, training, fine-tuning, building, and using artificial intelligence, including statistical and
+machine learning models. If you disagree with any part of these terms, do not use Al Recruiting Summaries.
+Employers, their representatives or someone acting on their behalf or authority (such as recruitment
+management services or agencies) agree that Indeed may process Client Personal Data in accordance with
+Indeed's Data Processing Agreement, and instruct Indeed to process such information on their behalf, when
+using Al Recruiting Summaries on or through their ATS.
+
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+When you submit a review, rating, or answer about an employer, you agree that this content, including your job title,
+location, employment status (current/former), and submission date, may be displayed publicly on the Site. Indeed is
+not responsible or liable for this User Content, even if it personally identifies you. If you wish for your content to remain
+private or anonymous, do not provide it.
+
+---
+You are responsible for all information you provide or request that Indeed publish, whether through the Site or
+otherwise, and whether generated by or for you, in any medium, including text, image, mark, logo, video, or audio, all
+which is considered User Content under the Terms. If you provide User Content, it must comply with the Site Rules
+(below), Indeed's policies, and the Terms.
+
+---
+[PAGE BREAK]
+a. Indeed Collects and Processes Communication Data: By using the Site, including via an API, you agree that
+Indeed collects, records, processes, analyzes, and stores (including via automated means) all your activities,
+interactions, and communications on or through the Site. This includes visited URLs, viewed content, input info,
+clicks, scrolls, hovers, and time spent. For example, when you search for jobs, send/open emails, message users,
+chat with support, interact with a chatbot, speak with personnel, or submit applications, Indeed collects this data
+from all users, including those in private browsing modes. If you, or anyone on your behalf, send or receive
+communication via API (including by sending or receiving communication to/from an email address aliased by
+
+---
+[PAGE BREAK]
+Indeed or by using a different email address from the one associated with your account), you agree to the
+communication being processed in accordance with this section. This data about your activities, interactions, and
+communications on or through the Site is used for analysis, quality control, policy enforcement, content
+moderation, and to improve the Site and other Indeed programs/services. To achieve these purposes, we use this
+data to develop, train, build, and use statistical models, including artificial intelligence and machine learning
+models. Indeed uses vendors as an extension of the Site to collect, record, process, analyze, and store this data.
+You authorize Indeed to use this data, User Content, and Al-Generated Content to develop and train Al/machine
+learning models, without compensation. If you disagree with any part of these terms, do not use the Site.
+When you use the Site, you are requesting that Indeed send data, text, and images which may be stored in
+temporary or permanent storage in your device. You may delete this data by clearing third-party cookies from
+your browser and device. You authorize Indeed to make any connections with wires, lines, cables, or instruments,
+including with communication systems, that it may decide to make from time to time in connection with
+operating the Site. You further authorize Indeed to use processes that record or decode dialing, routing,
+addressing, and signaling information. You acknowledge that the foregoing is necessary to the operation of the
+Site.
+
+---
+[PAGE BREAK]
+d. Your Contact Information: Indeed may contact you via your account, email, phone (mobile included), or postal
+mail, using information you provide or Indeed obtains from third parties. By providing a phone number you
+confirm you are the primary user and agree to receive calls and Text Messages at that number, even on mobile,
+which may be automated. "Automated" on the Site refers to sending messages to your provided number, not
+number generation. Promptly update your number if it changes. You agree that providing your number or using
+the Site establishes a business relationship, allowing Indeed to send you related Text Messages. To stop Text
+Messages, reply STOP or contact Indeed Customer Support. Other unsubscribe attempts may not be recognized.
+Replying STOP to an Indeed text alert unsubscribes you from those specific alerts. For subscribed offerings like
+Hiring Events, reply STOP within those specific message flows. Replying STOP only unsubscribes you from Text
+Messages; other communications may continue. You can also revoke Text Message consent by closing your
+Indeed account. Indeed is not responsible for third parties you've given your number to. To stop
+marketing/commercial emails or manage preferences, update email settings on your Indeed account or use the
+unsubscribe link in the messages.
+
+---
+f. Phone Number Only (PNO) Accounts: In certain countries, you may create an account using only a phone
+number and a WhatsApp account. You acknowledge the limitations of PNO Accounts, including that if you lose
+access to your phone number, you may lose access to your account and data, and that password recovery may
+not be possible. You represent that you are the primary user of the telephone number registered. If the phone
+number associated with your PNO Account has been recycled or a third party has access to it, there is a risk that a
+third party could access your PNO Account. To unsubscribe at any time from non-transactional WhatsApp
+messages connected to your PNO Account, reply STOP by WhatsApp to the relevant message. DUE TO THE
+UNSTRUCTURED CONVERSATIONAL FORMAT OF THIS SERVICE, WE MAY NOT RECOGNIZE OTHER
+UNSUBSCRIBE ATTEMPTS. Please note that since PNO Accounts depend on the functionality of third-party
+providers, there may be technical issues on the part of those providers. Indeed accepts no liability regarding
+phone numbers in PNO accounts being recycled or Job Seekers losing access to such phone numbers.
+
+---
+[PAGE BREAK]
+b. Billing: Invoices may be sent electronically. By providing a payment method, you authorize Indeed to charge it for
+all fees owed.
+If your Indeed employer account has a credit card or other payment method on file, such as bank account information
+for Automatic Clearing House ("ACH") payment, Indeed may charge that payment method for any programs or
+services you order and for any outstanding payments, including to correct billing errors.
+By providing your bank account information and signing up for direct debits from Indeed, you authorize Indeed to use
+ACH to debit the bank account specified for any amount owed for charges arising from your use of Indeed's services
+or purchase of programs or services from Indeed, pursuant to these terms, until this authorization is revoked.
+Your credit card, bank account, and related billing and payment information may be shared by Indeed with companies
+who work on Indeed's behalf, such as payment processors or credit agencies, for the purposes of checking credit,
+effecting payment to Indeed, and servicing your account. Indeed may obtain updated payment information for credit
+and debit cards through payment card networks, card issuers or other third party sources. Indeed may use the
+updated card and bank account information to charge amounts you owe for purchase of any Indeed service unless
+otherwise indicated by You. Indeed shall not be liable for any use or disclosure of such information by such third
+parties. You may not delete a credit card from your Indeed account if it is the only payment method on file and you
+have outstanding invoices or charges to your Indeed account. Indeed may also provide information in response to
+valid legal process, such as subpoenas, search warrants and court orders, or to establish or exercise its legal rights or
+defend against legal claims. Indeed shall not be liable for any use or disclosure of such information. You waive all claims
+relating to charges unless claimed within 120 days after the charge (this does not affect your credit card issuer rights).
+
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+a. General: Generally, the Site is only for use by people aged 16 or over. However, some jurisdictions might have
+different restrictions as outlined below. In all jurisdictions, if you are under the legal age of majority in your
+jurisdiction, you must use the Site under the supervision of your parent, legal guardian, or responsible adult, even
+if your age is above the Indeed permitted use age for that jurisdiction. By accessing the Site from anywhere, you
+represent and warrant that your age is above the Indeed age restrictions in your jurisdiction (e.g. over 16 in the
+United States, and over 18 in EEA). We adopt a range of measures to try to ensure that no information is
+knowingly solicited from individuals who do not meet the minimum age or any other applicable age
+requirements. If we learn that an individual who does not meet the minimum age requirement has used the Site
+or provided personal information through the Site, we will restrict access to, or close their account, and remove
+that information from our systems.
+
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+1. Recommender Systems
+Indeed uses the following information to display Job Ads in recommender systems (as defined under the DSA) and to
+determine the relevant prominence of Job Ads within such recommender systems: information directly provided to
+Indeed such as profile information and resume, prior activity on the Site, search terms and/or search location ("Main
+Parameters"). Prior activity on the Site means actions that you have taken on the Site, for example, previous searches,
+jobs that you have clicked on, jobs that you have applied to, job alert emails that you have subscribed to and
+companies/roles in which you have expressed an interest. To modify or influence the search results you see, you can
+modify your search terms.
+
+---
+The Main Parameters are used by Indeed to target Job Seekers with Job Ads that are most suitable for them, based on
+information available to Indeed. The appearance of a Job Ad on your job search results page is not a guarantee that
+the Job Ad is suitable for you. Indeed ranks and orders Job Ads within search results based on a combination of
+remuneration paid to Indeed by Employers and the Main Parameters.
+
+---
+In the EU, we return search results in Resume Search/Smart Sourcing based on search terms, Job Ad data, prior activity
+of Resume Owners on the Site and/or Resume Owner data. Resume Owner data refers to data provided by Resume
+Owners to Indeed, for example, their current job title and location. Prior activity of Resume Owners means actions that
+Resume Owners have taken on the Site, for example, jobs that Resume Owners have previously applied to or clicked
+on. The most significant criteria in determining the information suggested to users is search terms. These parameters
+are used to try to predict the probability that a Resume Owner will apply to a Job Ad and positively respond to an
+Employer
+
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+Applicable Data Protection Law means all laws, regulations, and other legal requirements relating to (i) privacy, data
+security, consumer protection, marketing, promotion, and text messaging, email, and other communications; (ii) the
+use, collection, retention, storage, security, disclosure, transfer, disposal, and other processing of Personal Data
+applicable to the processing of Client Personal Data under the Agreement including but not limited to General Data
+Protection Regulation 2016/679 ("GDPR"), Federal Data Protection Act of 19 June 1992 (Switzerland), UK Data
+Protection Act 2018 and UK General Data Protection Regulation (UK GDPR), Japanese Act on the Protection of
+Personal Information (Act No. 57 of 2003 as amended in 2015) and any US state or federal laws or regulations
+pertaining to the collection, use, disclosure, security or protection of personal data, or to security breach notification,
+e.g. The California Consumer Privacy Act, as amended by the California Privacy Rights Act (together the "CCPA"); and
+binding guidance and / or codes of practice issued by a competent supervisory authority under applicable laws (as
+defined in the GDPR), or the European Data Protection Board.
+
+---
+Client Personal Data means Client-owned or controlled personal data, where Indeed acts as the Processor or Service
+Provider of such Data. Unless prohibited by Applicable Data Protection Law, Client Personal Data shall not include
+information or data that is anonymized, aggregated, de-identified and/or compiled on a generic basis and which does
+not name or identify a specific person.
+
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+Categories Data Subjects
+The personal data transferred concern the following categories of data subjects: Individuals about whom Personal
+Data is provided to Indeed via the Services by (or at the direction of) Client, which may include without limitation
+Client's or its Affiliates' employees, contractors, and end users.
+
+---
+Purposes of the transfer(s)
+The transfer is made for the following purposes: Indeed will only process Client Personal Data as Processor for the
+following purposes and only when necessary and proportionate to comply with the Client's instructions: Providing
+and updating the Services as licensed, configured, and used by Client and its users, including through Client's use of
+Indeed settings, administrator controls or other Service functionality; Securing and real-time monitoring the Services;
+Resolving issues, bugs, and errors; Providing Client requested support, including applying knowledge gained from
+individual Client support requests to benefit all Indeed Clients but only to the extent such knowledge is anonymized as
+set out in the Agreement and this Appendix A detailing the subject matter, nature, purpose, and duration of Personal
+Data Processing in the Controller to Processor capacity; Any other documented instruction provided by Client and
+acknowledged by Indeed as constituting instructions for purposes of this Addendum.
+
+---
+Categories of Personal Data
+Depending on the Services you use, the personal data transferred may primarily concern the following categories of
+data:
+Indeed Account Information: Data associated with the end user's Indeed account, password, company name, and
+Client's preferences. This will include: Indeed unique user ID, social media login (optional), email address, and display
+name.
+Client Authentication Data: This may include username and password unless Single Sign On (SSO) is used.
+Interview Content. This may include video, audio, transcripts, interview notes, and interview questions.
+Chat Messages. Content sent between users on an Indeed hosted video platform (e.g. Indeed Interview)
+Calendar Information. This may include meeting schedules and event information made available through Client
+controlled integrations (e.g. Outlook, Google Calendar).
+Candidate Materials: Data that Job Seekers disclose to employers in the hiring process. This data may include
+applications, which generally contain job seeker resumes, screening data (such as answers to screener questions),
+cover letters, and any other data a job seeker agrees to share with Employers when they express interest in
+employment opportunities, for example, by applying or registering for events.
+Employer Materials: This may include contact details to receive applications and messages, recruiter profiles,
+disposition information and employers' notes about candidates, and candidate preferences.
+Interview Metadata: This may include information about your interview product usage, such as frequency, quality,
+timezone, attendance, and duration of events, as well as network activity and sample text you save to dash.
+Device and Network information: Information about your desktop and mobile device, which may include network
+data, operating system, user agent, MAC / IP address, and service logs.
+User Feedback and Satisfaction Data: This may include ratings and plain text feedback on how we can improve our
+services.
+
+---
+Special categories of personal data (if appropriate)
+Special categories are not required to use the Services. Such special categories of data include, but may not be limited
+to, Personal Data with information revealing racial or ethnic origin, political opinions, religious or philosophical belief,
+genetic or biometric data, data concerning your health or sexual orientation. To the extent such sensitive data is
+submitted, it is determined and controlled by Client in its sole discretion.

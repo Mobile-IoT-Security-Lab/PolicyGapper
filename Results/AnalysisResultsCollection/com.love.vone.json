@@ -1,0 +1,64 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "2.User product interactions: Collects user product interactions and interaction information, including app launch, taps, and video views.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Information related to content that you have searched or viewed using Vone, such as used web search terms, accessed social media profiles, and details of other information and content that you have accessed or requested while using Vone ;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "\"Share information\" It refers to the information about or related to you that you voluntarily share on Vone .Shared information may include your VoneContent published on (including personal data disclosure, lists you create, and photos, videos, or recordings accessed through your device's camera and / or microphone sensors with your prior consent), any content you republish that has been published by others, and location data and log data associated with such publications.Shared information also includes information about you (including location data and log data) shared by others who are using Vone .",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "2.User product interactions: Collects user product interactions and interaction information, including app launch, taps, and video views.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Information related to content that you have searched or viewed using Vone, such as used web search terms, accessed social media profiles, and details of other information and content that you have accessed or requested while using Vone ;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "3.Diagnostic information: Collects information related to the performance of your app and the SDK, including crash logs, app launch time, hang rate, and energy usage.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "3.Diagnostic information: Collects information related to the performance of your app and the SDK, including crash logs, app launch time, hang rate, and energy usage.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "3.Diagnostic information: Collects information related to the performance of your app and the SDK, including crash logs, app launch time, hang rate, and energy usage.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "If you register an account to use Vone then we will need some information\nfrom you to set this up (e.g., to set up a profile and validate your phone\nnumber). To set up your account, we will need a nickname, your mobile\nnumber, and a password. You can further refine and populate your profile\nwith additional information. If you use the services available within Vone\n(such as posting photos to your Moments and Time Capsule or following\nOfficial Accounts), we will process information to allow the services to\noperate.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "1. \"Location data\" Is information derived from your GPS, Wi-Fi, compass,\naccelerometer, IP address, or public post that contains location\ninformation.Location information will be disclosed to us or other users, or\nboth, when:\n• When you use location-based features (such as \"People Nearby\", \"Live\nNearby\", \"Nearby News\", \"Add Location to Published Content\", etc.) and\nshare your location with other Vone users. If you refuse to provide this\ninformation, you will not be able to use the above features normally;\n• When you visit Vone, we will obtain your location information through\nyour IP address, device or Internet service to prevent multiple or\nfraudulent login to your account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "\"Share information\" It refers to the information about or related to you that you voluntarily share on Vone .Shared information may include your VoneContent published on (including personal data disclosure, lists you create, and photos, videos, or recordings accessed through your device's camera and / or microphone sensors with your prior consent), any content you republish that has been published by others, and location data and log data associated with such publications.Shared information also includes information about you (including location data and log data) shared by others who are using Vone .",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Contact list. Contact list on your device. Legal basis (EEA) It is necessary to fulfill the contract we signed with you to provide Vone services and contact you with your friends. • Reason:Use the \"recommend friends\" feature to connect you with other Vone users.",
+      "lang": "en"
+    }
+  ]
+}

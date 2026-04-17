@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Information including the actions you take, downloads, shares, issues faced, photo or video editing, and any other data you provide when using our services may be collected by the App. This data is collected to ensure the App functions properly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Information including the actions you take, downloads, shares, issues faced, photo or video editing, and any other data you provide when using our services may be collected by the App. This data is collected to ensure the App functions properly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "To provide customized your preference content, we gather information on your approximate location, which includes information on your location based on your SIM card and/or IP address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Information including the actions you take, downloads, shares, issues faced, photo or video editing, and any other data you provide when using our services may be collected by the App. This data is collected to ensure the App functions properly.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Information including the actions you take, downloads, shares, issues faced, photo or video editing, and any other data you provide when using our services may be collected by the App. This data is collected to ensure the App functions properly.",
+      "lang": "en"
+    }
+  ]
+}

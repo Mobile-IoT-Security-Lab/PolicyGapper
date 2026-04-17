@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "If you're using an Android device with Google apps, your device periodically contacts Google servers to provide information about your device and connection to our services. This information includes things like your device type and carrier name, crash reports, which apps you've installed, and, depending on your device settings, other information about how you're using your Android device.",
+      "lang": "English"
+    }
+  ]
+}

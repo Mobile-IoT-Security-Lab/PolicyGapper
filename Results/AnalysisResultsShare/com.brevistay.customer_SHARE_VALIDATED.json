@@ -1,0 +1,23 @@
+```json
+{
+    "omitted_declarations": [],
+    "excluded_declarations": [
+        {
+            "data_type": "Other User generated content",
+            "policy_reference": "4.2. We will share information with our Hotel Partners for confirming bookings/reservations on the Platform. The Personal Data collected by the Hotel Partners shall be governed by their respective privacy policies and We are not liable with regards to such Personal Data.",
+            "reason_of_removal": "Inconsistent: The policy reference discusses sharing 'Personal Data' for bookings but does not specify 'Other User generated content'. The data type is not a logical match for the provided text.",
+            "justification": "The policy describes sharing data with Hotel Partners who have their own privacy policies, making them third parties. This constitutes 'sharing' under Google Play policies. However, the specific data type 'Other User generated content' is not mentioned in the provided text.",
+            "how_to_fix": "Declare the sharing of relevant data types that are shared with Hotel Partners for bookings, such as 'Personal info (Name, Email address, Phone number)' or 'Financial info', as supported by the privacy policy. Ensure the data type declared accurately reflects the information shared.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Precise location",
+            "policy_reference": "We may share information with any successor to all or part of our business. If we are involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.",
+            "reason_of_removal": "Inconsistent: The policy reference is a generic clause about data transfer during a merger or acquisition and does not mention 'Precise location' data.",
+            "justification": "The policy describes a potential transfer of all user data to a successor entity in a business transaction. It is not specific to 'Precise location' data, making the link between the data type and the policy text inconsistent.",
+            "how_to_fix": "If 'Precise location' is shared with third parties for other reasons (e.g., location-based services, ads), find the relevant policy clause and declare it. If it is only transferred as part of a potential merger, this specific declaration is likely unnecessary as it's not operational 'sharing' with a third party.",
+            "lang": "English"
+        }
+    ]
+}
+```

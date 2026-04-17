@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "(1) Our Company may introduce or send services, goods or survey by direct mail, facsimile or email etc. based on Personal Information and/or Personal Related Information Our Company possesses. If you want to unsubscribe, please so report here.",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "Our Company collects Personal Data in any of the following cases:\n(1) Input by a customer through information communication equipment;\n(2) Submission of document etc. directly by a customer;\n(3) Automatically collected in association with use and/or browsing by a customer of\nservice, contents, goods, advertisement etc.;\n(4) Provision by a third party, to whom a customer has consented; and\n(5) Or otherwise collecting lawfully.",
+"lang": "en"
+}
+]
+}

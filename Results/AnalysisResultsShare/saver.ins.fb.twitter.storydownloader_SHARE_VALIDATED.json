@@ -1,0 +1,78 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "③Third parties may use tracking technologies in connection with our Service, which may include the collection of information about your online activities over time and across third party websites.\nThis Policy does not apply to these third party technologies because we may not control them and we are not responsible for them. Do Not Track is a technology that enables users to opt out of tracking by websites they do not visit. Currently, we do not monitor or take any action with respect to Do Not Track technology.",
+      "justification": "The policy states that third parties, which the developer does not control, may collect information about users' online activities across other websites using tracking technologies. This constitutes 'sharing' under Google Play's policy as the data is not being processed solely on the developer's behalf.",
+      "how_to_fix": "Declare 'Web browsing history' as 'shared' with third parties in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "(2) The right of access\nThe User has the right to obtain access to its personal data (if AI Video Generator, Kiss Video is processing it), and other certain information (similar to that provided in this privacy policy).you may request certain information about our disclosure of personal information to third parties for their own direct marketing purposes during the preceding calendar year. This request is free and may be made once a year.",
+      "justification": "The policy explicitly mentions the possibility of disclosing personal information to third parties for 'their own direct marketing purposes'. This is a clear instance of 'sharing' that must be declared.",
+      "how_to_fix": "Declare 'Email address' as 'shared' with third parties in your app's Data Safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We may share your personal information with companies that help us to run our business by processing personal information on behalf of us for the purposes identified above. Such companies include providers of payment processing services, server services providers, data analysis services providers, fraud monitoring and prevention providers, email delivery service providers, social media, and other marketing platforms and service providers. We use reasonable efforts to vet vendors for their privacy and data security practices. We require that such vendors agree to protect the data we share with them in accordance with this Policy, and access, process, or store your personal data only in the course of performing their duties to us. At the same time, we will clarify the privacy policy terms of these vendors with you.",
+      "reason_of_removal": "Exempted - Service Provider",
+      "justification": "The policy states data is processed 'on behalf of us' and 'only in the course of performing their duties to us'. This indicates the partners are service providers, which is an exemption from the 'sharing' disclosure requirement.",
+      "how_to_fix": "This specific disclosure to a service provider does not need to be declared as 'sharing'. However, you must still declare the 'collection' of this data type.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Our partner firebase SDK will collect the following information from you: IP address, Users' names,Email addresses, iOS UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump formatted data (NDK crashes only), Device specs (iOS). The above information will be used to uniquely identify the user to provide statistics and data analysis services. To learn more about the personal information protection of firebase currently involved in this situation, please click here. 【https://firebase.google.com/support/privacy】",
+      "reason_of_removal": "Exempted - Service Provider",
+      "justification": "The policy indicates Firebase SDK is used to 'provide statistics and data analysis services' to the developer. This is a standard service provider function and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "This specific disclosure to a service provider does not need to be declared as 'sharing'. However, you must still declare the 'collection' of this data type.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Our partner firebase SDK will collect the following information from you: IP address, Users' names,Email addresses, iOS UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump formatted data (NDK crashes only), Device specs (iOS). The above information will be used to uniquely identify the user to provide statistics and data analysis services. To learn more about the personal information protection of firebase currently involved in this situation, please click here. 【https://firebase.google.com/support/privacy】",
+      "reason_of_removal": "Exempted - Service Provider",
+      "justification": "The policy indicates Firebase SDK is used to 'provide statistics and data analysis services' to the developer. This is a standard service provider function and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "This specific disclosure to a service provider does not need to be declared as 'sharing'. However, you must still declare the 'collection' of this data type.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Our partner firebase SDK will collect the following information from you: IP address, Users' names,Email addresses, iOS UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump formatted data (NDK crashes only), Device specs (iOS). The above information will be used to uniquely identify the user to provide statistics and data analysis services. To learn more about the personal information protection of firebase currently involved in this situation, please click here. 【https://firebase.google.com/support/privacy】",
+      "reason_of_removal": "Exempted - Service Provider",
+      "justification": "The policy indicates Firebase SDK is used to 'provide statistics and data analysis services' to the developer. This is a standard service provider function and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "This specific disclosure to a service provider does not need to be declared as 'sharing'. However, you must still declare the 'collection' of this data type.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Disclosure of personal data\nAs noted above, we may disclose\nthis information in the following\ncircumstances:\nService providers and business\npartners;\nGovernment agencies or other\nthird parties for legal reasons;\nComplaining parties;\nThird party acquirers;",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference is a generic statement about potential disclosures and does not specifically mention this data type. The link between the data type and the policy text is not established.",
+      "how_to_fix": "No action required for this item based on the provided policy text. Ensure your Data Safety form accurately reflects all data practices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Disclosure of personal data\nAs noted above, we may disclose\nthis information in the following\ncircumstances:\nService providers and business\npartners;\nGovernment agencies or other\nthird parties for legal reasons;\nComplaining parties;\nThird party acquirers;",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference is a generic statement about potential disclosures and does not specifically mention this data type. The link between the data type and the policy text is not established.",
+      "how_to_fix": "No action required for this item based on the provided policy text. Ensure your Data Safety form accurately reflects all data practices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Disclosure of personal data\nAs noted above, we may disclose\nthis information in the following\ncircumstances:\nService providers and business\npartners;\nGovernment agencies or other\nthird parties for legal reasons;\nComplaining parties;\nThird party acquirers;",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference is a generic statement about potential disclosures and does not specifically mention this data type. The link between the data type and the policy text is not established.",
+      "how_to_fix": "No action required for this item based on the provided policy text. Ensure your Data Safety form accurately reflects all data practices.",
+      "lang": "English"
+    }
+  ]
+}
+```

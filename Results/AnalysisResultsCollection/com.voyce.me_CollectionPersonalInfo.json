@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "User-provided Information: When you use the Service, we ask you to provide certain Personal Information about you, including your name, gender, email address, mailing address, phone number, credit card or other billing information, your date of birth, geographic area, or preferences and we may link this information with other information about you. For example, we may ask you to provide us with Personal Information when you register for an account, use the Service, or make a purchase on the Service. We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "User-provided Information: When you use the Service, we ask you to provide certain Personal Information about you, including your name, gender, email address, mailing address, phone number, credit card or other billing information, your date of birth, geographic area, or preferences and we may link this information with other information about you. For example, we may ask you to provide us with Personal Information when you register for an account, use the Service, or make a purchase on the Service. We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "User-provided Information: When you use the Service, we ask you to provide certain Personal Information about you, including your name, gender, email address, mailing address, phone number, credit card or other billing information, your date of birth, geographic area, or preferences and we may link this information with other information about you. For example, we may ask you to provide us with Personal Information when you register for an account, use the Service, or make a purchase on the Service. We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "User-provided Information: When you use the Service, we ask you to provide certain Personal Information about you, including your name, gender, email address, mailing address, phone number, credit card or other billing information, your date of birth, geographic area, or preferences and we may link this information with other information about you. For example, we may ask you to provide us with Personal Information when you register for an account, use the Service, or make a purchase on the Service. We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "If you choose to provide your PayPal account, we may ask for additional information such as your Name (Legal Name/Business Alias), Full name/Business Name, Country, Residency, Address, Postal code, E-mail, Signature and Tax ID (or Social Security Number when applicable) for tax processing purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "User-provided Information: When you use the Service, we ask you to provide certain Personal Information about you, including your name, gender, email address, mailing address, phone number, credit card or other billing information, your date of birth, geographic area, or preferences and we may link this information with other information about you. For example, we may ask you to provide us with Personal Information when you register for an account, use the Service, or make a purchase on the Service. We may also collect any other Personal Information that you choose to provide to us. For example, if you decide to contact us with a request, we will process the content of your message, the date and time of your message, our response and any other Personal Information you provide in that context. If you contact us to apply for a job with VoyceMe, we will process your job application, including your curriculum vitae and other Personal Information you submit to us in that context.",
+      "lang": "English"
+    }
+  ]
+}

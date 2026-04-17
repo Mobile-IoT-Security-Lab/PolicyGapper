@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can't be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage.",
+      "lang": "English"
+    }
+  ]
+}

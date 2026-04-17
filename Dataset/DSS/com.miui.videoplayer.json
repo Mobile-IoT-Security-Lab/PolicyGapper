@@ -1,0 +1,46 @@
+{
+  "sharedData": [],
+  "collectedData": [
+    {
+      "data": "App interactions",
+      "optional": 1,
+      "purpose": "Analytics, Personalization, Account management",
+      "type": "App activity"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "User IDs",
+      "optional": 1,
+      "purpose": "Analytics, Personalization, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Videos",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Photos and videos"
+    },
+    {
+      "data": "Music files",
+      "optional": 1,
+      "purpose": "App functionality",
+      "type": "Audio"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://h5-idn.video.intl.xiaomi.com/privacy?lang=en&version=20211101"
+}

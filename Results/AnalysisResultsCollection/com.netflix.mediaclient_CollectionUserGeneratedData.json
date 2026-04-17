@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "Communications: If you communicate with Netflix (such as contacting customer support via online chat or voice call), or engage in our surveys or feedback requests (such as when you cancel), we collect the contents of such communications. We also collect details of communications that we send you (such as via email, push notifications, text message, or within the Netflix service), and information about your interaction with these communications.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Service Providers: We use Service Providers to perform services on our behalf or to assist us with the provision of services to you. For example, we use Service Providers to provide communications, security, infrastructure and IT services, game-related services, to personalize and improve our service, and to process payments. We do not authorize them to use or disclose your personal information except in connection with providing their services (which may include maintaining and improving their services). To help maintain the safety and security of our service and users, we and our Service Providers may monitor and record message content (such as chat functionality) to identify harmful behavior, security risks, and violations of the Netflix Terms of Use and community guidelines. Our Service Providers may process your personal information for the following purposes: to provide our service; to administer and operate our business; to research, analyze, and improve our services; to send marketing and informational messages; for safety, security, and fraud prevention; and to comply with law and enforce the Netflix Terms of Use.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Usage Information: We collect information about you and your use of Netflix games, such as:\nΟ\nYour leaderboard status, score, and game achievements;\nΟ\nWhether you are online and/or playing a game in order to display your online or availability status to other players in the game and/or to your friend or team list;\nΟ\nYour searches for and connections with other players within a Netflix game (for example, searching for and connecting to a player);\nΟ\nYour gameplay, interactions, or chat with other players as a part of local multiplayer and online multiplayer features;\nΟ\nYour reports of violations of the Netflix Games Community Guidelines (help.netflix.com/legal/gamescommunityguidelines) and any similar guidelines for Netflix games, and reports from other players about your potential violations; and\nΟ\nYour input of user-generated content within a Netflix game, such as drawings, uploaded content (such as photos, videos, sound recordings, or other content), or your selection of content from a third party service.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Usage Information: We collect information about you and your use of Netflix games, such as:\nΟ\nYour leaderboard status, score, and game achievements;\nΟ\nWhether you are online and/or playing a game in order to display your online or availability status to other players in the game and/or to your friend or team list;\nΟ\nYour searches for and connections with other players within a Netflix game (for example, searching for and connecting to a player);\nΟ\nYour gameplay, interactions, or chat with other players as a part of local multiplayer and online multiplayer features;\nΟ\nYour reports of violations of the Netflix Games Community Guidelines (help.netflix.com/legal/gamescommunityguidelines) and any similar guidelines for Netflix games, and reports from other players about your potential violations; and\nΟ\nYour input of user-generated content within a Netflix game, such as drawings, uploaded content (such as photos, videos, sound recordings, or other content), or your selection of content from a third party service.",
+      "lang": "en"
+    }
+  ]
+}

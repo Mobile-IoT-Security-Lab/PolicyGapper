@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We collect information about your activity on our services, for instance how you use them (e.g. date and time you logged in, features you've been using, searches, clicks and pages which have been shown to you, referring webpage address, advertising that you click on) and how you interact with other users (e.g., users you connect and interact with, time and date of your exchanges, number of messages you send and receive).",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• Camera and Photos.\nMany of our services require us to collect images and other information from your device's camera and photos. We'll access your camera and photos only after you give us your consent.",
+      "lang": "en"
+    }
+  ]
+}

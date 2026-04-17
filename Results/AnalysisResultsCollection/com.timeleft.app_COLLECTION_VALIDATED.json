@@ -1,0 +1,28 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Economic and Financial Data: Information related to purchases of Timeleft services.",
+      "justification": "The privacy policy states the collection of 'Economic and Financial Data' related to 'purchases', which corresponds to the 'User payment info' data type.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Browsing Data: IP address, browser used, navigation duration, search history, operating system, language, and pages viewed.",
+      "justification": "The privacy policy mentions the collection of 'IP address', which is used to determine 'Approximate location'.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• Identification Data: Name, first name, year of birth, marital status, country of origin, zodiac sign, professional field, gender, phone number, email address, profile photo, etc.",
+      "justification": "The privacy policy explicitly states the collection of 'profile photo' as part of 'Identification Data', which falls under the 'Photos' data type.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

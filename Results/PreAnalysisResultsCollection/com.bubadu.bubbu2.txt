@@ -1,0 +1,892 @@
+This privacy statement ("Policy") describes how Bubadu
+collects and uses the personal information and/or data (the
+terms are used interchangeably) (the “Information") you
+provide. It also describes the choices available to you
+regarding our use of your Information and your rights.
+
+---
+TO OFFER OUR SERVICES
+We process your data so that you can play the games, make in-
+app purchases, receive local notifications and use other
+functionalities available within the Apps. Legal basis: contract
+performance. Data collected: as stated in the “The data we
+collect" section of this Policy.
+
+---
+We engage third party ad network providers ("Advertising
+Providers") who assist us in delivering advertisements (banners,
+interstitials, rewarded videos) to you. We have integrated
+Advertising Providers' SDKs (a piece of code) into our Apps
+enabling us to connect ad networks to run in-app ads and to
+collect the Information needed to display advertisements. The
+Information is used for ad serving features such as frequency
+capping (so that you are not displayed with the same ad twice
+etc.) and ad mediation. The Information may be stored on your
+device through generally accepted industry technologies used
+within our Apps (such as local storage).
+
+---
+Cross promotion. We use your Information for cross promoting
+our Apps and Services, meaning to promote one of our Apps and
+Services while you are playing a different App of ours.
+
+Legal basis: legitimate interests in order to offer our Apps and
+Services. Data collected: as stated in the 'The data we collect'
+section of this Policy.
+
+---
+Information collected by third
+parties, which may include such things as location information or
+contact details, is governed by their privacy practices. These
+other websites or services may place their own cookies or other
+files on your computing device, collect information or solicit
+personal information from you. We encourage you to learn about
+the privacy practices of third parties with which you interact. We
+are not responsible or liable for your interaction with such third
+parties, the information requests initiated by such third parties,
+or the subsequent use, treatment or dissemination of the
+information you voluntarily choose to provide to them.
+
+---
+FOR INTERNAL ANALYTICS AND DIAGNOSTICS
+We check how you use our Apps and Services with the help of
+third party analytics providers (the “Analytics Providers") and by
+processing Analytical Information (please see section "The data
+we collect" of this Policy) to constantly improve our Apps and
+make them better for you. With the help of identifiers, such as
+analytics IDs, namely, Bubadu Identifier, Firebase Installation ID,
+App Set ID (Android) and IDFV (iOS) assigned to your device we
+can collect Analytical Information and use it to understand and
+optimize how our Apps are used, improve our marketing efforts,
+provide content and features that are of interest to you, and
+conduct statistics, analytics, research and development in order
+to continuously improve our Apps and make them better for you.
+This includes correcting technical malfunctions, customization,
+providing better and improved content, developing new offers,
+measuring traffic and usage of our Apps, promoting the Apps
+and improving the user experience. We do not process any
+information which could directly identify you. We use data log
+files (IP address, app version, date, OS version, requests, states
+etc.) and information about your activity within the Apps for
+internal analytics to improve our Apps.
+
+---
+We check Apps info and the performance of the Apps on your
+device for diagnostics purposes. We use information, such as
+battery life, loading time, latency, frame rate or any technical
+diagnostics. This information helps us improve our Apps by
+diagnosing and fixing bugs or crashes and making future
+performance improvements.
+
+Legal basis: legitimate interests in order to improve our Apps.
+Data collected: Analytical Information, Technical information, as
+stated in the ‘The data we collect section' of this Policy.
+
+---
+FOR SAFETY AND SECURITY
+We use your Information to enhance the safety and security of
+our Apps, products and Services, to help us detect and prevent
+fraudulent activity. Legal basis: legitimate interests, to enable us
+to offer a safe and secure service. Data collected: As stated in
+the 'Technical Information' of this Policy within the 'The data we
+collect' section.
+
+---
+FOR CUSTOMER SUPPORT
+We use your Information to respond to any queries you send to
+our email support@bubadu.com. Legal basis: contract
+performance. Data collected: email address.
+
+---
+III. THE DATA WE COLLECT
+DIRECTLY IDENTIFIABLE DATA
+EMAIL ADDRESS. We do not collect your email address in order
+to enable you to use our Apps and Services. However, we use
+your email to respond to an inquiry received at our email
+address, namely support@bubadu.com.
+
+---
+INDIRECTLY IDENTIFIABLE DATA
+To protect your privacy we process your Information with the
+help of identifiers (Bubadu Identifier, IP address, analytics
+identifiers) that do not identify you personally but may uniquely
+identify your device.
+
+IP ADDRESS. We will collect your IP address on third party web
+servers for security reasons to help us detect and prevent
+fraudulent activity and to get the country information needed
+for cross promotion.
+
+ANALYTICS IDENTIFIER. The analytics provider Firebase
+Analytics (GA4F) automatically generates and assigns a Firebase
+Installation ID (app-installation ID) to identify a unique
+installation of our App. The Firebase Installation ID is used to
+compute your metrics throughout analytics. The analytics
+provider Singular uses analytics identifiers, namely App Set ID
+
+---
+(Android) and IDFV (iOS). We use Bubadu Identifier to perform
+analytics for cross promotion purposes.
+
+BUBADU IDENTIFIER. We use our own identifier to perform
+cross promotion (“Bubadu Identifier"). Bubadu Identifier is a
+random string in a text file on your device that uniquely
+identifies your device but not you personally. When sent to our
+server, it will be coded in a way that we will not be able to decode
+it and will be deleted after 3 days or 1 month and 3 days if back
+upped to our server.
+
+---
+TECHNICAL DATA
+We collect technical information about your device that is
+necessary for you to use our Apps and additional technical data
+that enables us to maintain and analyze the functioning of the
+Apps, personalize the content of the Apps, and display contextual
+advertisements.
+
+Technical information that we collect is IP address (location:
+country or region, not specific enough to identify a street),
+language (language set on the device and not based on location)
+information about your device (device type, version and type of
+operating system, mobile phone carrier, screen resolution,
+network provider, network status, SDK version, API key,
+application version, Android or iOS Vendor, storage size, screen
+size, firmware), data log files from servers (IP address, app
+version, date, OS version, requests, states etc.), session
+information, levels achieved and in-app purchases.
+
+---
+ADVERTISING DATA
+
+---
+We have integrated Advertising Providers' SDKs (a piece of code)
+into our Apps enabling us to connect ad networks to run in-app
+ads and to collect the Information needed to display
+advertisements such as IP address, location data (specific
+enough to identify a state for cross promo ads and city for
+
+---
+analytics), raw data log files on servers (IP address, date, time,
+requests, state etc.), data about the add (campaign id, creative,
+country, Bubadu Identifier (not shared with advertisers), date,
+timestamp, app, orientation, store, status of the ad – requested,
+loaded, displayed, clicked ad). Contextual advertising can come
+from the type of device being used, the game/app genre, or the
+selected language.
+
+---
+We analyze advertisement response (including clicks on ads, if it
+originated a follow-up action to a third party e.g., "conversion"
+event), which advertisements are shown, the date and time a
+particular ad is served, angle view, and information about the
+advertisements reviewed by the user.
+
+---
+Our Advertising Providers collect data regarding advertisement
+performance, user interaction with ads and our Apps. For more
+information please read the section “Who has access to your
+data".
+
+---
+We use StoreKit Ad Network, or SKAdNetwork, a privacy-centric
+API operated by Apple. It helps ad networks and advertisers
+measure their ad activity (such as impressions, clicks, and app
+installs) on an aggregated level.
+
+---
+CROSS PROMOTION DATA
+We use our own identifier to perform cross promotion (the
+"Bubadu Identifier"). Bubadu Identifier is a random string in a text
+file on your device, a persistent identifier that permits
+identification of your device. When sent to our server, it will be
+coded in a way that we will not be able to decode it and
+automatically deleted after 3 days or 1 month and 3 days.
+
+To perform cross promotion we use the following information:
+Campaign_id, creative_id, country_id, Bubadu Identifier, date,
+timestamp, app_id, orientation, store, status (requested, loaded,
+displayed, clicked).
+
+---
+ANALYTICS DATA
+
+---
+We perform analytics with the help of identifiers, namely IP
+address and analytics provider's unique ID, namely, Firebase
+Installation ID assigned to your device for Google Analytics, App
+Set ID (Android) and IDFV (iOS) for Singular and Bubadu Identifier.
+
+---
+We log basic events so that we can understand your actions
+within the Apps (gaming level reached, first opened the app, how
+many items you bought, in which currency etc.), we see system
+events or errors, we track metrics such as user engagement and
+behavior per screen so that we can improve the App and make it
+more appealing, we can see how many users installed our App in
+a specific country etc.
+
+---
+We analyze characteristics obtained by your use, such as data
+about Apps you used, any actions or movements within the Apps,
+date and time, response times, download errors, length of visits,
+interaction information such as scrolling, clicks, and mouse-
+overs, what tools in the Apps you use, your interaction with the
+service and your behavior on the service, average nr. of seen ads,
+most watched rewarded videos placement, session time,
+retention, average minigame time, earnings in minigames, bought
+items, most popular items etc.
+
+---
+We check Apps info and the performance of the Apps on your
+device for diagnostics purposes. We use information such as
+battery life, loading time, latency, frame rate or any technical
+diagnostics. This information helps us improve our Apps by
+diagnosing and fixing bugs or crashes and making future
+performance improvements.
+
+---
+CHILDREN'S DATA
+We pride ourselves on offering entertaining Apps for family
+audiences of all ages. Because we want your child to use our
+Apps in a safe environment, we have limited the collection and
+usage of Information for all our Apps.
+
+---
+Children can access many parts of the App/Services and its
+content and use many of its features without providing us with
+personal information. We only collect as much information about
+a child as is reasonably necessary for the child to participate in
+
+---
+an activity, and we do not condition the child's participation on
+the disclosure of more personal information than is reasonably
+necessary.
+
+What information do we collect and how do we use it
+The only information we collect is identifiers (as described
+above) and information that identifies a device's location (not
+specific enough to identify a street). Identifiers and location
+information are used only to place contextual advertisements
+(including frequency capping, fraud prevention and attribution),
+to personalize the content on the Apps (such as sending local
+notifications), to maintain or analyze the functioning of the Apps,
+to perform network communications to protect the security or
+integrity of the user of the App, to ensure legal or regulatory
+compliance.
+
+---
+Who receives or maintains Information from Children
+A list of all Providers that may collect or maintain personal
+information from children through the App/Service is available
+within the 'Third Party Service Providers' section. Please direct
+inquiries about any third-party operator's privacy practices and
+use of children's information through the contact information
+provided within their privacy policy.
+
+---
+Requesting to stop collection/use of your child's Information
+You have the right to request to stop the collection/use of your
+child's Information. You can restrict the processing used for
+contextual advertising by choosing the 'Remove Ads" option
+within your in-App settings and buying the 'No ads' subscription
+or by buying the App feature that includes the ‘Remove ads'
+option' or subscribing to a VIP subscription.
+
+---
+IV. WHO HAS ACCESS TO YOUR DATA
+We cannot provide all the services necessary for the successful
+operation of our Apps by ourselves. We therefore engage third
+party service providers (“Providers”) and enable them to collect
+some Information from you. We strive to obligate our Providers
+to comply with this Policy, but we cannot provide any guarantee
+on their behalf. We adhere to the generally accepted industry
+practices regarding the collection and usage of Information by
+
+---
+Apple App Store. If you choose to use the App Store to finalize
+and pay for your order, you will provide your credit card number
+directly to Apple. Apple's Privacy Policy will apply to the
+information you provide to Apple, available here
+http://www.apple.com/legal/privacy/.
+
+---
+Amazon. If you choose to use Amazon to finalize and pay for
+your order, you will provide your credit card number directly to
+Amazon. Amazon's Privacy Policy will apply to the information
+you provide to Amazon, available here
+https://www.amazon.in/gp/help/customer/display.html?
+nodeId=202136010.
+
+---
+Huawei AppGallery. If you choose to use the Huawei AppGallery,
+please read their User Agreement and Privacy Statement
+available here
+https://privacy.consumer.huawei.com/legal/hiapp/terms.htm?
+country=DE&branchid=1&language=en GB, and
+https://privacy.consumer.huawei.com/legal/hiapp/privacy-
+statement.htm?country=DE&branchid=2&language=en_ GB.
+
+---
+Google Play. If you choose to use Google Play by Google Inc.,
+please read their Privacy Policy
+(https://policies.google.com/privacy) and Terms of Service
+(https://play.google.com/intl/ALL_uk/about/play-terms/).
+
+---
+Our Advertising Providers are allowed to use the Information
+collected through the SDK to provide contextual advertisements,
+conduct ad mediation, support internal operations and improve
+their products by conducting research and analysis with the use
+of advertising information to understand and optimize how the
+advertisements are used. Our Advertising Providers may use
+cookies and other web-tracking technologies to collect non-
+personal information in case the user clicks on any of their
+advertisements.
+
+---
+List of Advertising Providers that we engage:
+Kidoz. Kidoz is the leading COPPA & GDPR compliant contextual
+mobile advertising network. Kidoz SDK, which is integrated into
+our Apps, is a piece of software that allows us to provide you
+with customized advertisements designated to children, both in
+terms of children's safe content, as well as in terms of data
+collection. Meaning, that Kidoz will not collect through their SDK
+any Personal Data without parental consent, except as permitted
+under applicable law and detailed below. Kidoz does NOT use any
+Personal Information collected for profiling (e.g., behavioral
+advertising) or cross device tracking. Kidoz solely serves
+contextual ads (e.g., if you are interacting with a painting app,
+they will present advertisements related to painting). In case
+Kidoz needs to collect any other Personal Information, which is
+not listed in their privacy policy, Kidoz will ensure parental
+consent is obtained before doing so, in the event required by
+applicable law.
+
+---
+Kidoz collects Non-Personal Information: your aggregated usage
+information and technical information transmitted by your
+device, including: (i) certain software and hardware information
+such as type of operating system, type of device, language
+preference, etc.; and (ii) approximate geo-location (Country), and
+Personal Information: certain identifiers, such as your Internet
+Protocol ("IP") addresses (the addresses of computers on the
+Internet), or Advertising ID, IDFA (“Identifiers”), if you give the
+permission. For more information on what data Kidoz collects
+and how it uses it please read https://kidoz.net/privacy-
+policies#safe-ad-policy and https://kidoz.net/website-and-
+kidoz-sdk-privacy-policy.
+
+---
+Unity Ads. We use Unity Ads ad network provider to show you
+contextual ads within our App and Services. Since our Apps are
+child oriented we have sent a signal to Unity which indicates that
+Unity needs to limit data collection and serve non-personalized
+ads. For this purpose, Unity has reduced its data collection for its
+Ads Service. In such instances, they will only collect the Personal
+Information listed below. Unity collects this Personal Information
+for internal operations and their legitimate interests in providing
+the Service to us.
+• IP address is used to provide a compliant experience
+suitable for your region.
+•
+Unique Installation-specific ID is used for operational
+purposes related to the serving of contextual
+advertisements.
+
+---
+Vungle. We use Vungle as an ad network provider to show you
+contextual ads within our App and Services. As required by
+COPPA, Vungle will enable a flag in their system because we have
+indicated that our Apps are subject to COPPA, meaning that your
+device history will be disassociated, and the only personal
+information used by the Vungle Ad Services would be persistent
+identifiers (e.g., IP address and other identifiers) to provide
+"support for internal operations" of the Vungle Ad Services (as
+permitted by COPPA). To learn more about what information
+Vungle collects through Vungle's SDK please read their privacy
+notice https://vungle.com/privacy.
+
+---
+ironSource. We use the ironSource ad network, owned by
+ironSource Mobile Ltd., in order to show you contextual ads
+within our Apps and Services. ironSource uses and shares the
+data that they collect (including the advertising ID if obtained
+based on your permission and IP address) from a child-directed
+app only to serve contextual ads, for frequency capping, for
+fraud prevention, and for other activities to support our internal
+operations or the internal operations of the app, as permitted by
+the COPPA and other applicable regulations. ironSource supports
+Google Play's “Designed For Families" program requirements for
+publishers who have followed the ironSource Designed for
+Family SDK Functionality instructions. ironSource will not share
+persistent identifiers with third party external bidders such as
+DSPs, SSPs, exchanges, and marketplaces, except if specifically
+directed by us for support for internal operations as defined by
+the COPPA. For more information please read
+https://developers.ironsrc.com/ironsource-
+mobile/air/ironsource-mobile-privacy-policy.
+
+---
+Mintegral. Mintegral, owned by Mintegral International Limited,
+is a global mobile advertising platform, providing user
+acquisition, monetisation and creative solutions for advertisers
+and mobile publishers. Mintegral's COPPA solution is designed so
+that any persistent identifiers collected about you are processed
+according to the requirements of COPPA and not used to serve
+behaviorally-targeted ads or track users for such purposes. In
+addition, Mintegral will not knowingly collect any other personal
+information under COPPA (such as the precise geolocation of
+your device) from you. For more information about kids safety
+please read https://www.mintegral.com/en/blog/mintegral-
+passes-kidsafe-coppa-seal-annual-audit. To learn about what
+information Mintegral collects and how it uses it, please read
+Mintegral's privacy policy
+https://www.mintegral.com/en/privacy#privacy-policy-of-the-
+mintegral-services.
+
+---
+Petal ads. Petal Ads is an ads platform provided by Aspiegel SE, a
+subsidiary of Huawei incorporated in Ireland, that we use to
+serve ads on HUAWEI apps. The Aspiegel SE and Petal Ads
+participate in the IAB Europe Transparency & Consent
+
+---
+Framework and comply with its Specifications and Policies.
+Aspiegel's identification number within the framework is 856.
+Aspiegel also operates a private Consent Management Platform
+with the identification number 386, which is used by different
+Huawei Mobile Services apps provided by Aspiegel. Aspiegel
+collects and uses the following personal data for the purposes of
+Petal Ads. Please read Statement About Petal Ads and Privacy
+https://privacy.consumer.huawei.com/legal/ads/privacy-
+statement.htm?&code=EU&language=en-
+us&branchid=0&contenttag=default and Statement About
+HUAWEI ID and Privacy for more information.
+
+---
+Digital Turbine. Digital Turbine, owned by Digital Turbine, Inc. is
+an advertising platform that we use to show you ads within our
+Apps. Digital Tribune collects device and other IDs and uses this
+information for the purposes of analytics, fraud prevention,
+security and compliance and to serve non-personalised
+advertising. For more information please read DT Privacy Notice
+(https://www.digitalturbine.com/dt-clients-privacy-
+policy/# heading=h.17dp8vu) and Privacy documents available at
+https://developer.digitalturbine.com/hc/en-
+us/sections/360002877558-Privacy.
+
+---
+ANALYTICS PROVIDERS
+Google Analytics 4 (GA4F). We use Google Analytics for
+Firebase (GA4F) SDK and Big Query to collect data on the usage
+of our Apps. We use your data only for the purposes of our
+internal analytics to improve our Apps and we do not allow
+sharing of your data with other parties and their products or
+services.
+
+GA4F collects the following information through the default
+implementation: number of users, session statistics,
+approximate geolocation, browser and device information. See a
+full list of the default events and user properties collected by
+GA4F. GA4F also collects enhanced measurement events (when
+enabled) from web data streams and in-app purchases from app
+data streams.
+
+---
+GA4F SDK automatically generates and assigns a Firebase
+Installation ID (the “Installation ID) to each instance of our App.
+GA4F uses the Installation ID to identify unique installations of
+our App and compute your metrics. Learn more about the app-
+instance ID. GA4F uses Installation IDs to track particular
+audiences. Data associated with Installation IDs is
+generally not personally-identifying, but is associated with a
+device and used to identify the same device, and events the
+device performs.
+
+---
+The SDK collects identifiers for mobile devices (for example,
+Android Advertising ID and Advertising Identifier for iOS) based
+on your consent and uses technologies similar to cookies.
+
+---
+On iOS, the SDK collects the Advertising Identifier (IDFA) if it is
+available. On Android, the SDK collects the Advertising ID by
+default based on your consent. If the Advertising ID is not
+available it will collect Android ID (SSAID). Any attempts to access
+the identifier will receive a string of zeros instead of the
+identifier.
+
+---
+GA4F does not log or store individual IP addresses. GA4F does
+provide coarse geo-location data by deriving the following
+metadata from IP addresses: City (and the derived latitude, and
+longitude of the city), Continent, Country, Region, Subcontinent
+(and ID-based counterparts). For EU-based traffic, IP-address
+data is used solely for geo-location data derivation before being
+immediately discarded. It is not logged, accessible, or used for
+any additional use cases.
+
+---
+When GA4F collects measurement data, all IP lookups are
+performed on EU-based servers before forwarding traffic to
+GA4F analytics servers for processing.
+
+---
+To get more information about how your data is being collected
+and processed you can visit the site “How Google uses data when
+you use our partners' sites or apps located at
+https://policies.google.com/technologies/partner-sites.
+
+---
+Singular. We use Singular, owned by Singular Labs, Inc. as a
+Marketing Analytics and Attribution provider. In order to provide
+the services to us, they process some personal information. They
+do this as a data processor (also known as a service provider) on
+our behalf and under our instructions.
+
+Generally, Singular processes personal data regarding the
+behavior and usage patterns of our end-users of mobile
+applications and other mobile properties operated by us. Subject
+to our discretion, the personal data processed by Singular can
+include, among others, your IP address, Android device ID (App
+Set ID), iOS device ID (IDFV) carrier user “ID”, and geo-location
+information. For more info please read their privacy policy
+https://www.singular.net/privacy-policy/.
+
+---
+STORAGE PROVIDERS
+Digital Ocean
+We use Digital Ocean services to store the data on their servers
+based in the US. DigitalOcean is committed to protecting your
+information. To do so, they employ a variety of security
+technologies and measures designed to protect information
+from unauthorized access, use, or disclosure. The measures they
+use are designed to provide a level of security appropriate to the
+risk of processing your personal data.
+
+---
+Webserver Providers
+We use third party Webserver Providers, namely Cloudflare to
+store your IP address for the purposes of security to help us
+detect and prevent fraudulent activity. These services may
+collect your information when you use our services, web
+applications, and APIs. The information may include but is not
+limited to IP addresses, traffic routing data, system configuration
+information, and other information about traffic to and from our
+Apps (collectively, “Customer Logs”). The Webserver Providers
+collect and use Customer Logs to operate, maintain, and improve
+their Services for the purpose of providing security. For example,
+Customer Logs can help us detect new threats, identify malicious
+third parties, and provide more robust security protection for
+our services. Where Webservers Providers use information
+collected from Resolver Users to operate and improve the
+Cloudflare Resolver, such as to assist us in our debugging efforts
+if an issue arises, they will not combine the information collected
+from DNS queries with any other data in any way that can be
+used to identify individual end users. Cloudflare is a data
+processor for Customer Logs, and processes such information
+based on our instructions, meaning that Bubadu is the controller
+of such data. Some of the Webserver Providers store or transfer
+data outside EEA. Whenever a Cloudflare company transfers
+personal information originating in the EEA, the UK, oг
+Switzerland with another member of the Cloudflare group or a
+third party service provider or partner outside the EEA, the UK, oг
+Switzerland, they will implement appropriate safeguards,
+consistent with the laws of the territory from which the data is
+
+---
+VIDEO SHARING PROVIDERS
+YouTube. We use YouTube, owned by Google LLC, to share and
+show videos about our Apps on our website
+(https://bubadu.com/). Our YouTube channel is set as Made For
+Kids, this limits data collection when you watch our videos and
+prevents personalised adverts being shown. For more
+information please read Google's Privacy Policy
+(https://policies.google.com/privacy?hl=en-GB).
+
+---
+V. YOUR RIGHTS
+We have adhered to the data minimization principle and we only
+collect the data we need for our processing purposes as
+described above in the section ‘The data we collect. To protect
+your privacy we use identifiers when processing your
+Information and pseudonymize the data on our end when stored
+in our servers. You can exercise your rights by sending an email
+to support@bubadu.com We will also outline further options to
+exercise your rights in the respective sections below.
+
+---
+You are always free to opt out of the information collection by
+Third Party Providers by not logging in or using their services.
+Please note that you cannot opt out of Providers, that we use to
+offer you the Services, for example, Storage Providers. If you
+don't agree with such usage please don't use our Services.
+
+---
+Bubadu may collect the following CCPA categories of personal
+information from you based on the Services you use:
+
+Category
+A. Identifiers.
+Examples
+A real name, alias, postal
+address, unique personal
+identifier, online
+identifier, Internet
+Protocol address, email
+address, account name,
+Social Security number,
+driver's license number,
+passport number, or
+other similar identifiers.
+B. Personal
+information
+categories listed
+in the California
+Customer
+Records statute
+(Cal. Civ. Code §
+1798.80(e)).
+A name, signature, Social
+Security number,
+physical characteristics
+or description, address,
+telephone number,
+passport number,
+driver's license or state
+identification card
+number, insurance policy
+number, education,
+employment,
+employment history,
+bank account number,
+credit card number, debit
+card number, or any
+other financial
+information, medical
+information, or health
+insurance information.
+Some personal
+Collected
+YES
+NO
+
+---
+information included in
+this category may
+overlap with other
+categories.
+Age (40 years or older),
+race, color, ancestry,
+national origin,
+citizenship, religion or
+creed, marital status,
+medical condition,
+physical or mental
+disability, sex (including
+gender, gender identity,
+gender expression,
+pregnancy or childbirth
+and related medical
+conditions), sexual
+orientation, veteran or
+military status, genetic
+information (including
+familial genetic
+information).
+C. Protected
+classification
+characteristics
+under California
+or federal law.
+D. Commercial
+information.
+Records of personal
+property, products or
+services purchased,
+obtained, or considered,
+or other purchasing or
+consuming histories or
+tendencies.
+E. Biometric
+information.
+Genetic, physiological,
+behavioral, and
+biological
+characteristics, or
+activity patterns used to
+extract a template or
+other identifier or
+identifying information,
+such as, fingerprints,
+NO
+NO
+NO
+
+---
+faceprints, and
+voiceprints, iris or retina
+scans, keystroke, gait, or
+other physical patterns,
+and sleep, health, or
+exercise data.
+F. Internet or
+other similar
+network activity.
+Browsing history, search
+history, information on a
+consumer's interaction
+with a website,
+application, or
+advertisement.
+YES
+G. Geolocation
+data.
+Physical location or
+movements.
+NO
+Audio, electronic, visual,
+H. Sensory data.
+thermal, olfactory, or
+NO
+similar information.
+I. Professional or
+Current or past job
+employment-
+history or performance
+NO
+related
+evaluations.
+information.
+J. Non-public
+education
+information (per
+the Family
+Educational
+Rights and
+Privacy Act (20
+U.S.C. Section
+1232g, 34 C.F.R.
+Part 99)).
+Education records
+directly related to a
+student maintained by
+an educational
+institution or party
+acting on its behalf, such
+as grades, transcripts,
+class lists, student
+schedules, student
+identification codes,
+student financial
+information, or student
+disciplinary records.
+NO
+
+---
+K. Inferences
+drawn from
+other personal
+information.
+Profile reflecting a
+person's preferences,
+characteristics,
+psychological trends,
+predispositions,
+behavior, attitudes,
+intelligence, abilities, and
+aptitudes.
+NO
+
+---
+Right to request disclosure of any personal information we
+collect. This means in particular that you have:
+• the right to request disclosure of the categories of
+personal information we collected from you, together with
+the categories of sources from which it was collected
+(please see above),
+• the purpose of the collection (please see above),
+• the categories of third parties with whom we shared your
+personal information (please see above), and
+• the specific pieces of personal information that have been
+collected (please see the section above).
+
+---
+Right to request deletion of any personal information that
+we collected from you. This means that after we have verified
+your request to delete your personal information, we shall delete
+it from our records and direct any service providers to delete
+your personal information from their records, except when
+Article 1798.105 (d) CCPA is applicable (e.g. in case the personal
+information is necessary to provide the Services, to detect
+security incidents, to identify and repair errors that impair
+existing intended functionality of the Services, or to comply with
+a legal obligation).
+
+---
+What data do we process?
+Consistent with "The Data We Collect" and "How We Use Your
+Data"sections of this Policy, we may collect certain categories of
+information about Virginia consumers (“Personal Data”). The
+section below summarizes the Personal Data we process, the
+purposes for processing this data, the categories of personal
+data that we share with third parties, and the categories of third
+parties that we share the data as specified in the VCDPA. We do
+not sell personal data to third parties.
+
+Bubadu may collect the following VCDPA categories of personal
+information from you based on the Services you use:
+
+---
+Identifiers
+We use identifiers as described in the section “The Data We
+Collect", namely online identifiers and email addresses.
+
+---
+Right to Access Personal Data/Correct Inaccurate Personal
+Data
+You have the right to request access to Personal Data collected
+about you and information regarding the purposes for which we
+collect it and the third parties and service providers with which
+we share it. Additionally, you have the right to correct inaccurate
+or incomplete Personal Information. You may submit such a
+request by sending us an email to support@bubadu.com.
+
+---
+Right to Deletion of Personal Data
+You have the right to request in certain circumstances that we
+delete any Personal Data that we have collected directly from
+you. You may submit such a request by sending us an email to
+support@bubadu.com. We may have a reason under the law why
+we do not have to comply with your request or why we may
+comply in a more limited way than you anticipated. If we do, we
+will explain that to you in our response.
+
+---
+Right to Portability
+You have the right to request a copy of the Personal Data that
+you previously provided to us as Controller in a portable format.
+Our collection, use, and disclosure, of Personal Information is
+described in this Policy.
+
+---
+Right to Opt Out of Targeted Advertising
+You have the right to opt-out of targeted advertising based on
+your Personal Data obtained from your activities over time
+across websites and applications. We do not perform targeted
+advertising.
+
+---
+Analytics information tied to analytics ID, namely Firebase
+installation ID is deleted after 180 days after you delete the Apps
+or send a request to delete such information from Firebase
+services that use Firebase installation ID. Analytics Identifier
+namely Firebase installation ID, can be deleted by clearing the
+App data or reinstalling the App, meaning that any information
+linked to the identifier will be deleted and you will receive a new
+identifier the next time you use the App.
+
+---
+STORING
+We use Digital Ocean and Cloudflare for storing information.
+Please see the section 'Storage Providers' for more information.

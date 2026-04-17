@@ -1,0 +1,177 @@
+• "Processing" means any operation or set of operations performed on your Data, whether or not by automated means, such as collection,
+storage, organization, structuring, alteration, retrieval, consultation, use, disclosure, dissemination, or any other form of access, as well
+as alignment, combination, restriction, erasure, or destruction.
+--- [PAGE BREAK] ---
+[SECTION: 1. Who We Are]
+With respect to your personal data, we act as the primary data controller for GemSpace platform operations. This means we determine the
+purposes and means of processing your personal data and bear the responsibility for it under applicable law. For certain marketing activities,
+we may share your personal data with independent third-party controllers, including GN Telecom UK Limited, who process your data for their
+own business purposes under separate legal arrangements.
+--- [PAGE BREAK] ---
+[SECTION: 2. Legal Basis for Processing Your Personal Data]
+e. Data Sharing with Third-Party Controllers:
+For sharing personal data with independent third-party controllers like GN Telecom UK, we rely on your explicit consent under Article 6(1)(a)
+GDPR. This consent is: - Freely given and specific to each recipient - Informed with clear information about the third party's identity and
+purposes - Withdrawable at any time without affectin
+---
+With your explicit consent, Marketspace Solutions OU may share your personal data with GN Telecom UK Limited (registered in England and
+Wales) for their independent marketing activities.
+Legal Basis: Article 6(1)(a) GDPR - Your explicit consent for data sharing
+Data Shared: - Contact information (email address, phone number) - Basic profile data (username, user preferences) - Platform usage analytics
+(anonymized where possible) - Communication preferences and interaction history
+--- [PAGE BREAK] ---
+Purpose of Third-Party Processing: GN Telecom UK will use this data as an independent data controller to: - Send marketing communications
+about their products and services unrelated to GemSpace - Conduct customer analytics for their own business purposes - Provide personalized
+offers for financial, technology, and business services - Build customer profiles for their independent marketing database
+---
+Independent Controller Status:
+GN Telecom UK acts as a separate, independent data controller: - They determine their own marketing purposes and processing methods -
+They maintain their own legal basis for processing your data - They are independently responsible for GDPR and UK data protection compliance
+- They operate under their own data protection policies and procedures - No joint liability exists between Marketspace Solutions OU and GN
+Telecom UK.
+---
+[SECTION: 3. What Personal Data We Use]
+3.3. Email Address
+When you enable additional security features (for example, two-factor authentication or account recovery), you may be asked to provide an
+email address. This email address is used exclusively for:
+a. Account Recovery: Sending a password recovery code if you lose access.
+b. Alternative Login Options: Facilitating login via third-party services (such as "Sign in with Google" or "Sign in with Apple").
+--- [PAGE BREAK] ---
+3.4.1. Chats
+All messages, photos, videos, and documents sent via our messaging service ("Chats") are stored on GemSpace servers. This storage
+mechanism enables you to access your data seamlessly from any device, providing enhanced convenience and continuity of service.
+GemSpace employs industry-standard security measures and advanced encryption protocols during both data transit and storage.
+However, please be aware that, unlike end-to-end encryption, our Chats do not preclude the possibility of data access in response to
+legitimate legal requests or in the event of a security incident. By using our platform, you acknowledge and accept that the protection of
+your communications is subject to these technical and legal constraints, and GemSpace shall not be held liable for any unauthorized
+access or disclosure arising from circumstances beyond our reasonable control.
+---
+3.4.2. Public Chats and Channels
+Content posted in public chats or channels is stored on our servers and is, by design, accessible to all users of the platform. Publicly shared
+information is subject to standard encryption during transit and storage; however, once posted publicly, such content is inherently available to
+any member of the GemSpace community. Users are solely responsible for the content they choose to share in public areas. GemSpace
+expressly disclaims any liability for the public dissemination of user-generated content and reserves the right to remove or moderate any
+content that violates our terms of use or applicable laws, without incurring any liability for such actions.
+---
+3.6. Location Data
+If you share your location within a chat, GemSpace treats that data with the same security measures as other types of messages.
+--- [PAGE BREAK] ---
+[SECTION: 4. How We Use Information]
+b. Marketing and Promotional Communications:
+Internal Marketing (GemSpace Services): With your consent, we may send you information about GemSpace services and related
+platform offerings. You can manage your communication preferences or opt out of these messages at any time. Third-Party Marketing
+(Independent Controllers):With separate explicit consent, we may share your data with third-party controllers like GN Telecom UK for
+their independent marketing purposes. These entities will contact you directly according to their own marketing policies and legal
+obligations.
+---
+[SECTION: 5. Data Storage on Google Servers]
+5.1. Storage on Google Cloud:
+GemSpace utilizes Google Cloud services to store and process personal data. This means that your data is hosted on Google servers,
+which are maintained in globally distributed data centers. These data centers are designed to offer high levels of availability, redundancy,
+and security.
+---
+5.2. Compliance with Data Protection Standards:
+Google Cloud complies with the General Data Protection Regulation (GDPR) and has implemented extensive technical and organizational
+measures to ensure that personal data is processed securely and in accordance with EU data protection requirements. Key elements of
+Google Cloud's compliance include:
+a. Data Processing Agreements and Standard Contractual Clauses:
+We have entered into Data Processing Agreements with Google, which incorporate Standard Contractual Clauses approved by the
+--- [PAGE BREAK] ---
+European Commission. These agreements ensure that any personal data transferred to and stored on Google Cloud servers is subject to
+the same level of protection as required by the GDPR.
+---
+d. International Data Transfers:
+While Google Cloud data centers are located in multiple jurisdictions, including within the European Economic Area (EEA), any transfer of
+personal data outside the EEA is carried out in accordance with GDPR requirements. This is ensured by contractual safeguards and
+mechanisms such as the Standard Contractual Clauses, which provide a legally approved framework for cross-border data transfers.
+---
+e. Support for Data Subject Rights:
+Google Cloud's administrative tools and services are designed to assist us in fulfilling our obligations under the GDPR. This includes
+helping us respond to data subject requests for access, correction, deletion, or portability of personal data, in accordance with your
+rights.
+---
+5.3. Your Data and Our Responsibility:
+While Google Cloud serves as our data storage and processing partner, GemSpace remains the data controller and is responsible for
+determining the purposes and means of processing your personal data. We work closely with Google to ensure that all data processing
+activities on its infrastructure comply with applicable data protection laws, including the GDPR.
+---
+By using the GemSpace Platform, you acknowledge and consent that your personal data may be stored and processed on Google Cloud
+servers under the robust security and compliance framework described above.
+---
+[SECTION: 6. Who Your Personal Data May Be Shared With]
+6.1. Other GemSpace Users
+Your personal data may be shared with other users of our Services with whom you choose to communicate or exchange information. Such
+users may be located both within and outside the European Economic Area (EEA). By using GemSpace and engaging in communication with
+other users, you instruct us to transfer certain personal data on your behalf. While we implement appropriate technical and organizational
+--- [PAGE BREAK] ---
+measures to protect your data during transmission (including standard encryption methods), please be aware that once you share information
+with other users, you may lose control over its further distribution. GemSpace is not responsible for any additional sharing or processing of that
+data by third parties without your knowledge or consent.
+---
+6.2. GemSpace Group Companies
+To provide, improve, and support our Services, we may share your personal data with our affiliated group companies.
+---
+6.3. Independent Third-Party Controllers
+GN Telecom UK Limited (with your explicit consent)
+- Relationship: Independent data controller - NOT a processor acting on our behalf
+- Data shared: Contact details, basic profile information
+- Purpose: Their own marketing campaigns for non-GemSpace products and services
+- Legal basis: Your explicit consent (Article 6(1)(a) GDPR)
+- Your rights: Exercise data protection rights directly with GN Telecom UK under UK GDPR
+- Their obligations: Independent GDPR/UK data protection compliance
+- Contact: 1 Giltspur Street, Farringdon, London, United Kingdom, EC1A 9DD. info@gntelecomltd.com
+- Data Sharing Conditions: - Separate consent required specifically for GN Telecom UK - Consent withdrawal does not affect your GemSpace
+account - No joint processing or shared liability between companies - Each entity responsible for their own data protection compliance
+---
+6.4. Law Enforcement Authorities
+In the event that GemSpace receives a valid legal request or order from competent judicial or law enforcement authorities - particularly in cases
+where there is a reasonable suspicion that your account is involved in criminal activities or violations of our Terms of Service we may conduct
+a legal review of the request and, if required, disclose your personal data (such as your IP address and registered phone number) to the relevant
+authorities. Any such disclosures will be documented and may be included in our periodic transparency reports, subject to applicable law.
+---
+6.5. Translation of Chats at the Request of the User
+GemSpace may offer a translation feature to convert your text messages into your preferred language. When you choose to use this feature, the
+following process takes place:
+Data Transferred:
+Only the content of the message you wish to translate is transmitted to the designated third-party service provider (for example, Google LLC or
+its affiliates). No additional personal data (such as your IP address, account details, or metadata) is shared during this process.
+--- [PAGE BREAK] ---
+The transfer of data for translation is based on your explicit consent when you activate the translation feature. By choosing to translate a
+message, you acknowledge and agree to the processing of the text solely for this purpose.
+---
+Protection Mechanisms and Contractual Guarantees:
+The third-party provider is contractually obligated to use the transmitted data exclusively for providing the translation service. Standard
+contractual clauses or equivalent legal safeguards are in place to ensure that the data is protected in accordance with GDPR requirements. The
+provider implements robust technical and organizational measures, such as encryption during transit and strict access controls, to prevent
+unauthorized access or disclosure of your data.
+---
+Transparency:
+GemSpace ensures that you are fully informed about this data transfer. The translation service will only process data necessary for generating
+the translation, and you can review our Privacy Policy or contact our Data Protection Officer for further details about the safeguards in place.
+---
+6.5. Transcription of Voice and Video Messages at the Request of the User
+For your convenience, GemSpace may offer a transcription service for voice and video messages. If you elect to use this feature, the following
+provisions apply:
+Data Transferred:
+The audio content of your voice or video message will be sent to a third-party service provider (for example, Google LLC or its affiliates) solely
+for the purpose of generating a text transcript. Only the audio data strictly necessary for transcription is shared. No additional personal data,
+such as your IP address, account details, or location data, is transmitted.
+---
+Legal Basis and User Consent:
+The transmission of audio data for transcription is conducted based on your explicit consent. By opting to use the transcription service, you
+confirm that you understand and agree to the processing of your audio data for the creation of a transcript.
+---
+Protection Mechanisms and Contractual Guarantees:
+Under our contractual agreement with the third-party provider, they are legally bound to process the audio data only for the transcription
+service and to refrain from logging, storing, or using the audio or resulting transcript for any other purposes, including targeted advertising.
+The agreement incorporates standard contractual clauses or other legally approved safeguards to ensure that the data is handled in compliance
+with GDPR requirements.
+--- [PAGE BREAK] ---
+The provider employs industry-standard security measures, such as encryption in transit and at rest, and strict access controls to safeguard
+your data from unauthorized access or misuse.
+--- [PAGE BREAK] ---
+[SECTION: 9. Your Rights Under GDPR for EU Users]
+a. Access Your Data:
+You have the right to request a complete copy of all personal data we hold about you, along with details regarding the purposes of
+processing, the categories of data processed, the recipients to whom the data has been or will be disclosed, the planned retention
+period, and the source of the data (if it was not provided by you).

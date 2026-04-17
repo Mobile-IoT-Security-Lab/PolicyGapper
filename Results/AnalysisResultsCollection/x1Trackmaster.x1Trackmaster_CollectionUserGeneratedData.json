@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Voice and audio information\nFor example, you can choose whether you want Google to save an audio recording to your Google Account when you interact with Google Search, Assistant, and Maps. When your device detects an audio activation command, like \"Hey Google,\" Google records your voice and audio plus a few seconds before the activation. Learn more",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Voice and audio information\nFor example, you can choose whether you want Google to save an audio recording to your Google Account when you interact with Google Search, Assistant, and Maps. When your device detects an audio activation command, like \"Hey Google,\" Google records your voice and audio plus a few seconds before the activation. Learn more",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "If you connect your Google Account to your Google Home, you can manage your information and get things done through the Google Assistant. For example, you can add events to your Google Calendar or get your schedule for the day, ask for status updates on your upcoming flight, or send information like driving directions to your phone. Learn more",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "To provide personalized services, including content and ads To customize our services for you, including providing recommendations, personalized content, and customized search results. Examples of processing activities: • Google's Security Checkup feature provides security tips adapted to how you use Google products. • Google News may provide you with local news results based on your approximate location. • Google Search may provide you with results based on your approximate location. • Google Assistant can use your contacts to send a message at your request, like \"Send a text to John Smith.\" • Google Play uses information like apps you've already installed and videos you've watched on YouTube to suggest new apps you might like. • We may display a Google Doodle on the Search homepage to celebrate an event specific to your country. • Google can show you ads based on the context of the site you're visiting, like ads for gardening equipment on a page about gardening tips. • When you're signed in to your Google Account and have the Web & App Activity control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services. Depending on your settings, to show you personalized ads based on your interests. Examples of processing activities: • If you search for \"mountain bikes\" or watch videos of mountain biking, you may see an ad for sports equipment in your search results or on YouTube. • If you watch videos about baking on YouTube, you may see more ads that relate to baking as you browse the web. • You may also see personalized ads based on information from the advertiser. If you shopped on an advertiser's website, for example, they can use that visit information to show you ads.",
+      "lang": "en"
+    }
+  ]
+}

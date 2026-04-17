@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "TicketSwap offers social features to make your experience on our platform more personal and interactive. When you use these social features and add the following information, we process the following personal data based on your consent: • Profile Information: You may choose to provide profile information such as your username, bio, profile picture, and your favorite artists or events you are following. • Following and Followers: You can follow other users or be followed by them. You can control whether your profile is public or only visible to approved followers. • Visibility of Activities: Depending on your privacy settings, other users may see which artists and events you follow.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "| Facebook app specific ID and Twitter ID | • Your Facebook ID, avatar, name, Facebook email address, friends and your residence to (enable you to) complete your account (optional). These \"Facebook data\" will be shown on our Websites and mobile apps when you sell tickets to make buying second hand tickets safer for (potential) buyers. We further use Facebook IDs for marketing purposes, as described further in this document. • Your Twitter ID, username, name, location, followers count, friends count, number of status updates, security status, verification status and account creation date to complete your account. The “Twitter data\" will be shown on our Websites and mobile apps when you sell tickets to make buying second hand tickets safer for (potential) buyers. |",
+      "lang": "en"
+    }
+  ]
+}

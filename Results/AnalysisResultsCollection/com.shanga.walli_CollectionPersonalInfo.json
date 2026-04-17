@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Categories of Personal Information Collected/Disclosed: In the preceding 12 months, we may have collected and disclosed for a business purpose (and potentially \"sold” or “shared” for advertising purposes) the categories of personal information listed in Section 1 (Identifiers like name, email, device ID, IP address, Advertising ID; Internet or other electronic network activity information like usage data; Geolocation data; Commercial information like transaction history if applicable; Profile data like preferences).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Location Information (if enabled): When you use the Application, we may use GPS technology (or other similar technology) to determine your current location (e.g., city level) to personalize content, display relevant advertisements, and improve our services. You can control location access via your device settings or within the Application settings (see Section 8 below).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Location Information (if enabled): When you use the Application, we may use GPS technology (or other similar technology) to determine your current location (e.g., city level) to personalize content, display relevant advertisements, and improve our services. You can control location access via your device settings or within the Application settings (see Section 8 below).",
+      "lang": "English"
+    }
+  ]
+}

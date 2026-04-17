@@ -1,0 +1,14 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)",
+      "justification": "The policy states the app collects 'gps coords' to 'record on video'. This constitutes collection of 'Precise location' data. The policy does not specify that this data is processed only on the user's device or is end-to-end encrypted, so it does not qualify for an exemption and must be declared.",
+      "how_to_fix": "Declare the collection of 'Precise location' in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

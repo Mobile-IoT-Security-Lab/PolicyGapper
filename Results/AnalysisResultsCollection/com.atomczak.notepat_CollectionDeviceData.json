@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "The diagnostic data that can be sent using the \"Technical support\" function contains: device's model/vendor, version of the operating system, operations performed in the app, and optionally note titles. Sending note titles is optional, is set in the app's settings, and is meant to help diagnose an issue with a specific note. Notes are never sent with the aforementioned diagnostic info.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "This app uses Firebase and Google Analytics for Firebase as an analytic tool. It provides the developer information about usage of the app like: number of active users, most popular devices, etc. The information is used to analyze performance of the app and detect any problems, for example after publishing an update. Advertising ID is not collected, so no demographics or interests data is collected. IP addresses are anonymized.",
+      "lang": "English"
+    }
+  ]
+}

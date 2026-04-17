@@ -1,0 +1,114 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Please review the rest of this Privacy Policy for more information about the circumstances in which we sell or share personal information, such as internet and electronic network activity information, device identifiers, and other information about your use of the Services we collect automatically when you visit or use the Services, and to exercise your rights to opt out.",
+      "justification": "The policy explicitly states the app may 'sell or share personal information, such as internet and electronic network activity information... and other information about your use of the Services'. This constitutes sharing with a third party.",
+      "how_to_fix": "In the Data Safety form, declare that 'App interactions' under the 'App activity' category is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Please review the rest of this Privacy Policy for more information about the circumstances in which we sell or share personal information, such as internet and electronic network activity information, device identifiers, and other information about your use of the Services we collect automatically when you visit or use the Services, and to exercise your rights to opt out.",
+      "justification": "The policy explicitly states the app may 'sell or share personal information, such as internet and electronic network activity information... and other information about your use of the Services'. This constitutes sharing with a third party.",
+      "how_to_fix": "In the Data Safety form, declare that 'In-app search history' under the 'App activity' category is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Please review the rest of this Privacy Policy for more information about the circumstances in which we sell or share personal information, such as internet and electronic network activity information, device identifiers, and other information about your use of the Services we collect automatically when you visit or use the Services, and to exercise your rights to opt out.",
+      "justification": "The policy explicitly states the app may 'sell or share personal information, such as internet and electronic network activity information... and other information about your use of the Services'. This constitutes sharing with a third party.",
+      "how_to_fix": "In the Data Safety form, declare that 'Other actions' under the 'App activity' category is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Please review the rest of this Privacy Policy for more information about the circumstances in which we sell or share personal information, such as internet and electronic network activity information, device identifiers, and other information about your use of the Services we collect automatically when you visit or use the Services, and to exercise your rights to opt out.",
+      "justification": "The policy explicitly states the app may 'sell or share personal information, such as internet and electronic network activity information'. This constitutes sharing with a third party.",
+      "how_to_fix": "In the Data Safety form, declare that 'Web browsing history' under the 'App activity' category is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Please review the rest of this Privacy Policy for more information about the circumstances in which we sell or share personal information, such as internet and electronic network activity information, device identifiers, and other information about your use of the Services we collect automatically when you visit or use the Services, and to exercise your rights to opt out.",
+      "justification": "The policy explicitly states the app may 'sell or share personal information, such as... device identifiers'. This constitutes sharing with a third party.",
+      "how_to_fix": "In the Data Safety form, declare that 'Device or other IDs' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Select Business Partners: We may disclose your information to select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, we may disclose your information to our co-brand partners when you choose to be involved in those programs, such as when you enter contests or sweepstakes that are conducted with those business partners. We are not responsible for the privacy practices of our business partners, and we urge you to review their privacy notices for more detail on how they might process your information and for information about how to exercise your marketing and other choices with such partners.",
+      "justification": "The policy states information is disclosed to 'select business partners' for their own marketing purposes, and explicitly states 'We are not responsible for the privacy practices of our business partners', which disqualifies them as service providers.",
+      "how_to_fix": "In the Data Safety form, declare that 'Name' under the 'Personal info' category is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Select Business Partners: We may disclose your information to select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, we may disclose your information to our co-brand partners when you choose to be involved in those programs, such as when you enter contests or sweepstakes that are conducted with those business partners. We are not responsible for the privacy practices of our business partners, and we urge you to review their privacy notices for more detail on how they might process your information and for information about how to exercise your marketing and other choices with such partners.",
+      "justification": "The policy states information is disclosed to 'select business partners' for their own marketing purposes, and explicitly states 'We are not responsible for the privacy practices of our business partners', which disqualifies them as service providers.",
+      "how_to_fix": "In the Data Safety form, declare that 'Email address' under the 'Personal info' category is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Third-Party Advertising and Audience and Traffic Measurement Services: We use third party advertising, analytics, and measurement partners to serve you advertisements on the Services as well as across other sites and services. For information about how we may disclose your information to third parties in connection with advertising, please see Section 5, Interest-Based Advertising. These third parties may set their own cookies or similar web technologies on the Services and elsewhere online that enables them to collect information about users' online activities over time and across different websites.",
+      "justification": "The policy describes sharing with 'third party advertising, analytics, and measurement partners' who collect information for their own purposes, including tracking 'across different websites'. This is not a service provider relationship.",
+      "how_to_fix": "In the Data Safety form, declare that 'User IDs' under the 'Personal info' category is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Select Business Partners: We may disclose your information to select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, we may disclose your information to our co-brand partners when you choose to be involved in those programs, such as when you enter contests or sweepstakes that are conducted with those business partners. We are not responsible for the privacy practices of our business partners, and we urge you to review their privacy notices for more detail on how they might process your information and for information about how to exercise your marketing and other choices with such partners.",
+      "justification": "The policy states information is disclosed to 'select business partners' for their own marketing purposes, and explicitly states 'We are not responsible for the privacy practices of our business partners', which disqualifies them as service providers.",
+      "how_to_fix": "In the Data Safety form, declare that 'Phone number' under the 'Personal info' category is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Geolocation Information: We may disclose your geolocation information to service providers that perform certain functions or services on our behalf. We also may disclose your geolocation information to third parties so that they may provide you with geographically relevant advertising;",
+      "justification": "While the policy mentions service providers, it also explicitly states disclosure to 'third parties so that they may provide you with geographically relevant advertising', which is a non-exempt sharing purpose.",
+      "how_to_fix": "In the Data Safety form, declare that 'Approximate location' under the 'Location' category is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Geolocation Information: We may disclose your geolocation information to service providers that perform certain functions or services on our behalf. We also may disclose your geolocation information to third parties so that they may provide you with geographically relevant advertising;",
+      "justification": "While the policy mentions service providers, it also explicitly states disclosure to 'third parties so that they may provide you with geographically relevant advertising', which is a non-exempt sharing purpose.",
+      "how_to_fix": "In the Data Safety form, declare that 'Precise location' under the 'Location' category is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Sharing your personal information from an NFL Event: We may disclose your personal information captured at an NFL Event with any of the entities set out in this Privacy Notice, as described in Disclosure of Information. Additionally, when you appear in a photograph or film footage at an NFL Event, we may disclose that photograph or film footage containing your image, voice, and/or likeness with our third-party partners. These partners include our sponsors, licensees, advertisers, and/or broadcasters. We will disclose the photographs or film footage containing your image, voice and/or likeness when it is in our legitimate business interests to do so. However, each of the third-party partners may use your personal information for their independent commercial purposes without reference to the NFL.",
+      "justification": "The policy states that photos are disclosed to 'third-party partners' who 'may use your personal information for their independent commercial purposes', which is a non-exempt sharing purpose.",
+      "how_to_fix": "In the Data Safety form, declare that 'Photos' under the 'Photos and videos' category is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Sharing your personal information from an NFL Event: We may disclose your personal information captured at an NFL Event with any of the entities set out in this Privacy Notice, as described in Disclosure of Information. Additionally, when you appear in a photograph or film footage at an NFL Event, we may disclose that photograph or film footage containing your image, voice, and/or likeness with our third-party partners. These partners include our sponsors, licensees, advertisers, and/or broadcasters. We will disclose the photographs or film footage containing your image, voice and/or likeness when it is in our legitimate business interests to do so. However, each of the third-party partners may use your personal information for their independent commercial purposes without reference to the NFL.",
+      "justification": "The policy states that 'film footage' is disclosed to 'third-party partners' who 'may use your personal information for their independent commercial purposes', which is a non-exempt sharing purpose.",
+      "how_to_fix": "In the Data Safety form, declare that 'Videos' under the 'Photos and videos' category is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Sharing your personal information from an NFL Event: We may disclose your personal information captured at an NFL Event with any of the entities set out in this Privacy Notice, as described in Disclosure of Information. Additionally, when you appear in a photograph or film footage at an NFL Event, we may disclose that photograph or film footage containing your image, voice, and/or likeness with our third-party partners. These partners include our sponsors, licensees, advertisers, and/or broadcasters. We will disclose the photographs or film footage containing your image, voice and/or likeness when it is in our legitimate business interests to do so. However, each of the third-party partners may use your personal information for their independent commercial purposes without reference to the NFL.",
+      "justification": "The policy states that 'film footage containing your... voice' is disclosed to 'third-party partners' who 'may use your personal information for their independent commercial purposes', which is a non-exempt sharing purpose.",
+      "how_to_fix": "In the Data Safety form, declare that 'Voice or sound recordings' under the 'Audio' category is 'Shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Select Business Partners: We may disclose your information to select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, we may disclose your information to our co-brand partners when you choose to be involved in those programs, such as when you enter contests or sweepstakes that are conducted with those business partners. We are not responsible for the privacy practices of our business partners, and we urge you to review their privacy notices for more detail on how they might process your information and for information about how to exercise your marketing and other choices with such partners.",
+      "reason_of_removal": "Inconsistent: The policy reference supports sharing contact information like an 'Email address' for marketing, but not the content of 'Emails' (e.g., subject, body).",
+      "justification": "The policy mentions disclosing 'your information' to business partners for marketing. This logically covers contact details like an email address, but does not provide a basis for sharing the content of user emails.",
+      "how_to_fix": "This declaration for 'Emails' (content) is not required by this policy text. Ensure that 'Email address' is correctly declared as shared.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,98 @@
+When you visit our search engine or our other websites, your device sends some
+information about itself automatically, like its IP address, browser type, and language,
+and may send additional information upon request like its screen size, operating
+system, and preferences. However, we only use this information temporarily to deliver
+content to you and, for security, to ensure you're not a malicious bot. We don't save
+your IP address or any unique identifiers alongside your searches or visits to our
+websites. We also never log IP addresses or any unique identifiers to disk.
+
+---
+
+This means that when you use our services, we have no way to create a history of
+your search queries or the sites you browse. For example, we may know that we got a
+lot of searches for "cute cat pictures" today, but we don't know who actually
+performed those searches. That is, viewing search results on DuckDuckGo is
+anonymous. And we only save these anonymous search queries – completely
+disconnected from any unique identifiers like IP addresses — for just enough time to
+analyze anonymous trends like popular searches, so that we can better serve you. For
+local search results in particular, we've further engineered a solution to shield your
+precise location from us and our content providers that sends us a random location
+nearish to you, which we also never log to disk.
+
+---
+
+We offer optional privacy-protecting features that require limited
+personal information to function.
+For optional features, we only request personal information necessary for the feature
+to function and only use the information for that purpose. Before you opt in to any
+optional feature, we always let you know what personal information we'll need (if any),
+how we'll use it, and how you can subsequently opt out. For example, our Email
+
+--- [PAGE BREAK] ---
+
+Protection is an optional feature that requires some personal information to work
+(namely, your email address), and all of this is explained in our Email Protection Privacy
+Policy.
+
+---
+
+We improve our product by using anonymous methods and by
+considering publicly available information.
+To improve and promote our product, we develop and use only anonymous methods
+to learn key insights. For example, we design anonymous experiments to test different
+designs. We also observe what people are saying about our product across social
+channels and may search for, review, and share this publicly available information
+internally for consideration.
+
+---
+
+We don't track you through cookies or any other storage methods.
+We offer a variety of search settings that use anonymous cookies for storage, and also
+offer the option to configure search settings via anonymous URL parameters if you
+prefer. Similarly, we use local storage on your device for anonymous display settings.
+For instance, we might use local storage to anonymously remember the fact that
+you've already dismissed a prompt to install our app so that we don't annoy you by
+showing it again.
+
+---
+
+Related, the anonymous experiments described in the section above sometimes
+require us to use browser storage too, but we never store any information that could
+identify you or your searches. For example, we might use storage to make sure a
+design we're testing doesn't frequently change on you. Finally, if you use optional
+features, such as staying signed in to our Email Protection, we use only the minimal
+necessary storage to allow that feature to perform.
+
+---
+
+We protect and limit use of your data when you communicate directly
+with DuckDuckGo.
+If you voluntarily provide personal information to us directly, we protect and limit its
+use. We will limit its use by only keeping it for as long necessary for the stated
+purpose, and we will protect it by keeping it secure and deleting it when it is no longer
+
+--- [PAGE BREAK] ---
+
+required, unless a longer period is required by law. For example, if you opt to receive
+our privacy newsletter, we will ask for your email address and use it only to deliver that
+content. You can also unsubscribe at any time, at which point we will delete it.
+
+---
+
+Similarly, if you reach out to us directly for support, to provide feedback (such as in a
+crash report or on our search engine), or for other reasons, we will only use your
+contact information to respond to you. In that process, your communication may be
+accessible to the software-as-a-service providers we use in our corporate systems
+(such as our company email and project management software). For information
+voluntarily provided in surveys, we sometimes use additional vendors for processing,
+though their access to personal information is contractually limited to what is
+necessary to perform their services. Finally, if you apply for a position on our team, any
+information you provide falls under our Recruiting Information Policy.
+
+---
+
+Critically, it's not possible for us to provide search or browsing histories linked to you
+in response to legal requests because we don't have them. Nevertheless, we will
+vigorously resist government efforts to compel us to produce the very limited personal
+information that we might have, for example, your email address if you subscribe to
+our newsletter.

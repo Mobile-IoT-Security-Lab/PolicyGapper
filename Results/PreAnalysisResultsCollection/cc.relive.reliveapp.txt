@@ -1,0 +1,275 @@
+WHAT ARE YOU READING HERE?
+This is our Privacy Policy, explaining which data we collect and how we use it (the Privacy Policy). In
+addition, you can read how we store and protect your data and which privacy rights you can invoke. When
+we refer to you in this Privacy Policy, we mean you as a user of our App. This Privacy Policy applies to our
+website www.relive.cc (https://www.relive.com). (the Website), our App and the services or products we
+provide (the Services).
+
+---
+--- [SECTION: SECTION 2 - DATA COLLECTION] ---
+We may receive your data in a few different ways. We receive data you directly share with us, for example
+when you create an account or when you upload certain activities. Sometimes we also collect data
+ourselves, for example on how you use our Services. Finally, we may also receive data when you use third-
+party service providers that we facilitate via our App. Below we have explained in more detail which data we
+collect, how we use it and our legal motivation.
+
+--- [PAGE BREAK] ---
+--- [SECTION: SECTION 2.1 – DATA COLLECTED BY RELIVE] ---
+We shall only use your data for the following purposes or for compatible purposes. By doing so, we will not
+use your data in an unexpected manner.
+
+ACCOUNT DATA
+In order to start using Relive, you need to sign up and create an account. Your account details can be
+changed or supplemented at any time in the settings section in the App. We use account data so that you
+can log in to Relive and we can personalize our Services. We also use your account data to communicate
+with you about our Services, for example when you've forgotten your password or when your video is ready.
+That way we can help you use our Services and inform you about relevant updates. You can manage your
+contact settings on your profile.
+•
+first and/or last name
+• username
+• email address
+•
+bio (optional)
+• profile picture (optional)
+
+---
+PAYMENT DATA
+You can upgrade your personal account to use Relive Plus, our premium service. To bring you Relive Plus,
+we process payment data to facilitate payments, send invoices and update our financial administration,
+being:
+•
+payment details: contact- and credit card details
+•
+overview of the purchases of our Services
+•
+Invoices
+We don't process any payment information at all if you pay via Apple or Google.
+
+---
+LOCATION DATA
+In order to provide Relive's core Services, it is necessary for us to track the location of your device while you
+are using Relive. We collect and process the location of your device when you sign up for and use our
+Services. We do not track the location of your device when you are not using the App. If you want to stop
+device location tracking, you can do so at any time by adjusting your device settings.
+
+---
+CONTENT DATA
+We gather information from the photos, posts, comments, ratings, reviews, and other content you share on
+the Services, including when you participate in challenges or create routes.
+
+---
+TECHNICAL INFORMATION AND LOG FILES
+We collect information from your browser, computer, or mobile device, which provide us with technical
+information when you access or use the Services. This technical information includes device and network
+information, cookies, log files and analytics information.
+
+--- [PAGE BREAK] ---
+The Services use log files. The information stored in those files includes IP addresses, browser type, internet
+service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. This
+information is used to analyze trends, administer, protect and secure the Services, track member
+movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses
+may be linked to session IDs, athlete IDs and device identifiers.
+
+---
+ACTIVITY DATA
+We collect the following activity data:
+•
+•
+your tracked route (GPS-points);
+media data: photos and videos;
+•
+additional information you may add to the activity, such as the title you give to an activity or tagging
+of a photo.
+We process your activity data in order to provide our Services to you:
+i. We can record your activities and analyze your performances, in order to provide you with the relevant
+feedback;
+ii. You can interact with other users on the App. This allows you to participate in challenges, follow other
+users and communicate with each other;
+iii. We can manage your training. For example, to set goals and use your training dashboard;
+iv. Discover new places to go. For example, to discover routes where you can run or ride or to identify
+points of interest;
+v. To visualize your activities in new ways. For example, by creating personal heatmaps or personal
+videos.
+vi. To enrich the content in our App. For example, we can add publicly available photos of users to routes,
+unless you have opted out for this functionality.
+
+---
+DATA FROM THIRD PARTY PROVIDERS
+If you sign up via third parties (such as Google or Apple), we will receive profile data to create a Relive
+account. If you cancel the process of signing up, we cannot provide you with our Services and we will not
+save the data you entered.
+We also collaborate with third party applications like Garmin and Polar Flow (Trackers). You should exercise
+caution when sharing information through Trackers and you should carefully review the privacy practices of
+these third parties. By connecting your account with a Tracker, you give Relive permission to transfer and
+use data, provided by the Trackers, for the purposes of making a personal video or route. You can always
+disconnect these Trackers via your settings, upon which we will stop collecting data related to your
+activities and delete the imported data in accordance with the our retention periods.
+
+--- [PAGE BREAK] ---
+• profile information on the third party service in order to fill and update your Relive profile;
+• activity data: note that when you use Relive via a Tracker, the activity data may include health data
+such as your heart rate. We are not able to delete this data as it is often embedded in the received
+activity data.
+
+---
+Additionally, we use Snowplow to collect user experience data on the Website. This enables us to conduct
+optimisations on the Website. We collect the following data via Snowplow:
+• Timestamps
+•
+Details about the page visit
+•
+User agent details
+•
+Browser settings
+•
+Session identifier
+•
+Session index
+
+---
+The detailed information is stored for 30 days. We also collect pseudonymised IP information and a visitor
+identifier based on a custom cookie which is valid for 30 days. This data is processed on the basis of
+legitimate interest (improving the website experience). And none of the data is shared across domains.
+
+---
+We also use Unbounce as a third-party service on our landing pages (e.g. www.relive.com) to enhance our
+website's functionality and improve user experience. Unbounce allows us to create, manage, and analyse
+landing pages to better serve our visitors. This service may collect and store data, such as your IP address,
+device information, and interaction with our landing pages. We utilise this data to optimize our content and
+marketing efforts. Unbounce adheres to strict data protection standards, and any data shared with them is
+managed in accordance with our privacy policy and relevant data protection laws. For more information on
+data protection and security at Unbounce, click here (https://unbounce.com/security/)..
+
+---
+DATA FOR MARKETING AND PROMOTIONAL REASONS
+We use the following data to offer and promote our Services, activities and events on Relive and other
+commercial products or Services.
+• name
+•
+email address
+• interests
+• purchase overview
+
+---
+--- [SECTION: SECTION 2.2 – LEGAL BACKGROUND] ---
+We consider Personal Data to be any data relating to an identified or identifiable person, in conformity with
+the General Data Protection Regulation (the GDPR). As an identified or identifiable person to whom the
+Personal Data relates, you are the Data Subject in this context. We process your Personal Data in
+accordance with the GDPR and all other relevant legislation and regulations in the field of protection of
+
+--- [PAGE BREAK] ---
+Personal Data, like the Dutch Telecommunications Act (Telecommunicatiewet) regarding the use of cookies
+(the Relevant Legislation). We are allowed to process your Personal Data, because we comply with the
+Relevant Legislation. The processing of your Personal Data is based on the following grounds of the GDPR:
+
+PERFORMANCE OF THE CONTRACT
+We process (part of) your account data, payment data, location data and activity data in order to fulfill our
+agreement with you. We need to process this Personal Data so we can provide our core Services to you:
+•
+•
+Create an account and give you access to the Services
+Record your activities
+• Help you analyze your performance. For example, to compare your past efforts and analyze your
+training
+• Help you manage your training. For example, to set goals and use your training dashboard
+•
+Process your Relive membership
+•
+Responding to your support requests and comments.
+
+---
+LEGITIMATE INTEREST
+We process (part of) your location data, public activity data and data for marketing purposes based on our
+legitimate interest. For the legal basis of legitimate interest, an assessment was made on behalf of our
+interests on the one hand and your interests, fundamental rights and freedoms as the Data Subject on the
+other. This balancing test assesses whether your interests should override ours. Processing your Personal
+Data on the legitimate interest ground is important to us, because it enables us to offer you a better App
+and Services. More specifically, we can:
+•
+•
+•
+•
+Support community powered features: enable you to find new ways to interact through our Services.
+For example, we allow users to explore each other's routes or allow users to participate in challenges.
+Convert your data in aggregate form to enhance our Services: identify points of interest or popular
+areas, customize the Service (e.g. suggesting routes, challenges, etc.) and create global heat maps.
+Customize the Services: we may suggest routes or challenges that may interest you or new features
+you may want to try.
+Promote the Services: through Service-related email and product-related marketing campaigns to
+make you aware of our Services.
+
+---
+CONSENT
+We request your consent to process your data for certain purposes and you are entitled to withdraw your
+consent at any time. We ask your consent:
+•
+•
+For collecting and processing data from Trackers which you connect to your Relive account, including
+possible health information such as your heart rate
+To access photos, location and contact information through your device-based settings, after you have
+enabled the settings
+If we process the data, you provide us subject to your consent, your consent is limited to the specific
+content of such a consent. You have the right to withdraw your consent at any time through our settings.
+
+--- [PAGE BREAK] ---
+LEGAL OBLIGATIONS OR TO ESTABLISH, EXERCISE OR
+DEFEND LEGAL CLAIMS
+We process data if we are required to do so by law, for example in the context of a legally valid and binding
+legal action by a law enforcement agency to obtain certain data. In addition, we may be required to process
+data to establish, bring or defend civil or criminal claims in connection with actual or potential litigation, for
+example to protect Relive's services, our property or other legal rights, including those of our members or
+partners.
+
+--- [PAGE BREAK] ---
+--- [SECTION: SECTION 5 – DATA SHARING] ---
+PROCESSORS
+We may share your Personal Data with third parties that provide Services to Relive. These are Processors
+within the meaning of the Relevant Legislation. Processors are given access only to the Personal Data they
+need to perform these limited tasks on our behalf and are obligated to protect and safeguard your Personal
+Data. In addition, we agree with Processors that they will handle your Personal Data with care. We might
+share the following Personal Data with Processors:
+•
+Payment providers – your payment data for the execution of payment services;
+• Google Analytics – your behaviour on our Website and App, to help us improve our Services;
+•
+Wufoo - your email address, to provide you with contact forms.
+•
+Cloud and hosting providers - relevant data for the hosting and storage of our App;
+
+--- [PAGE BREAK] ---
+AGGREGATED DATA USE
+We may aggregate the information you and others make available to Relive to enhance the service. For
+example – we may aggregate your activity data to identify popular routes or points of interest to share with
+the community. When you join Relive your account is set to allow aggregated data use by default. You can
+change this at any time in the privacy settings.
+
+--- [PAGE BREAK] ---
+PUBLIC PHOTOS ON ROUTES
+We may show photos that you have chosen to upload to Relive to other users when they are viewing Routes
+in our app. We do this by default for profiles set to Everyone who have activities set to Public. You can opt
+out of this at any time in the privacy settings.
+
+---
+PRIVACY ZONE
+We offer privacy zones. You can notify us of important locations you want to hide, such as your home or
+work address, by enabling a privacy zone in your settings. Privacy zones apply going forward but not
+retroactively. Any part of your activity that is covered by a privacy zone, including photos and videos, will be
+private and therefore not visible to other users. The part of your activity covered by a privacy zone will only
+be visible to you, and the relevant data will still contribute to statistics and challenges. Finally, we will not
+use the part of your activity covered by a privacy zone for our aggregate data use.
+Trackers may also allow you to create privacy zones. Please note that Trackers might not always accurately
+share this data with us, but rather give us the unfiltered data. If you see your route within your privacy zone,
+we advise you to contact the relevant Tracker to stop sharing locations within your privacy zone.
+
+--- [PAGE BREAK] ---
+--- [SECTION: SECTION 8 – COOKIES] ---
+A cookie is a small text file that can be sent via the server of a website to the browser. The browser saves this
+file to your computer. Your computer is tagged with a unique number, which enables our site to recognize
+that computer in the future.
+We use cookies to improve the user experience on our Website. Moreover, cookies ensure that our Website
+and App work faster, that you can visit our Website and App safely and that we can track and solve errors on
+our Website and App.
+You can always delete or disable cookies yourself via the browser settings. No more cookies will be stored
+when you visit our Website or App. However, please note that without cookies, our Website and App may
+not function as well as it should.

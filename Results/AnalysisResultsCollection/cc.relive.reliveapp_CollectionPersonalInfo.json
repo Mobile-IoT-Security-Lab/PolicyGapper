@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "You can upgrade your personal account to use Relive Plus, our premium service. To bring you Relive Plus, we process payment data to facilitate payments, send invoices and update our financial administration, being:\n•\npayment details: contact- and credit card details\n•\noverview of the purchases of our Services\n•\nInvoices\nWe don't process any payment information at all if you pay via Apple or Google.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "You can upgrade your personal account to use Relive Plus, our premium service. To bring you Relive Plus, we process payment data to facilitate payments, send invoices and update our financial administration, being:\n•\npayment details: contact- and credit card details\n•\noverview of the purchases of our Services\n•\nInvoices\nWe don't process any payment information at all if you pay via Apple or Google.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "You can upgrade your personal account to use Relive Plus, our premium service. To bring you Relive Plus, we process payment data to facilitate payments, send invoices and update our financial administration, being:\n•\npayment details: contact- and credit card details\n•\noverview of the purchases of our Services\n•\nInvoices\nWe don't process any payment information at all if you pay via Apple or Google.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "• profile information on the third party service in order to fill and update your Relive profile;\n• activity data: note that when you use Relive via a Tracker, the activity data may include health data such as your heart rate. We are not able to delete this data as it is often embedded in the received activity data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "The Services use log files. The information stored in those files includes IP addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. This information is used to analyze trends, administer, protect and secure the Services, track member movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses may be linked to session IDs, athlete IDs and device identifiers.",
+      "lang": "English"
+    }
+  ]
+}

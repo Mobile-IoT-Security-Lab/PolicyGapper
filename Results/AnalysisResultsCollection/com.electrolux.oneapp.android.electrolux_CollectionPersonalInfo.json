@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "A) Contact information - such as name, address, phone number, email address, and login information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "A) Contact information - such as name, address, phone number, email address, and login information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "A) Contact information - such as name, address, phone number, email address, and login information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "B) Information about your purchase of products or services - such as product registration information, warranty information and enrolment status in services;",
+      "lang": "English"
+    }
+  ]
+}

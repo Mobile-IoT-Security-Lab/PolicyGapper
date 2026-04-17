@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Our third-party operators may provide you with an ad based on your data includes GAID (Google Advertising ID on Android devices) or IDFA (Identifier for Advertising on IOS devices), region, location information and IP address. This Policy does not govern Third-party Operators, as they have their own privacy policies (such as TopOn: https://help.toponad.com/docs/Privacy-Policy).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may also access your precise geolocation information (through your device) to provide a customized Al Chatting experience based on more accurate simulations to your local environment.",
+      "lang": "English"
+    }
+  ]
+}

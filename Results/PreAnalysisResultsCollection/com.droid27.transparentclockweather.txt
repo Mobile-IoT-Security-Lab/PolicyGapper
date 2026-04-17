@@ -1,0 +1,211 @@
+This Privacy Policy, along with our Terms of Service explains how we collect and handle your
+information across all of our websites, mobile apps and other services. We may review this
+policy from time to time and make sure that it is up-to-date. In case we make changes to the
+policy we will post the latest version here.
+
+---
+[SECTION: 1. Introduction]
+We at MACHAPP Software Ltd, a company registered in Cyprus with company registration
+number HE344069 and its registered office at Avenue Georgiou Neofytou 8, AGATE House,
+#201, 4006. Limassol, take the protection of your personal data very seriously and nothing
+matters more to us than your trust.
+We have redesigned this Privacy Policy to help you understand what data we and our trusted
+partners collect, why we collect it and what we do with it. Please take your time and read this
+document carefully.
+
+---
+By choosing to use our Apps or Services you agree to the collection of information as
+described in this Privacy Policy.
+
+---
+[PAGE BREAK]
+[SECTION: 2. Information we collect and use]
+When you interact with our Apps, our trusted partners may collect information about your
+device. The process of collecting data is designed so that it avoids collection of information
+that identifies you personally, such as your name, address, email address or similar; instead,
+the information collected does enable us and our partners to recognize your device over time
+for purposes of improving the quality of our products and your experience with them.
+
+---
+As a general rule, we do not collect or share any information that may be used to identify you
+as a person except when you contact us by email. In that case we will save your emails in
+order to serve you better. Once we are finished providing support to you we will delete all
+emails received by and sent to you. Please note that we take all the necessary steps to
+safeguard any personal information you may provide by email using strong passwords and 2-
+step authentication.
+
+---
+Information that is collected by our partners may be divided into the following categories.
+
+---
+[SECTION: A. Information for showing personalized ads]
+Note: This section (Section A) applies only to Apps that display ads. It does not apply to the
+following:
+1. Apps that do not display ads
+2. Pro (Ad-free) Apps that are available with a one-time purchase
+3. Apps that have been upgraded to Premium via a paid subscription and do not display ads
+In order to provide our Apps to you for free we display ads. To display ads, we work with our
+ad partners who may have their SDK/API integrated with our Apps. In order to improve user
+targeting, which is important for interest-based ads and marketing solutions relevant to the
+user, our partners may obtain and lawfully use information such as the following:
+a) Device and account identifiers - Ad id (advertising id), app set ID and other identifiers
+related to accounts that are signed-in on the device.
+b) IP address - Can be used to estimate the general location of a device
+c) User product interactions and interaction information - App launches, taps and video
+views
+d) Diagnostic information - Information is related to the performance of our Apps and the
+SDK, crash logs, app launch time, hang time and energy usage.
+e) Precise location - Ad networks may obtain your location in order to show to you relevant
+ads.
+This information may be shared with their clients for the permitted purposes stated above
+(whether within or outside of the country of origin). All such collection permitted processing
+and transfer will be in accordance with applicable data privacy laws.
+
+---
+[PAGE BREAK]
+[SECTION: B. Information for analyzing application performance issues and crashes]
+In order to improve our Apps, we use third party services (our analytics partners) to collect
+and analyze error and performance issues. The information collected in the case of an error
+is divided into two categories.
+• Device/hardware information
+Includes information such as device model, screen information, total memory, internal
+and external storage, device language, and Android version
+• Error or performance related information
+Includes error description, time that the error occurred, stack trace (a detailed error
+report), free memory and free disk space at the time of the error, etc.
+
+---
+[SECTION: C. Information for app functionality]
+Some information may be used to enable additional functionality in some of our apps. The
+information that we use to do this includes the following:
+• Installed applications
+In case you choose to assign a custom application to one of our widget hot spots we
+obtain all applications that are installed on your device; this is needed so that we can
+present you with a list of the applications you have installed and you can choose which
+one to launch when you click on a widget hot spot. Any application-related information
+we access does not leave your device we simply use it to show you the list of your
+apps.
+• Precise location (or fine location)
+In case you choose to let our app follow your location (you choose the 'Use my location'
+option under settings) our app will detect your current location at a specific time
+intervals and provide you with local weather forecasts and notifications.
+
+---
+[SECTION: D. Information for improving our services]
+
+---
+[PAGE BREAK]
+When you use our Apps, we use our analytics partners to collect usage statistics and trends.
+The reason we collect this information is so that we can improve your experience with our
+Apps by improving existing functionality and adding new functionality.
+
+---
+The information that we collect in this case includes information that is collected in section B
+above as well as usage statistics. Usage statistics include information on how often a user
+opens a specific page inside the app, icons and themes used, widgets used, etc.
+
+---
+[SECTION: E. Account information]
+Note: This information applies only to users of our Bliss application in the case that they
+choose to join the Bliss Community.
+When you join the Bliss Community we will store the following information on our secure
+servers:
+a) The automatically generated username or the one that you provide at the time of
+registration
+b) A unique identifier (an automatically generated alphanumeric string) that is used to
+identify your account
+c) The mixes you have created with our app at the time of joining the Bliss Community
+d) Any mixes you create after you have joined the Bliss Community.
+e) Aggregated statistics about app usage (this is aggregated and anonymous, i.e., not linked
+to a user's account)
+
+---
+We save the above information so that we can perform the following actions:
+a) Enable all members of the Bliss Community to have access to the mixes that each of the
+members shares.
+b) Backup the mixes you create and restore them in case you lose them, uninstall and
+reinstall the application or install the application on another device.
+c) Display mixes that are popular among the Bliss Community.
+d) Improve the user experience with our app and services.
+
+---
+[PAGE BREAK]
+Note that no matter the method you use to join the Bliss Community, the data we collect and
+the way we use it is always the same.
+
+---
+[PAGE BREAK]
+[SECTION: 5. Our Analytics partners]
+We use the following partners to collect error and performance information, identify issues in
+our Apps, analyze our traffic and usage trends and improve our services to you.
+
+---
+In order to provide the above information, our partners may obtain and lawfully use
+information such as the following:
+• Crashlytics Installation UUIDs, Crash traces, Breakpad minidump formatted data
+(to provide crash-related information)
+• Firebase installation IDs (to help Firebase In-app messaging determine which devices
+to deliver a message, associate predictions with a project, deliver configuration values to
+end-user devices and more)
+• Mobile ad IDs, IDFVs/Android IDs, Firebase installation IDs, Analytics App Instance
+IDs (to provide analytics and attribution information)
+• Firebase user agent (used internally by Google to determine platform and version
+adoption in order to provide and improve Firebase services)
+
+---
+[PAGE BREAK]
+If you live in the USA, Europe or Canada, you can also opt-out from the collection of your
+information by some or all of our advertising partners who participate in the Digital
+Advertising Alliance by visiting www.aboutads.info/choices (for US users),
+youronlinechoices.com (for European users) or youradchoices.ca/choices (for Canadian
+users).
+
+---
+If you have any questions regarding the collection of data you can contact our ad partners
+and analytics partners directly - see sections 3 and 4 above.
+
+---
+[PAGE BREAK]
+[SECTION: Additional Privacy Rights for California Residents]
+The California Consumer Privacy Act (CCPA) provides California residents, upon a verifiable
+consumer request, certain rights concerning their personal information that we collect. Those
+rights include the right to request disclosure of data collected, deletion of data, and opting
+out of the sale of personal information. To exercise your CCPA data access, data portability,
+and deletion rights, please submit a verifiable consumer request by contacting us at the email
+provided under the Controller section. Pursuant to the CCPA, we do not sell your personal
+information. For more information on how we process data under the CCPA, please contact
+us. We will retain personal information collected subject to CCPA for the periods described
+under the Data Retention section.
+
+---
+[SECTION: Privacy Rights for Virginia Residents]
+If you are a resident of Virginia, you have rights and protections under the Virginia Consumer
+Data Protection Act (VCDPA) in relation to your personal data collected by businesses. This
+includes the right to access your personal data that we and our partners process, correct
+inaccuracies, delete your data, and opt out of certain data processing practices. To exercise
+your rights under the VCDPA related to data collected through use of our Android app, please
+contact us at the email provided under the Controller section with your request and we will
+assist with facilitating your VCDPA rights with our advertising and analytics partners. Please
+specify Virginia VCDPA in your request. We will confirm receipt of your VCDPA request within
+5 days and respond substantively to all valid requests within 45 days as required by Virginia
+law.
+
+---
+[PAGE BREAK]
+As we do not directly collect or store any personal user data within our Android app, data
+retention responsibilities fall to our trusted advertising and analytics partners who may
+collect some usage data through interactions with our app. Based on our agreements, data
+retained by these companies related to our app is stored as long as necessary to fulfill their
+business purposes, which may include attribution, analytics, providing relevant advertising,
+personalization of services, compliance with legal obligations, and other legitimate interests.
+We encourage you to review the privacy policies of our partners to understand their specific
+retention periods that may apply to data linked to you through use of our app. As a general
+rule, most data is typically retained for anywhere from 6 months to 5 years, depending on the
+type of data and its use cases within their systems. However, you have the right to request
+deletion of your information by contacting our partners directly at any time.
+
+---
+In case our practices regarding previously collected information change in a way that would
+be materially less restrictive than stated in the version of this Privacy Policy in effect at the
+time we collected the information, then we will make reasonable efforts to provide notice and
+obtain consent prior to any such uses as may be required by law.

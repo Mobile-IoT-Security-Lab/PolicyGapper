@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "When you purchase a product, download software or an update, register for company or product newsletters, contact us or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number and email address.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "When you use some BeLight Software products, services or applications, or post on a BeLight Software forum, chat room or social networking service, the personal information and content you share is visible to other users and can be read, collected or used by them. In these instances, you are responsible for the personal information you choose to share or submit.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "YouTube API Services are used for uploading walkthrough videos to YouTube:\nhttps://www.youtube.com/t/terms",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Trimble 3D Warehouse service is used to provide users access to online storage of 3D models:\nhttp://www.trimble.com/privacy.aspx",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+```json
+{
+    "omitted_declarations": [
+        {
+            "data_type": "Device or other IDs",
+            "policy_reference": "You may see ads in the app. Google AdMob, Facebook, Startapp and may Unity\nAds are responsible for collecting data for delivery of online advertising. We do\nnot collect any personal data in this context. For further details how these",
+            "justification": "The privacy policy states that third-party advertising partners (Google AdMob, Facebook, Startapp, Unity Ads) collect data for advertising purposes. This collection typically involves Device or other IDs (like the Advertising ID), which constitutes sharing that must be declared.",
+            "how_to_fix": "In your Google Play Console, go to the Data safety section. Under the \"Data sharing\" question, declare that \"Device or other IDs\" are shared with third parties. Then, for this data type, disclose that it is shared for \"Advertising or marketing\" purposes.",
+            "lang": "English"
+        }
+    ],
+    "excluded_declarations": []
+}
+```

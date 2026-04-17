@@ -1,0 +1,42 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Our App and Website may contain links to other apps and websites operated by other companies. Loora does not share your personal information with those apps and websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. Some of these third-party apps and sites may have permission to include the Loora logo, even though they are not operated or maintained by Loora. Although we choose our business partners carefully, Loora is not responsible for the privacy practices of apps and websites operated by third parties that are linked to our website and App. Once you have left our website or App, you should check the applicable privacy policy of the third-party website or app to determine how they will handle any information they collect from you. We may provide services based on third party applications and content tools on Loora's website or App. These third parties may automatically receive certain types of information whenever you interact with us on our website or App using such third-party applications and tools, based on such third parties' privacy statements.",
+      "justification": "The policy states that third-party applications and tools may automatically receive user interaction data ('interact with us') based on their own privacy statements. This is not a service provider relationship and constitutes sharing that must be declared.",
+      "how_to_fix": "Declare in your Data Safety form that 'App interactions' data is shared with third parties. Specify the purpose, such as 'Analytics' or 'App functionality'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Our App and Website may contain links to other apps and websites operated by other companies. Loora does not share your personal information with those apps and websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. Some of these third-party apps and sites may have permission to include the Loora logo, even though they are not operated or maintained by Loora. Although we choose our business partners carefully, Loora is not responsible for the privacy practices of apps and websites operated by third parties that are linked to our website and App. Once you have left our website or App, you should check the applicable privacy policy of the third-party website or app to determine how they will handle any information they collect from you. We may provide services based on third party applications and content tools on Loora's website or App. These third parties may automatically receive certain types of information whenever you interact with us on our website or App using such third-party applications and tools, based on such third parties' privacy statements.",
+      "justification": "The policy indicates that third-party tools may receive information about user actions ('interact with us') based on their own privacy statements, which is considered sharing and does not meet the service provider exemption.",
+      "how_to_fix": "Declare in your Data Safety form that 'Other actions' data is shared with third parties. Specify the purpose, such as 'Analytics' or 'App functionality'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "For certain payment transactions, we use the services of Paddle.com Ltd. (\"Paddle.com\") to conduct the payment and invoicing process. If you purchase any of our Services via Paddle.com, the payment process is independently managed by Paddle.com according to its terms, which involves collecting your relevant Personal Information, such as payment details and contact information. You can find Paddle.com's privacy policy at: https://paddle.com/privacy/. We may receive certain Personal Information from Paddle.com, such as your name, email, billing address and purchasing history, to perform our contract with you and based on our legitimate interests in tracking sales data and managing the Services offered to our customers. Paddle.com may also share some of the collected Personal Information, such as a hashed email address or customer identifier, with our affiliates, to validate transactions that occur through affiliate marketing programs.",
+      "justification": "The policy states that the payment processor shares a 'customer identifier' with the developer's affiliates for marketing validation. Sharing data with affiliates is considered third-party sharing and must be declared.",
+      "how_to_fix": "Declare in your Data Safety form that 'Device or other IDs' are shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "For certain payment transactions, we use the services of Paddle.com Ltd. (\"Paddle.com\") to conduct the payment and invoicing process. If you purchase any of our Services via Paddle.com, the payment process is independently managed by Paddle.com according to its terms, which involves collecting your relevant Personal Information, such as payment details and contact information. You can find Paddle.com's privacy policy at: https://paddle.com/privacy/. We may receive certain Personal Information from Paddle.com, such as your name, email, billing address and purchasing history, to perform our contract with you and based on our legitimate interests in tracking sales data and managing the Services offered to our customers. Paddle.com may also share some of the collected Personal Information, such as a hashed email address or customer identifier, with our affiliates, to validate transactions that occur through affiliate marketing programs.",
+      "justification": "The policy explicitly mentions that a 'hashed email address' may be shared by the payment processor with affiliates for marketing purposes. This constitutes data sharing with a third party.",
+      "how_to_fix": "Declare in your Data Safety form that 'Email address' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "For certain payment transactions, we use the services of Paddle.com Ltd. (\"Paddle.com\") to conduct the payment and invoicing process. If you purchase any of our Services via Paddle.com, the payment process is independently managed by Paddle.com according to its terms, which involves collecting your relevant Personal Information, such as payment details and contact information. You can find Paddle.com's privacy policy at: https://paddle.com/privacy/. We may receive certain Personal Information from Paddle.com, such as your name, email, billing address and purchasing history, to perform our contract with you and based on our legitimate interests in tracking sales data and managing the Services offered to our customers. Paddle.com may also share some of the collected Personal Information, such as a hashed email address or customer identifier, with our affiliates, to validate transactions that occur through affiliate marketing programs.",
+      "justification": "The policy states that a 'customer identifier' is shared by the payment processor with affiliates for marketing validation. This is a type of User ID, and its transfer to affiliates is considered sharing.",
+      "how_to_fix": "Declare in your Data Safety form that 'User IDs' are shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

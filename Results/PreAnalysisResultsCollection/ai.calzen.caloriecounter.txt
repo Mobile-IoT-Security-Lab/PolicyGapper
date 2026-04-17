@@ -1,0 +1,56 @@
+42apps LLC ("us", "we", or "our") operates the CalZen mobile application. This Privacy
+Policy describes how CalZen (hereinafter referred to as "we", "us", or "our") collects,
+uses, shares, and protects user information obtained through the CalZen mobile
+application (the "App"). By using our App, you understand and agree to the collection,
+storage, processing, and use of your data in accordance with this Privacy Policy.
+
+---
+1. Information We Collect
+We may collect the following types of information:
+
+---
+1.1 Personal Information
+This refers to the data that you voluntarily provide to us, which identifies you personally.
+This includes, but is not limited to, your name and email address; it may also include
+other personal and preference information you provide to us.
+
+---
+1.2 Non-Personal Information
+We may also collect data in a form that does not, on its own, permit direct association
+with any specific individual. We may collect, use, transfer, and disclose non-personal
+information for any
+purpose. This information includes, but is not limited to, task name, task date and time,
+category etc.
+
+---
+1.3 Information from Third Parties
+We may receive information about you from third-party analytics providers, such as
+Amplitude, Firebase, Appsflyer, Facebook SDK, and Apphud. This information may
+include usage details, geographic location, and demographic information.
+
+---
+2. Use of Collected Information
+We use the information we collect to provide, maintain, protect, and improve our App,
+to develop new services, and to protect us and our users.
+
+---
+2.2 GPT AΡΙ
+We use the OpenAI GPT API to enhance the features within the app. This means that
+the food photos, calorie tracking requests, and nutritional queries you input into the
+app may be processed by the GPT API to provide you with accurate calorie, macro,
+and health score calculations.
+
+--- [PAGE BREAK] ---
+3.1 Service Providers and Business Partners
+We may use third-party companies and individuals to facilitate our service (e.g.,
+maintenance services, database management, web analytics, and payment
+processing), or to assist us in analyzing how our service is used. These third parties
+may have access to your Personal Information but only to perform these tasks on our
+behalf.
+
+---
+5. Children's Privacy
+Our App is not intended for use by children under the age of 13. We do not knowingly
+collect personal information from children under 13. If we discover that a child under
+13 has provided us with personal information, we will delete such information from our
+servers immediately.

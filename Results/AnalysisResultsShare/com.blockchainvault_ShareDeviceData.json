@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• Social Media Widgets: Our Site may include social media features, such as the Facebook logins, “like” button and widgets, such as the \"share this\" button. These features may collect your personal information and track your use of the Site. These social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing such functionality.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• Social Media Widgets: Our Site may include social media features, such as the Facebook logins, “like” button and widgets, such as the \"share this\" button. These features may collect your personal information and track your use of the Site. These social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing such functionality.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Why do we use Cookies?\nWe generally use Cookies for the following purposes:\n• To recognize new or past customers.\n•\nTo store your password if you are registered on our Site.\nTo improve our Site and to better understand your visits on our platforms and Site.\n• To integrate with third party social media websites.\n• To observe your behaviors and browsing activities over time across multiple websites or other platforms.",
+      "lang": "English"
+    }
+  ]
+}

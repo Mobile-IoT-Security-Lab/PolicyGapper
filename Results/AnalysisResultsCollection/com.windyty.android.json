@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "For example, we automatically collect:\n•\nInformation about your device and device capabilities;\n•\nInformation about your device's operating system;\n•\nInformation about your browser;\n•\nInformation about how you use the Services;\n•\nYour activities on the Services;\n•\nMobile or internet carrier/provider;\n•\nBrowser type;\n•\nBrowser identifier;\n• Referring URL.\nThis information helps us to understand, analyze, and measure how users use\nthe Services; manage the Services' operations; diagnose problems; recognize\nrepeat visitors; and facilitate your access to and use of the Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "For example, we automatically collect:\n•\nInformation about your device and device capabilities;\n•\nInformation about your device's operating system;\n•\nInformation about your browser;\n•\nInformation about how you use the Services;\n•\nYour activities on the Services;\n•\nMobile or internet carrier/provider;\n•\nBrowser type;\n•\nBrowser identifier;\n• Referring URL.\nThis information helps us to understand, analyze, and measure how users use\nthe Services; manage the Services' operations; diagnose problems; recognize\nrepeat visitors; and facilitate your access to and use of the Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "For example, we automatically collect:\n•\nInformation about your device and device capabilities;\n•\nInformation about your device's operating system;\n•\nInformation about your browser;\n•\nInformation about how you use the Services;\n•\nYour activities on the Services;\n•\nMobile or internet carrier/provider;\n•\nBrowser type;\n•\nBrowser identifier;\n• Referring URL.\nThis information helps us to understand, analyze, and measure how users use\nthe Services; manage the Services' operations; diagnose problems; recognize\nrepeat visitors; and facilitate your access to and use of the Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "3.1.1.2. Geographic area-related services. The Webpage and the App offer you quick access to weather-related information on your mobile device (e.g. Widget), and other geographic area-related weather information can be accessed on your desktop or mobile device (e.g. Radar). To provide these Services, we need to collect and use information on your current location (through the GPS module in your device or your IP address). If you no longer wish to share your GPS location with our Services, you may change the settings within your mobile device or not to allow us to use your current location when the Services would require this information. If you refuse to share your precise GPS location, the Services will then be geographically approximated according to your current IP address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "3.1.1.2. Geographic area-related services. The Webpage and the App offer you quick access to weather-related information on your mobile device (e.g. Widget), and other geographic area-related weather information can be accessed on your desktop or mobile device (e.g. Radar). To provide these Services, we need to collect and use information on your current location (through the GPS module in your device or your IP address). If you no longer wish to share your GPS location with our Services, you may change the settings within your mobile device or not to allow us to use your current location when the Services would require this information. If you refuse to share your precise GPS location, the Services will then be geographically approximated according to your current IP address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Special Note about Content Submissions. The Services may offer areas (community, articles) where you and other users can post or otherwise submit information, photos, videos, graphics, creative suggestions, ideas, notes, concepts, information, ratings, or other materials on or to the Services (collectively, \"Submissions\"). Any geolocation information, tags, or other metadata in such Submissions may become publicly available. Any information, including personal data, in your Submissions can be read, collected and used by others. We cannot control and are not responsible for how others may use the information contained in your Submissions;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Special Note about Content Submissions. The Services may offer areas (community, articles) where you and other users can post or otherwise submit information, photos, videos, graphics, creative suggestions, ideas, notes, concepts, information, ratings, or other materials on or to the Services (collectively, \"Submissions\"). Any geolocation information, tags, or other metadata in such Submissions may become publicly available. Any information, including personal data, in your Submissions can be read, collected and used by others. We cannot control and are not responsible for how others may use the information contained in your Submissions;",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "No cookies are used in our mobile apps. However, a unique user ID (no cross-device ID) is used, which allows us to track, for example, the source and target language settings, how many characters are translated or improved, whether the copy button is used, and if so, how it is used. The processing of this data is based on our legitimate interest (Art. 6 para. 1 sentence 1 lit. f) GDPR) to better understand the needs of our users and to be able to adapt the app according to customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "No cookies are used in our mobile apps. However, a unique user ID (no cross-device ID) is used, which allows us to track, for example, the source and target language settings, how many characters are translated or improved, whether the copy button is used, and if so, how it is used. The processing of this data is based on our legitimate interest (Art. 6 para. 1 sentence 1 lit. f) GDPR) to better understand the needs of our users and to be able to adapt the app according to customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "When translating or improving texts with our apps, for technical reasons - regardless of whether you use our paid or free service - your device will automatically transmit certain data. The following data which you can transmit to us, is stored:\n•\nDate and time of access\n•\nVersion of the app\n•\nOperating system\n• Volume of data transmitted\n•\nNotification of successful data retrieval\n• Abbreviated/anonymized IP address\n•\nFull IP address\n•\nDiagnostic information in the event of errors\n•\nType of mobile device (only for iOS and Android app)\n• Language in use\n• Time zone difference from Greenwich Mean Time (GMT)\n• Access status/HTTP status code",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "When using our free services, please only enter content that you wish to transfer to our services. The transmission of this content is necessary in order for us to provide the translation or improvement and offer you our service. We process the content you upload and their translations or improvements for a limited period of time to train and improve our neural networks and algorithms. This also applies to corrections you make to our translation or improvement suggestions. If you use the glossary feature within our free services without a DeepL account and enter certain pairs of terms there, this data is only stored locally and is not forwarded to DeepL. Therefore, you cannot use your glossary entries in another browser or on another device. If you use the glossary feature while being logged into your DeepL account, glossaries may be forwarded to DeepL.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When using our free services, please only enter content that you wish to transfer to our services. The transmission of this content is necessary in order for us to provide the translation or improvement and offer you our service. We process the content you upload and their translations or improvements for a limited period of time to train and improve our neural networks and algorithms. This also applies to corrections you make to our translation or improvement suggestions. If you use the glossary feature within our free services without a DeepL account and enter certain pairs of terms there, this data is only stored locally and is not forwarded to DeepL. Therefore, you cannot use your glossary entries in another browser or on another device. If you use the glossary feature while being logged into your DeepL account, glossaries may be forwarded to DeepL.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "No cookies are used in our mobile apps. However, a unique user ID (no cross-device ID) is used, which allows us to track, for example, the source and target language settings, how many characters are translated or improved, whether the copy button is used, and if so, how it is used. The processing of this data is based on our legitimate interest (Art. 6 para. 1 sentence 1 lit. f) GDPR) to better understand the needs of our users and to be able to adapt the app according to customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "When translating or improving texts with our apps, for technical reasons - regardless of whether you use our paid or free service - your device will automatically transmit certain data. The following data which you can transmit to us, is stored:\n•\nDate and time of access\n•\nVersion of the app\n•\nOperating system\n• Volume of data transmitted\n•\nNotification of successful data retrieval\n• Abbreviated/anonymized IP address\n•\nFull IP address\n•\nDiagnostic information in the event of errors\n•\nType of mobile device (only for iOS and Android app)\n• Language in use\n• Time zone difference from Greenwich Mean Time (GMT)\n• Access status/HTTP status code",
+      "lang": "English"
+    }
+  ]
+}

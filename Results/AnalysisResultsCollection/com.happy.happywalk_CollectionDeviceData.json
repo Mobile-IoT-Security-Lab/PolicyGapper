@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "a) Technical Information. When you use the App, we will collect certain technical information regarding your device, and your use of the Software, including the type, name and version of operating system: (i) Your configuration and settings of the Software, version of the Software; (ii) ISP (Internet Service Provider), Internet protocol (IP) address; (iii) Status of the WLAN; (iv) International Mobile Equipment Identity (IMEI) ; (v) Android ID.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "a) Technical Information. When you use the App, we will collect certain technical information regarding your device, and your use of the Software, including the type, name and version of operating system: (i) Your configuration and settings of the Software, version of the Software; (ii) ISP (Internet Service Provider), Internet protocol (IP) address; (iii) Status of the WLAN; (iv) International Mobile Equipment Identity (IMEI) ; (v) Android ID.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "a) Technical Information. When you use the App, we will collect certain technical information regarding your device, and your use of the Software, including the type, name and version of operating system: (i) Your configuration and settings of the Software, version of the Software; (ii) ISP (Internet Service Provider), Internet protocol (IP) address; (iii) Status of the WLAN; (iv) International Mobile Equipment Identity (IMEI) ; (v) Android ID.",
+      "lang": "English"
+    }
+  ]
+}

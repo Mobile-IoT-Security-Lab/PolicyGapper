@@ -1,0 +1,100 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• Marketing service providers: We share personal data (including usage data and device data) with marketing agencies, research partners, social media and marketing platform providers, advertising networks and third-party data providers to reach or better understand our users, target advertising and measure advertising effectiveness.",
+      "justification": "The policy states data is shared with third parties like 'advertising networks' and 'marketing platform providers' for 'target advertising'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "In the 'Data safety' section of the Play Console, declare that this data type is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "• Marketing service providers: We share personal data (including usage data and device data) with marketing agencies, research partners, social media and marketing platform providers, advertising networks and third-party data providers to reach or better understand our users, target advertising and measure advertising effectiveness.",
+      "justification": "The policy states data is shared with third parties like 'advertising networks' and 'marketing platform providers' for 'target advertising'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "In the 'Data safety' section of the Play Console, declare that this data type is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "• Marketing service providers: We share personal data (including usage data and device data) with marketing agencies, research partners, social media and marketing platform providers, advertising networks and third-party data providers to reach or better understand our users, target advertising and measure advertising effectiveness.",
+      "justification": "The policy states data is shared with third parties like 'advertising networks' and 'marketing platform providers' for 'target advertising'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "In the 'Data safety' section of the Play Console, declare that this data type is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• Marketing service providers: We share personal data (including usage data and device data) with marketing agencies, research partners, social media and marketing platform providers, advertising networks and third-party data providers to reach or better understand our users, target advertising and measure advertising effectiveness.",
+      "justification": "The policy states data is shared with third parties like 'advertising networks' and 'marketing platform providers' for 'target advertising'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "In the 'Data safety' section of the Play Console, declare that this data type is 'Shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy states data is shared for legal and security purposes like anti-money laundering (AML) and know-your-customer (KYC) requirements. This is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this specific sharing practice as it is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy states data is shared for legal and security purposes like anti-money laundering (AML) and know-your-customer (KYC) requirements. This is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this specific sharing practice as it is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy states data is shared for legal and security purposes like anti-money laundering (AML) and know-your-customer (KYC) requirements. This is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this specific sharing practice as it is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We share personal data, including customer telephone number and names (redacted where possible), with other users when sending or receiving e-money or issuing statements containing information such as transaction history.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states data is shared with other users as a direct result of a user-initiated action (e.g., sending e-money). This is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this specific sharing practice as it is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy states data is shared for legal and security purposes like anti-money laundering (AML) and know-your-customer (KYC) requirements. This is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this specific sharing practice as it is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We share personal data, including customer telephone number and names (redacted where possible), with other users when sending or receiving e-money or issuing statements containing information such as transaction history.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states data is shared with other users as a direct result of a user-initiated action (e.g., sending e-money). This is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this specific sharing practice as it is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• Referencing agencies: We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy states data is shared for legal and security purposes like anti-money laundering (AML) and know-your-customer (KYC) requirements. This is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this specific sharing practice as it is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• Referencing agencies: We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy states data is shared for legal and security purposes like anti-money laundering (AML) and know-your-customer (KYC) requirements. This is exempt from disclosure as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this specific sharing practice as it is exempt from disclosure.",
+      "lang": "English"
+    }
+  ]
+}
+```

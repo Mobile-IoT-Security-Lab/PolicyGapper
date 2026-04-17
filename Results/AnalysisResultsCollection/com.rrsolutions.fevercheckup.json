@@ -1,0 +1,79 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "List of Installed App:\nWhen you install our\nApp, we may collect\ninformation from your\ndevice, that may include\na list of your installed\nApps.\nThis data may contain\nidentity information and\ntherefore we treat it as\nPersonal Data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Contact Information:\nIf you voluntarily contact\nus, you may be required\nto provide us with\ncertain information\nsuch as your name, job title,\ncompany name, email\naddress (\"Contact\nInformation\") and any\nadditional information\nyou decide to share with\nus.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Providers. Their\ntargeted advertising\nSDKs collect\ninformation about\nyour browsing activity\nacross multiple\nwebsites and online\nservices in order to\nprovide you with\nrelevant\nadvertisements on the\nApp and Services of\nthird parties. The\ninformation collected\nusing these\nadvertising SDK does\nnot disclose your\nidentity, and helps us\nanalyze the\neffectiveness of our\nadvertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "In-App Payment Information: When you make a payment through our App and offered Services, all payments are in-app payments and are subject to the applicable App Store terms and privacy policy. Google Terms of Service Google Privacy Policy App Store Terms of Use App Store Privacy Policy PURPOSE AND OPERATIONS We use in app payment processors; the registration and payment information are solely processed by the applicable app store provider. We do not store nor process any Personal Data when you process the payment. We receive an order number which is connected to a user ID which was generated when installing the app (non identifiable).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Non-Personal Data\nDuring your interaction with our website and Services, we may collect aggregated, non-\npersonal non-identifiable information, which may be made available or gathered via your\naccess to and use of the Services (“Non-Personal Data “). We are not aware of the identity of\nthe user from which the Non-Personal Data is collected. The Non-Personal Data being\ncollected may include your aggregated usage information and technical information\ntransmitted by your device, such as: the type of browser or device you use, language\npreference, time and date stamp, country location, etc.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "GPS Location Information: Certain features may require access to your GPS location permissions. In addition, in certain features we will use your \"Access Fine Location\" permission in the background while you are using the App so that we are able to locate the wifi networks and connection to provide the Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Registration Information: If you are required to register and create an account through our App, we will collect the Personal Data that you are required to provide us during the registry process, such as your full name and email address. Further, during the registration process you will be supplied with username and password for your account, at which time you thereby represent and warrant that you are responsible for maintaining the confidentiality of your details and password. You represent and warrant that you will not provide us with inaccurate, misleading or false information.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Photos and Videos: if you use our designated feature in the applicable App in order to provide you with our Services, we will ask you to provide us with photos, images or videos of you (collectively \"Content”) for editing purposes and to create animations.While we cannot prevent you from doing so, we still do not use Personal Data from photos for purposes other than providing our Service.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Photos and Videos: if you use our designated feature in the applicable App in order to provide you with our Services, we will ask you to provide us with photos, images or videos of you (collectively \"Content”) for editing purposes and to create animations.While we cannot prevent you from doing so, we still do not use Personal Data from photos for purposes other than providing our Service.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Microphone and audio: As part of our dialer feature which is provided to certain Apps of ours, you will be required to provide us permissions to your Microphone.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Microphone and audio: As part of our dialer feature which is provided to certain Apps of ours, you will be required to provide us permissions to your Microphone.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "Calendar: Some of our Apps will provide you with new design features for your device. In order to apply those designs, we will need to access your calendar.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Call log and Contacts: As part of our dialer feature which is provided to certain Apps of ours, you will be required to provide us permissions to your call log and contacts.",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "1、When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.",
+      "justification": "The privacy policy states that user correspondence from support emails is used to create a public knowledge base available to all users. This public disclosure is a form of data sharing that was not declared in the Data Safety section.",
+      "how_to_fix": "In the Data Safety form, declare the collection and sharing of 'Other user-generated content'. Specify the purpose of sharing, such as 'Developer communications' or 'App functionality'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.",
+      "justification": "The privacy policy indicates that correspondence from support emails, which includes the user's email address, is used to create a public knowledge base. Making this information publicly available, even if paraphrased, constitutes data sharing that was not declared.",
+      "how_to_fix": "In the Data Safety form, declare the collection and sharing of 'Email address'. Specify the purpose of sharing, such as 'Developer communications'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "1、When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.",
+      "justification": "The privacy policy states that emails sent for support are collected and their content is used to create a public knowledge base. This public disclosure of email content is a form of data sharing that was not declared in the Data Safety section.",
+      "how_to_fix": "In the Data Safety form, declare the collection and sharing of 'Emails'. Specify the purpose of sharing, such as 'Developer communications' or 'App functionality'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

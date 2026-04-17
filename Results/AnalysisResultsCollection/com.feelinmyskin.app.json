@@ -1,0 +1,89 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social\nmedia sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the\nUser's discretion)\n6. information about the User's skin type – optional (publication of this information is at the\nUser's discretion)",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "31. Users' data will be processed through the Application for the following purposes:\n1. to provide services by electronic means and to enable the use of the services available\nwithin the Application, including registration and use of the Application, making the\nfunctionalities of the Application available to Users, maintaining contact, maintaining and\noperating the account in the Application (Article 6(1)(b) of the GDPR) and, in the case of\ndata belonging to special categories of data, on the basis of the User's consent (Article\n9(2)(a) of the GDPR);\n2. to handle the electronic contact form made available within the Application on the basis of\nthe Controller's legitimate interest consisting in the handling of inquiries and requests,\nincluding responding to them (Article 6(1)(f) of the GDPR);\n3. to potentially establish, exercise or defend legal claims on the basis of Controller's\nlegitimate interest consisting in protecting its rights (Article 6(1)(f) of the GDPR);\n4. to allow the Controller to offer products or services directly on the basis of the Controller's\nlegitimate interest, consisting in particular in the sending of e-mail notifications about\noffers or content, which in some cases contain commercial information, and conducting\nother activities related to direct marketing of products or services, including contextual\n(i.e. not adjusted to the User's preferences) and behavioural (i.e. adjusted to the User's\npreferences) advertising (Article 6(1)(f) of the GDPR); whereby you will be invited to give\nyour consent to receive commercial information by e-mail or other electronic means of\ncommunication;\n5. for analytical and statistical purposes on the basis of the Controller 's legitimate interest\nconsisting in conducting analyses of User's activity and their preferences in order to\noptimise services and products and improve the functionalities of the Application (Article\n6(1)(f) of the GDPR);\n6. for archival purposes on the basis of the Controller's legitimate interest consisting in\nsecuring information in the event of a legal need to prove facts which constitute the\nfulfilment of the Controller's legitimate interest (Article 6(1)(f) of the GDPR).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "31. Users' data will be processed through the Application for the following purposes:\n1. to provide services by electronic means and to enable the use of the services available\nwithin the Application, including registration and use of the Application, making the\nfunctionalities of the Application available to Users, maintaining contact, maintaining and\noperating the account in the Application (Article 6(1)(b) of the GDPR) and, in the case of\ndata belonging to special categories of data, on the basis of the User's consent (Article\n9(2)(a) of the GDPR);\n2. to handle the electronic contact form made available within the Application on the basis of\nthe Controller's legitimate interest consisting in the handling of inquiries and requests,\nincluding responding to them (Article 6(1)(f) of the GDPR);\n3. to potentially establish, exercise or defend legal claims on the basis of Controller's\nlegitimate interest consisting in protecting its rights (Article 6(1)(f) of the GDPR);\n4. to allow the Controller to offer products or services directly on the basis of the Controller's\nlegitimate interest, consisting in particular in the sending of e-mail notifications about\noffers or content, which in some cases contain commercial information, and conducting\nother activities related to direct marketing of products or services, including contextual\n(i.e. not adjusted to the User's preferences) and behavioural (i.e. adjusted to the User's\npreferences) advertising (Article 6(1)(f) of the GDPR); whereby you will be invited to give\nyour consent to receive commercial information by e-mail or other electronic means of\ncommunication;\n5. for analytical and statistical purposes on the basis of the Controller 's legitimate interest\nconsisting in conducting analyses of User's activity and their preferences in order to\noptimise services and products and improve the functionalities of the Application (Article\n6(1)(f) of the GDPR);\n6. for archival purposes on the basis of the Controller's legitimate interest consisting in\nsecuring information in the event of a legal need to prove facts which constitute the\nfulfilment of the Controller's legitimate interest (Article 6(1)(f) of the GDPR).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "34. Data collected automatically may be used by the Controller to improve the quality of the\nservices provided, in particular in the event of an error in the Application. In the situation\ndescribed above, data collected automatically will concern the error in the Application, including\nthe condition of the User's mobile device at the time of the error occurrence, identification of the\nUser's mobile device, physical location of the User's mobile device at the time of the occurrence\nof error.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "34. Data collected automatically may be used by the Controller to improve the quality of the\nservices provided, in particular in the event of an error in the Application. In the situation\ndescribed above, data collected automatically will concern the error in the Application, including\nthe condition of the User's mobile device at the time of the error occurrence, identification of the\nUser's mobile device, physical location of the User's mobile device at the time of the occurrence\nof error.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "36. The following data are stored on the User's mobile device: an encrypted unique Application\nidentifier – it is stored on the device until the Application is removed. The identifier of the\nApplication and information about the brand, model and hardware identifier of the mobile device\nare sent to the Controller in the process of device registration in the Application and are used to\nunambiguously identify the Application and the mobile device.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "36. The following data are stored on the User's mobile device: an encrypted unique Application identifier – it is stored on the device until the Application is removed. The identifier of the Application and information about the brand, model and hardware identifier of the mobile device are sent to the Controller in the process of device registration in the Application and are used to unambiguously identify the Application and the mobile device.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "34. Data collected automatically may be used by the Controller to improve the quality of the services provided, in particular in the event of an error in the Application. In the situation described above, data collected automatically will concern the error in the Application, including the condition of the User's mobile device at the time of the error occurrence, identification of the User's mobile device, physical location of the User's mobile device at the time of the occurrence of error.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "34. Data collected automatically may be used by the Controller to improve the quality of the services provided, in particular in the event of an error in the Application. In the situation described above, data collected automatically will concern the error in the Application, including the condition of the User's mobile device at the time of the error occurrence, identification of the User's mobile device, physical location of the User's mobile device at the time of the occurrence of error.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "30. The Controller collects the following personal data of the User:\n1. User's name and surname\n2. User's image (the so-called avatar) – optional\n3. contact details: e-mail address, website address, links to the User's accounts on social media sites – optional\n4. User's birth date – optional (publication of this information is at the User's discretion)\n5. location information (town/city, country) – optional (publication of this information is at the User's discretion)\n6. information about the User's skin type – optional (publication of this information is at the User's discretion)",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "27. The Application may require access to: the gallery, camera, calendar and notifications.",
+      "lang": "en"
+    }
+  ]
+}

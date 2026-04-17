@@ -1,0 +1,70 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "myTuner uses Google Analytics/Firebase. If you do not want Google Analytics to collect and use information about your use of the Service, then you can install an opt-out in your web browser (https://tools.google.com/dlpage/gaoptout/).",
+      "justification": "The policy states the app uses Google Analytics/Firebase, which collects data about user interactions with the service. This data is sent off-device for analysis.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in the 'App activity' section of your app's Data safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may collect personal identification information from Users in a variety of ways, including when Users visit our apps, register on the apps, and in connection with other activities, services, features, or resources we make available on our apps. Users may voluntarily log in via an email address or a partner login system, Google, Apple, or Facebook authentication systems. This will be used to track user personal data across multiple devices and be able to sync user information such as favorites, recent, and browsing history in order to improve suggested new content inside the app. When the Users log in with Facebook we collect their public profile (name and user ID) as well as their email. Users may be contacted via email in order to get further improvements on their experience with our service. Users may also use our apps anonymously. Users can always refuse to supply personal data and may revoke their consent at any time by sending an email to us asking to delete their information - help@mytuner.mobi.",
+      "justification": "The policy states the app will 'sync user information such as... browsing history' across multiple devices. Syncing requires sending data off-device.",
+      "how_to_fix": "Declare 'In-app search history' as a collected data type in the 'App activity' section of your app's Data safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "When this app is in use (or running in the background) we collect and share with our business partners the following device and location data: Precise location data of the device, WiFi signals or Bluetooth Low Energy devices in your proximity, device-based advertising identifiers, app names and/or identifiers, and information about your mobile device such as type of device, operating system version and type, device settings, time zone, carrier, and IP address.",
+      "justification": "The policy explicitly states that 'app names and/or identifiers' are collected and shared, which means the data is sent off-device.",
+      "how_to_fix": "Declare 'Installed apps' as a collected data type in the 'App activity' section of your app's Data safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may collect personal identification information from Users in a variety of ways, including when Users visit our apps, register on the apps, and in connection with other activities, services, features, or resources we make available on our apps. Users may voluntarily log in via an email address or a partner login system, Google, Apple, or Facebook authentication systems. This will be used to track user personal data across multiple devices and be able to sync user information such as favorites, recent, and browsing history in order to improve suggested new content inside the app. When the Users log in with Facebook we collect their public profile (name and user ID) as well as their email. Users may be contacted via email in order to get further improvements on their experience with our service. Users may also use our apps anonymously. Users can always refuse to supply personal data and may revoke their consent at any time by sending an email to us asking to delete their information - help@mytuner.mobi.",
+      "justification": "The policy mentions collecting information related to 'other activities, services, features' and syncing user 'favorites' and 'recent' items. Syncing requires sending data off-device.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in the 'App activity' section of your app's Data safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "myTuner uses Google Analytics/Firebase. If you do not want Google Analytics to collect and use information about your use of the Service, then you can install an opt-out in your web browser (https://tools.google.com/dlpage/gaoptout/).",
+      "justification": "The policy states the app uses Google Analytics/Firebase. The Firebase service includes Crashlytics for collecting and analyzing crash log data, which is sent off-device.",
+      "how_to_fix": "Declare 'Crash logs' as a collected data type in the 'App info and performance' section of your app's Data safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We've partnered with Low Lag Labs to help provide users with better connectivity and in-app experience on wireless networks (because nobody likes laggy internet). Low Lag Labs may collect data relating to network performance (including location and identifiers such as network names, resettable ID, BSSID, IP Address, and other access point information) for the purposes of providing us app performance analytics and connectivity insights, and to support the creation of aggregated reports or anonymized insights for the telecom ecosystem. Low Lag Labs does not sell personal data. You can learn more at lowlaglabs.com/privacy-policy. This data is only collected if you consent, and you may opt-out at any time via our in-app opt-out options.",
+      "justification": "The policy states a partner 'may collect data relating to network performance' to provide 'app performance analytics and connectivity insights'. This data is sent off-device for analysis.",
+      "how_to_fix": "Declare 'Diagnostics' as a collected data type in the 'App info and performance' section of your app's Data safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We've partnered with Low Lag Labs to help provide users with better connectivity and in-app experience on wireless networks (because nobody likes laggy internet). Low Lag Labs may collect data relating to network performance (including location and identifiers such as network names, resettable ID, BSSID, IP Address, and other access point information) for the purposes of providing us app performance analytics and connectivity insights, and to support the creation of aggregated reports or anonymized insights for the telecom ecosystem. Low Lag Labs does not sell personal data. You can learn more at lowlaglabs.com/privacy-policy. This data is only collected if you consent, and you may opt-out at any time via our in-app opt-out options.",
+      "justification": "The policy states a partner collects data on 'network performance' to provide 'app performance analytics'. This data is sent off-device and qualifies as 'Other app performance data'.",
+      "how_to_fix": "Declare 'Other app performance data' as a collected data type in the 'App info and performance' section of your app's Data safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We may collect personal identification information from Users in a variety of ways, including when Users visit our apps, register on the apps, and in connection with other activities, services, features, or resources we make available on our apps. Users may voluntarily log in via an email address or a partner login system, Google, Apple, or Facebook authentication systems. This will be used to track user personal data across multiple devices and be able to sync user information such as favorites, recent, and browsing history in order to improve suggested new content inside the app. When the Users log in with Facebook we collect their public profile (name and user ID) as well as their email. Users may be contacted via email in order to get further improvements on their experience with our service. Users may also use our apps anonymously. Users can always refuse to supply personal data and may revoke their consent at any time by sending an email to us asking to delete their information - help@mytuner.mobi.",
+      "justification": "The policy explicitly states that when users log in with Facebook, the app collects their public profile, which includes their 'name'. This data is sent off-device to enable account features.",
+      "how_to_fix": "Declare 'Name' as a collected data type in the 'Personal info' section of your app's Data safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may collect personal identification information from Users in a variety of ways, including when Users visit our apps, register on the apps, and in connection with other activities, services, features, or resources we make available on our apps. Users may voluntarily log in via an email address or a partner login system, Google, Apple, or Facebook authentication systems. This will be used to track user personal data across multiple devices and be able to sync user information such as favorites, recent, and browsing history in order to improve suggested new content inside the app. When the Users log in with Facebook we collect their public profile (name and user ID) as well as their email. Users may be contacted via email in order to get further improvements on their experience with our service. Users may also use our apps anonymously. Users can always refuse to supply personal data and may revoke their consent at any time by sending an email to us asking to delete their information - help@mytuner.mobi.",
+      "justification": "The policy states that when users log in with Facebook, the app collects their 'user ID'. It also mentions using this to 'track user personal data across multiple devices', which requires sending it off-device.",
+      "how_to_fix": "Declare 'User IDs' as a collected data type in the 'Personal info' section of your app's Data safety form in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

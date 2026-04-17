@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Third Party Web Beacons and Third Party Buttons: We may display third-party content on the Service, including third-party advertising. Third-party content may use cookies, web beacons, or other mechanisms for obtaining data in connection with your viewing of the third party content on the Service. Additionally, we may implement third party buttons (such as Facebook “like” or “share” buttons) that may function as web beacons even when you do not interact with the button. Information collected through third-party web beacons and buttons is collected directly by these third parties, not by VoyceMe. Information collected by a third party in this manner is subject to that third party's own data collection, use, and disclosure policies.",
+      "lang": "English"
+    }
+  ]
+}

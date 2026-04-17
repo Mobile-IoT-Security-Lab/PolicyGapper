@@ -1,0 +1,69 @@
+{
+  "sharedData": [
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "Advertising or marketing",
+      "type": "Device or other IDs"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Email address",
+      "optional": 1,
+      "purpose": "Developer communications, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Account management",
+      "type": "Personal info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "Analytics",
+      "type": "Location"
+    },
+    {
+      "data": "Crash logs",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 1,
+      "purpose": "Analytics",
+      "type": "App info and performance"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data is encrypted in transit",
+      "description": "Your data is transferred over a secure connection"
+    },
+    {
+      "practice": "You can request that data be deleted",
+      "description": "The developer provides a way for you to request that your data be deleted"
+    },
+    {
+      "practice": "Independent security review",
+      "description": "This app has been independently validated against a global security standard. <a href=\"https://appdefensealliance.dev/masa\" target=\"_blank\">See details</a>"
+    }
+  ],
+  "privacyPolicyUrl": "https://psiphon.ca/en/privacy.html"
+}

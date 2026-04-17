@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "Information including the actions you take, downloads, shares, issues faced, photo or video editing, and any other data you provide when using our services may be collected by the App. This data is collected to ensure the App functions properly.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "Information including the actions you take, downloads, shares, issues faced, photo or video editing, and any other data you provide when using our services may be collected by the App. This data is collected to ensure the App functions properly.",
+"lang": "en"
+}
+]
+}

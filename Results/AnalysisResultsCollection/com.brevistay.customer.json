@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "2.2. Collection of Usage Data: We may also collect information that your browser sends whenever you visit or access our Platform by or through your personal devices. This Usage Data, inter alia, may include information such as your computer's Internet Protocol address (i.e., IP address), browser type, browser version, the pages of our Platform that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data. When you access the Platform with a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data. All the information collected as Usage Data is collected automatically. Any information as detailed above as Usage Data is only indicative of the type of information being collected and shall not be taken as an exhaustive list.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "2.2. Collection of Usage Data: We may also collect information that your browser sends whenever you visit or access our Platform by or through your personal devices. This Usage Data, inter alia, may include information such as your computer's Internet Protocol address (i.e., IP address), browser type, browser version, the pages of our Platform that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data. When you access the Platform with a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data. All the information collected as Usage Data is collected automatically. Any information as detailed above as Usage Data is only indicative of the type of information being collected and shall not be taken as an exhaustive list.",
+      "lang": "English"
+    }
+  ]
+}

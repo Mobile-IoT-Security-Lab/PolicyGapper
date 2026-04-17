@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "This app uses Firebase and Google Analytics for Firebase as an analytic tool. It provides the developer information about usage of the app like: number of active users, most popular devices, etc. The information is used to analyze performance of the app and detect any problems, for example after publishing an update. Advertising ID is not collected, so no demographics or interests data is collected. IP addresses are anonymized.",
+      "lang": "English"
+    }
+  ]
+}

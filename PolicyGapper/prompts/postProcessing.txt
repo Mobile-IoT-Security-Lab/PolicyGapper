@@ -1,0 +1,22 @@
+You are a Google Play Data Safety compliance expert. Analyze the following JSON of "omitted_declarations" (data types claimed as collected but potentially exempt) from an Android app privacy policy analysis:
+
+## STEP 1: Consistency Check
+For each entry:
+- Verify if "data_type" logically matches the "policy_reference" content.
+- Delete inconsistent entries (e.g., policy mentions cloud sync but data_type is device-only).
+
+## STEP 2: Duplicates Removal
+- Remove exact duplicate entries (same data_type + policy_reference).
+
+## STEP 3: Exemption Check (Google Play Data Safety - [Collected/Shared] Data)
+Delete entries meeting ANY exemption—no disclosure as ["collected"/"shared"] required:
+
+[CONSTRAINTS]
+
+CRITICAL: Exempt ONLY if policy EXPLICITLY indicates on-device-only OR proper E2EE. Generic "encrypted" or "secure transmission" does NOT qualify—must confirm developer cannot access plaintext.
+
+## STEP 4: Output Rules
+- Respond ONLY with cleaned JSON:
+[JSON FORMT RESULT]
+- NEVER add commentary, explanations, or extra text.
+- Preserve original structure for remaining entries.

@@ -1,0 +1,24 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "investigation/ suppoеnа / Court order requesting to share any available in the system data, Zangi will share the following data of the suspected in the crime user: registration date, account deletion date, last login date, name completed in the profile, Bio, Premium subscription status, subscription transaction ID, subscription/renewal date, device model, device platform and operating system version, push token, Device ID, which is the real Device ID for Android and system generated for iOS. If the user is an old user who has signed in via email/phone number, also the sign-in email /phone number will be provided. Users with Zangi virtual numbers starting with 10 DO NOT have any assigned email or phone number. Authority requests supported by duly served supporting documents must be sent to legal@zangi.com",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "3.1 User Profile name Name/ Surname/ Photo / Bio (Optional): Users can choose to skip adding their Name/ Surname/ Photo / Bio in their Profile and communicate absolutely anonymously, but when filled out, they are to be aware that the Name/ Surname/ Photo /Bio in Zangi Messenger Profile is shared with other Zangi users, who knows the user's Zangi Private number. How? When you call or message each other, Zangi shows the Name/ Surname / Photo of the sender in the conversation/ push/ call screen. All listed plus Bio are seen in the your profile when other users tap on your profile avatar in the app. None of the listed is shared to any 3rd party outside of the Zangi Messenger system except for legal compliance cases.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "3.1 User Profile name Name/ Surname/ Photo / Bio (Optional): Users can choose to skip adding their Name/ Surname/ Photo / Bio in their Profile and communicate absolutely anonymously, but when filled out, they are to be aware that the Name/ Surname/ Photo /Bio in Zangi Messenger Profile is shared with other Zangi users, who knows the user's Zangi Private number. How? When you call or message each other, Zangi shows the Name/ Surname / Photo of the sender in the conversation/ push/ call screen. All listed plus Bio are seen in the your profile when other users tap on your profile avatar in the app. None of the listed is shared to any 3rd party outside of the Zangi Messenger system except for legal compliance cases.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "3.1 User Profile name Name/ Surname/ Photo / Bio (Optional): Users can choose to skip adding their Name/ Surname/ Photo / Bio in their Profile and communicate absolutely anonymously, but when filled out, they are to be aware that the Name/ Surname/ Photo /Bio in Zangi Messenger Profile is shared with other Zangi users, who knows the user's Zangi Private number. How? When you call or message each other, Zangi shows the Name/ Surname / Photo of the sender in the conversation/ push/ call screen. All listed plus Bio are seen in the your profile when other users tap on your profile avatar in the app. None of the listed is shared to any 3rd party outside of the Zangi Messenger system except for legal compliance cases.",
+"lang": "en"
+}
+]
+}

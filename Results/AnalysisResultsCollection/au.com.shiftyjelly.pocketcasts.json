@@ -1,0 +1,64 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Your Podcasts: The most important thing we collect from you are your podcast subscriptions/follows, up next queue, episode filters, episode data, and settings configuration.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Log information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services — for example, when you log into your account, listen to a podcast, or modify your podcast subscriptions/follows.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Log information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services — for example, when you log into your account, listen to a podcast, or modify your podcast subscriptions/follows.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Device and Usage Information: We collect information about your device including the device make and model, your wireless carrier, a device ID, some basic device settings like font size and language, and how you use our Services. In addition, in the event our App(s) crash on your mobile device, we will receive additional information about your device and session, which allows us to identify and fix bugs and otherwise improve the performance of our App(s).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "• Account Information: To use the core features of our Services, you must register and open an “Account” with us by providing your name, email address, and a password.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "• Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Transactional Information: If you choose to purchase a subscription to Pocket Casts Plus, we may collect information to complete and record the transaction. For example, we'll collect information, like your name and credit card information, to process those payments. We also keep a record of the purchases you've made.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Transactional Information: If you choose to purchase a subscription to Pocket Casts Plus, we may collect information to complete and record the transaction. For example, we'll collect information, like your name and credit card information, to process those payments. We also keep a record of the purchases you've made.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Location Information: We may determine the approximate location of your device from your IP address. We collect and use this information to understand where our users are located so we can identify what features might be meaningful to them.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• Communications with Us: You may also provide us with information when you provide us feedback or communicate with our support team. When you communicate with us via form, email, phone, or otherwise, we store a copy of our communications (including any call recordings as permitted by applicable law). You can choose not to provide us with certain information, but this may limit the features of the Services you are able to use.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "• Communications with Us: You may also provide us with information when you provide us feedback or communicate with our support team. When you communicate with us via form, email, phone, or otherwise, we store a copy of our communications (including any call recordings as permitted by applicable law). You can choose not to provide us with certain information, but this may limit the features of the Services you are able to use.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "In the last 12 months, we collected the following categories of personal information, depending on the Services used:\n• Identifiers (like your name, email address, and device and online identifiers);\n• Commercial information (your billing information and purchase history, for example);\n• Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);\n• Internet or other electronic network activity information (such as your usage of our Services);\n• Geolocation data (such as your location based on your IP address); and\n• Audio, electronic, visual or similar information (such as the custom audio files you upload);",
+      "lang": "en"
+    }
+  ]
+}

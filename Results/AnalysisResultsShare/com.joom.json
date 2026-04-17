@@ -1,0 +1,64 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may also share your personal data with our partners for marketing and advertising purposes. This may include information about your interests and preferences, such as your search history and purchase history.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We may also collect information about the applications installed on your device. This information may be shared with our partners to help them personalize the ads you see.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We may share your user-generated content, such as reviews and comments, with our partners for marketing and promotional purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may collect and share your web browsing history with our advertising partners to show you more relevant ads.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may share other app performance data with our analytics partners to help us improve our services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "We may share your health and fitness data with our partners to provide you with personalized health and fitness recommendations. This includes your heart rate, step count, and other activity data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "We may share your health and fitness data with our partners to provide you with personalized health and fitness recommendations. This includes your heart rate, step count, and other activity data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "We may share your political or religious beliefs with our partners for the purpose of showing you targeted advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "We may share your sexual orientation with our partners for the purpose of showing you targeted advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may also share your personal data with our business partners. These companies may use your data to provide you with advertising that may be of interest to you. This data may include your personal details (such as your name and age), your contact details (such as email), your photos and videos, your contact list, your location, your communications with other users, your posts, your device data, and your usage data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We may also share your personal data with our business partners. These companies may use your data to provide you with advertising that may be of interest to you. This data may include your personal details (such as your name and age), your contact details (such as email), your photos and videos, your contact list, your location, your communications with other users, your posts, your device data, and your usage data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "We may also share your personal data with our business partners. These companies may use your data to provide you with advertising that may be of interest to you. This data may include your personal details (such as your name and age), your contact details (such as email), your photos and videos, your contact list, your location, your communications with other users, your posts, your device data, and your usage data.",
+      "lang": "English"
+    }
+  ]
+}

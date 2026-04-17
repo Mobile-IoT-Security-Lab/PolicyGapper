@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Account content: If you have a Service account, you can use and store different types of data in the Service, such as photos and videos, files, messages and other content.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Account content: If you have a Service account, you can use and store different types of data in the Service, such as photos and videos, files, messages and other content.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Account content: If you have a Service account, you can use and store different types of data in the Service, such as photos and videos, files, messages and other content.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Device data: You may choose to give us permission to access certain data on or components of your device, such as your photos, contacts, microphone and camera. You can always disable this access in your device's settings.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Account content: If you have a Service account, you can use and store different types of data in the Service, such as photos and videos, files, messages and other content.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Device data: You may choose to give us permission to access certain data on or components of your device, such as your photos, contacts, microphone and camera. You can always disable this access in your device's settings.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "Phone information: If you use the telephony or text messaging services available in some of our mobile applications, we may collect information related to your use of these services, such as the phone numbers you call and message and from which you receive calls and messages, the content of text messages, number of minutes used, number of text messages sent, and amount of data plan consumed.",
+      "lang": "en"
+    }
+  ]
+}

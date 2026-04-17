@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User-created content, such as your chat messages, comments, likes, thumb-ups/downs, arts and graphics in social applications including chats and forums;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "When you use our services, we collect information about your usage of our apps, activities you have through our servers, such as how many times you mine, how many security circle members you add, the number of friends you invite to our apps, browsing history in the Pi Browser application, your usage information of Pi apps.",
+      "lang": "English"
+    }
+  ]
+}

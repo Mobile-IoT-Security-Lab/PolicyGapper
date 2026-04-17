@@ -1,0 +1,91 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We participate in interest-based advertising and use third-party advertising companies to serve you targeted advertisements based on your online browsing history and your interests. To do this, we or our advertising partners may collect information about how you use or connect to our Services, or the types of other websites, social media services,",
+      "justification": "The privacy policy states that Web browsing history is collected for advertising purposes. For example, the policy says: 'We participate in interest-based advertising and use third-party advertising companies to serve you targeted advertisements based on your online browsing history and your interests.'",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Some of the personal information you provide us, including sexual orientation, sexual preferences, and certain other information you may choose to provide as part of using the Services (such as information about your race, ethnicity, politics, religion, philosophical beliefs, health and sex life) will be treated as special category personal data to which additional protections apply under data protection law.",
+      "justification": "The privacy policy states that Race and ethnicity may be collected as special category data. For example, the policy says: '...information you may choose to provide as part of using the Services (such as information about your race, ethnicity...)'",
+      "how_to_fix": "Declare the collection of 'Race and ethnicity' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Some of the personal information you provide us, including sexual orientation, sexual preferences, and certain other information you may choose to provide as part of using the Services (such as information about your race, ethnicity, politics, religion, philosophical beliefs, health and sex life) will be treated as special category personal data to which additional protections apply under data protection law.",
+      "justification": "The privacy policy states that Political or religious beliefs may be collected as special category data. For example, the policy says: '...information you may choose to provide as part of using the Services (such as information about your... politics, religion, philosophical beliefs...)'",
+      "how_to_fix": "Declare the collection of 'Political or religious beliefs' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Financial Data\nSource\nEach member provides this to FEELD when making any in-App purchases or when purchasing FEELD's premium features.",
+      "justification": "The privacy policy states that User payment info is collected for in-app purchases. For example, the policy says: 'Financial Data Source Each member provides this to FEELD when making any in-App purchases...'",
+      "how_to_fix": "Declare the collection of 'User payment info' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Some of the personal information you provide us, including sexual orientation, sexual preferences, and certain other information you may choose to provide as part of using the Services (such as information about your race, ethnicity, politics, religion, philosophical beliefs, health and sex life) will be treated as special category personal data to which additional protections apply under data protection law.",
+      "justification": "The privacy policy states that Health info may be collected as special category data. For example, the policy says: '...information you may choose to provide as part of using the Services (such as information about your... health and sex life)...'",
+      "how_to_fix": "Declare the collection of 'Health info' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Geolocation Data\n• Examples of Personal Data Collected:\n• Your precise location, if you have granted us permission to collect it.\n• Your general location, which we may learn from your IP address.",
+      "justification": "The privacy policy states that Precise location is collected with user permission. For example, the policy says: 'Your precise location, if you have granted us permission to collect it.'",
+      "how_to_fix": "Declare the collection of 'Precise location' in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "• Other Identifying Information that You Voluntarily Choose to Provide\n• Examples of Personal Data Collected:\n• Identifying information in emails, letters, or texts you send us or in your survey responses\n• Source:\n• You",
+      "justification": "The privacy policy states that the content of texts sent to the company is collected. For example, the policy says: 'Identifying information in emails, letters, or texts you send us...'",
+      "how_to_fix": "Declare the collection of 'SMS or MMS' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "• Photos, Videos and Recordings\n• Examples of Personal Data Collected:\n• Photos, videos or recordings of you\n• Photos, videos or recordings of your environment.\n• Source:\n• You",
+      "justification": "The privacy policy states that recordings of the user are collected. For example, the policy says: 'Photos, videos or recordings of you'",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "Communications Data\nSource\nMembers provide communications data whenever sending messages, media files, or other communications to other Members using the App's Member-to-Member messaging functions. Members also provide communication data whenever communicating with FEELD representatives, including when filing complaints, reports, or App-related requests.",
+      "justification": "The privacy policy states that media files, which can include music files, are collected when sent between members. For example, the policy says: 'Members provide communications data whenever sending messages, media files, or other communications to other Members...'",
+      "how_to_fix": "Declare the collection of 'Music files' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Communications Data\nSource\nMembers provide communications data whenever sending messages, media files, or other communications to other Members using the App's Member-to-Member messaging functions. Members also provide communication data whenever communicating with FEELD representatives, including when filing complaints, reports, or App-related requests.",
+      "justification": "The privacy policy states that media files, which can include audio files, are collected when sent between members. For example, the policy says: 'Members provide communications data whenever sending messages, media files, or other communications to other Members...'",
+      "how_to_fix": "Declare the collection of 'Other audio files' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Age Estimation and Identity Verification Notice\nAs part of our efforts to provide a safe and protected Feeld experience, Feeld will collect and process your facial biometric data and cellular mobile network operator data through a trusted third party (Yoti) in conjunction with our other Customer Support applications and platforms. Age verification provided by Yoti will be implemented to (a) ensure that everyone using our platform is 18 years old or older; and (b) help prevent any fraudulent or malicious actors from accessing Feeld services. In the event of support ticket escalations, Members may elect to provide a valid government identification card for age verification purposes. If a Member elects to provide government ID data, said data will only be processed for the limited purpose of verifying the Member's age and shall be purged from storage immediately after verification is complete. You can find Yoti's Biometric Policy as linked herein.",
+      "justification": "The privacy policy states that files, such as government identification, are collected for verification. For example, the policy says: 'Members may elect to provide a valid government identification card for age verification purposes.'",
+      "how_to_fix": "Declare the collection of 'Files and docs' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "• Social Network Data\n• Examples of Personal Data Collected:\n• Email\n• Phone number\n• User name\n• IP address\n• Device ID\n• Name\n• Profile picture\n• List of friends\n• Source:\n• You",
+      "justification": "The privacy policy states that a user's list of friends from social networks is collected. For example, the policy says: 'Social Network Data... List of friends.'",
+      "how_to_fix": "Declare the collection of 'Contacts' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,154 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Targeting Cookies. These Cookies record your visit to Boomplay, the pages you have visited and the links you have followed. We will use this information to make Boomplay and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.",
+      "justification": "The privacy policy states that web browsing history (pages visited, links followed) is collected via cookies and shared with third parties for the purpose of displaying relevant advertising, which is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Web browsing history' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data, which includes device information, may be shared with advertisers, advertising networks, and business partners for advertising and marketing offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Device or other IDs' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data, which includes name, may be shared with advertisers, advertising networks, and business partners for advertising and marketing offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Name' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data, which includes email address, may be shared with advertisers, advertising networks, and business partners for advertising and marketing offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Email address' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data, which includes user IDs, may be shared with advertisers, advertising networks, and business partners for advertising and marketing offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'User IDs' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data, which includes address, may be shared with advertisers, advertising networks, and business partners for advertising and marketing offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Address' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data, which includes phone number, may be shared with advertisers, advertising networks, and business partners for advertising and marketing offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Phone number' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data may be shared with advertisers, advertising networks, and business partners for advertising and marketing offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Other info' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data, which includes account and billing details, may be shared with business partners for special offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'User payment info' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data, which includes location data, may be shared with advertisers, advertising networks, and business partners for advertising and marketing offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Approximate location' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data, which includes location data, may be shared with advertisers, advertising networks, and business partners for advertising and marketing offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Precise location' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data, which includes photos, may be shared with business partners for special offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Photos' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data, which includes videos, may be shared with business partners for special offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Videos' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "justification": "The privacy policy states that personal data, which includes voice recordings, may be shared with business partners for special offers. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Voice or sound recordings' is shared with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "On Boomplay, we use third-party analytics tools to help us measure traffic and usage trends for the Services. Traffic refers to the different data flows surrounding activities of the users on the Services. These tools, for example, collect information sent by your device or our Services, including the pages you visit, add-ons, and other information that assists us in improving the Service. The information will be used to report and evaluate user activities and to assist us in providing our Services to provide services in accordance with these activities.",
+      "reason_of_removal": "Exempt - Service Provider",
+      "justification": "The policy states this data is processed by third-party analytics tools on the developer's behalf ('help us', 'assists us') to improve the service. This qualifies as an exempt transfer to a service provider under the Google Play User Data Policy.",
+      "how_to_fix": "No declaration is required for sharing with service providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "reason_of_removal": "Exempt - User-Initiated Action",
+      "justification": "The policy describes this data as content 'voluntarily shared by you' and made 'publicly-available'. This is a user-initiated action and is exempt from 'sharing' disclosure requirements.",
+      "how_to_fix": "No declaration is required for user-initiated sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "reason_of_removal": "Exempt - Service Provider",
+      "justification": "The policy indicates data is shared with 'Analytics and search engine providers that assist us in the improvement and optimization' and 'IT service providers'. Sharing crash logs for these purposes falls under the service provider exemption.",
+      "how_to_fix": "No declaration is required for sharing with service providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "reason_of_removal": "Exempt - Service Provider",
+      "justification": "The policy indicates data is shared with 'Analytics and search engine providers that assist us in the improvement and optimization' and 'IT service providers'. Sharing diagnostics data for these purposes falls under the service provider exemption.",
+      "how_to_fix": "No declaration is required for sharing with service providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "reason_of_removal": "Inconsistent with policy",
+      "justification": "The privacy policy mentions collecting and sharing 'Email address', but does not mention collecting or sharing the content of 'Emails'. Therefore, this data type is not supported by the policy reference.",
+      "how_to_fix": "Not applicable as this declaration is not required based on the policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "reason_of_removal": "Inconsistent with policy",
+      "justification": "The privacy policy does not state that the user's contact list is collected or shared. Therefore, this data type is not supported by the policy reference.",
+      "how_to_fix": "Not applicable as this declaration is not required based on the policy.",
+      "lang": "English"
+    }
+  ]
+}
+```

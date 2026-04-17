@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Online activity data, such as pages or screens you viewed, how long you spent on a page or screen, the website you visited before browsing to the Service, navigation paths between pages or screens, information about your activity on a page or screen, access times and duration of access, and whether you have opened our emails or clicked links within them.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "1. Information You Provide to Us. Personal information you may provide to us through the Services (for example, when you create an LG Account, register a device, make a purchase, review a product, or contact us), includes:\n• Contact data, such as your first and last name, email address, billing and mailing addresses, professional title and company name, and phone number.\n• Demographic data, such as your date of birth and gender.\n• Account data, such as the user ID and password that you may set to establish an LG Account, a profile photo, and any other information that you add to your account profile.\n• Communications data, based on our exchanges with you, including when you contact us with questions or feedback or support/repair requests, through the Service, social media, or otherwise. We may record phone calls made to our customer service for quality assurance purposes.\n• Payment and transactional data, such as information relating to or needed to complete your orders and/or payments on or through the Service (including payment card information and billing information), and your purchase history.\n• Marketing data, such as your preferences for receiving our marketing communications and details about your engagement with them.\n• User-generated content data, such as profile pictures, photos, images, music, videos, comments, questions, messages, works of authorship, and other content or information that you generate, transmit, or otherwise make available on the Service, as well as associated metadata. Metadata includes information on how, when, where and by whom a piece of content was collected and how that content has been formatted or edited. Metadata also includes information that users can add or can have added to their content, such as keywords, geographical or location information, and other similar data.\n• Promotion and survey data, including information you share when you enter a competition, promotion, or complete a survey. Please note that if you participate in a sweepstakes, contest, or giveaway through the Services, we may ask you for your contact data to notify you if you win or not, to verify your identity, determine your eligibility, and/or to send you prizes. In some situations, we may need additional information as a part of the entry process, such as a prize selection choice. These sweepstakes and contests are voluntary. We recommend that you read the rules and other relevant information for each sweepstakes and contest that you enter.\nOther data not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "1. Information You Provide to Us. Personal information you may provide to us through the Services (for example, when you create an LG Account, register a device, make a purchase, review a product, or contact us), includes:\n• Contact data, such as your first and last name, email address, billing and mailing addresses, professional title and company name, and phone number.\n• Demographic data, such as your date of birth and gender.\n• Account data, such as the user ID and password that you may set to establish an LG Account, a profile photo, and any other information that you add to your account profile.\n• Communications data, based on our exchanges with you, including when you contact us with questions or feedback or support/repair requests, through the Service, social media, or otherwise. We may record phone calls made to our customer service for quality assurance purposes.\n• Payment and transactional data, such as information relating to or needed to complete your orders and/or payments on or through the Service (including payment card information and billing information), and your purchase history.\n• Marketing data, such as your preferences for receiving our marketing communications and details about your engagement with them.\n• User-generated content data, such as profile pictures, photos, images, music, videos, comments, questions, messages, works of authorship, and other content or information that you generate, transmit, or otherwise make available on the Service, as well as associated metadata. Metadata includes information on how, when, where and by whom a piece of content was collected and how that content has been formatted or edited. Metadata also includes information that users can add or can have added to their content, such as keywords, geographical or location information, and other similar data.\n• Promotion and survey data, including information you share when you enter a competition, promotion, or complete a survey. Please note that if you participate in a sweepstakes, contest, or giveaway through the Services, we may ask you for your contact data to notify you if you win or not, to verify your identity, determine your eligibility, and/or to send you prizes. In some situations, we may need additional information as a part of the entry process, such as a prize selection choice. These sweepstakes and contests are voluntary. We recommend that you read the rules and other relevant information for each sweepstakes and contest that you enter.\nOther data not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Communications data, based on our exchanges with you, including when you contact us with questions or feedback or support/repair requests, through the Service, social media, or otherwise. We may record phone calls made to our customer service for quality assurance purposes.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "SMS users. Although all LG alerts and promotions are complimentary, message and data rates may apply. Depending on your text plan, you may be charged by your carrier. By enrolling in SMS messaging, you certify that you are over 18 years of age and (a) you are the LG Account holder or (b) you have the account holder's permission to do so. As mobile access and text message delivery is subject to your mobile carrier network availability, such access and delivery is not guaranteed. LG is not responsible for any delays upon sending or receiving text messages. You may opt out of text delivery at any time by replying STOP. Alternatively, you may email usprivacy@lge.com with your phone number and request to be removed from such SMS program. SMS notifications may include order confirmations, delivery reminders and service matters. Message frequency may vary. LG Electronics does not sell or share data collected in SMS campaigns to third parties. Carriers are not liable for delayed or undelivered messages. For Help, reply HELP.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "User-generated content data, such as profile pictures, photos, images, music, videos, comments, questions, messages, works of authorship, and other content or information that you generate, transmit, or otherwise make available on the Service, as well as associated metadata. Metadata includes information on how, when, where and by whom a piece of content was collected and how that content has been formatted or edited. Metadata also includes information that users can add or can have added to their content, such as keywords, geographical or location information, and other similar data.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "User-generated content data, such as profile pictures, photos, images, music, videos, comments, questions, messages, works of authorship, and other content or information that you generate, transmit, or otherwise make available on the Service, as well as associated metadata. Metadata includes information on how, when, where and by whom a piece of content was collected and how that content has been formatted or edited. Metadata also includes information that users can add or can have added to their content, such as keywords, geographical or location information, and other similar data.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "User-generated content data, such as profile pictures, photos, images, music, videos, comments, questions, messages, works of authorship, and other content or information that you generate, transmit, or otherwise make available on the Service, as well as associated metadata. Metadata includes information on how, when, where and by whom a piece of content was collected and how that content has been formatted or edited. Metadata also includes information that users can add or can have added to their content, such as keywords, geographical or location information, and other similar data.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Audio-visual Information. We may collect audio, electronic, visual, or similar information, such as video recordings.",
+      "lang": "en"
+    }
+  ]
+}

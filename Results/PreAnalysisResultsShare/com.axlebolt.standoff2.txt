@@ -1,0 +1,373 @@
+• Transparency. We strive to be as clear and open as possible about how we collect, use and share personal data. If you have any
+questions about any provisions of the Policy, we are open to communication.
+
+---
+
+What personal data does Axlebolt collect?
+When you play Game and share your personal data with Axlebolt, we act as a Controller of your personal data.
+
+---
+
+• "Advertising ID” is a unique identifier that is associated with your mobile phone or tablet, used by advertisers to track ads.
+
+---
+
+Your data
+related to a
+third-party
+resource
+The execution of the contract, as well as your
+consent, which you express by logging into the
+Game using third-party resources.
+Identification and authorization of you in
+the Game - for more information, see
+Section “How is the user's email used?”
+
+---
+
+Does Axlebolt collect my financial information when I make in-app purchases?
+When you make in-app purchases in the Game, we do not collect data about the payment transactions you make and do not have
+access to your payment information. This information is collected and stored by your platform (for example, the App Store on Apple
+devices, Google Play on Android devices, or the App Gallery on Huawei devices) or by your platform's payment operator.
+
+---
+
+Please note that purchases of in-app objects can be carried out not only through the functionality of the Game, but also through the
+stores of third-party services authorized by us. We encourage you to review the privacy policies of such third-party services.
+
+---
+
+How is my personal data used for analytics?
+As a Game developer, it is important to us to know how users interact with our Games in order to improve your user experience. We
+and our partners (“Analytics Services") collect your Location Information, Device Information, Advertising IDs, and Login information
+for analytics purposes for our Games. For example, we use this information to:
+• assessment of the difficulty level of the Game,
+• corrections of any errors in the Game,
+• assessing the demographics of our users,
+• determining the need to support a new type of Device for the Game.
+
+---
+
+In some cases, the Analytics Services collect information about you on our behalf, and in some cases, the Analytics Services
+independently decide to collect your personal data through mechanisms built into our applications. In the latter case, Analytics
+Services acts as a Controller under the EU General Data Protection Regulation (GDPR).
+
+---
+
+We recommend that you familiarize yourself with the list of our Analytics Services and their privacy policies:
+Analytics Service Providers
+Name
+Opt-Out
+Contact Information
+Firebase
+https://tools.google.com/dlpage/gaoptout
+https://firebase.google.com/support/
+Android Performance
+Tuner
+Privacy Policy – Privacy & Terms –
+Google
+Privacy Help Center - Policies Help (google.com)
+AppMetrica (Yandex)
+Privacy Policy.
+Contact form
+
+---
+
+How is my personal data used for refunds?
+As we do not collect the data when you make in-app purchases within our Game directly, in order to better process you refund
+requests we have to obtain your consent for this data collection and processing as well as for transfer thereof to our payment's
+agents.
+
+---
+
+Below we list our third-party processors, with whom we may share some of your data to process refund requests and provide the
+links to their privacy policies.
+Refund requests Processors
+Name
+Opt-Out
+Privacy Policy
+Apple (Send Consumption Information API) | privacy.apple.com | Apple's Privacy Policy.
+
+---
+
+How is my personal data used for advertising?
+To keep our Game free, we display ads in it with the help of third-party advertising partners ("Advertising Partners"). We integrate
+their technologies into our Game, thanks to which Advertising partners independently determine which ads to show to you.
+
+---
+
+a. Do Advertising partners collect my personal data?
+In order to serve you ads that may be of interest to you ("Targeted Advertising"), Advertising Partners collect and use your
+Advertising ID, Location Information, and Device Information. If location services are enabled in your Device settings, Advertising
+partners may additionally collect data about your geolocation.
+
+---
+
+In some cases, Advertising Partners collect information about you on our behalf and act as a processor of your personal data, and in
+some cases, Advertising Partners independently decide to collect your personal data through the mechanisms built into our
+applications. In the latter case, Advertising Partners act as a controller in accordance with the EU General Data Protection
+Regulations (GDPR).
+
+---
+
+We recommend that you familiarize yourself with the list of our Advertising Partners and their privacy policies:
+Ad Partners
+Name
+Privacy policy
+Contact information
+UnityAds
+https://unity3d.com/legal/privacy-policy.
+privacy@unity3d.com
+AppLovin
+https://www.applovin.com/privacy.
+dataprotection@applovin.com
+Iron source
+Digital
+Turbine
+policy
+Google
+AdMob
+Opt-Out Instructions:
+https://www.applovin.com/optout
+https://developers.ironsrc.com/ironsource-
+mobile/air/ironsource-mobile-privacy-policy/
+ironsource_privacy@unity3d.com
+https://www.digitalturbine.com/legal/privacy- privacy@digitalturbine.com
+https://policies.google.com/privacy
+Privacy Help Center - Policies Help (google.com)
+Liftoff
+https://www.liftoff.company/
+ADMIN@LIFTOFF.COMPANY
+ΜΕΤΑ
+https://www.facebook.com/privacy/policy/ Help Contact
+Mintegral
+https://www.mintegral.com/en/privacy
+privacy@mintegral.com
+Moloco
+https://www.moloco.com/privacy-policy
+Contact Form
+Yandex
+https://yandex.com/legal/confidential/
+Contact Form
+Adjust
+https://www.adjust.com/terms/privacy-policy privacy@adjust.com
+
+---
+
+For residents of the European Economic Area (EEA):
+If you are a resident of the European Economic Area (EEA), by agreeing to this Privacy Policy, you also consent to the processing of
+your personal information by Google, our advertising partner:
+Name
+Privacy policy
+Contact information
+Google
+How Google processes personal
+information
+Contact Google
+
+---
+
+In any case, you may contact us at dpo@axlebolt.com and indicate your desire to opt out of receiving Targeted Advertising. We will
+share this information with our Advertising Partners.
+
+---
+
+How is my personal data used by service providers?
+We engage third-party service providers to help us operate, support, and improve our Game. These providers may process your
+personal data on our behalf and under our instructions – for example, to enable in-game communications, provide user support, or
+manage technical infrastructure.
+
+---
+
+You can find more information about our service providers and their privacy practices:
+Name
+Privacy policy
+Contact information
+Intercom
+Privacy Policy.
+Privacy Request Form
+
+---
+
+Please note that if you wish, you can log in using third-party resources that will transfer your data related to a third-party resource to
+us. We recommend that you familiarize yourself with the list of third-party resources and their privacy policies:
+Third-party resources for authorization
+Name
+Privacy policy
+Contact details
+VK
+Privacy policy (vk.com)
+support@vk.com
+Google
+Privacy Policy – Privacy & Terms –
+Google
+Privacy Help Center - Policies Help
+(google.com)
+Apple
+Privacy policy Apple
+Support
+Game
+Center
+Game Center Privacy_policy.
+Support
+Huawei
+Privacy Policy - Huawei
+Personal Data Management Request -
+Huawei
+
+---
+
+We recommend that you review the list of our third-party anti-fraud resources and their privacy policy:
+Third-party anti-fraud resources
+Name
+Privacy policy
+Contact details
+Google play integrity
+Privacy Policy – Privacy & Terms – Google
+support@vk.com
+Apple device check
+Privacy policy Apple
+Support
+
+---
+
+The data is stored by AMAZON WEB SERVICES EMEA SARL (CC OTH 00760863 2022 TR). You can read the privacy_policy of
+AMAZON WEB SERVICES.
+
+---
+
+By agreeing to the Policy, you consent to the transfer of Personal Data to the territory of Germany.
+
+---
+
+We will store your personal data for 1 year after you stop playing the Game in order to save your progress in the game and
+purchases in case you decide to resume activity in our Game, as well as in case government authorities contact us with requests for
+information about your transactions in the Game.
+
+---
+
+Do third-party services process my personal data?
+In our Game, you may see links to third-party websites or applications (for example, in advertisements). Please note that when you
+click on links to third-party websites or applications, you can share your personal data with such websites or applications. Axlebolt
+does not control the collection of personal data by third-party websites or applications, and we recommend that you read their
+privacy policies in advance.
+
+---
+
+Social media functions and tools
+The Game may include integrated social media features and tools such as the «Like» button on Facebook, the «Share>> button on
+YouTube, and the «Subscribe» button on Twitter. These tools may collect information about your IP address. Social media features
+and tools are hosted on third-party servers, and your interaction with these social media features and tools is governed by the
+privacy policies of such social networks.
+
+---
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect your
+information, both during transmission and once it is received. However, no method of transmission over the Internet, or method of
+electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. While no security system is completely
+secure, we and our partners stake appropriate security measures to protect against unauthorized access or disclosure of the
+information collected by us. For Axlebolt, this includes, but is not limited to, ensuring that all of your information is disclosed only on
+a "need to know" basis and ensuring that all information collected by Axlebolt is done so via secured connections and protected and
+encrypted by industrial grade security software to guard against unauthorized access.
+
+---
+
+Sharing your personal information for business/legal reasons
+A. Business Transfers. As we continue to develop our business, we may reorganize as a business entity, acquire entities,
+subsidiaries, or business units, or enter into joint ventures with third-parties. In any of these types of transactions, any
+information you provide may be one of the transferred business assets (subject to any pre-existing privacy notice unless you
+consent otherwise). In the event that all or substantially all of our assets are acquired or we merge with a third-party, your
+information will likely be one of the transferred assets. You understand and agree that we reserve the right to transfer any
+information collected from you in the case of any such transfer. In such event, we will use reasonable efforts to notify you
+before information about you is transferred and becomes subject to a different privacy policy.
+B. Legal. We may disclose information you provide to respond to subpoenas, court orders, requests from authorities, and other
+legal process, and to establish/exercise our legal rights. We may also disclose your information to defend against legal claims
+when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud,
+or respond to a government request. We may share your information in order to investigate, prevent or take action regarding
+illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person, violations of our
+License Agreement, or as otherwise required by law.
+
+---
+
+Please note that we may transfer your account information if you request a refund through Apple services. By submitting such a
+request to Apple, you agree to the transfer of your data. We recommend that you read the Apple Privacy Policy.
+
+---
+
+Is my personal data sold to any third parties?
+No, Axlebolt does not sell personal data of the users of the Game to any third parties and has never tried to sell any personal data.
+
+---
+
+• The right to data portability. You have the right to transfer your data at our disposal (transfer the data to another controller). At the
+same time, we are not responsible for the compatibility of data with a third-party service.
+
+---
+
+Transfer of personal data outside the EU. Since some of our Analytics Services, Advertising Partners, and Third-party resources for
+fighting are located in countries outside the European Union, your personal data may be transferred to countries that may not
+provide the same level of data privacy as the laws of your country of residence. When transferring data across borders, we rely
+solely on the legitimate grounds for such transfer.
+
+---
+
+Although we and our partners take all reasonable and necessary measures to protect your personal data from unauthorized access
+by third parties, we are obliged to inform you about the possible risks of such storage of your personal data in jurisdictions outside
+the European Union in accordance with Article 49(1)(a) GDPR.
+
+---
+
+By agreeing to the processing of your personal data in accordance with this Privacy Policy and by playing the Game, you give us
+your express consent to the cross-border transfer of your personal data.
+
+---
+
+• to receive information related to the processing of your Personal Data, including: confirmation of the fact of processing Personal
+Data by the operator; legal grounds and purposes of processing Personal Data; purposes and methods of processing Personal Data
+used by the operator; name and location of the operator, information about persons (except for employees of the operator) who
+have access to Personal Data or to whom Personal Data may be disclosed on the basis of an agreement with the operator or on the
+basis of Federal Law; processed Personal Data related to the relevant Personal Data subject, the source of their receipt; terms of
+processing of Personal Data, including the terms of their storage; information about the performed or proposed cross-border data
+transfer; name or surname, first name, patronymic and address of the person processing Personal Data on behalf of the operator, if
+processing is entrusted or will be assigned to such a person; other information;
+
+---
+
+• information about public and private organizations with which Axlebolt has shared data;
+
+---
+
+• know the third parties to whom your personal data is transferred in the country or abroad;
+
+---
+
+• request reporting on transactions carried out in certain cases from third parties to whom your personal data has been transferred;
+
+---
+
+•
+business or commercial purposes for the collection, use, exchange or sale of Personal Data;
+
+---
+
+•
+the categories of Personal Data that we have disclosed about you for commercial purposes and the categories of recipients to
+whom they have been disclosed;
+
+---
+
+•
+categories of Personal Data that we have sold or transferred, and categories of third parties to whom each type of Personal Data
+has been sold or transferred.
+
+---
+
+•
+The right of refusal. We do not sell your Personal Data. However, in any case, you have the right to refuse the sale and
+exchange of your Personal Data.
+
+---
+
+•
+If you wish to opt out of the sale and sharing, except through Cookies or other online tracking technologies, you can contact us
+using the methods listed below in the "Contact Us" section.

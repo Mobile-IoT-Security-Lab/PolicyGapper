@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We use analytics services (including, but not limited to, Google Analytics) to help us understand how our Services are used. Analytics service providers, may use cookies and other technologies to collect information about your use of the Services and other websites.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use analytics services (including, but not limited to, Google Analytics) to help us understand how our Services are used. Analytics service providers, may use cookies and other technologies to collect information about your use of the Services and other websites.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We may share your information with third parties (including our group companies and third party service providers) to help us process your information and to provide, analyse, and improve the Service. This includes, for example, analysing data to better understand our users’ needs, drawing insights to help us improve the Service, and for crash reporting.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may share your information with third parties (including our group companies and third party service providers) to help us process your information and to provide, analyse, and improve the Service. This includes, for example, analysing data to better understand our users’ needs, drawing insights to help us improve the Service, and for crash reporting.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may also share certain information such as cookie data with third-party advertising partners. This information would allow third-party ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.",
+      "lang": "English"
+    }
+  ]
+}

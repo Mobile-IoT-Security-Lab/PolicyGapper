@@ -1,0 +1,44 @@
+In the process of delivering our search results and other content, we also prevent our
+hosting and content providers from creating a history of your searches and browsing.
+At a technical level, we achieve this by calling for content (for example, images) on
+your behalf from our servers and then ensuring that content is securely delivered to
+you through an end-to-end encrypted connection. In order for our product to function,
+we share anonymous browser and device information with our hosting and content
+providers for security and display purposes (for example, that you're using a mobile
+device), but we never share any information with them that could tie your searches or
+website visits to you personally, or that could allow them to create a history of your
+individual search queries or the sites you browse.
+
+---
+
+The Internet works by routing information to you via your device's IP address. As such,
+we cannot prevent your device's IP address from being seen by your internet service
+provider, our hosting provider, or other internet providers in between (typically, there
+are one or more internet providers between any two points on the Internet). That is,
+these providers necessarily use IP addresses to route information. They may also use
+them for security purposes, such as preventing network attacks and limiting other
+fraudulent traffic. However, the encrypted connection between you and us prevents
+your search queries from being revealed to any of these entities. And if you use our
+apps and extensions, our Smarter Encryption also helps you use more encrypted
+connections when visiting other websites.
+
+---
+
+We make money through private search ads.
+
+Viewing ads on DuckDuckGo Search is anonymous, like the rest of our search results
+(as described above). Ad clicks are managed by Microsoft's ad network and Microsoft
+has committed to not associate your ad-click behavior with a user profile and to not
+store or share that information other than for accounting purposes.
+
+---
+
+Similarly, if you reach out to us directly for support, to provide feedback (such as in a
+crash report or on our search engine), or for other reasons, we will only use your
+contact information to respond to you. In that process, your communication may be
+accessible to the software-as-a-service providers we use in our corporate systems
+(such as our company email and project management software). For information
+voluntarily provided in surveys, we sometimes use additional vendors for processing,
+though their access to personal information is contractually limited to what is
+necessary to perform their services. Finally, if you apply for a position on our team, any
+information you provide falls under our Recruiting Information Policy.

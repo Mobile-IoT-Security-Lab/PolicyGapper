@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "| Category of Personal Data | What this means? |\n|---|---|\n| Contact Data | Email address, physical address and telephone number(s). |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "| Category of Personal Data | What this means? |\n|---|---|\n| Identity Data | First name, last name, username or similar identifier, profile photo, gender and age. |",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "| Partial Payment Data | Partial credit card details may be retained on file if you need to make a payment through the Platform or otherwise to us. We do not retain your full payment data for security reasons. |\n|---|---|",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "| Category of Personal Data | What this means? |\n|---|---|\n| Location Data | Approximate location if you enable this feature via your device. This is used, for example, to help you search properties around you, or to verify a listing using our 'TrueCheck' feature. |",
+      "lang": "English"
+    }
+  ]
+}

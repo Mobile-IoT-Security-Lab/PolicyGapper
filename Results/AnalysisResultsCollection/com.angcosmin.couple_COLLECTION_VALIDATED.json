@@ -1,0 +1,51 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Aggregate and Anonymous Data: We may collect data in an aggregated or anonymized format that does not directly identify you. This information is used for analytics, trend analysis, and app improvement purposes.",
+      "justification": "The policy states, 'We may collect data in an aggregated or anonymized format... used for analytics, trend analysis, and app improvement purposes,' which falls under the 'Diagnostics' data type as it relates to app performance and usage analysis.",
+      "how_to_fix": "Declare the collection of 'Diagnostics' data in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In addition to the information you provide, we automatically collect certain details about your device and interactions with our Platform. For example, we gather data about your device type, operating system, app version, IP address, time zone, and language settings. We also track how you use the app, including the features you interact with and the duration of your sessions. This information is used to improve the app, develop new features, and maintain the security and stability of our systems.",
+      "justification": "The policy states that the app automatically collects data about device interactions, features used, and session duration for app improvement, which directly corresponds to the 'Other app performance data' type.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Information You Provide Directly: We collect the following information when you voluntarily provide it to us, such as during account creation or profile updates: • • Name: To identify your account and personalize your experience. • Email Address: To facilitate account access, send communications, and provide customer support. • Profile Picture and Cover Picture: To allow for a more personalized user profile and interaction. • Couple Anniversary Date: To enhance app functionality and provide tailored content or features.",
+      "justification": "The policy explicitly states the collection of 'Email Address' for account access and communication, which is a required declaration.",
+      "how_to_fix": "Declare the collection of 'Email address' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Information You Provide Directly: We collect the following information when you voluntarily provide it to us, such as during account creation or profile updates: • • Name: To identify your account and personalize your experience. • Email Address: To facilitate account access, send communications, and provide customer support. • Profile Picture and Cover Picture: To allow for a more personalized user profile and interaction. • Couple Anniversary Date: To enhance app functionality and provide tailored content or features.",
+      "justification": "The policy mentions collecting 'Couple Anniversary Date,' which does not fit into other specific personal information categories and is best classified as 'Other info'.",
+      "how_to_fix": "Declare the collection of 'Other info' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "Information You Provide Directly: We collect the following information when you voluntarily provide it to us, such as during account creation or profile updates: • • Name: To identify your account and personalize your experience. • Email Address: To facilitate account access, send communications, and provide customer support. • Profile Picture and Cover Picture: To allow for a more personalized user profile and interaction. • Couple Anniversary Date: To enhance app functionality and provide tailored content or features.",
+      "justification": "The policy states the collection of 'Couple Anniversary Date,' which is a type of 'Calendar events' data.",
+      "how_to_fix": "Declare the collection of 'Calendar events' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Information You Provide Directly: We collect the following information when you voluntarily provide it to us, such as during account creation or profile updates: • • Name: To identify your account and personalize your experience. • Email Address: To facilitate account access, send communications, and provide customer support. • Profile Picture and Cover Picture: To allow for a more personalized user profile and interaction. • Couple Anniversary Date: To enhance app functionality and provide tailored content or features.",
+      "reason_of_removal": "Inconsistent data type and policy reference.",
+      "justification": "The policy explicitly mentions collecting 'Email Address,' which is a distinct data type from 'Emails.' The 'Emails' data type refers to the content of emails (subject, body, etc.), which is not mentioned in the provided policy text.",
+      "how_to_fix": "No action needed as the policy does not support the collection of 'Emails'. Ensure 'Email address' is declared if it is not already.",
+      "lang": "en"
+    }
+  ]
+}
+```

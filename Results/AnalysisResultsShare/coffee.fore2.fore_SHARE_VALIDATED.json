@@ -1,0 +1,59 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Our corporate group\nWe may share your information with our subsidiaries or affiliates to provide, improve and optimize the Services, to prevent illegal use and to support you.",
+      "justification": "The policy states data is shared with corporate affiliates. Under Google Play's policy, transferring data to another company within a corporate group is considered 'sharing' and must be disclosed.",
+      "how_to_fix": "Declare 'App interactions' as shared with third parties in the Data Safety section, specifying the category of recipient (e.g., 'Other companies in the developer's corporate group').",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Our corporate group\nWe may share your information with our subsidiaries or affiliates to provide, improve and optimize the Services, to prevent illegal use and to support you.",
+      "justification": "The policy states data is shared with corporate affiliates. Under Google Play's policy, transferring data to another company within a corporate group is considered 'sharing' and must be disclosed.",
+      "how_to_fix": "Declare 'Other actions' as shared with third parties in the Data Safety section, specifying the category of recipient (e.g., 'Other companies in the developer's corporate group').",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Our corporate group\nWe may share your information with our subsidiaries or affiliates to provide, improve and optimize the Services, to prevent illegal use and to support you.",
+      "justification": "The policy states data is shared with corporate affiliates. Under Google Play's policy, transferring data to another company within a corporate group is considered 'sharing' and must be disclosed.",
+      "how_to_fix": "Declare 'Diagnostics' as shared with third parties in the Data Safety section, specifying the category of recipient (e.g., 'Other companies in the developer's corporate group').",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Our corporate group\nWe may share your information with our subsidiaries or affiliates to provide, improve and optimize the Services, to prevent illegal use and to support you.",
+      "justification": "The policy states data is shared with corporate affiliates. Under Google Play's policy, transferring data to another company within a corporate group is considered 'sharing' and must be disclosed.",
+      "how_to_fix": "Declare 'Other app performance data' as shared with third parties in the Data Safety section, specifying the category of recipient (e.g., 'Other companies in the developer's corporate group').",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "If we sell, buy, merge, are acquired by, or partner with other companies or businesses, or sell some or all of our assets. Your information may be among the transferred assets.",
+      "justification": "The policy states user information, which includes purchase history, may be transferred as part of a merger, acquisition, or sale of assets. Google Play policy requires this type of transfer to be disclosed as 'sharing'.",
+      "how_to_fix": "Declare 'Purchase history' as shared with third parties in the Data Safety section, explaining the purpose (e.g., 'Developer communications' or another relevant purpose related to business transfer).",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment providers. If you choose to use your debit/credit card or any Payment Provider's services for your payment or transaction on the Platform, we may share your information with the relevant Payment Provider to facilitate your payment or transaction.",
+      "reason_of_removal": "User-initiated action exemption.",
+      "justification": "The policy states payment information is shared with a payment provider only when the user chooses to make a payment. This is a user-initiated action, which is exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+      "how_to_fix": "No action required. This data sharing is exempt from disclosure as it is initiated by the user to complete a transaction.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Delivery service providers. If you choose to purchase items using the delivery method on the Platform, we may share your information with delivery service providers to facilitate the delivery of items you purchased.",
+      "reason_of_removal": "User-initiated action exemption.",
+      "justification": "The policy states the user's address is shared with delivery service providers only when the user chooses to purchase an item for delivery. This is a user-initiated action, which is exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+      "how_to_fix": "No action required. This data sharing is exempt from disclosure as it is initiated by the user to complete a transaction.",
+      "lang": "English"
+    }
+  ]
+}
+```

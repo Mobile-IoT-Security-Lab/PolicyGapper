@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Finally, we may partner with third parties to manage our advertising on other sites. More specifically, we may use Google, Microsoft, Facebook or other providers to place advertisements on different sites across the Internet. Such third parties may use technologies such as Cookies to gather information about your activities on the Products and other sites you visit in order to provide you advertising based upon your browsing activities and interests.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Finally, we may partner with third parties to manage our advertising on other sites. More specifically, we may use Google, Microsoft, Facebook or other providers to place advertisements on different sites across the Internet. Such third parties may use technologies such as Cookies to gather information about your activities on the Products and other sites you visit in order to provide you advertising based upon your browsing activities and interests.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Finally, we may partner with third parties to manage our advertising on other sites. More specifically, we may use Google, Microsoft, Facebook or other providers to place advertisements on different sites across the Internet. Such third parties may use technologies such as Cookies to gather information about your activities on the Products and other sites you visit in order to provide you advertising based upon your browsing activities and interests.",
+      "lang": "English"
+    }
+  ]
+}

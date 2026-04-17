@@ -1,0 +1,44 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may collect other non-personal information about the use of our Software Applications, visits to our websites or use of additional services, including links you have clicked, software or information you have downloaded, as well as other actions related to the use of our products or services. We may also collect certain technical information necessary for the operation and update of our products/services and the collection of anonymous statistics on the use of such products/services, along with any error reports about our products.",
+      "justification": "The policy states the collection of information about user actions within the app, such as \"links you have clicked\" and \"other actions related to the use of our products or services,\" which directly corresponds to the 'App interactions' data type.",
+      "how_to_fix": "Declare 'App interactions' in the 'App activity' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may collect other non-personal information about the use of our Software Applications, visits to our websites or use of additional services, including links you have clicked, software or information you have downloaded, as well as other actions related to the use of our products or services. We may also collect certain technical information necessary for the operation and update of our products/services and the collection of anonymous statistics on the use of such products/services, along with any error reports about our products.",
+      "justification": "The policy explicitly states the collection of \"other actions related to the use of our products or services,\" which directly corresponds to the 'Other actions' data type.",
+      "how_to_fix": "Declare 'Other actions' in the 'App activity' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may collect other non-personal information about the use of our Software Applications, visits to our websites or use of additional services, including links you have clicked, software or information you have downloaded, as well as other actions related to the use of our products or services. We may also collect certain technical information necessary for the operation and update of our products/services and the collection of anonymous statistics on the use of such products/services, along with any error reports about our products.",
+      "justification": "The policy mentions collecting \"technical information necessary for the operation and update\" and \"error reports about our products,\" which falls under the 'Diagnostics' data type.",
+      "how_to_fix": "Declare 'Diagnostics' in the 'App info and performance' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "If you have questions about this Privacy and Data Protection Policy or the way personal information is processed or used in connection with the use of our Software Applications or websites, please contact us. Your request must include your name and other information needed for the identification, as well as for the full and complete processing of your request.",
+      "justification": "The policy states that when users contact the company, they must provide their \"name and other information needed for the identification,\" which corresponds to the 'Other info' data type.",
+      "how_to_fix": "Declare 'Other personal info' in the 'Personal info' section of the Data Safety form and specify the type of information collected.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "This Privacy and Data Protection Policy sets out the basis which MetaQuotes Ltd (\"we\", \"us\", or\n\"our\") may collect, use or otherwise process personal data via our website www.metaquotes.net\n(\"Website\") and all related websites as specified below, downloadable software, mobile\napplications including desktop applications (collectively \"Products\"), and other services provided\nby us and on which a link to this Privacy Policy is displayed, and all other communication with\nindividuals through written or oral means, such as email, chat or phone (collectively together with\nthe Website and Products, our \"Services\").",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference is a general scope clause defining that the privacy policy applies to various channels, including 'email'. It does not explicitly state that the app collects the user's email address.",
+      "how_to_fix": "If the app collects email addresses, find the specific policy clause that states this. If it does not, this declaration is not needed.",
+      "lang": "en"
+    }
+  ]
+}
+```

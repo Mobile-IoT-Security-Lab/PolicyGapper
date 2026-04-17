@@ -1,0 +1,54 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse movement, scroll position, key events, and touch events.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse movement, scroll position, key events, and touch events.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse movement, scroll position, key events, and touch events.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "-Device Information: Carrier, brand, software version, model name, manufacturer, system language, OS version, locale, fingerprint, Build ID, baseband version, SIM country, SIM serial number, battery status, network, OAID, IMEI, IDFA, GUID, MAC address, Android ID, SSID, Advertising ID and gyroscope/accelerometer data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Individual customers:\n-Email address\n-Mobile phone number\n-Full legal name (including former name, and names in local language)\n-Nationality\n-Passport number, or any government issued ID number\n-Date of birth (\"DOB\")\n-Proof of identity (e.g. passport, driver's license, or government-issued ID)\n-Residential address\n-Proof of residency\n-Additional Personal Data or documentation at the discretion of our Compliance Team",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Individual customers:\n-Email address\n-Mobile phone number\n-Full legal name (including former name, and names in local language)\n-Nationality\n-Passport number, or any government issued ID number\n-Date of birth (\"DOB\")\n-Proof of identity (e.g. passport, driver's license, or government-issued ID)\n-Residential address\n-Proof of residency\n-Additional Personal Data or documentation at the discretion of our Compliance Team",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "MEXC collects, processes, and stores Personal Data collected from you via your use of the Service or where you have given your\nconsent. This Personal Data may include:\n-Virtual Identity: MEXC Account/ Password, MEXC Nickname.\n-Financial Information: Bank account information, payment card primary account number (PAN), account assets, transaction history, trading data,\nand/or tax identification.\n-Transaction Information: Information about the transactions you make on the Platform, such as the name of the recipient, your name, the amount,\nand/or timestamp.\n-Message Content: Feedback, Email, SMS, App Rating, Comments.\n-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse\nmovement, scroll position, key events, and touch events.\n-Device Information: Carrier, brand, software version, model name, manufacturer, system language, OS version, locale, fingerprint, Build ID,\nbaseband version, SIM country, SIM serial number, battery status, network, OAID, IMEI, IDFA, GUID, MAC address, Android ID, SSID,\nAdvertising ID and gyroscope/accelerometer data.\n-Correspondence: Survey responses, information provided to our support team or user research team.\n-Audio, electronic, visual and similar information, such as call and video recordings.\n-Biometric data about yourself, including facial recognition data, fingerprint data, or other biometric data that may be used as a method of\nauthentication on the Device used to access the Platform.",
+      "lang": "English"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "MEXC collects, processes, and stores Personal Data collected from you via your use of the Service or where you have given your\nconsent. This Personal Data may include:\n-Virtual Identity: MEXC Account/ Password, MEXC Nickname.\n-Financial Information: Bank account information, payment card primary account number (PAN), account assets, transaction history, trading data,\nand/or tax identification.\n-Transaction Information: Information about the transactions you make on the Platform, such as the name of the recipient, your name, the amount,\nand/or timestamp.\n-Message Content: Feedback, Email, SMS, App Rating, Comments.\n-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse\nmovement, scroll position, key events, and touch events.\n-Device Information: Carrier, brand, software version, model name, manufacturer, system language, OS version, locale, fingerprint, Build ID,\nbaseband version, SIM country, SIM serial number, battery status, network, OAID, IMEI, IDFA, GUID, MAC address, Android ID, SSID,\nAdvertising ID and gyroscope/accelerometer data.\n-Correspondence: Survey responses, information provided to our support team or user research team.\n-Audio, electronic, visual and similar information, such as call and video recordings.\n-Biometric data about yourself, including facial recognition data, fingerprint data, or other biometric data that may be used as a method of\nauthentication on the Device used to access the Platform.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "MEXC collects, processes, and stores Personal Data collected from you via your use of the Service or where you have given your\nconsent. This Personal Data may include:\n-Virtual Identity: MEXC Account/ Password, MEXC Nickname.\n-Financial Information: Bank account information, payment card primary account number (PAN), account assets, transaction history, trading data,\nand/or tax identification.\n-Transaction Information: Information about the transactions you make on the Platform, such as the name of the recipient, your name, the amount,\nand/or timestamp.\n-Message Content: Feedback, Email, SMS, App Rating, Comments.\n-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse\nmovement, scroll position, key events, and touch events.\n-Device Information: Carrier, brand, software version, model name, manufacturer, system language, OS version, locale, fingerprint, Build ID,\nbaseband version, SIM country, SIM serial number, battery status, network, OAID, IMEI, IDFA, GUID, MAC address, Android ID, SSID,\nAdvertising ID and gyroscope/accelerometer data.\n-Correspondence: Survey responses, information provided to our support team or user research team.\n-Audio, electronic, visual and similar information, such as call and video recordings.\n-Biometric data about yourself, including facial recognition data, fingerprint data, or other biometric data that may be used as a method of\nauthentication on the Device used to access the Platform.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "MEXC collects, processes, and stores Personal Data collected from you via your use of the Service or where you have given your\nconsent. This Personal Data may include:\n-Virtual Identity: MEXC Account/ Password, MEXC Nickname.\n-Financial Information: Bank account information, payment card primary account number (PAN), account assets, transaction history, trading data,\nand/or tax identification.\n-Transaction Information: Information about the transactions you make on the Platform, such as the name of the recipient, your name, the amount,\nand/or timestamp.\n-Message Content: Feedback, Email, SMS, App Rating, Comments.\n-Application Activity: Browsers and tap records, search history, installed apps, running apps, crash logs, user-generated content, favorites, mouse\nmovement, scroll position, key events, and touch events.\n-Device Information: Carrier, brand, software version, model name, manufacturer, system language, OS version, locale, fingerprint, Build ID,\nbaseband version, SIM country, SIM serial number, battery status, network, OAID, IMEI, IDFA, GUID, MAC address, Android ID, SSID,\nAdvertising ID and gyroscope/accelerometer data.\n-Correspondence: Survey responses, information provided to our support team or user research team.\n-Audio, electronic, visual and similar information, such as call and video recordings.\n-Biometric data about yourself, including facial recognition data, fingerprint data, or other biometric data that may be used as a method of\nauthentication on the Device used to access the Platform.",
+      "lang": "en"
+    }
+  ]
+}

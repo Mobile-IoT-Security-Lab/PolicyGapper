@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "B. Sharing: To enable Super Browser Mini Application partners and third party developers to improve their software, hardware and services designed for use with the Super Browser Mini Application, we may also provide any such partner or third party developer with a subset of diagnostic information that is relevant to that partners or developers software, hardware and/or services, as long as the diagnostic information is in a form that does not personally identify you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "B. Sharing: To enable Super Browser Mini Application partners and third party developers to improve their software, hardware and services designed for use with the Super Browser Mini Application, we may also provide any such partner or third party developer with a subset of diagnostic information that is relevant to that partners or developers software, hardware and/or services, as long as the diagnostic information is in a form that does not personally identify you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "THE INFORMATION THAT SUPER BROWSER MINI APPLICATION SENDS TO GOOGLE LOCATION SERVICES MAY INCLUDE: 1. The Wi-Fi routers closest to you, Mobile IDs of the mobile phone base stations closest to you, The IP address that is currently assigned to your device, doesn't have control over third-party websites or their privacy practices, so be cautious when sharing your location with a website. 2. Application periodically sends information to Google& other analytics to check for updates, get connectivity status, validate the current time and to estimate the number of active users Search prediction service. 3. Super Browser Mini Application uses Google Location Services to estimate your location.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "The Wi-Fi routers closest to you, Mobile IDs of the mobile phone base stations closest to you, The IP address that is currently assigned to your device, doesn't have control over third-party websites or their privacy practices, so be cautious when sharing your location with a website.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Third Parties. We may share your information with third parties, including social media platforms and advertising partners, to allow them to market their products or services to you. This may include sharing your name, email address, user ID, and other identifiers. We may also share your information with third parties for other purposes, such as to provide you with targeted advertising or to improve our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Third Parties. We may share your information with third parties, including social media platforms and advertising partners, to allow them to market their products or services to you. This may include sharing your name, email address, user ID, and other identifiers. We may also share your information with third parties for other purposes, such as to provide you with targeted advertising or to improve our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Third Parties. We may share your information with third parties, including social media platforms and advertising partners, to allow them to market their products or services to you. This may include sharing your name, email address, user ID, and other identifiers. We may also share your information with third parties for other purposes, such as to provide you with targeted advertising or to improve our Services.",
+      "lang": "English"
+    }
+  ]
+}

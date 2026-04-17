@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "j. Third party SDK provider: Achat may integrate third-party SDKs or similar applications. By using these third-party services on our platform, you agree to the direct collection and processing of your information through embedded code or widgets. These third parties follow their own privacy policies for data handling, separate from ours. Nevertheless, we carefully assess these third parties' qualifications and enforce legal, secure, and compliant standards. To better protect your information, we recommend reviewing the privacy policies of each third-party provider before using their SDKs. If you detect any potential risks associated with these SDKs or applications, please cease use immediately and contact us. For a detailed list of third-party SDKs, please refer to: https://www.achat.live/third-party-sdk-list",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "j. Third party SDK provider: Achat may integrate third-party SDKs or similar applications. By using these third-party services on our platform, you agree to the direct collection and processing of your information through embedded code or widgets. These third parties follow their own privacy policies for data handling, separate from ours. Nevertheless, we carefully assess these third parties' qualifications and enforce legal, secure, and compliant standards. To better protect your information, we recommend reviewing the privacy policies of each third-party provider before using their SDKs. If you detect any potential risks associated with these SDKs or applications, please cease use immediately and contact us. For a detailed list of third-party SDKs, please refer to: https://www.achat.live/third-party-sdk-list",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "j. Third party SDK provider: Achat may integrate third-party SDKs or similar applications. By using these third-party services on our platform, you agree to the direct collection and processing of your information through embedded code or widgets. These third parties follow their own privacy policies for data handling, separate from ours. Nevertheless, we carefully assess these third parties' qualifications and enforce legal, secure, and compliant standards. To better protect your information, we recommend reviewing the privacy policies of each third-party provider before using their SDKs. If you detect any potential risks associated with these SDKs or applications, please cease use immediately and contact us. For a detailed list of third-party SDKs, please refer to: https://www.achat.live/third-party-sdk-list",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "j. Third party SDK provider: Achat may integrate third-party SDKs or similar applications. By using these third-party services on our platform, you agree to the direct collection and processing of your information through embedded code or widgets. These third parties follow their own privacy policies for data handling, separate from ours. Nevertheless, we carefully assess these third parties' qualifications and enforce legal, secure, and compliant standards. To better protect your information, we recommend reviewing the privacy policies of each third-party provider before using their SDKs. If you detect any potential risks associated with these SDKs or applications, please cease use immediately and contact us. For a detailed list of third-party SDKs, please refer to: https://www.achat.live/third-party-sdk-list",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+Introduction
+This privacy statement describes how we use data collected from our personalized news
+applications (including Apex News, Apex Football, Opera News, and others, collectively the
+"Software") as well as related websites and other services. Some of the data we collect may be
+considered "personal data" under applicable law. The exact categories of data we collect, why we
+collect it, what we do with it, and your choices depend on the Software or service you use, as is
+described in more detail below.
+---
+Personalized News Content
+Our Software's core function is to provide you with news content tailored to your interests. In order
+to do this, we collect various data about you and your interests through the Software. We process
+advertising IDs, device data (phone manufacturer and model, device preferences) and information
+about your general location (specific to approximately which city you live in). If you choose to
+provide it to us by filling in your profile, we may also collect your phone contact list, and personal
+information like gender, education, occupation, birthdate, and other profile-related information.
+Additionally, if you log in with Facebook, we may receive your Facebook friends list. We retain this
+data for up to four years. We also collect data about which articles, videos, or other content you
+view, share, like, or respond to, which we retain for up to one year. We process this data based on
+your consent. If you would like to withdraw your consent, you may do so through the "Settings"
+menu.
+---
+Personalized Ads
+As described in our terms of service, our Software is ad-supported. Ads help us keep the lights on
+and continue to provide free products for our users. In order to provide our news services and
+serve targeted ads, we collect data such as advertising IDs from your device and your general
+location, as well as data you submit to us if you choose to create or update a user profile (such as
+your name, birth date, phone contact list, occupation, etc.). These targeted ads are provided by
+our monetization partners. We process this data based on your consent. You can always adjust
+your personalized ad choices or withdraw your consent in the application's "Settings" menu.
+---
+News Account
+You do not need to sign in or create an account in order to use the Software or view content.
+However, our Software may prompt you to create a News account. The News account allows you
+to comment on articles, share content, follow other news users, and receive notifications about
+topics you follow. You do not have to create a News account to use the Software or view content.
+You may add data such as username, gender, birthdate, education, and occupation, as well as a
+publicly visible bio, to the News account. We use this information to provide you with a more
+personalized experience. If you log in using Facebook or Twitter, we will receive your account
+username and profile picture from those sites. If you log in using your phone number, your phone
+number will be used as your display name. We will retain data you upload to your account for as
+long as your account is active. We process this data based on your consent. You can modify your
+account, withdraw consent, and delete data by navigating to your application's settings menu.
+---
+Usage Statistics and Crash Reports
+When you install an Opera application, a random installation ID is generated. We collect this
+identifier, as well as device ID, hardware specifications (model, release date, etc.), operating
+system, environment configuration, and feature usage data. We use this data to improve our
+products and services. For example, we may use it to analyze how our users interact with our
+applications, or to determine the effectiveness of promotional campaigns, or to detect and debug
+problems. We have no practical way to use this information to identify you personally. We may
+retain this usage data for up to three years. You can opt out of reporting Usage statistics through
+the application settings menu and disabling Usage statistics at the bottom of the settings menu.
+---
+If an application crashes, we collect a log that includes some information about your browser's
+version, your operating system, platform and some memory data related to the crash. We collect
+this data with the sole purpose of improving our products and services. Crash logs are kept for 6
+months.
+---
+If you visit our websites, we may collect your IP address to help diagnose problems with our
+servers and to administer our websites. We use IP addresses solely for this purpose and may keep
+website access logs up to six months. Some websites may also set third party cookies. We only set
+third party cookies if you agree to such processing. You may block third party cookies at any time
+through your browser settings.
+---
+Hype
+Depending on where you live, you may be able to access the Hype messaging service within the
+Software. If you choose to use Hype, you will be prompted to provide your phone number, which is
+required to operate the service. You will also be asked if you agree to give Hype access to your
+contacts, in order to connect with other Hype users. You do not need to share your contacts in
+order to use the service. We will retain your phone number and contacts for as long as you use
+Hype. Additionally, you also have the option to upload profile information at your discretion,
+including a user name, avatar, and your friends. We use the data you provide in order to provide
+the service. If you delete your account, or go inactive for a while, we will retain this data for a
+short period of time in case you decide to reactivate.
+---
+Third Parties
+Our applications and services include third-party technology or code, some of which may use
+your data in different ways. When such third-party technologies use previously collected data,
+they typically act as data processors for us. When they collect data on their own, they typically
+act as independent data controllers.
+Opera News Apps and Services use all or some of the following:
+• Appsflyer
+• Google LLC
+• Google AdMob
+Ο Firebase
+• FCM Messaging
+Ο
+Firebase Crashstats
+•
+Huawei
+• Hi Analytics (Huawei-only Huawei preload)
+•
+• Huawei HMS PushKit
+Meta Platforms Inc.
+• Facebook Audience Network
+Ο
+Facebook RTB
+Facebook Login & AccountKit
+Ο
+Facebook Analytics
+• Oppo Push
+•
+• Xiaomi Inc.
+MiPush

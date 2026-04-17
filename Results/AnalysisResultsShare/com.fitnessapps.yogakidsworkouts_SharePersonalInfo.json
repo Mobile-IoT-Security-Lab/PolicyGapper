@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you or your children use our apps and services, certain information may be collected automatically. This helps us improve our apps and make them more engaging for kids and other users. We also use this data for internal purposes, such as enhancing our services. We might use Firebase (https://firebase.google.com), a third-party analytics service provided by Google. Firebase automatically collects the following technical and non-personal data:\n• IP address;\n• Number of sessions;\n•\nSession duration;\n• Retention metrics;\n• Events triggered during app usage;\n•\nInstall source; and\n•\nIDFA (Identifier for Advertisers).",
+      "lang": "English"
+    }
+  ]
+}

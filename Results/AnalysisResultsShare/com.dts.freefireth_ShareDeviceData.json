@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "8.2 We may, among other things, disclose your gaming history and/or disclosing records showing which games were viewed or accessed by which IP addresses. We may also share statistical and demographic information about our users and their use of the Services with advertising partners and third party suppliers of advertisements, remarketing, and other programming subject to applicable law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "8.2 We may, among other things, disclose your gaming history and/or disclosing records showing which games were viewed or accessed by which IP addresses. We may also share statistical and demographic information about our users and their use of the Services with advertising partners and third party suppliers of advertisements, remarketing, and other programming subject to applicable law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "5.1 We or our authorized service providers and advertising partners may from time to time implement \"cookies\" or other features to allow us or third parties to collect or share information in connection with your use of the Services. These features help us improve our Site, Games and the Services we offer, help us offer new services and features, and/or enable us and our advertising partners serve more relevant content to you, including through remarketing, subject to applicable law. \"Cookies\" are identifiers we transfer to your computer or mobile device that record data about your computer or device, how and when the Services or websites are used or visited, by how many people and other activity within our Site and Games. We may link cookie information to personal data. Cookies may also link to information regarding what items you have selected for purchase, pages you have viewed, or games you have played. Depending on the relevant Services, this information may be used to keep track of your shopping cart, to deliver content specific to your interests, to enable us or our third party advertising partners to serve advertisements through the Services or on sites across the internet, and to monitor usage of the Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "10.2 We, and third parties, may from time to time make software applications downloads available for your use on or through the Services. These applications may separately access, and allow a third party to view, your identifiable information, such as your name, your User ID, your device's IP Address or other information such as what game you are playing during any given session, and any cookies that you may previously have installed or that were installed for you by a third party software application or website. Additionally, these applications may ask you to provide additional information directly to third parties. Third party products or services provided through these applications are not owned or controlled by Garena. You are encouraged to read the terms and other policies published by such third parties on their websites or otherwise.",
+      "lang": "English"
+    }
+  ]
+}

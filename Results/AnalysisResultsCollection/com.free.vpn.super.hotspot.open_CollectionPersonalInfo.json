@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Account information. Our services generally do not require you to create an account to use them. If you decide to create an account, we may collect information such as your name, username, email address, and password.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Transactional information. If you purchase services from us, you will need to provide payment information to make your purchase. We use industry-standard payment processor services to handle payment information. Such services are subject to separate terms and privacy policies. We also collect information about what you are purchasing, such as billing address, subscription types, currency, purchase dates, and amounts.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "All the categories of personal information we collect come from the following categories of sources:\n• You (either via voluntary submission or automatic collection, such as when you use our services)\n• Third parties (such as service providers, other users or marketing partners who may refer you to our services)\n• Identifiers (such as name, account username, email address)\n• Commercial information (such as transaction data)\n• Financial and transactional data (such as credit card or other payment instrument details)\n• Internet or other network or device activity (such as app usage and interactions with our services)\n• Unique device ID\n• Geolocation information (e.g., your city and state based on IP address)\n• Demographics and statistical information (such as age and gender)\n• Customer service information (e.g. support requests)\n• Survey responses and other research information\n• Other information that identifies or can be reasonably associated with you",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Transactional information. If you purchase services from us, you will need to provide payment information to make your purchase. We use industry-standard payment processor services to handle payment information. Such services are subject to separate terms and privacy policies. We also collect information about what you are purchasing, such as billing address, subscription types, currency, purchase dates, and amounts.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transactional information. If you purchase services from us, you will need to provide payment information to make your purchase. We use industry-standard payment processor services to handle payment information. Such services are subject to separate terms and privacy policies. We also collect information about what you are purchasing, such as billing address, subscription types, currency, purchase dates, and amounts.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• We also use IP addresses to approximate your location by calculating an imprecise latitude and longitude. Once we have ascertained your location, we discard the IP address. We use your approximate location to provide you with better service (e.g. to connect you to the nearest and fastest VPN server) and more relevant personalized advertising if you are a free user who has not opted out of such advertising.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+This Privacy Policy details how your personal information is collected, processed,
+used, and shared by Smart media internet marketing Itd. (referred to as "Walli”,
+"the Company”, “we”, “us”, or “our”) when you use the Walli mobile application (the
+"Application"). Smart media internet marketing ltd. is the legal entity acting as the
+data controller for the personal information collected and processed through Walli.
+
+---
+1. What Information Does the
+Application Obtain and How Is It
+Used?
+
+---
+The Application obtains information you provide and collects certain information
+automatically.
+
+---
+a) User Provided Information
+
+The Application obtains the information you provide when you download, register,
+and use the Application. This may include:
+
+• When you register with us and use the Application: your full name, email
+address, username, password, website, links to your social networks
+(Instagram, Facebook, Twitter, etc.), and your biography.
+• Transaction-related information: such as when you respond to any offers, or
+download or use applications from us (Note: If you make purchases, payment
+information is typically processed by the app store provider, e.g., Google Play
+or Apple App Store, subject to their privacy policies).
+• Information you provide when you contact us for help.
+• Information you enter into our system when using the Application: such as
+likes, downloads, artists you follow, and content you interact with.
+
+---
+b) Automatically Collected Information
+
+In addition, the Application may collect the following information automatically:
+
+• Device Information: The type of mobile device you use, your mobile device's
+unique device ID (or other identifiers), IP address, mobile operating system,
+device model, and manufacturer.
+• Advertising Identifier: Your mobile device's Advertising ID (e.g., IDFA for iOS,
+GAID for Android).
+• Network Information: The type of mobile Internet browsers you use, the name
+of your mobile operator or ISP, network connection type (Wi-Fi, cellular), and
+network status.
+• Usage Information: Information about the way you use the Application, such
+as features used, content viewed, wallpapers applied, time spent in the app,
+interactions with advertisements, language, and time zone settings.
+
+---
+• Location Information (if enabled): When you use the Application, we may use
+GPS technology (or other similar technology) to determine your current
+location (e.g., city level) to personalize content, display relevant
+advertisements, and improve our services. You can control location access via
+your device settings or within the Application settings (see Section 8 below).
+• Crash Logs and Diagnostics: Information related to crashes and performance
+issues, including device state information, unique device identifiers, and
+location information, to help diagnose and fix problems. This data is often
+processed via third-party services like Firebase Crashlytics.
+• Other Information from Permissions: Depending on the permissions you
+grant, the app may access features like storage (to save wallpapers), network
+state, ability to set wallpapers, receive notifications, etc., solely to enable
+Application functionality. We collect information related to the use of these
+permissions to operate and improve the Application.
+
+---
+We use this automatically collected information to understand user behavior,
+personalize the content (including ads) and features you see, improve the
+Application's performance and stability, provide relevant services, and for security
+purposes.
+
+---
+c) Access to Third-Party Service Accounts
+
+The Application may allow you to connect your account with third-party services
+like Facebook or Google for login or feature integration. These services require
+explicit authorization from you.
+
+• Access to Facebook account (Meta Platforms, Inc.): Allows connection with
+your Facebook account. Permissions asked: Email and Public Profile. Place of
+processing: US (and potentially other locations as per Meta's policy).
+• Access to Google account (Google LLC): Allows connection with your Google
+account. Permissions asked: Email and Profile ID. Place of processing: US
+(and potentially other locations as per Google's policy).
+
+---
+Users are responsible for any Personal Data of third parties obtained, published, or
+shared through this Application and confirm that they have the third party's
+consent to provide the Data to us.
+
+---
+Our legal basis for collecting and using the personal information described above
+will depend on the personal information concerned and the specific context in
+which we collect it.
+
+---
+• Consent (Article 6(1)(a) GDPR): We rely on your consent for certain
+processing activities, such as:
+  o Sharing your Advertising ID with ad network partners for personalized
+    advertising.
+  o Collecting precise location data for location-based features or ads.
+  o Sending marketing communications (where opt-in consent is required).
+You have the right to withdraw your consent at any time (see Section 9).
+
+---
+Specifically, our servers may be located in various regions, and our third-party
+service providers and partners operate around the world. This means that when we
+collect your personal information, we may process it in any of these countries.
+
+---
+We will retain Automatically Collected information for up to 24 months in an
+identifiable form, and thereafter may store it in aggregate or anonymized form for
+analytical purposes.
+
+---
+• Right to Know (Specific to certain jurisdictions like California): The right to
+know what personal information is collected, used, shared, or sold.
+
+---
+You have several options to control or limit the collection and use of your
+information:
+
+• Uninstall the Application: You can stop all information collection by the
+Application easily by uninstalling it using the standard uninstall process for
+your device.
+• Location Services: You can disable the collection of precise location data by
+turning off location services for the Walli application in your mobile device
+settings.
+
+---
+If a parent or guardian becomes aware that their child has
+provided us with information without their consent, they should contact us at
+privacy@tap.pm. We will delete such information from our files within a reasonable
+time.
+
+---
+We are concerned about safeguarding the confidentiality of your information. We
+provide physical, electronic, and procedural safeguards to protect the information
+we process and maintain. For example, we limit access to this information to
+authorized employees and contractors who need to know that information to
+operate, develop, or improve our Application.
+
+---
+• Right to Know: You have the right to request information about the categories
+and specific pieces of personal information we have collected about you, the
+categories of sources, the purposes for collecting, selling, or sharing, and the
+categories of third parties to whom we disclose information.
+
+---
+• Right to Limit Use of Sensitive Personal Information: If we collect sensitive
+personal information (as defined by CCPA), you may have the right to limit its
+use. We primarily use precise location data (if enabled) for relevant
+ads/content, which you can control via device settings.
+
+---
+• Categories of Personal Information Collected/Disclosed: In the preceding 12
+months, we may have collected and disclosed for a business purpose (and
+potentially "sold” or “shared” for advertising purposes) the categories of
+personal information listed in Section 1 (Identifiers like name, email, device ID,
+IP address, Advertising ID; Internet or other electronic network activity
+information like usage data; Geolocation data; Commercial information like
+transaction history if applicable; Profile data like preferences).
+
+---
+• Categories of Sources: Directly from you, automatically from your device, from
+third-party services you connect.
+
+---
+• Rights: You have the right to (1) confirm whether we are processing your
+personal data and access it, (2) correct inaccuracies, (3) delete your personal
+data, (4) obtain a copy of your data (data portability), and (5) opt-out of
+processing for targeted advertising, the sale of personal data, or profiling in
+furtherance of decisions that produce legal or similarly significant effects.

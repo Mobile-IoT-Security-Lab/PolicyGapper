@@ -1,0 +1,93 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.",
+      "justification": "The privacy policy states that user-generated content is collected. For example, the policy says: 'Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.'",
+      "how_to_fix": "Declare the collection of 'Other User generated content' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Online activity data, such as pages or screens you viewed, how long you spent on a page or screen, navigation paths between pages or screens, information about your activity on a page or screen, access times, and duration of access.",
+      "justification": "The privacy policy states that user activity data is collected. For example, the policy says: 'Online activity data, such as pages or screens you viewed...'",
+      "how_to_fix": "Declare the collection of 'Other actions' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Device data, such as your computer or mobile device operating system type and version number, manufacturer and model, browser type, screen resolution, IP address, the website you visited before browsing to our website, and general location information such as city, state or geographic area.",
+      "justification": "The privacy policy states that web browsing history is collected. For example, the policy says it collects information about 'the website you visited before browsing to our website'.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• Profile data, such as your username and password that you set to establish an online account with us, and other information you include in your account profile.",
+      "justification": "The privacy policy states that user identifiers are collected. For example, the policy says it collects 'Profile data, such as your username...'.",
+      "how_to_fix": "Declare the collection of 'User IDs' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Precise geolocation data, such as when you authorize our mobile application to access your location.",
+      "justification": "The privacy policy explicitly states that precise location is collected from the mobile app. For example, the policy says: 'Precise geolocation data, such as when you authorize our mobile application to access your location.'",
+      "how_to_fix": "Declare the collection of 'Precise location' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Communications data that we exchange when you communicate with us, such as chat transcripts when you request support, contact us with questions or feedback or complete our surveys.",
+      "justification": "The privacy policy states that in-app messages are collected. For example, the policy says it collects 'Communications data... such as chat transcripts'.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.",
+      "justification": "The privacy policy states that photos are collected as part of user content. For example, the policy says it collects 'Content data, such... images...'.",
+      "how_to_fix": "Declare the collection of 'Photos' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.",
+      "justification": "The privacy policy states that videos are collected as part of user content. For example, the policy says it collects 'Content data, such... video...'.",
+      "how_to_fix": "Declare the collection of 'Videos' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.",
+      "justification": "The privacy policy states that audio is collected as part of user content. For example, the policy says it collects 'Content data, such... audio...'.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.",
+      "justification": "The privacy policy states that audio files are collected as part of user content. For example, the policy says it collects 'Content data, such... audio...'.",
+      "how_to_fix": "Declare the collection of 'Music files' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.",
+      "justification": "The privacy policy states that audio files are collected as part of user content. For example, the policy says it collects 'Content data, such... audio...'.",
+      "how_to_fix": "Declare the collection of 'Other audio files' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Communications data that we exchange when you communicate with us, such as chat transcripts when you request support, contact us with questions or feedback or complete our surveys.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The data_type 'Emails' is not explicitly mentioned in the provided policy_reference. The policy refers to 'chat transcripts' and general 'communications' but does not specify email as a method.",
+      "how_to_fix": "This declaration was removed because the policy text does not sufficiently support the collection of this data type. No action is needed unless your app does collect this data, in which case your privacy policy should be updated to explicitly mention it.",
+      "lang": "en"
+    }
+  ]
+}
+```

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "How We Use Personal Data(i.e., the\npurpose)1\nAdvertising(on and off our services)\nPersonal Data Categories Collected\nCommunications Activity\nDemographics (veteran status only)\nJob Interests & Activity\nProfile Information\nService Activity\nSecurity & Login Information\nSource of Personal Data Categories\nUsers, Affiliates, Customers, Third-Party Data\nProviders\nWho We Share Personal Data Categories\nWith2\nAdvertising Partners & Ad Exchanges\nAnalytics & Optimization Providers\nAffiliates\nCustomer Relationship Management & Sales\nTransaction / Optimization Providers\nInformation Technology Service & Support\nProviders\nPersonal Data Categories \"Sold\"3 &\n\"Shared\"4\nWhere personal data is used for behavioral or\ntargeted advertising, and is shared with Advertising\nPartners & Ad Exchanges and Affiliates\nProfile Information, Communications Activity, Job\nInterests & Activity, Profile Information, Service\nActivity, Security & Login Information",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "How We Use Personal Data(i.e., the\npurpose)1\nAdvertising(on and off our services)\nPersonal Data Categories Collected\nCommunications Activity\nDemographics (veteran status only)\nJob Interests & Activity\nProfile Information\nService Activity\nSecurity & Login Information\nSource of Personal Data Categories\nUsers, Affiliates, Customers, Third-Party Data\nProviders\nWho We Share Personal Data Categories\nWith2\nAdvertising Partners & Ad Exchanges\nAnalytics & Optimization Providers\nAffiliates\nCustomer Relationship Management & Sales\nTransaction / Optimization Providers\nInformation Technology Service & Support\nProviders\nPersonal Data Categories \"Sold\"3 &\n\"Shared\"4\nWhere personal data is used for behavioral or\ntargeted advertising, and is shared with Advertising\nPartners & Ad Exchanges and Affiliates\nProfile Information, Communications Activity, Job\nInterests & Activity, Profile Information, Service\nActivity, Security & Login Information",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "How We Use Personal Data(i.e., the\npurpose)1\nCommunications With, Or Initiated By, Third\nParties\nPersonal Data Categories Collected\nCommunications Activity\nSource of Personal Data Categories\nUsers, Customers\nWho We Share Personal Data Categories\nWith2\nCustomer Relationship Management & Sales\nTransaction / Optimization Providers\nEmail & Email Delivery Providers\nMarketing and Prospecting Providers",
+      "lang": "English"
+    }
+  ]
+}

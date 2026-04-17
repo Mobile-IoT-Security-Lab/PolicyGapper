@@ -1,0 +1,70 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "When you purchase a product, download software or an update, register for company or product newsletters, contact us or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number and email address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you purchase a product, download software or an update, register for company or product newsletters, contact us or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number and email address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may collect information such as occupation, language, zip code, area code, unique device identifier, referrer URL, location and the time zone where a BeLight Software product is used so that we can better understand customer behavior and improve our products, services and advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "When you purchase a product, download software or an update, register for company or product newsletters, contact us or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number and email address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you purchase a product, download software or an update, register for company or product newsletters, contact us or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number and email address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions and policies. Because this information is important to your interaction with BeLight Software, you may not opt out of receiving these communications.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may collect information such as occupation, language, zip code, area code, unique device identifier, referrer URL, location and the time zone where a BeLight Software product is used so that we can better understand customer behavior and improve our products, services and advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "When you use some BeLight Software products, services or applications, or post on a BeLight Software forum, chat room or social networking service, the personal information and content you share is visible to other users and can be read, collected or used by them. In these instances, you are responsible for the personal information you choose to share or submit.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "YouTube API Services are used for uploading walkthrough videos to YouTube:\nhttps://www.youtube.com/t/terms",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Trimble 3D Warehouse service is used to provide users access to online storage of 3D models:\nhttp://www.trimble.com/privacy.aspx",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may collect information such as occupation, language, zip code, area code, unique device identifier, referrer URL, location and the time zone where a BeLight Software product is used so that we can better understand customer behavior and improve our products, services and advertising.",
+      "reason_of_removal": "Inconsistent: The policy reference mentions 'zip code', 'area code', and 'time zone', which are examples of Approximate location, not Precise location.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "When you purchase a product, download software or an update, register for company or product newsletters, contact us or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number and email address.",
+      "reason_of_removal": "Inconsistent: The policy states collection of 'email address' (Personal info), not the content of 'Emails' (User content).",
+      "lang": "en"
+    }
+  ]
+}
+```

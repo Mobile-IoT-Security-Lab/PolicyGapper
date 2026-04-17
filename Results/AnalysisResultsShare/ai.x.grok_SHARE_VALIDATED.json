@@ -1,0 +1,142 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "•\nTechnical Data: Technical data includes information such as your IP address, device type, country\nfrom which you access, analytics information, browser type and version, browser plug-in types\nand versions, and operating system. This may also include information about your use of the\nService and how you interact with the Service, including the types of content you view or engage\nwith, the features you use, pages you view and your Grok conversation history.\n•\n•\n•\nHow we may collect it: Automatically when you use or interact with the Service, including\nthrough analytics tools.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to communicate with you; to ensure the security and integrity of our Service; for\nlegal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; and to our related companies.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "•\nUser Content: You may provide personal information in prompts and other content you input,\nsuch as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service\n(\"Output”), including responses Grok generates, are based on your Input (together, \"User\nContent\"). If you include personal information in Inputs you provide to the Service, this\ninformation may be reproduced in the Output.\n•\nHow we may collect it: Directly from you.\n•\n•\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; and to our related companies.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "•\nFeedback Data: Where applicable, we will collect your Feedback (as defined in our Terms of\nService). This might arise if, for example, in a given conversation with Grok, you rate an Output\nusing the thumbs-up/thumbs-down icons.\n•\nHow we may collect it: Directly from you.\n•\n•\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; and to our related companies.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "•\nAccount Data: If you create an account with us, we collect your name, contact information,\naccount credentials, and date of birth. Also, to access certain features of the Service, we will\ncollect your date of birth before you may proceed. If you log into our Service using a third-party\nservice, such as X, Google, or Apple, that third-party will send your information to us at your\ndirection. For example, if you use your existing X credentials to log into an xAl mobile app or\nwebsite, you may choose to direct X to share the following information with us: your X public\nprofile (including profile image), X username, numeric X ID, your date of birth, whether you are\nsubscribed to X Premium, and your Grok on X conversation history.\n•\n•\nHow we may collect it: Directly from you or from a third-party (ex., X, Google, or Apple).\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to communicate with you; to ensure the security and integrity of our Service; for\nlegal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; to our related companies; and to third-parties with which you\ninteract or share information.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "•\nCommunication Data: If you communicate with us, such as by email, by our webpages, or on\nsocial media sites, we may collect personal information that you submit to us including your name,\nuser name, email address, any other information you voluntarily choose to provide us, and the\ncontents of messages you send.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to communicate with you; to ensure the security and integrity of our Service; for\nlegal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; and to our related companies.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "•\nAccount Data: If you create an account with us, we collect your name, contact information,\naccount credentials, and date of birth. Also, to access certain features of the Service, we will\ncollect your date of birth before you may proceed. If you log into our Service using a third-party\nservice, such as X, Google, or Apple, that third-party will send your information to us at your\ndirection. For example, if you use your existing X credentials to log into an xAl mobile app or\nwebsite, you may choose to direct X to share the following information with us: your X public\nprofile (including profile image), X username, numeric X ID, your date of birth, whether you are\nsubscribed to X Premium, and your Grok on X conversation history.\n•\n•\nHow we may collect it: Directly from you or from a third-party (ex., X, Google, or Apple).\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to communicate with you; to ensure the security and integrity of our Service; for\nlegal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; to our related companies; and to third-parties with which you\ninteract or share information.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "•\nLocation data: We may determine the general area from which your device accesses our Services\nbased on information like its IP address. Also, you may choose to provide more precise\nlocation information, such as your address, your device's GPS location, or location information\nfrom third-party services that you use. We obtain your consent prior to collecting precise\nlocation information.\n•\n•\n•\nHow we may collect it: Directly from you or from third-party services that you use.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to communicate with you; to ensure the security and integrity of our Service; for\nlegal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; to our related companies; and to third-parties with which you\ninteract or share information.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "•\nAccount Data: If you create an account with us, we collect your name, contact information,\naccount credentials, and date of birth. Also, to access certain features of the Service, we will\ncollect your date of birth before you may proceed. If you log into our Service using a third-party\nservice, such as X, Google, or Apple, that third-party will send your information to us at your\ndirection. For example, if you use your existing X credentials to log into an xAl mobile app or\nwebsite, you may choose to direct X to share the following information with us: your X public\nprofile (including profile image), X username, numeric X ID, your date of birth, whether you are\nsubscribed to X Premium, and your Grok on X conversation history.\n•\n•\nHow we may collect it: Directly from you or from a third-party (ex., X, Google, or Apple).\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to communicate with you; to ensure the security and integrity of our Service; for\nlegal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; to our related companies; and to third-parties with which you\ninteract or share information.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "•\nPayment Data: Where payment is required to access the Service (ex., if you are paying for a\nsubscription), we may have a third-party process payment information, such as payment card\ninformation, and details regarding your transactions for us.\n•\n•\n•\nHow we may collect it: Through a third-party processor (ex., Apple App Store, Google Play\nStore, or Stripe).\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to ensure the security and integrity of our Service; for\nlegal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, and for legal purposes.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers'. This is considered 'sharing' under Google Play's policy and is not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "•\nPayment Data: Where payment is required to access the Service (ex., if you are paying for a\nsubscription), we may have a third-party process payment information, such as payment card\ninformation, and details regarding your transactions for us.\n•\n•\n•\nHow we may collect it: Through a third-party processor (ex., Apple App Store, Google Play\nStore, or Stripe).\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to ensure the security and integrity of our Service; for\nlegal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, and for legal purposes.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers'. This is considered 'sharing' under Google Play's policy and is not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "•\nLocation data: We may determine the general area from which your device accesses our Services\nbased on information like its IP address. Also, you may choose to provide more precise\nlocation information, such as your address, your device's GPS location, or location information\nfrom third-party services that you use. We obtain your consent prior to collecting precise\nlocation information.\n•\n•\n•\nHow we may collect it: Directly from you or from third-party services that you use.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to communicate with you; to ensure the security and integrity of our Service; for\nlegal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; to our related companies; and to third-parties with which you\ninteract or share information.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "•\nLocation data: We may determine the general area from which your device accesses our Services\nbased on information like its IP address. Also, you may choose to provide more precise\nlocation information, such as your address, your device's GPS location, or location information\nfrom third-party services that you use. We obtain your consent prior to collecting precise\nlocation information.\n•\n•\n•\nHow we may collect it: Directly from you or from third-party services that you use.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and\nassistance in relation to our Service; to develop and improve our Service and to conduct\nresearch; to communicate with you; to ensure the security and integrity of our Service; for\nlegal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business\ntransfers, for legal purposes; to our related companies; and to third-parties with which you\ninteract or share information.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "justification": "The privacy policy states data may be disclosed 'in connection with business transfers' and 'to our related companies'. These are considered 'sharing' under Google Play's policy and are not covered by exemptions.",
+      "how_to_fix": "Declare that this data type is 'shared' with third parties in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "Communication Data: If you communicate with us, such as by email, by our webpages, or on social media sites, we may collect personal information that you submit to us including your name, user name, email address, any other information you voluntarily choose to provide us, and the contents of messages you send.\n•\n•\n•\nHow we may collect it: Directly from you.\nHow we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.\nHow we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+      "reason_of_removal": "Duplicate entry",
+      "justification": "This entry is an exact duplicate of another entry with the same data_type and policy_reference.",
+      "how_to_fix": "Consolidate declarations to avoid redundant entries.",
+      "lang": "English"
+    }
+  ]
+}
+```

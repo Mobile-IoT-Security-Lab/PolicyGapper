@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use AdMob, Facebook Audience Network, Applovin, Mopub, Pangle, Unity, LiftOff to display ad banners and other advertisements possibly based on your interests. AdMob, Facebook Audience Network, Applovin, Mopub, Pangle, Unity, LiftOff may or may not use cookies to identify users and they may use the behavioural retargeting technique, i.e. displaying ads tailored to your interests and behaviour, including those detected outside our app. For example, if you've previously visited e-shop selling shoes you might see more ads promoting shoes or shoe shops. The app does not knowingly collect or use personal data from children under the age of 17.",
+      "lang": "English"
+    }
+  ]
+}

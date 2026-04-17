@@ -1,0 +1,164 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Advertising Partners. We may share the information we collect with the Advertising Partners so that they can supply relevant ads or content on their own websites or applications or on other third-party websites or applications and analyse and inform of the content or the ads the users see or with which they interact. The Advertising Partners may also collect information, or we may also provide information to the Advertising Partners. The information may include data about how the users interact with the Services, the information the users provide through an interactive ad, the content and ads the users have seen, the users' activities on other websites and online services, and the physical places the users have visited.",
+      "justification": "The privacy policy states that data about how users interact with the services is shared with 'Advertising Partners' for their own purposes ('on their own websites or applications'). This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare that 'App interactions' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that user-provided information like 'written questions or comments' is shared with 'Advertising Partners'. This is a form of user-generated content, and its sharing with a third party for advertising purposes must be declared.",
+      "how_to_fix": "Declare that 'Other user-generated content' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy indicates that information provided by the user through actions like sending questions or comments is shared with 'Advertising Partners'. This constitutes 'sharing' of 'Other actions' data and must be declared.",
+      "how_to_fix": "Declare that 'Other actions' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Advertising Partners. We may share the information we collect with the Advertising Partners so that they can supply relevant ads or content on their own websites or applications or on other third-party websites or applications and analyse and inform of the content or the ads the users see or with which they interact. The Advertising Partners may also collect information, or we may also provide information to the Advertising Partners. The information may include data about how the users interact with the Services, the information the users provide through an interactive ad, the content and ads the users have seen, the users' activities on other websites and online services, and the physical places the users have visited.",
+      "justification": "The privacy policy explicitly states that data about 'users' activities on other websites and online services' is shared with 'Advertising Partners'. This is 'Web browsing history', and its sharing must be declared.",
+      "how_to_fix": "Declare that 'Web browsing history' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include a user's Name, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Name' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include an Email address, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Email address' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include an Address, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Address' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include a Phone number, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Phone number' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include Race and ethnicity, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Race and ethnicity' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include Political or religious beliefs, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Political or religious beliefs' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include Sexual orientation, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Sexual orientation' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments is shared with 'Advertising Partners'. This constitutes 'sharing' of 'Other info' and must be declared.",
+      "how_to_fix": "Declare that 'Other info' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include User payment info, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'User payment info' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include Purchase history, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Purchase history' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include a Credit score, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Credit score' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include Other financial info, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Other financial info' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include Health info, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Health info' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'the information you provide' in questions or comments, which could include Fitness info, is shared with 'Advertising Partners'. This constitutes 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Fitness info' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'written questions or comments' provided by the user are shared with 'Advertising Partners'. This is a form of in-app messaging, and its sharing must be declared.",
+      "how_to_fix": "Declare that 'Other in-app messages' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "justification": "The policy states that 'oral... questions or comments' provided by the user are shared with 'Advertising Partners'. This is a form of voice recording, and its sharing must be declared.",
+      "how_to_fix": "Declare that 'Voice or sound recordings' is shared with third parties for 'Advertising or marketing' purposes in the app's Data Safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We also have certain third parties who use data collection technologies to track use of the Services, analyse it and notify data related to them. They are also responsible for analysing and optimising the performance of the Services (\"Analytical Partners\").",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes 'Analytical Partners' as being 'responsible for analysing and optimising the performance of the Services.' This is a typical service provider function, processing data on the developer's behalf, which is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed. This is correctly excluded from 'sharing' declarations as it falls under the service provider exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We also have certain third parties who use data collection technologies to track use of the Services, analyse it and notify data related to them. They are also responsible for analysing and optimising the performance of the Services (\"Analytical Partners\").",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy describes 'Analytical Partners' as being 'responsible for analysing and optimising the performance of the Services.' This is a typical service provider function, processing data on the developer's behalf, which is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No action needed. This is correctly excluded from 'sharing' declarations as it falls under the service provider exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

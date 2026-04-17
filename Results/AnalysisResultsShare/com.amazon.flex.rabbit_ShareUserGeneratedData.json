@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "Shippers, customers, and delivery recipients: We may share some personal information, such as your first name, photo, and location data, with shippers, customers, or other delivery recipients when you are providing Services to protect your safety and the safety of others, to enable shippers, customers, or other delivery recipients to see the status and location of their shipment or delivery, and to improve the shipping or delivery experience.",
+      "lang": "English"
+    }
+  ]
+}

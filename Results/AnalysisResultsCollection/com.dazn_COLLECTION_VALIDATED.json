@@ -1,0 +1,72 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We may also collect information about other software on your device (such as other streaming media services, for the purposes of content discovery and rights management).",
+      "justification": "The privacy policy states that information about other software on the device is collected.",
+      "how_to_fix": "Declare 'Installed apps' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We collect and use information about you for the purposes described below. This includes: your name, email address, payment details, and telephone number; information about your use of the DAZN Service; information from the device you use to access the DAZN Service; information from third parties; and information you provide to us in your communications with us.",
+      "justification": "The privacy policy explicitly lists 'telephone number' as collected information.",
+      "how_to_fix": "Declare 'Phone number' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may also collect other information you provide to us, such as when you set your preferences in your account, or provide information through your participation in surveys, or when you provide your date of birth and/or gender.",
+      "justification": "The privacy policy states that other user-provided information like 'date of birth' and 'gender' is collected.",
+      "how_to_fix": "Declare 'Other personal info' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may collect information about your credit and debit card details, bank account details, and other payment details to process your payments for the DAZN Service. We use this information to process your payments and to prevent fraud.",
+      "justification": "The privacy policy states that payment details like 'credit and debit card details' are collected to process payments.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We collect information about your use of the DAZN Service, such as the type of content you view, what you watch, when you watch it, and your interactions with the user interface and customer service. This also includes information about your account activity, such as login and logout times, and your purchase history.",
+      "justification": "The privacy policy explicitly lists 'purchase history' as collected information.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "We may collect information about your credit and debit card details, bank account details, and other payment details to process your payments for the DAZN Service. We use this information to process your payments and to prevent fraud.",
+      "justification": "The privacy policy states that financial information like 'bank account details' is collected.",
+      "how_to_fix": "Declare 'Other financial info' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may collect information about your location from your device or from your network. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content.",
+      "justification": "The privacy policy states that location information is collected from the user's device or network.",
+      "how_to_fix": "Declare 'Approximate location' or 'Precise location' as a collected data type in the Google Play Console Data Safety section, depending on the granularity.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Information you give us. This is information about you that you give us by: filling in forms on the DAZN Service or on our websites (our “Sites”); registering to use our DAZN Service; using the DAZN Service; entering a competition, promotion or survey; and/or corresponding with us by phone, e-mail or otherwise. This information may include your name, address, e-mail address, phone number, date of birth, debit/credit card information, other payment and financial information, personal description and/or photograph.",
+      "justification": "The privacy policy states that user-provided information may include a 'photograph'.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may also receive information from others. For example: Our partners may provide us with information, such as information about their products and services. Our service providers (such as our payment services providers, or customer support providers) may provide us with information, such as updated payment method information or customer service-related information. We may also receive information from our partners, or from other third parties, such as joint marketing partners, and from third party social media platforms. We may also receive information about you from third party data providers, such as demographic data, interest-based data and internet browsing behaviour.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states this data is received from 'third party data providers', not collected directly by the app from the user's device. This is exempt from declaration as 'collected' data.",
+      "how_to_fix": "No action required. This data type does not need to be declared as 'collected' by the app.",
+      "lang": "English"
+    }
+  ]
+}
+```

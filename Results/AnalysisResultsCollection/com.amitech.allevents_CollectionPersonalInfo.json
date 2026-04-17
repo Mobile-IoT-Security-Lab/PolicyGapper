@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "a.Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, social security number, passport number, or other similar identifiers;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "a.Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, social security number, passport number, or other similar identifiers;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Your contact information, such as Your full name, email address, telephone number, and other Sign-up information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "c.Protected classification characteristics under California or federal law such as gender and date of birth;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "b.Signature, physical characteristics or description, telephone number, bank account number, credit card number, debit card number or any other financial information, medical information or health insurance information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Creation of a User account, verification of a User's identity and help a User log into Our Platform. <br> • To communicate to a User any updates on the Platform which may be of interest to such User. <br> • To market events based on your interests, city of preference, etc. <br> • To Process any transaction during the sale of the tickets.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "b.Signature, physical characteristics or description, telephone number, bank account number, credit card number, debit card number or any other financial information, medical information or health insurance information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "b.Signature, physical characteristics or description, telephone number, bank account number, credit card number, debit card number or any other financial information, medical information or health insurance information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "e.Geolocation data;",
+      "lang": "English"
+    }
+  ]
+}

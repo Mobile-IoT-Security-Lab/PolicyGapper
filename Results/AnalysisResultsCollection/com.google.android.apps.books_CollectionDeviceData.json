@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "If you're using an Android device with Google apps, your device periodically contacts Google servers to provide information about your device and connection to our services. This information includes things like your device type and carrier name, crash reports, which apps you've installed, and, depending on your device settings, other information about how you're using your Android device.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:\n•\nTerms you search for\n\n---\n•\n•\n•\n•\n•\n•\n•\nVideos you watch\nViews and interactions with content and ads\nVoice and audio information\nPurchase activity\nPeople with whom you communicate or share content\nActivity on third-party sites and apps that use our services\nChrome browsing history you've synced with your Google Account",
+      "lang": "English"
+    }
+  ]
+}

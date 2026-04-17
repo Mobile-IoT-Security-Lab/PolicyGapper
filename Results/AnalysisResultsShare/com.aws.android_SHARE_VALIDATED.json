@@ -1,0 +1,28 @@
+```json
+{
+    "omitted_declarations": [
+        {
+            "data_type": "In-app search history",
+            "policy_reference": "Personal Information We Collect, Process, Disclose, and Sell/Share We collect the categories of personal information identified in the chart below. As further set forth in the chart below, we have disclosed and sold or shared personal information about certain states residents to third parties for business or commercial purposes.",
+            "justification": "The policy states that personal information is 'disclosed and sold or shared' with 'third parties for business or commercial purposes'. This constitutes 'sharing' under the Google Play Data Safety policy and is not covered by exemptions like service provider use.",
+            "how_to_fix": "Declare in your Data Safety form that 'In-app search history' is shared with third parties.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Web browsing history",
+            "policy_reference": "Personal Information We Collect, Process, Disclose, and Sell/Share We collect the categories of personal information identified in the chart below. As further set forth in the chart below, we have disclosed and sold or shared personal information about certain states residents to third parties for business or commercial purposes.",
+            "justification": "The policy states that personal information is 'disclosed and sold or shared' with 'third parties for business or commercial purposes'. This constitutes 'sharing' under the Google Play Data Safety policy and is not covered by exemptions like service provider use.",
+            "how_to_fix": "Declare in your Data Safety form that 'Web browsing history' is shared with third parties.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Other info",
+            "policy_reference": "Personal Information We Collect, Process, Disclose, and Sell/Share\nWe collect the categories of personal information identified in the chart below. As further set forth in the chart below, we have disclosed and sold or shared personal information about certain states residents to third parties for business or commercial purposes.",
+            "justification": "The policy states that personal information is 'disclosed and sold or shared' with 'third parties for business or commercial purposes'. This constitutes 'sharing' under the Google Play Data Safety policy and is not covered by exemptions like service provider use.",
+            "how_to_fix": "Declare in your Data Safety form that 'Other info' is shared with third parties.",
+            "lang": "English"
+        }
+    ],
+    "excluded_declarations": []
+}
+```

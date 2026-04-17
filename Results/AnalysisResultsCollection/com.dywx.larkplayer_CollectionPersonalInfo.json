@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Subscription Information. We will collect [information] when you subscribe to our VIP services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Subscription Information. We will collect [information] when you subscribe to our VIP services.",
+      "lang": "English"
+    }
+  ]
+}

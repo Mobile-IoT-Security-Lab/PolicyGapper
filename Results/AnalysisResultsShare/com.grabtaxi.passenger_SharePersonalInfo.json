@@ -1,0 +1,59 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "if you are using our GrabFood or GrabMart service, we may share your Personal Data with our delivery partner and selected merchant-partner, including your name, contact details, order information and drop off location;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "For business-tagged transactions, Grab discloses to Client information such as the Authorized User's identifiers and detailed booking information to facilitate corporate billing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "if you are using our GrabFood or GrabMart service, we may share your Personal Data with our delivery partner and selected merchant-partner, including your name, contact details, order information and drop off location;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "if you are using our GrabFood or GrabMart service, we may share your Personal Data with our delivery partner and selected merchant-partner, including your name, contact details, order information and drop off location;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Grab offers a variety of Services, and may need to use some personal information provided by your parents or guardians via our Family Account feature. This information may include your username, contact number, birthdate and location. This helps us to keep you safe and share updates about our Services. In some cases, we may share your data with trusted third parties like Driver or Delivery-Partners to complete your bookings. When we do, we will make sure your information is protected as outlined in this Privacy Notice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may provide Personal Data to our vendors, consultants, marketing partners, research firms, and other service providers or business partners. This includes:\n• payment processors and facilitators;\n• debt collectors;\n• credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit reporting organisations;\n• background check and anti-money laundering service providers;\n• risk intelligence and fraud assessment providers;\n• cloud storage providers;\n• document storage and management providers;\n• advertising and marketing partners and platform providers;\n• data analytics providers;\n• research partners, including those performing surveys or research projects in partnership with Grab or on Grab's\nbehalf;\n• educational and training institute partners;\n• fleet and merchant partners;\n•\ninsurance and financing partners;\n• third party intermediaries involved in the managed investment of funds, such as brokers, asset managers, and\ncustodians;\n• service providers who perform identity verification services; and\n• vehicle solutions partners, vendors or third-party vehicle suppliers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "if you are using our GrabFood or GrabMart service, we may share your Personal Data with our delivery partner and selected merchant-partner, including your name, contact details, order information and drop off location;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "We may provide Personal Data to our vendors, consultants, marketing partners, research firms, and other service providers or business partners. This includes:\n• payment processors and facilitators;\n• debt collectors;\n• credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit reporting organisations;\n• background check and anti-money laundering service providers;\n• risk intelligence and fraud assessment providers;\n• cloud storage providers;\n• document storage and management providers;\n• advertising and marketing partners and platform providers;\n• data analytics providers;\n• research partners, including those performing surveys or research projects in partnership with Grab or on Grab's\nbehalf;\n• educational and training institute partners;\n• fleet and merchant partners;\n•\ninsurance and financing partners;\n• third party intermediaries involved in the managed investment of funds, such as brokers, asset managers, and\ncustodians;\n• service providers who perform identity verification services; and\n• vehicle solutions partners, vendors or third-party vehicle suppliers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "We may provide Personal Data to our vendors, consultants, marketing partners, research firms, and other service providers or business partners. This includes:\n• payment processors and facilitators;\n• debt collectors;\n• credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit reporting organisations;\n• background check and anti-money laundering service providers;\n• risk intelligence and fraud assessment providers;\n• cloud storage providers;\n• document storage and management providers;\n• advertising and marketing partners and platform providers;\n• data analytics providers;\n• research partners, including those performing surveys or research projects in partnership with Grab or on Grab's\nbehalf;\n• educational and training institute partners;\n• fleet and merchant partners;\n•\ninsurance and financing partners;\n• third party intermediaries involved in the managed investment of funds, such as brokers, asset managers, and\ncustodians;\n• service providers who perform identity verification services; and\n• vehicle solutions partners, vendors or third-party vehicle suppliers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "if you are a passenger, we may share your username, pick-up and drop-off locations with our driver partner fulfilling your service request;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "if you are a passenger, we may share your username, pick-up and drop-off locations with our driver partner fulfilling your service request;",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. Click to see company privacy policies and opt-out choices:\nApple: http://www.apple.com/privacy/ (https://www.google.com/url?\nq=http://www.apple.com/privacy/&sa=D&ust=1589796013988000&usg=AFQjCNFYdTqEaUYTz3Ngopz2KPsCG14AjA)\nGoogle: https://www.google.com/intl/en/policies/privacy/ (https://www.google.com/url?\nq=https://www.google.com/intl/en/policies/privacy/&sa=D&ust=1589796013989000&usg=AFQjCNHFsZHfV4wIIxoyXdy9-\n9vGJqqmqQ)",
+      "justification": "The policy states that 'Ad companies' collect data linked to the device for advertising purposes across different sites and applications. This constitutes sharing with third parties and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare in the Data Safety section that 'Device or other IDs' are shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "To customize our services for you, we and our partners may collect, use, and share precise location data, including the real-time geographic location of your computer or device. This location data is collected anonymously in a form that does not personally identify you and is used only to provide and improve our service. We may obtain your consent on your first use of the service.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is shared with partners 'only to provide and improve our service.' This indicates the partners are acting as service providers on the developer's behalf, which is an exemption from 'sharing' disclosure under Google Play policy.",
+      "how_to_fix": "No action needed. This sharing does not need to be declared as it falls under the service provider exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

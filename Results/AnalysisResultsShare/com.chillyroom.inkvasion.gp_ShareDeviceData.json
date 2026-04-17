@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may use third-party Service Providers to monitor and analyze the use of our Service.\nFirebase\nFirebase is analytics service provided by Google Inc.\nYou may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy?hl=en",
+      "lang": "English"
+    }
+  ]
+}

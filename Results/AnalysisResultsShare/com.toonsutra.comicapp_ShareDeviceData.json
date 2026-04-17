@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Google, as a third-party vendor, uses Cookies to serve advertisements to Users on our Website, App, and Platform. Google uses first-party Cookies, such as Google Analytics Cookies, to compile data regarding User interactions with ad impressions and other ad service functions as they relate to our Platform. We currently use Google Analytics to collect and process certain Website and App usage data. To learn more about Google Analytics and how to opt-out, please visit https://policies.google.com/privacy/google-partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Google, as a third-party vendor, uses Cookies to serve advertisements to Users on our Website, App, and Platform. Google uses first-party Cookies, such as Google Analytics Cookies, to compile data regarding User interactions with ad impressions and other ad service functions as they relate to our Platform. We currently use Google Analytics to collect and process certain Website and App usage data. To learn more about Google Analytics and how to opt-out, please visit https://policies.google.com/privacy/google-partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Google, as a third-party vendor, uses Cookies to serve advertisements to Users on our Website, App, and Platform. Google uses first-party Cookies, such as Google Analytics Cookies, to compile data regarding User interactions with ad impressions and other ad service functions as they relate to our Platform. We currently use Google Analytics to collect and process certain Website and App usage data. To learn more about Google Analytics and how to opt-out, please visit https://policies.google.com/privacy/google-partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Google, as a third-party vendor, uses Cookies to serve advertisements to Users on our Website, App, and Platform. Google uses first-party Cookies, such as Google Analytics Cookies, to compile data regarding User interactions with ad impressions and other ad service functions as they relate to our Platform. We currently use Google Analytics to collect and process certain Website and App usage data. To learn more about Google Analytics and how to opt-out, please visit https://policies.google.com/privacy/google-partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Google, as a third-party vendor, uses Cookies to serve advertisements to Users on our Website, App, and Platform. Google uses first-party Cookies, such as Google Analytics Cookies, to compile data regarding User interactions with ad impressions and other ad service functions as they relate to our Platform. We currently use Google Analytics to collect and process certain Website and App usage data. To learn more about Google Analytics and how to opt-out, please visit https://policies.google.com/privacy/google-partners.",
+      "lang": "English"
+    }
+  ]
+}

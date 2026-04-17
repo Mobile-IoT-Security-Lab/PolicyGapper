@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Log data whereby our web servers keep log files that record data each time a device accesses those servers and the nature of each access, including originating IP-addresses and your activity in the Services (such as the date/time stamps associated with your usage, participation in Kahoot! games, results, pages and files viewed, searches and other actions you take (for example, which features you used)). We may also access metadata and other information associated with files that you upload into our Services; and",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Usage data which is collected whenever you interact with our Service. This may include the dates and times you access the Services and your browsing activities (such as what portions of the Service you used). We also collect information regarding the performance of the Services, including metrics related to the deliverability of emails and other communications you send through the Service. If you are using our App, we may collect information about how often you use the App and other performance data. This information allows us to improve the content and operation of the Services and facilitate research and analysis of the Services;",
+      "lang": "English"
+    }
+  ]
+}

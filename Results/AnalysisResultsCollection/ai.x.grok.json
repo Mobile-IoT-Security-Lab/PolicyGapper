@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "Location data: We may determine the general area from which your device accesses our Services based on information like its IP address. Also, you may choose to provide more precise location information, such as your address, your device's GPS location, or location information from third-party services that you use. We obtain your consent prior to collecting precise location information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Account Data: If you create an account with us, we collect your name, contact information, account credentials, and date of birth. Also, to access certain features of the Service, we will collect your date of birth before you may proceed. If you log into our Service using a third-party service, such as X, Google, or Apple, that third-party will send your information to us at your direction. For example, if you use your existing X credentials to log into an xAl mobile app or website, you may choose to direct X to share the following information with us: your X public profile (including profile image), X username, numeric X ID, your date of birth, whether you are subscribed to X Premium, and your Grok on X conversation history.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Data: Where payment is required to access the Service (ex., if you are paying for a subscription), we may have a third-party process payment information, such as payment card information, and details regarding your transactions for us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Payment Data: Where payment is required to access the Service (ex., if you are paying for a subscription), we may have a third-party process payment information, such as payment card information, and details regarding your transactions for us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location data: We may determine the general area from which your device accesses our Services based on information like its IP address. Also, you may choose to provide more precise location information, such as your address, your device's GPS location, or location information from third-party services that you use. We obtain your consent prior to collecting precise location information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Communication Data: If you communicate with us, such as by email, by our webpages, or on social media sites, we may collect personal information that you submit to us including your name, user name, email address, any other information you voluntarily choose to provide us, and the contents of messages you send.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "User Content: You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (“Input”). Outputs of the Service (\"Output”), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.",
+      "lang": "en"
+    }
+  ]
+}

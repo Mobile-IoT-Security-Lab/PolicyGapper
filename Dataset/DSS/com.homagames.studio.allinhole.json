@@ -1,0 +1,143 @@
+{
+  "sharedData": [
+    {
+      "data": "Crash logs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Email address",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Approximate location",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "Location"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "App interactions",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": 0,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "App activity"
+    }
+  ],
+  "collectedData": [
+    {
+      "data": "Crash logs",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Diagnostics",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Other app performance data",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "App info and performance"
+    },
+    {
+      "data": "Purchase history",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "Financial info"
+    },
+    {
+      "data": "Email address",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "User IDs",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "Personal info"
+    },
+    {
+      "data": "Device or other IDs",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "Device or other IDs"
+    },
+    {
+      "data": "App interactions",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "In-app search history",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "App activity"
+    },
+    {
+      "data": "Other actions",
+      "optional": 1,
+      "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing",
+      "type": "App activity"
+    }
+  ],
+  "securityPractices": [
+    {
+      "practice": "Data isn’t encrypted",
+      "description": "Your data isn’t transferred over a secure connection"
+    },
+    {
+      "practice": "Data can’t be deleted",
+      "description": "The developer doesn’t provide a way for you to request that your data be deleted"
+    }
+  ],
+  "privacyPolicyUrl": "https://www.homagames.com/privacy"
+}

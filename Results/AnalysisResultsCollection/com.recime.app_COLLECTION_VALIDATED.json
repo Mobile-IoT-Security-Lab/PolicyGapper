@@ -1,0 +1,109 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "• Your name and contact details, including email, address, mailing address, and mobile\nnumber",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• Your name and contact details, including email, address, mailing address, and mobile\nnumber",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "• Identification details, such as date of birth",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• How you make payments to us in any transaction, such as payment details. This could\ninclude bank account and debit or credit card details",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Your transaction history with us",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "• Information you voluntarily provide about yourself, such as food preferences, lifestyle\nchoices, cuisine choices, nutritional goals and preferences, dietary information, and\ngrocery shopping patterns",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may use publicly available sources to approximate your\ngeographic region and Internet Service Provider based on your IP address.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Your device's geo-location when accessing the Service",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "• Records of communications and dealings with you, such as emails, text, SMS, chat, telephone, and in-person communications",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "• Records of communications and dealings with you, such as emails, text, SMS, chat, telephone, and in-person communications",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• Records of communications and dealings with you, such as emails, text, SMS, chat, telephone, and in-person communications",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "If you visit our website, we may collect information on your use of the website, such as pages visited, links clicked, text entered, and mouse or cursor movements, as well as information more commonly collected such as the referring URL, browser, device, operating system, and Internet Protocol (“IP”) address. We may use publicly available sources to approximate your geographic region and Internet Service Provider based on your IP address.",
+      "reason_of_removal": "Websites collection",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may collect information such as:\n• Usernames and passwords that you create to access the Service\n• Which functions and features you use and how you use them\n• Which pages you visit on our website\n• Device information, such as the model and ID of the device you use, operating system, telephone number, and mobile phone network\n• Server log information, such as details of how you used the service, IP address, hardware settings, browser type, browser language, the date and time of your use, and referral URL\n• Information that may uniquely identify your browser or your account\n• Location information\n• Information relating to your visits to other websites where we have a relation with the other website\n• Shopping lists you create, recipe interactions, and grocery transactions you may complete via the Service",
+      "reason_of_removal": "Websites collection",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Web Beacons. Certain sections of the Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit us to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).",
+      "reason_of_removal": "Websites collection",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    }
+  ]
+}
+```

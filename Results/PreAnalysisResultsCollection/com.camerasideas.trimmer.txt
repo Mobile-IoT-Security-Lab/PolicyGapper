@@ -1,0 +1,111 @@
+1. How We Collect and Use Your Personal Information
+•
+Provide you with products and/or services:
+1) Storage permissions: When you use the video/photo editing feature, we need permission to access your local media to
+select videos or images. When you save the finished video, we need the storage permission of the local media, in order to
+save the video and change the save path; This permission is only for editing and saving videos or photos. We will not obtain
+any video or photos from your device, nor will we modify or delete the content in your local media storage.
+2) Microphone permission: When you use the audio recording feature, we need microphone permission to record audio;
+This permission is only used for audio recording. At the same time, the audio material will be stored in the YouCut draft box
+and local device. If you delete it in the draft box or local media storage, YouCut will not store the related audio material.
+3) Cloud processing permission: When you choose to use Al features, we need this permission to upload your videos or
+images to our sever for processing, and then return the processed videos or images to you. We will delete the videos or
+images after the processed content is returned to you.
+• Customer service and after-sales service:When you send feedback via email or provide us with an error report,we will obtain
+your username, email address, and email content, so that we can communicate with you about problems encountered
+during the use of our products and services.
+---
+2. How We Use Cookies
+Cookies are text files created on your device by the web server. In order to provide a better service, we may use related technologies
+to send one or more cookies to your device to collect and store information about the use of this product. The specific usage is as
+follows:
+• Help you simplify the visit experience
+Cookies can help you call up information during subsequent visits, simplify the process of recording and filling in personal
+information, and allow you to have a more relaxed visit experience.
+---
+[PAGE BREAK]
+•
+Personalized display
+Admob, AppLovin as advertisers of YouCut, may collect information generated during your use of our products and
+services, extract your preferences, and use them to show you ads that are more in line with your individual needs. We will
+use technical means to anonymize the data, and the anonymized information will not be able to identify the subject. If you
+are not interested in personalized display, you can choose to turn off the display of personalized content through
+"Settings"-"Ad Personalization". Please note that you may still see ads after turning off this option, but the relevance of ads
+will be reduced.
+---
+3. Why We Collect Your Personal Information
+•
+In response to your request;
+•
+In order to communicate with you;
+•
+In order to improve our service;
+•
+Other purposes related to our business;
+•
+To comply with laws and regulations.
+---
+Directory of third-party SDKs that may be accessed
+Category
+Function
+Types of information collected
+Firebase SDK
+Data statistical analysis service
+Application software list
+Admob Ads SDK
+Get and display ads
+Unique device identification code
+(Android ID)
+AppLovin Ads SDK
+Get and display ads
+Device location information, unique
+device identification code (Android I
+D)
+Giphy SDK
+Get Gif picture
+Network status, unique device ident
+ification code(Android ID)
+---
+[PAGE BREAK]
+1) Provide you with information we collect about you;
+---
+2) Device permissions. You may revoke any permissions you have granted to us before, such as permission to access your
+camera or camera roll;
+---
+6. How We Store and Protect Your Personal Information
+•
+In order to improve your experience, YouCut will store the contents of the draft box locally on the device until you actively
+delete it. This is only for your convenience and will not be used in any other way.
+---
+7. To California Residents
+Under the applicable California Consumer Privacy Act ("CCPA"), you have certain rights with respect to your personal information
+collected by us for business purposes. Please note that this section applies only to people who live in California. Your rights include:
+1) The right to know about the personal information a business collects about you how it is used and shared;
+2) The right to delete the information collected from you;
+---
+8. Το EU Users
+Under the applicable General Data Protection Regulation ("GDPR"), you have certain rights with respect to your personal information
+collected by us for business purposes. Please note that this section applies only to people who live in EU. Your rights include:
+1) The right to obtain certain information about our processing, including: the purposes of processing the data; the
+categories of personal data processed; the recipients who receive your personal data; how long we store your personal data;
+2) The right to receive a copy of any personal data which we process about you, in a commonly used and machine-readable
+format;
+---
+[PAGE BREAK]
+9. Children Under 13
+YouCut mainly provides its products and services to people over 13 years old (or the prescribed age in your country/region). If you
+are the guardian of a child user under the age of 13 (or the prescribed age in your country/region), we remind you to properly
+perform guardianship duties to protect the safety of children's personal information. In addition, please guide and help the children
+under your supervision during the use of our products and services. If you are a child user under the age of 13 (or the prescribed
+age in your country/region), please read this policy carefully with the assistance and assistance of your parents or guardians
+before using our products and services, and use our services or provide us with information with the consent of your parents or
+guardians,. If we learn that our products have accidentally collected children's personal information, we will delete the relevant
+information as soon as possible.
+---
+11. Changes to This Privacy Policy
+According to YouCut's operational needs or the promulgation of relevant laws and regulations, we need to update or revise our
+privacy policy from time to time. These updates and amendments will also form part of this policy and have the same effect as this
+policy. When there are major changes to the terms of this policy, for example, changes of the purpose, method, and scope of
+personal information collection, we will remind you by means of pop-up notifications so that you can keep abreast of any changes
+made to this policy. Please note that your use or continued use of the products and/or services we provide means that you fully
+understand and agree to the entire content of this privacy policy (including updated versions).

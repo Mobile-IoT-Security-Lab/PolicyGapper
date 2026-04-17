@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Our applications and services include third-party technology or code, some of which may use your data in different ways. When such third-party technologies use previously collected data, they typically act as data processors for us. When they collect data on their own, they typically act as independent data controllers.\nOpera News Apps and Services use all or some of the following:\n• Appsflyer\n• Google LLC\n• Google AdMob\nΟ Firebase\n• FCM Messaging\nΟ\nFirebase Crashstats\n•\nHuawei\n• Hi Analytics (Huawei-only Huawei preload)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Our applications and services include third-party technology or code, some of which may use your data in different ways. When such third-party technologies use previously collected data, they typically act as data processors for us. When they collect data on their own, they typically act as independent data controllers.\nOpera News Apps and Services use all or some of the following:\n• Appsflyer\n• Google LLC\n• Google AdMob\nΟ Firebase\n• FCM Messaging\nΟ\nFirebase Crashstats\n•\nHuawei\n• Hi Analytics (Huawei-only Huawei preload)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Our applications and services include third-party technology or code, some of which may use your data in different ways. When such third-party technologies use previously collected data, they typically act as data processors for us. When they collect data on their own, they typically act as independent data controllers.\nOpera News Apps and Services use all or some of the following:\n• Appsflyer\n• Google LLC\n• Google AdMob\nΟ Firebase\n• FCM Messaging\nΟ\nFirebase Crashstats\n•\nHuawei\n• Hi Analytics (Huawei-only Huawei preload)",
+      "lang": "English"
+    }
+  ]
+}

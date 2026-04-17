@@ -1,0 +1,70 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Internet or other electronic network activity information, such as browsing history, search history, operating system, and information regarding your interactions with our applications, or advertisements.",
+      "justification": "The policy states the collection of \"search history... regarding your interactions with our applications.\" This data is collected from the app and is not specified as being processed only on-device or end-to-end encrypted, thus requiring declaration.",
+      "how_to_fix": "Declare \"In-app search history\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you send us requests via our contact form or email, your details from the contact form or email, including the contact data you have provided there, will be stored for the purpose of processing your request and in the event of follow-up questions. Under no circumstances will we pass on this data without your consent. The legal basis for processing the data is our legitimate interest in responding to your request pursuant to Art. 6 para. 1 lit. f GDPR and, if applicable, Art. 6 para. 1 lit. b GDPR, provided that your request is aimed at concluding a contract.",
+      "justification": "The policy confirms that user communications via contact forms or email are stored off-device for processing. This qualifies as collected \"Other user-generated content.\"",
+      "how_to_fix": "Declare \"Other user-generated content\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Internet or other electronic network activity information, such as browsing history, search history, operating system, and information regarding your interactions with our applications, or advertisements.",
+      "justification": "The policy states the collection of \"browsing history... regarding your interactions with our applications.\" This data is collected from the app and sent off-device, requiring declaration.",
+      "how_to_fix": "Declare \"Web browsing history\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you interact with our services, we may collect the following types of personal data that can be used for and within the marketing identifiers:\n• Personal Identifiers: such as your email address or phone number, which may be encrypted and converted into an anonymized identifier.\n• Device Information: such as your browser type, IP address, and operating system.\n• Usage Data: such as your interactions with our apps.",
+      "justification": "The policy explicitly lists \"phone number\" under \"Personal Identifiers\" as data that may be collected and processed off-device.",
+      "how_to_fix": "Declare \"Phone number\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "If you want to use pay out functionalities, further details are required to process the payment. The processing of the payment is handled by external payment service providers. The user payment data is transferred to the payment provider.",
+      "justification": "The policy clearly states that \"user payment data is transferred to the payment provider\" to process payments. This is an explicit collection and off-device transfer of financial information.",
+      "how_to_fix": "Declare \"User payment info\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We will display your cashout history so that you can track and review all payouts from the past. This is based on our legitimate interest in providing our users with convenient solutions that enable them to understand how much money they have gained in the past (Art. 6 para 1 lit. f GDPR).",
+      "justification": "The policy describes storing and displaying \"cashout history,\" which is a form of financial or purchase history. This data is stored off-device to be accessible to the user.",
+      "how_to_fix": "Declare \"Purchase history\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "If you send us requests via our contact form or email, your details from the contact form or email, including the contact data you have provided there, will be stored for the purpose of processing your request and in the event of follow-up questions. Under no circumstances will we pass on this data without your consent. The legal basis for processing the data is our legitimate interest in responding to your request pursuant to Art. 6 para. 1 lit. f GDPR and, if applicable, Art. 6 para. 1 lit. b GDPR, provided that your request is aimed at concluding a contract.",
+      "justification": "The policy states that details from emails sent by the user are stored off-device for processing. This constitutes the collection of the \"Emails\" data type.",
+      "how_to_fix": "Declare \"Emails\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Data processing through making contact\nWe collect data when you contact us, for example via contact form or messenger services such as Facebook Messenger. The data collected depends on the details you provide, and the contact details you specify. It will be stored for the purpose of processing the inquiry and in the event of follow-up questions. Under no circumstances we will pass on the data to third parties without a legal basis in accordance with Art. 6 para 1 GDPR. The legal basis for the data processing is our legitimate interest in responding to your request pursuant to Art. 6 para. 1 lit. f GDPR and, if applicable, Art. 6 para. 1 lit. b GDPR if your request aimed at the conclusion or performance of a contract. Unless there are legal reasons, your data will be erased after final processing. We assume the processing is finalised, when the regarding circumstances are clarified.",
+      "justification": "The policy confirms that data from user communications via contact forms or messenger services is collected and stored off-device for processing, which falls under \"Other in-app messages.\"",
+      "how_to_fix": "Declare \"Other in-app messages\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "In order to use the cashout feature within the JustPlayApp for the first time, you will need to use your device's camera and software provided by FaceTec that is embedded within the JustPlayApp to scan your face and provide us with facial mapping data that is unique to you, as well as a photo of your face. We use the facial mapping data and photo for the following purposes:\n• Real person verification: To verify that you are a real person\n• Fraud prevention: To prevent unauthorized access and fraud. We compare the facial mapping data that you provide with facial mapping data that has been provided by other JustPlayApp users within the last four months to help prevent the same user from creating multiple accounts. We store the facial mapping data that you provide for four months and use your facial mapping data for this purpose as well.\n• Minor identification: To ensure that users are not underaged minors",
+      "justification": "The policy explicitly states that users must \"provide us with... a photo of your face\" from within the app. This photo is sent off-device for processing and storage, requiring declaration.",
+      "how_to_fix": "Declare \"Photos\" as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

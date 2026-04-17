@@ -1,0 +1,55 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "7.2 Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy describes a transfer of data as part of a business merger or acquisition. This is a legal transaction and not considered 'sharing' in the typical operational sense for the Data Safety section, as the new entity becomes the data controller.",
+      "how_to_fix": "No action needed. This type of data transfer as part of a merger or acquisition is not required to be disclosed as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "7.2 Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy describes a transfer of data as part of a business merger or acquisition. This is a legal transaction and not considered 'sharing' in the typical operational sense for the Data Safety section, as the new entity becomes the data controller.",
+      "how_to_fix": "No action needed. This type of data transfer as part of a merger or acquisition is not required to be disclosed as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "7.2 Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy describes a transfer of data as part of a business merger or acquisition. This is a legal transaction and not considered 'sharing' in the typical operational sense for the Data Safety section, as the new entity becomes the data controller.",
+      "how_to_fix": "No action needed. This type of data transfer as part of a merger or acquisition is not required to be disclosed as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "7.2 Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy describes a transfer of data as part of a business merger or acquisition. This is a legal transaction and not considered 'sharing' in the typical operational sense for the Data Safety section, as the new entity becomes the data controller.",
+      "how_to_fix": "No action needed. This type of data transfer as part of a merger or acquisition is not required to be disclosed as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "5.10 Third-party marketing. We will get your express opt-in consent before we share your personal data with any company outside the Car & Classic group of companies for marketing purposes.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy explicitly states that data is only shared for third-party marketing after receiving the user's express opt-in consent. Data sharing that is conditional on user consent does not need to be declared.",
+      "how_to_fix": "No action needed. Since sharing is based on explicit user consent, it is exempt from disclosure in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "5.10 Third-party marketing. We will get your express opt-in consent before we share your personal data with any company outside the Car & Classic group of companies for marketing purposes.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy explicitly states that data is only shared for third-party marketing after receiving the user's express opt-in consent. Data sharing that is conditional on user consent does not need to be declared.",
+      "how_to_fix": "No action needed. Since sharing is based on explicit user consent, it is exempt from disclosure in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

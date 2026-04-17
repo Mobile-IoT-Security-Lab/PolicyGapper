@@ -1,0 +1,9 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "We use the Replicate server to process facial data. We will save the user's facial image on our own Google server and also upload it to the Replicate server.",
+"lang": "en"
+}
+]
+}

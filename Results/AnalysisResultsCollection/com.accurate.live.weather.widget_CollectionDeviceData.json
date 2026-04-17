@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We use device-specific information (such as your hardware manufacturer & model, operating system version, screen size, CPU model, mobile network information and installed apps) to implement app features, provide our services, and improve the app performance for all our users.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We use the Replicate server to process facial data. We will save the user's facial image on our own Google server and also upload it to the Replicate server.",
+      "lang": "English"
+    }
+  ]
+}

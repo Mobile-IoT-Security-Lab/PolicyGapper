@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "User Content (e.g., photos and other materials) that you post through the Service. Communications between you and Skincare and Facecare. For example, we may send you Service-related emails (e.g., changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "User Content (e.g., photos and other materials) that you post through the Service. Communications between you and Skincare and Facecare. For example, we may send you Service-related emails (e.g., changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.",
+      "lang": "en"
+    }
+  ]
+}

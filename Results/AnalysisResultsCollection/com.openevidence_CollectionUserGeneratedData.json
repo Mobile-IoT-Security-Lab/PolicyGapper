@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "When you post a comment on a discussion board or other public forum, by default your username, specialty and degree will be displayed within the forum along with your comment. You may choose to display additional information in your public forum profile, including a photo, by adjusting your discussion profile settings. Information that you post within a public forum is public information and may be used by us and third parties, as further described in the OpenEvidence Platform Terms of Use.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "When you post a comment on a discussion board or other public forum, by default your username, specialty and degree will be displayed within the forum along with your comment. You may choose to display additional information in your public forum profile, including a photo, by adjusting your discussion profile settings. Information that you post within a public forum is public information and may be used by us and third parties, as further described in the OpenEvidence Platform Terms of Use.",
+"lang": "en"
+}
+]
+}

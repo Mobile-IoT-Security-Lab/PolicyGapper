@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Web beacons are used to track online movements of web users or to access cookies. They help us understand how users interact with our Platform by transmitting information back to us or our partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Web beacons are used to track online movements of web users or to access cookies. They help us understand how users interact with our Platform by transmitting information back to us or our partners.",
+      "lang": "English"
+    }
+  ]
+}

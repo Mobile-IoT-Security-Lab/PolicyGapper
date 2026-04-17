@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "• select participants for user interviews or testing conducted by us or other trusted partners; or",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Advertisers and advertising networks that require information to select and serve relevant adverts to you and others. We do not disclose Personal Information to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 users from France have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the Personal Information we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience. Read our Cookie Policy to learn more about opting out of personalized advertising.",
+      "lang": "English"
+    }
+  ]
+}

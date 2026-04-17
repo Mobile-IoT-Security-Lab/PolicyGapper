@@ -1,0 +1,59 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you want to create an account as a babysitter, we will process the following (special) personal data of yours:\n•\nFirst and last name;\n•\nE-mail address;\n• Password;\n• Address information;\n•\nPhone number;\n•\nBank account or credit card number;\n•\n•\n•\nIP-address;\nIdentity document verification data;\nGender;\n•\nDate of birth;\n•\n•\nUser-ID (when you link an Apple, Google, LinkedIn and/or Facebook account\nto this platform, and depending on the settings on your account, data from\nyour registrations with these parties);\nProfession;\n• Education/diplomas;\n•\nSkills;\n• Availability;\n•\nBank account number;\n•\n•\nID;\nCriminal register check (or local equivalent).",
+      "justification": "The privacy policy states that user-generated content is collected for babysitter accounts, including 'Profession', 'Education/diplomas', and 'Skills'.",
+      "how_to_fix": "Declare 'Other user-generated content' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use cookies to modify and measure advertisements. The following cookies are only applicable if you have clicked on an ad and have subsequently agreed to the use of cookies to collect information on and outside Babysits:\n•\nBing: to analyze the effectiveness of ads;\n• Facebook: to analyze the effectiveness of ads;\n•\nGoogle: to analyze the effectiveness of ads;",
+      "justification": "The privacy policy indicates the use of cookies from services like Bing, Facebook, and Google to 'analyze the effectiveness of ads' and 'collect information on and outside Babysits', which constitutes web browsing history collection for advertising purposes.",
+      "how_to_fix": "Declare 'Web browsing history' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment information. We ask families that want to pay and childcare providers that want to be paid to provide our payment provider with payment information, such as a bank account or credit card information to facilitate the processing of payments.",
+      "justification": "The privacy policy explicitly states that users provide 'payment information, such as a bank account or credit card information' to a payment provider to process payments.",
+      "how_to_fix": "Declare 'User payment info' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "If you want to create an account as a parent, we process the following (special) personal data of yours:\n•\nFirst and last name;\n•\nE-mail address;\n•\nPassword;\n• Address information;\n•\nPhone number;\n•\nBank account or credit card number (only the last 4 digits);\n• IP-address;\n•\n•\nIdentity document verification data;\nUser-ID (when you link an Apple, Google, LinkedIn and/or Facebook account\nto this platform, and depending on the settings on your account, data from\nyour registrations with these parties).",
+      "justification": "The privacy policy states that 'Address information' and 'IP-address' are collected during account creation. This data can be used to determine a user's approximate location.",
+      "how_to_fix": "Declare 'Approximate location' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Document control: We enable users to provide a Criminal Registration Check (or local equivalent). As soon as Babysits has assessed the document, it is removed from our servers.",
+      "justification": "The privacy policy mentions that users can provide a 'Criminal Registration Check (or local equivalent)' document, which is assessed on the company's servers.",
+      "how_to_fix": "Declare 'Files and docs' in the 'Data collected' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Cookies we make use of are:\n•\n•\n•\n•\n•\n•\nSession: to log in and for the use of our website;\nKeep me logged in: to remember login names;\nNew Relic: to use their service Server Monitoring;\nStripe: to process payments;\nGoogle Analytics: to analyze the effectiveness of the website;\nVWO: to analyze the effectiveness of the website.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The privacy policy mentions using Google Analytics and New Relic specifically 'to analyze the effectiveness of the website'. This indicates the data collection is from the website, not the mobile app.",
+      "how_to_fix": "If this data is also collected from the app, update the privacy policy to clarify. Otherwise, no declaration is needed for website-only collection.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Cookies we make use of are:\n•\n•\n•\n•\n•\n•\nSession: to log in and for the use of our website;\nKeep me logged in: to remember login names;\nNew Relic: to use their service Server Monitoring;\nStripe: to process payments;\nGoogle Analytics: to analyze the effectiveness of the website;\nVWO: to analyze the effectiveness of the website.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The privacy policy mentions using Google Analytics and New Relic specifically 'to analyze the effectiveness of the website'. This indicates the data collection is from the website, not the mobile app.",
+      "how_to_fix": "If this data is also collected from the app, update the privacy policy to clarify. Otherwise, no declaration is needed for website-only collection.",
+      "lang": "English"
+    }
+  ]
+}
+```

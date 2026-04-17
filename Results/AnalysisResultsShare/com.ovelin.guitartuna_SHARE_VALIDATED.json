@@ -1,0 +1,61 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Where you have opted-out of personalized advertising, these third-party SDKs may collect non-personal, contextual data including geolocation data, query terms and content on the Service. They may also collect your advertising ID solely for the purposes of frequency capping, aggregated ad reporting and combating fraud and abuse. Our ad partners may use your information for a number of purposes, including but not limited to, to personalize the ads that you see to make sure they are relevant to your own interests, diagnose problems and improve the SDK, understand the effectiveness of existing product features and plan new features, measure and improve the performance of ads as well as the effectiveness of the Service's features, as well as for analytical purposes.",
+      "justification": "The policy states that third-party ad partners collect \"query terms\" for advertising and analytical purposes. This constitutes sharing of \"In-app search history\" with third parties.",
+      "how_to_fix": "Declare in the Data Safety section that \"In-app search history\" is shared with third parties for \"Advertising or marketing\" and \"Analytics\" purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Where you have not opted-out of receiving personalized advertising, these third-party SDKs may collect your IP address, device ID, performance data, advertising data, non-user-related crash logs, data relating to how you interact with our Service, and other statistical and technical information in order to serve ads relevant to you.",
+      "justification": "The policy states that third-party SDKs collect \"data relating to how you interact with our Service\" to serve ads. This constitutes sharing of \"Other actions\" with third parties.",
+      "how_to_fix": "Declare in the Data Safety section that \"Other actions\" is shared with third parties for \"Advertising or marketing\" purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Where you have opted-out of personalized advertising, these third-party SDKs may collect non-personal, contextual data including geolocation data, query terms and content on the Service. They may also collect your advertising ID solely for the purposes of frequency capping, aggregated ad reporting and combating fraud and abuse. Our ad partners may use your information for a number of purposes, including but not limited to, to personalize the ads that you see to make sure they are relevant to your own interests, diagnose problems and improve the SDK, understand the effectiveness of existing product features and plan new features, measure and improve the performance of ads as well as the effectiveness of the Service's features, as well as for analytical purposes.",
+      "justification": "The policy states that third-party ad partners collect \"geolocation data\" for advertising and analytical purposes. This constitutes sharing of \"Approximate location\" with third parties.",
+      "how_to_fix": "Declare in the Data Safety section that \"Approximate location\" is shared with third parties for \"Advertising or marketing\" and \"Analytics\" purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Social Features. We have social features in our Services, which means that other users may, for example, see your profile data and your leaderboard position or other activities in the Services, and read or comments or questions you post in our forums.",
+      "reason_of_removal": "User-Initiated Sharing",
+      "justification": "The policy describes sharing profile data with other users as part of social features (leaderboards, forums). This is a user-initiated action and is exempt from being declared as 'sharing' with a third party.",
+      "how_to_fix": "No action is required for the Data Safety form regarding this specific sharing, as it is exempt. The developer should ensure they have a prominent in-app disclosure for these social features.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you choose to connect a third party account (for example a Facebook account) with our Services, we receive information from the third-party account provider (for example if you decide to sign up to our Service with Facebook login, we receive from Facebook your name, email address or other identifier to enable cross-device gameplay, profile picture, and friends information to connect you with your friends who already use our Services),",
+      "reason_of_removal": "Policy Describes Data Collection, Not Sharing",
+      "justification": "The policy reference describes the app receiving the user's email address from a third party (e.g., Facebook) when the user initiates a social login. It does not describe the app sharing this data with a third party.",
+      "how_to_fix": "The developer should declare the collection of \"Email address\" in their Data Safety form, but this specific policy text does not indicate a need to declare sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "If you choose to connect a third party account (for example a Facebook account) with our Services, we receive information from the third-party account provider (for example if you decide to sign up to our Service with Facebook login, we receive from Facebook your name, email address or other identifier to enable cross-device gameplay, profile picture, and friends information to connect you with your friends who already use our Services),",
+      "reason_of_removal": "Policy Describes Data Collection, Not Sharing",
+      "justification": "The policy reference describes the app receiving the user's profile picture from a third party (e.g., Facebook) when the user initiates a social login. It does not describe the app sharing photos with a third party.",
+      "how_to_fix": "The developer should declare the collection of \"Photos\" (for the profile picture) in their Data Safety form, but this specific policy text does not indicate a need to declare sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "If you choose to connect a third party account (for example a Facebook account) with our Services, we receive information from the third-party account provider (for example if you decide to sign up to our Service with Facebook login, we receive from Facebook your name, email address or other identifier to enable cross-device gameplay, profile picture, and friends information to connect you with your friends who already use our Services),",
+      "reason_of_removal": "Policy Describes Data Collection, Not Sharing",
+      "justification": "The policy reference describes the app receiving the user's friends list from a third party (e.g., Facebook) when the user initiates a social login. It does not describe the app sharing the user's contacts with a third party.",
+      "how_to_fix": "The developer should declare the collection of \"Contacts\" (for the friends list) in their Data Safety form, but this specific policy text does not indicate a need to declare sharing.",
+      "lang": "English"
+    }
+  ]
+}
+```

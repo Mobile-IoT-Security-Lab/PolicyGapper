@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Upon your prior consent we provide Facebook for these purposes with a customer list that includes your email address that you provided to us when you registered. When using the Custom Audience feature, your data is locally hashed on our system before we upload and pass it to Facebook (\"Hashed Data\"). Facebook is producing a Facebook User IDs out of this Hashed Data which is then matched to your Facebook data to be used by Facebook to create the Audience (see Facebook's data protection guidelines for more details). We basically use this feature to display interest-based advertisements to you when you visit the social network \"Facebook\" or other websites also using this tool.",
+      "lang": "English"
+    }
+  ]
+}

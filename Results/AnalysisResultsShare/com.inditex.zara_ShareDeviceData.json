@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    }
+  ]
+}

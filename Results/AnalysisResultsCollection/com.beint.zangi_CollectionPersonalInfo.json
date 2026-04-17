@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "3.1 User Profile name Name/ Surname/ Photo / Bio (Optional): Users can choose to skip adding their Name/ Surname/ Photo / Bio in their Profile and communicate absolutely anonymously, but when filled out, they are to be aware that the Name/ Surname/ Photo /Bio in Zangi Messenger Profile is shared with other Zangi users, who knows the user's Zangi Private number. How? When you call or message each other, Zangi shows the Name/ Surname / Photo of the sender in the conversation/ push/ call screen. All listed plus Bio are seen in the your profile when other users tap on your profile avatar in the app. None of the listed is shared to any 3rd party outside of the Zangi Messenger system except for legal compliance cases.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "investigation/ suppoеnа / Court order requesting to share any available in the system data, Zangi will share the following data of the suspected in the crime user:\nregistration date, account deletion date, last login date, name completed in the profile, Bio, Premium subscription status, subscription transaction ID, subscription/renewal date, device model, device platform and operating system version, push token, Device ID, which is the real Device ID for Android and system generated for iOS. If the user is an old user who has signed in via email/phone number, also the sign-in email /phone number will be provided. Users with Zangi virtual numbers starting with 10 DO NOT have any assigned email or phone number. Authority requests supported by duly served supporting documents must be sent to legal@zangi.com",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "3.3 Registration data and technical identifiers. On sign-up the app assigns the user a country code, push token and device ID, as well as gets your device type and / or model, operating system and Zangi app version. All listed in section 3.3 data is securely stored on servers and is used for technical and support purposes unless otherwise required by law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "investigation/ suppoеnа / Court order requesting to share any available in the system data, Zangi will share the following data of the suspected in the crime user:\nregistration date, account deletion date, last login date, name completed in the profile, Bio, Premium subscription status, subscription transaction ID, subscription/renewal date, device model, device platform and operating system version, push token, Device ID, which is the real Device ID for Android and system generated for iOS. If the user is an old user who has signed in via email/phone number, also the sign-in email /phone number will be provided. Users with Zangi virtual numbers starting with 10 DO NOT have any assigned email or phone number. Authority requests supported by duly served supporting documents must be sent to legal@zangi.com",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "investigation/ suppoеnа / Court order requesting to share any available in the system data, Zangi will share the following data of the suspected in the crime user:\nregistration date, account deletion date, last login date, name completed in the profile, Bio, Premium subscription status, subscription transaction ID, subscription/renewal date, device model, device platform and operating system version, push token, Device ID, which is the real Device ID for Android and system generated for iOS. If the user is an old user who has signed in via email/phone number, also the sign-in email /phone number will be provided. Users with Zangi virtual numbers starting with 10 DO NOT have any assigned email or phone number. Authority requests supported by duly served supporting documents must be sent to legal@zangi.com",
+      "lang": "English"
+    }
+  ]
+}

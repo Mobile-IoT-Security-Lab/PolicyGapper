@@ -1,0 +1,93 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "a third party that acquires all or substantially all of us or our business. We will disclose information to a third party in the event that we sell or buy any business or undergo a merger, in which case we will disclose your data to the prospective buyer of such business. We will also disclose information to a third party if we sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets.",
+      "justification": "The privacy policy states that user information, which can include photos, may be transferred to a third party in the event of a merger, acquisition, or sale of assets. This constitutes data sharing that must be declared.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Photos' are 'Shared' with third parties. For the purpose of sharing, select a reason like 'Other' and specify 'Business transfer, merger, or acquisition'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "a third party that acquires all or substantially all of us or our business. We will disclose information to a third party in the event that we sell or buy any business or undergo a merger, in which case we will disclose your data to the prospective buyer of such business. We will also disclose information to a third party if we sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets.",
+      "justification": "The privacy policy states that user information, which can include videos, may be transferred to a third party in the event of a merger, acquisition, or sale of assets. This constitutes data sharing that must be declared.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Videos' are 'Shared' with third parties. For the purpose of sharing, select a reason like 'Other' and specify 'Business transfer, merger, or acquisition'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "a third party that acquires all or substantially all of us or our business. We will disclose information to a third party in the event that we sell or buy any business or undergo a merger, in which case we will disclose your data to the prospective buyer of such business. We will also disclose information to a third party if we sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets.",
+      "justification": "The privacy policy states that user information, which can include files and docs, may be transferred to a third party in the event of a merger, acquisition, or sale of assets. This constitutes data sharing that must be declared.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Files and docs' are 'Shared' with third parties. For the purpose of sharing, select a reason like 'Other' and specify 'Business transfer, merger, or acquisition'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing data with other users as a core, user-initiated function of the app's social features. This is not considered 'sharing' with a third party under Google Play's policy and does not require a declaration.",
+      "how_to_fix": "No action is required. This type of data transfer, where the user directs the app to share information with another user, is exempt from the 'sharing' disclosure requirement.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing data with other users as a core, user-initiated function of the app's social features. This is not considered 'sharing' with a third party under Google Play's policy and does not require a declaration.",
+      "how_to_fix": "No action is required. This type of data transfer, where the user directs the app to share information with another user, is exempt from the 'sharing' disclosure requirement.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing data with other users as a core, user-initiated function of the app's social features. This is not considered 'sharing' with a third party under Google Play's policy and does not require a declaration.",
+      "how_to_fix": "No action is required. This type of data transfer, where the user directs the app to share information with another user, is exempt from the 'sharing' disclosure requirement.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing data with other users as a core, user-initiated function of the app's social features. This is not considered 'sharing' with a third party under Google Play's policy and does not require a declaration.",
+      "how_to_fix": "No action is required. This type of data transfer, where the user directs the app to share information with another user, is exempt from the 'sharing' disclosure requirement.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing data with other users as a core, user-initiated function of the app's social features. This is not considered 'sharing' with a third party under Google Play's policy and does not require a declaration.",
+      "how_to_fix": "No action is required. This type of data transfer, where the user directs the app to share information with another user, is exempt from the 'sharing' disclosure requirement.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing data with other users as a core, user-initiated function of the app's social features. This is not considered 'sharing' with a third party under Google Play's policy and does not require a declaration.",
+      "how_to_fix": "No action is required. This type of data transfer, where the user directs the app to share information with another user, is exempt from the 'sharing' disclosure requirement.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "other users. Social features are a core component of our Services. Other users may, for example, see your profile data, your activities on the Services and read the messages you have posted.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing data with other users as a core, user-initiated function of the app's social features. This is not considered 'sharing' with a third party under Google Play's policy and does not require a declaration.",
+      "how_to_fix": "No action is required. This type of data transfer, where the user directs the app to share information with another user, is exempt from the 'sharing' disclosure requirement.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Chat Data\nIf you enable chat services (audio or\ntext) then we will process such data\nin order to deliver your messages to\nother users.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes processing audio data to deliver messages to other users, which is a core, user-initiated function. This is not considered 'sharing' with a third party under Google Play's policy and does not require a declaration.",
+      "how_to_fix": "No action is required. This type of data transfer, where the user directs the app to share information with another user, is exempt from the 'sharing' disclosure requirement.",
+      "lang": "English"
+    }
+  ]
+}
+```

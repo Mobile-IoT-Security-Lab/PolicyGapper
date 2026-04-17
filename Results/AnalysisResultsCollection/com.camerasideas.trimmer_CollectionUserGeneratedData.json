@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "• Customer service and after-sales service:When you send feedback via email or provide us with an error report,we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "3) Cloud processing permission: When you choose to use Al features, we need this permission to upload your videos or images to our sever for processing, and then return the processed videos or images to you. We will delete the videos or images after the processed content is returned to you.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "3) Cloud processing permission: When you choose to use Al features, we need this permission to upload your videos or images to our sever for processing, and then return the processed videos or images to you. We will delete the videos or images after the processed content is returned to you.",
+"lang": "en"
+}
+]
+}

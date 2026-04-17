@@ -1,0 +1,69 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User ID",
+      "policy_reference": "We collect your account identifier to link your activities across sessions.",
+      "justification": "The app uses a unique account ID for personalization.",
+      "how_to_fix": "Declare 'User ID' under 'Personal info' as collected for 'App functionality' and 'Personalization'.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos and videos",
+      "policy_reference": "To provide customer support, you may choose to send us screenshots or screen recordings of the issue you are facing.",
+      "justification": "Users can optionally send media for customer support.",
+      "how_to_fix": "Declare 'Photos' and 'Videos' under 'User content' as collected for 'App functionality'.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you sign up for our service, we collect your email address.",
+      "justification": "Email is collected for account management.",
+      "how_to_fix": "Declare 'Email address' under 'Personal info' as collected for 'Account management'.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Your contacts are accessed to help you find friends on our service, but this information is processed only on your device and is not sent to our servers.",
+      "reason_of_removal": "Exempt - On-device Processing",
+      "justification": "The app processes contacts locally to find friends.",
+      "how_to_fix": "This data is processed on-device only and does not need to be declared.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Our website uses cookies to determine your general location for content localization.",
+      "reason_of_removal": "Exempt - Website Collection",
+      "justification": "Location data is collected on the website, not the app.",
+      "how_to_fix": "Data collected on the website is not in scope for the app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Messages",
+      "policy_reference": "All messages between users are end-to-end encrypted. We do not have the keys to decrypt them.",
+      "reason_of_removal": "Exempt - End-to-End Encrypted",
+      "justification": "Messages are E2EE and unreadable by the developer.",
+      "how_to_fix": "Data that is end-to-end encrypted does not need to be declared as 'collected'.",
+      "lang": "en"
+    },
+    {
+      "data_type": "User ID",
+      "policy_reference": "We collect your account identifier to link your activities across sessions.",
+      "reason_of_removal": "Duplicate",
+      "justification": "The app uses a unique account ID for personalization.",
+      "how_to_fix": "Declare 'User ID' under 'Personal info' as collected for 'App functionality' and 'Personalization'.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We use secure servers to store your data.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy mentions data storage but not specifically crash logs.",
+      "how_to_fix": "The policy reference is too generic and does not confirm collection of crash logs.",
+      "lang": "en"
+    }
+  ]
+}
+```

@@ -1,0 +1,21 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "If you want to flirt or confess anonymously with your personal contacts, you should sync your contacts list.",
+      "justification": "The policy states the app syncs the user's contacts list to enable a feature. A contacts list inherently contains names, which are sent off-device during the sync process. The policy does not mention any exemptions like on-device processing or end-to-end encryption.",
+      "how_to_fix": "Declare 'Name' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "If you want to flirt or confess anonymously with your personal contacts, you should sync your contacts list.",
+      "justification": "The policy explicitly mentions that the app will 'sync your contacts list'. This action involves sending the entire contacts list off the device. The policy does not mention any exemptions like on-device processing or end-to-end encryption.",
+      "how_to_fix": "Declare 'Contacts' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

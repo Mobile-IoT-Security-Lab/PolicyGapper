@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Device information: This refers to information about the device used to access the Services and may include IP address, browser, and device information, web pages visited prior to accessing TeraBox, identifiers tied to the device, and location information depending on the device settings.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "In the event that it is required by laws and regulations, necessary for us to provide the product or the Services, or based on your demand to enhance the security of your account, you must provide your real name, identity document number, and facial recognition information for account authentication to use some Terabox services or to meet your further needs. In order to verify that the information you provide is accurate and complete, or ensure the security of your account, we may compare the real-name information you provide to Terabox with that registered at institutions permitted by laws and regulations or authorized by government agencies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Device information: This refers to information about the device used to access the Services and may include IP address, browser, and device information, web pages visited prior to accessing TeraBox, identifiers tied to the device, and location information depending on the device settings.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Device information: This refers to information about the device used to access the Services and may include IP address, browser, and device information, web pages visited prior to accessing TeraBox, identifiers tied to the device, and location information depending on the device settings.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "| User data: It is data that you store on TeraBox, such as files, documents, photos, videos, and audio (\"user data\"). | We may store, process, and transfer user data and relevant information to ensure proper operations for the Services and enable you to collaborate with others and work across devices and Services. User data includes the information, size, upload date and time, and usage of your configuration files. |",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "others to use TeraBox. The above functions are available after you have granted us permission to access your contacts. We store this information on our server for you to use. Before sharing any data, please think through if the recipient is trustworthy. In addition, in order to ensure that prudent decisions are made, we recommend that you check the privacy statements of SNS or third-party service providers to learn how they process your information.",
+      "lang": "en"
+    }
+  ]
+}

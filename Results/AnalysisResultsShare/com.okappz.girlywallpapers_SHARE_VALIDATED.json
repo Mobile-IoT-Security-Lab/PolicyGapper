@@ -1,0 +1,23 @@
+```json
+{
+"omitted_declarations": [
+{
+"data_type": "Device or other IDs",
+"policy_reference": "We may disclose non-personal data to third parties or allow third parties to collect non-personal data through\nembedded technology. To deliver ads, third-party advertising companies may place or recognize unique cookies,\nanonymous identifiers, or similar technology to gather non-personally identifiable information. We use AdMob as our\nadvertising provider in the app.",
+"justification": "The policy states that third-party advertising companies like AdMob collect 'anonymous identifiers' for advertising. This is a form of 'Device or other IDs' and its disclosure to a third party for advertising purposes must be declared as 'sharing'.",
+"how_to_fix": "In your app's Data safety section in the Google Play Console, declare that 'Device or other IDs' are 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+"lang": "English"
+}
+],
+"excluded_declarations": [
+{
+"data_type": "User IDs",
+"policy_reference": "We may disclose non-personal data to third parties or allow third parties to collect non-personal data through embedded technology. To deliver ads, third-party advertising companies may place or recognize unique cookies, anonymous identifiers, or similar technology to gather non-personally identifiable information. We use AdMob as our advertising provider in the app.",
+"reason_of_removal": "Inconsistent: The policy reference mentions 'anonymous identifiers' and 'non-personal data' for advertising, which maps to 'Device or other IDs', not 'User IDs' (e.g., account IDs).",
+"justification": "The policy mentions collecting 'anonymous identifiers' for advertising, which is more accurately classified as 'Device or other IDs' rather than 'User IDs' (e.g., account IDs).",
+"how_to_fix": "No action needed for this specific data type based on the policy text. Ensure 'Device or other IDs' is declared instead if not already done.",
+"lang": "English"
+}
+]
+}
+```

@@ -1,0 +1,45 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Advertising Partners. Through our Services, we may allow third party advertising partners to set Technologies\nand other tracking tools to collect information regarding your activities and your device (e.g., your IP address,\ncookie identifiers, page(s) visited, location, time of day). These advertising partners may use this\ninformation(and similar information collected from other websites) for purposes of delivering targeted\nadvertisements to you when you visit third party services within their networks. This practice is commonly\nreferred to as “interest-based advertising” or “personalized advertising.\" If you prefer not to share your\npersonal information with third party advertising partners, you may follow the instructions below.",
+      "justification": "The policy states data about user activities is collected by third-party advertising partners for their own purposes (interest-based advertising across their networks). This is considered 'sharing' and is not exempt under the service provider or other exemptions.",
+      "how_to_fix": "Declare in the Data safety section that 'App interactions' is shared with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Advertising Partners. Through our Services, we may allow third party advertising partners to set Technologies\nand other tracking tools to collect information regarding your activities and your device (e.g., your IP address,\ncookie identifiers, page(s) visited, location, time of day). These advertising partners may use this\ninformation(and similar information collected from other websites) for purposes of delivering targeted\nadvertisements to you when you visit third party services within their networks. This practice is commonly\nreferred to as “interest-based advertising” or “personalized advertising.\" If you prefer not to share your\npersonal information with third party advertising partners, you may follow the instructions below.",
+      "justification": "The policy states data about user activities is collected by third-party advertising partners for their own purposes (interest-based advertising across their networks). This is considered 'sharing' and is not exempt under the service provider or other exemptions.",
+      "how_to_fix": "Declare in the Data safety section that 'Other actions' is shared with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Advertising Partners. Through our Services, we may allow third party advertising partners to set Technologies\nand other tracking tools to collect information regarding your activities and your device (e.g., your IP address,\ncookie identifiers, page(s) visited, location, time of day). These advertising partners may use this\ninformation(and similar information collected from other websites) for purposes of delivering targeted\nadvertisements to you when you visit third party services within their networks. This practice is commonly\nreferred to as “interest-based advertising” or “personalized advertising.\" If you prefer not to share your\npersonal information with third party advertising partners, you may follow the instructions below.",
+      "justification": "The policy states 'page(s) visited' and 'similar information collected from other websites' are collected by third-party advertising partners for their own purposes. This is considered 'sharing' and is not exempt.",
+      "how_to_fix": "Declare in the Data safety section that 'Web browsing history' is shared with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• Interactive Features. We may offer interactive features such as blogs and social media pages. We and others\nwho use our Services may collect the information you submit or make available through these interactive\nfeatures. Any content you provide on the public sections of these features will be considered \"public\" and is\nnot subject to the privacy protections referenced herein. By using these interactive features, you assume the\nrisk that the personal information provided by you may be viewed and used by third parties for their own\npurposes.",
+      "reason_of_removal": "User-initiated action",
+      "justification": "The policy describes content that the user voluntarily provides in public sections of the service. This is a user-initiated action and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No declaration is required for this specific sharing scenario as it falls under the user-initiated action exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "· Exercise data sharing To enjoy more exercise data recording experience, you can choose to share those data to a third-party platform. For this purpose, we will collect the random identifiers generated when you use a third-party platform. If you no longer require this feature, you can unregister the device and stop sharing. After that we will delete such information.",
+      "reason_of_removal": "User-initiated action",
+      "justification": "The policy states the user can 'choose to share' their data with a third-party platform. This is a clear user-initiated action and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No declaration is required for this specific sharing scenario as it falls under the user-initiated action exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

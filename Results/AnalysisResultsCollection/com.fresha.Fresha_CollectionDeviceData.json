@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Information about your visit may include the full Uniform Resource Locators (URL), clickstream to, through and from our Site (including date and time), pages and services you viewed or searched for, demographic information (including age and gender), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), traceable campaign links (e.g. in emails, or via tracking URLs), methods used to browse away from the page, and any phone number used to call our customer service number or social media handle used to connect with our customer service team and our social media accounts.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "As you use your account, we may collect information about your:\n•\npurchase history, including product orders or appointment bookings, or Fresha gift card or\nPartner voucher purchase and use;\n• favourites (e.g. your favourite salon or gym);\n• account settings;\n• social login information;\n•\nsecurely saved payment methods;\n•\nwe may also collect information, if you provide it, about your preferences, referrals, or how you found\nout about our Services, or other user generated content (e.g. profile photo, reviews); and\n• details in accordance with our Cookie Notice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "As you use your account, we may collect information about your:\n•\npurchase history, including product orders or appointment bookings, or Fresha gift card or\nPartner voucher purchase and use;\n• favourites (e.g. your favourite salon or gym);\n• account settings;\n• social login information;\n•\nsecurely saved payment methods;\n•\nwe may also collect information, if you provide it, about your preferences, referrals, or how you found\nout about our Services, or other user generated content (e.g. profile photo, reviews); and\n• details in accordance with our Cookie Notice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Information about your visit may include the full Uniform Resource Locators (URL), clickstream to, through and from our Site (including date and time), pages and services you viewed or searched for, demographic information (including age and gender), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), traceable campaign links (e.g. in emails, or via tracking URLs), methods used to browse away from the page, and any phone number used to call our customer service number or social media handle used to connect with our customer service team and our social media accounts.",
+      "lang": "English"
+    }
+  ]
+}

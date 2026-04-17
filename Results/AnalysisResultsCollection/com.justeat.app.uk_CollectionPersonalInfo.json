@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "If you choose to link your Just Eat account with a social network account (such as Facebook), you may be asked to provide us with your username and password for your social network accounts. We may also receive certain information from the social network, such as your name, profile picture, gender, friend lists and any other information you have chosen to make available. This information is used by us to create your Just Eat account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "If you choose to link your Just Eat account with a social network account (such as Facebook), you may be asked to provide us with your username and password for your social network accounts. We may also receive certain information from the social network, such as your name, profile picture, gender, friend lists and any other information you have chosen to make available. This information is used by us to create your Just Eat account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "We process health information about you only where you volunteer this to us, for example if you specify any food allergies. We will only do this with your consent.",
+      "lang": "English"
+    }
+  ]
+}

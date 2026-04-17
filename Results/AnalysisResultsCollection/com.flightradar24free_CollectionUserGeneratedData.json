@@ -1,0 +1,9 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "When creating a user account on the Website or through our Apps, you are required to provide the following information; email address and password. If you connect to the Service using credentials from a Third Party Service (as defined in the Terms of Use) (e.g. Facebook), you authorize us to collect your authentication information, such as your username and encrypted access credentials. We may also, following your prior consent, collect other information available on or through your Third Party Service's account, including, for example, your name, profile picture, country, hometown, email address, date",
+"lang": "en"
+}
+]
+}

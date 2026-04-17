@@ -1,0 +1,126 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "As described further in the Cookie Policy, we use these technologies to collect and analyze device, Internet, and other electronic network activity information including information about your computer or device (e.g., device type; browser type; ISP or operating system; IP address; device identifiers such as IDFA, Android ID, etc.; version of our Services you are using); information about how you use and interact with the Services (e.g., domain name; access time; referring or exit pages; page views; Service-related identifiers such as User ID, Chat ID, Session ID, etc.; and actions taken within the Services); and geolocation data.",
+      "justification": "The privacy policy states that the app collects information about 'actions taken within the Services'. This corresponds to the 'Other actions' data type.",
+      "how_to_fix": "Declare the collection of 'Other actions' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "As described further in the Cookie Policy, we use these technologies to collect and analyze device, Internet, and other electronic network activity information including information about your computer or device (e.g., device type; browser type; ISP or operating system; IP address; device identifiers such as IDFA, Android ID, etc.; version of our Services you are using); information about how you use and interact with the Services (e.g., domain name; access time; referring or exit pages; page views; Service-related identifiers such as User ID, Chat ID, Session ID, etc.; and actions taken within the Services); and geolocation data.",
+      "justification": "The privacy policy mentions collecting device and network activity information like 'device type', 'browser type', 'ISP or operating system', 'IP address', and 'version of our Services you are using', which falls under 'Other app performance data'.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "• Identifiers, such as your name, email address, phone number, display name, or username;",
+      "justification": "The privacy policy explicitly states that 'name' is collected as an identifier.",
+      "how_to_fix": "Declare the collection of 'Name' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "As described further in the Cookie Policy, we use these technologies to collect and analyze device, Internet, and other electronic network activity information including information about your computer or device (e.g., device type; browser type; ISP or operating system; IP address; device identifiers such as IDFA, Android ID, etc.; version of our Services you are using); information about how you use and interact with the Services (e.g., domain name; access time; referring or exit pages; page views; Service-related identifiers such as User ID, Chat ID, Session ID, etc.; and actions taken within the Services); and geolocation data.",
+      "justification": "The privacy policy states the collection of 'Service-related identifiers such as User ID, Chat ID, Session ID, etc.', which corresponds to the 'User IDs' data type.",
+      "how_to_fix": "Declare the collection of 'User IDs' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• Identifiers, such as your name, email address, phone number, display name, or username;",
+      "justification": "The privacy policy explicitly states that 'phone number' is collected as an identifier.",
+      "how_to_fix": "Declare the collection of 'Phone number' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Information you provide directly to us might also include information that may be treated as sensitive under applicable laws, such as login credentials, personal communications received or sent using our Services, or other information about yourself that you choose to provide when using our Services (e.g., if you voluntarily post user content revealing your race, religion, or sexual orientation).",
+      "justification": "The privacy policy states that users may voluntarily provide content that reveals their 'race', which corresponds to the 'Race and ethnicity' data type.",
+      "how_to_fix": "Declare the collection of 'Race and ethnicity' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Information you provide directly to us might also include information that may be treated as sensitive under applicable laws, such as login credentials, personal communications received or sent using our Services, or other information about yourself that you choose to provide when using our Services (e.g., if you voluntarily post user content revealing your race, religion, or sexual orientation).",
+      "justification": "The privacy policy states that users may voluntarily provide content that reveals their 'religion', which corresponds to the 'Political or religious beliefs' data type.",
+      "how_to_fix": "Declare the collection of 'Political or religious beliefs' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Information you provide directly to us might also include information that may be treated as sensitive under applicable laws, such as login credentials, personal communications received or sent using our Services, or other information about yourself that you choose to provide when using our Services (e.g., if you voluntarily post user content revealing your race, religion, or sexual orientation).",
+      "justification": "The privacy policy states that users may voluntarily provide content that reveals their 'sexual orientation'.",
+      "how_to_fix": "Declare the collection of 'Sexual orientation' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "• Demographic information, such as your date of birth and general geolocation information;",
+      "justification": "The privacy policy states that 'date of birth' is collected as demographic information. This falls under the 'Other info' data type.",
+      "how_to_fix": "Declare the collection of 'Other info' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Financial information, such as payment information and other information collected through our payment processing vendors;",
+      "justification": "The privacy policy states that 'payment information' is collected, which corresponds to the 'User payment info' data type.",
+      "how_to_fix": "Declare the collection of 'User payment info' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Commercial information, such as purchases and transaction history;",
+      "justification": "The privacy policy explicitly states the collection of 'purchases and transaction history', which corresponds to the 'Purchase history' data type.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "• Financial information, such as payment information and other information collected through our payment processing vendors;",
+      "justification": "The privacy policy states the collection of 'Financial information' and 'other information collected through our payment processing vendors', which corresponds to the 'Other financial info' data type.",
+      "how_to_fix": "Declare the collection of 'Other financial info' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Demographic information, such as your date of birth and general geolocation information;",
+      "justification": "The privacy policy states that 'general geolocation information' is collected, which corresponds to the 'Approximate location' data type.",
+      "how_to_fix": "Declare the collection of 'Approximate location' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Information you provide directly to us. We collect information directly from you. For example, you provide us with information when you use the Services, communicate with us... Your content you submit, such as chat communications...",
+      "justification": "The privacy policy states that 'chat communications' are collected, which corresponds to the 'Other in-app messages' data type.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Information you provide directly to us. We collect information directly from you... Your content you submit, such as chat communications, posted images or videos...",
+      "justification": "The privacy policy states that 'posted images' are collected, which corresponds to the 'Photos' data type.",
+      "how_to_fix": "Declare the collection of 'Photos' in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Information you provide directly to us. We collect information directly from you... Your content you submit, such as chat communications, posted images or videos...",
+      "justification": "The privacy policy states that 'posted... videos' are collected.",
+      "how_to_fix": "Declare the collection of 'Videos' in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Information you provide directly to us. We collect information directly from you... Voice data, including recordings of your voice, if you chose to use certain voice features...",
+      "justification": "The privacy policy explicitly states the collection of 'Voice data, including recordings of your voice'.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

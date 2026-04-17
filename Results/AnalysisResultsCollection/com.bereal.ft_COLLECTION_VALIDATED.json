@@ -1,0 +1,84 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "During (or after) account creation there is also some additional information you can decide to share with us:\n• A biography, your location (as precise as you want), and a profile picture.",
+      "justification": "The privacy policy states this data is collected via the app.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Usage Data: actions performed on the App or our website, time of posting Content, how many times you retook a photo before posting, number of BeReal posts, Content viewed, Content interactions, the fact that you deleted Content, or that you blocked users, when you take a screenshot in our App, application crashes, pages visited and event logs.",
+      "justification": "The privacy policy states this data is collected via the app.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "So we can measure our App's and website's effectiveness, the performance of the App (e.g., crashes and causes of crashes) or our website, and its stability, your usage for recommendations of both accounts and Content. | Usage Data, Connection and Technical Data, Device and Equipment Data, Mobile advertising IDs and device identifiers, Geolocation Data, Interaction Data, Inferred information | Our legitimate interest to provide you with a functional app or website that meets your expectations.",
+      "justification": "The privacy policy states this data is collected via the app.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "So we can measure our App's and website's effectiveness, the performance of the App (e.g., crashes and causes of crashes) or our website, and its stability, your usage for recommendations of both accounts and Content. | Usage Data, Connection and Technical Data, Device and Equipment Data, Mobile advertising IDs and device identifiers, Geolocation Data, Interaction Data, Inferred information | Our legitimate interest to provide you with a functional app or website that meets your expectations.",
+      "justification": "The privacy policy states this data is collected via the app.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Communications with BeReal: When you report a concern with our App, respond to a survey, request assistance, we collect the following data:\n•\nYour email address,\n•\n•\nContent of communication with us,\n•\nPhotos you may decide to share with us,\n• Copies of government issued identification (only when strictly required to identify you with\ncertainty),\n•\nIdentifiers (e.g., phone numbers or email address),\n• Any other information you may decide to share with us.",
+      "justification": "The privacy policy states this data is collected via the app.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Account Creation Data: when you create an account on our App, we will ask you for the\nfollowing information. Without it, we cannot provide you access to the App:\n•\n•\nYour phone number, full name, date of birth and username.\nThe email address of a parent or guardian, for users under 16 years old.",
+      "justification": "The privacy policy states this data is collected via the app.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "During (or after) account creation there is also some additional information you can decide to\nshare with us:\n• A biography, your location (as precise as you want), and a profile picture.",
+      "justification": "The privacy policy states this data is collected via the app.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Communications with BeReal: When you report a concern with our App, respond to a survey, request assistance, we collect the following data: • Your email address, • Content of communication with us, • Photos you may decide to share with us, • Copies of government issued identification (only when strictly required to identify you with certainty), • Identifiers (e.g., phone numbers or email address), • Any other information you may decide to share with us.",
+      "justification": "The privacy policy states this data is collected via the app.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Chat Data: when you use the BeReals chat function, we collect the messages, photos and videos you share with your friends within the chat.",
+      "justification": "The privacy policy states this data is collected via the app and does not mention end-to-end encryption.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Communications with BeReal: When you report a concern with our App, respond to a survey, request assistance, we collect the following data: • Your email address, • Content of communication with us, • Photos you may decide to share with us, • Copies of government issued identification (only when strictly required to identify you with certainty), • Identifiers (e.g., phone numbers or email address), • Any other information you may decide to share with us.",
+      "justification": "The privacy policy states this data is collected via the app.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Address Book Data: You can decide to allow BeReal to access your address book to identify the friends in your Address Book who may already be on BeReal or to recommend you new friends. We do not access your Address Book without your permission. Bear in mind that even if you don't agree to share your Address Book with us, we can still make personalized friends' suggestions to you based on your contact details that we received from your friends who use our app (see below). You can revoke your permission to access your Address Book Data at any time through your device settings. Once access is revoked, we will no longer collect or update contact information from your address book, and previously uploaded contact data will be deleted within a reasonable time.",
+      "justification": "The privacy policy states contact data is 'uploaded', indicating it is sent off-device and collected.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Other submissions. We collect information you submit when you respond to surveys we send, provide feedback, participate in promotions, apply for a job, or otherwise communicate with us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "VPN application information. We do not store your VPN browsing activity (e.g. websites you browse or apps accessed through a VPN connection). However, we may collect diagnostic information as referenced above. We also collect anonymized application usage data such as speed, latency, connection success, login success, feature usage, error reports, and troubleshooting reports.",
+      "lang": "English"
+    }
+  ]
+}

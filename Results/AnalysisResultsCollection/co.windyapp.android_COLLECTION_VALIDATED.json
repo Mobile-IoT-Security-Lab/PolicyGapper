@@ -1,0 +1,101 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "You may provide us with your personal data in a number of ways, including, without limitation, when you sign up for and use the Services; have previously provided us with personal information prior to this Privacy Policy or last updates coming into effect; purchase a subscription or make any payment for the Services; subscribe to any alerts, information releases, news, newsletters, updates and media releases; complete and submit any forms to us; post any content on or through the App; contact us directly in person or via any medium including but not limited to by mail, telephone, social media and commercial electronic messages; communicate with us for any matters and interact with or browse the App generally.",
+      "justification": "The privacy policy states users may 'post any content on or through the App', which constitutes collected User Generated Content.",
+      "how_to_fix": "Declare 'Other user-generated content' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may receive data about how and when you use the Services, store it in log files or other types of files associated with your account, and link it to other information we collect about you. This data may include, for example, your IP address, time, date, browser used, and actions you have taken within the App. This type of data helps us to improve our Services for both you and for all of our users.",
+      "justification": "The policy explicitly states collection of 'actions you have taken within the App' and that this data is received and stored in log files, indicating it is sent off-device.",
+      "how_to_fix": "Declare 'Other actions' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect data from every visitor and customer of the App, in particular we automatically collect data about your visit to the App, your usage of the Services and your app and website browsing activities. This anonymized information may include IP address, browser type, browser language, cookies data, performance specifications of the user's hardware and software, date and time of access to the App and the URL of the page requested, other information about how you interacted with our App and our Services.",
+      "justification": "The policy states 'we automatically collect data about... your app and website browsing activities', indicating collection of web browsing history.",
+      "how_to_fix": "Declare 'Web browsing history' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "justification": "The policy explicitly lists 'full name' as personal data that may be provided by the user to the service.",
+      "how_to_fix": "Declare 'Name' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "justification": "The policy explicitly lists 'current and valid email address' as personal data that may be provided by the user to the service.",
+      "how_to_fix": "Declare 'Email address' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "justification": "The policy explicitly lists 'physical address' as personal data that may be provided by the user to the service.",
+      "how_to_fix": "Declare 'Address' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "justification": "The policy explicitly lists 'phone number' as personal data that may be provided by the user to the service.",
+      "how_to_fix": "Declare 'Phone number' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "justification": "The policy explicitly lists 'billing information' as personal data that may be provided by the user, which corresponds to 'User payment info'.",
+      "how_to_fix": "Declare 'User payment info' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "justification": "The policy explicitly lists 'purchase history' as personal data that may be provided by the user to the service.",
+      "how_to_fix": "Declare 'Purchase history' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "justification": "The policy explicitly lists 'location data' as personal data that may be provided by the user. This covers both approximate and precise location.",
+      "how_to_fix": "Declare 'Approximate location' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "justification": "The policy explicitly lists 'location data' as personal data that may be provided by the user. This covers both approximate and precise location.",
+      "how_to_fix": "Declare 'Precise location' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "For analytics purposes, we use UserX Analytics (https://userx.pro/) provided by BUMPIN L.L.C-FZ and Microsoft Clarity provided by Microsoft Corporation (https://clarity.microsoft.com/), which, in addition to collecting standard anonymized usage data (such as taps, swipes, and virtual device identifiers), also captures anonymized screenshots during app usage. All collected data are ANONYMIZED on the side of end-user devices and DOES NOT CONTAIN any personal, financial or payment information, other sensitive data, or user-generated private content. All transmitted data DOESN'T CONTAIN any information resulting from the device camera, microphone, or other user inputs in the Application. All transmitted data is protected by SSL encryption.",
+      "reason_of_removal": "Exempt (On-device processing): The policy states data is anonymized on the user's device before being sent, which exempts it from declaration.",
+      "justification": "The policy states: 'All collected data are ANONYMIZED on the side of end-user devices'. Data that is anonymized on-device before transmission is not required to be declared as 'collected' under Google Play's Data Safety policy.",
+      "how_to_fix": "No action needed for this data type as it qualifies for an exemption based on the provided policy text.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "reason_of_removal": "Inconsistent: The policy mentions collecting 'email address', which is a user identifier, not the content of 'Emails' (e.g., subject, body).",
+      "justification": "The policy reference supports the collection of the 'Email address' data type, but not the 'Emails' data type, which refers to the content of email communications.",
+      "how_to_fix": "No action needed for this data type. Ensure 'Email address' is declared if it is not already.",
+      "lang": "en"
+    }
+  ]
+}
+```

@@ -1,0 +1,70 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include: Account information (name, email address, username) Profile information you choose to provide Communications with us User-generated content",
+      "justification": "The privacy policy explicitly states that 'User-generated content' is collected.",
+      "how_to_fix": "Declare the collection of 'Other User generated content' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We also automatically collect certain information about your device and use of our Services, including: Device information (device type, operating system, unique device identifiers) Usage information (features used, time spent, interactions) Log information (IP address, access times, app crashes) Location information (if you grant permission)",
+      "justification": "The privacy policy states that 'Location information' is collected if permission is granted.",
+      "how_to_fix": "Declare the collection of 'Approximate location' and/or 'Precise location' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "justification": "The privacy policy states that 'Communications with us' are collected, which includes in-app messages.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "justification": "The privacy policy states that 'User-generated content' is collected, which can include photos.",
+      "how_to_fix": "Declare the collection of 'Photos' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "justification": "The privacy policy states that 'User-generated content' is collected, which can include videos.",
+      "how_to_fix": "Declare the collection of 'Videos' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "justification": "The privacy policy states that 'User-generated content' is collected, which can include voice or sound recordings.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "justification": "The privacy policy states that 'User-generated content' is collected, which can include music files.",
+      "how_to_fix": "Declare the collection of 'Music files' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "justification": "The privacy policy states that 'User-generated content' is collected, which can include other audio files.",
+      "how_to_fix": "Declare the collection of 'Other audio files' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "justification": "The privacy policy states that 'User-generated content' is collected, which can include files and docs.",
+      "how_to_fix": "Declare the collection of 'Files and docs' in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

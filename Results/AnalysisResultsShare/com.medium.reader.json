@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We also work with third party analytics providers who use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, and links clicked. This information may be used by Medium and others to, among other things analyze and track data determine the popularity of certain cookies and how to disable them, see Your Choices below.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We share personal information with other users of the Services. For example, if you use our Services to publish content, post comments or send private notes, certain information about you will be visible to others, such as your name, photo, bio, other account information you may provide, and information about your activities on our Services (e.g., your followers and who you follow, recent posts, claps, highlights, and responses).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We share personal information with other users of the Services. For example, if you use our Services to publish content, post comments or send private notes, certain information about you will be visible to others, such as your name, photo, bio, other account information you may provide, and information about your activities on our Services (e.g., your followers and who you follow, recent posts, claps, highlights, and responses).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We also work with third party analytics providers who use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, and links clicked. This information may be used by Medium and others to, among other things analyze and track data determine the popularity of certain cookies and how to disable them, see Your Choices below.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We share personal information with other users of the Services. For example, if you use our Services to publish content, post comments or send private notes, certain information about you will be visible to others, such as your name, photo, bio, other account information you may provide, and information about your activities on our Services (e.g., your followers and who you follow, recent posts, claps, highlights, and responses).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We share personal information with other users of the Services. For example, if you use our Services to publish content, post comments or send private notes, certain information about you will be visible to others, such as your name, photo, bio, other account information you may provide, and information about your activities on our Services (e.g., your followers and who you follow, recent posts, claps, highlights, and responses).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We share personal information with other users of the Services. For example, if you use our Services to publish content, post comments or send private notes, certain information about you will be visible to others, such as your name, photo, bio, other account information you may provide, and information about your activities on our Services (e.g., your followers and who you follow, recent posts, claps, highlights, and responses).",
+      "lang": "English"
+    }
+  ]
+}

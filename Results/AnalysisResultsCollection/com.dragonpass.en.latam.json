@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Information that you provide by filling in forms on our application. This includes information provided at the time of registering to use our app, subscribing to our service, posting material or requesting further services. We may also ask you for information at other times, for example in connection with a promotion or if you report a problem with our app.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• We may collect and process information about your actual location. We use various technologies to determine, including IP address, GPS and other sensors that may be for example provide DragonPass with information on nearby devices, Wifi access points and cell towers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "1.1 In order to provide a better service to you, we may collect and process the following data about you: • Information that you provide by filling in forms on our application. This includes information provided at the time of registering to use our app, subscribing to our service, posting material or requesting further services. We may also ask you for information at other times, for example in connection with a promotion or if you report a problem with our app. • If you contact us, we may keep a record of that correspondence. • We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.",
+      "lang": "en"
+    }
+  ]
+}

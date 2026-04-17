@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "During (or after) account creation there is also some additional information you can decide to share with us:\n• A biography, your location (as precise as you want), and a profile picture.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Usage Data: actions performed on the App or our website, time of posting Content, how many times you retook a photo before posting, number of BeReal posts, Content viewed, Content interactions, the fact that you deleted Content, or that you blocked users, when you take a screenshot in our App, application crashes, pages visited and event logs.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "So we can measure our App's and website's effectiveness, the performance of the App (e.g., crashes and causes of crashes) or our website, and its stability, your usage for recommendations of both accounts and Content. | Usage Data, Connection and Technical Data, Device and Equipment Data, Mobile advertising IDs and device identifiers, Geolocation Data, Interaction Data, Inferred information | Our legitimate interest to provide you with a functional app or website that meets your expectations.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "So we can measure our App's and website's effectiveness, the performance of the App (e.g., crashes and causes of crashes) or our website, and its stability, your usage for recommendations of both accounts and Content. | Usage Data, Connection and Technical Data, Device and Equipment Data, Mobile advertising IDs and device identifiers, Geolocation Data, Interaction Data, Inferred information | Our legitimate interest to provide you with a functional app or website that meets your expectations.",
+      "lang": "English"
+    }
+  ]
+}

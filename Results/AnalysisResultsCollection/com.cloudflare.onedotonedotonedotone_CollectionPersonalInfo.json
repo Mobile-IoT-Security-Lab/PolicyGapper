@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We use account information, such as your account ID, to administer your account and authorize Internet requests from your device to the Cloudflare network.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "If you subscribe to Paid Application Services, we use subscription information, such as your order ID, to administer those subscriptions.",
+      "lang": "English"
+    }
+  ]
+}

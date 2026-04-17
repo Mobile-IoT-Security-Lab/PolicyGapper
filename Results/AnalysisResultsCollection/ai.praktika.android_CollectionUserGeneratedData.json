@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "If you contact us about our Service, we will collect the following Personal Data:\n• Contact details (including your name and email address);\n• The subject matter and content of your enquiry or any other correspondence\nbetween you and us.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "When you use our Service, we may collect the following Personal Data:\n•\n•\n•\nProfile information, such as name, gender, age group and hobbies and interests;\n• Language learning information, such as native language, language learning\ngoals and priorities, previous experience learning English and current proficiency\nlevel;\n• Subscription information, such as the start date and duration of the subscription\nto the Service that you purchase and any free trial periods;\nPurchase information, namely confirmation that you have purchased a\nsubscription to the Service through your App Store Account;\n• Your email address;\n• the Al tutor or avatar you select on the Service;\n• Recordings and transcripts of your conversations with the Al tutor on the\nService;\n• Your lesson plan and progress;\n• Your preferences, such as the preferences you set for push notifications, app\ninterface language and email communications.",
+      "lang": "en"
+    }
+  ]
+}

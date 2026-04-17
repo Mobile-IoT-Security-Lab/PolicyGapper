@@ -1,0 +1,211 @@
+Windy Weather World Inc., a company duly incorporated in Delaware, having its registered address
+at 2093 Philadelphia Pike, Claymont, Delaware (“WindyApp" or "we", “our”, “us”), receives,
+collects, stores, and manages user personal data according to the following Privacy We take pride
+in treating our users' privacy the way we would like to be treated ourselves. We make sure we
+comply with US Data Privacy Laws, the EU General Data Protection Regulation as well as other
+applicable laws and regulations.
+
+---
+
+1. Data Collected
+1.1 Data that you voluntarily provide us with:
+1.1.1 You may provide us with your personal data in a number of ways, including, without
+limitation, when you sign up for and use the Services; have previously provided us with
+personal information prior to this Privacy Policy or last updates coming into effect;
+purchase a subscription or make any payment for the Services; subscribe to any alerts,
+information releases, news, newsletters, updates and media releases; complete and
+submit any forms to us; post any content on or through the App; contact us directly in
+person or via any medium including but not limited to by mail, telephone, social media
+and commercial electronic messages; communicate with us for any matters and
+interact with or browse the App generally.
+1.1.2 Personal data that may be provided by you includes, but is not limited to:
+1) contact information such as your full name, current and valid email address;
+2) account password;
+3) physical address;
+4) phone number;
+5) billing information and purchase history;
+6) more detailed contact preferences;
+7) location data.
+
+---
+
+1.1.3 By giving us this data, you consent to this data being collected, used, disclosed,
+transferred to the United States, Europe, and stored by us, as described in our Terms
+and this Privacy Policy.
+
+---
+
+1.2 Data that we collect automatically
+1.2.1 We collect data from every visitor and customer of the App, in particular we
+automatically collect data about your visit to the App, your usage of the Services and
+your app and website browsing activities. This anonymized information may include IP
+address, browser type, browser language, cookies data, performance specifications of
+the user's hardware and software, date and time of access to the App and the URL of the
+page requested, other information about how you interacted with our App and our
+Services.
+1.2.2 For analytics purposes, we use UserX Analytics (https://userx.pro/) provided by
+BUMPIN L.L.C-FZ and Microsoft Clarity provided by Microsoft Corporation
+(https://clarity.microsoft.com/), which, in addition to collecting standard anonymized
+usage data (such as taps, swipes, and virtual device identifiers), also captures
+anonymized screenshots during app usage. All collected data are ANONYMIZED on the
+side of end-user devices and DOES NOT CONTAIN any personal, financial or payment
+information, other sensitive data, or user-generated private content. All transmitted
+data DOESN'T CONTAIN any information resulting from the device camera, microphone,
+or other user inputs in the Application. All transmitted data is protected by SSL
+encryption.
+
+---
+
+1.3 Data from your use of the Services
+1.3.1 We may receive data about how and when you use the Services, store it in log files
+or other types of files associated with your account, and link it to other information we
+collect about you. This data may include, for example, your IP address, time, date,
+browser used, and actions you have taken within the App. This type of data helps us to
+improve our Services for both you and for all of our users.
+
+---
+
+1.4 Cookies and tracking
+1.4.1 Cookies are small data files that are placed on your computer or mobile device
+when you visit a website. Website owners use cookies to make their websites operate,
+improve functionality and user experience, as well as to provide reporting information.
+1.4.2 We may set our own cookies and use third parties cookies (e.g. for advertising,
+interactive content and analytics).
+1.4.3 We use different types of cookies, including:
+a) Essential website cookies: these are important cookies as they are necessary to
+provide you with services available through our App, such as access to secure
+areas.
+b) Performance and functionality cookies: these cookies are necessary to enhance
+the performance and functionality of our App but are non-essential to their use.
+
+---
+
+c) Analytics and customization cookies: these cookies collect information that is
+used either in aggregate form to help us understand how our App is being used or
+how effective our marketing campaigns are, or to help us customize our App for
+you in order to enhance your experience.
+d) Advertising cookies: these cookies are used to make advertising messages more
+relevant to you. They perform functions like preventing the same ad from
+continuously reappearing, ensuring that ads are properly displayed, and in some
+cases selecting advertisements that are based on your interests.
+e) Stripe_mid and Stripe_sid: these are cookies that enable the process of card
+transactions on the App. The transactions is made by Stripe without storing any
+credit card information.
+
+---
+
+1.5 Web beacons and similar technologies
+1.5.1 Apart from cookies, we use other similar technologies, like web beacons, to
+monitor traffic, deliver and communicate with cookies, improve site performance.
+Similar to cookies you may opt out from web beacons at any time. If you wish to opt out
+of this processing activity, please contact us at windy@windyapp.co with the subject
+named "Privacy Policy".
+
+---
+
+1.6 Data from third party sources
+1.6.1 We may receive some information about you, such as name, email address,
+demographic information, IP address, location, and use of social media websites, from
+third parties.
+
+---
+
+1.7 Opting-Out
+1.7.1 You may decline to have your personal data collected via third party tracking
+technologies by navigating to the settings feature in your browser and declining all third
+party cookies or declining third party cookies from specific sites, or, for mobile, limiting
+ad tracking or resetting the advertising identifier via the privacy settings on your mobile
+device.
+1.7.2 If your browser does not permit you to block any cookies and similar technologies,
+you can use the following third party tools to decline the collection and use of
+information for the purpose of serving your interest based advertising:
+a) The NAI's opt-out platform: http://www.networkadvertising.org/choices/
+b) The EDAA's opt-out platform http://www.youronlinechoices.com/
+
+---
+
+c) The DAA's opt-out platform: http://optout.aboutads.info/?c=2&lang=EN
+
+---
+
+4.3 We don't share your personal information with third parties, except for people and other
+entities that perform certain tasks on our behalf and who are under our control (our “Service
+Providers"). We may need to share personal information with our Service Providers in order to
+provide products or services to you. Unless we tell you differently, our Service Providers do
+not have any right to use Personal Information or other information we share with them
+beyond what is necessary to assist us. You hereby consent to our sharing of Personal
+Information with our Service Providers. Our Service Providers are:
+#
+Entity Name
+Webpage
+Purpose
+We use Google
+Analytics for
+1.
+Google LLC
+https://analytics.google.com/
+analytical
+purpose
+For analytical
+2.
+Amplitude Inc.
+https://amplitude.com
+purpose
+3.
+AppsFlyer
+https://www.appsflyer.com
+For campaign
+performance
+Meta Platforms, https://www.facebook.com/business/tools/meta-
+4.
+Inc.
+pixel
+5.
+Stripe, Inc.
+https://stripe.com/
+We use Meta
+Pixel for ads
+campaign
+For payment
+processing
+
+---
+
+For app
+analytics
+6.
+UserX Analytics,
+BUMPIN L.L.C-FZ
+https://userx.pro/
+(session
+recordings, heat
+maps, etc.)
+For app
+analytics
+Microsoft
+7.
+https://clarity.microsoft.com/
+(session
+Corporation
+recordings, heat
+maps, etc.)
+
+---
+
+7.1 We may amend this Privacy Policy from time to time. Use of information we collect now is
+subject to the Privacy Policy in effect at the time such information is used. If we make major
+changes in the way we collect or use information, we will notify you by posting an
+announcement on the App or sending you an email.
+
+---
+
+10.1 In this section we describe how we handle personal information of California residents
+under the California Consumer Privacy Act (“CCPA”). This clause covers personal information
+that we collect, share and use for the last 12 months.
+10.2 We describe the personal information that we collect in section 1 "Data Collected". The
+section 3 "Use of the Data” contains information on how we use personal information.
+
+---
+
+10.5.1 Request deletion. You have the right to request deletion of your personal information
+that we collect from you;

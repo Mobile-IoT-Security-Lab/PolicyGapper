@@ -1,0 +1,24 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "| Chat Data | Details of messages that you exchange with us or other users of the Platform, for example via WhatsApp. |",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "| Listings Data | Details about your previous and current listings on the Platform, as well as details of other users' listings that you have viewed. This includes (without limitation) listing information such as images, videos, virtual tours, pricing, property type, property history and general property description. |",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "| Listings Data | Details about your previous and current listings on the Platform, as well as details of other users' listings that you have viewed. This includes (without limitation) listing information such as images, videos, virtual tours, pricing, property type, property history and general property description. |",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "| Call Data | Recordings of calls between you and our teams, or between you and other users or Agents which you contact about a property through a form or link on the Platform, which are recorded for monitoring and training purposes. |",
+"lang": "en"
+}
+]
+}

@@ -1,0 +1,55 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We may share your information with our affiliates or partners who we have a business relationship with, to process it for us, based on our instructions and in compliance with this Policy.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The privacy policy states data is shared with partners who 'process it for us, based on our instructions'. This qualifies as sharing with a service provider under the Google Play User Data Policy and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This type of sharing with a service provider does not need to be declared as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may share your information with our affiliates or partners who we have a business relationship with, to process it for us, based on our instructions and in compliance with this Policy.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The privacy policy states data is shared with partners who 'process it for us, based on our instructions'. This qualifies as sharing with a service provider under the Google Play User Data Policy and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This type of sharing with a service provider does not need to be declared as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may share your information with our affiliates or partners who we have a business relationship with, to process it for us, based on our instructions and in compliance with this Policy.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The privacy policy states data is shared with partners who 'process it for us, based on our instructions'. This qualifies as sharing with a service provider under the Google Play User Data Policy and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This type of sharing with a service provider does not need to be declared as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may share your information with our affiliates or partners who we have a business relationship with, to process it for us, based on our instructions and in compliance with this Policy.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The privacy policy states data is shared with partners who 'process it for us, based on our instructions'. This qualifies as sharing with a service provider under the Google Play User Data Policy and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This type of sharing with a service provider does not need to be declared as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "5-2- We may share your information with our affiliates or partners who we have a business relationship with, to process it for us, based on our instructions and in compliance with this Policy.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The privacy policy states data is shared with partners who 'process it for us, based on our instructions'. This qualifies as sharing with a service provider under the Google Play User Data Policy and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This type of sharing with a service provider does not need to be declared as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "5-2- We may share your information with our affiliates or partners who we have a business relationship with, to process it for us, based on our instructions and in compliance with this Policy.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The privacy policy states data is shared with partners who 'process it for us, based on our instructions'. This qualifies as sharing with a service provider under the Google Play User Data Policy and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. This type of sharing with a service provider does not need to be declared as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

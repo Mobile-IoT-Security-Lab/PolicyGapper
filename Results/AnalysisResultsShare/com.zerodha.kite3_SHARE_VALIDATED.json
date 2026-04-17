@@ -1,0 +1,15 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Zerodha uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics uses first-party cookies to report on user interactions with our web-based services. These cookies store non-personally identifiable information.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes using Google Analytics, a service provider, for first-party analytics on behalf of the developer. This is an exempt use case under the Google Play Data Safety policy and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action required. The use of Google Analytics as a service provider for first-party analytics is exempt from being declared as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

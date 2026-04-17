@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Quando accedi al nostro sito Web, il tuo browser trasferirà determinate informazioni al nostro server web. Questo viene fatto per motivi\ntecnici e necessario per rendere disponibili le informazioni richieste. Per facilitare l'accesso al sito Web, vengono raccolte, archiviate e\nutilizzate brevemente le seguenti informazioni:\n•\nIndirizzo IP\n•\nData e ora di accesso\n•\n•\nDifferenza di fuso orario con l'ora di Greenwich (GMT)\n• Contenuto della richiesta (sito specifico)\n• Stato di accesso/codice di stato HTTP\n• Volume trasferito di dati\n• Sito Web che richiede l'accesso\n• Browser, impostazioni della lingua, versione del sistema operativo software del browser e surface",
+      "lang": "English"
+    }
+  ]
+}

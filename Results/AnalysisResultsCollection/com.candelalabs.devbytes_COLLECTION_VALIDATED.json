@@ -1,0 +1,79 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If You communicate with Us, by, for example, email or letter, any information provided in such communication may be collected and stored by DevBytes.",
+      "justification": "The privacy policy states that the content of user communications (e.g., emails, letters) is collected, which falls under 'Other user-generated content'.",
+      "how_to_fix": "Declare 'Other user-generated content' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "(ii) URL Request Submission: Whenever you access a page, we submit a request which includes the URL of the page you're on. This is purely to determine if the URL is pertinent (i.e., relating to tech or dev articles).",
+      "justification": "The privacy policy explicitly states that the URL of the page the user is on is submitted, which constitutes the collection of web browsing history.",
+      "how_to_fix": "Declare 'Web browsing history' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "If You communicate with Us, by, for example, email or letter, any\ninformation provided in such communication may be collected and\nstored by DevBytes.",
+      "justification": "The policy states that information provided in communications (like emails) is collected. This can reasonably include the user's name.",
+      "how_to_fix": "Declare 'Name' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Personal Information Collected\nIn order to provide the App, We may require You to provide Us with\nPersonal Information. Personal Information includes the following\ncategories of information:\n(i) Contact data (such as Your email address, phone number and any\ndetails of Your contacts)\n(ii) Device data; and\n(iii) Demographic data (such as Your time zone, Your postal address\nand location details).",
+      "justification": "The privacy policy explicitly lists 'email address' under 'Contact data' as a type of personal information collected.",
+      "how_to_fix": "Declare 'Email address' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Personal Information Collected\nIn order to provide the App, We may require You to provide Us with\nPersonal Information. Personal Information includes the following\ncategories of information:\n(i) Contact data (such as Your email address, phone number and any\ndetails of Your contacts)\n(ii) Device data; and\n(iii) Demographic data (such as Your time zone, Your postal address\nand location details).",
+      "justification": "The privacy policy explicitly lists 'postal address' under 'Demographic data' as a type of personal information collected.",
+      "how_to_fix": "Declare 'Address' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Personal Information Collected\nIn order to provide the App, We may require You to provide Us with\nPersonal Information. Personal Information includes the following\ncategories of information:\n(i) Contact data (such as Your email address, phone number and any\ndetails of Your contacts)\n(ii) Device data; and\n(iii) Demographic data (such as Your time zone, Your postal address\nand location details).",
+      "justification": "The privacy policy explicitly lists 'phone number' under 'Contact data' as a type of personal information collected.",
+      "how_to_fix": "Declare 'Phone number' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Personal Information Collected\nIn order to provide the App, We may require You to provide Us with\nPersonal Information. Personal Information includes the following\ncategories of information:\n(i) Contact data (such as Your email address, phone number and any\ndetails of Your contacts)\n(ii) Device data; and\n(iii) Demographic data (such as Your time zone, Your postal address\nand location details).",
+      "justification": "The privacy policy states that 'location details' are collected. This term is broad enough to include precise location.",
+      "how_to_fix": "Declare 'Precise location' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "If You communicate with Us, by, for example, email or letter, any\ninformation provided in such communication may be collected and\nstored by DevBytes.",
+      "justification": "The policy states that information provided in communications like emails is collected. This includes the content of the email, which corresponds to the 'Emails' data type.",
+      "how_to_fix": "Declare 'Emails' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Personal Information Collected\nIn order to provide the App, We may require You to provide Us with\nPersonal Information. Personal Information includes the following\ncategories of information:\n(i) Contact data (such as Your email address, phone number and any\ndetails of Your contacts)\n(ii) Device data; and\n(iii) Demographic data (such as Your time zone, Your postal address\nand location details).",
+      "justification": "The privacy policy explicitly lists 'details of Your contacts' under 'Contact data' as a type of personal information collected.",
+      "how_to_fix": "Declare 'Contacts' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Personal Information Collected\nIn order to provide the App, We may require You to provide Us with\nPersonal Information. Personal Information includes the following\ncategories of information:\n(i) Contact data (such as Your email address, phone number and any\ndetails of Your contacts)\n(ii) Device data; and\n(iii) Demographic data (such as Your time zone, Your postal address\nand location details).",
+      "reason_of_removal": "Inconsistent: Policy reference does not support the declared data type.",
+      "justification": "The policy reference mentions collecting 'email address', which is a distinct data type. It does not mention collecting the content of emails, which is required for the 'Emails' data type.",
+      "how_to_fix": "N/A",
+      "lang": "en"
+    }
+  ]
+}
+```

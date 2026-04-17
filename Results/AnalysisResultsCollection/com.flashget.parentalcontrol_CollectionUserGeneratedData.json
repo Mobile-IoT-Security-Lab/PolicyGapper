@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "| 1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience |",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "| 6 Information when you communicate with us whether in person, through our websites, via email, through other feedback channels provided by us, including: • Your contact details (this may include your social media account if that is the way you communicate with us) • The details of your communications with us • Log files you submitted from within FlashGet for product support | • Answer any issues or concerns • Monitor customer communications for quality improvement and training purposes • Develop new services • Improve our Services • Personalise our Services • Troubleshoot |",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "| 6 Information when you communicate with us whether in person, through our websites, via email, through other feedback channels provided by us, including: • Your contact details (this may include your social media account if that is the way you communicate with us) • The details of your communications with us • Log files you submitted from within FlashGet for product support | • Answer any issues or concerns • Monitor customer communications for quality improvement and training purposes • Develop new services • Improve our Services • Personalise our Services • Troubleshoot |",
+"lang": "en"
+}
+]
+}

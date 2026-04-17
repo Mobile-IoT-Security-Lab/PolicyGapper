@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Use of technologies belonging to Taboola Inc. (Taboola Inc., Atrium Tower, 2 Jabotinsky St., 32nd fl., Ramat Gan 5250501 Tel Aviv) allows us to utilize user-specific advertising based on surfing behavior and customer interests. Taboola uses cookies (or similar technologies) to determine which websites you visit frequently and record your movements on our website. Taboola gathers device-related data and protocol data and creates usage profiles using pseudonyms. The usage profiles are not merged with the data about the bearer of the pseudonym and do not allow conclusions to be drawn on personal data. To do this, we communicate your IP address to Taboola. This processing is carried on the legal basis of our legitimate economic interest (Art. 6 paragraph 1 letter f GDPR.) You can object to inclusion in the tracking via the following link: https://www.taboola.com/privacy-policy#user-choices-and-optout. Once you have successfully opted out, you will no longer see personalized content/adverts.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "In a second step, you will connect your Facebook profile with the service for which you would like to register. At this point, you will be told which data from your Facebook profile will be transmitted to us. This information is usually your \"public information\" on Facebook and information which you have made available to the public or authorized for the application in question. Information of this type generally includes your name, profile picture and cover photo, your gender, your networks, your username (Facebook URL), and your user ID number (Facebook ID). We will also use the email address you have saved with Facebook in order to contact you outside of Facebook. You can see an overview of information in your profile that is available to the public via the General Account Settings menu of your Facebook profile (https://www.facebook.com/settings?tab=applications).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "In a second step, you will connect your Facebook profile with the service for which you would like to register. At this point, you will be told which data from your Facebook profile will be transmitted to us. This information is usually your \"public information\" on Facebook and information which you have made available to the public or authorized for the application in question. Information of this type generally includes your name, profile picture and cover photo, your gender, your networks, your username (Facebook URL), and your user ID number (Facebook ID). We will also use the email address you have saved with Facebook in order to contact you outside of Facebook. You can see an overview of information in your profile that is available to the public via the General Account Settings menu of your Facebook profile (https://www.facebook.com/settings?tab=applications).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "The advertising displayed through our partners is either personalized or non-personalized (context-related). The data you provide when using advertising media is collected and analyzed, which will be explained in more detail below. Our SDK service providers Fyber (Fyber N.V., Johannisstraße 20, 10117 Berlin) and Admob by Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland; \"Google\") allow us to put this type of ad monetization into practice. If a player decides to watch a video ad, the service providers take over control of the in-game advertising networks. This involves the following parameters being shared via an interface with the advertising networks: Advertising ID, IP address, browser, operating system, version, country, city, placement ID and bundle ID. The aim of this transmission of information is to display the best possible advertising material for the user. The SDKs for the advertising networks mentioned may possibly also process personal data, such as advertising ID and IP address, in order to be able to provide that advertising material.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "In a second step, you will connect your Facebook profile with the service for which you would like to register. At this point, you will be told which data from your Facebook profile will be transmitted to us. This information is usually your \"public information\" on Facebook and information which you have made available to the public or authorized for the application in question. Information of this type generally includes your name, profile picture and cover photo, your gender, your networks, your username (Facebook URL), and your user ID number (Facebook ID). We will also use the email address you have saved with Facebook in order to contact you outside of Facebook. You can see an overview of information in your profile that is available to the public via the General Account Settings menu of your Facebook profile (https://www.facebook.com/settings?tab=applications).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "In a second step, you will connect your Facebook profile with the service for which you would like to register. At this point, you will be told which data from your Facebook profile will be transmitted to us. This information is usually your \"public information\" on Facebook and information which you have made available to the public or authorized for the application in question. Information of this type generally includes your name, profile picture and cover photo, your gender, your networks, your username (Facebook URL), and your user ID number (Facebook ID). We will also use the email address you have saved with Facebook in order to contact you outside of Facebook. You can see an overview of information in your profile that is available to the public via the General Account Settings menu of your Facebook profile (https://www.facebook.com/settings?tab=applications).",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Our app contains a contact form with which you can send us messages. The transfer of your data is encrypted.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "In a second step, you will connect your Facebook profile with the service for which you would like to register. At this point, you will be told which data from your Facebook profile will be transmitted to us. This information is usually your \"public information\" on Facebook and information which you have made available to the public or authorized for the application in question. Information of this type generally includes your name, profile picture and cover photo, your gender, your networks, your username (Facebook URL), and your user ID number (Facebook ID). We will also use the email address you have saved with Facebook in order to contact you outside of Facebook. You can see an overview of information in your profile that is available to the public via the General Account Settings menu of your Facebook profile (https://www.facebook.com/settings?tab=applications).",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "Identification Data: Information that allows us to differentiate you from other individuals. This may include demographic information, such as: name and surname, date of birth, gender, postal address, username, password, and answers to account security questions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Identification Data: Information that allows us to differentiate you from other individuals. This may include demographic information, such as: name and surname, date of birth, gender, postal address, username, password, and answers to account security questions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Location-identifying Technologies\nSubject to applicable laws, we may use GPS (global positioning systems) software, geo-filtering and other location-aware technologies to locate (sometimes precisely) you for purposes such as verifying your location and delivering or restricting content (e.g. territory restrictions) and advertising based on your location. You can turn off precise geo-location tracking through the location settings on your device and/or in our Content (if available).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location-identifying Technologies\nSubject to applicable laws, we may use GPS (global positioning systems) software, geo-filtering and other location-aware technologies to locate (sometimes precisely) you for purposes such as verifying your location and delivering or restricting content (e.g. territory restrictions) and advertising based on your location. You can turn off precise geo-location tracking through the location settings on your device and/or in our Content (if available).",
+      "lang": "English"
+    }
+  ]
+}

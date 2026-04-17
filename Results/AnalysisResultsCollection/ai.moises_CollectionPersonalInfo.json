@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "When you create an account with us, you provide us with personal information that includes your name and email address. You can also choose to add a phone number or payment information to your account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you create an account with us, you provide us with personal information that includes your name and email address. You can also choose to add a phone number or payment information to your account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "When you create an account with us, you provide us with personal information that includes your name and email address. You can also choose to add a phone number or payment information to your account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may also collect information about your location when you use our services, which helps us offer features like directions. Your location can be determined with varying degrees of accuracy by: GPS and other sensor data from your device, IP address, Things near your device, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may also collect information about your location when you use our services, which helps us offer features like directions. Your location can be determined with varying degrees of accuracy by: GPS and other sensor data from your device, IP address, Things near your device, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Aggregate and Anonymous Data: We may collect data in an aggregated or anonymized format that does not directly identify you. This information is used for analytics, trend analysis, and app improvement purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In addition to the information you provide, we automatically collect certain details about your device and interactions with our Platform. For example, we gather data about your device type, operating system, app version, IP address, time zone, and language settings. We also track how you use the app, including the features you interact with and the duration of your sessions. This information is used to improve the app, develop new features, and maintain the security and stability of our systems.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Information You Provide Directly: We collect the following information when you voluntarily provide it to us, such as during account creation or profile updates: • • Name: To identify your account and personalize your experience. • Email Address: To facilitate account access, send communications, and provide customer support. • Profile Picture and Cover Picture: To allow for a more personalized user profile and interaction. • Couple Anniversary Date: To enhance app functionality and provide tailored content or features.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Information You Provide Directly: We collect the following information when you voluntarily provide it to us, such as during account creation or profile updates: • • Name: To identify your account and personalize your experience. • Email Address: To facilitate account access, send communications, and provide customer support. • Profile Picture and Cover Picture: To allow for a more personalized user profile and interaction. • Couple Anniversary Date: To enhance app functionality and provide tailored content or features.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Information You Provide Directly: We collect the following information when you voluntarily provide it to us, such as during account creation or profile updates: • • Name: To identify your account and personalize your experience. • Email Address: To facilitate account access, send communications, and provide customer support. • Profile Picture and Cover Picture: To allow for a more personalized user profile and interaction. • Couple Anniversary Date: To enhance app functionality and provide tailored content or features.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "Information You Provide Directly: We collect the following information when you voluntarily provide it to us, such as during account creation or profile updates: • • Name: To identify your account and personalize your experience. • Email Address: To facilitate account access, send communications, and provide customer support. • Profile Picture and Cover Picture: To allow for a more personalized user profile and interaction. • Couple Anniversary Date: To enhance app functionality and provide tailored content or features.",
+      "lang": "en"
+    }
+  ]
+}

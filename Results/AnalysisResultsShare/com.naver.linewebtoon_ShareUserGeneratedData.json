@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "(6) Categories of Personal Information Disclosed for a Business Purpose: In the preceding 12 months, we may have disclosed the following categories of personal information about you for a business purpose: identifiers, other identifying information (e.g., social security number), financial information, commercial information, internet and other electronic network activity information, sensory information, and inferences.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "(6) Categories of Personal Information Disclosed for a Business Purpose: In the preceding 12 months, we may have disclosed the following categories of personal information about you for a business purpose: identifiers, other identifying information (e.g., social security number), financial information, commercial information, internet and other electronic network activity information, sensory information, and inferences.",
+      "lang": "English"
+    }
+  ]
+}

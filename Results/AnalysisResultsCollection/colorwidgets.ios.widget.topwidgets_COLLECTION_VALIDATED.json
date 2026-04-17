@@ -1,0 +1,49 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you send feedback via email or provide us with an error report, we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services. We will retain Your Personal Data only for as long as is necessary for the purposes described above.",
+      "justification": "The policy states that when a user sends feedback or an error report via email, the app developer obtains the 'email content'. This content is considered user-generated content.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "To provide a better user experience, We have integrated statistical tools in the Application. They are only used for CRASH positioning and AB-testing for new functions and UI design. Details as described below:\n\nApplication information\n• Application's Name\n• Application's Version Number\n• Application's Build\n• SDK Name\n• SDK Version\n\nDevice information\n• Model\n• Screen Size\n• OEM Name\n\nDevice system information\n• OS Name2\n• OS Version\n• OS Build\n• System Language\n• Time Zone\n• Carrier Country\n• Carrier Name\n\nLocation information\n• Locale\n• Country Area",
+      "justification": "The policy explicitly states the collection of various application, device, and system information for 'CRASH positioning' and 'AB-testing', which falls under app performance and diagnostics data.",
+      "how_to_fix": "Declare 'Crash logs' and 'Diagnostics' as collected data types in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "When you send feedback via email or provide us with an error report, we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services. We will retain Your Personal Data only for as long as is necessary for the purposes described above.",
+      "justification": "The policy states that the app developer will 'obtain your username' when a user sends feedback. A username is a form of the 'Name' data type.",
+      "how_to_fix": "Declare 'Name' as a collected data type in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you send feedback via email or provide us with an error report, we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services. We will retain Your Personal Data only for as long as is necessary for the purposes described above.",
+      "justification": "The policy explicitly states that the app developer will 'obtain your... email address' when a user sends feedback or an error report.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location permission: Granting this permission allows us to use the WEATHER WIDGET to access your location and acquire the local weather conditions of your area. It is also necessary for the functionality of the FRIEND DISTANCE WIDGET feature, which enables users to connect as friends and track their live distance on the home screen widget and the in-app map. Please rest assured that your location is solely used to make these widgets work normally and is not used for any other purpose.",
+      "justification": "The policy states the app accesses the user's location to 'acquire the local weather conditions' and 'track their live distance'. These features require sending location data off-device to a server for processing, which constitutes collection.",
+      "how_to_fix": "Declare 'Precise location' as a collected data type in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "When you send feedback via email or provide us with an error report, we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services. We will retain Your Personal Data only for as long as is necessary for the purposes described above.",
+      "justification": "The policy states that the developer obtains 'email content' when a user sends feedback. The content of an email falls under the 'Emails' data type.",
+      "how_to_fix": "Declare 'Emails and text messages' as a collected data type in your app's Data Safety form.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

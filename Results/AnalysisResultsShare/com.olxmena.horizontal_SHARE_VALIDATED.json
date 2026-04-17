@@ -1,0 +1,117 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may also share certain information such as cookie data with third-party advertising partners. This information would allow third-party ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.",
+      "justification": "The privacy policy states that cookie data, which can contain device or other IDs, is shared with third-party advertising partners for their own purposes (delivering targeted ads). This is a declarable 'sharing' event and not exempt as a service provider.",
+      "how_to_fix": "In the 'Data shared' section of your app's Data Safety form, declare that 'Device or other IDs' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "justification": "The privacy policy explicitly states that personal information is shared with third-party partners 'for their own marketing purposes'. This is a clear instance of data sharing that must be declared in the Data Safety section.",
+      "how_to_fix": "In the 'Data shared' section of your app's Data Safety form, declare that 'Name' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "justification": "The privacy policy explicitly states that personal information is shared with third-party partners 'for their own marketing purposes'. This is a clear instance of data sharing that must be declared in the Data Safety section.",
+      "how_to_fix": "In the 'Data shared' section of your app's Data Safety form, declare that 'Email address' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "justification": "The privacy policy explicitly states that personal information is shared with third-party partners 'for their own marketing purposes'. This is a clear instance of data sharing that must be declared in the Data Safety section.",
+      "how_to_fix": "In the 'Data shared' section of your app's Data Safety form, declare that 'User IDs' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "justification": "The privacy policy explicitly states that personal information is shared with third-party partners 'for their own marketing purposes'. This is a clear instance of data sharing that must be declared in the Data Safety section.",
+      "how_to_fix": "In the 'Data shared' section of your app's Data Safety form, declare that 'Address' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "justification": "The privacy policy explicitly states that personal information is shared with third-party partners 'for their own marketing purposes'. This is a clear instance of data sharing that must be declared in the Data Safety section.",
+      "how_to_fix": "In the 'Data shared' section of your app's Data Safety form, declare that 'Phone number' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "justification": "The privacy policy explicitly states that personal information is shared with third-party partners 'for their own marketing purposes'. This is a clear instance of data sharing that must be declared in the Data Safety section.",
+      "how_to_fix": "In the 'Data shared' section of your app's Data Safety form, declare that 'Other info' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "justification": "The privacy policy explicitly states that personal information is shared with third-party partners 'for their own marketing purposes'. This is a clear instance of data sharing that must be declared in the Data Safety section.",
+      "how_to_fix": "In the 'Data shared' section of your app's Data Safety form, declare that 'Purchase history' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "justification": "The privacy policy explicitly states that personal information is shared with third-party partners 'for their own marketing purposes'. This is a clear instance of data sharing that must be declared in the Data Safety section.",
+      "how_to_fix": "In the 'Data shared' section of your app's Data Safety form, declare that 'Approximate location' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "justification": "The privacy policy explicitly states that personal information is shared with third-party partners 'for their own marketing purposes'. This is a clear instance of data sharing that must be declared in the Data Safety section.",
+      "how_to_fix": "In the 'Data shared' section of your app's Data Safety form, declare that 'Precise location' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "To provide you with a personalized experience: We may use your personal data to personalize your experience on our Services, such as by showing you content and ads that are more relevant to you. We may use third-party advertising partners to help us do this.",
+      "justification": "The privacy policy states that data is used with 'third-party advertising partners' to show relevant ads. This constitutes 'sharing' for advertising purposes and must be declared.",
+      "how_to_fix": "In the 'Data shared' section of your app's Data Safety form, declare that 'Email address' is shared with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We use analytics services (including, but not limited to, Google Analytics) to help us understand how our Services are used. Analytics service providers, may use cookies and other technologies to collect information about your use of the Services and other websites.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The privacy policy indicates this data is shared with an analytics service provider to process data on the developer's behalf ('to help us understand'). This is exempt from being declared as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this item. This use case does not need to be declared as 'sharing' in the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use analytics services (including, but not limited to, Google Analytics) to help us understand how our Services are used. Analytics service providers, may use cookies and other technologies to collect information about your use of the Services and other websites.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The privacy policy indicates this data is shared with an analytics service provider to process data on the developer's behalf ('to help us understand'). This is exempt from being declared as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this item. This use case does not need to be declared as 'sharing' in the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We may share your information with third parties (including our group companies and third party service providers) to help us process your information and to provide, analyse, and improve the Service. This includes, for example, analysing data to better understand our users’ needs, drawing insights to help us improve the Service, and for crash reporting.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The privacy policy states data is shared with 'third party service providers' for purposes like 'crash reporting' to 'help us... improve the Service'. This is a service provider relationship and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This use case does not need to be declared as 'sharing' in the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may share your information with third parties (including our group companies and third party service providers) to help us process your information and to provide, analyse, and improve the Service. This includes, for example, analysing data to better understand our users’ needs, drawing insights to help us improve the Service, and for crash reporting.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The privacy policy states data is shared with 'third party service providers' for purposes like 'analysing data' to 'help us... improve the Service'. This is a service provider relationship and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This use case does not need to be declared as 'sharing' in the Data Safety form.",
+      "lang": "English"
+    }
+  ]
+}
+```

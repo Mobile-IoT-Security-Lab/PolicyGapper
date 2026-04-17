@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other info",
+      "policy_reference": "In the event that it is required by laws and regulations, necessary for us to provide the product or the Services, or based on your demand to enhance the security of your account, you must provide your real name, identity document number, and facial recognition information for account authentication to use some Terabox services or to meet your further needs. In order to verify that the information you provide is accurate and complete, or ensure the security of your account, we may compare the real-name information you provide to Terabox with that registered at institutions permitted by laws and regulations or authorized by government agencies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Device information: This refers to information about the device used to access the Services and may include IP address, browser, and device information, web pages visited prior to accessing TeraBox, identifiers tied to the device, and location information depending on the device settings.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Device information: This refers to information about the device used to access the Services and may include IP address, browser, and device information, web pages visited prior to accessing TeraBox, identifiers tied to the device, and location information depending on the device settings.",
+      "lang": "English"
+    }
+  ]
+}

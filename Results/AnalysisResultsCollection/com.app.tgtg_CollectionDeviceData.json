@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Usage Information: such as the pages or content you view, click on or share, the clickstream patterns and length of time spent on each site as well as searches you conduct, reservations and purchases you make and which services in our App you are a customer of.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Other information: such as when you fill in a form, respond to surveys, participate in promotions, contests, or sweepstakes as well as when you communicate with our customer care team. This may",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Log Data and Device Information: such as details about how you've used the Platform (including if you clicked on links to third party applications), IP address, access dates and times, hardware and software information, device type, device event information, unique identifiers (e.g. IDFA and IDFV), crash data, and the pages you have viewed or engaged with on the Platform and before or after using the Platform.",
+      "lang": "English"
+    }
+  ]
+}

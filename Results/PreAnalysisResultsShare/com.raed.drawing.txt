@@ -1,0 +1,224 @@
+This Privacy Policy explains what data we may collect from you, how such data may be used
+or shared with others, how we safeguard it and how you may exercise your rights related to
+your Personal Data (as defined below), among others, and where applicable, as required
+according to the EU General Data Protection Regulation (“GDPR”),the Brazilian General Data
+Protection Law (as amended by Law No. 13,853/2019) (“LGPD”), the California Consumer
+Privacy Act ("CCPA”) and other US states as further detailed below.
+---
+F. DATA SHARING – CATEGORIES OF RECIPIENTS WE SHARE PERSONAL DATA WITH:
+---
+I. INTERNATIONAL DATA TRANSFER:
+---
+[PAGE BREAK]
+---
+I. INTERNATIONAL DATA TRANSFER:
+---
+[PAGE BREAK]
+---
+Representative for data subjects in the EU and UK Contact Information:
+We value your privacy and your rights as a data subject and have therefore appointed
+Prighter Group with its local partners as our privacy representative and your point of contact.
+Prighter gives you an easy way to exercise your privacy-related rights (e.g., requests to access
+or erase personal data). To get in touch with our representative, or to exercise your data
+subject rights, please reach out to us at: support.sketchlite@cardsapp.com, and we will
+promptly provide you with the necessary details to contact Prighter directly.
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+| DATA SET | PURPOSE AND OPERATIONS |
+|---|---|
+| In-App Payment Information: When you make a payment through our App and offered Services, all payments are in-app payments and are subject to the applicable App Store terms and privacy policy. Google Terms of Service Google Privacy Policy App Store Terms of Use App Store Privacy Policy | We use in app payment processors; the registration and payment information are solely processed by the applicable app store provider. We do not store nor process any Personal Data when you process the payment. We receive an order number which is connected to a user ID which was generated when installing the app (non identifiable). |
+---
+[PAGE BREAK]
+---
+| DATA SET |
+|---|
+| Log Data and Unique Identifiers: In case of an error in the App we collect data and information (through third-party service providers) such as "Log Data” or “Crash Data". This data may include information such as your device Internet Protocol ("IP") address, device name, operating system version, the configuration of the App when utilizing our Service, the time and date of your use of the Service, and other statistics. |
+---
+| DATA SET | PURPOSE AND OPERATIONS |
+|---|---|
+| Profiling Data: When you use our App we may display advertisements, our partners, the advertisers may place an SDK (as detailed below) and collect certain data on you for the purpose of displaying advertisement. | Our partners will process this data to manage and deliver advertisements more effectively and personally, including contextual, behavioral and interests- based advertising based on your activity, preferences or other data available to us or to our business partners and advertisers, including for re-targeting purposes. |
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+[PAGE BREAK]
+---
+Please note that the actual processing operation per each purpose of use and lawful basis
+detailed in the table above may differ. Such processing operation usually includes a set of
+operations made by automated means, such as collection, storage, use, disclosure by
+transmission, erasure, or destruction. The transfer of personal data to third-party countries,
+as further detailed in the Data Transfer Section, is based on the same lawful basis as
+stipulated in the table above.
+---
+[PAGE BREAK]
+---
+• Provided from third-parties.
+---
+E. SDK & TRACKING TECHNOLOGIES:
+Our Services and some of our Service Providers utilize “cookies” or “software development
+kits ("SDK")" anonymous identifiers and other tracking technologies (collectively, “Tracking
+Technologies") which help us provide and improve our Services, personalize your experience
+and monitor the performance of our activities and campaigns, as well as the usage of our
+Apps and Services as a whole.
+The specific SDK we currently use, the purpose of the SDK, their privacy policy and opt-out
+controls are set forth in the table below:
+| NAME | PURPOSE | PRIVACY AND OPT OUT |
+|---|---|---|
+| Google Play | In-app billing | Google Play Privacy Policy: https://play.google.com/about/privacy- security-deception https://policies.google.com/privacy?hl=en |
+| Firebase | • Remote Config- data • storage and processing location • Crashlytics- data • Cloud Messaging • data encryption • security purpose • a/b testing • in-app messaging • predictions • analytics | Firebase Privacy Policy: https://firebase.google.com/support/privacy |
+| Advertisers: • AdMob | The Advertisers are advertising Service | • AdColony: https://www.adcolony.com/privacy-policy/ |
+---
+[PAGE BREAK]
+---
+| NAME | PURPOSE | PRIVACY AND OPT OUT |
+|---|---|---|
+| • AdColony • Applovin • Chocolate Platform • Facebook Audience Network • Index Exchange • Media.net • Mobfox • OpenX • PubMatic • Rubicon • Sharethrough • Yieldmo And as may be updated from time to time (collectively "Advertisers"). | Providers. Their targeted advertising SDKs collect information about your browsing activity across multiple websites and online services in order to provide you with relevant advertisements on the App and Services of third parties. The information collected using these advertising SDK does not disclose your identity, and helps us analyze the effectiveness of our advertising. | • AdMob: https://policies.google.com/privacy?hl=en • Applovin: https://www.applovin.com/privacy/ • Chocolate Platform: https://chocolateplatform.com/privacy- policy/ • Facebook Audience Network: https://www.facebook.com/about/privacy/ • Index Exchange: https://www.indexexchange.com/privacy/ • Media.net: https://www.media.net/privacy- policy/ • Mobfox: https://www.mobfox.com/privacy- policy/ • OpenX: https://www.openx.com/legal/privacy-policy/ • PubMatic: https://pubmatic.com/legal/privacy/ • Rubicon: https://www.rubicon.com/privacy- policy/ • Sharethrough: https://www.sharethrough.com/privacy- center • Yieldmo: https://yieldmo.com/privacy- policy/ |
+---
+F. DATA SHARING – CATEGORIES OF RECIPIENTS WE SHARE
+PERSONAL DATA WITH:
+We share your data with third parties, including our partners or service providers that help us
+provide our Services. You can find here information about the categories of such third-party
+recipients.
+| CATEGORY OF RECIPIENT | DATA THAT WILL BE SHARED | PURPOSE OF SHARING |
+|---|---|---|
+| Advertisers | Online Identifiers | Display ads or content that best suit such application, as a part of our Services. |
+| Service Providers | All data | We may disclose Personal Data to our service providers, contractors and third parties, including, but not limited to, our cloud and hosting provider, analytics and marketing providers, payment processors (in app payments), fraud prevention and |
+---
+[PAGE BREAK]
+---
+| CATEGORY OF RECIPIENT | DATA THAT WILL BE SHARED | PURPOSE OF SHARING |
+|---|---|---|
+| | | analytic tools, tracking tools, the service providers are limited by contracts which limit their use of the data, and requires implementing security measures. The service providers process the data solely to provide the needed services. These entities are prohibited from using your Personal Data for any purposes other than providing us with requested services. |
+| Any acquirer of our business | All data | We may share Personal Data, in the event of a corporate transaction (e.g., sale of a substantial part of our business, merger, consolidation or asset sale). In the event of the above, our affiliated companies or acquiring company will assume the rights and obligations as described in this Policy. |
+| Governmental agencies, or authorized third parties. | Subject to law enforcement authority request. | We may disclose certain data to law enforcement, governmental agencies, or authorized third parties, in response to a verified request relating to terror acts, criminal investigations or alleged illegal activity or any other activity that may expose us, you, or any other user to legal liability, and solely to the extent necessary to comply with such purpose. |
+When we share information with services providers and partners, we ensure they only have
+access to such information that is strictly necessary for us to provide the Services. These
+parties are required to secure the data they receive and to use the data for pre-agreed
+purposes only while ensuring compliance with all applicable data protection regulations
+(such service providers may use other non-personal data for their own benefit).
+---
+[PAGE BREAK]
+---
+If you feel that your privacy was not dealt with properly or was dealt with in a way that was in
+breach of our Privacy Policy or if you become aware of a third party's attempt to gain
+unauthorized access to any of your Personal Data, please contact us at our email. We will
+make a reasonable effort to notify you and the appropriate authorities (if required by
+applicable law) if we discover a security incident related to your Personal Data.
+---
+I. INTERNATIONAL DATA TRANSFER:
+We use Google Cloud which are located in EU, US and Asia. Further, certain processing
+activities are conducted in Israel, or other countries. In the event of data transfer out of your
+jurisdiction, we will take appropriate measures to ensure that your Personal Data receives an
+adequate level of protection as required under applicable law. Further, when Personal Data
+collected within the EU is transferred outside the EU (and not to a recipient in a country that
+the European Commission has decided provides adequate protection) it shall be transferred
+under the provisions of the standard contractual clauses approved by the European Union. If
+you would like to understand more about these arrangements and your rights in connection
+therewith, please contact us at our email.
+---
+[PAGE BREAK]
+---
+K. OPT OUT OPTIONS
+Interest-Based Advertising (“IBA”): We do not sell your Personal Data. Some of our Apps may
+include providing you with advertisements therefor we may “share” your Personal Data with
+third parties for personalized advertising purposes. If you wish to opt-out from the sharing of
+your personal data with third parties for the purpose of cross-contextual interest-based
+advertising there are many way to do so, as further detailed below. Please note that even if
+you opt-out you may still see personalized ads based on information other companies and ad
+networks have collected about you, if you have not opted out of sharing with them.
+For IBA opt out options on desktop and mobile websites, please visit:
+• Digital Advertising Alliance (US) https://www.aboutads.info/choices/
+• Digital Advertising Alliance (Canada) https://youradchoices.ca/en/tools
+• Digital Advertising Alliance (EU) https://www.youronlinechoices.com/
+• Network Advertising Initiative https://optout.networkadvertising.org/?c=1
+Additional information on opt-out rights and means are available through our CCPA Privacy
+Notice page link and DSR form: link.
+---
+A. ADDITIONAL NOTICE TO CALIFORNIA RESIDENTS
+This section applies only to California residents. Pursuant to the California Consumer Privacy
+Act of 2018 (“CCPA”) effective November 2020, and as amended by the CPRA, effective
+January 1, 2023.
+Please see the CCPA Privacy Notice: link which discloses the categories of personal
+information collected, purpose of processing, source, categories of recipients with whom the
+personal information is shared for a business purpose, whether the personal information is
+sole or shared, the retention period, and a how to exercise your rights as a California resident.
+---
+[PAGE BREAK]
+---
+Section I.C “DATA SETS WE COLLECT AND FOR WHAT PURPOSE" of the Privacy Policy, we
+describe our collection and processing of personal data, the categories of personal data that
+are collected or processed, and the purposes. Additionally, in Section I.F“DATA SHARING –
+CATEGORIES OF RECIPIENTS WE SHARE PERSONAL DATA WITH” details the categories of
+third-parties the controller shares for business purposes. ###
+---
+[PAGE BREAK]
+---
+| Right to Deletion | You have the right to delete the Personal Data, this right is not absolute and in certain circumstances we may deny such request. We may deny your deletion request, in full or in part, if retaining the information is necessary for us or our service provider(s) for any of the following reasons: (1) Complete the transaction for which we collected the Personal Data, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, or otherwise perform our contract with you; (2) Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities; (3) Debug products to identify and repair errors that impair existing intended functionality; (4) Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law; (5) Comply with the law or legal obligation; (6) Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if you previously provided informed consent; (7) Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us; (8) Make other internal and lawful uses of that information that are compatible with the context in which you provided it. We will delete or de-identify personal | If you would like to delete your Personal Data please fill in this form: link You do not need to create an account with us to submit a request to know or delete. |
+---
+[PAGE BREAK]
+---
+| Right to opt out from selling Personal Data | You have the right to opt out of the sale of your Personal Data for the purposes of targeted advertising, sale to a third party for monetary gain, or for profiling in furtherance of decisions that produce legal or similarly significant effects concerning you or any other consumer. You may authorize another person acting on your behalf to opt out, including by broad technical tools, such as DAA, NAI, etc. | We does not sell your personal information, so we do not offer an opt out. We may "share" personal information with third parties for personalized advertising purposes. You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites as detailed in |
+---
+[PAGE BREAK]
+---
+| | | Section I.K OPT OUT OPTIONS. To opt out from the use of cookies on our website, please click the "do not sell or share my personal information" in the footer of the website which will enable you to customize the use of cookies on our website. |
+|---|---|---|
+| Right to opt out from Targeted Advertising | You have the right to opt out of the sale of your Personal Data for the purposes of targeted advertising, sale to a third party for monetary gain, or for profiling in furtherance of decisions that produce legal or similarly significant effects concerning you or any other consumer. You may authorize another person acting on your behalf to opt out, including by broad technical tools, such as DAA, NAI, etc. | We does not sell your personal information, so we do not offer an opt out. We may "share" personal information with third parties for personalized advertising purposes. You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites as detailed in Section I.K OPT OUT OPTIONS. To opt out from the use of cookies on our website, please click the |
+---
+[PAGE BREAK]
+---
+| | | "do not sell or share my personal information" in the footer of the website which will enable you to customize the use of cookies on our website. |
+|---|---|---|
+| Right to opt out from Profiling | You have the right to opt out of the sale of your Personal Data for the purposes of targeted advertising, sale to a third party for monetary gain, or for profiling in furtherance of decisions that produce legal or similarly significant effects concerning you or any other consumer. You may authorize another person acting on your behalf to opt out, including by broad technical tools, such as DAA, NAI, etc. | We do not profile you, thus we do not need to provide an opt- out. |
+---
+2. HOW TO SUBMIT A REQUEST UNDER CPA?
+Only you, or someone legally authorized to act on your behalf, may make a request to know
+or delete related to your Personal Data. If the DSR is submitted by someone other than the
+consumer about whom information is being requested, proof of authorization (such as
+power of attorney or probate documents) will be required.
+---
+[PAGE BREAK]
+---
+C. ADDITIONAL NOTICE TO VIRGINIA RESIDENTS
+The VCDPA requires us to disclose the Categories of data processing and the purpose of each
+category, as detailed in Section I.C "DATA SETS WE COLLECT AND FOR WHAT PURPOSE" of the
+Privacy Policy, the categories of data shared and the third parties with whom it is shared, as
+detailed in Section I.F “DATA SHARING – CATEGORIES OF RECIPIENTS WE SHARE PERSONAL
+DATA WITH”. Disclosure of sale of data or targeted advertising are detailed in Section I.K OPT
+OUT OPTIONS above, and in the DSR Form. Further, the table above under Section II.B
+“ADDITIONAL NOTICE TO COLORADO RESIDENTS" details the rights you have under VCDPA
+and how you may exercise your rights.
+---
+[PAGE BREAK]
+---
+D. ADDITIONAL NOTICE TO CONNECTICUT RESIDENTS
+The categories of personal data processed, purpose of processing, are detailed in Section I.C
+“DATA SETS WE COLLECT AND FOR WHAT PURPOSE”, categories of personal data shared with
+third parties, categories of third parties with whom data is shared, are detailed in Section I.F
+"DATA SHARING – CATEGORIES OF RECIPIENTS WE SHARE PERSONAL DATA WITH". Disclosure
+of sale of data or targeted advertising are detailed in Section I.K OPT OUT OPTIONS above,
+and in the DSR Form.
+---
+[PAGE BREAK]
+---
+E. ADDITIONAL NOTICE TO UTAH RESIDENTS (effective
+January 2024)
+The categories of personal data processed, purpose of processing, are detailed in Section I.C
+“DATA SETS WE COLLECT AND FOR WHAT PURPOSE", categories of personal data shared with
+third parties, categories of third parties with whom data is shared, are detailed in Section I.F
+"DATA SHARING – CATEGORIES OF RECIPIENTS WE SHARE PERSONAL DATA WITH". Disclosure
+of sale of data or targeted advertising are detailed in Section I.K OPT OUT OPTIONS above,
+and in the DSR Form.
+---
+F. NOTICE TO NEVADA RESIDENTS
+Nevada law allows Nevada residents to opt out of the sale of certain types of personal
+information. Subject to several exceptions, Nevada law defines “sale” to mean the exchange
+of certain types of personal information for monetary consideration to another person. We
+currently do not sell personal information as defined in the Nevada law. However, if you are a
+Nevada resident, you still may submit a verified request to opt out of sales and will record
+your instructions and incorporate them in the future if our policy changes. You may send opt-
+out requests to support.sketchlite@cardsapp.com.

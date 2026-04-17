@@ -1,0 +1,81 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may share personal data with our advertising partners to show you ads that we think may interest you.",
+      "justification": "The privacy policy states that this data is shared with third-party advertising partners for their own marketing purposes. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "In the Google Play Console, under 'Data safety', declare that you share this data type with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may share personal data with our advertising partners to show you ads that we think may interest you.",
+      "justification": "The privacy policy states that this data is shared with third-party advertising partners for their own marketing purposes. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "In the Google Play Console, under 'Data safety', declare that you share this data type with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may share personal data with our advertising partners to show you ads that we think may interest you.",
+      "justification": "The privacy policy states that this data is shared with third-party advertising partners for their own marketing purposes. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "In the Google Play Console, under 'Data safety', declare that you share this data type with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Third Parties. We may share your information with third parties, including social media platforms and advertising partners, to allow them to market their products or services to you. This may include sharing your name, email address, user ID, and other identifiers. We may also share your information with third parties for other purposes, such as to provide you with targeted advertising or to improve our Services.",
+      "justification": "The privacy policy explicitly states that data is shared with third parties, such as advertising partners, to allow them to market their own products or services. This is a clear case of 'sharing' that must be declared.",
+      "how_to_fix": "In the Google Play Console, under 'Data safety', declare that you share this data type with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Third Parties. We may share your information with third parties, including social media platforms and advertising partners, to allow them to market their products or services to you. This may include sharing your name, email address, user ID, and other identifiers. We may also share your information with third parties for other purposes, such as to provide you with targeted advertising or to improve our Services.",
+      "justification": "The privacy policy explicitly states that data is shared with third parties, such as advertising partners, to allow them to market their own products or services. This is a clear case of 'sharing' that must be declared.",
+      "how_to_fix": "In the Google Play Console, under 'Data safety', declare that you share this data type with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Third Parties. We may share your information with third parties, including social media platforms and advertising partners, to allow them to market their products or services to you. This may include sharing your name, email address, user ID, and other identifiers. We may also share your information with third parties for other purposes, such as to provide you with targeted advertising or to improve our Services.",
+      "justification": "The privacy policy explicitly states that data is shared with third parties, such as advertising partners, to allow them to market their own products or services. This is a clear case of 'sharing' that must be declared.",
+      "how_to_fix": "In the Google Play Console, under 'Data safety', declare that you share this data type with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We share your personal data with our affiliates, service providers, and other third parties (such as our business partners, and social media services, and in some cases, our advertisers and marketing partners) for the purposes described in this Privacy Notice, including for the purposes of providing, improving, and personalizing our Services, and for marketing and advertising purposes.",
+      "justification": "The policy states data is shared with 'advertisers and marketing partners' for 'marketing and advertising purposes'. This indicates sharing with third parties beyond exempt service providers, which must be declared.",
+      "how_to_fix": "In the Google Play Console, under 'Data safety', declare that you share this data type with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may share personal data with our analytics partners to analyze traffic and usage trends for the Services and to create and review aggregated and anonymous reporting.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy indicates data is shared with analytics partners acting as service providers to process data on the developer's behalf (e.g., 'to analyze traffic and usage trends for the Services'). This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is required for this specific finding, as it falls under a policy exemption. However, ensure that the 'Data collection' section accurately reflects that this data is collected.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We may share personal data with our analytics partners to analyze traffic and usage trends for the Services and to create and review aggregated and anonymous reporting.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy indicates data is shared with analytics partners acting as service providers to process data on the developer's behalf (e.g., 'to analyze traffic and usage trends for the Services'). This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is required for this specific finding, as it falls under a policy exemption. However, ensure that the 'Data collection' section accurately reflects that this data is collected.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may share personal data with our analytics partners to analyze traffic and usage trends for the Services and to create and review aggregated and anonymous reporting.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy indicates data is shared with analytics partners acting as service providers to process data on the developer's behalf (e.g., 'to analyze traffic and usage trends for the Services'). This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is required for this specific finding, as it falls under a policy exemption. However, ensure that the 'Data collection' section accurately reflects that this data is collected.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• AdMob (Google Inc.): AdMob is an advertising service provided by Google Inc. In order to understand Google's use of data, consult Google's partner policy. Personal Data collected: cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and usage data. Place of processing: United States – Privacy Policy – Opt Out.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• AdMob (Google Inc.): AdMob is an advertising service provided by Google Inc. In order to understand Google's use of data, consult Google's partner policy. Personal Data collected: cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and usage data. Place of processing: United States – Privacy Policy – Opt Out.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "• AdMob (Google Inc.): AdMob is an advertising service provided by Google Inc. In order to understand Google's use of data, consult Google's partner policy. Personal Data collected: cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and usage data. Place of processing: United States – Privacy Policy – Opt Out.",
+      "lang": "English"
+    }
+  ]
+}

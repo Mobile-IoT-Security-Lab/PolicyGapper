@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "• Account information. We may collect information related to your account, including your Aqara\nAccount nickname, profile photo, shared Aqara Account, phone number (if any), e-mail address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• Account information. We may collect information related to your account, including your Aqara\nAccount nickname, profile photo, shared Aqara Account, phone number (if any), e-mail address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• Account information. We may collect information related to your account, including your Aqara\nAccount nickname, profile photo, shared Aqara Account, phone number (if any), e-mail address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "If you need us to send invoices related to Software Value-Added Services, you also need to\nprovide us with the consignee's name, address, telephone number, fax number and email\naddress for receiving the invoice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• The Information collected related to the Software Value-Added Services (Including but not\nlimited to: camera cloud storage, log cloud storage) provided by our organization encompasses\nthe following data points:\nAccount information, device ID, package type, service validity period and days, order number,\npayment time, payment amount, payment currency, activation status, renewal amount,\nrenewal date, payment method.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• The Information collected related to the Software Value-Added Services (Including but not\nlimited to: camera cloud storage, log cloud storage) provided by our organization encompasses\nthe following data points:\nAccount information, device ID, package type, service validity period and days, order number,\npayment time, payment amount, payment currency, activation status, renewal amount,\nrenewal date, payment method.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Location information (We do not use or collect your precise geographic location unless\nyour separate consent is sought).We may collect the following location information of the\ndevice(s) on which you installed Aqara Home: region, country code, city code, mobile network\ncode, mobile country code, cell identity, district name, longitude and latitude information, time\nzone settings, language settings. Such information may be obtained from User's handheld device\nor actively provided by users, and such information is necessary for assigning a server and\nsetting users' time zone. If the data are not collected, the user may not enjoy the relevant\nservices",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• At this time, we will collect your specific settings and relevant automation and scenario execution\nlogs to provide you with the above services. In order to enjoy this function, we may collect the\nfamily location information set by you and the precise location information set in the geofencing\nfunction to provide you with the above services. The intelligent automation scenario requires you\nto actively set it up. After the setting, the intelligent automation scenario will take effect. If you do\nnot set it, the data or functions we collect will not automatically make any decisions that affect\nthe work of the device for you.",
+      "lang": "English"
+    }
+  ]
+}

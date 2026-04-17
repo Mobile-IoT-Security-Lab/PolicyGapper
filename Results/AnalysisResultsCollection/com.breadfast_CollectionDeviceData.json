@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Usage Data: Authentication data, security questions, click-stream data, public social networking posts, and other data collected via cookies and similar technologies.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Device event information (such as crashes, system activity and hardware settings, browser type, browser language, the date and time of your request and referral URL);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Device event information (such as crashes, system activity and hardware settings, browser type, browser language, the date and time of your request and referral URL);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Log data and device information (such as details about how you've used the Site or the App, IP address, access dates and times, hardware and software information, Device type and unique device identification numbers; device information, and page/product views or clicks)",
+      "lang": "English"
+    }
+  ]
+}

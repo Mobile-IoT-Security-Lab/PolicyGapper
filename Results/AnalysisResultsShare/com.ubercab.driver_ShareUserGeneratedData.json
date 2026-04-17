@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim. Data necessary to adjust or handle the claim, which may include: • Account • Communications between users • Device • Location • Trip/order info • Usage • User content",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim. Data necessary to adjust or handle the claim, which may include: • Account • Communications between users • Device • Location • Trip/order info • Usage • User content",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim. Data necessary to adjust or handle the claim, which may include: • Account • Communications between users • Device • Location • Trip/order info • Usage • User content",
+      "lang": "English"
+    }
+  ]
+}

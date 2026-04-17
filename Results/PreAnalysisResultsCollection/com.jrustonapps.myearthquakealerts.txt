@@ -1,0 +1,301 @@
+Privacy Policy of jRustonApps Free Android Mobile Applications
+This Application collects some Personal Data from its Users.
+
+---
+Personal Data collected for the following purposes:
+Advertising
+Personal Data: IP address, Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for
+example) and Usage Data
+
+---
+Analytics
+Personal Data: IP address, Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for
+example) and Usage Data
+
+---
+Device permissions for Personal Data access
+Personal Data: Approximate location permission (continuous) and Precise location permission (continuous).
+
+---
+Infrastructure monitoring
+Personal Data: geographic position, unique device identifiers for advertising (Google Advertiser ID or IDFA, for
+example) and various types of Data as specified in the privacy policy of the service
+
+---
+Location-based interactions
+Personal Data: geographic position
+
+---
+Sending messages
+Personal Data: various types of Data as specified in the privacy policy of the service
+
+---
+Further information about Personal Data
+
+---
+User identification via a universally unique identifier (UUID)
+This Application may track Users by storing a so-called universally unique identifier (or short UUID) for analytics
+purposes or for storing Users' preferences. This identifier is generated upon installation of this Application, it persists
+between Application launches and updates, but it is lost when the User deletes the Application. A reinstall generates
+a new UUID.
+
+---
+Unique device identification
+This Application may track Users by storing a unique identifier of their device, for analytics purposes or for storing
+Users' preferences.
+
+--- [PAGE BREAK] ---
+Types of Data collected
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: IP address,
+Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), geographic
+position (only if the tracking option is enabled on their device), Precise location permission (continuous), Approximate
+location permission (continuous) and geographic position.
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by
+specific explanation texts displayed prior to the Data collection.
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this
+Application.
+Unless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it
+impossible for this Application to provide its services. In cases where this Application specifically states that some Data is
+not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of
+the Service.
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.
+Any use of Cookies - or of other tracking tools - by this Application or by the owners of third-party services used by this
+Application serves the purpose of providing the Service required by the User, in addition to any other purposes described in
+the present document and in the Cookie Policy, if available.
+Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm
+that they have the third party's consent to provide the Data to the Owner.
+
+--- [PAGE BREAK] ---
+Retention time
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
+
+--- [PAGE BREAK] ---
+The purposes of processing
+The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes:
+Advertising, Device permissions for Personal Data access, Location-based interactions and sending messages.
+Users can find further detailed information about such purposes of processing and about the specific Personal Data used
+for each purpose in the respective sections of this document.
+
+---
+Device permissions for Personal Data access
+Depending on the User's specific device, this Application may request certain permissions that allow it to access the User's
+device Data as described below.
+By default, these permissions must be granted by the User before the respective information can be accessed. Once the
+permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer
+to the device settings or contact the Owner for support at the contact details provided in the present document.
+The exact procedure for controlling app permissions may be dependent on the User's device and software.
+Please note that the revoking of such permissions might impact the proper functioning of this Application.
+If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to,
+modified or removed) by this Application.
+
+---
+Approximate location permission (continuous)
+Used for accessing the User's approximate device location. This Application may collect, use, and share User location Data
+in order to provide location-based services.
+
+---
+Precise location permission (continuous)
+Used for accessing the User's precise device location. This Application may collect, use, and share User location Data in
+order to provide location-based services.
+
+---
+We may collect and share coarse location data with third parties for the purposes of IP to Geo-based ad-targeting, digital
+rights management, fraud prevention and cyber-security.
+
+---
+Detailed information on the processing of Personal Data
+Personal Data is collected for the following purposes and using the following services:
+
+---
+Advertising
+This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of
+banners and other advertisements on this Application, possibly based on User interests.
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown
+below.
+Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting
+technique, i.e. displaying ads tailored to the User's interests and behavior, including those detected outside this
+Application. For more information, please check the privacy policies of the relevant services.
+In addition to any opt out offered by any of the services below, the User may opt out of a third-party service's use of
+cookies by visiting the Network Advertising Initiative opt-out page.
+
+---
+AdMob (AdMob Google Inc.)
+AdMob is an advertising service provided by AdMob Google Inc.
+In order to understand Google's use of Data, consult Google's partner policy.
+Personal Data collected: IP address, Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for
+example) and Usage Data.
+Place of processing: United States - Privacy Policy - Opt Out.
+
+--- [PAGE BREAK] ---
+Appodeal
+Personal Data: IP address, Cookies, location, unique device identifiers for advertising (Google Advertiser ID or IDFA, for
+example) and Usage Data.
+Place of processing: United States - Privacy Policy.
+
+---
+Analytics
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep
+track of User behavior.
+
+---
+Google Analytics for Firebase (Google Inc.)
+Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google Inc. In order to
+understand Google's use of Data, consult Google's partner policy.
+Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication,
+Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other
+tools used by the Owner.
+This Application uses identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS,
+respectively) and technologies similar to cookies to run the Firebase Analytics service.
+Users may opt-out of certain Firebase features through applicable device settings, such as the device advertising
+settings for mobile phones or by following the instructions in other Firebase related sections of this privacy policy, if
+available.
+Personal Data collected: IP address, Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for
+example) and Usage Data.
+Place of processing: United States - Privacy Policy.
+
+---
+Low Lag Labs
+We've partnered with Low Lag Labs to help provide users with better connectivity and in-app experience on wireless
+networks (because nobody likes laggy internet).
+Low Lag Labs may collect data relating to network performance (including location and identifiers such as network
+names, resettable ID, BSSID, IP Address, and other access point information) for the purposes of providing us app
+performance analytics and connectivity insights, and to support the creation of aggregated reports or anonymized
+insights for the telecom ecosystem.
+Low Lag Labs does not sell personal data. You can learn more at lowlaglabs.com/privacy-policy. This data is only
+collected if you consent, and you may opt-out at any time by revoking this app's location permissions from your device
+settings.
+
+---
+Opensignal
+We've partnered with Opensignal to help improve the performance and reliability of this app and wireless networks while
+respecting your privacy.
+Opensignal does not collect any information that directly identifies you or your device, and does not sell personal data
+about you. Opensignal is the independent global standard for helping telecom ecosystem companies better understand
+and improve network coverage to improve connectivity.
+If you grant this application location permissions, Opensignal may collect data relating to the wireless network
+performance your device experiences, and that may include the following types of personal information and/or personal
+data: Geolocation data, identifiers (e.g. network names, resettable IDs, BSSIDs, and other access point information),
+and app state. Opensignal uses this data to gather information on network experience and create aggregated reports
+and/or data solutions including anonymized location, for example by plotting network performance on a map to convey
+general coverage.
+
+--- [PAGE BREAK] ---
+You can learn more about Opensignal's privacy policy here. To opt-out of data collection by Opensignal, please revoke
+this application's location permissions from your device settings.
+
+---
+Device permissions for Personal Data access
+This Application requests certain permissions from Users that allow it to access the User's device Data as described
+below.
+
+---
+Device permissions for Personal Data access (this Application)
+This Application requests certain permissions from Users that allow it to access the User's device Data as summarized
+here and described within this document.
+Personal Data collected: Approximate location permission (continuous) and Precise location permission (continuous).
+
+---
+Infrastructure monitoring
+This type of service allows this Application to monitor the use and behavior of its components so its performance,
+operation, maintenance and troubleshooting can be improved.
+Which Personal Data are processed depends on the characteristics and mode of implementation of these services,
+whose function is to filter the activities of this Application.
+
+---
+Crashlytics (Google Inc.)
+Crashlytics is a monitoring service provided by Google Inc.
+Personal Data collected: geographic position, unique device identifiers for advertising (Google Advertiser ID or IDFA, for
+example) and various types of Data as specified in the privacy policy of the service.
+Place of processing: United States - Privacy Policy.
+
+---
+Location-based interactions
+
+---
+Geolocation (this Application)
+This Application may collect, use, and share User location Data in order to provide location-based services.
+Most browsers and devices provide tools to opt out from this feature by default. If explicit authorization has been
+provided, the User's location data may be tracked by this Application.
+Personal Data collected: geographic position.
+
+---
+Sending messages
+This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact
+information to communicate with the User.
+These services may also collect data concerning the date and time when the message was viewed by the User, as well
+as when the User interacted with it, such as by clicking on links included in the message.
+
+---
+Firebase Notifications (Google Inc.)
+Firebase Notifications is a message sending service provided by Google Inc. Firebase Notifications can be integrated
+with Firebase Analytics to target analytics-based audiences and track opening and conversion events.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+Place of processing: United States - Privacy Policy.
+
+--- [PAGE BREAK] ---
+User identification via a universally unique identifier (UUID)
+This Application may track Users by storing a so-called universally unique identifier (or short UUID) for analytics
+purposes or for storing Users' preferences. This identifier is generated upon installation of this Application, it persists
+between Application launches and updates, but it is lost when the User deletes the Application. A reinstall generates a
+new UUID.
+
+---
+Unique device identification
+This Application may track Users by storing a unique identifier of their device, for analytics purposes or for storing
+Users' preferences.
+
+---
+Access their Data. Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding
+certain aspects of the processing and obtain a copy of the Data undergoing processing.
+
+---
+Receive their Data and have it transferred to another controller. Users have the right to receive their Data in a
+structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another
+controller without any hindrance. This provision is applicable provided that the Data is processed by automated means
+and that the processing is based on the User's consent, on a contract which the User is part of or on pre-contractual
+obligations thereof.
+
+--- [PAGE BREAK] ---
+You can request the information collected about you by contacting the data controller mentioned at the start of
+this document or by using the contact form here.
+
+---
+Additional information about Data collection and processing
+
+---
+Additional information about User's Personal Data
+In addition to the information contained in this privacy policy, this Application may provide the User with additional and
+contextual information concerning particular Services or the collection and processing of Personal Data upon request.
+
+---
+System logs and maintenance
+For operation and maintenance purposes, this Application and any third-party services may collect files that record
+interaction with this Application (System logs) use other Personal Data (such as the IP Address) for this purpose.
+
+---
+Information not contained in this policy
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time.
+Please see the contact information at the beginning of this document.
+
+--- [PAGE BREAK] ---
+Should the changes affect processing activities performed on the basis of the User's consent, the Owner shall collect new
+consent from the User, where required.
+
+---
+Usage Data
+Information collected automatically through this Application (or third-party services employed in this Application),
+which can include: the IP addresses or domain names of the computers utilized by the Users who use this
+Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the
+request to the server, the size of the file received in response, the numerical code indicating the status of the server's
+answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system
+utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the
+details about the path followed within the Application with special reference to the sequence of pages visited, and
+other parameters about the device operating system and/or the User's IT environment.
+
+---
+This Application
+The means by which the Personal Data of the User is collected and processed.
+
+---
+Cookies
+Small sets of data stored in the User's device.

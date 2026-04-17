@@ -1,0 +1,87 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "(a) Approximate/precise location permission (non-continuous). Used for accessing the User's approximate/precise device location. This Application may collect, use, and share User location Data in order to provide location-based services. The geographic location of the User is determined in a manner that isn't continuous and only during app usage. This means that it is impossible for this Application to derive the approximate position of the User on a continuous basis.",
+      "justification": "The policy states the app may 'share User location Data in order to provide location-based services'. This general statement implies sharing with third parties and does not meet any exemption criteria, such as sharing with a service provider acting solely on the developer's behalf.",
+      "how_to_fix": "In the Google Play Console, go to the Data Safety section and declare that 'Precise location' is shared with third parties. Specify the purpose of this sharing (e.g., 'App functionality').",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "(a) Vendors and Service Providers. To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Data with service providers, including hosting, cloud services and other information technology services providers; email communication software providers and email newsletter providers; sales services; customer relationship management, customer engagement, and customer feedback services; payment processors; security services; advertising partners; social networks; vendors and analytics services. Pursuant to our instructions, these parties will access, process or store Personal Data in the course of performing their duties to us.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that data is shared with service providers acting 'Pursuant to our instructions' and 'in the course of performing their duties to us'. This meets the criteria for the service provider exemption under the Google Play User Data Policy.",
+      "how_to_fix": "No action needed. This transfer is not considered 'sharing' for Data Safety purposes and does not need to be declared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "(a) Vendors and Service Providers. To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Data with service providers, including hosting, cloud services and other information technology services providers; email communication software providers and email newsletter providers; sales services; customer relationship management, customer engagement, and customer feedback services; payment processors; security services; advertising partners; social networks; vendors and analytics services. Pursuant to our instructions, these parties will access, process or store Personal Data in the course of performing their duties to us.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that data is shared with service providers acting 'Pursuant to our instructions' and 'in the course of performing their duties to us'. This meets the criteria for the service provider exemption under the Google Play User Data Policy.",
+      "how_to_fix": "No action needed. This transfer is not considered 'sharing' for Data Safety purposes and does not need to be declared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "8.1 In certain circumstances, we may share your Personal Data with third parties without further notice to you, unless required by the law, as set forth below:\n(a) Vendors and Service Providers. To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Data with service providers, including hosting, cloud services and other information technology services providers; email communication software providers and email newsletter providers; sales services; customer relationship management, customer engagement, and customer feedback services; payment processors; security services; advertising partners; social networks; vendors and analytics services. Pursuant to our instructions, these parties will access, process or store Personal Data in the course of performing their duties to us.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that data is shared with service providers acting 'Pursuant to our instructions' and 'in the course of performing their duties to us'. This meets the criteria for the service provider exemption under the Google Play User Data Policy.",
+      "how_to_fix": "No action needed. This transfer is not considered 'sharing' for Data Safety purposes and does not need to be declared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "8.1 In certain circumstances, we may share your Personal Data with third parties without further notice to you, unless required by the law, as set forth below:\n(a) Vendors and Service Providers. To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Data with service providers, including hosting, cloud services and other information technology services providers; email communication software providers and email newsletter providers; sales services; customer relationship management, customer engagement, and customer feedback services; payment processors; security services; advertising partners; social networks; vendors and analytics services. Pursuant to our instructions, these parties will access, process or store Personal Data in the course of performing their duties to us.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that data is shared with service providers acting 'Pursuant to our instructions' and 'in the course of performing their duties to us'. This meets the criteria for the service provider exemption under the Google Play User Data Policy.",
+      "how_to_fix": "No action needed. This transfer is not considered 'sharing' for Data Safety purposes and does not need to be declared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "8.1 In certain circumstances, we may share your Personal Data with third parties without further notice to you, unless required by the law, as set forth below:\n(a) Vendors and Service Providers. To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Data with service providers, including hosting, cloud services and other information technology services providers; email communication software providers and email newsletter providers; sales services; customer relationship management, customer engagement, and customer feedback services; payment processors; security services; advertising partners; social networks; vendors and analytics services. Pursuant to our instructions, these parties will access, process or store Personal Data in the course of performing their duties to us.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that data is shared with service providers acting 'Pursuant to our instructions' and 'in the course of performing their duties to us'. This meets the criteria for the service provider exemption under the Google Play User Data Policy.",
+      "how_to_fix": "No action needed. This transfer is not considered 'sharing' for Data Safety purposes and does not need to be declared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "8.1 In certain circumstances, we may share your Personal Data with third parties without further notice to you, unless required by the law, as set forth below:\n(a) Vendors and Service Providers. To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Data with service providers, including hosting, cloud services and other information technology services providers; email communication software providers and email newsletter providers; sales services; customer relationship management, customer engagement, and customer feedback services; payment processors; security services; advertising partners; social networks; vendors and analytics services. Pursuant to our instructions, these parties will access, process or store Personal Data in the course of performing their duties to us.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that data is shared with service providers acting 'Pursuant to our instructions' and 'in the course of performing their duties to us'. This meets the criteria for the service provider exemption under the Google Play User Data Policy.",
+      "how_to_fix": "No action needed. This transfer is not considered 'sharing' for Data Safety purposes and does not need to be declared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "By using our app and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purchased content with Apple or Google, as part of our efforts to resolve refund requests. This information may include details about how you have accessed and interacted with the purchased content. The purpose of sharing this data is to help Apple or Google make an informed decision regarding refund requests. We ensure that such data sharing is done in compliance with Apple's and Google's policies and only as necessary to process your requests.",
+      "reason_of_removal": "User-Initiated/Consent Exemption",
+      "justification": "The policy describes sharing data with Apple or Google for the specific, user-initiated purpose of processing a refund request. This falls under the exemption for user-initiated actions.",
+      "how_to_fix": "No action needed. This transfer is not considered 'sharing' for Data Safety purposes and does not need to be declared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of service to another provider, your Personal Data and other information may be shared in the diligence process with counterparties and others assisting with the transaction and transferred to a successor or affiliate as part of that transaction along with other assets.",
+      "reason_of_removal": "Merger/Acquisition Exemption",
+      "justification": "The policy describes transferring data as part of a merger, acquisition, or sale of assets. This is a specific scenario that is exempt from being disclosed as 'sharing' in the Data Safety section.",
+      "how_to_fix": "No action needed. This transfer is not considered 'sharing' for Data Safety purposes and does not need to be declared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of service to another provider, your Personal Data and other information may be shared in the diligence process with counterparties and others assisting with the transaction and transferred to a successor or affiliate as part of that transaction along with other assets.",
+      "reason_of_removal": "Merger/Acquisition Exemption",
+      "justification": "The policy describes transferring data as part of a merger, acquisition, or sale of assets. This is a specific scenario that is exempt from being disclosed as 'sharing' in the Data Safety section.",
+      "how_to_fix": "No action needed. This transfer is not considered 'sharing' for Data Safety purposes and does not need to be declared.",
+      "lang": "English"
+    }
+  ]
+}
+```

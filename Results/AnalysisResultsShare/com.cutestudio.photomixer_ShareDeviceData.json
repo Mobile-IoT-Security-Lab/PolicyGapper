@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "16. Adjust\nPrivacy Policy: https://www.adjust.com/terms/privacy-policy/\nThe personal information it may collect are: Android device unique code (UUID), Adjust device ID (adid), Mobile identifiers such as the ID for Advertising for iOS (IDFA), Android ID (android_id), Hashed MAC address, Mobile country code, Mobile network code, Hashed IP address, Device internet service provider (isp), Device region code, Device country code, Device subdivision of country, Device city, Device postal code of IP address, Installation and first opening of an app on Your mobile device, Your interactions within an app (e.g. in-app purchases, registration), Information regarding which advertisements You have seen or clicked on, For the Unbotify/Fraud product additionally: sensory data including touch events, counting text changes, accelerometer, gyroscope, battery, light sensor, device hardware specifications and operating system version, device name\nIt is a data attribution platform, uses this data to track and attribute our users acquisition effectively.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "16. Adjust\nPrivacy Policy: https://www.adjust.com/terms/privacy-policy/\nThe personal information it may collect are: Android device unique code (UUID), Adjust device ID (adid), Mobile identifiers such as the ID for Advertising for iOS (IDFA), Android ID (android_id), Hashed MAC address, Mobile country code, Mobile network code, Hashed IP address, Device internet service provider (isp), Device region code, Device country code, Device subdivision of country, Device city, Device postal code of IP address, Installation and first opening of an app on Your mobile device, Your interactions within an app (e.g. in-app purchases, registration), Information regarding which advertisements You have seen or clicked on, For the Unbotify/Fraud product additionally: sensory data including touch events, counting text changes, accelerometer, gyroscope, battery, light sensor, device hardware specifications and operating system version, device name\nIt is a data attribution platform, uses this data to track and attribute our users acquisition effectively.",
+      "lang": "English"
+    }
+  ]
+}

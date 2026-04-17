@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location permission, ACCESS_FINE_LOCATION and ACCESS_COARSE_LOCATION, is required for geotagging of photos. Users can disable it. However, the coordinate information will not be displayed on photos.",
+      "lang": "English"
+    }
+  ]
+}

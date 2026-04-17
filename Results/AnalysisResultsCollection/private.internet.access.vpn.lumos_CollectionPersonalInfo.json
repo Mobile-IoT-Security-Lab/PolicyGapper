@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Profile Information: When using some of our Services, you may be able to add information to your profile, such as an avatar or profile picture, birthday, nickname or username, or country. You voluntarily provide this information to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Profile Information: When using some of our Services, you may be able to add information to your profile, such as an avatar or profile picture, birthday, nickname or username, or country. You voluntarily provide this information to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "To provide consumption data to Apple. If we receive a refund request for an in-app purchase from an end user, we reserve the right to provide Apple with information regarding the user's in-app purchase consumption. This includes the following data: app usage time, anonymous account identifier, total amount spent, and total amount refunded.",
+      "lang": "English"
+    }
+  ]
+}

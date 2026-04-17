@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "(a) Identity Data includes first name and last name. If you sign up using a social media account, we will also receive information from those social media services such as your name, email address, city, state, zip code and third-party ID numbers. When interacting with the Service, you may also choose to provide other profile information, including photos and other identifying information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "(b) Web payments. All purchases made through the website or web app are processed by a third party payment processor, Paddle (paddle.com). Paddle may ask you for personal and/or non-personal data, such as your name, address, email address, credit card information, or other personal data. Paddle has a privacy policy (http://paddle.com/legal-buyers/) that describes their collection and use of personal data. We do not control Paddle or its collection or use of data. Any questions or concerns about Paddle's practices should be directed to Paddle.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+Updated: February 28, 2025
+Recently updated: Clarified Tapjoy, IronSource, Unity sensitive information collected by SDK
+
+---
+Third-party SDKs
+1. MoPub
+Privacy Policy: https://www.mopub.com/en/legal/privacy
+The personal information it may collect are: id, udid
+It is an advertising platform that uses this data to track advertising performance.
+
+---
+2. FaceBook
+Privacy Policy: https://www.facebook.com/about/privacy
+The personal information it may collect are: ID_CACHE_TS_MS, AFP, ASHAS, IDFA, IDFA_FLAG, gaid
+It is a platform for statistics, advertising, and acquiring users. Uses this data to monitor product
+performance, advertising performance, and attribution channels.
+
+---
+4. PubNative
+Privacy Policy: https://pubnative.net/privacy-policy/
+The sensitive personal data we collect are: gid
+It is an advertising platform that uses this data to track advertising performance.
+
+---
+6. InMobi
+Privacy Policy: https://www.inmobi.com/privacy-policy/
+The personal information it may collect are: Google Advertising ID, Android Advertising ID, SSAID,
+MAC address, IMEI, network connection information, Country, package name, first open time
+timestamp, app brand, app net status, os version, SDK/API/JS code version, Phone height and width,
+sim operator name, firebase_device_id, app model, sim country, app version, system language,
+Advertisers may store or read cookies, IP
+It is an advertising platform that uses this data to track advertising performance.
+
+---
+7. Pubmatic
+Privacy Policy: https://pubmatic.com/legal/privacy-policy/
+The personal information it may collect are: id
+It is an advertising platform that uses this data to track advertising performance.
+
+---
+8. AdView
+Privacy Policy: https://www.adview.cn/web/overseas/policy/privacy
+The personal information it may collect are: andid, cid
+It is an advertising platform that uses this data to track advertising performance.
+
+---
+9. AdMixer
+Privacy Policy: https://admixer.com/privacy/
+The personal information it may collect are: id, device_id, aaid
+It is an advertising platform that uses this data to track advertising performance.
+
+---
+10. AdMob
+Privacy Policy: https://policies.google.com/privacy?hl=en
+The personal information it may collect are: fbs_aeid, eid, msid, gqid, qqid
+It is an advertising platform that uses this data to track advertising performance.
+
+---
+11. Fyber
+Privacy Policy: https://www.fyber.com/services-privacy-statement/
+The personal information it may collect are: Google Advertising ID, Android Advertising ID, SSAID,
+MAC address, IMEI, network connection information, Country, package name, first open time
+timestamp, app brand, app net status, os version, SDK/API/JS code version, Phone height and width,
+sim operator name, firebase_device_id, app model, sim country, app version, system language,
+Advertisers may store or read cookies, IP
+It is an advertising platform that uses this data to track advertising performance.
+
+---
+12. Criteo
+Privacy Policy: https://www.criteo.com/privacy/
+The personal information it may collect are: Id, deviceld, profileld, impld, rtbProfileld
+It is an advertising platform that uses this data to track advertising performance.
+
+---
+13. Trustlook
+Privacy Policy: https://www.trustlook.com/privacy.html
+The sensitive information it may collect are: packages, name, md5, size, source, version_code,
+version_name, cert_sha1
+Trustlook is a professional security software team, they provide us with cloud antivirus and other
+functions support. For the protection of your mobile phone security, they will judge your mobile
+phone package name and the specific download source of the package etc. when you are antivirus.
+
+---
+14. Pixalate
+Privacy Policy: https://www.pixalate.com/privacypolicy/
+The personal information it may collect are: device_id
+It is a platform for detecting cheating in advertisements.
+
+---
+15. AppLovin
+Privacy Policy: https://www.applovin.com/privacy/
+The personal information it may collect are: Name and properties of mobile application through
+which a consumer interacts with the Services, IP Address, Internet browser user-agent used to
+access the Services, Advertising IDs (IDFA/GAID).
+It is an advertising platform.
+
+---
+16. Adjust
+Privacy Policy: https://www.adjust.com/terms/privacy-policy/
+The personal information it may collect are: Android device unique code (UUID), Adjust device ID
+(adid), Mobile identifiers such as the ID for Advertising for iOS (IDFA), Android ID (android_id),
+Hashed MAC address, Mobile country code, Mobile network code, Hashed IP address, Device internet
+service provider (isp), Device region code, Device country code, Device subdivision of country, Device
+city, Device postal code of IP address, Installation and first opening of an app on Your mobile device,
+Your interactions within an app (e.g. in-app purchases, registration), Information regarding which
+advertisements You have seen or clicked on, For the Unbotify/Fraud product additionally: sensory
+data including touch events, counting text changes, accelerometer, gyroscope, battery, light sensor,
+device hardware specifications and operating system version, device name
+It is a data attribution platform, uses this data to track and attribute our users acquisition
+effectively.
+
+---
+17. Unity
+Privacy Policy: https://unity3d.com/cn/legal/privacy-policy
+The personal information it may collect are: Unique device identifier generated from the device
+MAC/IMEI/MEID, which we alter to limit the ability to identify the relevant device in the future, An
+advertising ID, such as the Apple IDFA or the Android Ad ID, IP address, A checksum of all the data
+that gets sent to verify that it did transmit correctly.
+It is an advertising platform that uses this data to track advertising performance.
+
+---
+18. Tapjoy
+Privacy Policy: https://www.tapjoy.com/zh-hans/legal/players/privacy-policy/
+The personal information it may collect are: Google Advertising ID, Android Advertising ID, SSAID,
+MAC address, IMEI, network connection information, Country, package name, first open time
+timestamp, app brand, app net status, os version, SDK/API/JS code version, Phone height and width,
+sim operator name, firebase_device_id, app model, sim country, app version, system language,
+Advertisers may store or read cookies, IP
+It is an advertising platform that uses this data to track advertising performance.
+
+---
+19. IronSource
+Privacy Policy: https://www.is.com/privacy-policy/
+The personal information it may collect are: Google Advertising ID, Android Advertising ID, SSAID,
+MAC address, IMEI, network connection information, Country, package name, first open time
+timestamp, app brand, app net status, os version, SDK/API/JS code version, Phone height and width,
+sim operator name, firebase_device_id, app model, sim country, app version, system language,
+Advertisers may store or read cookies, IP
+It is an advertising platform that uses this data to track advertising performance.
+
+---
+This Privacy Policy (the “Policy”) serves to explain what information Master File Manager and its
+affiliates and subsidiaries (collectively, “we”, “us”, or “our”) collect, and how we use and protect your
+information when you use any mobile applications that we develop and are available for download
+in the Google Play Store.
+
+---
+[SECTION: 1. What Information Do We Collect?]
+1. What Information Do We Collect?
+i. Device Information
+We collect your device and network connection information in order to provide you better
+experience when you use our app. This information depends on the context of your interactions
+with us, the choices you make, including your privacy settings, and the products and features you
+use, and may include:
+• SDK/API/JS code version, IP address, platform, timestamp, application identifier, application
+version, application distribution channel, independent device identifier, the terminal
+manufacturer, the terminal device operating system version, the location of the language, the
+time zone and the network state (Wi-Fi and so on), the CPU, and the battery use, Screen
+resolution, Memory usage, Storage usage, sim operator, sim card country, Application release
+status in google play, Ad loading strategy, Ad platform and advertising placement id.
+
+---
+We store the information collected through the Android ID tied to the device you are using. In this
+way, we can retain your advertising behavior while you are using the app. We will treat this
+information as personal information.
+
+---
+ii. Data About Your Use of the Services
+Number of clicks, landing pages, pages viewed and order of those pages, the amount of time spent
+on particular pages, the date and time of your request, number of the app opened and some viewed
+page.
+Permissions status.
+Whether the function is running normally, such as whether a virus is detected.
+Number of apps installed by users.
+
+---
+iii. Monetization and Analytical Information from Other Sources
+Third-party SDKs integrated in our app may access your information, including:
+• Google Advertising ID
+• Demographic data (e.g. determination of your IP address)
+•
+Data to fight against fraud (e.g. click fraud in advertising)
+•
+•
+•
+Data associated with your device (e.g. device type, technological information, country)
+Data to do advertising, marketing and analysis
+Advertisers may store or read cookies
+
+---
+The information collected by third-party SDKs is governed by the providers of these SDKs and we
+have no control over such third parties. The third-parties include monetization partners, such as
+Google Admob, Facebook Audience Network, MoPub, Smaato, PubNative, IronSource, ChartBoost,
+Pixalate etc., and also analytical tools partners, such as Firebase, Facebook Analytics and our self-
+built data statistics system (ECS). The links to the above-mentioned platforms' privacy policy are
+attached in the section “Third-party Privacy Policy".
+
+---
+iv. Android Advertising ID
+We use your Android advertising identifier in order to provide you with customized advertisement
+experience. It is used exclusively for advertising and analytics. Please note that the advertising
+identifier does not contain any user sensitive information that can be used to identify you as a user
+or your device. It is not connected to personally-identifiable information or associated with any
+persistent device identifier (for example: SSAID, MAC address, IMEI, etc.).
+
+---
+v. Other Information
+We may collect information that you directly and voluntarily provide to us. The information includes
+but is not limited to: your email address, the content of feedback, and the content of questionnaire
+answered by you.
+
+---
+[SECTION: 2. How Do We Use the Information?]
+i. To Improve and Optimize the Services
+To provide better Services to you, we have a legitimate interest to collect and process necessary
+data to:
+• Update and develop the Services
+• Develop and improve your experience
+• Manage the relationship with you
+•
+Customize your service experience
+•
+Respond to your comments and questions and provide support to you
+•
+Provide offers in the Services as well as in other websites and services
+•
+Send related information (e.g. updates, security alerts, support messages) to you
+
+---
+iii. To Carry Out Activities Related to Advertisements and Marketing
+To send you personalized advertising and marketing materials, we may use the information
+collected from you such as ad identifiers, age, country, region, gender, language, games played by
+you, information related to the interaction of you with the Services and with other users, and so
+forth.
+
+---
+We may also use various third party advertising and marketing partners to assist us on our behalf
+and may share information collected from you with such third parties for this purpose.
+
+---
+By accepting this Privacy Policy and downloading or continuing to use the Services, you consent to
+us and our advertising and marketing partners collecting and using information about you to
+personalize advertising and marketing materials and to improve your experience unless you opt out
+of receiving this service.
+
+---
+We encourage you to review the privacy policies of our third party advertising and marketing
+partners so that you can understand how these third parties collect, use and share your information.
+We are not responsible for the privacy policies of any third party whether accessed through the
+Services or otherwise.
+
+---
+Despite our efforts, we cannot guarantee the absolute security of your personal data, nor can we
+ensure the security of any of the communication facilities provided by us. We recommend that you
+exercise caution when disclosing any information through the Services. In particular, please note
+that any personally identifiable information or personally sensitive data that you communicate or
+disclose to any user in connection with the Services may be collected and used by others. As such,
+you should take care of the information shared online. Please also be reminded that any questions
+answers, comments, submissions that you post in the forum will be publicly available.
+
+---
+[SECTION: 4. What Are the Important Permissions We Request?]
+4. What Are the Important Permissions We Request?
+Depending on the context of your interactions with us, we may ask you to provide certain
+permissions in order to let our app perform properly. You may choose to opt-out anytime, but please
+note that not giving us these permissions can result in malfunctioning of our app. The permissions
+we ask are listed below:
+•
+Phone: read phone status and identity
+• Photos/Media/Files: read the contents of your USB storage, modify or delete the contents of
+your USB storage
+• Storage: read the contents of your USB storage, modify or delete the contents of your USB
+storage
+•
+Camera: take pictures and videos
+•
+Wi-Fi connection information: view Wi-Fi connections
+•
+•
+Device ID & call information: read phone status and identity
+Other: receive data from Internet, view network connections, full network access, close other
+apps, run at startup, control vibration, prevent device from sleeping, install shortcuts, uninstall
+shortcuts
+
+---
+[SECTION: 5. Legal Basis of Your Personal Data]
+the contract with you (for example, to provide you with the services you request and to identify and
+authenticate you); necessary to comply with legal requirements (for example, to comply with
+applicable accounting rules and to make mandatory disclosures to law enforcement); necessary for
+our legitimate interests (for example, to manage our relationship with you, to ensure the security of
+our services, to communicate with you about our products and services); and based on consent by
+our customers (for example, to place certain cookies and to share your information with third
+parties for advertising purposes).
+
+---
+In some instances, you may be required to provide us with Personal Data for processing as
+described above, in order for us to be able to provide you all of our services, and for you to use all
+the features of our apps.
+
+---
+[SECTION: 6. Your Rights]
+ii. Right of Access and Rectification
+If you request a copy of your personal information that we hold, we will provide you with a copy
+without undue delay and free of charge, except where we are permitted by law to charge a fee. We
+may limit your access if such access would adversely affect the rights and freedoms of other
+individuals. You may also request to correct or update any of your personal information held by us,
+unless you can already do so directly via the Services.
+
+---
+iii. Right to Erasure (the “Right to be Forgotten")
+You may request us to erase any of your personal information held by us that: is no longer
+necessary in relation to the purposes for which it was collected or otherwise processed; was
+collected in relation to processing that you previously consented to, but later withdrew such
+consent; or was collected in relation to processing activities to which you object, and there are no
+overriding legitimate grounds for our processing.
+
+---
+vi. Right to Data Portability
+If we process your personal information based on a contract with you or based on your consent, or
+the processing is carried out by automated means, you may request to receive your personal
+information in a structured, commonly used and machine-readable format, and to have us transfer
+your personal information directly to another “controller”, where technically feasible, unless exercise
+of this right adversely affects the rights and freedoms of others.
+
+---
+[SECTION: 9. Changes to the Policy]
+9. Changes to the Policy
+Any information that is collected is subject to the Policy in effect at the time such information is
+collected. We may, however, modify the Policy from time to time. If such change has been made, we
+will provide you additional forms of notice of modifications or updates as appropriate under the
+circumstances. Your continued use of our app or services following the change of the Policy will
+mean you accept those changes.

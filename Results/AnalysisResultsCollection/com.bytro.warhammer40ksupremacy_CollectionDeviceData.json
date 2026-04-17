@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Use of technologies belonging to Taboola Inc. (Taboola Inc., Atrium Tower, 2 Jabotinsky St., 32nd fl., Ramat Gan 5250501 Tel Aviv) allows us to utilize user-specific advertising based on surfing behavior and customer interests. Taboola uses cookies (or similar technologies) to determine which websites you visit frequently and record your movements on our website. Taboola gathers device-related data and protocol data and creates usage profiles using pseudonyms. The usage profiles are not merged with the data about the bearer of the pseudonym and do not allow conclusions to be drawn on personal data. To do this, we communicate your IP address to Taboola. This processing is carried on the legal basis of our legitimate economic interest (Art. 6 paragraph 1 letter f GDPR.) You can object to inclusion in the tracking via the following link: https://www.taboola.com/privacy-policy#user-choices-and-optout. Once you have successfully opted out, you will no longer see personalized content/adverts.",
+      "lang": "English"
+    }
+  ]
+}

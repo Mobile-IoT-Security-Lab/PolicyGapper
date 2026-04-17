@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Through certain Services, we may collect personal information about your online activities on websites and connected devices over time and across third-party websites, devices, apps and other online features and services. We may use third-party analytics services on the Services. The information we obtain may be disclosed to or collected directly by these providers and other relevant third parties who use the information, for example, to evaluate use of the Services or help administer the Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Moreover, when you participate in our events or promotions, we may ask for your name, phone number, address, email address and any other information required to deliver prizes and to respond to inquiries. Also, when you subscribe to the Newsletter, such as WEBTOON ads Newsletter or Canvas Newsletter, we collect your email address to send you updates on advertising placements, events, and other relevant information. Furthermore, you may choose to provide your name, company name, and job title to help us tailor relevant business communications and better understand our audience. However, these details are optional, and your decision to provide them will not affect your ability to receive the newsletter.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Moreover, when you participate in our events or promotions, we may ask for your name, phone number, address, email address and any other information required to deliver prizes and to respond to inquiries. Also, when you subscribe to the Newsletter, such as WEBTOON ads Newsletter or Canvas Newsletter, we collect your email address to send you updates on advertising placements, events, and other relevant information. Furthermore, you may choose to provide your name, company name, and job title to help us tailor relevant business communications and better understand our audience. However, these details are optional, and your decision to provide them will not affect your ability to receive the newsletter.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Creator Profile information: We may request information that you have voluntarily shared with the public through your Creator Profile page, including your profile picture, bio, social media links, website and more.\nWe may request that your PayPal ID or Patreon ID be linked to the Service.\nWe may request your uTip ID to provide reward or bonus.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "AD Revenue Payment Information: If you choose to provide your PayPal account, we may ask for additional information such as your Name (Legal First Name/Business Alias), Full name/Business Name, Country, Residency, Address, Postal code, E-mail, Signature and Tax ID (or Social Security Number where applicable) for tax processing purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "- Customer Care information: To provide responses when you contact our Customer Care, we may collect any information you choose to provide in your requests or inquiries. When you communicate with our Customer Care staff or others, your communications will be transmitted through our systems, including your email address.",
+      "lang": "en"
+    }
+  ]
+}

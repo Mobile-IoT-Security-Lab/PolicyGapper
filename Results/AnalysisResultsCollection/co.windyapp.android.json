@@ -1,0 +1,69 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "You may provide us with your personal data in a number of ways, including, without limitation, when you sign up for and use the Services; have previously provided us with personal information prior to this Privacy Policy or last updates coming into effect; purchase a subscription or make any payment for the Services; subscribe to any alerts, information releases, news, newsletters, updates and media releases; complete and submit any forms to us; post any content on or through the App; contact us directly in person or via any medium including but not limited to by mail, telephone, social media and commercial electronic messages; communicate with us for any matters and interact with or browse the App generally.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may receive data about how and when you use the Services, store it in log files or other types of files associated with your account, and link it to other information we collect about you. This data may include, for example, your IP address, time, date, browser used, and actions you have taken within the App. This type of data helps us to improve our Services for both you and for all of our users.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect data from every visitor and customer of the App, in particular we automatically collect data about your visit to the App, your usage of the Services and your app and website browsing activities. This anonymized information may include IP address, browser type, browser language, cookies data, performance specifications of the user's hardware and software, date and time of access to the App and the URL of the page requested, other information about how you interacted with our App and our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "For analytics purposes, we use UserX Analytics (https://userx.pro/) provided by BUMPIN L.L.C-FZ and Microsoft Clarity provided by Microsoft Corporation (https://clarity.microsoft.com/), which, in addition to collecting standard anonymized usage data (such as taps, swipes, and virtual device identifiers), also captures anonymized screenshots during app usage. All collected data are ANONYMIZED on the side of end-user devices and DOES NOT CONTAIN any personal, financial or payment information, other sensitive data, or user-generated private content. All transmitted data DOESN'T CONTAIN any information resulting from the device camera, microphone, or other user inputs in the Application. All transmitted data is protected by SSL encryption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Personal data that may be provided by you includes, but is not limited to:\n1) contact information such as your full name, current and valid email address;\n2) account password;\n3) physical address;\n4) phone number;\n5) billing information and purchase history;\n6) more detailed contact preferences;\n7) location data.",
+      "lang": "en"
+    }
+  ]
+}

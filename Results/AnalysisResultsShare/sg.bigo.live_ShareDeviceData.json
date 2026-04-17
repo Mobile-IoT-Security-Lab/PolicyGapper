@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "• Mobile advertising identifiers, which are used by mobile operating systems and made available to advertising providers to gather metrics on mobile apps (Apple's IDFA or Google's AAID) to help us and advertisers provide ads that may be more relevant to your interests;",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• Cookies, small pieces of data to enable us to provide certain features, which are collected by us or our business partners to measure and understand the web pages you click on and how you use Bigo Services, enhance your experience using Bigo Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Cookies, small pieces of data to enable us to provide certain features, which are collected by us or our business partners to measure and understand the web pages you click on and how you use Bigo Services, enhance your experience using Bigo Services.",
+      "lang": "English"
+    }
+  ]
+}

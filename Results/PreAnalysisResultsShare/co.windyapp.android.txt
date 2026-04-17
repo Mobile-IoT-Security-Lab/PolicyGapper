@@ -1,0 +1,194 @@
+1.1.3 By giving us this data, you consent to this data being collected, used, disclosed,
+transferred to the United States, Europe, and stored by us, as described in our Terms
+and this Privacy Policy.
+
+---
+
+1.2.2 For analytics purposes, we use UserX Analytics (https://userx.pro/) provided by
+BUMPIN L.L.C-FZ and Microsoft Clarity provided by Microsoft Corporation
+(https://clarity.microsoft.com/), which, in addition to collecting standard anonymized
+usage data (such as taps, swipes, and virtual device identifiers), also captures
+anonymized screenshots during app usage. All collected data are ANONYMIZED on the
+side of end-user devices and DOES NOT CONTAIN any personal, financial or payment
+information, other sensitive data, or user-generated private content. All transmitted
+data DOESN'T CONTAIN any information resulting from the device camera, microphone,
+or other user inputs in the Application. All transmitted data is protected by SSL
+encryption.
+
+---
+
+1.4.2 We may set our own cookies and use third parties cookies (e.g. for advertising,
+interactive content and analytics).
+
+---
+
+c) Analytics and customization cookies: these cookies collect information that is
+used either in aggregate form to help us understand how our App is being used or
+how effective our marketing campaigns are, or to help us customize our App for
+you in order to enhance your experience.
+
+---
+
+d) Advertising cookies: these cookies are used to make advertising messages more
+relevant to you. They perform functions like preventing the same ad from
+continuously reappearing, ensuring that ads are properly displayed, and in some
+cases selecting advertisements that are based on your interests.
+
+---
+
+e) Stripe_mid and Stripe_sid: these are cookies that enable the process of card
+transactions on the App. The transactions is made by Stripe without storing any
+credit card information.
+
+---
+
+1.6 Data from third party sources
+
+1.6.1 We may receive some information about you, such as name, email address,
+demographic information, IP address, location, and use of social media websites, from
+third parties.
+
+---
+
+1.7 Opting-Out
+
+1.7.1 You may decline to have your personal data collected via third party tracking
+technologies by navigating to the settings feature in your browser and declining all third
+party cookies or declining third party cookies from specific sites, or, for mobile, limiting
+ad tracking or resetting the advertising identifier via the privacy settings on your mobile
+device.
+
+---
+
+1.7.2 If your browser does not permit you to block any cookies and similar technologies,
+you can use the following third party tools to decline the collection and use of
+information for the purpose of serving your interest based advertising:
+
+a) The NAI's opt-out platform: http://www.networkadvertising.org/choices/
+
+b) The EDAA's opt-out platform http://www.youronlinechoices.com/
+
+--- [PAGE BREAK] ---
+
+c) The DAA's opt-out platform: http://optout.aboutads.info/?c=2&lang=EN
+
+--- [SECTION: 3. Use of the Data] ---
+
+3.1.9 to protect our rights and safety as well as the rights and safety of our customers and
+third parties;
+
+---
+
+3.1.11 to provide information to representatives and Service Providers;
+
+---
+
+3.1.13 to respond to lawful requests by public authorities, including to meet national security
+or law enforcement requirements;
+
+---
+
+3.1.16 to transfer your information in the case of a sale, merger, consolidation, liquidation,
+reorganization, or acquisition.
+
+--- [SECTION: 4. Sharing of Data] ---
+
+4. Sharing of Data
+
+4.1 We do not share personal information you have provided to us without your consent,
+unless:
+
+4.1.1 Doing so is appropriate to carry out your own request;
+
+4.1.2 We believe it is needed to enforce our Terms, or if it is legally required;
+
+4.1.3 We believe it is needed to detect, prevent or address fraud, security or technical issues;
+
+4.1.4 Otherwise protect our property, legal rights, or that of others.
+
+---
+
+4.3 We don't share your personal information with third parties, except for people and other
+entities that perform certain tasks on our behalf and who are under our control (our “Service
+Providers"). We may need to share personal information with our Service Providers in order to
+provide products or services to you. Unless we tell you differently, our Service Providers do
+not have any right to use Personal Information or other information we share with them
+beyond what is necessary to assist us. You hereby consent to our sharing of Personal
+Information with our Service Providers. Our Service Providers are:
+
+| # | Entity Name | Webpage | Purpose |
+| --- | --- | --- | --- |
+| 1. | Google LLC | https://analytics.google.com/ | We use Google Analytics for analytical purpose |
+| 2. | Amplitude Inc. | https://amplitude.com | For analytical purpose |
+| 3. | AppsFlyer | https://www.appsflyer.com | For campaign performance |
+| 4. | Meta Platforms, Inc. | https://www.facebook.com/business/tools/meta- pixel | We use Meta Pixel for ads campaign |
+| 5. | Stripe, Inc. | https://stripe.com/ | For payment processing |
+| 6. | UserX Analytics, BUMPIN L.L.C-FZ | https://userx.pro/ | For app analytics (session recordings, heat maps, etc.) |
+| 7. | Microsoft Corporation | https://clarity.microsoft.com/ | For app analytics (session recordings, heat maps, etc.) |
+
+---
+
+4.4 Only aggregated, anonymized data is periodically transmitted to external services to help
+us improve the App and Services. To receive the current list of external services that we use
+for this purpose, please email at windy@windyapp.co.
+
+--- [SECTION: 5. Safeguarding your Personal Data] ---
+
+5.1 The protection of your personal data is vital to us. We take commercially reasonable
+measures to protect your personal data from loss, misuse and unauthorized access,
+disclosure, alteration, and destruction, considering the risks involved in the processing and
+the nature of the personal data. Our employees, contractors and any business partners can
+access personal data on a need-to-know basis, and under a strict duty of maintaining
+confidentiality. We use encryption for sensitive information, and we test our system on a
+regular basis to ensure we comply with industry practices and standards. While we strive to
+use commercially acceptable means to protect your personal data, no method of
+transmission over the Internet, or method of electronic storage, is completely secure, and we
+cannot guarantee the absolute security of any data.
+
+---
+
+5.2 You agree to protect the security of your login information and password and not to
+transfer such information to any third party. We will not be liable to you for the use of your
+account by any third party.
+
+--- [SECTION: 8. Merge of Company] ---
+
+8. Merge of Company
+
+8.1 If WindyApp merges with, or is acquired by, another company or organization, or sells all
+or a portion of its assets, your personal data may be disclosed to our advisers and any
+prospective purchaser or any prospective purchaser's adviser and may be among the assets
+transferred. However, personal data will always remain subject to this Privacy Policy.
+
+--- [SECTION: 10. Additional Information for California Residents] ---
+
+10. Additional Information for California Residents
+
+10.1 In this section we describe how we handle personal information of California residents
+under the California Consumer Privacy Act (“CCPA”). This clause covers personal information
+that we collect, share and use for the last 12 months.
+
+---
+
+10.3 We share certain personal information in accordance with section 4 "Sharing of Data".
+However, we do not sell your personal information to third parties.
+
+---
+
+10.5.4 List of service providers. You have the right to request a list of third parties with whom
+we shared personal information (if any) for marketing purposes and what kind of information
+we shared during the previous calendar year.
+
+--- [SECTION: 12. Additional Information for Virginia Residents] ---
+
+5) you have the right to opt-out of certain types of processing of personal information,
+including:
+
+- Opt-Out of targeted advertising by us;
+
+- Opt-Out of any processing of personal information for the purposes of making
+decisions that produce legal or similarly significant effects.
+
+---
+
+12.2 WindyApp does not sell personal information.

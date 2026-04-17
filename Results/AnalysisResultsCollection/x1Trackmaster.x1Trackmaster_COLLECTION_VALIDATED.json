@@ -1,0 +1,140 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include: • Terms you search for • • • • • • • Videos you watch Views and interactions with content and ads Voice and audio information Purchase activity People with whom you communicate or share content Activity on third-party sites and apps that use our services Chrome browsing history you've synced with your Google Account",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We collect this information when a Google service on your device contacts our servers for example, when you install an app from the Play Store or when a service checks for automatic updates. If you're using an Android device with Google apps, your device periodically contacts Google servers to provide information about your device and connection to our services. This information includes things like your device type and carrier name, crash reports, which apps you've installed, and, depending on your device settings, other information about how you're using your Android device.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include: • Terms you search for • • • • • • • Videos you watch Views and interactions with content and ads Voice and audio information Purchase activity People with whom you communicate or share content Activity on third-party sites and apps that use our services Chrome browsing history you've synced with your Google Account",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "The information we collect includes unique identifiers, browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number. We also collect information about the interaction of your apps, browsers, and devices with our services, including IP address, crash reports, system activity, and the date, time, and referrer URL of your request.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "When you purchase services or physical goods from us, you may provide us information like your shipping address or delivery instructions. We use this information for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you create a Google Account, you provide us with personal information that includes your name and a password. You can also choose to add a phone number or payment information to your account. Even if you aren't signed in to a Google Account, you might choose to provide us with information – like an email address to communicate with Google or receive updates about our services.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Various laws and regulations require us to put in place measures to confirm that our users are old enough to use our services. To help determine your age, we process the date of birth you provide. We also process information about your activity in our services, both when you're signed in to a Google Account or signed out, and use machine learning technology to determine if you are likely over 18. In certain cases, if we cannot confirm that you are old enough to use our services by other means, we can request other information to verify your age, like your government ID, credit card, a photo of you, or your phone number.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "When you create a Google Account, you provide us with personal information that includes your name and a password. You can also choose to add a phone number or payment information to your account. Even if you aren't signed in to a Google Account, you might choose to provide us with information – like an email address to communicate with Google or receive updates about our services.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may\ninclude:\n•\nTerms you search for\n•\nVideos you watch\n•\nViews and interactions with content and ads\n•\nVoice and audio information\n•\nPurchase activity\n•\nPeople with whom you communicate or share content\n•\nActivity on third-party sites and apps that use our services\n•\nChrome browsing history you've synced with your Google Account",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Voice and audio information\nFor example, you can choose whether you want Google to save an audio recording to your Google Account when you interact with Google Search, Assistant, and Maps. When your device detects an audio activation command, like \"Hey Google,\" Google records your voice and audio plus a few seconds before the activation. Learn more",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Voice and audio information\nFor example, you can choose whether you want Google to save an audio recording to your Google Account when you interact with Google Search, Assistant, and Maps. When your device detects an audio activation command, like \"Hey Google,\" Google records your voice and audio plus a few seconds before the activation. Learn more",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "If you connect your Google Account to your Google Home, you can manage your information and get things done through the Google Assistant. For example, you can add events to your Google Calendar or get your schedule for the day, ask for status updates on your upcoming flight, or send information like driving directions to your phone. Learn more",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "To provide personalized services, including content and ads To customize our services for you, including providing recommendations, personalized content, and customized search results. Examples of processing activities: • Google's Security Checkup feature provides security tips adapted to how you use Google products. • Google News may provide you with local news results based on your approximate location. • Google Search may provide you with results based on your approximate location. • Google Assistant can use your contacts to send a message at your request, like \"Send a text to John Smith.\" • Google Play uses information like apps you've already installed and videos you've watched on YouTube to suggest new apps you might like. • We may display a Google Doodle on the Search homepage to celebrate an event specific to your country. • Google can show you ads based on the context of the site you're visiting, like ads for gardening equipment on a page about gardening tips. • When you're signed in to your Google Account and have the Web & App Activity control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services. Depending on your settings, to show you personalized ads based on your interests. Examples of processing activities: • If you search for \"mountain bikes\" or watch videos of mountain biking, you may see an ad for sports equipment in your search results or on YouTube. • If you watch videos about baking on YouTube, you may see more ads that relate to baking as you browse the web. • You may also see personalized ads based on information from the advertiser. If you shopped on an advertiser's website, for example, they can use that visit information to show you ads.",
+      "justification": "The privacy policy states that this data is collected by the app.",
+      "how_to_fix": "Declare this data type as 'collected' in the 'Data collected' section of your app's Data safety form in the Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

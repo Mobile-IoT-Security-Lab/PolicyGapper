@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "• Contact Information, including your country or region, name, surname, e-mail address or username.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• User Generated Content, including any files, documents, videos, images, data, or information you choose to upload or transmit through your communications with us or your use of our Services.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "• User Generated Content, including any files, documents, videos, images, data, or information you choose to upload or transmit through your communications with us or your use of our Services.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• User Generated Content, including any files, documents, videos, images, data, or information you choose to upload or transmit through your communications with us or your use of our Services.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "• Social Media: When you interact with our Services through various social media networks, such as when you \"Like\" our official page on Facebook or follow us, or share our official page's content on Google, Facebook, X, or other social networks, we may receive some information about you. The data we receive depends on your privacy settings with the social network and may include name, profile picture and friends list. You should always review and, if necessary, adjust your privacy settings on third-party websites, social media networks, and services before making your personal data publicly available and/or linking or connecting your account on one service to other services.",
+      "lang": "en"
+    }
+  ]
+}

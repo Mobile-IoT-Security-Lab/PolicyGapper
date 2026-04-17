@@ -1,0 +1,317 @@
+What information do we collect?
+We collect the following categories of information and use it as
+described in this Privacy Supplement:
+
+---
+Registration Information
+Some features of the Service may require the use of HERE
+account, for example when you want to synchronise your
+collections. You may continue to use the other features of the
+Service without signing in. When you sign-up for a HERE account,
+we collect your name, email address and your date of birth. When
+you are logged in with your HERE account, we will try to
+automatically synchronise your recent searches and your
+collections in association with your HERE account.
+
+---
+Contact Information and Additional Information
+When you use the feature of the Service that enables you to book
+a ride with any third-party transportation services provider (i.e., a
+taxi company) (“Transport Provider”), who provides its
+transportation services to you through such feature, we collect
+your name and phone number. In addition, each time you use this
+feature of the Service to book rides, we collect your relevant pick-
+up and drop-off locations, pick up time, and any additional
+information that you chose to provide us with; For example, when
+you add notes to your booking.
+
+---
+Information Provided by Transport Providers
+After you book a ride with your chosen Transport Provider, we will
+show you the location of the driver that will pick you up, if it is
+provided to us from the relevant Transport Provider, on a map or
+by any other relevant means, until your ride ends. This data is
+provided to you, so that you may know where your driver is and
+may track the progress of the ride.
+
+---
+Location data and place information
+Our Service makes use of information about your actual location
+(“Location Data”) and information about places (“Place
+Information”). Location Data reveals where you currently are or
+where you have been. Location Data is based on available
+
+--- [PAGE BREAK] ---
+positioning methods, such as Assisted GPS. In many device
+models the user interface of the Service identifies the use of
+positioning with an icon. Place Information is general information
+pertaining to particular geographical location (e.g. city or a
+location of a restaurant) that you may have provided to us, for
+example your collections.
+
+---
+When you start to use the Service, the applicable feature of the
+Service activates your selected positioning methods to retrieve
+your current location.
+
+---
+The Service may send your Location Data to HERE when you use
+location enabled features of the Service, such as enable
+navigation, ask information about nearby services or offerings,
+use search features, provide you with relevant offers from
+Transport Providers and public transportation vendors, as well as
+when the Service asks for new maps for new areas you have
+navigated into. Location Data may also be collected when you use
+the traffic feature for service improvement purposes without
+identifying you personally. Place Information may be sent to HERE
+for example when you synchronise your collections.
+
+---
+Push Notifications
+You will be asked to allow us to send you push notifications via
+the application. We ask you to grant us with this permission for
+the purpose of enabling us to communicate with you about the
+Service.
+
+---
+Information about Service usage
+You may participate to improving our services. See Your privacy in
+the HERE Improvement Program for more details.
+The Service may include HERE-provided positioning services,
+including Wi-Fi or other network-based positioning methods. The
+use of these technologies and positioning services may involve
+sharing any or all of the following with HERE: Location Data,
+speed, direction and timestamp; number of satellites used in
+positioning; parameters of nearby mobile network towers;
+parameters of nearby Wi-Fi routers and/or Bluetooth® beacons;
+Mobile Country Code and Mobile Network Code of your mobile
+subscription. This information is sent to us when you use the
+
+--- [PAGE BREAK] ---
+Service, after which it is deleted from your device. We do not use
+this data to identify you personally or combine this information
+with your HERE account. For more information, please see HERE
+Privacy Notice at Data contribution for HERE Network Positioning
+via HERE Software Development Kit (SDK) | Legal, security, privacy
+and compliance.
+
+---
+When you decide to use the Traffic features of the Service,
+Location Data, speed, direction and timestamp are sent from your
+device to HERE to detect traffic jams, traffic patterns, changed
+road conditions and other such conditions so that we can provide
+you with better service. This information is analysed to
+distinguish independent routes and traffic patterns and contains
+an identifier, which is persistent for the duration of the route.
+
+---
+You may choose the extent to which you contribute to the
+improvement of our services. In the context of Traffic features of
+the Service, you can provide us with the Location Data, speed,
+direction and timestamp, along with the changing identifier, either
+when you use the Service, when the Service is not actively used or
+even when the applicable Service is closed.
+
+---
+If the application is closed, we'll attempt to detect when you're
+driving to enable the background collection. We may use methods
+available from the mobile operating system or other contextual
+information to detect driving scenarios. You can always change
+your Traffic preferences in the application settings either in
+Settings or About.
+
+---
+Device and Technical information
+In addition to personal data that you actively provide when you
+create a HERE account and/or book a ride with a Transport
+Provider, after you download and install the application, or book a
+ride via HERE WeGo, certain technical details of your client as well
+as your transactions with HERE may be automatically collected by
+HERE, including your device ID or any other unique identifier,
+advertiser ID (if applicable), publisher ID (if applicable), the device
+on which you installed the application and/or the device via
+which you use the Service, operator, device type and model,
+device manufacturer, application version, operating system and
+version, browser type and version, city, language, referral URL, IP
+address, local time, push notification settings, screen resolution,
+memory and if your GPS is enabled/disabled in your application.
+
+--- [PAGE BREAK] ---
+Support Information
+When you interact with us via support or feedback, we will also
+collect certain personal data generated by your use of the Service
+or personal data that you choose to share with us to better
+respond to your inquiries. We may, in accordance with applicable
+law, record your communication with our support team or with
+other similar contact channels.
+
+---
+Cookies and Related Technologies
+We use cookies, web beacons and other similar technologies for
+purposes such as: to operate and improve the Service, our
+websites related services, serve and measure the effectiveness of
+advertising campaigns, and analyze the Service traffic and trends,
+and the online behaviors and interests of users who interact with
+the Service. Please visit our Cookie Policy to find out more about
+how we use cookies and how you can disable cookies by browser
+settings or otherwise.
+
+---
+We may use elements provided by third-parties such as cookies,
+web beacons, SDKs, and other similar technologies that are
+placed by these third parties on our behalf to identify your device
+when you visit our websites and use the Service, as well as when
+you visit other online sites and services. We use the services of
+these third parties to provide us with audience measurement and
+analytics services, to serve advertisements on our behalf across
+the Internet, and to track and report on the performance of such
+advertisements. Third parties use of cookies, web beacons, SDKs,
+and other similar technologies is governed by the privacy notices
+of those third parties, and this Privacy Supplement does not
+apply to the data processing activities of those third parties. We
+do not control how third-party partners process your data, and
+we encourage you to visit their websites to learn more about their
+privacy practices.
+
+---
+We use Amplitude for Service analytics and to determine which
+areas of the Service users like and don't like, based on traffic to
+those areas, and allows us to collect metrics on how users
+interact with the Service. This helps us continue to build a better
+service for you. You can learn more about how Amplitude
+protects your personal data by clicking here:
+https://amplitude.com/privacy.
+
+---
+We also collect social media handles, content, and other data
+posted on our official social media pages and information (such
+
+--- [PAGE BREAK] ---
+as email address and other information) you allow to be shared
+through our social media apps, tools, widgets and plug-ins.
+
+---
+Provision and development of the Service
+We collect and process your information in order to provide you
+with the Service, to provide you with a better experience while
+using the Service, to provide you with technical support and to
+develop our products and services.
+
+---
+Location based advertising
+The Service may include provision of location based advertising
+or other similar content. For example if you ask for weather
+information you may be served with advertising content tailored
+to that location.
+
+--- [PAGE BREAK] ---
+Performance of a contract with you
+We collect and process your personal data to perform our
+obligations under the Terms; For example, we collect your
+Location Data in order to provide you with navigation services and
+offer you with transportation options and services to your
+destinations.
+
+---
+Our legitimate interests.
+In some circumstances, it may be necessary for us to process your
+personal data for the legitimate interests of our ongoing business
+operations or the operation of the Service. Where we rely on a
+legitimate interest to process your data, we will only do so when
+our interests are not outweighed by your individual rights and
+freedoms. We process the following data on the basis of
+legitimate interests: Support Information, and Information about
+Service usage.
+
+--- [PAGE BREAK] ---
+There is certain data which we will only use if you choose to share
+it with us; For example, location Data and Push Notifications. You
+may withdraw your consent, at any time, via your mobile device's
+settings. Doing so will bar us from processing of your personal
+data based on your consent from that day onward, but will not
+impact the lawfulness of the processing of your personal data
+based on your consent before it was withdrawn. Please note that
+some of the features of the Service may only be available to you
+based on consent.
+
+---
+How long do we retain Personal Data?
+We endeavor to only collect personal data that are necessary for
+the purposes for which they are collected, and to retain such data
+for no longer than is necessary for such purposes. The length of
+time personal data is retained, and criteria for determining that
+time, are dependent on the nature of the personal data and the
+purpose for which it was provided. For example, your personal
+data related to managing your HERE account (such as name,
+email address, and account content and preferences) are
+maintained for as long as they are retained by you within your
+HERE account. Other data, such as records of your activity within
+the Service (as applicable), are typically maintained only for a
+short period before being anonymized. You may contact the HERE
+Privacy Office at privacy@HERE.com to obtain additional
+information about retention of your personal data.
+
+---
+Your choices
+The Service offers a variety of choices to allow you to control how
+your Location Data and other information are collected.
+
+---
+You may use the Service in offline or online mode. No Location
+Data or other information is sent to HERE if you only use the
+Service in offline mode. Please note, that your device may
+nevertheless continue to store and have already stored
+
+--- [PAGE BREAK] ---
+information which may be sent to HERE as set forth in this Privacy
+Supplement.
+
+---
+You can only enable the Traffic features if you also contribute to
+the improvement of our services. Once enabled, you can choose
+the extent to which you contribute to the improvement of our
+services: only when the application is running or when the
+application is running or closed. Please note that you may be able
+to independently turn the Traffic layer on and off. This only
+impacts the visualization of the Traffic content.
+
+--- [PAGE BREAK] ---
+We may use third parties to advertise our content or Service on
+other online or any Service-based social networking platforms.
+When you interact with our advertisements on these platforms,
+such as clicking on the advertisement, the advertiser or social
+networking platform collects information such as the platform on
+which the advertisement appeared, the advertiser ID (if
+applicable), publisher ID (if applicable) and geolocation. These
+third-party platforms may use web technologies, such as cookies,
+to enable us to display promotional materials when you visit
+other websites, or other targeting and retargeting technologies, to
+enable us to display promotional materials when you visit other
+websites, applications or social networking platforms. The
+collection and use of your personal data by such third-party
+platforms is governed by the terms of use and privacy policies of
+those third parties. This Privacy Supplement does not apply to
+such third-party platforms processing your data, and we are not
+responsible for their processing activities. We encourage you to
+review the terms of use and privacy policies of the social
+platforms where you see our advertising content.
+
+--- [PAGE BREAK] ---
+Modifications to this Privacy Supplement and to the Services
+We may modify this Privacy Supplement at any time, at our
+discretion, and modifications are effective upon being posted on
+any part of the Service, the next time you use the Service whether
+by pop-up notification or otherwise. Such modifications will not
+change the scope of our collection or use of your personal data
+collected before such modifications. The date on which this
+Privacy Supplement was last revised is identified at the top of the
+page. If we make material changes to how we treat your personal
+data, we will also ask for your consent to such changes through
+the Service. In case you choose not to provide your consent upon
+a material change, we may need to close your account.
+
+---
+The features of the Service, including features that involve data
+collection, use, and disclosure, will evolve over time as we
+develop new, or discontinue existing, functionalities for the
+Service. We may require registration or consent for additional

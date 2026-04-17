@@ -1,0 +1,23 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:\n• Google Play Services\n• AdMob\n• Firebase Crashlytics\n• One Signal",
+      "justification": "The privacy policy states the app uses third-party services like AdMob and One Signal, which collect Device or other IDs for advertising and push notifications. Sharing data with an advertising partner like AdMob is considered 'sharing' under Google Play's policy and was not declared in the app's Data Safety section.",
+      "how_to_fix": "In the Google Play Console, go to the Data safety section. Under the 'Data sharing' question for the 'Device or other IDs' data type, declare that this data is shared with third parties. Specify the purpose, for example, as 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:\n• Google Play Services\n• AdMob\n• Firebase Crashlytics\n• One Signal",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy mentions using Firebase Crashlytics. Data processed by a service provider like Crashlytics solely on the developer's behalf for app functionality (e.g., crash reporting) is exempt from being disclosed as 'sharing'.",
+      "how_to_fix": "No action is required for this item. The use of Firebase Crashlytics for crash reporting is covered by the service provider exemption and does not need to be declared as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

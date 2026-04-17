@@ -1,0 +1,71 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Se clicchi su un link esterno o su un annuncio pubblicitario tramite i nostri servizi, l'operatore pubblicitario o il sito web collegato potrebbe scoprire che sei arrivato tramite ciaoaMigos.it e raccogliere ulteriori informazioni sull'annuncio su cui hai cliccato, come dati demografici del pubblico. Potrebbero inoltre raccogliere altri dati personali, come cookie, identificatori e indirizzo IP.",
+      "justification": "The policy states that advertising operators may collect identifiers ('identificatori') and IP addresses when a user clicks on an ad. This is considered sharing with a third party for their own purposes and must be declared.",
+      "how_to_fix": "Declare in the Data Safety section that 'Device or other IDs' are shared with third parties, likely for 'Advertising or marketing' purposes.",
+      "lang": "Italian"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "CiaoAmigos.it è un sito pubblico, e i profili iscritti sono immediatamente visibili e consultabili da chiunque nel mondo. Ti offriamo anche la possibilità di comunicare in modo privato, attraverso chat e messaggi diretti. Puoi utilizzare la piattaforma di CiaoAmigos.it con un nickname. Non ti verrà richiesto di utilizzare nome e cognome reali.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy states that user profiles and nicknames are made public as a core functionality of the app. This is a user-initiated action and is exempt from the 'sharing' disclosure requirement.",
+      "how_to_fix": "No action required for the 'sharing' declaration, as this falls under a user-initiated action exemption. Ensure the 'collection' of this data is properly declared.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Videochat, Profilo e altre Informazioni Pubbliche: CiaoAmigos.it è progettato principalmente per consentirti di condividere informazioni all'interno della community. Le informazioni che ci fornisci tramite la nostra piattaforma, come il profilo e i dati che decidi di condividere, sono visibili solo agli utenti registrati. Puoi fornirci informazioni di profilo, come una tua breve descrizione, la tua posizione, la tua preferenza sessuale o una tua foto. Le tue informazioni pubbliche includono i commenti che scrivi all'interno della community, le informazioni sul tuo account come l'ora di creazione, la lingua, il Paese e il fuso orario.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy states that users can voluntarily provide their sexual preference for their profile, which is shared with other users. This is a user-initiated action and is exempt from the 'sharing' disclosure requirement.",
+      "how_to_fix": "No action required for the 'sharing' declaration, as this falls under a user-initiated action exemption. Ensure the 'collection' of this data is properly declared.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Videochat, Profilo e altre Informazioni Pubbliche: CiaoAmigos.it è progettato principalmente per consentirti di condividere informazioni all'interno della community. Le informazioni che ci fornisci tramite la nostra piattaforma, come il profilo e i dati che decidi di condividere, sono visibili solo agli utenti registrati. Puoi fornirci informazioni di profilo, come una tua breve descrizione, la tua posizione, la tua preferenza sessuale o una tua foto. Le tue informazioni pubbliche includono i commenti che scrivi all'interno della community, le informazioni sul tuo account come l'ora di creazione, la lingua, il Paese e il fuso orario.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy states that users can voluntarily provide their location ('la tua posizione', 'il Paese') for their profile, which is shared with other users. This is a user-initiated action and is exempt from the 'sharing' disclosure requirement.",
+      "how_to_fix": "No action required for the 'sharing' declaration, as this falls under a user-initiated action exemption. Ensure the 'collection' of this data is properly declared.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Videochat, Profilo e altre Informazioni Pubbliche: CiaoAmigos.it è progettato principalmente per consentirti di condividere informazioni all'interno della community. Le informazioni che ci fornisci tramite la nostra piattaforma, come il profilo e i dati che decidi di condividere, sono visibili solo agli utenti registrati. Puoi fornirci informazioni di profilo, come una tua breve descrizione, la tua posizione, la tua preferenza sessuale o una tua foto. Le tue informazioni pubbliche includono i commenti che scrivi all'interno della community, le informazioni sul tuo account come l'ora di creazione, la lingua, il Paese e il fuso orario.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy states that users can voluntarily provide their location ('la tua posizione') for their profile, which is shared with other users. This is a user-initiated action and is exempt from the 'sharing' disclosure requirement.",
+      "how_to_fix": "No action required for the 'sharing' declaration, as this falls under a user-initiated action exemption. Ensure the 'collection' of this data is properly declared.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Videochat, Profilo e altre Informazioni Pubbliche: CiaoAmigos.it è progettato principalmente per consentirti di condividere informazioni all'interno della community. Le informazioni che ci fornisci tramite la nostra piattaforma, come il profilo e i dati che decidi di condividere, sono visibili solo agli utenti registrati. Puoi fornirci informazioni di profilo, come una tua breve descrizione, la tua posizione, la tua preferenza sessuale o una tua foto. Le tue informazioni pubbliche includono i commenti che scrivi all'interno della community, le informazioni sul tuo account come l'ora di creazione, la lingua, il Paese e il fuso orario.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy states that public information includes comments ('commenti') users write in the community. This is a user-initiated action and is exempt from the 'sharing' disclosure requirement.",
+      "how_to_fix": "No action required for the 'sharing' declaration, as this falls under a user-initiated action exemption. Ensure the 'collection' of this data is properly declared.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Le informazioni che condividi su CiaoAmigos.it sono accessibili solo agli altri membri registrati della community. Quando condividi contenuti come foto e video tramite i Servizi, dovresti prestare attenzione alle informazioni che rendi visibili. Possiamo utilizzare queste informazioni per capire quali argomenti potrebbero interessarti.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy states that users can share photos with other members of the community. This is a user-initiated action and is exempt from the 'sharing' disclosure requirement.",
+      "how_to_fix": "No action required for the 'sharing' declaration, as this falls under a user-initiated action exemption. Ensure the 'collection' of this data is properly declared.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Le informazioni che condividi su CiaoAmigos.it sono accessibili solo agli altri membri registrati della community. Quando condividi contenuti come foto e video tramite i Servizi, dovresti prestare attenzione alle informazioni che rendi visibili. Possiamo utilizzare queste informazioni per capire quali argomenti potrebbero interessarti.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy states that users can share videos with other members of the community. This is a user-initiated action and is exempt from the 'sharing' disclosure requirement.",
+      "how_to_fix": "No action required for the 'sharing' declaration, as this falls under a user-initiated action exemption. Ensure the 'collection' of this data is properly declared.",
+      "lang": "Italian"
+    }
+  ]
+}
+```

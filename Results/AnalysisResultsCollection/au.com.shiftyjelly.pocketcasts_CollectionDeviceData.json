@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Your Podcasts: The most important thing we collect from you are your podcast subscriptions/follows, up next queue, episode filters, episode data, and settings configuration.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Log information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services — for example, when you log into your account, listen to a podcast, or modify your podcast subscriptions/follows.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Log information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services — for example, when you log into your account, listen to a podcast, or modify your podcast subscriptions/follows.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Device and Usage Information: We collect information about your device including the device make and model, your wireless carrier, a device ID, some basic device settings like font size and language, and how you use our Services. In addition, in the event our App(s) crash on your mobile device, we will receive additional information about your device and session, which allows us to identify and fix bugs and otherwise improve the performance of our App(s).",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Some of the ways in which we disclose personal information are considered “sales\" or \"sharing\" under the CCPA. Listed below are the categories of personal information we disclose for purposes cross-context behavioral advertising or otherwise sell:\n• Identifiers\n• Internet or other electronic network activity information\n• Geolocation data",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Some of the ways in which we disclose personal information are considered “sales\" or \"sharing\" under the CCPA. Listed below are the categories of personal information we disclose for purposes cross-context behavioral advertising or otherwise sell:\n• Identifiers\n• Internet or other electronic network activity information\n• Geolocation data",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Some of the ways in which we disclose personal information are considered “sales\" or \"sharing\" under the CCPA. Listed below are the categories of personal information we disclose for purposes cross-context behavioral advertising or otherwise sell:\n• Identifiers\n• Internet or other electronic network activity information\n• Geolocation data",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Some of the ways in which we disclose personal information are considered “sales\" or \"sharing\" under the CCPA. Listed below are the categories of personal information we disclose for purposes cross-context behavioral advertising or otherwise sell:\n• Identifiers\n• Internet or other electronic network activity information\n• Geolocation data",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Some of the ways in which we disclose personal information are considered “sales\" or \"sharing\" under the CCPA. Listed below are the categories of personal information we disclose for purposes cross-context behavioral advertising or otherwise sell:\n• Identifiers\n• Internet or other electronic network activity information\n• Geolocation data",
+      "lang": "English"
+    }
+  ]
+}

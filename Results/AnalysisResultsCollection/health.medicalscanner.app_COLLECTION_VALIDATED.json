@@ -1,0 +1,93 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "a) Device information:\nDevice model;\n- Information about the operating system and its version;\nUnique device identifiers (e.g., IDFA);\nEnabled device accessibility functions (e.g., display functions, auditory functions, physical and motor functions);\n- Mobile carrier and network information;\n- Information about the data stored on the device;\n- System version of the device.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "c) Data regarding your use of the Services, including but not limited to:\n- Frequency of use;\n- Areas and features of the Services that you access, visit or use;\n- Involvement in specific functions.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "c) Data regarding your use of the Services, including but not limited to:\n- Frequency of use;\n- Areas and features of the Services that you access, visit or use;\n- Involvement in specific functions.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Any information (including Personal Information) shared in any area reserved for the online community or in an online discussion is generally available to all members of the Application community. We recommend that you think carefully before posting Personal Information in any public forum. What you post may be read, disclosed or collected by third parties and may be used by others in ways we cannot control or predict, including, to contact you for illegal purposes. If you accidentally post Personal Information in social posts on our services and wish to remove it, please send us a message at. pomoc@medicscanner.com (mailto:pomoc@medicscanner.com).",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "When you register or pay to use the Services, we may collect your following Personal Information:\n- Name;\nEmail address;\nYear of birth;\nPhone number;\n- Password or access code;\n- Place of residence and related location data, such as time zone and language.\nGender",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "When you register or pay to use the Services, we may collect your following Personal Information:\n- Name;\nEmail address;\nYear of birth;\nPhone number;\n- Password or access code;\n- Place of residence and related location data, such as time zone and language.\nGender",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you register or pay to use the Services, we may collect your following Personal Information:\n- Name;\nEmail address;\nYear of birth;\nPhone number;\n- Password or access code;\n- Place of residence and related location data, such as time zone and language.\nGender",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payments\nApple (Apple, Inc.)\nApple Privacy Policy\n(https://support.apple.com/en-\nus/HT210584)\nPayment information and bank\ndetails\nPersonal badges\nenabling the collection and\nprocessing of application\nsubscription payments",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "- We take all reasonable and appropriate security measures to protect all Personal Data collected from loss, theft, misuse, unauthorized access,\ndisclosure, alteration and destruction, keeping in mind the nature of the data we store and the risks associated with the special category of Personal\nData we collect (health information). These measures include pseudonymization and tokenization of certain categories of Personal Data.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "b) Location information:\n- IP address;\n- Time zone;\n- Mobile service provider information.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Any information (including Personal Information) shared in any area reserved for the online community or in an online discussion is generally available to all members of the Application community. We recommend that you think carefully before posting Personal Information in any public forum. What you post may be read, disclosed or collected by third parties and may be used by others in ways we cannot control or predict, including, to contact you for illegal purposes. If you accidentally post Personal Information in social posts on our services and wish to remove it, please send us a message at. pomoc@medicscanner.com (mailto:pomoc@medicscanner.com).",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "When you access or use the Services, we may automatically collect the following information:\na) Device information:\nDevice model;\n- Information about the operating system and its version;\nUnique device identifiers (e.g., IDFA);\nEnabled device accessibility functions (e.g., display functions, auditory functions, physical and motor functions);\n- Mobile carrier and network information;\n- Information about the data stored on the device;\n- System version of the device.",
+      "reason_of_removal": "Inconsistent: The policy reference describes 'Device or other IDs' (e.g., IDFA), not user account IDs.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    }
+  ]
+}
+```

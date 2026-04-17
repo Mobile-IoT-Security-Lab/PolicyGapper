@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "Using the \"Technical support\" in the app will open an email app and allow to send an email to notepad.free@outlook.com. After receiving an email the user's address will be used to answer any question or problems related to the app. Email addresses are not stored anywhere outside the email service provider used by the developer (outlook.com). The diagnostic data that can be sent using the \"Technical support\" function contains: device's model/vendor, version of the operating system, operations performed in the app, and optionally note titles. Sending note titles is optional, is set in the app's settings, and is meant to help diagnose an issue with a specific note. Notes are never sent with the aforementioned diagnostic info.",
+      "lang": "English"
+    }
+  ]
+}

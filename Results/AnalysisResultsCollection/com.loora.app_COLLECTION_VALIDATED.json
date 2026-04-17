@@ -1,0 +1,49 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may share website and App usage information with reputable advertising companies for targeting our banner advertisements on our website, App and other websites and Apps. For this purpose, pixel tags (also called clear gifs or web beacons) may be used to note the pages you have visited. The information collected by the advertising company through the use of these pixel tags is not personally identifiable.",
+      "justification": "The privacy policy states this data is collected from the app and sent off-device for advertising purposes. No exemptions, such as on-device only processing or end-to-end encryption where the developer lacks the key, are mentioned.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may collect and store Personal Information such as name, address, email address, telephone number, gender, birth date, and other contact information in order to provide you with Services. We may also collect and store Personal Information regarding your usage of the App, for example, the information you provide during a lesson offered by the App, the transcript of the lessons, and your voice recording during the conversation.",
+      "justification": "The privacy policy explicitly states that 'Address' is collected and stored to provide services, indicating it is sent off-device. No exemptions apply.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may collect and store Personal Information such as name, address, email address, telephone number, gender, birth date, and other contact information in order to provide you with Services. We may also collect and store Personal Information regarding your usage of the App, for example, the information you provide during a lesson offered by the App, the transcript of the lessons, and your voice recording during the conversation.",
+      "justification": "The privacy policy explicitly states that 'telephone number' is collected and stored to provide services, indicating it is sent off-device. No exemptions apply.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may collect and store Personal Information such as name, address, email address, telephone number, gender, birth date, and other contact information in order to provide you with Services. We may also collect and store Personal Information regarding your usage of the App, for example, the information you provide during a lesson offered by the App, the transcript of the lessons, and your voice recording during the conversation.",
+      "justification": "The privacy policy states that data such as 'gender' and 'birth date' are collected and stored, which fall under 'Other info'. This collection is to provide services, indicating it is sent off-device. No exemptions apply.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may also use your Personal Information, such as personal information regarding your usage of the App, as web server logs, IP addresses, cookies, local storage tools, pixel tags, web beacons when you send us inquiries regarding our App, Services or when you browse the website, in order to administrate and improve the App, website, or our Services, for our internal records and for statistical analysis, as set forth in this Policy.",
+      "justification": "The privacy policy states that IP addresses are collected from the app for administration and improvement, which implies off-device collection. IP addresses can be used to determine approximate location. No exemptions apply.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We may also collect and store Personal Information regarding your usage of the App, for example, the information you provide during a lesson offered by the App, the transcript of the lessons, and your voice recording during the conversation.",
+      "justification": "The privacy policy states that 'the transcript of the lessons' is collected and stored, which qualifies as 'Other in-app messages'. This indicates the data is sent off-device. No exemptions apply.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

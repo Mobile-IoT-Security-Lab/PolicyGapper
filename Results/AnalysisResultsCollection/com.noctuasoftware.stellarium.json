@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "• Country code, Language code, Time zone, Platform version, OS version, Firebase Android App ID, Device ID, Ad ID, Package name of the app, Firebase installation ID (FID). We have integrated Firebase Analytics and Firebase Remote Config into our Application to collect data about how users interact with the app. This includes monitoring events such as when users open a dialog or use a feature. This data is sent and stored on the Google Firebase servers and is used to enhance the app's functionality and overall user experience. This data is anonymous and does not include your personal information (it does not uniquely identify a user).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "• What to Include: Please provide sufficient information that allows us to verify you are the person about whom we have collected personal data. This may include your full name, email address, if applicable.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you contact us by email (directly or from within the application), we may collect your email and any information you sent us. This will be used to reply to your query.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Country code, Language code, Time zone, Platform version, OS version, Firebase Android App ID, Device ID, Ad ID, Package name of the app, Firebase installation ID (FID). We have integrated Firebase Analytics and Firebase Remote Config into our Application to collect data about how users interact with the app. This includes monitoring events such as when users open a dialog or use a feature. This data is sent and stored on the Google Firebase servers and is used to enhance the app's functionality and overall user experience. This data is anonymous and does not include your personal information (it does not uniquely identify a user).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "If you contact us by email (directly or from within the application), we may collect your email and any information you sent us. This will be used to reply to your query.",
+      "lang": "en"
+    }
+  ]
+}

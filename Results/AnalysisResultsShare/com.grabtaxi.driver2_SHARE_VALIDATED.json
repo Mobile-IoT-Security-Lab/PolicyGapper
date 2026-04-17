@@ -1,0 +1,126 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Grab may allow third parties to use Cookies to collect the same type of Personal Data for the same purposes Grab does for itself. Third parties may be able to associate the Personal Data they collect with other Personal Data they have about you from other sources. We do not necessarily have access to or control over the Cookies they use.",
+      "justification": "The privacy policy states that third parties may use cookies to collect personal data and associate it with other data they have about you. The policy explicitly mentions that the developer does not control these third parties, indicating this is data sharing that must be declared.",
+      "how_to_fix": "Declare that this data type is shared with third parties in the 'Data shared' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Grab may allow third parties to use Cookies to collect the same type of Personal Data for the same purposes Grab does for itself. Third parties may be able to associate the Personal Data they collect with other Personal Data they have about you from other sources. We do not necessarily have access to or control over the Cookies they use.",
+      "justification": "The privacy policy states that third parties may use cookies to collect personal data and associate it with other data they have about you. The policy explicitly mentions that the developer does not control these third parties, indicating this is data sharing that must be declared.",
+      "how_to_fix": "Declare that this data type is shared with third parties in the 'Data shared' section of your app's Data safety form in the Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User Published Content\nIf you choose to publish content (such as a review or comment) on the Grab Platform, it will be shown publicly along with your personal data (such as username, uploaded photo(s)), and other information you have included in your content. For more information, see our Review Guidelines. (https://www.grab.com/sg/terms-policies/ugc-terms-reviews)",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing that occurs only after a specific, affirmative user action (e.g., publishing a review). This is exempt from being declared as 'sharing' under the Google Play User Data policy.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "For business-tagged transactions, Grab discloses to Client information such as the Authorized User's identifiers and detailed booking information to facilitate corporate billing.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing data with a user's employer for corporate billing, which is a feature the user explicitly opts into by using a business account. This is considered user-initiated sharing and is exempt from declaration.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "if you are a passenger, we may share your username, pick-up and drop-off locations with our driver partner fulfilling your service request;",
+      "reason_of_removal": "Service provider",
+      "justification": "The policy describes sharing data with a service provider (driver partner) to fulfill a core, user-initiated app function (a ride request). This is exempt from being declared as 'sharing' under the Google Play User Data policy.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you requested a service through a Grab partner or used a promotion provided by a Grab partner, Grab may share your Personal Data with that Grab partner.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing that occurs only after a specific, affirmative user action (requesting a service or using a promotion from a partner). This is exempt from being declared as 'sharing' under the Google Play User Data policy.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "if you are using our GrabFood or GrabMart service, we may share your Personal Data with our delivery partner and selected merchant-partner, including your name, contact details, order information and drop off location;",
+      "reason_of_removal": "Service provider",
+      "justification": "The policy describes sharing data with service providers (delivery and merchant partners) to fulfill a core, user-initiated app function (a food/mart order). This is exempt from being declared as 'sharing' under the Google Play User Data policy.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "if you are using our GrabFood or GrabMart service, we may share your Personal Data with our delivery partner and selected merchant-partner, including your name, contact details, order information and drop off location;",
+      "reason_of_removal": "Service provider",
+      "justification": "The policy describes sharing data with service providers (delivery and merchant partners) to fulfill a core, user-initiated app function (a food/mart order). This is exempt from being declared as 'sharing' under the Google Play User Data policy.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may provide Personal Data to our vendors, consultants, marketing partners, research firms, and other service providers or business partners. This includes:\n• payment processors and facilitators;\n• debt collectors;\n• credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit\nreporting organisations;\n• background check and anti-money laundering service providers;\n• risk intelligence and fraud assessment providers;\n• cloud storage providers;\n• document storage and management providers;\n• advertising and marketing partners and platform providers;\n• data analytics providers;\n• research partners, including those performing surveys or research projects in partnership with Grab or on Grab's\nbehalf;\n• educational and training institute partners;\n• fleet and merchant partners;\n•\ninsurance and financing partners;\n• third party intermediaries involved in the managed investment of funds, such as brokers, asset managers, and\ncustodians;\n• service providers who perform identity verification services; and\n• vehicle solutions partners, vendors or third-party vehicle suppliers.",
+      "reason_of_removal": "Service provider",
+      "justification": "The policy describes sharing data with a list of entities explicitly defined as 'vendors', 'consultants', and 'service providers' (e.g., payment processors) who act on the developer's behalf. This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "your employer may receive transaction data (tagged as business expenses) when you use your employer's Grab for Business account.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing data with a user's employer for corporate billing, which is a feature the user explicitly opts into by using a business account. This is considered user-initiated sharing and is exempt from declaration.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "We may provide Personal Data to our vendors, consultants, marketing partners, research firms, and other service providers or business partners. This includes:\n• payment processors and facilitators;\n• debt collectors;\n• credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit\nreporting organisations;\n• background check and anti-money laundering service providers;\n• risk intelligence and fraud assessment providers;\n• cloud storage providers;\n• document storage and management providers;\n• advertising and marketing partners and platform providers;\n• data analytics providers;\n• research partners, including those performing surveys or research projects in partnership with Grab or on Grab's\nbehalf;\n• educational and training institute partners;\n• fleet and merchant partners;\n•\ninsurance and financing partners;\n• third party intermediaries involved in the managed investment of funds, such as brokers, asset managers, and\ncustodians;\n• service providers who perform identity verification services; and\n• vehicle solutions partners, vendors or third-party vehicle suppliers.",
+      "reason_of_removal": "Service provider",
+      "justification": "The policy describes sharing data with a list of entities explicitly defined as 'vendors', 'consultants', and 'service providers' (e.g., credit bureaus) who act on the developer's behalf. This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "We may provide Personal Data to our vendors, consultants, marketing partners, research firms, and other service providers or business partners. This includes:\n• payment processors and facilitators;\n• debt collectors;\n• credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit\nreporting organisations;\n• background check and anti-money laundering service providers;\n• risk intelligence and fraud assessment providers;\n• cloud storage providers;\n• document storage and management providers;\n• advertising and marketing partners and platform providers;\n• data analytics providers;\n• research partners, including those performing surveys or research projects in partnership with Grab or on Grab's\nbehalf;\n• educational and training institute partners;\n• fleet and merchant partners;\n•\ninsurance and financing partners;\n• third party intermediaries involved in the managed investment of funds, such as brokers, asset managers, and\ncustodians;\n• service providers who perform identity verification services; and\n• vehicle solutions partners, vendors or third-party vehicle suppliers.",
+      "reason_of_removal": "Service provider",
+      "justification": "The policy describes sharing data with a list of entities explicitly defined as 'vendors', 'consultants', and 'service providers' (e.g., financing partners) who act on the developer's behalf. This is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "if you are a passenger, we may share your username, pick-up and drop-off locations with our driver partner fulfilling your service request;",
+      "reason_of_removal": "Service provider",
+      "justification": "The policy describes sharing data with a service provider (driver partner) to fulfill a core, user-initiated app function (a ride request). This is exempt from being declared as 'sharing' under the Google Play User Data policy.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "if you are a passenger, we may share your username, pick-up and drop-off locations with our driver partner fulfilling your service request;",
+      "reason_of_removal": "Service provider",
+      "justification": "The policy describes sharing data with a service provider (driver partner) to fulfill a core, user-initiated app function (a ride request). This is exempt from being declared as 'sharing' under the Google Play User Data policy.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• if you are participating in loyalty programmes or marketing activities organized by our merchant-partners, we may share your Personal Data with them, including your name and contact details;",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing that occurs only after a specific, affirmative user action (participating in a loyalty program). This is exempt from being declared as 'sharing' under the Google Play User Data policy.",
+      "how_to_fix": "No action is required. This data transfer is exempt from being declared as 'sharing' in the Data safety form.",
+      "lang": "English"
+    }
+  ]
+}
+```

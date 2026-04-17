@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "information which we may collect from written communication when you provide us complaints or issue of inconveniences while using our service and we may use it for the purposes of communicating with you and to efficiently manage your requests and to resolve any other issues you may face;",
+"lang": "en"
+},
+{
+"data_type": "SMS or MMS",
+"policy_reference": "information which we may collect from written communication when you provide us complaints or issue of inconveniences while using our service and we may use it for the purposes of communicating with you and to efficiently manage your requests and to resolve any other issues you may face;",
+"lang": "en"
+}
+]
+}

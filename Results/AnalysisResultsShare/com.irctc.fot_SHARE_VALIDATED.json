@@ -1,0 +1,71 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+      "reason_of_removal": "Service Provider",
+      "justification": "Data is transferred to Google reCAPTCHA, a service provider, for security and anti-fraud purposes on behalf of the developer. This is an exempt transfer.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure. No action is needed in the Data Safety section for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+      "reason_of_removal": "Service Provider",
+      "justification": "Data is transferred to Google reCAPTCHA, a service provider, for security and anti-fraud purposes on behalf of the developer. This is an exempt transfer.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure. No action is needed in the Data Safety section for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "• IRCTC can share relevant customer information with its aggregator or restaurant partners to create user accounts and serve the order seamlessly.",
+      "reason_of_removal": "Service Provider",
+      "justification": "Data is transferred to restaurant partners, acting as service providers, to fulfill a user-initiated order. This is a core function of the app and an exempt transfer.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure. No action is needed in the Data Safety section for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• IRCTC can share relevant customer information with its aggregator or restaurant partners to create user accounts and serve the order seamlessly.",
+      "reason_of_removal": "Service Provider",
+      "justification": "Data is transferred to restaurant partners, acting as service providers, to fulfill a user-initiated order. This is a core function of the app and an exempt transfer.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure. No action is needed in the Data Safety section for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "• IRCTC can share relevant customer information with its aggregator or restaurant partners to create user accounts and serve the order seamlessly.",
+      "reason_of_removal": "Service Provider",
+      "justification": "Data is transferred to restaurant partners, acting as service providers, to fulfill a user-initiated order. This is a core function of the app and an exempt transfer.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure. No action is needed in the Data Safety section for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• IRCTC can share relevant customer information with its aggregator or restaurant partners to create user accounts and serve the order seamlessly.",
+      "reason_of_removal": "Service Provider",
+      "justification": "Data is transferred to restaurant partners, acting as service providers, to fulfill a user-initiated order. This is a core function of the app and an exempt transfer.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure. No action is needed in the Data Safety section for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• IRCTC's payment reconciliation team works on a 24 x 7 basis, IRCTC offers no guarantees whatsoever for the accuracy or timeliness of the refunds reaching the Customers bank accounts. This is on account of the multiplicity of organizations involved in processing of online transactions,",
+      "reason_of_removal": "Service Provider",
+      "justification": "Data is transferred to payment processors, who are service providers, to process transactions on behalf of the developer. This is an exempt transfer.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure. No action is needed in the Data Safety section for this specific transfer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• IRCTC can share relevant customer information with its aggregator or restaurant partners to create user accounts and serve the order seamlessly.",
+      "reason_of_removal": "Service Provider",
+      "justification": "Data is transferred to restaurant partners, acting as service providers, to fulfill a user-initiated order. This is a core function of the app and an exempt transfer.",
+      "how_to_fix": "This transfer is exempt from 'sharing' disclosure. No action is needed in the Data Safety section for this specific transfer.",
+      "lang": "English"
+    }
+  ]
+}
+```

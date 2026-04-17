@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Payment Information: When you order any good or service through the Services, including any virtual currency or virtual good, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment. Our payment processing service provider may also retain this information to enable you to purchase additional items through our Services without having to re-enter it each time. Please note that purchases from third parties may also be subject to additional policies",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Payment Information: When you order any good or service through the Services, including any virtual currency or virtual good, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment. Our payment processing service provider may also retain this information to enable you to purchase additional items through our Services without having to re-enter it each time. Please note that purchases from third parties may also be subject to additional policies",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Payment Information: When you order any good or service through the Services, including any virtual currency or virtual good, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment. Our payment processing service provider may also retain this information to enable you to purchase additional items through our Services without having to re-enter it each time. Please note that purchases from third parties may also be subject to additional policies",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Payment Information: When you order any good or service through the Services, including any virtual currency or virtual good, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment. Our payment processing service provider may also retain this information to enable you to purchase additional items through our Services without having to re-enter it each time. Please note that purchases from third parties may also be subject to additional policies",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Information: When you order any good or service through the Services, including any virtual currency or virtual good, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment. Our payment processing service provider may also retain this information to enable you to purchase additional items through our Services without having to re-enter it each time. Please note that purchases from third parties may also be subject to additional policies",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may ask you to identify which country you are in when you use or access some of the Services, or we may rely on your IP address to identify which country you are located in. When we rely on your IP address, we cannot apply the terms of this section to any individual that masks or otherwise hides their location information from us so as not to appear located in the Designated Countries. If any terms in this section conflict with other terms contained in this Policy, the terms in this section shall apply to individuals in the Designated Countries.",
+      "lang": "English"
+    }
+  ]
+}

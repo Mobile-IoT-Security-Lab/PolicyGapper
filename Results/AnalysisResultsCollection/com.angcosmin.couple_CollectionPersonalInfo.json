@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "Information You Provide Directly: We collect the following information when you voluntarily provide it to us, such as during account creation or profile updates: • • Name: To identify your account and personalize your experience. • Email Address: To facilitate account access, send communications, and provide customer support. • Profile Picture and Cover Picture: To allow for a more personalized user profile and interaction. • Couple Anniversary Date: To enhance app functionality and provide tailored content or features.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Information You Provide Directly: We collect the following information when you voluntarily provide it to us, such as during account creation or profile updates: • • Name: To identify your account and personalize your experience. • Email Address: To facilitate account access, send communications, and provide customer support. • Profile Picture and Cover Picture: To allow for a more personalized user profile and interaction. • Couple Anniversary Date: To enhance app functionality and provide tailored content or features.",
+      "lang": "English"
+    }
+  ]
+}

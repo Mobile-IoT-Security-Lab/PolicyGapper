@@ -1,0 +1,15 @@
+```json
+{
+"omitted_declarations": [],
+"excluded_declarations": [
+{
+"data_type": "Purchase history",
+"policy_reference": "If we receive a refund request for an in-app purchase from an end user, we reserve the right to provide Apple with information regarding the user's in-app purchase consumption. This includes the following data: app usage time, anonymous account identifier, total amount spent, and total amount refunded.",
+"reason_of_removal": "User-Initiated Action",
+"justification": "The policy states that purchase data is shared with Apple only when a user initiates a refund request. This is a user-initiated action and is exempt from being declared as 'sharing' in the Data Safety section.",
+"how_to_fix": "No action is required. This data sharing is exempt from declaration as it is initiated by the user.",
+"lang": "English"
+}
+]
+}
+```

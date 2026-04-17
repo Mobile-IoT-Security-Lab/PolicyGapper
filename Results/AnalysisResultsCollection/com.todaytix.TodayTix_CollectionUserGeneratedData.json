@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "If you provide us feedback or contact us via email, we will collect your name and email address, as well as any other content included in the email, in order to send you a reply.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "If you decide to invite a third party to create an account with us, we will collect your and the third party's names and email addresses or phone numbers in order to follow up with the third party. We rely on you to obtain whatever consents from the third party required by law to allow us to access and collect the third party's name and email address as required above. You or the third party may request that we delete this information as described in Section 10.3 of this Privacy Policy. When you invite friends to the Services, we will access your address book and we will import your contacts' names and email addresses or phone numbers in order to facilitate the invitation. The email that is sent to your friends will come from your email address so that your friends know that you want to invite them to access our Services. We do not store any passwords you provide as part of the contact import process. We also collect some settings that help us to interpret your data, such as the language and keyboard settings that you have established, and the phone's carrier, mobile network code, and mobile country code.",
+      "lang": "en"
+    }
+  ]
+}

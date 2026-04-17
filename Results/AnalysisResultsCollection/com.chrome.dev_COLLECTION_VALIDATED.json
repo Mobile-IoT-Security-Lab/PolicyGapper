@@ -1,0 +1,77 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "If you're using an Android device with Google apps, your device periodically contacts Google servers to provide information about your device and connection to our services. This information includes things like your device type and carrier name, crash reports, which apps you've installed, and, depending on your device settings, other information about how you're using your Android device.",
+      "justification": "The privacy policy states that information about installed apps is sent to Google's servers from the user's device.",
+      "how_to_fix": "Declare 'Installed apps' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:\n\n•\nTerms you search for\n•\nVideos you watch\n•\nViews and interactions with content and ads\n•\nVoice and audio information\n•\nPurchase activity\n•\nPeople with whom you communicate or share content\n•\nActivity on third-party sites and apps that use our services\n•\nChrome browsing history you've synced with your Google Account",
+      "justification": "The privacy policy explicitly lists 'Purchase activity' as a type of activity information that is collected by the service.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+      "justification": "The privacy policy states that health-related data such as height, weight, sleep patterns, and heart rate are collected from fitness apps and devices.",
+      "how_to_fix": "Declare 'Health info' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+      "justification": "The privacy policy states that fitness data such as calories burned and steps taken are collected from fitness apps and devices.",
+      "how_to_fix": "Declare 'Fitness info' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Depending on the products you're using and settings you choose, Google may use different types of location information to help make some services and products you use more helpful. These include:\n\n•\nGPS and other sensor data from your device\n•\nIP address\n•\n•\nActivity on Google services, such as from your searches or places you label like\nhome or work\nInformation about things near your device, such as Wi-Fi access points, cell towers,\nand Bluetooth-enabled devices",
+      "justification": "The privacy policy states that location information, including 'GPS and other sensor data from your device', is used by Google's services, indicating it is sent off-device.",
+      "how_to_fix": "Declare 'Precise location' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+      "justification": "The privacy policy explicitly states that the service collects 'email you write and receive'. This data is sent off-device.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.",
+      "justification": "The privacy policy states that 'message log information' is collected when using the services to send and receive messages, indicating it is sent off-device.",
+      "how_to_fix": "Declare 'SMS or MMS' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.",
+      "justification": "The privacy policy states that 'message log information' is collected when using the services to send and receive messages, which covers in-app messages and indicates data is sent off-device.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+      "justification": "The privacy policy explicitly states that the service collects 'docs and spreadsheets you create', which are sent off-device.",
+      "how_to_fix": "Declare 'Files and docs' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "We use your information to deliver our services, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.",
+      "justification": "The privacy policy states that contacts are used to provide service features like suggesting recipients. This implies the data is accessed and processed by the service, not just on-device.",
+      "how_to_fix": "Declare 'Contacts' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim.\nData necessary to adjust or handle the claim,\nwhich may include:\n• Account\n• Communications between users\n•\n•\nDevice\nLocation\n• Trip/order info\n•\nUsage\n• User content",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may also allow others to provide audience measurement and analytics services for us, to serve ads on our behalf across the internet or for other companies' products and services on our apps, and to track and report on the performance of those ads. These entities may use cookies, web beacons, SDKs and other technologies to identify the devices used by visitors to our websites, as well as when they visit other online sites and services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Restaurants/merchants you order from, and your delivery person\n• Account\n•\n• First name\nOrder info\n• Delivery address (including with restaurants/merchants that use their own delivery people to fulfill your order)\n• Items ordered (which may include drug prescriptions)\n• Special instructions, allergies or food preferences\n• User content\n• Feedback\n• Ratings",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "This also includes ad intermediaries, such as Criteo, Google, Rokt, The Trade Desk, TripleLift and others. We share data including advertising or device identifier, hashed email address, approximate location, current trip or order information, and ad interaction data with these intermediaries to enable their services and for such other purposes as are disclosed in their privacy notices. You may opt out from ad personalization here. For more information regarding these intermediaries' privacy practices, including how to submit requests to them relating to their handling of personal data, please go to their privacy notices linked above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim.\nData necessary to adjust or handle the claim, which may include:\n• Account\n• Communications between users\n•\n•\nDevice\nLocation\n• Trip/order info\n•\nUsage\n• User content",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim. Data necessary to adjust or handle the claim, which may include: • Account • Communications between users • Device • Location • Trip/order info • Usage • User content",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim. Data necessary to adjust or handle the claim, which may include: • Account • Communications between users • Device • Location • Trip/order info • Usage • User content",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Insurance companies. If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber's services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim. Data necessary to adjust or handle the claim, which may include: • Account • Communications between users • Device • Location • Trip/order info • Usage • User content",
+      "lang": "English"
+    }
+  ]
+}

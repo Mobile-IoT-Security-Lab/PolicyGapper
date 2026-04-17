@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• Social Media Widgets: Our Site may include social media features, such as the Facebook logins, “like” button and widgets, such as the \"share this\" button. These features may collect your personal information and track your use of the Site. These social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing such functionality.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We use ChatGPT to automate identity verification and enhance security measures. By using our KYC services, users consent to the use of ChatGPT, and other Al providers that may be later implemented, as part of our KYC process. Furthermore, ChatGPT maintains its own policies, including its own privacy policies. By using our KYC services, you are agreeing and consenting to these policies, including their privacy policy which may be accessed at the following link: https://openai.com/policies/privacy-policy.",
+      "lang": "English"
+    }
+  ]
+}

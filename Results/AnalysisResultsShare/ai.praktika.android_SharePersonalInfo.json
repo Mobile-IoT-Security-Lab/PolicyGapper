@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We may sell and may have sold in the last twelve (12) months the following categories of Personal Data:\n• Category A: Identifiers\n• Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))\n• Category D: Commercial information\n• Category F: Internet or other similar network activity",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may share information, such as hashed email addresses (if available) or other online identifiers collected on our Service with these third-party vendors. This allows our third-party vendors to recognize and deliver you ads across devices and browsers. To read more about the technologies used by these third-party vendors and their cross-device capabilities please refer to the Privacy Policy of each vendor listed below.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may share information, such as hashed email addresses (if available) or other online identifiers collected on our Service with these third-party vendors. This allows our third-party vendors to recognize and deliver you ads across devices and browsers. To read more about the technologies used by these third-party vendors and their cross-device capabilities please refer to the Privacy Policy of each vendor listed below.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may sell and may have sold in the last twelve (12) months the following categories of Personal Data:\n• Category A: Identifiers\n• Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))\n• Category D: Commercial information\n• Category F: Internet or other similar network activity",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may sell and may have sold in the last twelve (12) months the following categories of Personal Data:\n• Category A: Identifiers\n• Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))\n• Category D: Commercial information\n• Category F: Internet or other similar network activity",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).\nWe will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your Personal Data is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• With advertising optimisation partners: We may share certain Personal Data, such as whether you have downloaded the Application or purchased a subscription to the Service, with online advertising partners in order to measure the effectiveness of, and improve, our online advertising campaigns.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "| Information about how you use the Service, such as the time you access the Service and how long you access it for, the approximate location that you access the Service from, the site from which you came and the site to which you are going when you leave the Service, the pages you visit, the links you click, your interactions on the Service and other actions you take on the Service. | ... | ... |\n| | We and our advertising partners use this information as further described in the 'Beahvioral Advertising' section in the main body of this privacy notice to measure the effectiveness of, and improve our online advertising campaigns. | We will only use your Personal Data in this way if you have given us your consent to do so. |",
+      "lang": "English"
+    }
+  ]
+}

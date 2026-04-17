@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "| Per inviarti informazioni di marketing riguardanti i nostri eventi, offerte e servizi. | • Nome • Indirizzo e-mail • Indirizzo postale • Nome utente di Instagram • Numero di telefono | Sei tu a fornirci queste informazioni. | Consenso I nostri interessi legittimi nel promuovere la nostra attività e i nostri prodotti, nel rispetto di tutte le leggi applicabili alle nostre attività di marketing. |",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Fai attenzione a pubblicare dettagli personali sensibili sul tuo profilo o ad aggiungere certi badge di Bumble, come credo religioso, preferenze politiche, preferenze sessuali e informazioni sulla salute. Anche se puoi scegliere volontariamente di fornirci queste informazioni quando crei il tuo profilo, la loro condivisione non è obbligatoria. Ricorda che anche le foto pubblicate su Bumble possono rivelare delle informazioni su di te.",
+      "lang": "Italian"
+    }
+  ]
+}

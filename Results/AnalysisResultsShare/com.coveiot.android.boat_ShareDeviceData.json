@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The information collected by us or our Associated Parties may recognise a visitor as a unique user and may collect information such as how a visitor arrives at our sites, what kind of browser a visitor is on, what operating system a visitor is using, a visitor's IP address and a visitor's click stream information and time stamp (for example, which pages they have viewed, the time the pages were accessed and the time spent on each page).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "The information collected by us or our Associated Parties may recognise a visitor as a unique user and may collect information such as how a visitor arrives at our sites, what kind of browser a visitor is on, what operating system a visitor is using, a visitor's IP address and a visitor's click stream information and time stamp (for example, which pages they have viewed, the time the pages were accessed and the time spent on each page).",
+      "lang": "English"
+    }
+  ]
+}

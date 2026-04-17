@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "When you send feedback via email or provide us with an error report, we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services. We will retain Your Personal Data only for as long as is necessary for the purposes described above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you send feedback via email or provide us with an error report, we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services. We will retain Your Personal Data only for as long as is necessary for the purposes described above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location permission: Granting this permission allows us to use the WEATHER WIDGET to access your location and acquire the local weather conditions of your area. It is also necessary for the functionality of the FRIEND DISTANCE WIDGET feature, which enables users to connect as friends and track their live distance on the home screen widget and the in-app map. Please rest assured that your location is solely used to make these widgets work normally and is not used for any other purpose.",
+      "lang": "English"
+    }
+  ]
+}

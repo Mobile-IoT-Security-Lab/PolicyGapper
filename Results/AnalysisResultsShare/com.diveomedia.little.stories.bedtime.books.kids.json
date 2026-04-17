@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Our app may use third-party advertising services, such as Google AdMob, to show you ads. These services may collect information about your device and your use of our app, such as your device ID, your IP address, and your advertising ID. This information is used to show you personalized ads that are relevant to your interests.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our customers use the App --you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.",
+      "lang": "English"
+    }
+  ]
+}

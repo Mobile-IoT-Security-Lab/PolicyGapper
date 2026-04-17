@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• → other players and users. Social features are a core component of our games. Other players and users may, for example, see your profile data, in-game activities and read the messages you have posted.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• → other players and users. Social features are a core component of our games. Other players and users may, for example, see your profile data, in-game activities and read the messages you have posted.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• → other players and users. Social features are a core component of our games. Other players and users may, for example, see your profile data, in-game activities and read the messages you have posted.",
+      "lang": "English"
+    }
+  ]
+}

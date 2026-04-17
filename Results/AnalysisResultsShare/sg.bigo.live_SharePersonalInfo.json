@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• Mobile advertising identifiers, which are used by mobile operating systems and made available to advertising providers to gather metrics on mobile apps (Apple's IDFA or Google's AAID) to help us and advertisers provide ads that may be more relevant to your interests;",
+      "lang": "English"
+    }
+  ]
+}

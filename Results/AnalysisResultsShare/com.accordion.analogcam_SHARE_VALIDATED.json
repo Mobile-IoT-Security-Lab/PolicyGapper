@@ -1,0 +1,21 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Additionally, we also passively collect information with tracking tools like Google Firebase Analytics, Google Admob, and Meta. These tools allow us to collect data on your usage our App.",
+      "justification": "The policy states that app usage data is collected by third-party SDKs (Google Admob, Meta). This is considered 'sharing' under Google Play's policy, as these third parties may use the data for their own purposes (e.g., advertising). The service provider exemption does not apply as the policy does not state they process data solely on the developer's behalf.",
+      "how_to_fix": "In the Google Play Console, declare that 'App interactions' data is 'Shared' with third parties for purposes like 'Advertising or marketing' and 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Additionally, we also passively collect information with tracking tools like Google Firebase Analytics, Google Admob, and Meta. These tools allow us to collect data on your usage our App.",
+      "justification": "The policy indicates that data on user actions ('usage our App') is collected by third-party SDKs (Google Admob, Meta). This constitutes 'sharing' as these partners are not explicitly defined as service providers acting solely on the developer's behalf. This sharing must be declared.",
+      "how_to_fix": "In the Google Play Console, declare that 'Other actions' data is 'Shared' with third parties for purposes like 'Advertising or marketing' and 'Analytics'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

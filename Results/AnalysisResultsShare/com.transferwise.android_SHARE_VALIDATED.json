@@ -1,0 +1,54 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use third-party social media plugins, such as the Facebook Like button, on our website. These plugins may collect your IP address and information about your browsing activity. We use this information to allow you to share our content on social media.",
+      "justification": "The policy states that third-party social media plugins (e.g., Facebook) collect 'browsing activity'. This constitutes sharing of 'Web browsing history' with a third party that is not acting as a service provider.",
+      "how_to_fix": "Declare that 'Web browsing history' is shared with third parties in the 'Data shared' section of your Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "We may share your personal data with third parties, including: ... Credit reference agencies: for the purposes of identity verification and credit checking.",
+      "justification": "The policy explicitly states data is shared with 'Credit reference agencies' for 'credit checking'. This is a form of sharing financial information, such as 'Credit score', with a third party.",
+      "how_to_fix": "Declare that 'Credit score' is shared with third parties in the 'Data shared' section of your Data Safety form.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We collect and process your location data to provide you with location-based services, such as finding nearby ATMs, and for fraud prevention and security purposes. We may share this data with our partners to help us provide these services.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is shared with partners 'to help us provide these services,' which qualifies as sharing with a service provider acting on the developer's behalf. This is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action needed. This sharing is exempt from disclosure as it falls under the service provider category.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We collect and process your location data to provide you with location-based services, such as finding nearby ATMs, and for fraud prevention and security purposes. We may share this data with our partners to help us provide these services.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is shared with partners 'to help us provide these services,' which qualifies as sharing with a service provider acting on the developer's behalf. This is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action needed. This sharing is exempt from disclosure as it falls under the service provider category.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may share your personal data with: ... Fraud and crime prevention agencies, to help fight fraud, money laundering and terrorist financing.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference is a generic statement about sharing 'personal data' for fraud prevention and does not specifically mention the 'Photos' data type.",
+      "how_to_fix": "No action needed. The policy does not provide sufficient evidence for the sharing of this specific data type.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We may share your personal data with: ... Fraud and crime prevention agencies, to help fight fraud, money laundering and terrorist financing.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference is a generic statement about sharing 'personal data' for fraud prevention and does not specifically mention the 'Voice or sound recordings' data type.",
+      "how_to_fix": "No action needed. The policy does not provide sufficient evidence for the sharing of this specific data type.",
+      "lang": "English"
+    }
+  ]
+}
+```

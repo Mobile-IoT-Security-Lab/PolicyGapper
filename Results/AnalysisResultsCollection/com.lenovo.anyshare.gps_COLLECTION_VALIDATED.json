@@ -1,0 +1,79 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "(f)Actions taken by you or your activity in our App, which include the following: like, share, report, download, login history, search history, feedback; and",
+      "justification": "The policy explicitly states collection of 'search history' as part of user activity in the app.",
+      "how_to_fix": "Declare 'In-app search history' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "(g) Any information you include in your publicly visible app profile or which you or others make available to us or the public, which includes your social media profile data if you use your social media account to log in to the Services or feedbacks you leave on the App.",
+      "justification": "The policy mentions collecting 'publicly visible app profile' information and 'feedbacks you leave on the App', which fall under User Generated Content.",
+      "how_to_fix": "Declare 'Other user generated content' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "(f)Actions taken by you or your activity in our App, which include the following: like, share, report, download, login history, search history, feedback; and",
+      "justification": "The policy lists several collected user actions such as 'like, share, report, download, login history'.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "(a) Personal details, which includes your age range, gender, nickname;",
+      "justification": "The policy states collection of 'Personal details, which includes your age range, gender, nickname'.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "(b) Contact details, which includes your email address when you create an account or communicate with us;you may\nchoose to provide us your phone number or payment information when you use certain Services such as\nparticipating in-app activities;",
+      "justification": "The policy states that users may provide 'payment information' when using certain services.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "(b) subject to requirements under applicable law, your IP addresses, network carrier and network type; coarse geo-\nlocation data we receive based on your Internet Protocol (IP) address or Wi-Fi SSID;",
+      "justification": "The policy states the app receives 'coarse geo-location data' based on the user's IP address or Wi-Fi SSID.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "(d) Transactional information, which includes your requests, queries, or complaints when you use our subscription service or participate in reward activities;",
+      "justification": "The policy mentions collecting 'requests, queries, or complaints' when users interact with services, which are forms of in-app messages.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "(e) Content uploaded by you, which may include videos, pictures;",
+      "justification": "The policy states collection of 'Content uploaded by you, which may include videos, pictures'.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "(e) Content uploaded by you, which may include videos, pictures;",
+      "justification": "The policy states collection of 'Content uploaded by you, which may include videos, pictures'.",
+      "how_to_fix": "Declare 'Videos' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "(d) Transactional information, which includes your requests, queries, or complaints when you use our subscription\nservice or participate in reward activities;",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference mentions 'requests, queries, or complaints,' which are user communications, not a history of items purchased.",
+      "how_to_fix": "This does not need to be declared as 'Purchase history'. However, the referenced text supports declaring 'Other in-app messages' or 'Customer support info'.",
+      "lang": "English"
+    }
+  ]
+}
+```

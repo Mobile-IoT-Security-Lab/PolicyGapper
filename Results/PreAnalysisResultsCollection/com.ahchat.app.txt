@@ -1,0 +1,212 @@
+Achat collects personal information from its users, such as their nickname, gender, and date of birth. Users have control over their user profile and can
+access their "Profile" page to correct or update their information. By accessing or using Achat, users agree to the Privacy Policy and consent to the
+collection, storage, use, and disclosure of their personal information as outlined in the Policy. Achat reserves the right to change the Policy without
+notice, so users are encouraged to regularly check for updates. If a user does not accept or agree with the Privacy Policy, they should not access or use
+the app.
+
+---
+
+To join Achat, you will need to provide us with information about yourself to facilitate easier friend-making. This includes your nickname, gender, and
+date of birth. You have full control over your user profile, and you can access your "Profile" page at any time to view and update your details by simply
+logging into Achat.
+
+---
+
+1. What information does Achat collect?
+(1) Information provided by Users
+a. Your mobile number and SMS verification code: We will send a verification code to your mobile number via SMS to confirm your identity.
+Failure to provide the verification code will result in a failed registration, and you will not be able to use our services. Please note that the mobile
+number you provide will serve as your user account and identity credential for logging in.
+b. Password: You must set a login password for your account as part of the verification process.
+c. Date of Birth: Prior to registering a Achat account, you must provide your date of birth to determine if you meet the qualifications for user
+registration. If you are a minor, you are not permitted to use the Achat app or services.
+d. Gender: During the registration process, you must provide your gender. This information allows us to provide more targeted matching services
+based on your gender. Failure to provide this information will result in a failed registration, and you will not be able to use the Achat app or
+services.
+e. User Profile: You may create your profile by creating your avatar with the tool provided by us, setting your nickname, region and providing a
+self-introduction of you.
+f. Content uploaded by users: When uploading Posts or commenting on other users' Posts, you agree to share with us the text information posted,
+pictures, audio and video uploaded. If you do not want to provide such information, please do not use functions related to content publication.
+g. Chat: You may use Achat Services to chat with other registered users, freely choose between text chat and/or voice chat according to your need.
+We collect your activity information including with whom you have talked, at which time and for how long. Unless specifically required by
+applicable laws, we will not access to the chat content including your text and/or voice information. If you do not want to provide such
+information, please do not use functions related to chatting.
+h. Help & Support:If you have any feedback or suggestion or want to express your complaint to Soul Products and/or Services, you may provide
+your comments through “Mine" - "Settings"- "Help & Feedback" within our App. You will need to describe the issue, upload proof photos, text to
+help us understand your issues and find corresponding solutions. And we will receive your ticket of feedback also reply back.
+(2) Personal information automatically collected during the use of our App
+When you use Achat, we will collect certain information from your device, including device model, device ID (Android ID, IMEI, IMSI, Mac
+address), software list, device running status information, operating system version, network log, internet connection situation, software usage records
+and IP address. We collect such information to perform bug analysis and take anti-spam measures, to ensure your normal use of Achat, and to
+safeguard your account security. The information mentioned above is the basic information we need to provide you with our services. If you refuse to
+provide such device information, we may not be able to provide you with the normal services.
+We may also use the above mentioned information we collect automatically from your device to improve and optimize our product experience. In such
+circumstances, we will only process your device information based on your authorization and/or other available lawful basis provided in applicable
+data protection laws.
+(3) Information we receive from others
+According to the information provided in this document, users are required to provide their mobile number, SMS verification code, password, date of
+birth, and gender during the registration process for Achat. This information is necessary for identity verification, account creation, and personalized
+matching services. It is important to note that individuals who are minors are not permitted to use the Achat app or services.
+In addition to the information users provide directly, Achat may also receive information about them from others, including through their social media
+accounts. For example, if users choose to create and log into their Achat accounts using their social media or other accounts (such as Facebook,
+Google, or Apple), certain information may be shared with Achat as authorized by the user. This information can include basic profile details like
+name, profile picture, email address, and other publicly available information. This streamlined process allows users to easily connect their social
+media accounts with their Achat account.
+
+---
+[PAGE BREAK]
+---
+2. System permission inquired by Achat
+(1)As mentioned above, in order to provide you with Achat service, we may need to be granted permission to your system (not including permissions
+granted to third parties) to collect relevant personal information.
+(2)After you grant us permission to push notification, we will send you push notifications for you to receive and understand our notice in time. If you
+refuse to permit such access, you will not be able to receive our notifications.
+(3)Access to photo album and storage
+After you grant us this access permission, we will access your photo album and use the storage function on your device. It will be used for you to
+upload texts, pictures, videos and other content in your device, and to cache the text, picture and video content generated during your use
+of Achat service. Please note that, we will not access your local storage content. If you refuse to grant us such access, you will not be able to use the
+functions that require this access permission.
+(4) Access to microphone
+After you grant us this access permission, we will use the microphone on your device and recognize the voice information you transmit. This access
+will be used to perform voice input and voice changing functions, and to collect and recognize voice information input while triggering such functions.
+If you refuse to permit such access, you will not be able to use the functions that require this access permission.
+
+---
+
+3. How we use your information
+In addition to some of the specific uses of information we describe in this Privacy Policy, we may use information that we receive to:
+a. help you efficiently access your information after you sign in;
+b. remember information so you will not have to re-enter it during your visit or the next time you visit the Service;
+c. provide personalized content and information to you and others, which could include online ads or other forms of marketing;
+d. provide, improve, test, and monitor the effectiveness of our Service;
+e. develop and test new products and features;
+f. monitor metrics such as total number of visitors, traffic, and demographic patterns;
+g. diagnose or fix technology problems;
+h. automatically update the APP on your device Achat or other Users may run contests, special offers or other events or activities ("Events") on the
+Service. If you do not want to participate in an Event, do not use the particular Metadata (i.e. hashtag) associated with that Event.
+
+---
+
+h. We access, preserve and share your Personal Information with regulators, law enforcement or others where we reasonably believe such
+disclosure is needed to (a) comply with any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use,
+including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or
+technical issues, (d) protect against harm to the rights, property or safety of our company, our users, our employees, or other third parties; or (e) to
+maintain and protect the security and integrity of Achat Services or infrastructure.
+
+---
+[PAGE BREAK]
+---
+j. Third party SDK provider: Achat may integrate third-party SDKs or similar applications. By using these third-party services on our platform,
+you agree to the direct collection and processing of your information through embedded code or widgets. These third parties follow their own
+privacy policies for data handling, separate from ours. Nevertheless, we carefully assess these third parties' qualifications and enforce legal,
+secure, and compliant standards. To better protect your information, we recommend reviewing the privacy policies of each third-party provider
+before using their SDKs. If you detect any potential risks associated with these SDKs or applications, please cease use immediately and contact
+us. For a detailed list of third-party SDKs, please refer to: https://www.achat.live/third-party-sdk-list
+
+---
+
+5. Data storage
+Achat is a global social application operating through servers located in a number of countries around the world, including Singapore. If you live in a
+country with data protection laws, the storage of your personal data may not provide you with the same protections as you enjoy in your country of
+residence. By submitting your personal information, or by choosing to upgrade the services you use, or by making use of the applications available on
+Achat, you agree to the transfer of your personal information to, and storage and processing of your personal information in, any such countries and
+destinations.
+
+---
+
+We cannot guarantee the security of your personal data while it is being transmitted to our site. Any transmission is at your own risk. Once we have
+received your information we have procedures and security features in place to try to prevent authorized access.
+
+---
+[PAGE BREAK]
+---
+8. Your rights
+Some jurisdictions' laws grant specific rights to Achat users, which are set out in this section. You may have all or some of the following rights set forth
+below according to applicable laws. We will respond to your request consistent with the applicable laws as soon as practicable, normally within one
+month, after proper verification procedures. Your exercise of these rights is usually free of charge, unless we deem it is chargeable under the applicable
+laws.
+a. Right to access-You may submit a request to access the Personal Information we collect about you by (a) using Help or Feedback function on
+Achat Services or (b) by sending your request to us via email at service@ahchat.live.
+b. Right to rectification-You may submit a request to rectify the Personal Information we collect about you by (a) using Help or Feedback function
+on Achat Services or (b) by sending your request to us via email at service@ahchat.live.
+c. Right to delete or erasure-You may submit a request to delete/erase the Personal Information we collect about you by (a) using Help or
+Feedback function on Achat Services or (b) by sending your request to us via email at service@ahchat.live. Though we cannot guarantee a
+complete erasure of your data that has been stored in our backup servers, we promise that we will not use the data within the backup servers for
+any other purpose.
+d. Right to data portability-You may ask us to transfer some of your Personal Information, if it is collected on the basis of your consent, in
+structured, commonly used and machine-readable formats to you or other environments designated by you, if technically feasible, by (a) using
+Help or Feedback function on Achat Services or (b) by sending your request to us via email at service@ahchat.live.
+e. Right to withdraw consent-You may withdraw your consent and ask us not to continue to collect or process your Personal Information at any
+time if that information is collected on the basis of your consent by (a) using Help or Feedback function on Achat Services or (b) by sending your
+request to us via email. Your exercise of this right will not affect the processing activities that occurred before your withdrawal.
+f. Right to restrict processing-You may request us to stop processing your Personal Information if you believe such information is collected
+unlawfully or you have other reason by (a) using Help or Feedback function on Achat Services or (b) by sending your request to us via email at
+service@ahchat.live. We will examine your request and respond accordingly.
+g. Right to object-You may object to the processing of any Personal Information we collect about you, if such information is collected on the basis
+of legitimate interests, at any time by (a) using Help or Feedback function on Achat Services or (b) by sending your request to us via email at
+service@ahchat.live. Please note that we may reject your request if we demonstrate compelling legitimate grounds for the processing, which
+override your interests and freedom or the processing is for the establishment, exercise, or defense of legal claims.
+
+---
+[PAGE BREAK]
+---
+If we become aware that personal information has been collected on the Platform from a person under the age of 18 we will delete this information and
+terminate the person's account. If you believe that we have collected information from a child under the age of 18 on the Platform, please contact us at
+service@ahchat.live. We will deactivate the relevant Account(s) and will take reasonable measures to promptly delete such Personal Data from our
+records.
+
+---
+
+16. IP Protection
+Achat has a strong commitment to upholding intellectual property laws and has implemented a policy to address any instances of infringement on its
+products and services. If you believe that any materials or content within Achat's app violate copyrights, trademarks, patents, or trade secrets (referred
+to collectively as "IP Rights"), please submit a notice of infringement to Achat's designated agent. This notice should include a physical signature from
+the owner of the infringed IP Right.
+(1) Identification of the material that is claimed to be infringing, including its location on the Achat network, with sufficient detail so that Achat is
+capable of finding the material and verifying its existence. Please address your intention to remove the alleged infringed materials.
+(2) Contact information, including your name, address, telephone number, and email address.
+(3) A statement by you that you have a good faith belief that the disputed use is not authorized by the IP Right owner, its agent or law.
+(4) A statement by you that the above information in your Notice is accurate and that, under penalty of perjury, you are the IP Right owner or
+authorized to act on the IP Right owner's Behalf.
+(5) Agree to undertake compensation responsibility to Achat for any false and incorrect information addressed in above statements.
+
+---
+[PAGE BREAK]
+---
+If I put other information about me on the Achat, what does Achat do with it?
+Achat takes the privacy and security of user information seriously. Any information that you provide on Achat, such as your profile information or
+messages, may be accessible to other users of the service. It is important to be cautious about the information you disclose and to avoid sharing
+sensitive personal details, such as email addresses, phone numbers, or credit card information, in your profile. Achat does not recommend or endorse
+sharing such information, as it may be subject to misuse or abuse. If you violate the terms of service, Achat reserves the right to terminate your
+account.
+
+---
+
+Can Achat collect information about me from other sites I use, such as Facebook?
+You can register with third party accounts on Achat. Remember that when you register with a Achat partner, you are also giving them personal
+information, so we recommend that you read their privacy policies as Achat does not control how they use their information.
+If you have registered on one of our partner websites, or you have verified your account via a partner website, we may connect your Achat profile with
+your profile on such a partner website. We may do this by way of new products and applications which we introduce from time to time, including new
+products powered by our group companies.
+
+---
+
+Does Achat collect any other personal information about me?
+If you contact our Customer Support team via feedback features in our Service or through any other means, we may receive your email address, your
+IP address as well as the information you send to us to help resolve your query. When you provide feedback to us you automatically consent us to
+receive and use such information. You also consent that we are allowed to keep records of our communications with you, including any complaints that
+we receive from you about other users (and from other users about you).
+
+---
+
+Does Achat use my personal information for any other purpose?
+We may use material that you post on the open access areas of Achat in advertising and promotional materials on our partner sites and partner products.
+We believe these uses allow us to improve our site and better tailor your online experience to meet your needs.
+
+---
+
+When I put information about myself on Achat, what do the other users see?
+To ensure you get to meet as many people as possible on Achat, other users get to see all information on your Profile. Any information you choose to
+provide should reflect how much you want other Achat users to know about you.
+The content you want to post in your moment you can select to whom you want your moments to be seen, before posting a content you can select "Public",
+"Show to friends”, or show “only to yourself". After posting you can also go to your profile page and select to delete it.

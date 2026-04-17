@@ -1,0 +1,128 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'App interactions' is collected, as evidenced by the text 'how you interact with our ... mobile apps'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'App interactions' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'In-app search history' is collected, as evidenced by the text 'search terms entered'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'In-app search history' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'Other actions' are collected, as evidenced by the text 'the products that you buy'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'Other actions' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect information about your device and location. We collect the type of device you use and location to access our Platforms, including the access and use of the Wi-Fi that we make available to our customers at our stores. We also collect information about the type of browser you are using. And, we may look at what site you came from or what site you go to when you leave us. If you are using our apps, we may also collect your device identification number or the advertising ID. If you use our app, we may look at how often you use the app and where you downloaded it. If you use any of the specific services that we may offer you (such as item finder, reserve a fitting room, etc.) available in some of ourstores, we also may process your location and contact information. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'Web browsing history' is collected, as evidenced by the text 'we may look at what site you came from or what site you go to when you leave us'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'Web browsing history' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We collect information about your device and location. We collect the type of device you use and location to access our Platforms, including the access and use of the Wi-Fi that we make available to our customers at our stores. We also collect information about the type of browser you are using. And, we may look at what site you came from or what site you go to when you leave us. If you are using our apps, we may also collect your device identification number or the advertising ID. If you use our app, we may look at how often you use the app and where you downloaded it. If you use any of the specific services that we may offer you (such as item finder, reserve a fitting room, etc.) available in some of ourstores, we also may process your location and contact information. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'Other app performance data' is collected, as evidenced by the text 'If you use our app, we may look at how often you use the app and where you downloaded it'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'Other app performance data' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We collect contact information. For example, we collect personal identification data, online or in person, among other purposes, to manage your registration as a user, to manage your purchases of products or services, to respond to your queries, and, if you wish, to send you our customized including name, mailing address, email addresses and phone numbers. If you register as a user, we will also have you create a password. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'Name' is collected, as evidenced by the text 'collect personal identification data... including name'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'Name' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We collect contact information. For example, we collect personal identification data, online or in person, among other purposes, to manage your registration as a user, to manage your purchases of products or services, to respond to your queries, and, if you wish, to send you our customized including name, mailing address, email addresses and phone numbers. If you register as a user, we will also have you create a password. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'Email address' is collected, as evidenced by the text 'collect... email addresses'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'Email address' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We collect contact information. For example, we collect personal identification data, online or in person, among other purposes, to manage your registration as a user, to manage your purchases of products or services, to respond to your queries, and, if you wish, to send you our customized including name, mailing address, email addresses and phone numbers. If you register as a user, we will also have you create a password. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy implies that 'User IDs' are collected in the context of user registration, as evidenced by the text 'manage your registration as a user'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'User IDs' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We collect contact information. For example, we collect personal identification data, online or in person, among other purposes, to manage your registration as a user, to manage your purchases of products or services, to respond to your queries, and, if you wish, to send you our customized including name, mailing address, email addresses and phone numbers. If you register as a user, we will also have you create a password. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'Address' is collected, as evidenced by the text 'collect... mailing address'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'Address' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We collect contact information. For example, we collect personal identification data, online or in person, among other purposes, to manage your registration as a user, to manage your purchases of products or services, to respond to your queries, and, if you wish, to send you our customized including name, mailing address, email addresses and phone numbers. If you register as a user, we will also have you create a password. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'Phone number' is collected, as evidenced by the text 'collect... phone numbers'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'Phone number' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We collect demographic information and information about product preferences. This includes collecting your age and gender. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'Other info' is collected, as evidenced by the text 'collecting your age and gender'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'Other info' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We collect payment information. If you buy products or services we will collect the relevant data, online or in person, as your debit or credit card number to manage payment of the products or services that you purchase, regardless of the method of payment used.",
+      "justification": "The privacy policy states that 'User payment info' is collected, as evidenced by the text 'collect... your debit or credit card number to manage payment'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'User payment info' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'Purchase history' is collected, as evidenced by the text 'the products that you buy'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'Purchase history' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We collect information about your device and location. We collect the type of device you use and location to access our Platforms, including the access and use of the Wi-Fi that we make available to our customers at our stores. We also collect information about the type of browser you are using. And, we may look at what site you came from or what site you go to when you leave us. If you are using our apps, we may also collect your device identification number or the advertising ID. If you use our app, we may look at how often you use the app and where you downloaded it. If you use any of the specific services that we may offer you (such as item finder, reserve a fitting room, etc.) available in some of ourstores, we also may process your location and contact information. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'Approximate location' is collected, as evidenced by the text 'collect... location to access our Platforms'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'Approximate location' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We collect information about your device and location. We collect the type of device you use and location to access our Platforms, including the access and use of the Wi-Fi that we make available to our customers at our stores. We also collect information about the type of browser you are using. And, we may look at what site you came from or what site you go to when you leave us. If you are using our apps, we may also collect your device identification number or the advertising ID. If you use our app, we may look at how often you use the app and where you downloaded it. If you use any of the specific services that we may offer you (such as item finder, reserve a fitting room, etc.) available in some of ourstores, we also may process your location and contact information. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'Precise location' is collected, as evidenced by the text 'process your location' for services like 'item finder'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'Precise location' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We collect contact information. For example, we collect personal identification data, online or in person, among other purposes, to manage your registration as a user, to manage your purchases of products or services, to respond to your queries, and, if you wish, to send you our customized including name, mailing address, email addresses and phone numbers. If you register as a user, we will also have you create a password. In some cases, we may share this information for the purpose noted above.",
+      "justification": "The privacy policy states that 'Emails' are collected, as evidenced by the text 'collect... email addresses'. This must be declared in the app's Data Safety section.",
+      "how_to_fix": "Declare 'Emails' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We collect information you submit online. This includes information you post when you interact with us on social media platforms. In some cases, we may share this information for the purpose noted above.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy refers to data collected on external social media platforms, not directly through the mobile app. Data collected by sources other than the app is exempt from declaration.",
+      "how_to_fix": "No action needed. This data type is not collected by the app according to the policy and is correctly excluded.",
+      "lang": "English"
+    }
+  ]
+}
+```

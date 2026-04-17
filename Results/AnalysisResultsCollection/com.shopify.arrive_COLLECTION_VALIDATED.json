@@ -1,0 +1,28 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "When you browse or shop with Shopify Merchants, we receive information about your activity on the Shopify Merchant site, including information about your browsing and search activity, the products and services you place in your cart and/or purchase, your billing and shipping information, transaction details and your payment information.",
+      "justification": "The privacy policy states, \"we receive information about your activity on the Shopify Merchant site, including information about your browsing and search activity\". This indicates the collection of web browsing history.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Information: We may receive payment information when you use Shop Pay or make a purchase through Shopify or Shopify Merchants, such as your payment card number and expiration date.",
+      "justification": "The privacy policy states, \"We may receive payment information when you use Shop Pay or make a purchase through Shopify or Shopify Merchants, such as your payment card number and expiration date.\" This confirms the collection of user payment information.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "1. Profile and Contact Information: We receive contact or other account profile information when you sign up for or interact with Shopify Consumer Services, which may include name, shipping address, email address, profile picture, or other information you choose to provide us. We may link this information to the different devices or accounts you use when you interact with Shopify, Shopify Merchants, and/or use the Shopify Consumer Services.",
+      "justification": "The privacy policy states, \"We receive...profile picture...\". A profile picture is a type of photo.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

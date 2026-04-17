@@ -1,0 +1,105 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The CCPA defines a \"sale\" as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and \"sharing\" includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising. While we do not disclose personal information to third parties in exchange for monetary compensation, like many websites, we may \"share\" (as defined in the CCPA) certain identifiers (i.e., IP address and online identifiers), usage data, and inferences to advertising networks, data analytics providers, operating systems and platforms, and social networks, including in the context of our use of certain cookies, pixel tags, and other similar tools and technologies. We do so in order to improve and evaluate our advertising campaigns and better reach customers and prospective customers with more relevant ads and content.",
+      "justification": "The privacy policy states that usage data and identifiers are shared with advertising networks and data analytics providers for cross-context behavioral advertising, which constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data safety' section of the Play Console that this data type is 'shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "The CCPA defines a \"sale\" as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and \"sharing\" includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising. While we do not disclose personal information to third parties in exchange for monetary compensation, like many websites, we may \"share\" (as defined in the CCPA) certain identifiers (i.e., IP address and online identifiers), usage data, and inferences to advertising networks, data analytics providers, operating systems and platforms, and social networks, including in the context of our use of certain cookies, pixel tags, and other similar tools and technologies. We do so in order to improve and evaluate our advertising campaigns and better reach customers and prospective customers with more relevant ads and content.",
+      "justification": "The privacy policy states that usage data, which can include search history, is shared with advertising networks for cross-context behavioral advertising. This constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data safety' section of the Play Console that this data type is 'shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "The CCPA defines a \"sale\" as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and \"sharing\" includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising. While we do not disclose personal information to third parties in exchange for monetary compensation, like many websites, we may \"share\" (as defined in the CCPA) certain identifiers (i.e., IP address and online identifiers), usage data, and inferences to advertising networks, data analytics providers, operating systems and platforms, and social networks, including in the context of our use of certain cookies, pixel tags, and other similar tools and technologies. We do so in order to improve and evaluate our advertising campaigns and better reach customers and prospective customers with more relevant ads and content.",
+      "justification": "The privacy policy states that usage data is shared with advertising networks and data analytics providers for cross-context behavioral advertising, which constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data safety' section of the Play Console that this data type is 'shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Marketing and advertising partners, such as Google, X, Facebook, and Instagram, and providers of analytics services relating to users' behavior such as Appsflyer and Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes. These partners may combine information they collect on our Platform with data on their platforms and data they collect from other websites or through other sources in order to conduct targeted advertising. The processing activities of these third parties marketing platforms are governed by their own privacy policies, not this Privacy Policy (please refer to Section F. COOKIES below);",
+      "justification": "The policy states data is shared with marketing partners who may combine it with other data for targeted advertising, governed by their own policies. This is 'sharing' and not an exempt service provider transfer.",
+      "how_to_fix": "Declare in the 'Data safety' section of the Play Console that this data type is 'shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "The CCPA defines a \"sale\" as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and \"sharing\" includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising. While we do not disclose personal information to third parties in exchange for monetary compensation, like many websites, we may \"share\" (as defined in the CCPA) certain identifiers (i.e., IP address and online identifiers), usage data, and inferences to advertising networks, data analytics providers, operating systems and platforms, and social networks, including in the context of our use of certain cookies, pixel tags, and other similar tools and technologies. We do so in order to improve and evaluate our advertising campaigns and better reach customers and prospective customers with more relevant ads and content.",
+      "justification": "The privacy policy explicitly states that identifiers are shared with advertising networks for cross-context behavioral advertising, which constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data safety' section of the Play Console that this data type is 'shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "The types of personal information that we may share include unique identifiers (e.g., cookies and similar technologies), device information, geolocation data, commercial data, behavioral data, and inferences.",
+      "justification": "The privacy policy states that unique identifiers may be shared, without specifying a purpose that qualifies for an exemption under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data safety' section of the Play Console that this data type is 'shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "The types of personal information that we may share include unique identifiers (e.g., cookies and similar technologies), device information, geolocation data, commercial data, behavioral data, and inferences.",
+      "justification": "The privacy policy states that geolocation data may be shared, without specifying a purpose that qualifies for an exemption under Google Play's policy.",
+      "how_to_fix": "Declare in the 'Data safety' section of the Play Console that this data type is 'shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Third party rating / reviewing service providers, to carry out reviews or surveys of our services with customers if you choose to participate in reviewing or rating Platform products and/or services;",
+      "reason_of_removal": "Exempt: Service Provider.",
+      "justification": "The policy indicates the third party processes data on the developer's behalf to carry out reviews of their services, which is an exempt transfer.",
+      "how_to_fix": "No 'sharing' disclosure is required for this transfer as it qualifies as a service provider exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Marketing and advertising partners, such as Google, X, Facebook, and Instagram, and providers of analytics services relating to users' behavior such as Appsflyer and Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes. These partners may combine information they collect on our Platform with data on their platforms and data they collect from other websites or through other sources in order to conduct targeted advertising. The processing activities of these third parties marketing platforms are governed by their own privacy policies, not this Privacy Policy (please refer to Section F. COOKIES below);",
+      "reason_of_removal": "Inconsistent: The policy reference does not mention this data type.",
+      "justification": "The policy text discusses sharing user behavior data for advertising and does not logically cover technical data like crash logs.",
+      "how_to_fix": "No action needed based on this policy text. If this data is shared, find the relevant policy section or update the policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Marketing and advertising partners, such as Google, X, Facebook, and Instagram, and providers of analytics services relating to users' behavior such as Appsflyer and Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes. These partners may combine information they collect on our Platform with data on their platforms and data they collect from other websites or through other sources in order to conduct targeted advertising. The processing activities of these third parties marketing platforms are governed by their own privacy policies, not this Privacy Policy (please refer to Section F. COOKIES below);",
+      "reason_of_removal": "Inconsistent: The policy reference does not mention this data type.",
+      "justification": "The policy text discusses sharing user behavior data for advertising and does not logically cover technical data like diagnostics.",
+      "how_to_fix": "No action needed based on this policy text. If this data is shared, find the relevant policy section or update the policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Marketing and advertising partners, such as Google, X, Facebook, and Instagram, and providers of analytics services relating to users' behavior such as Appsflyer and Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes. These partners may combine information they collect on our Platform with data on their platforms and data they collect from other websites or through other sources in order to conduct targeted advertising. The processing activities of these third parties marketing platforms are governed by their own privacy policies, not this Privacy Policy (please refer to Section F. COOKIES below);",
+      "reason_of_removal": "Inconsistent: The policy reference does not mention this data type.",
+      "justification": "The policy text discusses sharing user behavior data for advertising and does not logically cover app performance data.",
+      "how_to_fix": "No action needed based on this policy text. If this data is shared, find the relevant policy section or update the policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment service providers that provide payment processing services, such as Alipay Singapore E-Commerce Private Limited. Please note some activities of payment service providers may be governed by their own privacy policies, not this Privacy Policy;",
+      "reason_of_removal": "Exempt: Service Provider.",
+      "justification": "The policy indicates the third party provides payment processing services on behalf of the developer, which is an exempt transfer.",
+      "how_to_fix": "No 'sharing' disclosure is required for this transfer as it qualifies as a service provider exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "Credit risk assessment providers, to conduct risk assessment on Sellers to determine whether a Seller can be permitted to make an advance withdrawal or to conduct risk assessment on Buyers to determine whether a Buyer can be permitted to apply for some payment services (such as Buy now pay later);",
+      "reason_of_removal": "Exempt: Service Provider.",
+      "justification": "The policy indicates the third party conducts risk assessment on the developer's behalf to enable app functionality, which is an exempt service provider transfer.",
+      "how_to_fix": "No 'sharing' disclosure is required for this transfer as it qualifies as a service provider exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

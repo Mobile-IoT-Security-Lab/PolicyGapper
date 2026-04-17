@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "When you use our sites we may also use cookies or similar technologies to collect or generate extra data, including:\nYour IP address - a numerical code to identify your device, together with the country, region or city where you are based.\nYour geolocation data - your IP address can be used to find information about the latitude, longitude, altitude of your device, its direction of travel, your GPS data and data about connection with local Wi-Fi equipment.\nInformation on how you interact with our services.\nYour browsing history of the content you have visited on our sites, including how you were referred to our sites via other websites.\nDetails of your computer, mobile, TV, tablet or other devices, for example, the unique device ID, mobile advertising ID, unique vendor or advertising ID and browsers used to access our content.\nIdentifiers derived from those cookies or similar technologies, your device, or generated based on the data you share when registering, signing up for newsletters or making a payment, such as your email address, or the data described above.",
+      "lang": "English"
+    }
+  ]
+}

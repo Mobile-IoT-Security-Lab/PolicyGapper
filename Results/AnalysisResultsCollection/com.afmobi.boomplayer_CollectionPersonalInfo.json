@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "• Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "• Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "•Third-party Services. If yWhat's Badmplay Bocoran Artists accraventsingy conewsctin@ntaith a third-party service, such as Facebook, Google, Instagram, Whatsapp or Email, we may collect information from such third-party service, including without limitation your third-party service user name, gender, profile image, birthday and third-party service contact list.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Location data We may collect and process information about your location, including location information based on your SIM card, IP address or mobile device location settings, and if activated on your mobile device, by use of a Global Positioning System (GPS). We may use such information to provide you with location-based services, such as features, notifications, marketing, or other content that is influenced by your location. If you do not wish to share your GPS location with us, you can switch off GPS functionality on your mobile device.",
+      "lang": "English"
+    }
+  ]
+}

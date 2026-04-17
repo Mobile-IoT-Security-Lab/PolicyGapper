@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may also disclose your personal information as required or permitted by law to comply with a subpoena or similar legal process or government request, or when we believe in good faith that disclosure is legally required or otherwise necessary to protect our rights and property or the rights, property or safety of others, including to law enforcement agencies, and judicial and regulatory authorities. We may also disclose your personal information to third parties to help detect and protect against fraud or data security vulnerabilities. And we may disclose or transfer your personal information to a third party in the event of an actual or potential sale, merger, reorganization of our entity or other restructuring.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "When we engage in digital advertising, we may share the following categories of personal information for purposes of cross-context behavioral advertising, or use them for targeted advertising: personal identifiers (IP address,); and internet or other electronic activity information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may also disclose your personal information as required or permitted by law to comply with a subpoena or similar legal process or government request, or when we believe in good faith that disclosure is legally required or otherwise necessary to protect our rights and property or the rights, property or safety of others, including to law enforcement agencies, and judicial and regulatory authorities. We may also disclose your personal information to third parties to help detect and protect against fraud or data security vulnerabilities. And we may disclose or transfer your personal information to a third party in the event of an actual or potential sale, merger, reorganization of our entity or other restructuring.",
+      "lang": "English"
+    }
+  ]
+}

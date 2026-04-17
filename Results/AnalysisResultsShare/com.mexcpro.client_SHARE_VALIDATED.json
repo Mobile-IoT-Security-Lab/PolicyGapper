@@ -1,0 +1,111 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Installation of Cookies. When you visit the Platform, the Platform will use Google Stats via Cookies to record the Platform's performance and check the effectiveness of online advertising. Cookies are a small amount of data that is sent to your browser and stored in your computer hard drive. Only when you use your computer to access the Platform can the Cookies be sent to your computer hard drive.",
+      "justification": "The privacy policy states the app uses 'Google Stats via Cookies' to 'check the effectiveness of online advertising'. This indicates data, such as 'Device or other IDs' collected via cookies, is shared with a third party (Google) for advertising purposes, which constitutes 'sharing' and must be declared.",
+      "how_to_fix": "In your app's Data Safety section, declare that 'Device or other IDs' is collected and shared. For the sharing purpose, select 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "(b) Third party service providers:\nWe employ other companies and individuals to perform functions on our behalf. Examples include analysing data, providing marketing assistance, processing payments, transmitting content, assessing and managing credit risk, and coding and developing of MEXC related mobile and/or other forms of portable applications (including MEXC application on Google Play - Developer Name: MEXC; Developer ID: 7724732378084052863). These third-party service providers only have access to personal information needed to perform their functions but may not use it for other purposes. Further, they must process the personal information in accordance with our contractual agreements and only as permitted by applicable data protection laws.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that third parties are employed to 'perform functions on our behalf' and are contractually restricted from using the data for other purposes. This meets the criteria for the service provider exemption under Google Play's User Data Policy.",
+      "how_to_fix": "No action is required for this item as it qualifies for the service provider exemption. Ensure your contracts with these providers legally bind them to act solely on your behalf.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "(b) Third party service providers:\nWe employ other companies and individuals to perform functions on our behalf. Examples include analysing data, providing marketing assistance, processing payments, transmitting content, assessing and managing credit risk, and coding and developing of MEXC related mobile and/or other forms of portable applications (including MEXC application on Google Play - Developer Name: MEXC; Developer ID: 7724732378084052863). These third-party service providers only have access to personal information needed to perform their functions but may not use it for other purposes. Further, they must process the personal information in accordance with our contractual agreements and only as permitted by applicable data protection laws.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that third parties are employed to 'perform functions on our behalf' and are contractually restricted from using the data for other purposes. This meets the criteria for the service provider exemption under Google Play's User Data Policy.",
+      "how_to_fix": "No action is required for this item as it qualifies for the service provider exemption. Ensure your contracts with these providers legally bind them to act solely on your behalf.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "reason_of_removal": "Exempted Transfer (Business Merger/Acquisition)",
+      "justification": "The policy describes transferring user data as part of a merger, acquisition, or sale of assets. Per Google Play policy, this specific type of transfer is not considered 'sharing' and does not need to be declared in the Data Safety section.",
+      "how_to_fix": "No action is required for this item as it qualifies for the business transfer exemption. Ensure your privacy policy properly informs users of this possibility as required by law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "reason_of_removal": "Exempted Transfer (Business Merger/Acquisition)",
+      "justification": "The policy describes transferring user data as part of a merger, acquisition, or sale of assets. Per Google Play policy, this specific type of transfer is not considered 'sharing' and does not need to be declared in the Data Safety section.",
+      "how_to_fix": "No action is required for this item as it qualifies for the business transfer exemption. Ensure your privacy policy properly informs users of this possibility as required by law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "reason_of_removal": "Exempted Transfer (Business Merger/Acquisition)",
+      "justification": "The policy describes transferring user data as part of a merger, acquisition, or sale of assets. Per Google Play policy, this specific type of transfer is not considered 'sharing' and does not need to be declared in the Data Safety section.",
+      "how_to_fix": "No action is required for this item as it qualifies for the business transfer exemption. Ensure your privacy policy properly informs users of this possibility as required by law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "reason_of_removal": "Exempted Transfer (Business Merger/Acquisition)",
+      "justification": "The policy describes transferring user data as part of a merger, acquisition, or sale of assets. Per Google Play policy, this specific type of transfer is not considered 'sharing' and does not need to be declared in the Data Safety section.",
+      "how_to_fix": "No action is required for this item as it qualifies for the business transfer exemption. Ensure your privacy policy properly informs users of this possibility as required by law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "reason_of_removal": "Exempted Transfer (Business Merger/Acquisition)",
+      "justification": "The policy describes transferring user data as part of a merger, acquisition, or sale of assets. Per Google Play policy, this specific type of transfer is not considered 'sharing' and does not need to be declared in the Data Safety section.",
+      "how_to_fix": "No action is required for this item as it qualifies for the business transfer exemption. Ensure your privacy policy properly informs users of this possibility as required by law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "reason_of_removal": "Exempted Transfer (Business Merger/Acquisition)",
+      "justification": "The policy describes transferring user data as part of a merger, acquisition, or sale of assets. Per Google Play policy, this specific type of transfer is not considered 'sharing' and does not need to be declared in the Data Safety section.",
+      "how_to_fix": "No action is required for this item as it qualifies for the business transfer exemption. Ensure your privacy policy properly informs users of this possibility as required by law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "reason_of_removal": "Exempted Transfer (Business Merger/Acquisition)",
+      "justification": "The policy describes transferring user data as part of a merger, acquisition, or sale of assets. Per Google Play policy, this specific type of transfer is not considered 'sharing' and does not need to be declared in the Data Safety section.",
+      "how_to_fix": "No action is required for this item as it qualifies for the business transfer exemption. Ensure your privacy policy properly informs users of this possibility as required by law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "reason_of_removal": "Exempted Transfer (Business Merger/Acquisition)",
+      "justification": "The policy describes transferring user data as part of a merger, acquisition, or sale of assets. Per Google Play policy, this specific type of transfer is not considered 'sharing' and does not need to be declared in the Data Safety section.",
+      "how_to_fix": "No action is required for this item as it qualifies for the business transfer exemption. Ensure your privacy policy properly informs users of this possibility as required by law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "reason_of_removal": "Exempted Transfer (Business Merger/Acquisition)",
+      "justification": "The policy describes transferring user data as part of a merger, acquisition, or sale of assets. Per Google Play policy, this specific type of transfer is not considered 'sharing' and does not need to be declared in the Data Safety section.",
+      "how_to_fix": "No action is required for this item as it qualifies for the business transfer exemption. Ensure your privacy policy properly informs users of this possibility as required by law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "(d) Business transfers:\nAs we continue to develop our business, we might sell or buy other businesses or services. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that MEXC or substantially all of its assets are acquired by a third party, user information will be one of the transferred assets.",
+      "reason_of_removal": "Exempted Transfer (Business Merger/Acquisition)",
+      "justification": "The policy describes transferring user data as part of a merger, acquisition, or sale of assets. Per Google Play policy, this specific type of transfer is not considered 'sharing' and does not need to be declared in the Data Safety section.",
+      "how_to_fix": "No action is required for this item as it qualifies for the business transfer exemption. Ensure your privacy policy properly informs users of this possibility as required by law.",
+      "lang": "English"
+    }
+  ]
+}
+```

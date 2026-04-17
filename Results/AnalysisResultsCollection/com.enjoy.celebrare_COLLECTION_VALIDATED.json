@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "When you access Service with a device, this Usage Data may include information such as the type of device you use, your device unique ID, the IP address of your device, your device operating system, the type of Internet browser you use, unique device identifiers and other diagnostic data.",
+      "justification": "The privacy policy states that 'diagnostic data' and 'unique device identifiers' are collected, which fall under 'Other app performance data'. This data type is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "While using our Service, we may also collect the following information: sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data.",
+      "justification": "The privacy policy explicitly states the collection of 'registration at place of residence and actual address'. This data type is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Address' (Physical address) in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "While using our Service, we may also collect the following information: sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data.",
+      "justification": "The privacy policy states the collection of various personal details like 'sex, age, date of birth, place of birth, passport details, citizenship, information on marital status, family members', which fall under 'Other info'. This is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Other info' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;",
+      "justification": "The privacy policy mentions processing data for 'billing and collection', which implies the collection of user payment information. This is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'User payment info' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "While using our Service, we may also collect the following information: sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data.",
+      "justification": "The privacy policy states the collection of 'information on bonuses and compensation' and 'social security (or other taxpayer identification) number', which are types of 'Other financial info'. This is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Other financial info' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.",
+      "justification": "The privacy policy states that 'IP address' is collected, which can be used to determine a user's approximate location. This is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Approximate location' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "While using our Service, we may also collect the following information: sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data.",
+      "justification": "The privacy policy states the collection of 'actual address' and 'office location', which are considered 'Precise location'. This is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Precise location' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Other Data\nWhile using our Service, we may also collect the following information: sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data.",
+      "justification": "The privacy policy states the collection of 'passport details', 'documents on education', 'employment agreements', and 'NDA agreements', which fall under 'Files and docs'. This is not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of 'Files and docs' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "•\nUser Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "•\nUser Content: We may collect content that you create or upload through the Services, including prompts, text, images, audio, video recordings and chat history that you input, depending on the features you use.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "③Third parties may use tracking technologies in connection with our Service, which may include the collection of information about your online activities over time and across third party websites.",
+      "lang": "English"
+    }
+  ]
+}

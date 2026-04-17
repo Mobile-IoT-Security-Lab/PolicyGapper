@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Sharing Personal Information\nWe may share your personal information with third parties for business purposes, including:\n• Advertising Networks: To provide tailored advertising based on your activities,\ncontents, profile, browsing history and preferences.\n•\nData Analytics Providers: To understand app and website usage patterns and improve\nour services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In the past twelve (12) months, we have disclosed the following categories of personal\ninformation for business purposes:\n•\nIdentifiers such as IP address, online and device identifiers.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "In order to provide our Apps to you for free we display ads. To display ads, we work with our ad partners who may have their SDK/API integrated with our Apps. In order to improve user targeting, which is important for interest-based ads and marketing solutions relevant to the user, our partners may obtain and lawfully use information such as the following:\n\na) Device and account identifiers - Ad id (advertising id), app set ID and other identifiers related to accounts that are signed-in on the device.\nb) IP address - Can be used to estimate the general location of a device\nc) User product interactions and interaction information - App launches, taps and video views\nd) Diagnostic information - Information is related to the performance of our Apps and the SDK, crash logs, app launch time, hang time and energy usage.\ne) Precise location - Ad networks may obtain your location in order to show to you relevant ads.",
+      "justification": "The privacy policy states that 'User product interactions and interaction information' are shared with ad partners for user targeting and interest-based advertising. This is considered 'sharing' with a third party and is not covered by any exemption.",
+      "how_to_fix": "In the Google Play Console's Data safety section, under 'App interactions', declare that this data is 'Shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "In order to provide our Apps to you for free we display ads. To display ads, we work with our ad partners who may have their SDK/API integrated with our Apps. In order to improve user targeting, which is important for interest-based ads and marketing solutions relevant to the user, our partners may obtain and lawfully use information such as the following:\n\na) Device and account identifiers - Ad id (advertising id), app set ID and other identifiers related to accounts that are signed-in on the device.\nb) IP address - Can be used to estimate the general location of a device\nc) User product interactions and interaction information - App launches, taps and video views\nd) Diagnostic information - Information is related to the performance of our Apps and the SDK, crash logs, app launch time, hang time and energy usage.\ne) Precise location - Ad networks may obtain your location in order to show to you relevant ads.",
+      "justification": "The privacy policy indicates that user interaction information like 'taps and video views' is shared with ad partners for user targeting. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "In the Google Play Console's Data safety section, under 'Other actions', declare that this data is 'Shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "In order to provide our Apps to you for free we display ads. To display ads, we work with our ad partners who may have their SDK/API integrated with our Apps. In order to improve user targeting, which is important for interest-based ads and marketing solutions relevant to the user, our partners may obtain and lawfully use information such as the following:\n\na) Device and account identifiers - Ad id (advertising id), app set ID and other identifiers related to accounts that are signed-in on the device.\nb) IP address - Can be used to estimate the general location of a device\nc) User product interactions and interaction information - App launches, taps and video views\nd) Diagnostic information - Information is related to the performance of our Apps and the SDK, crash logs, app launch time, hang time and energy usage.\ne) Precise location - Ad networks may obtain your location in order to show to you relevant ads.",
+      "justification": "The policy explicitly states that 'Diagnostic information' is obtained by ad partners for the purpose of user targeting and interest-based ads. This is a declarable 'sharing' activity.",
+      "how_to_fix": "In the Google Play Console's Data safety section, under 'Diagnostics', declare that this data is 'Shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Note that all mixes that you create (or have created) using our app will be shared with the rest of the members of the community once you join the Bliss Community.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy states that data is shared only when the user performs a specific action ('join the Bliss Community'). This falls under the user-initiated action exemption and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action required. This type of sharing is exempt from disclosure in the Data safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "In order to provide the above information, our partners may obtain and lawfully use information such as the following:\n\n• Crashlytics Installation UUIDs, Crash traces, Breakpad minidump formatted data (to provide crash-related information)\n• Firebase installation IDs (to help Firebase In-app messaging determine which devices to deliver a message, associate predictions with a project, deliver configuration values to end-user devices and more)\n• Mobile ad IDs, IDFVs/Android IDs, Firebase installation IDs, Analytics App Instance IDs (to provide analytics and attribution information)\n• Firebase user agent (used internally by Google to determine platform and version adoption in order to provide and improve Firebase services)",
+      "reason_of_removal": "Service provider exemption",
+      "justification": "The policy indicates that Crashlytics and Firebase process data on the developer's behalf for core app functionalities like crash reporting and messaging. This is a valid use of a service provider and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required. Sharing with service providers for app functionality purposes is exempt from disclosure as 'sharing' in the Data safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

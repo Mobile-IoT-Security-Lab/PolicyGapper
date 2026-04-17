@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "We collect information you provide directly to us. For instance, in order to use a device, we require you to register for an account by providing your name, email address, and phone number. In order to customize and enhance your experience and the messages we send you, we may ask you to provide additional information.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "When you use our device, we collect real-time audio and video data from the device. We utilize this data to detect and gather information on various vital signs, including physiological indicators, as well as to identify and collect data on entities and objects present in the scene",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "When you use our device, we collect real-time audio and video data from the device. We utilize this data to detect and gather information on various vital signs, including physiological indicators, as well as to identify and collect data on entities and objects present in the scene",
+"lang": "en"
+}
+]
+}

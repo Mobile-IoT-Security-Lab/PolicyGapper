@@ -1,0 +1,74 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Usage Information: We and our third-party partners and service providers, such as Google Analytics and/or Adobe Analytics, may use a variety of technologies that collect and provide information about how the Content is accessed and used. Usage Information may consist of your internet browser type and version, operating system, service provider, the webpages, videos and apps you viewed, the time you viewed them and for how long, game or video history, skill level, demographic information about you (such as your age, gender, language, location and interest areas, where available), time zone, language, and what you looked at before accessing our Content. For more information about the collection of some of this information, please also see the section on Cookies and Similar Tracking Technology.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User-Generated Content: When we provide you the opportunity to upload or share user-generated content, we will collect information that you provide to us through our Content, such as photographs, video images or other content that you may upload.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Usage Information: We and our third-party partners and service providers, such as Google Analytics and/or Adobe Analytics, may use a variety of technologies that collect and provide information about how the Content is accessed and used. Usage Information may consist of your internet browser type and version, operating system, service provider, the webpages, videos and apps you viewed, the time you viewed them and for how long, game or video history, skill level, demographic information about you (such as your age, gender, language, location and interest areas, where available), time zone, language, and what you looked at before accessing our Content. For more information about the collection of some of this information, please also see the section on Cookies and Similar Tracking Technology.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "To provide you with the service(s) and setting(s) you have requested: for example, letting you navigate between pages efficiently, keeping you logged in during your visit, checking for bugs and glitches in the Content, to comply with applicable law, and ensuring security of the Content. We typically collect account information such as username and password, device identifiers, usage information as it relates to glitches, bugs, or Content security issues, and the preferences you select for these purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "To provide you with the service(s) and setting(s) you have requested: for example, letting you navigate between pages efficiently, keeping you logged in during your visit, checking for bugs and glitches in the Content, to comply with applicable law, and ensuring security of the Content. We typically collect account information such as username and password, device identifiers, usage information as it relates to glitches, bugs, or Content security issues, and the preferences you select for these purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Usage Information: We and our third-party partners and service providers, such as Google Analytics and/or Adobe Analytics, may use a variety of technologies that collect and provide information about how the Content is accessed and used. Usage Information may consist of your internet browser type and version, operating system, service provider, the webpages, videos and apps you viewed, the time you viewed them and for how long, game or video history, skill level, demographic information about you (such as your age, gender, language, location and interest areas, where available), time zone, language, and what you looked at before accessing our Content. For more information about the collection of some of this information, please also see the section on Cookies and Similar Tracking Technology.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Device Identifiers: We may also automatically collect your IP address or other unique identifier for the computer, mobile device, technology, or other device you use to access the Content. A unique identifier is a number that is automatically assigned to your device when you access a web site or its servers, and our computers identify your device by this number. Some service providers may also provide us with the physical location of the device used to access the Content. For more information about the collection of some of this information, please also see the section on Cookies and Similar Tracking Technology.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Identification Data: Information that allows us to differentiate you from other individuals. This may include demographic information, such as: name and surname, date of birth, gender, postal address, username, password, and answers to account security questions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Identification Data: Information that allows us to differentiate you from other individuals. This may include demographic information, such as: name and surname, date of birth, gender, postal address, username, password, and answers to account security questions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Location-identifying Technologies\nSubject to applicable laws, we may use GPS (global positioning systems) software, geo-filtering and other location-aware technologies to locate (sometimes precisely) you for purposes such as verifying your location and delivering or restricting content (e.g. territory restrictions) and advertising based on your location. You can turn off precise geo-location tracking through the location settings on your device and/or in our Content (if available).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location-identifying Technologies\nSubject to applicable laws, we may use GPS (global positioning systems) software, geo-filtering and other location-aware technologies to locate (sometimes precisely) you for purposes such as verifying your location and delivering or restricting content (e.g. territory restrictions) and advertising based on your location. You can turn off precise geo-location tracking through the location settings on your device and/or in our Content (if available).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "User-Generated Content: When we provide you the opportunity to upload or share user-generated content, we will collect information that you provide to us through our Content, such as photographs, video images or other content that you may upload.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "User-Generated Content: When we provide you the opportunity to upload or share user-generated content, we will collect information that you provide to us through our Content, such as photographs, video images or other content that you may upload.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Certain functionalities on the Content permit interactions that you initiate between the Content and certain Third-Party Services, such as third-party social networks (\"Social Features\"). Examples of Social Features include: enabling you to send content such as contacts and photos between the Content and a Third-Party Service; \"liking\" or \"sharing\" SPE's content; logging in to the Content using your Third-Party Service account (e.g., using Facebook Connect to sign-in to the Service); and to otherwise connect the Content to a Third-Party Service (e.g., to pull or push information to or from the Content). If you use Social Features, and potentially other Third-Party Services, information you post or provide access to may be publicly displayed on the Content or by the Third-Party Service that you use. Similarly, if you post information on a Third-Party Service that references the Content (e.g., by using a hashtag associated with SPE or Sony group companies in a tweet or status update), your post may be used on or in connection with the Content or otherwise by SPE and Sony group companies. Also, both SPE and the third party may have access to certain information about you and your use of the Content and any Third-Party Service.",
+      "lang": "en"
+    }
+  ]
+}

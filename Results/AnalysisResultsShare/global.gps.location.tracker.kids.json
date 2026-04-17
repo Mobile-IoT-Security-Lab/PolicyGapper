@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "5.5. Advertising and Advertising Measurement Partners: we may share Your personal information in order to facilitate targeting, delivery, and measurement of online advertising on third-party services, or otherwise facilitate the transmission of information that may be useful, relevant, or of interest to you. Such partners include: Facebook Inc. (https://www.facebook.com/privacy/policy/). We do not share children's personal information for these purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "5.7. Publicly available information: Our Sites may offer publicly available chats, forums, and blogs that are viewable by others. Please note that You post publicly available information at your own risk. We are not liable for any information that You voluntarily choose to be public through such and/or other explicit actions. You should be aware that any information you provide on these communication services -including your Account information may be read, collected, and used by any member of the public who accesses these communication services. We urge you to consider the sensitivity of any information you input into these Services. To request removal of Your personal information from publicly accessible websites operated by Us, please contact us as specified below. In some cases, we may not be able to remove your information, in which case we will let You know if we are unable to, and why.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "5.5. Advertising and Advertising Measurement Partners: we may share Your personal information in order to facilitate targeting, delivery, and measurement of online advertising on third-party services, or otherwise facilitate the transmission of information that may be useful, relevant, or of interest to you. Such partners include: Facebook Inc. (https://www.facebook.com/privacy/policy/). We do not share children's personal information for these purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "5.4. Email service providers. We use the Rocket Science Group LLC (“Mailchimp\") https://www.intuit.com/privacy/statement/ and eSputnik Inc. partners to send You email notifications; these partners may have access to Your email address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "5.5. Advertising and Advertising Measurement Partners: we may share Your personal information in order to facilitate targeting, delivery, and measurement of online advertising on third-party services, or otherwise facilitate the transmission of information that may be useful, relevant, or of interest to you. Such partners include: Facebook Inc. (https://www.facebook.com/privacy/policy/). We do not share children's personal information for these purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "AppsFlyer (USA), Adjust (a country of the owner of this service depends on your country)\nWe are using the aforementioned services for attribution and marketing analytics services that allows us measure and analyze the effectiveness of our marketing campaigns by understanding which marketing campaigns contributed to the installation of our mobile applications and such other conversion metric; and measure and analyze certain events and actions within our applications, such as in-app purchases made by End Users. For more information about AppsFlyer privacy practices, please see the https://www.appsflyer.com/legal/services-privacy-policy/ and https://www.adjust.com/terms/privacy-policy/.",
+      "lang": "English"
+    }
+  ]
+}

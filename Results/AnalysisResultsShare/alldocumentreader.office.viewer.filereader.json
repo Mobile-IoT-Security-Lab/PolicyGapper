@@ -1,0 +1,54 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Analytics\nWe may use third-party Service providers to monitor and analyze the use of our Service.\n• Google Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google\nuses the data collected to track and monitor the use of our Service. This data is shared with other Google\nservices. Google may use the collected data to contextualise and personalise the ads of its own advertising\nnetwork.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Analytics\nWe may use third-party Service providers to monitor and analyze the use of our Service.\n• Google Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google\nuses the data collected to track and monitor the use of our Service. This data is shared with other Google\nservices. Google may use the collected data to contextualise and personalise the ads of its own advertising\nnetwork.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Advertising\nWe may use Service providers to show advertisements to You to help support and maintain Our Service.\n• Google AdSense & DoubleClick Cookie\nGoogle, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick\ncookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites\non the Internet.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Analytics\nWe may use third-party Service providers to monitor and analyze the use of our Service.\n• Google Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google\nuses the data collected to track and monitor the use of our Service. This data is shared with other Google\nservices. Google may use the collected data to contextualise and personalise the ads of its own advertising\nnetwork.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Analytics\nWe may use third-party Service providers to monitor and analyze the use of our Service.\n• Google Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google\nuses the data collected to track and monitor the use of our Service. This data is shared with other Google\nservices. Google may use the collected data to contextualise and personalise the ads of its own advertising\nnetwork.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Analytics\nWe may use third-party Service providers to monitor and analyze the use of our Service.\n• Google Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google\nuses the data collected to track and monitor the use of our Service. This data is shared with other Google\nservices. Google may use the collected data to contextualise and personalise the ads of its own advertising\nnetwork.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "With Business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Behavioral Remarketing\nThe Company uses remarketing services to advertise on third party websites to You after You visited our\nService. We and Our third-party vendors use cookies to inform, optimize and serve ads based on Your past\nvisits to our Service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Analytics - We use third party analytics tools, Google Analytics, to help us measure traffic and usage\ntrends for the Service. Google Analytics collects information such as device, location and app usage\ninformation. We may use the information get from Google Analytics only to customize and personalize\nyour App experience for statistical purposes and analytics.",
+      "lang": "English"
+    }
+  ]
+}

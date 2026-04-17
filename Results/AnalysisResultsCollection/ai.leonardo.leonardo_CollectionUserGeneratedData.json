@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We collect personal information in any messages you send to us, as well as our social media channels (such as user feedback, messages and search queries). We may also collect personal information in content you submit or upload to the Service (such as text prompts, images, photos, videos and other media and the metadata about your content) as well as the resulting material you generate through the Service, such as images or videos (together, “Content“). We use this information to operate, maintain,",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We collect personal information in any messages you send to us, as well as our social media channels (such as user feedback, messages and search queries). We may also collect personal information in content you submit or upload to the Service (such as text prompts, images, photos, videos and other media and the metadata about your content) as well as the resulting material you generate through the Service, such as images or videos (together, “Content“). We use this information to operate, maintain,",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We collect personal information in any messages you send to us, as well as our social media channels (such as user feedback, messages and search queries). We may also collect personal information in content you submit or upload to the Service (such as text prompts, images, photos, videos and other media and the metadata about your content) as well as the resulting material you generate through the Service, such as images or videos (together, “Content“). We use this information to operate, maintain,",
+      "lang": "en"
+    }
+  ]
+}

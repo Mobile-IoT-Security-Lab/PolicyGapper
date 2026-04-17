@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "• contact us through our various customer support channels (such as chat, messages, emails, call recordings, pictures you submit to support your claim);",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• interact with other users in our in-app communication features;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "• participate in contests or events organised by us (such as the pictures, audio, or videos you may submit, which may include images of yourself);",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "• participate in contests or events organised by us (such as the pictures, audio, or videos you may submit, which may include images of yourself);",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• furnish supporting documents, such as proof of disability, discount eligibility, so that we can support you better as a Grab driver partner, delivery partner or user on our platform;",
+      "lang": "en"
+    }
+  ]
+}

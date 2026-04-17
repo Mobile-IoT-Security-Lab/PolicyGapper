@@ -1,0 +1,113 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may share information collected through the use of our Services and information about how those ads performed (such as views, engagement, and clicks) with measurement and advertising partners to help measure the effectiveness of advertising campaigns. We may also share aggregate reports about the performance of ad campaigns with advertisers.",
+      "justification": "The policy states data is shared with 'advertising partners' for campaign measurement. This constitutes 'sharing' for 'Advertising or marketing' purposes under Google Play's policy and is not exempt as a service provider function.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'App interactions' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "How we share your information. In addition to the main text of this policy, in the event we use information such as User Content and video content on our Services as part of our advertising and marketing campaigns to promote the Services, your personal information contained in such information may be disclosed to the recipients of such advertising or marketing content.",
+      "justification": "The policy states that User Content may be disclosed to recipients of advertising or marketing campaigns. This is considered 'sharing' for 'Advertising or marketing' purposes and must be declared.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Other User generated content' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may share information collected through the use of our Services and information about how those ads performed (such as views, engagement, and clicks) with measurement and advertising partners to help measure the effectiveness of advertising campaigns. We may also share aggregate reports about the performance of ad campaigns with advertisers.",
+      "justification": "The policy states data on ad performance is shared with 'advertising partners'. This constitutes 'sharing' for 'Advertising or marketing' purposes under Google Play's policy and is not exempt.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Other actions' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Advertising and Measurement Partners To show you ads we may share information (information collected through your use of our Services (such as mobile identifiers and your device's IP address, and related information about your inferred location and use of the Services)) with advertising partners. These partners help us deliver relevant advertising across our Services.",
+      "justification": "The policy explicitly states that 'mobile identifiers' are shared with 'advertising partners' to deliver relevant advertising. This is a non-exempt form of sharing that must be declared.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Device or other IDs' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Advertising and Measurement Partners To show you ads we may share information (information collected through your use of our Services (such as mobile identifiers and your device's IP address, and related information about your inferred location and use of the Services)) with advertising partners. These partners help us deliver relevant advertising across our Services.",
+      "justification": "The policy states that 'inferred location' is shared with 'advertising partners' to deliver relevant advertising. This is a non-exempt form of sharing that must be declared.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Approximate location' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "How we share your information. In addition to the main text of this policy, in the event we use information such as User Content and video content on our Services as part of our advertising and marketing campaigns to promote the Services, your personal information contained in such information may be disclosed to the recipients of such advertising or marketing content.",
+      "justification": "The policy states that 'User Content' (which includes photos) may be disclosed to recipients of advertising or marketing campaigns. This is considered 'sharing' for 'Advertising or marketing' purposes and must be declared.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Photos' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "How we share your information. In addition to the main text of this policy, in the event we use information such as User Content and video content on our Services as part of our advertising and marketing campaigns to promote the Services, your personal information contained in such information may be disclosed to the recipients of such advertising or marketing content.",
+      "justification": "The policy explicitly states that 'video content' may be disclosed to recipients of advertising or marketing campaigns. This is considered 'sharing' for 'Advertising or marketing' purposes and must be declared.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Videos' is shared with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Data analytics, crash analytics, and search engine providers that assist us in the improvement and optimization of the Services (including providing you with tailored or personalized information or content).",
+      "reason_of_removal": "Service Provider exemption",
+      "justification": "The policy states this data is shared with providers that 'assist us' in improving the service. This falls under the service provider exemption, as they process data on the developer's behalf and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action needed. This transfer is exempt from being declared as 'sharing' as it is with a service provider acting on your behalf.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Data analytics, crash analytics, and search engine providers that assist us in the improvement and optimization of the Services (including providing you with tailored or personalized information or content).",
+      "reason_of_removal": "Service Provider exemption",
+      "justification": "The policy states this data is shared with providers that 'assist us' in improving the service. This falls under the service provider exemption, as they process data on the developer's behalf and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action needed. This transfer is exempt from being declared as 'sharing' as it is with a service provider acting on your behalf.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Advertising and Measurement Partners To show you ads we may share information (information collected through your use of our Services (such as mobile identifiers and your device's IP address, and related information about your inferred location and use of the Services)) with advertising partners. These partners help us deliver relevant advertising across our Services.",
+      "reason_of_removal": "Inconsistent: data_type does not match policy_reference",
+      "justification": "The policy reference mentions 'mobile identifiers', which corresponds to 'Device or other IDs', but does not mention app-specific 'User IDs'.",
+      "how_to_fix": "No action needed for this specific finding. Ensure your privacy policy accurately reflects all data practices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "How we share your information. In addition to the main text of this policy, in the event we use information such as User Content and video content on our Services as part of our advertising and marketing campaigns to promote the Services, your personal information contained in such information may be disclosed to the recipients of such advertising or marketing content.",
+      "reason_of_removal": "Inconsistent: data_type does not match policy_reference",
+      "justification": "The provided policy text mentions 'User Content' and 'video content' but does not mention sharing 'in-app messages'.",
+      "how_to_fix": "No action needed for this specific finding. Ensure your privacy policy accurately reflects all data practices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "How we share your information. In addition to the main text of this policy, in the event we use information such as User Content and video content on our Services as part of our advertising and marketing campaigns to promote the Services, your personal information contained in such information may be disclosed to the recipients of such advertising or marketing content.",
+      "reason_of_removal": "Inconsistent: data_type does not match policy_reference",
+      "justification": "The provided policy text mentions 'User Content' and 'video content' but does not mention sharing 'Voice or sound recordings'.",
+      "how_to_fix": "No action needed for this specific finding. Ensure your privacy policy accurately reflects all data practices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "How we share your information. In addition to the main text of this policy, in the event we use information such as User Content and video content on our Services as part of our advertising and marketing campaigns to promote the Services, your personal information contained in such information may be disclosed to the recipients of such advertising or marketing content.",
+      "reason_of_removal": "Inconsistent: data_type does not match policy_reference",
+      "justification": "The provided policy text mentions 'User Content' and 'video content' but does not mention sharing 'Music files'.",
+      "how_to_fix": "No action needed for this specific finding. Ensure your privacy policy accurately reflects all data practices.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "How we share your information. In addition to the main text of this policy, in the event we use information such as User Content and video content on our Services as part of our advertising and marketing campaigns to promote the Services, your personal information contained in such information may be disclosed to the recipients of such advertising or marketing content.",
+      "reason_of_removal": "Inconsistent: data_type does not match policy_reference",
+      "justification": "The provided policy text mentions 'User Content' and 'video content' but does not mention sharing 'Other audio files'.",
+      "how_to_fix": "No action needed for this specific finding. Ensure your privacy policy accurately reflects all data practices.",
+      "lang": "English"
+    }
+  ]
+}
+```

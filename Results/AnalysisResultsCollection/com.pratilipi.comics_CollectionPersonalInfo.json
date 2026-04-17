@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other info",
+      "policy_reference": "Registration/Lo g in Data Name, Email Address/ Facebook or Google or Apple log-in details along with profile details which are public or can be shared as per User's privacy settings on these platforms. Other details optionally given by the User such as gender, age, city etc This also applies to Users during submission of Published Work through contests declared by the Company.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Usage Data Inputs by Users on the Website/Application Data regarding pages or profiles visited, time spent on a page, navigation through the portal, location, language preference, search actions, participation in contests, interaction with other Users, including time and date of all such actions",
+      "lang": "English"
+    }
+  ]
+}

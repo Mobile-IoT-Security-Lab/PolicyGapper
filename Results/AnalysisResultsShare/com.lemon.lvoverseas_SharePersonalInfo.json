@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Advertising and Measurement Partners To show you ads we may share information (information collected through your use of our Services (such as mobile identifiers and your device's IP address, and related information about your inferred location and use of the Services)) with advertising partners. These partners help us deliver relevant advertising across our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Advertising and Measurement Partners To show you ads we may share information (information collected through your use of our Services (such as mobile identifiers and your device's IP address, and related information about your inferred location and use of the Services)) with advertising partners. These partners help us deliver relevant advertising across our Services.",
+      "lang": "English"
+    }
+  ]
+}

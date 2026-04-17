@@ -1,0 +1,158 @@
+Welcome to VivaCut application (the “Platform”). The Platform is provided and controlled by (Hangzhou Quwei Technology Co.,
+Ltd】 (“we”, “us”, “our”). This Privacy Policy (the "Policy") sets out the basis on which any information we collect from you, or that
+you provide to us, will be processed by us. Please read the following contents carefully to understand our practices regarding your
+information. By accessing or using the Platform, services, applications, products and content (collectively, the “Services"), you
+acknowledge the practices described in the Policy. For purposes of the Policy, "you" and "your” means you as the user of the
+Services. IF YOU DO NOT AGREE WITH ANY TERM IN THIS POLICY, PLEASE DO NOT USE OUR SERVICES.
+
+---
+
+I. What Information We Collect
+Information about your use of the Platforms. We may collect information about your operation on the Platforms, mainly
+including information that you click, browse, download, share, and your search record, or any other information provided during
+your use of our Services, so that we could provide you with the functions of the Platforms.
+Device and log information. When you use our Services through the Platforms, in order to make sure you use our Services
+normally and the functions operating smoothly and safely, improve and optimize your use experience, Carryout advertisement
+putting and message push, and protect your account security, we will collect your device and log information as follows:Include
+unique device identifier, gaid,device model, system language, country, advertising identifier, operating system, system version
+number, IP address, software version number, access network, network quality data, and service log information.
+Feedback information. When you contact us for feedback or customer service, we will collect the information and material that
+you submitted, your contact information (such as your phone number, email address), so that we could contact you and answer
+your questions or provide other customer services to you.
+Information for the use of functions. In order to realize image and video processing quickly and accurately, we may need to
+upload the material or material tags to be processed to the cloud server for effect processing. The uploaded materials or tags are
+only used for image/video effect processing through related functions. We will not store the materials, tags and any related
+information for more than necessary time, or use them for any other purpose besides this, or Provide to third parties.
+When you choose to use certain functions that require facial information (such as certain template functions), we may need to
+collect your facial recognition for comprehensive statistics and feature analysis through algorithms to provide you with a more
+optimized experience and effects. feature. After completing the processing of the corresponding material and returning the
+processing effect to you, we will delete this part of the information immediately.
+When you apply to become a creator, you can fill in your nickname, gender, country and other information in the "Basic
+Information", and you can fill in your social platform, personal homepage link and other information to prove your creative ability. In
+order to ensure the security of your account and related transactions, we will require your real name, identity ID, identity certificate
+and other information for real-name authentication. Without real-name authentication, you may not be able to obtain relevant
+services that require real-name authentication, but your use of other functions will not be affected.
+VivaCut may allow you to upload, edit, create Al-generated, store, and share content, including your photos and text description
+("User Content"). Immediately after the successful generation of Al pohotos, your original photos, as well as any associated Image
+Data, are deleted permanently from our servers. We do not Use your Personal Data to train and/or create separate artificial
+intelligence/products.
+
+---
+
+II. Which permissions we might ask you to authorize
+In order to provide you with more high-quality, efficient products and services and improve your service experience, we
+may ask you to authorize the corresponding terminal device permissions in the following additional services we provide
+to you. We collect the following permissions and corresponding information following the criterion of minimal data
+collection with your consent:
+
+---
+
+•Read and write external memory card: for reading and writing files on external memory card for video editing;
+•Microphone permissions: for recording audio (we will apply for this permission since version 2.12.0);
+•Photo album: Video or pictures are imported, and one of them can be uploaded as your avatar;
+•Web access: a variety of network services for accessing and downloading materials;
+•Personalized Recommendation: provide you with better-personalized services based on the following related necessary log
+information (such as click, use, save, and other operation information).
+•Facial information: to achieve the display effects of these features, we may obtain the materials you upload and some facial
+feature information, but in this process, we will not store or share your facial landmarks or other facial feature information. If this
+feature needs to be completed on cloud servers, the materials you upload may be temporarily uploaded to the server to generate
+material effects more quickly and with higher quality, and to conduct comprehensive statistics and algorithmic analysis, in order to
+provide you with a better experience and effect. Before you consent to the collection of this information, we will not actively collect,
+use, or store the facial-related information involved in this feature, but refusing to provide the aforementioned information will make
+you unable to use the above-mentioned features.
+
+---
+
+You can check the status of the above permissions in the system settings of your terminal device, and you can turn on or off any
+or all above permissions at your own discretion at any time. Please note that when you open any permission, it means that you
+authorize us to collect and use the personal information corresponding to the permission to provide you with the above
+corresponding services. Once you turn off any permission, it means that you cancel or revoke the authorization of the permission,
+and we will no longer continue to collect and use the corresponding personal information based on this permission, nor will we be
+able to provide you with the services corresponding to this permission. However, your decision to turn off the permissions will not
+affect the previous collection and use of information based on your previous authorization.
+
+---
+
+III.How We Collect Your Information
+We collect information in different ways.
+We collect information directly from you. We collect information directly from you when you use the customer services
+on the Platforms.
+We collect information from you passively. We use tracking tools like Google Analytics, browser cookies and web
+beacons (see below for details) for collecting information about your usage of our Platforms.
+
+---
+
+V.Use of Cookies and Similar Technologies
+When you use our Services, certain information may be stored locally on your mobile device using "cookies" or similar
+technologies such as Google Analytics and web beacons.
+1.Cookies.
+A cookie is a small text file or data file used to store limited information about the user of the device and is stored on
+your device. "Cookies" are identifiers we transfer to your mobile device that allow us to recognize your device and tell us
+how and when the Services or website are used or visited, by how many people and to track movements within our app.
+Cookies also link to information regarding what items you have clicked or pages you have viewed. Cookies are also used
+to deliver content specific to your interest and to monitor website usage.It helps us to identify how our users use our
+Services and so that we can continuously evolve and improve it. We use information collected from cookies to improve
+users' experience and the overall quality of our Services. If you are uncomfortable with cookies, you can decline cookies
+at any time by modifying your browser settings. Most browsers are set to accept cookies automatically. You can set your
+browser to decline all cookies automatically or to prompt you for a response each time a cookie is offered.
+2.Google Analytics.
+Google Analytics. Google Analytics is a service provided by Google, Inc. ("Google"). We use Google Analytics to collect
+anonymized statistics in order to improve the Site. You may refer to http://www.google.com/policies/privacy/partners to
+find out more about how Google uses data when you use our website and how to control the information sent to Google.
+
+---
+
+VI.Storage and Retention of Your Information
+1. Storage of Your Information
+The information that we collect from you may be transferred to, and stored at, a destination inside or outside of your
+country, for the purposes as described in the Policy. By submitting your information, you agree to this transfer, storing
+or processing. We will take reasonable steps to secure your information and treat it in accordance with the Policy and
+applicable laws.
+2. Retention of Your Information
+We retain personal information for as long as necessary to provide ourServices or fulfill the original or directly related
+purpose for which such information was collected, or for other business purposes such as complying with our legal
+obligations, resolving disputes, and enforcing our agreements. We are required by law to keep some types of information
+for certain periods of time (e.g. statute of limitations). If your personal information is no longer necessary for the legal or
+business purposes for which it is processed, we will generally destroy or anonymize that information.
+
+---
+
+• Analyze the partners in the service category and the advertising category. To maintain / improve our products / services
+and provide you with better content, partner SDK s or other applications are embedded in the software and the relevant
+SDK acquire your unique device ID (AndroidID) to analyze your use of our services, demonstrating advertising,
+measuring the effectiveness of advertising and services.
+•Third-party channel login and sharing partners. To enable you to log in with a third-party account and share information
+(such as video) on third-party platforms, the partner SDK s or other similar applications are embedded in the software,
+and the relevant SDK gets your unique device identity (AndroidID).
+•Information push partners. In order to provide you with the information push function, the partner's SDK or other similar
+applications will be embedded in the software, and the relevant SDK retrieves your unique device ID (AndroidID) and a
+list of running applications.
+
+---
+
+VIII. How We Protect Your Information
+We are committed to ensuring that your personal information is secure. In order to prevent unauthorized access,
+disclosure or other similar risks, we have put in place reasonable physical, electronic and managerial procedures to
+safeguard and secure the information we collect from your using of our Services on the Platforms. We will use all
+reasonable efforts to safeguard your personal information.
+
+---
+
+Should a parent or
+guardian have reasons to believe that a minor has provided us with personal information without their prior consent,
+please contact us to ensure that the personal information is removed and the minor unsubscribes from any of our
+applicable Services.
+
+---
+
+We collect, use, store and share your personal information in the same way as described in the main body of this Privacy
+Policy.
+Your Special Rights Under the CCPA
+Request we disclose to you free of charge the following information covering the 12 months preceding your request:
+•the categories of personal information about you that we collected;
+•the categories of sources from which the personal information was collected;
+•the purpose for collecting personal information about you;
+•the categories of third parties to whom we disclosed personal information about you and the categories of personal
+information that was disclosed (if applicable) and the purpose for disclosing the personal information about you;
+•the specific pieces of personal information we collected about you.
+Request we delete personal information we collected from you, unless CCPA recognizes an exemption.

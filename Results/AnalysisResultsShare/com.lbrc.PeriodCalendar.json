@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "As mentioned, we may provide the Advertising ID associated with your the Apple or Android mobile device to the third-party ad servers or ad networks listed below (“Advertisers”). While we do not share any other data with your Advertising ID, it is possible for Advertisers to independently collect information about your online activities over time and across different websites, apps, and other online services websites by tracking your Advertising ID elsewhere. Advertisers may use this information (including the information we provide to them) to provide interest-based (behavioral) advertising or other targeted content to your mobile device.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "As mentioned, we may provide the Advertising ID associated with your the Apple or Android mobile device to the third-party ad servers or ad networks listed below (“Advertisers”). While we do not share any other data with your Advertising ID, it is possible for Advertisers to independently collect information about your online activities over time and across different websites, apps, and other online services websites by tracking your Advertising ID elsewhere. Advertisers may use this information (including the information we provide to them) to provide interest-based (behavioral) advertising or other targeted content to your mobile device.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If we are involved in a merger, acquisition, reorganization, restructuring, or other sale or transfer of all or any portion of our assets or business, that could involve your Personal Information and User Data being transferred to the buyer or surviving entity. We value your privacy, and we will, if allowed, use reasonable efforts to notify you when your Personal Information is transferred, by posting such notice on our website or the App, and/or by contacting you if you have provided us with an email address. In the event of a transfer of Personal Information, we will instruct the buyer, surviving entity, or other third party recipient that absent your permission to do otherwise it may only use your Personal Information covered by this Privacy Policy in accordance with this Privacy Policy, even after the transfer. However, following such transfer we cannot guarantee or enforce that any such third-party will abide by our instruction. Any new information you provide after any such transfer will likely be subject to a new policy, and you should review that policy.",
+      "lang": "English"
+    }
+  ]
+}

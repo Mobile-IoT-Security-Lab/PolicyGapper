@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Online activity data, such as pages or screens you viewed, how long you spent on a page or screen, navigation paths between pages or screens, information about your activity on a page or screen, access times, and duration of access.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Device data, such as your computer or mobile device operating system type and version number, manufacturer and model, browser type, screen resolution, IP address, the website you visited before browsing to our website, and general location information such as city, state or geographic area.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "2. Payment information. Paid Users must provide payment information (name, postal address, payment card information or payment account information). This information is used for billing purposes only and is processed by our payment processors. When you are making a payment, we do not have access to your payment card information. Should we have any issues with processing an order, the email address you have provided will be used to contact you. For more information on what type of information is collected by our payment processors, please view their privacy policies: • Braintree Privacy Statement • Coinbase Commerce Privacy Policy • Razorpay Privacy Policy • Apple Privacy Policy • Google Privacy Policy • Triple-A Terms and Conditions • dLocal Privacy Policy",
+      "justification": "The policy states that user names are collected for payment processing. This data is sent off-device to third-party processors and is not covered by any exemption.",
+      "how_to_fix": "Declare 'Name' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "2. Payment information. Paid Users must provide payment information (name, postal address, payment card information or payment account information). This information is used for billing purposes only and is processed by our payment processors. When you are making a payment, we do not have access to your payment card information. Should we have any issues with processing an order, the email address you have provided will be used to contact you. For more information on what type of information is collected by our payment processors, please view their privacy policies: • Braintree Privacy Statement • Coinbase Commerce Privacy Policy • Razorpay Privacy Policy • Apple Privacy Policy • Google Privacy Policy • Triple-A Terms and Conditions • dLocal Privacy Policy",
+      "justification": "The policy states that postal addresses are collected for payment processing. This data is sent off-device to third-party processors and is not covered by any exemption.",
+      "how_to_fix": "Declare 'Address' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "For legitimate business processes and for compliance with legal obligations, including tax laws, audits, and security, we must retain certain data for an extended period. This data includes, but is not limited to, transaction logs, financial records, addresses, and employment details. The duration of retention for each type of data will comply with specific legal requirements, extending up to 10 years.",
+      "justification": "The policy states that data such as transaction logs and financial records are retained off-device for business and legal purposes. This constitutes data collection and is not covered by any exemption.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in the Google Play Console Data Safety section and provide examples of the data collected.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "2. Payment information. Paid Users must provide payment information (name, postal address, payment card information or payment account information). This information is used for billing purposes only and is processed by our payment processors. When you are making a payment, we do not have access to your payment card information. Should we have any issues with processing an order, the email address you have provided will be used to contact you. For more information on what type of information is collected by our payment processors, please view their privacy policies: • Braintree Privacy Statement • Coinbase Commerce Privacy Policy • Razorpay Privacy Policy • Apple Privacy Policy • Google Privacy Policy • Triple-A Terms and Conditions • dLocal Privacy Policy",
+      "justification": "The policy confirms that payment information is collected from users via the app and processed by third parties. Per Google Play policy, data collected by third parties on the developer's behalf must be declared. No exemption applies.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "7. Customer service. When you open a support ticket, we use your contact details as well as information about your device, server logs, a description of the problem, along with any other supporting materials (videos, screenshots, etc.) to help resolve the issue(s).",
+      "justification": "The policy states that users may provide videos as supporting materials for customer service tickets. This data is sent off-device to the developer and is not covered by any exemption.",
+      "how_to_fix": "Declare 'Videos' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "2. Contact data. We also process any personal data you choose to give when corresponding with us by phone, email, or otherwise visiting and interacting with this Website or any other services we operate.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy reference explicitly states this data is collected from correspondence via email or when 'visiting and interacting with this Website,' not from within the mobile application itself. This is out of scope for the app's Data Safety form.",
+      "how_to_fix": "No action is required for the app's Data Safety form as this data collection is not attributed to the app.",
+      "lang": "en"
+    }
+  ]
+}
+```

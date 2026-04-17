@@ -1,0 +1,76 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos and videos",
+      "policy_reference": "You can upload photos and videos to your profile. This data is stored on our secure servers to be displayed to other users.",
+      "justification": "User-provided content for app functionality.",
+      "how_to_fix": "Declare 'Photos' and 'Videos' as collected.",
+      "lang": "en"
+    },
+    {
+      "data_type": "User ID",
+      "policy_reference": "When you create an account, we generate a unique User ID to identify your profile and data within our system.",
+      "justification": "Essential for account management.",
+      "how_to_fix": "Declare 'User ID' as collected.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We use a third-party service to collect crash logs to improve app stability. This data is transmitted securely.",
+      "justification": "Crash logs are necessary for diagnostics.",
+      "how_to_fix": "Declare 'Crash logs' as collected.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Our advertising partners may collect your device's advertising ID to serve personalized ads.",
+      "justification": "Data collected by third-party SDK for advertising.",
+      "how_to_fix": "Declare 'Device or other IDs' as collected and shared.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Contacts",
+      "policy_reference": "To help you find friends, we can access your contacts. This information is processed on your device only and is not sent to our servers.",
+      "reason_of_removal": "Exempt: On-device processing only.",
+      "justification": "Feature to find friends is processed locally.",
+      "how_to_fix": "This may not need to be declared if it's truly on-device only.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We collect your email address when you sign up for our newsletter on our website.",
+      "reason_of_removal": "Exempt: Data collected on website, not the app.",
+      "justification": "Newsletter signup is separate from the app.",
+      "how_to_fix": "If this is only on the website, it may not need to be declared for the app.",
+      "lang": "en"
+    },
+    {
+      "data_type": "User ID",
+      "policy_reference": "When you create an account, we generate a unique User ID to identify your profile and data within our system.",
+      "reason_of_removal": "Duplicate entry.",
+      "justification": "Essential for account management.",
+      "how_to_fix": "Declare 'User ID' as collected.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Messages",
+      "policy_reference": "All your messages are end-to-end encrypted. We, as the service provider, do not have the keys to decrypt your messages.",
+      "reason_of_removal": "Exempt: End-to-end encrypted.",
+      "justification": "Messages are E2EE and unreadable by the developer.",
+      "how_to_fix": "E2EE data is exempt from declaration.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Your settings and preferences are saved in local storage on your device.",
+      "reason_of_removal": "Inconsistent: policy reference does not support data type claim.",
+      "justification": "Local storage is on-device.",
+      "how_to_fix": "This policy reference does not mention location data.",
+      "lang": "en"
+    }
+  ]
+}
+```

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Personal data refers to information that can identify you, such as your name, e-mail address, or any data you provide while using AiScore user account. Our login providers (Facebook or Google) provide us with some of your personal data name, surname, e-mail upon your login to our services. However, your personal information of that kind will never be sold or rented to anyone, for any reason, at any time. We will not store this information in any available database. This information will only be used to easier fulfill your requests for service, such as providing access to your in-app stats and features, and to enforce our Terms of Use.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Personal data refers to information that can identify you, such as your name, e-mail address, or any data you provide while using AiScore user account. Our login providers (Facebook or Google) provide us with some of your personal data name, surname, e-mail upon your login to our services. However, your personal information of that kind will never be sold or rented to anyone, for any reason, at any time. We will not store this information in any available database. This information will only be used to easier fulfill your requests for service, such as providing access to your in-app stats and features, and to enforce our Terms of Use.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "For operation and maintenance purposes, we may sometimes collect files that record your interaction with our products (so called System Logs) or use for this purpose other personal data (such as IP Address). That data won't be stored permanently and won't be available to sell or rent to anyone.",
+      "lang": "English"
+    }
+  ]
+}

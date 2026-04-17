@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We retain this information as necessary to resolve disputes in terms of transactions and otherwise, where needed, provide customer support and troubleshoot problems as permitted by law. We collect personally identifiable information (Name, phone number, account number etc.) from you when you register with us to create your unique identification in terms of a Mobile banking transactions pin and/or Application Password and/or any other unique registration identification that is/shall be made available to our customers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We retain this information as necessary to resolve disputes in terms of transactions and otherwise, where needed, provide customer support and troubleshoot problems as permitted by law. We collect personally identifiable information (Name, phone number, account number etc.) from you when you register with us to create your unique identification in terms of a Mobile banking transactions pin and/or Application Password and/or any other unique registration identification that is/shall be made available to our customers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We retain this information as necessary to resolve disputes in terms of transactions and otherwise, where needed, provide customer support and troubleshoot problems as permitted by law. We collect personally identifiable information (Name, phone number, account number etc.) from you when you register with us to create your unique identification in terms of a Mobile banking transactions pin and/or Application Password and/or any other unique registration identification that is/shall be made available to our customers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We retain this information as necessary to resolve disputes in terms of transactions and otherwise, where needed, provide customer support and troubleshoot problems as permitted by law. We collect personally identifiable information (Name, phone number, account number etc.) from you when you register with us to create your unique identification in terms of a Mobile banking transactions pin and/or Application Password and/or any other unique registration identification that is/shall be made available to our customers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "When you use our IOB Mobile application, we will collect information about the device in which the App is installed on (e.g. Device identification numbers (ie IMEI), Android versions, device model) and your account with us and associated transaction and store your personal information provided by you from time to time. We do so to ensure that you are provided a safe, efficient, smooth and seamless experience. This also allows us to understand your needs and provide for services and features that best suit them. We strive to provide for customizations on our application to ensure that your experience is always safer and easier.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• ACCESS_COARSE_LOCATION – The Coarse location provides less accurate locations when in a battery save mode.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• ACCESS_FINE_LOCATION – To get a precise location using both GPS_PROVIDER and NETWORK_PROVIDER.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "It should be noted that whether or not to send us your feedback or bug report is a completely voluntary initiative upon your own decision. If you have a concern about your personal data being misused, or if you want further information about our privacy policy and what it means, please feel free to email us at support@leap.app, we will endeavor to provide clear answers to your questions in a timely manner.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In order to provide a better user experience, we have integrated data statistics tools in the App, they won't collect users' health data or privacy data and are only used for CRASH targeting and AB-testing for new features and design, The details are as follows:\nDevice information\n•\nScreen Size\n• OEM Name\n•\nModel\nDevice system information\n•\nOS Name\n•\nOS Version\n•\nOS Build\n• Time Zone\n• System Language\n•\nCarrier Country\n• Carrier Name\nLocation information\n•\nLocale\n• Country Area\nApplication information\n• App Name\n• App Build\n• APP Version Number\n• SDK Name\n•\nSDK Version",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You.\nGeneral Information. When you sign up to use the App, we may collect Personal data about you such as:\n• Email address\n•\nFirst name and last name\n• Phone number\n•\nGender\n•\nPassword or passcode\n• Usage Data",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You.\nGeneral Information. When you sign up to use the App, we may collect Personal data about you such as:\n• Email address\n•\nFirst name and last name\n• Phone number\n•\nGender\n•\nPassword or passcode\n• Usage Data",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "When You use Our Service to pay a product and/or service via bank transfer, We may ask You to provide information to facilitate this transaction and to verify Your identity.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Health data. When you use the App, you may choose to provide personal information about your health such as:\n• Weight\n• Height\n• Body temperature;\n•\nMenstrual cycle;\n• Symptoms;\n•\nOther information about your health (including sexual activities), and related activities.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "• For examples, As your consent at the registration screen, we may import into the App Personal data about your health and activities from third-party services such as Apple HealthKit and Google Fit. The imported Personal data may include: weight, body temperature, calories burnt, heartbeat rate, number of steps/distance traveled, and other data about your health. We will handle any such third-party information in accordance with this Privacy Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "In order to provide a better user experience, we have integrated data statistics tools in the App, they won't collect users' health data or privacy data and are only used for CRASH targeting and AB-testing for new features and design, The details are as follows:\nDevice information\n•\nScreen Size\n• OEM Name\n•\nModel\nDevice system information\n•\nOS Name\n•\nOS Version\n•\nOS Build\n• Time Zone\n• System Language\n•\nCarrier Country\n• Carrier Name\nLocation information\n•\nLocale\n• Country Area\nApplication information\n• App Name\n• App Build\n• APP Version Number\n• SDK Name\n•\nSDK Version",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.",
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "4.2. We will share information with our Hotel Partners for confirming bookings/reservations on the Platform. The Personal Data collected by the Hotel Partners shall be governed by their respective privacy policies and We are not liable with regards to such Personal Data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may share information with any successor to all or part of our business. If we are involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.",
+      "lang": "English"
+    }
+  ]
+}

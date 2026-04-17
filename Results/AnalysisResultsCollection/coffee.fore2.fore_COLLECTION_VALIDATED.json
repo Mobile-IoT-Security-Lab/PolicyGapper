@@ -1,0 +1,114 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Cookies. We use cookies and other similar technologies (\"Cookies\") to automatically collect information, measure and analyze how you use the Services, including which pages you view most often, enhance your experience using the Services, and improve the Services. We also use Cookies to promote the Services on other platforms and websites. Cookies enable the Services to provide certain features and functionality. If you choose to disable Cookies, you may not be able to use some portions of the Services.",
+      "justification": "The privacy policy states that the app collects App interactions as evidenced by the following text: '...measure and analyze how you use the Services, including which pages you view most often...'.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "Technical Information. We collect certain information about the device you use to access the Services, such as your IP address, mobile carrier, time zone settings, identifiers for advertising purposes, model of your device, the device system, network type, device IDs, your screen resolution and operating system, app and file names and types, keystroke patterns or rhythms, battery state, audio settings and connected audio devices. Where you log-in from multiple devices, we will be able to use your profile information to identify your activity across devices. We may also associate you with information collected from devices other than those you use to log-in to the Platform.",
+      "justification": "The privacy policy states that the app collects the names of installed apps as evidenced by the following text: '...app and file names and types...'.",
+      "how_to_fix": "Declare 'Installed apps' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Your profile information. You give us information when you register your account on the Platform, including your username, password, gender, date of birth, email address, mobile number, and/or photograph, and any other information you disclose in your account profile.",
+      "justification": "The privacy policy states that the app collects Other User generated content as evidenced by the following text: '...any other information you disclose in your account profile.'.",
+      "how_to_fix": "Declare 'Other User generated content' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Technical Information. We collect certain information about the device you use to access the Services, such as your IP address, mobile carrier, time zone settings, identifiers for advertising purposes, model of your device, the device system, network type, device IDs, your screen resolution and operating system, app and file names and types, keystroke patterns or rhythms, battery state, audio settings and connected audio devices. Where you log-in from multiple devices, we will be able to use your profile information to identify your activity across devices. We may also associate you with information collected from devices other than those you use to log-in to the Platform.",
+      "justification": "The privacy policy states that the app collects Other actions as evidenced by the following text: '...keystroke patterns or rhythms, battery state, audio settings and connected audio devices.'.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Technical Information. We collect certain information about the device you use to access the Services, such as your IP address, mobile carrier, time zone settings, identifiers for advertising purposes, model of your device, the device system, network type, device IDs, your screen resolution and operating system, app and file names and types, keystroke patterns or rhythms, battery state, audio settings and connected audio devices. Where you log-in from multiple devices, we will be able to use your profile information to identify your activity across devices. We may also associate you with information collected from devices other than those you use to log-in to the Platform.",
+      "justification": "The privacy policy states that the app collects Diagnostics information as evidenced by the following text: '...model of your device, the device system, network type, device IDs, your screen resolution and operating system...'. This information is typically used for diagnostics and crash reporting.",
+      "how_to_fix": "Declare 'Diagnostics' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Your profile information. You give us information when you register your account on the Platform, including your username, password, gender, date of birth, email address, mobile number, and/or photograph, and any other information you disclose in your account profile.",
+      "justification": "The privacy policy states that the app collects Name as evidenced by the following text: '...including your username...'.",
+      "how_to_fix": "Declare 'Name' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Your profile information. You give us information when you register your account on the Platform, including your username, password, gender, date of birth, email address, mobile number, and/or photograph, and any other information you disclose in your account profile.",
+      "justification": "The privacy policy states that the app collects Email address as evidenced by the following text: '...including your...email address...'.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Your purchase information. When you make a purchase or payment on the Platform, we collect information about the purchase or payment transaction, such as items you purchased, your payment card information or your payment information through other electronic payment methods available on the Platform (\"Payment Provider\"), your order, billing, delivery, and contact information.",
+      "justification": "The privacy policy states that the app collects Address as evidenced by the following text: '...billing, delivery, and contact information.'.",
+      "how_to_fix": "Declare 'Address' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Your profile information. You give us information when you register your account on the Platform, including your username, password, gender, date of birth, email address, mobile number, and/or photograph, and any other information you disclose in your account profile.",
+      "justification": "The privacy policy states that the app collects Phone number as evidenced by the following text: '...including your...mobile number...'.",
+      "how_to_fix": "Declare 'Phone number' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Your purchase information. When you make a purchase or payment on the Platform, we collect information about the purchase or payment transaction, such as items you purchased, your payment card information or your payment information through other electronic payment methods available on the Platform (\"Payment Provider\"), your order, billing, delivery, and contact information.",
+      "justification": "The privacy policy states that the app collects Purchase history as evidenced by the following text: '...we collect information about the purchase or payment transaction, such as items you purchased...'.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Location Information. We collect information about your approximate location, including location information based on your SIM card and/or IP address. With your permission, we may also collect precise location data (such as GPS).",
+      "justification": "The privacy policy states that the app collects Approximate location as evidenced by the following text: 'We collect information about your approximate location, including location information based on your SIM card and/or IP address.'.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location Information. We collect information about your approximate location, including location information based on your SIM card and/or IP address. With your permission, we may also collect precise location data (such as GPS).",
+      "justification": "The privacy policy states that the app collects Precise location as evidenced by the following text: 'With your permission, we may also collect precise location data (such as GPS).'.",
+      "how_to_fix": "Declare 'Precise location' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Your profile information. You give us information when you register your account on the Platform, including your username, password, gender, date of birth, email address, mobile number, and/or photograph, and any other information you disclose in your account profile.",
+      "justification": "The privacy policy states that the app collects Photos as evidenced by the following text: '...including your...photograph...'.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Your phone contacts. If you choose to sync your phone contacts, we will access and collect information such as names, phone numbers, and email addresses, and match that information against existing users of the Platform.",
+      "justification": "The privacy policy states that the app collects Contacts as evidenced by the following text: 'If you choose to sync your phone contacts, we will access and collect information such as names, phone numbers, and email addresses...'.",
+      "how_to_fix": "Declare 'Contacts' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Your profile information. You give us information when you register your account on the Platform, including your username, password, gender, date of birth, email address, mobile number, and/or photograph, and any other information you disclose in your account profile.",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy mentions collecting the user's 'email address' for their profile, which corresponds to the 'Email address' data type. It does not mention collecting the content of the user's emails, which is what the 'Emails' data type represents.",
+      "how_to_fix": "The 'Email address' data type is already correctly identified. No action is needed for the 'Emails' data type as it is not supported by the policy.",
+      "lang": "en"
+    }
+  ]
+}
+```

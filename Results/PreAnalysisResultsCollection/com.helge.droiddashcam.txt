@@ -1,0 +1,69 @@
+Information Collection:
+We (DroidCoolApps) personally DO NOT collect any personal information to our own servers (which we also don't
+even have) from our users except the information which is collected by third-party libraries of Google
+(Admob/Firebase) we use in our apps - please check the following info about it:
+Our apps use some Google third-party libraries (AdMob to show ads, In App Billing for purchases, Firebase
+services) which can collect some information from you. You can check their Private Policy at:
+•
+•
+•
+Google Admob https://support.google.com/admob/answer/6128543,
+https://policies.google.com/technologies/ads,
+https://developers.google.com/admob/android/privacy/play-data-
+disclosure#data_collected_and_shared_automatically
+Google Firebase Service (Analytics, Cloud Messaging, In App Messaging, Remote Config, Crashlytics)
+https://firebase.google.com/docs/android/play-data-disclosure,
+https://firebase.google.com/support/privacy/dpo,
+https://marketingplatform.google.com/about/analytics/terms/us/
+Google Play's billing - https://support.google.com/googleplay/android-
+developer/answer/10281818
+You can also check Data Safety section for each app at Google Play to find out what exactly third-party libraries
+collect.
+---
+Apps permissions:
+:
+### 'Droid Dashcam - Driving video recorder, BlackBox' Permissions
+CAMERA, AUDIO (for video recording)
+STORAGE for Android 12 and lower (for saving video recordings to shared ‘DCIM/MOVIES' folder, and
+for video recordings deletion option) in case your device doesn't support the Storage Access
+Framework. For all other devices you can choose any folder without this permission by using the
+Storage Access Framework instead
+LOCATION (to get current location address, gps coords, speed - show it on screen for a user and
+record on video)
+INTERNET (ads)
+--- [PAGE BREAK] ---
+•
+Background Foreground Service - The app will continue to run in the background (the foreground
+service that appears in the notification bar) if you start a new recording and return to the home screen,
+switch to another app or lock your phone to be able to continue recording, or if you turn on functions
+for automatic recording (if you close the background service, these functions will not work).
+:
+:
+### 'Dual Camera Video Recorder' Permissions
+CAMERA, AUDIO (for video recording)
+STORAGE for Android 12 and lower (for saving voice recordings to shared 'MUSIC' folder, and for
+voice recordings deletion option) in case your device doesn't support the Storage Access Framework.
+For all other devices you can choose any folder without this permission by using the Storage Access
+Framework instead
+INTERNET (ads)
+Background Foreground Service - The app will continue to run in the background (the foreground
+service that appears in the notification bar) if you start a new recording and return to the home screen,
+switch to another app or lock your phone to be able to continue recording, or if you turn on functions
+for automatic recording (if you close the background service, these functions will not work).
+### 'LPlayer' Permissions
+•
+•
+STORAGE (find video files, save downloaded subtitles, option for user to delete selected video file)
+INTERNET (search and download subtitles, ads)
+K-POP
+### 'K-POP YouTube - Popular & Recent' Permissions
+•
+INTERNET (playing videos, ads)
+### 'Media Files Explorer' Permissions
+•
+•
+STORAGE (find and display media files, option for user to delete selected media files)
+INTERNET (ads)
+### 'Movies Easy Finder (IMDb)' Permissions
+•
+INTERNET (ads)

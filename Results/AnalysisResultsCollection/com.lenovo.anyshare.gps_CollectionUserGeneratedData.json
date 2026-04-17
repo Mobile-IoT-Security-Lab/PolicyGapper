@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "(d) Transactional information, which includes your requests, queries, or complaints when you use our subscription service or participate in reward activities;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "(e) Content uploaded by you, which may include videos, pictures;",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "(e) Content uploaded by you, which may include videos, pictures;",
+      "lang": "en"
+    }
+  ]
+}

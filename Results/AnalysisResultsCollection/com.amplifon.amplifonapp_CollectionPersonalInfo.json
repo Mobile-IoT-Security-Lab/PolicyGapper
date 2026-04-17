@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "1) I dati personali che chiediamo di fornire tramite la compilazione del form sul nostro sito web (nelle sezioni \"scrivi ad Amplifon\"; test dell'udito online o prenota un appuntamento presso un centro Amplifon) vengono raccolti rispettivamente: a) per esaminare il quesito o il reclamo che ci ha inviato via email e fornirle riscontro; b) per effettuare il test dell'udito e inviarle il risultato via e-mail; c) per ricontattarla in seguito alla sua prenotazione, fissando l'appuntamento presso un centro Amplifon.. Il conferimento dei dati richiesti ad Amplifon Italia è facoltativo. Tuttavia, il mancato conferimento ad Amplifon Italia potrebbe non consentire l'effettuazione del test dell'udito, l'inoltro del quesito di suo interesse ovvero la risposta allo stesso o il contatto telefonico per fissare un appuntamento per l'esame professionale dell'udito presso un nostro centro. In tutti questi casi, la base giuridica del trattamento è costituita dall'esecuzione di misure precontrattuali adottate su sua richiesta.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "2) Previo suo esplicito consenso libero e informato, inoltre, Amplifon Italia potrà chiederle ulteriori dati e utilizzarli per informarla su proprie iniziative e attività promozionali, fra cui potranno rientrare la comunicazione commerciale o l'invio di materiale informativo/pubblicitario su prodotti e servizi, nonché l'invito a controlli di prevenzione dell'udito, con modalità di contatto tradizionali – via posta o telefono ovvero automatizzate - tipo sms, email o telefonate senza operatore (marketing). Anche in tal caso il conferimento dei dati e il consenso al loro utilizzo per finalità di marketing sono facoltativi: in caso di mancato conferimento e/o del consenso, Amplifon non potrà contattarla per comunicazioni pubblicitarie.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "2) Previo suo esplicito consenso libero e informato, inoltre, Amplifon Italia potrà chiederle ulteriori dati e utilizzarli per informarla su proprie iniziative e attività promozionali, fra cui potranno rientrare la comunicazione commerciale o l'invio di materiale informativo/pubblicitario su prodotti e servizi, nonché l'invito a controlli di prevenzione dell'udito, con modalità di contatto tradizionali – via posta o telefono ovvero automatizzate - tipo sms, email o telefonate senza operatore (marketing). Anche in tal caso il conferimento dei dati e il consenso al loro utilizzo per finalità di marketing sono facoltativi: in caso di mancato conferimento e/o del consenso, Amplifon non potrà contattarla per comunicazioni pubblicitarie.",
+      "lang": "Italian"
+    }
+  ]
+}

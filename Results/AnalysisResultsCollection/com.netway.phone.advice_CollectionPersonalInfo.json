@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We also track and collect information about user interaction, like when an app is installed, a Recharge is done to Wallet, a Consultation is made with Astrologer, a rating is provided to Astrologer. This information includes:",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When a user avail Astroyogi services, we may collect and process information about their actual location. We use various technologies to determine location, including IP address, GPS, and other sensors that may.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "When a user avail Astroyogi services, we may collect and process information about their actual location. We use various technologies to determine location, including IP address, GPS, and other sensors that may.",
+      "lang": "English"
+    }
+  ]
+}

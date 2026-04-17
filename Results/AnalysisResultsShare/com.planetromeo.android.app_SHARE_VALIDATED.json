@@ -1,0 +1,47 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "3. a. The User retains all Intellectual Property Rights with regard to the User Content he uploads. ROMEO does not claim any Intellectual Property Rights that belong to the User. The User grants ROMEO a royalty-free, unencumbered, world-wide, sub-licensable, non-exclusive right to use User Content he uploaded solely in connection with the Service provided by ROMEO by means of the Website and/or App.\nb. The User himself can control which of his User Content including pictures become publicly visible.\nc. As part of the Service, ROMEO may present content that a User has chosen to make publicly visible to other Users of the Website and/or App, like highlighting User profiles or showing interesting profiles in the GuyCandy Section of the Website and/or the App.\nd. ROMEO may present content, that a User has chosen to make publicly visible, by email to other Users of the Website and/or App.\ne. ROMEO will provide User Content, that a User has chosen to make publicly visible, to HUNQZ to be presented on the HUNQZ-website.\nf. This license granted in 5.3a ends when the User deletes his User Content or his Account. When the User deletes User Content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, the User understands and agrees that removed content may persist in caches and/or backup copies for a reasonable period of time (but will not be available to others). The above does not apply to User Content that the User has shared with other (ROMEO) Users or third parties (including but not limited to users of the HUNQZ-Website). Such User Content has to be deleted by the recipients of such User Content. The User understands and accepts that these recipients may not have deleted such User Content and that the deletion of such User Content is beyond ROMEO's control.\ng. ROMEO does not sell, trade or rent Personal Data of the User to third parties without the User's prior consent. More information about the manner in which ROMEO safeguards and processes Personal Data of its Users can be found in ROMEO's Privacy Statement.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states that 'User Content' is provided to the third-party 'HUNQZ' only when 'a User has chosen to make [it] publicly visible'. This constitutes a user-initiated transfer with clear disclosure, which is exempt from being declared as 'sharing' under Google Play's User Data policy.",
+      "how_to_fix": "This declaration is exempt and does not need to be added to the Data Safety form as 'sharing'. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "Key Points\nWe will...\n• Only show data which you've made publicly visible on your profile.\n• Show your profile to other users of our website romeo.com and our ROMEO apps\nand to users of hunqz.com.\n• Not sell or trade your data to third party organizations.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states that profile data is shown to users of the third-party 'hunqz.com' only when the user has 'made [it] publicly visible on your profile'. This constitutes a user-initiated transfer with clear disclosure, which is exempt from being declared as 'sharing' under Google Play's User Data policy.",
+      "how_to_fix": "This declaration is exempt and does not need to be added to the Data Safety form as 'sharing'. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Key Points\nWe will...\n• Only show data which you've made publicly visible on your profile.\n• Show your profile to other users of our website romeo.com and our ROMEO apps\nand to users of hunqz.com.\n• Not sell or trade your data to third party organizations.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states that profile data is shown to users of the third-party 'hunqz.com' only when the user has 'made [it] publicly visible on your profile'. This constitutes a user-initiated transfer with clear disclosure, which is exempt from being declared as 'sharing' under Google Play's User Data policy.",
+      "how_to_fix": "This declaration is exempt and does not need to be added to the Data Safety form as 'sharing'. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "Key Points\nWe will...\n• Only show data which you've made publicly visible on your profile.\n• Show your profile to other users of our website romeo.com and our ROMEO apps\nand to users of hunqz.com.\n• Not sell or trade your data to third party organizations.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states that profile data is shown to users of the third-party 'hunqz.com' only when the user has 'made [it] publicly visible on your profile'. This constitutes a user-initiated transfer with clear disclosure, which is exempt from being declared as 'sharing' under Google Play's User Data policy.",
+      "how_to_fix": "This declaration is exempt and does not need to be added to the Data Safety form as 'sharing'. No action is required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Key Points\nWe will...\n• Only show data which you've made publicly visible on your profile.\n• Show your profile to other users of our website romeo.com and our ROMEO apps\nand to users of hunqz.com.\n• Not sell or trade your data to third party organizations.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states that profile data is shown to users of the third-party 'hunqz.com' only when the user has 'made [it] publicly visible on your profile'. This constitutes a user-initiated transfer with clear disclosure, which is exempt from being declared as 'sharing' under Google Play's User Data policy.",
+      "how_to_fix": "This declaration is exempt and does not need to be added to the Data Safety form as 'sharing'. No action is required.",
+      "lang": "English"
+    }
+  ]
+}
+```

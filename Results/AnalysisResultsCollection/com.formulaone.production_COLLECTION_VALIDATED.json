@@ -1,0 +1,77 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• Profile Data – which includes your username and password, your interests, preferences (other than your communication preferences), feedback, survey responses and your conversations with us where recorded (by chatbot, call or otherwise).",
+      "justification": "The privacy policy states the collection of 'feedback, survey responses and your conversations with us', which are considered user-generated content.",
+      "how_to_fix": "Declare the collection of 'Other user-generated content' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "■ Usage Data – which includes information about how you use our Digital Products and your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Digital Products (including date and time), pages you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.",
+      "justification": "The policy mentions collecting 'URL clickstream to, through and from our Digital Products' and 'pages you viewed or searched for', which falls under the 'Web browsing history' data type.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:\n• Profile Data – which includes your username and password, your interests, preferences (other than your communication preferences), feedback, survey responses and your conversations with us where recorded (by chatbot, call or otherwise).\n■ Identity Data – which includes first name, last name, username or similar identifier, marital status, title, date of birth, age and gender.\n• Contact Data – which includes billing address, email address and telephone numbers.\n• Communications Data – which includes your communication preferences and your preferences in receiving marketing from us and our third parties.\n• Transaction Data – which includes details about payments to and from you and other details of products and services you have purchased from us or our third party partners.\n• Financial Data – which includes bank account and payment card details.\n• Technical Data – which includes technical information such as internet protocol (IP) address used to connect your computer to the internet, your login data, screen resolution details, browser type and version, time zone setting and location, mobile and network information, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our Digital Products.\n■ Usage Data – which includes information about how you use our Digital Products and your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Digital Products (including date and time), pages you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.",
+      "justification": "The policy explicitly states under 'Contact Data' that 'billing address' is collected.",
+      "how_to_fix": "Declare the collection of 'Address' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:\n• Profile Data – which includes your username and password, your interests, preferences (other than your communication preferences), feedback, survey responses and your conversations with us where recorded (by chatbot, call or otherwise).\n■ Identity Data – which includes first name, last name, username or similar identifier, marital status, title, date of birth, age and gender.\n• Contact Data – which includes billing address, email address and telephone numbers.\n• Communications Data – which includes your communication preferences and your preferences in receiving marketing from us and our third parties.\n• Transaction Data – which includes details about payments to and from you and other details of products and services you have purchased from us or our third party partners.\n• Financial Data – which includes bank account and payment card details.\n• Technical Data – which includes technical information such as internet protocol (IP) address used to connect your computer to the internet, your login data, screen resolution details, browser type and version, time zone setting and location, mobile and network information, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our Digital Products.\n■ Usage Data – which includes information about how you use our Digital Products and your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Digital Products (including date and time), pages you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.",
+      "justification": "The policy states under 'Contact Data' that 'telephone numbers' are collected, and under 'Usage Data' that 'any phone number used to call our customer service number' is collected.",
+      "how_to_fix": "Declare the collection of 'Phone number' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:\n• Profile Data – which includes your username and password, your interests, preferences (other than your communication preferences), feedback, survey responses and your conversations with us where recorded (by chatbot, call or otherwise).\n■ Identity Data – which includes first name, last name, username or similar identifier, marital status, title, date of birth, age and gender.\n• Contact Data – which includes billing address, email address and telephone numbers.\n• Communications Data – which includes your communication preferences and your preferences in receiving marketing from us and our third parties.\n• Transaction Data – which includes details about payments to and from you and other details of products and services you have purchased from us or our third party partners.\n• Financial Data – which includes bank account and payment card details.\n• Technical Data – which includes technical information such as internet protocol (IP) address used to connect your computer to the internet, your login data, screen resolution details, browser type and version, time zone setting and location, mobile and network information, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our Digital Products.\n■ Usage Data – which includes information about how you use our Digital Products and your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Digital Products (including date and time), pages you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.",
+      "justification": "The policy states under 'Financial Data' that 'bank account and payment card details' are collected, which constitutes user payment information.",
+      "how_to_fix": "Declare the collection of 'User payment info' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:\n• Profile Data – which includes your username and password, your interests, preferences (other than your communication preferences), feedback, survey responses and your conversations with us where recorded (by chatbot, call or otherwise).\n■ Identity Data – which includes first name, last name, username or similar identifier, marital status, title, date of birth, age and gender.\n• Contact Data – which includes billing address, email address and telephone numbers.\n• Communications Data – which includes your communication preferences and your preferences in receiving marketing from us and our third parties.\n• Transaction Data – which includes details about payments to and from you and other details of products and services you have purchased from us or our third party partners.\n• Financial Data – which includes bank account and payment card details.\n• Technical Data – which includes technical information such as internet protocol (IP) address used to connect your computer to the internet, your login data, screen resolution details, browser type and version, time zone setting and location, mobile and network information, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our Digital Products.\n■ Usage Data – which includes information about how you use our Digital Products and your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Digital Products (including date and time), pages you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.",
+      "justification": "The policy states under 'Transaction Data' that 'details of products and services you have purchased from us' are collected.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "■ Audio, electronic, visual, thermal, olfactory, or similar information, such as your calls, emails and other correspondence (e.g. through chatbots) to our customer service recorded as permitted by law; and",
+      "justification": "The policy states that 'emails and other correspondence' are collected.",
+      "how_to_fix": "Declare the collection of 'Emails' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "■ Audio, electronic, visual, thermal, olfactory, or similar information, such as your calls, emails and other correspondence (e.g. through chatbots) to our customer service recorded as permitted by law; and",
+      "justification": "The policy mentions collecting 'other correspondence (e.g. through chatbots)', which falls under 'Other in-app messages'.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "■ Audio, electronic, visual, thermal, olfactory, or similar information, such as your calls, emails and other correspondence (e.g. through chatbots) to our customer service recorded as permitted by law; and",
+      "justification": "The policy states that 'Audio... information, such as your calls... recorded' is collected.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "■ Audio, electronic, visual, thermal, olfactory, or similar information, such as your calls, emails and other correspondence (e.g. through chatbots) to our customer service recorded as permitted by law; and",
+      "justification": "The policy states that 'Audio... information, such as your calls... recorded' is collected, which can be classified as 'Other audio files'.",
+      "how_to_fix": "Declare the collection of 'Other audio files' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

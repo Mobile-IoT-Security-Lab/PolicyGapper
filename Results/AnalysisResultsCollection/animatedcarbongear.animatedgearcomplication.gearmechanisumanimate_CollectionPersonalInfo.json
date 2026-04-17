@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Cookies and similar technologies or third party tolls may use.\n• We may collect data we receive if you link a third party tool with the Games\n(such as Facebook or Google).\n• We may collect data for advertising and analytics purposes, so we can provide\nyou a better game experience.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Cookies and similar technologies or third party tolls may use.\n• We may collect data we receive if you link a third party tool with the Games\n(such as Facebook or Google).\n• We may collect data for advertising and analytics purposes, so we can provide\nyou a better game experience.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Cookies and similar technologies or third party tolls may use.\n• We may collect data we receive if you link a third party tool with the Games\n(such as Facebook or Google).\n• We may collect data for advertising and analytics purposes, so we can provide\nyou a better game experience.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "What data we collect and the ways we collect personal or non personal data about\nyou:\n• we may collect Profile information you may give when you play some of games.\n• We may collect data about game progress.\n• We collect data about your device, such as device name and operating system,\nbrowser type and language for better understand user expectaion and better\nserve ads if present in games.\n• We may collect data about your use of the Games, such as gameplay data and\nyour interactions with other players inside the Games.",
+      "lang": "English"
+    }
+  ]
+}

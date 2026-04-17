@@ -1,0 +1,21 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.",
+      "justification": "The policy states that email correspondence is collected for support and then used to create a public knowledge base. This implies the collection of the user's email address and its subsequent sharing by making it potentially public, even if paraphrased.",
+      "how_to_fix": "In the Google Play Console, declare that the 'Email address' data type is collected and shared. Specify the purpose as 'App functionality' and/or 'Developer communications'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "(I)When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.",
+      "justification": "The policy explicitly states 'we collect your correspondence', which refers to the content of emails. This content is then used to create a public knowledge base, which constitutes sharing.",
+      "how_to_fix": "In the Google Play Console, declare that the 'Emails' data type is collected and shared. Specify the purpose as 'App functionality' and/or 'Developer communications'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

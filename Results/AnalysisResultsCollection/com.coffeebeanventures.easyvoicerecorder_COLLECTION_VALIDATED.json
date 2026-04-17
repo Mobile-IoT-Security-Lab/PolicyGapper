@@ -1,0 +1,70 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We collect the following categories of Personal Data as defined in the CCPA, and have done so in the past 12 months:\n1. Identifiers (your name, email or other contact information, when provided);\n2. Internet or other electronic network activity information on our Internet Web sites and applications, including, but not limited to, browsing history, search history, and\ninformation regarding your interaction with an Internet Web site, application, or advertisement; and\n3. Geolocation data.",
+      "justification": "The privacy policy states that the app collects 'search history' from its 'applications'. This data is sent off-device and is not exempt from declaration.",
+      "how_to_fix": "Declare the collection of 'In-app search history' in the 'Collected' section of your app's Data Safety form on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Certain parts of our Services may ask you to provide Personal Data voluntarily. For example, we may ask for certain information in order to use features in our Apps, register an\naccount with us, subscribe to marketing communications from us, and/or to submit enquiries to us, such as:\n•\nyour name, email address or other contact details.\n•\nany information you submit to our customer service team in the App or via email.\nThe Personal Data that you are asked to provide, and the reasons why you are asked to provide it, will be explained to you when we ask you to provide your Personal Data.",
+      "justification": "The privacy policy states that the app collects 'any information you submit to our customer service team in the App or via email', which qualifies as user-generated content. This data is sent off-device and is not exempt from declaration.",
+      "how_to_fix": "Declare the collection of 'Other user-generated content' in the 'Collected' section of your app's Data Safety form on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "When you use our Services, we may also collect certain information automatically from you and/or your device which may be considered Personal Data under applicable data\nprotection laws, such as:\n• Data and analytics about your use of our Services (e.g. in-app usage, session length, preferred settings, which in-app advertisements you may have viewed, crash reports,\nand the means by which you were referred to our Services).\n• Your IP address, device identifiers such as your Advertising ID, other device information, and your general geographic location (e.g. country or city location) based on\nyour IP address.",
+      "justification": "The privacy policy states that the app collects 'Data and analytics about your use of our Services (e.g. in-app usage, session length, preferred settings)', which falls under 'Other actions'. This data is sent off-device and is not exempt from declaration.",
+      "how_to_fix": "Declare the collection of 'Other actions' in the 'Collected' section of your app's Data Safety form on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect the following categories of Personal Data as defined in the CCPA, and have done so in the past 12 months:\n1. Identifiers (your name, email or other contact information, when provided);\n2. Internet or other electronic network activity information on our Internet Web sites and applications, including, but not limited to, browsing history, search history, and\ninformation regarding your interaction with an Internet Web site, application, or advertisement; and\n3. Geolocation data.",
+      "justification": "The privacy policy states that the app collects 'browsing history' from its 'applications'. This data is sent off-device and is not exempt from declaration.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in the 'Collected' section of your app's Data Safety form on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "When you use our Services, we may also collect certain information automatically from you and/or your device which may be considered Personal Data under applicable data\nprotection laws, such as:\n• Data and analytics about your use of our Services (e.g. in-app usage, session length, preferred settings, which in-app advertisements you may have viewed, crash reports,\nand the means by which you were referred to our Services).\n• Your IP address, device identifiers such as your Advertising ID, other device information, and your general geographic location (e.g. country or city location) based on\nyour IP address.",
+      "justification": "The privacy policy states that the app collects 'crash reports'. This data is sent off-device and is not exempt from declaration.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' (e.g., crash logs) in the 'Collected' section of your app's Data Safety form on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Certain parts of our Services may ask you to provide Personal Data voluntarily. For example, we may ask for certain information in order to use features in our Apps, register an account with us, subscribe to marketing communications from us, and/or to submit enquiries to us, such as: • your name, email address or other contact details. • any information you submit to our customer service team in the App or via email.",
+      "justification": "The privacy policy states that the app may ask for 'your name'. This data is sent off-device and is not exempt from declaration.",
+      "how_to_fix": "Declare the collection of 'Name' in the 'Collected' section of your app's Data Safety form on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Certain parts of our Services may ask you to provide Personal Data voluntarily. For example, we may ask for certain information in order to use features in our Apps, register an account with us, subscribe to marketing communications from us, and/or to submit enquiries to us, such as: • your name, email address or other contact details. • any information you submit to our customer service team in the App or via email.",
+      "justification": "The privacy policy states that the app may ask for 'email address'. This data is sent off-device and is not exempt from declaration.",
+      "how_to_fix": "Declare the collection of 'Email address' in the 'Collected' section of your app's Data Safety form on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Certain parts of our Services may ask you to provide Personal Data voluntarily. For example, we may ask for certain information in order to use features in our Apps, register an\naccount with us, subscribe to marketing communications from us, and/or to submit enquiries to us, such as:\n•\nyour name, email address or other contact details.\n•\nany information you submit to our customer service team in the App or via email.\nThe Personal Data that you are asked to provide, and the reasons why you are asked to provide it, will be explained to you when we ask you to provide your Personal Data.",
+      "justification": "The privacy policy states that the app collects 'any information you submit to our customer service team in the App or via email', which includes the content of emails. This data is sent off-device and is not exempt from declaration.",
+      "how_to_fix": "Declare the collection of 'Emails' in the 'Collected' section of your app's Data Safety form on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Certain parts of our Services may ask you to provide Personal Data voluntarily. For example, we may ask for certain information in order to use features in our Apps, register an\naccount with us, subscribe to marketing communications from us, and/or to submit enquiries to us, such as:\n•\nyour name, email address or other contact details.\n•\nany information you submit to our customer service team in the App or via email.\nThe Personal Data that you are asked to provide, and the reasons why you are asked to provide it, will be explained to you when we ask you to provide your Personal Data.",
+      "justification": "The privacy policy states that the app collects 'any information you submit to our customer service team in the App', which qualifies as in-app messages. This data is sent off-device and is not exempt from declaration.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the 'Collected' section of your app's Data Safety form on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

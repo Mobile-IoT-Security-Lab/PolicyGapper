@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "We collect information when you register for an account, participate in interactive features (like listening to a specific song), make a purchase, communicate with us via social media sites, request customer support, or otherwise communicate with us.\nThe information you may provide includes your name, email, password, music listened, street address, payment method information, feedback and survey responses, and other information about you included within your messages to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We generate some information about you based on other information we have collected. For example, like most platforms, we use your IP address to derive the approximate location of your device. We also use your first name to make an educated guess about your gender and use information about your activity to help determine the likelihood of pue Sound use our Services in the future (wlGet it nowe will be Premium",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We collect information when you register for an account, participate in interactive features (like listening to a specific song), make a purchase, communicate with us via social media sites, request customer support, or otherwise communicate with us.\nThe information you may provide includes your name, email, password, music listened, street address, payment method information, feedback and survey responses, and other information about you included within your messages to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transactional Information: When you make a purchase or return, we collect information about the transaction, such as product description, price, subscription or free trial expiration date, and time and date of the transaction.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We generate some information about you based on other information we have collected. For example, like most platforms, we use your IP address to derive the approximate location of your device. We also use your first name to make an educated guess about your gender and use information about your activity to help determine the likelihood of pue Sound use our Services in the future (wlGet it nowe will be Premium",
+      "lang": "English"
+    }
+  ]
+}

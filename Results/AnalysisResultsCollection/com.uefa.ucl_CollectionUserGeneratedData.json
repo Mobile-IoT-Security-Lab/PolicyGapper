@@ -1,0 +1,29 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "(vii) contact us (including over the phone, or via email, post, live chat or social media messaging).",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "(x) Other. Other information you may provide to us, for example competition entries, photographs we take or video/audio recordings we make.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "(x) Other. Other information you may provide to us, for example competition entries, photographs we take or video/audio recordings we make.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "(x) Other. Other information you may provide to us, for example competition entries, photographs we take or video/audio recordings we make.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "(x) Other. Other information you may provide to us, for example competition entries, photographs we take or video/audio recordings we make.",
+"lang": "en"
+}
+]
+}

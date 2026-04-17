@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We have integrated Advertising Providers' SDKs (a piece of code) into our Apps enabling us to connect ad networks to run in-app ads and to collect the Information needed to display advertisements such as IP address, location data (specific enough to identify a state for cross promo ads and city for analytics), raw data log files on servers (IP address, date, time, requests, state etc.), data about the add (campaign id, creative, country, Bubadu Identifier (not shared with advertisers), date, timestamp, app, orientation, store, status of the ad – requested, loaded, displayed, clicked ad). Contextual advertising can come from the type of device being used, the game/app genre, or the selected language.",
+      "lang": "English"
+    }
+  ]
+}

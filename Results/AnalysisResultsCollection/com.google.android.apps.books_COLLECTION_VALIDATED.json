@@ -1,0 +1,119 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "If you're using an Android device with Google apps, your device periodically contacts Google servers to provide information about your device and connection to our services. This information includes things like your device type and carrier name, crash reports, which apps you've installed, and, depending on your device settings, other information about how you're using your Android device.",
+      "justification": "The privacy policy states that information about installed apps is sent to Google servers, indicating collection.",
+      "how_to_fix": "Declare 'Installed apps' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:\n•\nTerms you search for\n\n---\n•\n•\n•\n•\n•\n•\n•\nVideos you watch\nViews and interactions with content and ads\nVoice and audio information\nPurchase activity\nPeople with whom you communicate or share content\nActivity on third-party sites and apps that use our services\nChrome browsing history you've synced with your Google Account",
+      "justification": "The policy explicitly states collection of 'Chrome browsing history you've synced with your Google Account', which means it is sent off-device.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "For example, if you add a credit card or other payment method to your Google Account, you can use it to buy things across our services, like apps in the Play Store. We may also ask for other information, like a business tax ID, to help process your payment. In some cases, we may also need to verify your identity and may ask you for information to do this.",
+      "justification": "The policy describes collecting and storing payment information like credit card details in the user's Google Account for processing payments, which is off-device collection.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "•\n•\n•\n•\n•\n•\n•\nVideos you watch\nViews and interactions with content and ads\nVoice and audio information\nPurchase activity\nPeople with whom you communicate or share content\nActivity on third-party sites and apps that use our services\nChrome browsing history you've synced with your Google Account",
+      "justification": "The policy explicitly lists 'Purchase activity' as part of the activity information collected in their services, indicating off-device collection.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+      "justification": "The policy states that health-related data like height and weight is collected from users of their fitness apps and products, indicating off-device collection.",
+      "how_to_fix": "Declare 'Health info' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+      "justification": "The policy states that fitness information like sleep patterns, heart rate, and steps taken is collected from their apps and devices, indicating off-device collection.",
+      "how_to_fix": "Declare 'Fitness info' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We collect location information when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your location.",
+      "justification": "The policy states 'We collect location information', which is sent off-device to provide services. This covers approximate location.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Depending on the products you're using and settings you choose, Google may use different types of location information to help make some services and products you use more helpful. These include:\n•\n•\n•\nGPS and other sensor data from your device\nIP address\nActivity on Google services, such as from your searches or places you label like\nhome or work",
+      "justification": "The policy explicitly mentions collecting 'GPS and other sensor data from your device', which constitutes precise location data sent off-device.",
+      "how_to_fix": "Declare 'Precise location' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+      "justification": "The policy explicitly states collection of 'email you write and receive', which is user content sent off-device.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.",
+      "justification": "The policy states collection of 'message log information' when users 'send and receive messages', indicating off-device collection related to SMS/MMS.",
+      "how_to_fix": "Declare 'SMS or MMS' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.",
+      "justification": "The policy states collection of 'message log information' when users 'send and receive messages' through their services, indicating off-device collection.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+      "justification": "The policy explicitly states collection of 'photos and videos you save', which are uploaded and sent off-device.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+      "justification": "The policy explicitly states collection of 'photos and videos you save', which are uploaded and sent off-device.",
+      "how_to_fix": "Declare 'Videos' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Voice and audio information. For example, you can choose whether you want Google to save an audio recording to your Google Account when you interact with Google Search, Assistant, and Maps. When your device detects an audio activation command, like \"Hey Google,\" Google records your voice and audio plus a few seconds before the activation. Learn more",
+      "justification": "The policy states that Google records and saves voice and audio to the user's Google Account, which is off-device collection.",
+      "how_to_fix": "Declare 'Voice or sound recordings' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Voice and audio information. For example, you can choose whether you want Google to save an audio recording to your Google Account when you interact with Google Search, Assistant, and Maps. When your device detects an audio activation command, like \"Hey Google,\" Google records your voice and audio plus a few seconds before the activation. Learn more",
+      "justification": "The policy states that Google records and saves 'voice and audio' to the user's Google Account, which is off-device collection.",
+      "how_to_fix": "Declare 'Other audio files' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "When you're signed in to your Google Account and search on Google, you can see search results from the public web, along with relevant information from the content you have in other Google products, like Gmail or Google Calendar. This can include things like the status of your upcoming flights, restaurant, and hotel reservations, or your photos. Learn more",
+      "justification": "The policy states that information from Google Calendar is used, which means this data is accessed from the user's account on Google's servers.",
+      "how_to_fix": "Declare 'Calendar events' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

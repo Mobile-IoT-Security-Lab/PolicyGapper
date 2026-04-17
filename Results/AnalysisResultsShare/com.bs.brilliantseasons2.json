@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "For a better experience, the app may request access to certain device permissions (such as camera or storage) to function properly, but it does not collect or store personal information. However, the app may use third-party services that may collect personal information as part of their operations. These third-party services may include: • Google Play Services • Google Analytics for Firebase • Firebase Crashlytics by Google These services may collect non-personally identifiable data, including Log Data, such as device name, operating system version, IP address, app configuration details, and usage statistics. Additionally, depending on their terms, they may also collect personal information. This data is used solely for monitoring app performance, identifying causes for app crashes, and improving the app's functionality. The legal basis for this processing is legitimate interest in maintaining and enhancing app performance. We encourage users to review the privacy policies of these third-party services to understand how they handle data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "For a better experience, the app may request access to certain device permissions (such as camera or storage) to function properly, but it does not collect or store personal information. However, the app may use third-party services that may collect personal information as part of their operations. These third-party services may include: • Google Play Services • Google Analytics for Firebase • Firebase Crashlytics by Google These services may collect non-personally identifiable data, including Log Data, such as device name, operating system version, IP address, app configuration details, and usage statistics. Additionally, depending on their terms, they may also collect personal information. This data is used solely for monitoring app performance, identifying causes for app crashes, and improving the app's functionality. The legal basis for this processing is legitimate interest in maintaining and enhancing app performance. We encourage users to review the privacy policies of these third-party services to understand how they handle data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "For a better experience, the app may request access to certain device permissions (such as camera or storage) to function properly, but it does not collect or store personal information. However, the app may use third-party services that may collect personal information as part of their operations. These third-party services may include: • Google Play Services • Google Analytics for Firebase • Firebase Crashlytics by Google These services may collect non-personally identifiable data, including Log Data, such as device name, operating system version, IP address, app configuration details, and usage statistics. Additionally, depending on their terms, they may also collect personal information. This data is used solely for monitoring app performance, identifying causes for app crashes, and improving the app's functionality. The legal basis for this processing is legitimate interest in maintaining and enhancing app performance. We encourage users to review the privacy policies of these third-party services to understand how they handle data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "For a better experience, the app may request access to certain device permissions (such as camera or storage) to function properly, but it does not collect or store personal information. However, the app may use third-party services that may collect personal information as part of their operations. These third-party services may include: • Google Play Services • Google Analytics for Firebase • Firebase Crashlytics by Google These services may collect non-personally identifiable data, including Log Data, such as device name, operating system version, IP address, app configuration details, and usage statistics. Additionally, depending on their terms, they may also collect personal information. This data is used solely for monitoring app performance, identifying causes for app crashes, and improving the app's functionality. The legal basis for this processing is legitimate interest in maintaining and enhancing app performance. We encourage users to review the privacy policies of these third-party services to understand how they handle data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "For a better experience, the app may request access to certain device permissions (such as camera or storage) to function properly, but it does not collect or store personal information. However, the app may use third-party services that may collect personal information as part of their operations. These third-party services may include: • Google Play Services • Google Analytics for Firebase • Firebase Crashlytics by Google These services may collect non-personally identifiable data, including Log Data, such as device name, operating system version, IP address, app configuration details, and usage statistics. Additionally, depending on their terms, they may also collect personal information. This data is used solely for monitoring app performance, identifying causes for app crashes, and improving the app's functionality. The legal basis for this processing is legitimate interest in maintaining and enhancing app performance. We encourage users to review the privacy policies of these third-party services to understand how they handle data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "These services may collect non-personally identifiable data, including Log Data, such as device name, operating system version, IP address, app configuration details, and usage statistics. Additionally, depending on their terms, they may also collect personal information. This data is used solely for monitoring app performance, identifying causes for app crashes, and improving the app's functionality. The legal basis for this processing is legitimate interest in maintaining and enhancing app performance. We encourage users to review the privacy policies of these third-party services to understand how they handle data.",
+      "lang": "English"
+    }
+  ]
+}

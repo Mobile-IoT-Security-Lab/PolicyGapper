@@ -1,0 +1,71 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "(IV) Cases involving the embedding of third-party codes or plug-ins for transmission of Pl are as follows:\nOur application will be embedded with the SDK or other similar applications of authorized partners to enable you to use the services and functions described above. When providing you with products and services, third parties might ask for the following authority. Please carefully read and observe the user agreements and privacy policies of the third parties.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is shared with 'authorized partners' via SDKs 'to enable you to use the services and functions', which qualifies as a service provider exemption.",
+      "how_to_fix": "No action needed. Sharing with service providers acting on your behalf is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "(IV) Cases involving the embedding of third-party codes or plug-ins for transmission of Pl are as follows:\nOur application will be embedded with the SDK or other similar applications of authorized partners to enable you to use the services and functions described above. When providing you with products and services, third parties might ask for the following authority. Please carefully read and observe the user agreements and privacy policies of the third parties.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is shared with 'authorized partners' via SDKs 'to enable you to use the services and functions', which qualifies as a service provider exemption.",
+      "how_to_fix": "No action needed. Sharing with service providers acting on your behalf is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "3) If you participate in a lucky draw or similar advertising promotion, your information (name, phone number (including mobile phone number), and address) will be provided to courier service providers, such as SF Express, YTO Express and DHL (as indicated on the website), or the relevant suppliers to the extent necessary for Buyer App or prizes and goods suppliers to deliver the relevant prizes and goods to you.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is shared with 'courier service providers... to deliver... prizes and goods'. This is a clear service provider function.",
+      "how_to_fix": "No action needed. Sharing with service providers for fulfillment is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "3) If you participate in a lucky draw or similar advertising promotion, your information (name, phone number (including mobile phone number), and address) will be provided to courier service providers, such as SF Express, YTO Express and DHL (as indicated on the website), or the relevant suppliers to the extent necessary for Buyer App or prizes and goods suppliers to deliver the relevant prizes and goods to you.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is shared with 'courier service providers... to deliver... prizes and goods'. This is a clear service provider function.",
+      "how_to_fix": "No action needed. Sharing with service providers for fulfillment is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "3) If you participate in a lucky draw or similar advertising promotion, your information (name, phone number (including mobile phone number), and address) will be provided to courier service providers, such as SF Express, YTO Express and DHL (as indicated on the website), or the relevant suppliers to the extent necessary for Buyer App or prizes and goods suppliers to deliver the relevant prizes and goods to you.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states data is shared with 'courier service providers... to deliver... prizes and goods'. This is a clear service provider function.",
+      "how_to_fix": "No action needed. Sharing with service providers for fulfillment is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "| Tencent LiteAV | Tencent Technology (Shenzhen) Co., Ltd. | Live streaming function | Get rough locations, get accurate locations, cameras, read external memory cards, read status of the mobile phone and identity, record audios, input entries of external memory cards, retrieve running applications, and background geolocation. For more information, please visit: https://cloud.tencent.com/document/product/301 /11470 |",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states the Tencent LiteAV SDK is used for the 'Live streaming function', which is a core app service provided on the developer's behalf.",
+      "how_to_fix": "No action needed. Sharing with SDKs that provide core app functionality on your behalf is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "| Tencent LiteAV | Tencent Technology (Shenzhen) Co., Ltd. | Live streaming function | Get rough locations, get accurate locations, cameras, read external memory cards, read status of the mobile phone and identity, record audios, input entries of external memory cards, retrieve running applications, and background geolocation. For more information, please visit: https://cloud.tencent.com/document/product/301 /11470 |",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy states the Tencent LiteAV SDK is used for the 'Live streaming function', which is a core app service provided on the developer's behalf.",
+      "how_to_fix": "No action needed. Sharing with SDKs that provide core app functionality on your behalf is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "4) When you complete your order on our website, we will randomly invite you to rate and review on our products or services on third-party review platforms. If you choose to participate, your information (email and order number) will be provided to the third-party review platforms.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states sharing only occurs 'If you choose to participate' in rating/reviewing, which qualifies as a user-initiated action.",
+      "how_to_fix": "No action needed. Data transfer initiated by the user is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    }
+  ]
+}
+```

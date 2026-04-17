@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "We do not send-out direct marketing communication to everyone. If you receive a direct marketing message from us it's either because you have previously granted us a specific direct marketing consent or because we have obtained your email within the process of",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "GPS based app, which lets you see the speed limits, get the real-time alerts of mobile radar traps and fixed speed cameras location, speed limit changes & exceeding the speed limit, drive more safely thanks to acoustic and visual warning, track your mileage and useful driving stats using Trip log feature and record videos of your trips with the premium Dash Cam function",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "Allows you to record your own navigation instructions for Sygic GPS Navigation.",
+"lang": "en"
+}
+]
+}

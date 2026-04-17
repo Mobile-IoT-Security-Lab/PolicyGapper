@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "•\nYour email address, screen name and age, if you chose to register and are of eligible age for registering a Photomath account;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "•\nYour email address, screen name and age, if you chose to register and are of eligible age for registering a Photomath account;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Subscription information. When you subscribe or choose to use our paid Services, you will provide us or our payment service provider with information such as credit or debit card number or other financial information; and",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "• Subscription information. When you subscribe or choose to use our paid Services, you will provide us or our payment service provider with information such as credit or debit card number or other financial information; and",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "•\nLocation data: We may collect, use and share location data, including the real-time geographic location of your device, in connection with your use of the Service, for example using IP address, satellite, cell phone tower or WiFi signals. The location information may be used as part of certain features of the Service, such as for example to change default language shown in the Service. By using the Service, you consent to the collection of your location information;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "•\nLocation data: We may collect, use and share location data, including the real-time geographic location of your device, in connection with your use of the Service, for example using IP address, satellite, cell phone tower or WiFi signals. The location information may be used as part of certain features of the Service, such as for example to change default language shown in the Service. By using the Service, you consent to the collection of your location information;",
+      "lang": "English"
+    }
+  ]
+}

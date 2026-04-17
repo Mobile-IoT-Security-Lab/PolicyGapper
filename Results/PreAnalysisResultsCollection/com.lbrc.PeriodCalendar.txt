@@ -1,0 +1,385 @@
+AppManage Group #1, LLC (“Company“, “we”, “our” or “us”), acting under the Google Play and Apple
+App Store alias SimpleInnovation, understands the importance of protecting your privacy. This Privacy
+Policy explains what information of yours will be collected when you download, install, register with,
+access, or use this mobile application (the “App”), and how such information will be used and shared. It
+also explains choices you have to control the collection, correction and/or deletion of such information.
+
+---
+
+This policy applies only to information we collect in our App and in e-mail, text and other electronic
+communications sent through or in connection with our App. This policy DOES NOT apply to information
+collected in other apps or websites (including third-party websites you may access through the App), or
+information collected by any third party. These third parties may have their own privacy policies, which
+we encourage you to read before providing information on or through them.
+
+---
+
+Should you not wish to have your information gathered or used as described in this policy, you may
+uninstall the App from the device(s) on which you have downloaded it.
+
+---
+
+The information we collect, how we use it, and
+the limited ways in which we share it
+
+---
+
+User Data
+
+---
+
+When you use the App, you have the option of providing us with any of the following information, which
+we refer to as your “User Data":
+
+--- [PAGE BREAK] ---
+
+• Your first name or preferred means of address;
+• Your email address;
+• Menstrual cycle and period dates and length;
+• Symptoms and moods experienced day-to-day;
+• Sexual activity;
+• Contraceptive methods and dates;
+• Medicines taken;
+• Temperature measurements;
+• Weight measurements;
+• Personal notes, which could, depending on what was entered, contain information which could on its
+own or together with other information, be used to personally identify you (“Personally Identifiable
+Information” or “PII”).
+
+---
+
+By default, your User Data will only be stored locally on the device from which you access the App. We
+cannot access your User Data if it is only stored on your device. If you so choose, you may elect to have
+up back-up your User Data, in which case we will upload it to Google Cloud. The Data Processing and
+Security Terms for Google Cloud may be reviewed at https://cloud.google.com/terms/data-processing-
+terms.
+
+---
+
+Your User Data is encrypted when stored in the cloud, and a limited number of our employees are the
+only individuals who may access it. If you elect to store your User Data in the cloud, we will ask you to
+provide a password to prevent unauthorized access to your User Data, and your email address so that
+you may reset your password if you forget it. If you choose to provide one, your name or preferred
+means of address will only be used to give you a more personalized experience in-App, enabling the
+App to refer to you by that name or other means of address. Other than these limited uses, we do not
+use the User Data you provide, and it is only provided to facilitate your own use of the App.
+
+---
+
+Voluntary Application Feedback
+
+---
+
+You may provide us with feedback regarding the App, either via reviews and rating in the app store, or
+via email. App Store reviews and ratings are posted in a public forum on app stores, we and the public
+can see them. We take your feedback seriously, and often implement or incorporate user feedback.
+Email feedback is managed by our support staff, and neither your email nor your feedback is shared with
+third parties.
+
+---
+
+Analytics Data
+
+--- [PAGE BREAK] ---
+
+Anonymous data, which we refer to as “Analytics Data,” regarding your use of our App is tracked and
+transmitted to us by our Apps themselves. Analytics Data consists of:
+• A device identifier enabling other issues on the same device to be located;
+•
+Crash logs, enabling application failures to be investigated; and
+• App interaction signals and event data, typically indicating when an application feature has been
+used in a certain way.
+
+---
+
+We use Analytics Data to fix and improve the App and evaluate features, including if and when users
+use different features, and how quickly new features are found. Analytics Data is anonymized, meaning
+it cannot be traced back to you. We process Analytics Data using Google Analytics, Firebase, and
+Microsoft App Center, but do not otherwise share it.
+
+---
+
+Advertising Data
+
+---
+
+Like many apps, our App is in part supported by advertising. Unless you opt-out, discussed more below,
+we may serve ads to you by transmitting to our select advertising partners a standard advertising
+identifier (an “Advertiser ID”) that we collect from your device. Advertising IDs are standard across the
+mobile advertising industry and are used to identify a particular device for advertising purposes.
+Advertising IDs are random identifiers that are generated by and tied to your mobile device. An example
+from a Google Android device looks like this: cdda802e-fb9c-46af-9846-0233d394c712.
+
+---
+
+Advertising IDs are typically generated once per device, so your device would always be associated with
+the same Advertising ID. Advertising IDs don't contain any Personal Information in and of themselves.
+However, because they are typically static, a device will maintain the same Advertising ID over time, it is
+possible for third parties to use an Advertising ID in conjunction with location data they could collect
+from your device or from other apps you use, and other apps known to be associated with your device's
+Advertising ID, to create inferences about you. Both Apple's iOS or Google's Android operating system
+provide a mechanism for users to reset or disable their device's Advertising ID. If you elect to disable
+your Advertising ID, we respect that choice and will not send your device's Advertising ID to our
+advertising partners.
+
+---
+
+Purchase Data
+
+---
+
+When you purchase a subscription or other in-app item from the Apple App Store or Google Play store,
+that transaction is processed by the relevant app store, and not by our Company. We have no access to
+your payment instruments and can see only the very limited view of the transaction shared with us by
+the app store. The limited data we receive consists of an order ID generated by the app store, price
+information, the date and time of the purchase, and may in some cases contain your ZIP code of the
+
+--- [PAGE BREAK] ---
+
+purchaser. This limited purchase data is only used by our support staff to request refunds for you when
+appropriate, and is not shared with any third party.
+
+---
+
+If you request a refund for a subscription or in-app purchase made through the Apple App Store, Apple
+may ask us to provide information about your usage of the service (for example, duration of access,
+frequency of use, or amount of content consumed). This information is shared with Apple only for the
+purpose of processing refund requests and in accordance with Apple's policies. By using our app, you
+agree that we may share such usage information with Apple in these cases.The uses above enumerate
+the limited ways in which we use the information provided by or collected from you and your mobile
+device when you use our App. If we are required to, we may also use your Personal Information to
+respond to a valid and enforceable court order, law, or legal process.
+
+---
+
+Third party services we use
+
+---
+
+As mentioned, we may provide the Advertising ID associated with your the Apple or Android mobile
+device to the third-party ad servers or ad networks listed below (“Advertisers”). While we do not share
+any other data with your Advertising ID, it is possible for Advertisers to independently collect
+information about your online activities over time and across different websites, apps, and other online
+services websites by tracking your Advertising ID elsewhere. Advertisers may use this information
+(including the information we provide to them) to provide interest-based (behavioral) advertising or
+other targeted content to your mobile device.
+
+---
+
+The App includes the use of the following services.
+Service
+Contractual
+partner
+Services
+Privacy Policy
+Google
+Google LLC,
+USA
+• Google
+Analytics
+• Google
+Analytics for
+Firebase
+• Google Tag
+GA -
+https://policies.google.com/technologies/partner-
+sites
+Firebase –
+https://firebase.google.com/support/privacy
+
+--- [PAGE BREAK] ---
+
+Manager
+• Google
+AdMob
+Amazon
+A9.com, Inc.,
+USA and
+Amazon
+Europe Core
+S.a r.l.,
+Luxembourg
+and Affiliates
+Amazon APS https://aps.amazon.com/aps/privacy-policy/
+Facebook
+Facebook, Inc.
+USA and
+Facebook
+Ireland Limited
+Facebook
+Audience
+Network
+https://www.facebook.com/about/privacy/update/
+AppLovin
+Applovin
+Corporation
+Measurement /
+personalization https://www.applovin.com/privacy/
+of ads
+Fyber
+(acquired by
+Fyber
+Digital
+Turbine, Inc.)
+Measurement/
+personalization https://www.digitalturbine.com/privacy-policy/
+of ads
+InMobi
+InMobi (f/k/a
+mKhoj)
+Measurement /
+personalization https://www.inmobi.com/privacy-policy/
+of ads
+IronSource
+ironSource Ltd.
+Measurement/
+personalization https://www.is.com/privacy-policy/
+of ads
+Unity Software
+Unity
+Inc. (d/b/a
+Unity
+Technologies)
+Measurement /
+personalization https://unity3d.com/legal/privacy-policy/
+of ads
+Vungle
+Vungle, Inc.
+Measurement /
+personalization https://vungle.com/privacy/
+of ads
+Pangle
+Pangle
+Measurement /
+personalization
+https://www.pangleglobal.com/privacy
+
+--- [PAGE BREAK] ---
+
+of ads
+AppsFlyer
+AppsFlyer Ltd.
+Measurement /
+personalization https://www.appsflyer.com/legal/privacy-policy
+of ads
+Measurements
+RevenueCat,
+RevenueCat
+Inc.
+/ purchase
+analytics
+https://www.revenuecat.com/privacy/
+
+---
+
+We do not control all of the Advertisers' tracking technologies or how they may be used. If you have any
+questions about an advertisement or other targeted content, you should consult the respective privacy
+policies of the Advertisers. This Company privacy policy does not apply to the Advertisers further
+mentioned. For information about how you can opt out of receiving targeted advertising, see Choices
+About Your Information below.
+
+---
+
+Choices about your information
+
+---
+
+We strive to provide you with choices regarding the information you provide to us. This section describes
+mechanisms we provide for you to control certain uses and disclosures of your information.
+
+---
+
+•
+Other Tracking Technologies. Depending on your device, you may be able to adjust the settings of
+your device to disable or refuse app cookies and/or other tracking technologies. Please note that
+we do not access your device's do-not-track settings, and we therefore do not respond to such
+settings. Third party advertisers, ad networks, and ad servers that display ads in our App may,
+
+--- [PAGE BREAK] ---
+
+however, access and respond to your device's and browsers' do-not-track signals; if you would like
+to know how a third party advertiser responds to do-not-track signals sent by your device or
+browser, please consult their privacy policy.
+
+---
+
+• Targeted Advertising by Third Parties. We do not control third parties' collection or use of your
+information to serve interest-based advertising. However, these third parties may provide you with
+ways to choose not to have your information collected or used in this way. In general, to find out
+more about how to opt out of receiving targeted ads from a particular advertiser click on the
+AdChoices icon or link (or similar icon or link) appearing in or near the ad. You can also opt out of
+receiving targeted ads from members of certain ad networks as follows:
+If the Advertiser is a member of or advertises
+through:
+To Opt Out
+Digital Advertising Alliance
+Install and use the AppChoices App
+European Interactive Digital Advertising
+Alliance
+Opt out at http://www.youronlinechoices.eu/
+Google Ads
+Learn how to opt out at Google Ads Help - Opt
+Out.
+
+---
+
+You can stop all collection of information by the App by uninstalling the App. You may use the standard
+uninstall processes as may be available as part of your mobile device or via the App's marketplace or
+network.
+
+---
+
+Your California Privacy Rights
+
+---
+
+•
+Disclose to you the following information covering the 12-month period prior to your request:
+o The categories of Personal Information we collected about you and the categories of sources
+from which we collected the Personal Information;
+o The business or commercial purpose for collecting Personal Information about you;
+o The categories of third parties to whom we disclosed Personal Information about you, and
+the categories of Personal Information disclosed;
+o The specific pieces of Personal Information we collected about you;
+
+---
+
+• Delete the Personal Information we collected from you; and
+
+---
+
+• Correct Personal Information we collected from you.
+
+---
+
+Under California law, you also have a right to know that, as described in The Information We Collect,
+How We Use It, And The Limited Ways In Which We Share It section above:
+• In the last 12-month we have collected the following categories of Personal Information:
+o Personal unique identifiers, when you provide us with a name or other preferred means of
+address;
+o Personal information, when you provide us with an email address, if we receive a zip code
+from an app store, or if you upload personal health information such as information about
+your cycle or sexual activity; and
+o Biometric information, when you provide us with information about medicines taken,
+temperatures, or measurements;
+
+--- [PAGE BREAK] ---
+
+Data subjects in the EU
+
+---
+
+To contact our Data Protection Officer, you may send an email to feedback@period-tracker.com with the
+subject ATTN: DPO. Through the use of SDKs, we allow our advertising partners in the US to collect
+non-Pll data, which they store and use to provide us with more relevant advertising. The legal basis of
+the processing of this information is Art. 6 para 1 lit a) GDPR, your consent. You may withdraw your
+consent at any given time with future effect by following the withdrawal mechanisms described in the
+Privacy Policies of our partners, the Opt-Out procedures provided by the DAA, EIDAA and Google Adds
+described above, modifying the Settings in the App(s) you use, or by uninstalling the app. When you ask
+us to store a backup of your User Data with Google Cloud, the legal basis for our doing so is Art 6 para
+1 lit b) GDPR, the performance of the agreement formed between you and us when you asked us to
+send your User Data to Google Cloud. You are not obliged to provide your information to us, neither by
+operation of law nor contract. If you do not provide consent to us, we will not be able to personalize your
+ads or measure your use of our services. You have the right to request access to and rectification or
+erasure of personal data and restriction of processing as well as a right to data portability and you may
+always lodge a complaint with a supervisory authority.

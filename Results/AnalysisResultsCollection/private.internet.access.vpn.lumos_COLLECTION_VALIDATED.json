@@ -1,0 +1,98 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• Your Content: When using some of our Services, you can create, post, upload or share content by providing us with access to your photos, media and files, and your device's camera and microphone. You voluntarily provide this information to us.",
+      "justification": "The privacy policy states that user-generated content can be created, posted, uploaded, or shared, which constitutes data collection.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Cookies & Similar Tracking Information: We use cookies and similar tracking technologies to collect information about your interactions with our Services. The information we collect includes, but is not limited to, account activation time, content displayed to you and whether you clicked on it, advertisements displayed to you and whether you clicked on them, URLs you have visited, notifications that have appeared on your mobile device, your Internet Protocol (“IP”) address, your mobile country code, and your user ID.",
+      "justification": "The privacy policy explicitly states that 'URLs you have visited' are collected via tracking technologies.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Profile Information: When using some of our Services, you may be able to add information to your profile, such as an avatar or profile picture, birthday, nickname or username, or country. You voluntarily provide this information to us.",
+      "justification": "The privacy policy states that users can provide a 'nickname or username' for their profile, which is a form of name collection.",
+      "how_to_fix": "Declare 'Name' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Profile Information: When using some of our Services, you may be able to add information to your profile, such as an avatar or profile picture, birthday, nickname or username, or country. You voluntarily provide this information to us.",
+      "justification": "The privacy policy states that users can provide profile information like 'birthday' or 'country', which falls under 'Other info'.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "To provide consumption data to Apple. If we receive a refund request for an in-app purchase from an end user, we reserve the right to provide Apple with information regarding the user's in-app purchase consumption. This includes the following data: app usage time, anonymous account identifier, total amount spent, and total amount refunded.",
+      "justification": "The privacy policy states that information about in-app purchases, such as 'total amount spent' and 'total amount refunded', is collected and may be shared.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "• Social Media Account Information: When you sign up with a Social Media Account, you will be asked to choose which information you would like to share with us, such as your email address, birthday, friends list, or public profile information. When you decide to use a Social Media Account to sign up for our Services, we only require the collection of the email address associated with your Social Media Account; all other information provided by you is voluntary.",
+      "justification": "The privacy policy states that a user's 'friends list' may be shared with the service when signing up via a social media account.",
+      "how_to_fix": "Declare 'Contacts' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• Your Content: When using some of our Services, you can create, post, upload or share content by providing us with access to your photos, media and files, and your device's camera and microphone. You voluntarily provide this information to us.",
+      "justification": "The privacy policy explicitly states that the service is provided with access to user 'photos' to upload or share content.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "• Your Content: When using some of our Services, you can create, post, upload or share content by providing us with access to your photos, media and files, and your device's camera and microphone. You voluntarily provide this information to us.",
+      "justification": "The privacy policy states that the service is provided with access to user 'media', which includes videos, to upload or share content.",
+      "how_to_fix": "Declare 'Videos' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "• Your Content: When using some of our Services, you can create, post, upload or share content by providing us with access to your photos, media and files, and your device's camera and microphone. You voluntarily provide this information to us.",
+      "justification": "The privacy policy states that the service is provided with access to the user's 'microphone' to create, post, or upload content.",
+      "how_to_fix": "Declare 'Voice or sound recordings' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "• Your Content: When using some of our Services, you can create, post, upload or share content by providing us with access to your photos, media and files, and your device's camera and microphone. You voluntarily provide this information to us.",
+      "justification": "The privacy policy states that the service is provided with access to user 'media and files', which can include music files, to upload or share content.",
+      "how_to_fix": "Declare 'Music files' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "• Your Content: When using some of our Services, you can create, post, upload or share content by providing us with access to your photos, media and files, and your device's camera and microphone. You voluntarily provide this information to us.",
+      "justification": "The privacy policy states that the service is provided with access to user 'media and files' and the 'microphone', which covers other audio files.",
+      "how_to_fix": "Declare 'Other audio files' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• Your Content: When using some of our Services, you can create, post, upload or share content by providing us with access to your photos, media and files, and your device's camera and microphone. You voluntarily provide this information to us.",
+      "justification": "The privacy policy explicitly states that the service is provided with access to user 'files' to upload or share content.",
+      "how_to_fix": "Declare 'Files and docs' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "• Your Interactions and Content on Our Services. We may store any information about your interactions on our Services or any content created, posted or shared by you on our Services (e.g., pictures, comments, support tickets, and other content) indefinitely after the closure your account for the establishment or defense of legal claims, audit and crime prevention purposes.",
+      "justification": "The privacy policy states that 'comments' and 'support tickets' are stored, which qualify as in-app messages.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

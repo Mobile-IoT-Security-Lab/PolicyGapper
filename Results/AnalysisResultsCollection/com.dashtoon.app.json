@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Opt out of the “sale of personal data. We do not sell your personal data in the conventional sense. However, like many companies, we use advertising services that try to tailor online ads to your interests based on information collected via cookies and similar technologies about your online activity. This is called interest-based advertising. The CCPA’s statutory definition of the term “sale” is broad and may include interest-based advertising",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Dashtoon may ask you to provide certain categories of information such as personal information, which is information that could reasonably be used to identify you personally, such as your name, company address, e-mail address, date of birth and mobile number (“Personal Information”), when you access the Website, in order to provide you with the relevant information requested. Additionally, we may collect this information through various forms and in various places through the Website, including when you first register with us, when you create a transaction, when you contact us, when you update your information or from time to time or when you otherwise interact with us. Dashtoon may include registration, surveys, and other online forms where users will need to provide Personal Information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Dashtoon may ask you to provide certain categories of information such as personal information, which is information that could reasonably be used to identify you personally, such as your name, company address, e-mail address, date of birth and mobile number (“Personal Information”), when you access the Website, in order to provide you with the relevant information requested. Additionally, we may collect this information through various forms and in various places through the Website, including when you first register with us, when you create a transaction, when you contact us, when you update your information or from time to time or when you otherwise interact with us. Dashtoon may include registration, surveys, and other online forms where users will need to provide Personal Information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Dashtoon may ask you to provide certain categories of information such as personal information, which is information that could reasonably be used to identify you personally, such as your name, company address, e-mail address, date of birth and mobile number (“Personal Information”), when you access the Website, in order to provide you with the relevant information requested. Additionally, we may collect this information through various forms and in various places through the Website, including when you first register with us, when you create a transaction, when you contact us, when you update your information or from time to time or when you otherwise interact with us. Dashtoon may include registration, surveys, and other online forms where users will need to provide Personal Information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Dashtoon may also process any Personal Information or Usage Information collected from you for legitimate commercial purposes including to provide you with the requisite information requested. A list of uses of the Personal Information and Usage Information collected is provided in Section 3 of this Policy (Use of Information Collected). Dashtoon implements appropriate technical and organisational measures to ensure a level of security appropriate to the risk of our processing of information about individuals such as (i) only sharing and providing access to your information to the minimum extent necessary, subject to confidentiality restrictions where appropriate, and on an anonymised basis wherever possible; (ii) using secure servers to store your information; (iii) verifying the identity of any individual who requests access to information prior to granting them access to information; and (iv) using Secure Sockets Layer (SSL) software or other similar encryption technologies to encrypt any payment transactions you make on or via our website.",
+      "lang": "English"
+    }
+  ]
+}

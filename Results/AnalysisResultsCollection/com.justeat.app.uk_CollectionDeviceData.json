@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Information you provide to us: We collect information you provide when you create an account, place an order, or contact customer support. This may include your name, email address, phone number, delivery address, and payment information. We also collect your order details, including the items you purchase, special instructions, and your feedback and ratings.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Technical Data: We and our partners use cookies and similar technologies to collect information about your browsing activities, device type, operating system, and other technical details to ensure our Services function correctly, to analyze performance, and to deliver personalized advertising. This may include unique identifiers associated with your device.",
+      "lang": "English"
+    }
+  ]
+}

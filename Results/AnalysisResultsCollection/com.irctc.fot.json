@@ -1,0 +1,59 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Email address and/or mobile telephone with SMS facility is essential for using eCatering service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "The Customer shall be a bonafide Rail passenger having a valid railway ticket with PNR.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Email address and/or mobile telephone with SMS facility is essential for using eCatering service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Customers shall make payment for the eCatering services at the time of booking of meal by entering the details of their debit/credit card/net banking/e-wallet on on-line booking form, provided that such debit/credit card/netbanking/e-wallet is listed as acceptable by IRCTC on the booking form instructions. If customer wishes to make payment at the time of delivery, he/she can book the order through Payment on Delivery(PoD)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "The customer may pre-order the meal on-line on eCatering service anytime after booking of ticket and up to 02 hours of scheduled arrival of the train (In certain cases vendors have opted to serve meals even within 02 hrs. of train reaching a station) at selected station and shall ensure that all fields in the format have been filled in correctly. IRCTC shall not be responsible for any incorrect information provided by the customer.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "\"eCatering\" means the provision of delivery of pre-ordered meals (by selection) at the seat/berth on the train, which includes:\nPre-ordered meal (along with Railneer/approved PDW, Beverages) in packaged form.\nBill/invoice post delivery of the meals to customers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Email address and/or mobile telephone with SMS facility is essential for using eCatering service.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "Email address and/or mobile telephone with SMS facility is essential for using eCatering service.",
+      "lang": "en"
+    }
+  ]
+}

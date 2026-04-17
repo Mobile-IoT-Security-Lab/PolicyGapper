@@ -1,0 +1,59 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "d. User content. This refers to the data that we collect when you: • • • Contact Uber for customer support or other inquiries. Use features that enable you to create Lists or reviews of restaurants or merchants Upload photos and recordings (including those submitted for purposes of customer support) • Provide ratings or feedback for drivers, delivery people, restaurants or • Chat logs and call recordings • Ratings or feedback • User created Lists or reviews of • restaurants or merchants Uploaded photos and recordings, including in-app audio recordings",
+      "justification": "The policy states collection of user-generated content such as reviews, ratings, photos, recordings, and chat logs, which are sent off-device.",
+      "how_to_fix": "Declare 'Other user-generated content' as collected in the 'User-generated content' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "a. Account information. We collect data when\nyou create or update your Uber account.\n• Address\n•\nEmail\n•\nFirst and last name\n•\nLogin name and password\n•\nPhone number\n•\nPayment method (including related\npayment verification information)\n• Profile picture\n•\nSettings (including accessibility\nsettings) and preferences\n• Uber partner loyalty\nprogram information",
+      "justification": "The policy explicitly lists 'Address' as part of the account information collected from the user and sent off-device.",
+      "how_to_fix": "Declare 'Address' as collected in the 'Personal info' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "b. Trip/order information. This refers to the\ndetails we collect about your trip or order,\nincluding orders placed via guest\ncheckout features.\n•\n•\n•\nPayment information (including amount\ncharged and payment method)\nProof of delivery (including photo\nor signature)\nSpecial instructions, allergies or\nfood preferences\n• Statistics derived from past trip/order\ninformation, such as\n• Averages\n• Cancellation rates\n• Total trips/orders\n• Trip or order details, including\n• Date and time\n• Requested pickup and dropoff\naddresses\n• Distance traveled\n• Restaurant or merchant name and\nlocation\n• Items ordered",
+      "justification": "The policy mentions collecting 'allergies or food preferences' as part of order information. This is considered health information and is sent off-device.",
+      "how_to_fix": "Declare 'Health info' as collected in the 'Health and fitness' section of the Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "d. User content. This refers to the data that we collect when you: • • • Contact Uber for customer support or other inquiries. Use features that enable you to create Lists or reviews of restaurants or merchants Upload photos and recordings (including those submitted for purposes of customer support) • Provide ratings or feedback for drivers, delivery people, restaurants or • Chat logs and call recordings • Ratings or feedback • User created Lists or reviews of • restaurants or merchants Uploaded photos and recordings, including in-app audio recordings",
+      "justification": "The policy states collection of 'recordings', 'call recordings', and 'in-app audio recordings' from users, which are sent off-device.",
+      "how_to_fix": "Declare 'Other audio files' as collected in the 'Photos and videos' section of the Data Safety form.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "c. Identity verification information. This refers to the data that we collect to verify your account or identity. • Government-issued identification documents, such as driver's licenses or passports (which may contain identification photos and numbers, expiration date, date of birth, and gender) • User-submitted selfies",
+      "justification": "The policy states collection of 'Government-issued identification documents, such as driver's licenses or passports' for identity verification, which are sent off-device.",
+      "how_to_fix": "Declare 'Files and docs' as collected in the 'Files and docs' section of the Data Safety form.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may also allow others to provide audience measurement and analytics services for us, to serve ads on our behalf across the internet or for other companies' products and services on our apps, and to track and report on the performance of those ads. These entities may use cookies, web beacons, SDKs and other technologies to identify the devices used by visitors to our websites, as well as when they visit other online sites and services.",
+      "reason_of_removal": "Exempt - Websites collection",
+      "justification": "The policy reference describes data collection from 'visitors to our websites', which is outside the scope of the mobile app's data collection disclosure.",
+      "how_to_fix": "No action needed as this data collection is related to websites, not the mobile app.",
+      "lang": "English"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "e. Communications data. This refers to the data we collect when you communicate with drivers and delivery people through Uber's apps. • Communication type (phone or text message) • Content (including recordings of phone calls solely when users are notified of the recording in advance) • Date and time",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy describes in-app text communications, not the collection of the user's personal SMS or MMS messages from their device.",
+      "how_to_fix": "No action needed. If the app collects in-app messages, declare 'In-app messages' instead of 'SMS or MMS'.",
+      "lang": "en"
+    }
+  ]
+}
+```

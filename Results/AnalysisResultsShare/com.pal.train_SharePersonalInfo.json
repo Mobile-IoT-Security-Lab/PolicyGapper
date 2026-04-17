@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We may share your account information, contact information and reservation information with travel service providers, including but not limited to train operators, railway companies, airlines, coach operators and agents that meet your booking needs (collectively \"Travel Service Providers\"). These providers may contact you as needed to provide you with travel products or services. These providers are not controlled by TrainPal and personal data disclosed to them is subject to the applicable provider's privacy statements and security practices. Therefore, we encourage you to review the privacy policies of any travel provider whose products you purchase through TrainPal.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may share your account information, contact information and reservation information with travel service providers, including but not limited to train operators, railway companies, airlines, coach operators and agents that meet your booking needs (collectively \"Travel Service Providers\"). These providers may contact you as needed to provide you with travel products or services. These providers are not controlled by TrainPal and personal data disclosed to them is subject to the applicable provider's privacy statements and security practices. Therefore, we encourage you to review the privacy policies of any travel provider whose products you purchase through TrainPal.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may share your account information, contact information and reservation information with travel service providers, including but not limited to train operators, railway companies, airlines, coach operators and agents that meet your booking needs (collectively \"Travel Service Providers\"). These providers may contact you as needed to provide you with travel products or services. These providers are not controlled by TrainPal and personal data disclosed to them is subject to the applicable provider's privacy statements and security practices. Therefore, we encourage you to review the privacy policies of any travel provider whose products you purchase through TrainPal.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may share your account information, contact information and reservation information with travel service providers, including but not limited to train operators, railway companies, airlines, coach operators and agents that meet your booking needs (collectively \"Travel Service Providers\"). These providers may contact you as needed to provide you with travel products or services. These providers are not controlled by TrainPal and personal data disclosed to them is subject to the applicable provider's privacy statements and security practices. Therefore, we encourage you to review the privacy policies of any travel provider whose products you purchase through TrainPal.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may share your account information, contact information and reservation information with travel service providers, including but not limited to train operators, railway companies, airlines, coach operators and agents that meet your booking needs (collectively \"Travel Service Providers\"). These providers may contact you as needed to provide you with travel products or services. These providers are not controlled by TrainPal and personal data disclosed to them is subject to the applicable provider's privacy statements and security practices. Therefore, we encourage you to review the privacy policies of any travel provider whose products you purchase through TrainPal.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may share your account information, contact information and reservation information with travel service providers, including but not limited to train operators, railway companies, airlines, coach operators and agents that meet your booking needs (collectively \"Travel Service Providers\"). These providers may contact you as needed to provide you with travel products or services. These providers are not controlled by TrainPal and personal data disclosed to them is subject to the applicable provider's privacy statements and security practices. Therefore, we encourage you to review the privacy policies of any travel provider whose products you purchase through TrainPal.",
+      "lang": "English"
+    }
+  ]
+}

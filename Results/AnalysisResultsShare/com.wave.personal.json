@@ -1,0 +1,64 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• Marketing service providers: We share personal data (including usage data and device data) with marketing agencies, research partners, social media and marketing platform providers, advertising networks and third-party data providers to reach or better understand our users, target advertising and measure advertising effectiveness.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "• Marketing service providers: We share personal data (including usage data and device data) with marketing agencies, research partners, social media and marketing platform providers, advertising networks and third-party data providers to reach or better understand our users, target advertising and measure advertising effectiveness.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "• Marketing service providers: We share personal data (including usage data and device data) with marketing agencies, research partners, social media and marketing platform providers, advertising networks and third-party data providers to reach or better understand our users, target advertising and measure advertising effectiveness.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• Marketing service providers: We share personal data (including usage data and device data) with marketing agencies, research partners, social media and marketing platform providers, advertising networks and third-party data providers to reach or better understand our users, target advertising and measure advertising effectiveness.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We share personal data, including customer telephone number and names (redacted where possible), with other users when sending or receiving e-money or issuing statements containing information such as transaction history.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We share personal data, including customer telephone number and names (redacted where possible), with other users when sending or receiving e-money or issuing statements containing information such as transaction history.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• Referencing agencies: We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• Referencing agencies: We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "lang": "English"
+    }
+  ]
+}

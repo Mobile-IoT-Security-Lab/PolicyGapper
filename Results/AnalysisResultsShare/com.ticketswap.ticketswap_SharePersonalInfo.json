@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "Based on the country of your bank, we are required to ask some of personal details, which are processed and verified by Stripe:\n• City\n• Address\n• Postal code\n• State\n• Date of birth\n• Last 4 digits of Social Security Number (SSN)",
+      "lang": "English"
+    }
+  ]
+}

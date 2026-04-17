@@ -1,0 +1,109 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "When you register for a Guardian account, we collect: Your name. Your email address. Other details such as your contact number and residential or billing address when you sign up to support us or a subscription. Your user name, if you comment on our sites. Your photograph, if you add one to your profile page. Some limited data from your social media profile (further information on this is below), if you have signed in to theguardian.com using your social media details.",
+      "justification": "The privacy policy states that 'residential or billing address' is collected when a user signs up for a subscription or to provide support, which can be done through the app.",
+      "how_to_fix": "Declare the collection of 'Address' in your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you register for a Guardian account, we collect: Your name. Your email address. Other details such as your contact number and residential or billing address when you sign up to support us or a subscription. Your user name, if you comment on our sites. Your photograph, if you add one to your profile page. Some limited data from your social media profile (further information on this is below), if you have signed in to theguardian.com using your social media details.",
+      "justification": "The privacy policy states that 'contact number' is collected when a user signs up for a subscription or to provide support, which can be done through the app.",
+      "how_to_fix": "Declare the collection of 'Phone number' in your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "We will not collect special categories of data from you - such as personal data concerning your race, political opinions, religion, health or sexual orientation - unless you have chosen to provide that type of personal data to us.",
+      "justification": "The policy indicates that data concerning 'race' may be collected if the user chooses to provide it. This potential for collection requires declaration.",
+      "how_to_fix": "Declare the collection of 'Race and ethnicity' in your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "We will not collect special categories of data from you - such as personal data concerning your race, political opinions, religion, health or sexual orientation - unless you have chosen to provide that type of personal data to us.",
+      "justification": "The policy indicates that data concerning 'political opinions, religion' may be collected if the user chooses to provide it. This potential for collection requires declaration.",
+      "how_to_fix": "Declare the collection of 'Political or religious beliefs' in your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "We will not collect special categories of data from you - such as personal data concerning your race, political opinions, religion, health or sexual orientation - unless you have chosen to provide that type of personal data to us.",
+      "justification": "The policy indicates that data concerning 'sexual orientation' may be collected if the user chooses to provide it. This potential for collection requires declaration.",
+      "how_to_fix": "Declare the collection of 'Sexual orientation' in your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Personal data is any information about you by which you can be identified or be identifiable. This can include information such as: Your name, date of birth, gender, email address, postal address, phone number, mobile number or financial details, such as payment cards you use to purchase products or subscriptions or to support our journalism. Information about your device (such as the IP address, which is a numerical code to identify your device that can provide information about the country, region or city where you are based). Information relating to how you use and interact with our sites and services.",
+      "justification": "The policy states that personal data such as 'date of birth' and 'gender' is collected, which falls under the 'Other info' data type.",
+      "how_to_fix": "Declare the collection of 'Other info' in your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Personal data is any information about you by which you can be identified or be identifiable. This can include information such as: Your name, date of birth, gender, email address, postal address, phone number, mobile number or financial details, such as payment cards you use to purchase products or subscriptions or to support our journalism. Information about your device (such as the IP address, which is a numerical code to identify your device that can provide information about the country, region or city where you are based). Information relating to how you use and interact with our sites and services.",
+      "justification": "The policy states that 'financial details, such as payment cards' are collected when users purchase products or subscriptions.",
+      "how_to_fix": "Declare the collection of 'User payment info' in your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Performance of a contract with you (or in order to take steps prior to entering into a contract with you): We will use your personal data if we need to in order to perform a contract with you. For example, where you have purchased a subscription from us, we will need to use your contact details and payment data in order to process your order and deliver your subscription. We will use your information as necessary in order to conduct competitions or prize draws. We may contact you directly via social media or email if you enter competitions, prize draws, bids or respond to call-outs.",
+      "justification": "The policy states that when a user has 'purchased a subscription', their data is used to 'process your order and deliver your subscription', which implies the collection of purchase history.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "We will not collect special categories of data from you - such as personal data concerning your race, political opinions, religion, health or sexual orientation - unless you have chosen to provide that type of personal data to us.",
+      "justification": "The policy indicates that data concerning 'health' may be collected if the user chooses to provide it. This potential for collection requires declaration.",
+      "how_to_fix": "Declare the collection of 'Health info' in your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "If you decide to submit content, such as photographs, to the Guardian. We will ask permission to access your camera or photographs.",
+      "justification": "The policy states that if a user decides to submit 'photographs', the app will ask for permission to access them. This is a form of data collection.",
+      "how_to_fix": "Declare the collection of 'Photos' in your app's Data Safety form on Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Sometimes we may receive a letter, email or another form of communication from you that we consider to be significant to the history of the Guardian. We may decide to share this with the Guardian Archive run by the Guardian Foundation for historic and archiving purposes.",
+      "justification": "The policy states the service may 'receive a letter, email or another form of communication from you'. This can occur through in-app contact features, and thus constitutes collection.",
+      "how_to_fix": "Declare the collection of 'Emails' in your app's Data Safety form on Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "When you use our sites we may also use cookies or similar technologies to collect or generate extra data, including:\nYour IP address - a numerical code to identify your device, together with the country, region or city where you are based.\nYour geolocation data - your IP address can be used to find information about the latitude, longitude, altitude of your device, its direction of travel, your GPS data and data about connection with local Wi-Fi equipment.\nInformation on how you interact with our services.\nYour browsing history of the content you have visited on our sites, including how you were referred to our sites via other websites.\nDetails of your computer, mobile, TV, tablet or other devices, for example, the unique device ID, mobile advertising ID, unique vendor or advertising ID and browsers used to access our content.\nIdentifiers derived from those cookies or similar technologies, your device, or generated based on the data you share when registering, signing up for newsletters or making a payment, such as your email address, or the data described above.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy reference explicitly states this data is collected on the company's 'sites' or 'websites', not necessarily through the mobile app, and is therefore exempt from the app's Data Safety declaration.",
+      "how_to_fix": "No action required for the app's Data Safety form, as this collection is outside its scope. Ensure website privacy disclosures are accurate.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you use our sites we may also use cookies or similar technologies to collect or generate extra data, including: Your IP address - a numerical code to identify your device, together with the country, region or city where you are based. Your geolocation data - your IP address can be used to find information about the latitude, longitude, altitude of your device, its direction of travel, your GPS data and data about connection with local Wi-Fi equipment. Information on how you interact with our services. Your browsing history of the content you have visited on our sites, including how you were referred to our sites via other websites. Details of your computer, mobile, TV, tablet or other devices, for example, the unique device ID, mobile advertising ID, unique vendor or advertising ID and browsers used to access our content. Identifiers derived from those cookies or similar technologies, your device, or generated based on the data you share when registering, signing up for newsletters or making a payment, such as your email address, or the data described above.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy reference explicitly states this data is collected on the company's 'sites' or 'websites', not necessarily through the mobile app, and is therefore exempt from the app's Data Safety declaration.",
+      "how_to_fix": "No action required for the app's Data Safety form, as this collection is outside its scope. Ensure website privacy disclosures are accurate.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "When you use our sites we may also use cookies or similar technologies to collect or generate extra data, including: Your IP address - a numerical code to identify your device, together with the country, region or city where you are based. Your geolocation data - your IP address can be used to find information about the latitude, longitude, altitude of your device, its direction of travel, your GPS data and data about connection with local Wi-Fi equipment. Information on how you interact with our services. Your browsing history of the content you have visited on our sites, including how you were referred to our sites via other websites. Details of your computer, mobile, TV, tablet or other devices, for example, the unique device ID, mobile advertising ID, unique vendor or advertising ID and browsers used to access our content. Identifiers derived from those cookies or similar technologies, your device, or generated based on the data you share when registering, signing up for newsletters or making a payment, such as your email address, or the data described above.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy reference explicitly states this data is collected on the company's 'sites' or 'websites', not necessarily through the mobile app, and is therefore exempt from the app's Data Safety declaration.",
+      "how_to_fix": "No action required for the app's Data Safety form, as this collection is outside its scope. Ensure website privacy disclosures are accurate.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,47 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "I may employ third-party companies and individuals due to the following reasons:\n• To facilitate our Service;\n• To provide the Service on our behalf;\n• To perform Service-related services; or\n• To assist us in analyzing how our Service is used.\nI want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy explicitly states that third parties act 'on our behalf' and are 'obligated not to disclose or use the information for any other purpose.' This meets the definition of a service provider, making the data transfer exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required. This data transfer is exempt from being declared as 'sharing' in the Data Safety section because it is with a service provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider",
+      "justification": "This data is collected by third-party products for error analysis. The policy's general clause for third parties establishes they are service providers acting 'on our behalf'. This type of data transfer is therefore exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required. This data transfer is exempt from being declared as 'sharing' in the Data Safety section because it is with a service provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider",
+      "justification": "This data is collected by third-party products for error analysis. The policy's general clause for third parties establishes they are service providers acting 'on our behalf'. This type of data transfer is therefore exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required. This data transfer is exempt from being declared as 'sharing' in the Data Safety section because it is with a service provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider",
+      "justification": "This data is collected by third-party products for error analysis. The policy's general clause for third parties establishes they are service providers acting 'on our behalf'. This type of data transfer is therefore exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required. This data transfer is exempt from being declared as 'sharing' in the Data Safety section because it is with a service provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider",
+      "justification": "This data (derived from an IP address) is collected by third-party products for error analysis. The policy's general clause for third parties establishes they are service providers acting 'on our behalf'. This type of data transfer is therefore exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required. This data transfer is exempt from being declared as 'sharing' in the Data Safety section because it is with a service provider.",
+      "lang": "English"
+    }
+  ]
+}
+```

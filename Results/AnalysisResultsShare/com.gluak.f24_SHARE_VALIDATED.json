@@ -1,0 +1,15 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "we want to inform you that whenever you use our Service, in a case of an These error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is collected 'through third party products' for the purpose of logging errors in the app. This is a core app function and falls under the service provider exemption, where a third party processes data on the developer's behalf. It does not need to be disclosed as 'sharing'.",
+      "how_to_fix": "No action required. This data transfer is exempt from disclosure as 'sharing' because it is with a service provider for app functionality (diagnostics).",
+      "lang": "English"
+    }
+  ]
+}
+```

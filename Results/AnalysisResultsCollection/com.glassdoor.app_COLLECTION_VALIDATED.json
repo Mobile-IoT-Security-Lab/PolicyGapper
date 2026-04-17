@@ -1,0 +1,124 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you set up an account on our services, we create a member “Profile” for you that includes the personal data you provide. We may update your Profile with data we obtain from third parties or extract from your resume. We may also use personal data you provide to us via our other services.",
+      "justification": "The privacy policy states that personal data provided by the user to create a profile is collected. This can include a phone number.",
+      "how_to_fix": "Declare the collection of 'Phone number' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "We may allow you to provide us with your demographic data. You can also update or remove previously supplied demographic data. If you provide your demographic data, we will use it across our services, including to:",
+      "justification": "The privacy policy states that the app collects demographic data provided by the user, which can include race and ethnicity.",
+      "how_to_fix": "Declare the collection of 'Race and ethnicity' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "We may allow you to provide us with your demographic data. You can also update or remove previously supplied demographic data. If you provide your demographic data, we will use it across our services, including to:",
+      "justification": "The privacy policy states that the app collects demographic data provided by the user, which can include political or religious beliefs.",
+      "how_to_fix": "Declare the collection of 'Political or religious beliefs' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "We may allow you to provide us with your demographic data. You can also update or remove previously supplied demographic data. If you provide your demographic data, we will use it across our services, including to:",
+      "justification": "The privacy policy states that the app collects demographic data provided by the user, which can include sexual orientation.",
+      "how_to_fix": "Declare the collection of 'Sexual orientation' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may allow you to provide us with your demographic data. You can also update or remove previously supplied demographic data. If you provide your demographic data, we will use it across our services, including to:",
+      "justification": "The privacy policy states that the app collects demographic data provided by the user, which falls under the 'Other info' category.",
+      "how_to_fix": "Declare the collection of 'Other info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "We may allow you to provide us with your demographic data. You can also update or remove previously supplied demographic data. If you provide your demographic data, we will use it across our services, including to:",
+      "justification": "The privacy policy states that the app collects demographic data provided by the user, which can include health information (e.g., disability status).",
+      "how_to_fix": "Declare the collection of 'Health info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "If you enable location data for the mobile version of our services (including any version installed as an application), we may use your location data to serve you geo-targeted ads for employers and other advertisers that are local to you. We may also derive your general location based on your IP address. You may disable location services at any time in your device's settings.",
+      "justification": "The privacy policy explicitly states that location data is collected from the mobile application when enabled by the user.",
+      "how_to_fix": "Declare the collection of 'Precise location' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Direct Messages | Direct messages and associated Content | Identifiers",
+      "justification": "The privacy policy indicates the collection of 'Direct messages and associated Content', which corresponds to this data type.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Submitted Content | Employer reviews, salary reports, benefit reviews, interview reviews, photos, posts, comments, documents, audio, video, etc. submitted to the services | Audio, electronic, visual, thermal, olfactory, or similar information; professional or employment-related information",
+      "justification": "The privacy policy explicitly lists 'video' as a type of 'Submitted Content' that is collected.",
+      "how_to_fix": "Declare the collection of 'Videos' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Submitted Content | Employer reviews, salary reports, benefit reviews, interview reviews, photos, posts, comments, documents, audio, video, etc. submitted to the services | Audio, electronic, visual, thermal, olfactory, or similar information; professional or employment-related information",
+      "justification": "The privacy policy explicitly lists 'audio' as a type of 'Submitted Content' that is collected.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Submitted Content | Employer reviews, salary reports, benefit reviews, interview reviews, photos, posts, comments, documents, audio, video, etc. submitted to the services | Audio, electronic, visual, thermal, olfactory, or similar information; professional or employment-related information",
+      "justification": "The privacy policy explicitly lists 'audio' as a type of 'Submitted Content' that is collected.",
+      "how_to_fix": "Declare the collection of 'Other audio files' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "We may allow you to sync or upload a list of contacts in order to facilitate these communications.",
+      "justification": "The privacy policy states that users can 'sync or upload a list of contacts', which means the data is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Contacts' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may also use data we collect via our services and third-party ad partners (including affiliates) to measure the effectiveness of ads and to help recognize your device(s) to serve you ads on and off of our services. Some of our ad partners may also enable us to collect similar data directly from their website or app by integrating our or our affiliates advertising technology.",
+      "reason_of_removal": "Exempt - Website collection",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We employ physical, electronic, and managerial measures to safeguard the data we collect online. However, no company can fully eliminate security risks, so we cannot make guarantees about any part of our services. You are responsible for keeping your username and password secret. Once you have registered with us, we will never ask you for your password. Please create a unique password for your account and do not use it for any other web services or applications. Do not share your password with anyone else.",
+      "reason_of_removal": "Inconsistent policy reference",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We employ physical, electronic, and managerial measures to safeguard the data we collect online. However, no company can fully eliminate security risks, so we cannot make guarantees about any part of our services. You are responsible for keeping your username and password secret. Once you have registered with us, we will never ask you for your password. Please create a unique password for your account and do not use it for any other web services or applications. Do not share your password with anyone else.",
+      "reason_of_removal": "Inconsistent policy reference",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "We offer our users a variety of ways to submit and interact with Content. You should only submit Content to the services that you are comfortable sharing with others, including the public.",
+      "reason_of_removal": "Inconsistent policy reference",
+      "justification": "",
+      "how_to_fix": "",
+      "lang": "English"
+    }
+  ]
+}
+```

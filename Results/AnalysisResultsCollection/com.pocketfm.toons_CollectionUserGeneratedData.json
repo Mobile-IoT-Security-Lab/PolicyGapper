@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "a. Personal identifiers: name, email address, Instagram and Facebook profile links, contact numbers, account name and password, profile photo/image IP address, location details, language preferences.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "f. Audio information: recordings of customer service calls",
+"lang": "en"
+}
+]
+}

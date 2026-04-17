@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "When you decide to pair a Device, we will process its MAC-address. The MAC-address is required to support remote control and connectivity, and we may use it for troubleshooting and device analytics.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "When you decide to pair a Device, we will process its MAC-address. The MAC-address is required to support remote control and connectivity, and we may use it for troubleshooting and device analytics.",
+      "lang": "English"
+    }
+  ]
+}

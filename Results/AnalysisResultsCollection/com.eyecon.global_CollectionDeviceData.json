@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "When You install and use the Services, Eyecon will collect personal information from You and any devices You may use in Your interaction with our Services. This information may include e.g.: geo-location; Your IP address; device ID or unique identifier; device manufacturer and type; device and hardware settings; SIM card usage; applications installed on your device; ID for advertising; ad data, operating system; web browser; operator; IMSI; connection information; screen resolution; usage statistics; default communication applications; access to device address book; device log and event information; logs, keywords and meta data of incoming and outgoing calls and messages; version of the Services You use and other information based on Your interaction with our Services such as how the Services are being accessed (via another service, web site or a search engine); Your paired devices (such as smart watch); the pages You visit and features you use on the Services; the services and websites You engage with from the Services; content viewed by You, content You have commented on or sent to us and information about the ads You see and/or engage with; the search terms You use; order information and other usage activity and data logged by Eyecon's servers from time to time. Eyecon may collect some of this information automatically through use of cookies. Some information, including, but not limited to, usage information and other information that may arise from Your interaction with the Services, cannot be used to identify You, whether in combination with other information or otherwise and will not constitute personal information for the purposes of this Policy.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "E. Third-Party Business Partners.\nBase on you consent, we may work with and share some of your informaiton with our third-party advertising partners to provide you with advertisements or other tailored content. . We may share information related to users of our service with affiliates or unaffiliated third parties on a de-identified, aggregate basis. While this informaiton will not identify you personally, in some instances these parties may be able to combile these aggregate,de-identified informaiton with other data they have about you, or that they receive from other parties, in a manner that allows them to identify you personally.",
+      "justification": "The policy states data is shared with third-party advertising partners for tailored advertising. This constitutes 'sharing' under Google Play's policy and is not covered by any exemptions.",
+      "how_to_fix": "Declare 'App interactions' as 'Shared' with third parties for 'Advertising or marketing' purposes in the Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "E. Third-Party Business Partners.\nBase on you consent, we may work with and share some of your informaiton with our third-party advertising partners to provide you with advertisements or other tailored content. . We may share information related to users of our service with affiliates or unaffiliated third parties on a de-identified, aggregate basis. While this informaiton will not identify you personally, in some instances these parties may be able to combile these aggregate,de-identified informaiton with other data they have about you, or that they receive from other parties, in a manner that allows them to identify you personally.",
+      "justification": "The policy states data is shared with third-party advertising partners for tailored advertising, for which Device IDs are a common requirement. This constitutes 'sharing' under Google Play's policy and is not covered by any exemptions.",
+      "how_to_fix": "Declare 'Device or other IDs' as 'Shared' with third parties for 'Advertising or marketing' purposes in the Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "D. Our Affiliates\nBased on your consent, we may share some or all of your contact information with our, parent company, subsidiaries and corporate affiliates, joint ventures, or other companies under common control with us. If you would like us to stop providing your information to our affiliates for their own marketing purposes, you may opt-out by contacting us as provided in the “How to Contact Us\" section.",
+      "justification": "The policy states contact information is shared with affiliates for 'their own marketing purposes'. This is considered 'sharing' under Google Play's policy and is not covered by any exemptions.",
+      "how_to_fix": "Declare 'Email address' as 'Shared' with third parties for 'Advertising or marketing' purposes in the Google Play Console Data Safety form.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "E. Third-Party Business Partners.\nBase on you consent, we may work with and share some of your informaiton with our third-party advertising partners to provide you with advertisements or other tailored content. . We may share information related to users of our service with affiliates or unaffiliated third parties on a de-identified, aggregate basis. While this informaiton will not identify you personally, in some instances these parties may be able to combile these aggregate,de-identified informaiton with other data they have about you, or that they receive from other parties, in a manner that allows them to identify you personally.",
+      "reason_of_removal": "Inconsistent with policy reference",
+      "justification": "The policy text describes sharing generic 'information' for advertising but does not explicitly mention or logically imply the sharing of the list of installed apps.",
+      "how_to_fix": "No action required based on this policy text. If this data is shared, the policy must be updated to specify it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "E. Third-Party Business Partners.\nBase on you consent, we may work with and share some of your informaiton with our third-party advertising partners to provide you with advertisements or other tailored content. . We may share information related to users of our service with affiliates or unaffiliated third parties on a de-identified, aggregate basis. While this informaiton will not identify you personally, in some instances these parties may be able to combile these aggregate,de-identified informaiton with other data they have about you, or that they receive from other parties, in a manner that allows them to identify you personally.",
+      "reason_of_removal": "Inconsistent with policy reference",
+      "justification": "The policy text describes sharing for advertising purposes. Crash logs are related to app diagnostics and functionality, not advertising.",
+      "how_to_fix": "No action required based on this policy text. If this data is shared, the policy must be updated to specify it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "E. Third-Party Business Partners.\nBase on you consent, we may work with and share some of your informaiton with our third-party advertising partners to provide you with advertisements or other tailored content. . We may share information related to users of our service with affiliates or unaffiliated third parties on a de-identified, aggregate basis. While this informaiton will not identify you personally, in some instances these parties may be able to combile these aggregate,de-identified informaiton with other data they have about you, or that they receive from other parties, in a manner that allows them to identify you personally.",
+      "reason_of_removal": "Inconsistent with policy reference",
+      "justification": "The policy text describes sharing for advertising purposes. Diagnostics data is related to app performance and functionality, not advertising.",
+      "how_to_fix": "No action required based on this policy text. If this data is shared, the policy must be updated to specify it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "J. To provide consumption data to Apple. If we receive a refund request for an in-app purchase from an end user, we reserve the right to provide Apple with information regarding the user's in-app purchase consumption. This includes the following data: app usage time, anonymous account identifier, total amount spent, and total amount refunded.",
+      "reason_of_removal": "User-initiated action exemption",
+      "justification": "The policy states this data is shared with Apple only when a user initiates a refund request. This is a user-initiated action and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required. This sharing does not need to be declared in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "J. To provide consumption data to Apple. If we receive a refund request for an in-app purchase from an end user, we reserve the right to provide Apple with information regarding the user's in-app purchase consumption. This includes the following data: app usage time, anonymous account identifier, total amount spent, and total amount refunded.",
+      "reason_of_removal": "User-initiated action exemption",
+      "justification": "The policy states this data is shared with Apple only when a user initiates a refund request. This is a user-initiated action and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required. This sharing does not need to be declared in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

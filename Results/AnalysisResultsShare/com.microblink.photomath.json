@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Third party analytics providers: We may use third-party analytics services to analyze the Service on our behalf. These service providers may use cookies*, web beacons, crash logs and other technologies to collect information about your use of the Service. These service providers enable us to collect, monitor and analyze data regarding the use of the Service, in order to understand how users use the Service and to increase the functionality and user-friendliness of the Services, as well as to better tailor the Service to users' needs. Accordingly, some automatically collected data is shared with such third party service providers, who have their own privacy policies applicable to their operations. The current list of analytics service providers can be requested from us by contacting us at privacy@photomath.com.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "These cookies are used to deliver adverts on our or third party websites more relevant to you and your interests, as well as to measure the effectiveness of advertising campaigns. We may utilize cookies and technologies from our marketing partners (Google), and/or social media platforms (Facebook). These technologies help us measure the efficacy of our marketing campaigns and to understand how visitors navigate to the Websites from our ads on other websites. They help us and our marketing partners (Google LLC and/or Facebook Inc.) determine how many times people who click on our ads end up using our services or performing a particular action, which information will be transmitted to our aforementioned marketing partners. These technologies are used to compile statistics about visitors who interact with the Websites and our other online content, to estimate the effectiveness of our ads, and to provide more pertinent information to our visitors. This also includes using previously collected information about your interests to select ads and whether you took any action related to the advertisement, including for example clicking an ad. For this purposes we use:",
+      "lang": "English"
+    }
+  ]
+}

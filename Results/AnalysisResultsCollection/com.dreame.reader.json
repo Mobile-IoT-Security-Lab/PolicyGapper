@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We also collect information about the interaction of your apps, browsers, and devices with our Services, including your Internet Protocol address, crash reports, system activity and the date, time and referrer URL of your request.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "When you use any of our Services, we will automatically collect certain information about you, including your browser type (e.g. Chrome, Safari) and language, time zone setting, locale settings (country and preferred language), the date and time of your query, cookie data, device identifiers, including iOS Identifier for Advertisers (IDFA), iOS Identifier for Vendors (IDFV), Android Advertising ID, and information about your device, including the type and model, manufacturer, operating system (e.g. iOS or Android), carrier name, screen size, orientation, audio, battery, device memory usage, settings, and boot time.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may collect your payment information if you are a paying customer. This information is required to complete a commercial transaction on our Services. We use this information to enable and fulfill your transaction. If you choose to use any third-party's service to finalize and pay for your order, you will provide your credit card number directly to the third-party. The privacy policy of the third-party will apply to the information you provide on its website.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "STARY allows other companies, called third party advertisers and advertising networks, to serve advertisements within our Services to deliver interest-based advertising to you about third party products and services. These third party advertisers and advertising networks use technology to send the advertisements and links that appear on our Services directly to you. When you use our Services, some third party tools (SDKs) integrated within our Services may collect and use certain information collected from your device for the purpose of advertisement display and optimization. Such information includes device manufacturer, model, and operating system, screen size, orientation, audio, battery, device memory usage, carrier name, IDFV, IDFA or Android Advertising ID, time zone setting, locale settings (country and preferred language) and IP address. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure their advertisements' effectiveness and personalize the advertising content you see. You can exercise choices over how we use your Personal Data and update your preferences at any time as described in Section 6.",
+      "lang": "English"
+    }
+  ]
+}

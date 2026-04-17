@@ -1,0 +1,52 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Our application integrates third-party Software Development Kits (SDKs) to enhance its functionality and provide certain features. These SDKs may collect information automatically, such as:\nDevice identifiers (e.g., IMEI, MAC address, advertising ID)\n•\n•\nUsage data (e.g., app interactions, session duration)\n•\n•\nTechnical data (e.g., IP address, operating system, device type, mobile network information)\nLocation information, if you grant permission\nThe data collected by these SDKs is used to improve user experience, provide analytics, serve advertisements, or enable features like in-app purchases. We ensure that any third-party SDK we integrate complies with applicable data protection laws and has a robust privacy policy governing the collection and use of data.",
+      "justification": "The policy states that SDKs collect and use data to 'serve advertisements'. Sharing data with third parties for advertising purposes must be declared as 'sharing' in the Data Safety section.",
+      "how_to_fix": "In the Google Play Console Data safety section, declare that 'App interactions' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may use third-party analytics services and online advertising services that may result in the “sharing” of online identifiers (e.g., cookie data, IP addresses, device identifiers, general location information, and usage information) with advertising partners to advertise the Services on other websites. If you or your authorized agent would like to opt out of our “sharing” of your information for such purposes, you may do so by go to \"settings\" on our website or in-app and disable the data sharing. We do not knowingly \"sell” or \"share\" the personal information of children under 17.",
+      "justification": "The policy explicitly states that 'device identifiers' are shared with 'advertising partners'. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "In the Google Play Console Data safety section, declare that 'Device or other IDs' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "You may receive advertising on your computer through a web browser. Cookies may be associated with de-identified data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) that we may disclose to a vendor in hashed, non-human-readable form.",
+      "justification": "The policy states that data derived from an email address is disclosed to a 'vendor' for advertising purposes. Even if hashed, this transfer to a third party for their use in advertising is considered 'sharing'.",
+      "how_to_fix": "In the Google Play Console Data safety section, declare that 'Email address' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may use third-party analytics services and online advertising services that may result in the “sharing” of online identifiers (e.g., cookie data, IP addresses, device identifiers, general location information, and usage information) with advertising partners to advertise the Services on other websites. If you or your authorized agent would like to opt out of our “sharing” of your information for such purposes, you may do so by go to \"settings\" on our website or in-app and disable the data sharing. We do not knowingly \"sell” or \"share\" the personal information of children under 17.",
+      "justification": "The policy states that 'online identifiers' are shared with 'advertising partners'. User IDs are a form of online identifier, and this activity must be declared as 'sharing'.",
+      "how_to_fix": "In the Google Play Console Data safety section, declare that 'User IDs' is 'Shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We use your information collected by PolyBuzz to:\n•\nprovide our Services;\n•\nimprove PolyBuzz and/or our Services;\n•\nrespond to your questions and requests;\n•\nprovide you with a safe, efficient, and customized experience, and\n•\nshare with third parties (including the Chat-GPT platform) that help us deliver effective functionality.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is shared with a third party (Chat-GPT) to 'help us deliver effective functionality'. This qualifies as a service provider processing data on the developer's behalf and is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No 'sharing' declaration is required for this use case under the service provider exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "You may receive advertising on your computer through a web browser. Cookies may be associated with de-identified data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) that we may disclose to a vendor in hashed, non-human-readable form.",
+      "reason_of_removal": "Duplicate entry",
+      "justification": "This entry is a duplicate of another entry with the same policy reference and a semantically identical data type ('Email address').",
+      "how_to_fix": "No action needed as this is a duplicate.",
+      "lang": "English"
+    }
+  ]
+}
+```

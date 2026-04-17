@@ -1,0 +1,65 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "R2.5. Sale of Personal Information\nAs is common practice among companies that operate online, in the last 12 months, we have allowed certain third-party providers to collect information about consumers directly through our website and other online services for purposes of analyzing and optimizing our services, delivering ads, providing content and ads that are more relevant, measuring statistics and the success of ad campaigns, and detecting and reporting fraud. As a result of this practice, in the last 12 months, we have sold (per the CCPA's broad definition) the following categories of personal information to these third-party providers, subject to each consumer's settings and their right to opt-out:\n• Identifiers, such as IP address.\n• Commercial Information, such as service information, including services of interest or orders made in connection with our services.\n• Internet/Network Information, such as log data (including operating system and browser type) and analytics data (including usage and activity on our website and online services). Note this excludes VPN browsing activity data.\n• Geolocation Data, such as general geographic location based on IP address.\n• Since our services are not directed to, and we do not intend to, or knowingly, collect or solicit personal information from children under the age of 16, we do not sell personal information of consumers we know to be under the age of 16.",
+      "justification": "The policy states that 'analytics data (including usage and activity...)' is 'sold' to third-party providers for advertising and analytics. This constitutes 'sharing' under Google Play's policy and is not covered by any exemptions.",
+      "how_to_fix": "Declare that 'App interactions' is shared with third parties in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "R2.5. Sale of Personal Information\nAs is common practice among companies that operate online, in the last 12 months, we have allowed certain third-party providers to collect information about consumers directly through our website and other online services for purposes of analyzing and optimizing our services, delivering ads, providing content and ads that are more relevant, measuring statistics and the success of ad campaigns, and detecting and reporting fraud. As a result of this practice, in the last 12 months, we have sold (per the CCPA's broad definition) the following categories of personal information to these third-party providers, subject to each consumer's settings and their right to opt-out:\n• Identifiers, such as IP address.\n• Commercial Information, such as service information, including services of interest or orders made in connection with our services.\n• Internet/Network Information, such as log data (including operating system and browser type) and analytics data (including usage and activity on our website and online services). Note this excludes VPN browsing activity data.\n• Geolocation Data, such as general geographic location based on IP address.\n• Since our services are not directed to, and we do not intend to, or knowingly, collect or solicit personal information from children under the age of 16, we do not sell personal information of consumers we know to be under the age of 16.",
+      "justification": "The policy states that 'log data' and 'analytics data' are 'sold' to third-party providers for purposes including 'analyzing and optimizing our services'. Crash logs are a form of log/analytics data, and this transfer constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare that 'Crash logs' is shared with third parties in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "R2.5. Sale of Personal Information\nAs is common practice among companies that operate online, in the last 12 months, we have allowed certain third-party providers to collect information about consumers directly through our website and other online services for purposes of analyzing and optimizing our services, delivering ads, providing content and ads that are more relevant, measuring statistics and the success of ad campaigns, and detecting and reporting fraud. As a result of this practice, in the last 12 months, we have sold (per the CCPA's broad definition) the following categories of personal information to these third-party providers, subject to each consumer's settings and their right to opt-out:\n• Identifiers, such as IP address.\n• Commercial Information, such as service information, including services of interest or orders made in connection with our services.\n• Internet/Network Information, such as log data (including operating system and browser type) and analytics data (including usage and activity on our website and online services). Note this excludes VPN browsing activity data.\n• Geolocation Data, such as general geographic location based on IP address.\n• Since our services are not directed to, and we do not intend to, or knowingly, collect or solicit personal information from children under the age of 16, we do not sell personal information of consumers we know to be under the age of 16.",
+      "justification": "The policy states that 'analytics data' and 'log data' are 'sold' to third-party providers for 'analyzing and optimizing our services'. This constitutes 'sharing' of diagnostics data under Google Play's policy.",
+      "how_to_fix": "Declare that 'Diagnostics' is shared with third parties in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "To display ads in our apps, we may use third party software development kits (SDKs), which consist of software code provided by a third party that is embedded in our apps. These SDKs may collect the following information from your device or use:\n• Device or mobile advertising identifiers (controlled by your mobile operating system)\n• IP address, which may reveal your approximate geographic location as determined by your carrier or ISP. However, when using the VPN service, this may replace your actual location with an alternative geographic location.\n• Device-specific information such as make, model, OS version, language, time zone, and other information.\n• The name of the app or website serving the ad.",
+      "justification": "The policy explicitly states that third-party SDKs collect 'Device or mobile advertising identifiers' to display ads. This is a clear case of 'sharing' with a third party for advertising purposes and is not exempt.",
+      "how_to_fix": "Declare that 'Device or other IDs' is shared with third parties in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• Free versions of our VPN products are supported by personalized ads, but these ads are not personalized based on any of your VPN browsing activity, nor do we share any such activity with our advertising partners. Personalization is conducted by our advertising partners, who collect personal data such as your user-resettable advertising identifier (e.g. AAID or IDFA) and combine it with the information they have to show you ads that they believe are more relevant to you. Google allows you to disable your advertising identifier via Google account settings. You can disable the Apple advertising identifier via Apple device settings.",
+      "justification": "The policy states that 'advertising partners' collect 'user-resettable advertising identifier (e.g. AAID or IDFA)' for ad personalization. This transfer to a third party for their own purposes constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare that 'Device or other IDs' (which includes advertising IDs) is shared with third parties in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "R2.5. Sale of Personal Information\nAs is common practice among companies that operate online, in the last 12 months, we have allowed certain third-party providers to collect information about consumers directly through our website and other online services for purposes of analyzing and optimizing our services, delivering ads, providing content and ads that are more relevant, measuring statistics and the success of ad campaigns, and detecting and reporting fraud. As a result of this practice, in the last 12 months, we have sold (per the CCPA's broad definition) the following categories of personal information to these third-party providers, subject to each consumer's settings and their right to opt-out:\n• Identifiers, such as IP address.\n• Commercial Information, such as service information, including services of interest or orders made in connection with our services.\n• Internet/Network Information, such as log data (including operating system and browser type) and analytics data (including usage and activity on our website and online services). Note this excludes VPN browsing activity data.\n• Geolocation Data, such as general geographic location based on IP address.\n• Since our services are not directed to, and we do not intend to, or knowingly, collect or solicit personal information from children under the age of 16, we do not sell personal information of consumers we know to be under the age of 16.",
+      "justification": "The policy states that 'Commercial Information, such as... orders made' is 'sold' to third-party providers. 'Orders made' is equivalent to 'Purchase history', and this transfer constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare that 'Purchase history' is shared with third parties in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "To display ads in our apps, we may use third party software development kits (SDKs), which consist of software code provided by a third party that is embedded in our apps. These SDKs may collect the following information from your device or use:\n• Device or mobile advertising identifiers (controlled by your mobile operating system)\n• IP address, which may reveal your approximate geographic location as determined by your carrier or ISP. However, when using the VPN service, this may replace your actual location with an alternative geographic location.\n• Device-specific information such as make, model, OS version, language, time zone, and other information.\n• The name of the app or website serving the ad.",
+      "justification": "The policy states that third-party SDKs collect 'IP address, which may reveal your approximate geographic location' to display ads. This is a clear case of 'sharing' with a third party for advertising purposes and is not exempt.",
+      "how_to_fix": "Declare that 'Approximate location' is shared with third parties in your app's Data Safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "To a new owner. If ownership or control of all or part of our services, assets, or business changes, we may transfer your information to the new owner.",
+      "reason_of_removal": "Inconsistent: data_type not mentioned in policy_reference.",
+      "justification": "The policy reference mentions a potential transfer of general 'information' during a business ownership change but does not specifically name 'Email address' as a data type being transferred.",
+      "how_to_fix": "This finding was removed due to lack of specific evidence in the policy. No action is required based on this reference.",
+      "lang": "English"
+    }
+  ]
+}
+```

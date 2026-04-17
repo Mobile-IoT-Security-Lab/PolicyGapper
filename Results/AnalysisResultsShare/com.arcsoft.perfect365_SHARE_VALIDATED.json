@@ -1,0 +1,14 @@
+```json
+{
+"omitted_declarations": [
+{
+"data_type": "Other actions",
+"policy_reference": "Third-Party Advertisers, Advertising Network, Agencies, Marketers, Cybersecurity Partners\nWe may share or disclose aggregated, usage information, geolocation information and/or device-level\ninformation (such as anonymous usage data, platform types, number of clicks, location data etc.) with\nunaffiliated partners and third parties (e.g. advertisers, advertising networks and platforms, agencies, other\nmarketers, retailers, cybersecurity partners) that wish to market products or services to you, in order to\nimprove connectivity and application experiences on wireless networks, or for cybersecurity purposes. You\ncan control or disable the use of location services for the Services in the device's settings menu. See Section\n6 (Your Choices About Your Information) of this Privacy Policy for further instructions.",
+"justification": "The policy explicitly states sharing usage information like 'number of clicks' with 'unaffiliated partners and third parties (e.g. advertisers, advertising networks...)' so they can 'market products or services to you'. This is a clear case of data sharing for third-party advertising, which is not exempt and must be declared.",
+"how_to_fix": "In the Data Safety form, for the 'Other actions' data type, you must declare that it is 'Shared' with third parties. For the purpose of this sharing, you must select 'Advertising or marketing'.",
+"lang": "English"
+}
+],
+"excluded_declarations": []
+}
+```

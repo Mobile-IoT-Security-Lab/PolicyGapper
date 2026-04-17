@@ -1,0 +1,65 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "During service use: device information (model, OS version, device identifier, etc.), IP address, location information, access time, and usage logs",
+      "justification": "The policy states 'usage logs' are collected, which corresponds to the 'App interactions' data type.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "During service use: device information (model, OS version, device identifier, etc.), IP address, location information, access time, and usage logs",
+      "justification": "The policy states 'usage logs' are collected, which can encompass 'Other actions' within the app.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may collect the following information for account registration, customer support, and service\ndelivery.\n•\nRequired: email address, mobile phone number\n• Optional: date of birth, gender\n•\n•\n•\nDuring service use: device information (model, OS version, device identifier, etc.), IP address,\nlocation information, access time, and usage logs\nFor payments: credit card information, carrier information, purchase history, and other\npayment details\nFor refunds/restores: email address, purchase verification details, and identity verification\ninformation as needed\nMethods of collection: sign-up and consent flows, events/promotions (with separate consent),\nautomatic collection via partner platforms, and information provided during customer support\ninteractions.",
+      "justification": "The policy explicitly states that 'mobile phone number' is collected for account registration.",
+      "how_to_fix": "Declare 'Phone number' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may collect the following information for account registration, customer support, and service\ndelivery.\n•\nRequired: email address, mobile phone number\n• Optional: date of birth, gender\n•\n•\n•\nDuring service use: device information (model, OS version, device identifier, etc.), IP address,\nlocation information, access time, and usage logs\nFor payments: credit card information, carrier information, purchase history, and other\npayment details\nFor refunds/restores: email address, purchase verification details, and identity verification\ninformation as needed\nMethods of collection: sign-up and consent flows, events/promotions (with separate consent),\nautomatic collection via partner platforms, and information provided during customer support\ninteractions.",
+      "justification": "The policy mentions collecting 'date of birth, gender' and 'identity verification information', which fall under the 'Other info' data type.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may collect the following information for account registration, customer support, and service\ndelivery.\n•\nRequired: email address, mobile phone number\n• Optional: date of birth, gender\n•\n•\n•\nDuring service use: device information (model, OS version, device identifier, etc.), IP address,\nlocation information, access time, and usage logs\nFor payments: credit card information, carrier information, purchase history, and other\npayment details\nFor refunds/restores: email address, purchase verification details, and identity verification\ninformation as needed\nMethods of collection: sign-up and consent flows, events/promotions (with separate consent),\nautomatic collection via partner platforms, and information provided during customer support\ninteractions.",
+      "justification": "The policy states that 'credit card information, carrier information... and other payment details' are collected for payments.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may collect the following information for account registration, customer support, and service\ndelivery.\n•\nRequired: email address, mobile phone number\n• Optional: date of birth, gender\n•\n•\n•\nDuring service use: device information (model, OS version, device identifier, etc.), IP address,\nlocation information, access time, and usage logs\nFor payments: credit card information, carrier information, purchase history, and other\npayment details\nFor refunds/restores: email address, purchase verification details, and identity verification\ninformation as needed\nMethods of collection: sign-up and consent flows, events/promotions (with separate consent),\nautomatic collection via partner platforms, and information provided during customer support\ninteractions.",
+      "justification": "The policy explicitly states that 'purchase history' is collected for payments.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may collect the following information for account registration, customer support, and service\ndelivery.\n•\nRequired: email address, mobile phone number\n• Optional: date of birth, gender\n•\n•\n•\nDuring service use: device information (model, OS version, device identifier, etc.), IP address,\nlocation information, access time, and usage logs\nFor payments: credit card information, carrier information, purchase history, and other\npayment details\nFor refunds/restores: email address, purchase verification details, and identity verification\ninformation as needed\nMethods of collection: sign-up and consent flows, events/promotions (with separate consent),\nautomatic collection via partner platforms, and information provided during customer support\ninteractions.",
+      "justification": "The policy states 'IP address' and 'location information' are collected, which are used to determine 'Approximate location'.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Methods of collection: sign-up and consent flows, events/promotions (with separate consent), automatic collection via partner platforms, and information provided during customer support interactions.",
+      "reason_of_removal": "Inconsistent: The policy reference describes methods of collection, not the specific data type.",
+      "justification": "The policy text outlines how data is gathered (e.g., sign-up, support) but does not explicitly state that 'User generated content' is collected.",
+      "how_to_fix": "No action needed for this specific finding as it has been excluded due to inconsistency.",
+      "lang": "English"
+    }
+  ]
+}
+```

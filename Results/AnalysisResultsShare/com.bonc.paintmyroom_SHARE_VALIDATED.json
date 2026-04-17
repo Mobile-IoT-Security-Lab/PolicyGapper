@@ -1,0 +1,21 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:\n• Google Play Services\n•\nGoogle Analytics for Firebase\n• Firebase Crashlytics\n• RevenueCat\n• AdMob\n• AppLovin\n• Meta\n• Liftoff\n• Unity.",
+      "justification": "The privacy policy states the app uses third-party services like 'Google Analytics for Firebase' and 'Firebase Crashlytics', which are known to collect 'Diagnostics' data. The policy lists these alongside advertising partners, indicating data is shared with third parties and not exclusively processed by service providers on the developer's behalf.",
+      "how_to_fix": "Declare in your app's Data safety form that 'Diagnostics' data is both 'collected' and 'shared'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:\n• Google Play Services\n•\nGoogle Analytics for Firebase\n• Firebase Crashlytics\n• RevenueCat\n• AdMob\n• AppLovin\n• Meta\n• Liftoff\n• Unity.",
+      "justification": "The privacy policy lists third-party services such as 'Google Analytics for Firebase' and 'Firebase Crashlytics'. These services collect app performance data. As the policy does not specify they act solely as service providers and lists them with ad networks, this constitutes sharing.",
+      "how_to_fix": "Declare in your app's Data safety form that 'Other app performance data' is both 'collected' and 'shared'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

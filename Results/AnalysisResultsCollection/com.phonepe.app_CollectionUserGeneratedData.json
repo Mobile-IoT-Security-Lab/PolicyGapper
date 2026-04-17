@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "SMS or MMS",
+"policy_reference": "• your Short Messaging Service (SMS(es)) that are stored on your device for the purposes of, including but not limited to, registering you and your device for payments or investment services, OTPs for logins and payments, enhancing your security, bill payment and recharge reminders, and any other legitimate uses with your explicit consent",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "accessing links, e-mails, chat conversations, feedbacks, notifications sent or owned by PhonePe Platform and if you opt to participate in our occasional surveys",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "• video, photo, audio, and location, based on your explicit consent through your app permissions (camera, microphone, location) when you opt for a product whose core functionality can be delivered only after accessing your app permissions, or where access is required for regulatory requirements, e.g., video-based KYC, self-inspection of your vehicle, and onboarding",
+"lang": "en"
+}
+]
+}

@@ -1,0 +1,47 @@
+```json
+{
+"omitted_declarations": [],
+"excluded_declarations": [
+{
+"data_type": "App interactions",
+"policy_reference": "Analytics and search engine providers that assist us in the improvement and optimisation of our site.",
+"reason_of_removal": "Service Provider Exemption",
+"justification": "The privacy policy states data is shared with 'Analytics and search engine providers that assist us'. This indicates data processing by a third party for analytics purposes.",
+"how_to_fix": "No action required. The policy language 'assist us' qualifies this as a service provider relationship, which is exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+"lang": "English"
+},
+{
+"data_type": "Crash logs",
+"policy_reference": "Analytics and search engine providers that assist us in the improvement and optimisation of our site.",
+"reason_of_removal": "Service Provider Exemption",
+"justification": "The privacy policy states data is shared with 'Analytics and search engine providers that assist us'. This indicates data processing by a third party for analytics purposes.",
+"how_to_fix": "No action required. The policy language 'assist us' qualifies this as a service provider relationship, which is exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+"lang": "English"
+},
+{
+"data_type": "Diagnostics",
+"policy_reference": "Analytics and search engine providers that assist us in the improvement and optimisation of our site.",
+"reason_of_removal": "Service Provider Exemption",
+"justification": "The privacy policy states data is shared with 'Analytics and search engine providers that assist us'. This indicates data processing by a third party for analytics purposes.",
+"how_to_fix": "No action required. The policy language 'assist us' qualifies this as a service provider relationship, which is exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+"lang": "English"
+},
+{
+"data_type": "Other app performance data",
+"policy_reference": "Analytics and search engine providers that assist us in the improvement and optimisation of our site.",
+"reason_of_removal": "Service Provider Exemption",
+"justification": "The privacy policy states data is shared with 'Analytics and search engine providers that assist us'. This indicates data processing by a third party for analytics purposes.",
+"how_to_fix": "No action required. The policy language 'assist us' qualifies this as a service provider relationship, which is exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+"lang": "English"
+},
+{
+"data_type": "Device or other IDs",
+"policy_reference": "Analytics and search engine providers that assist us in the improvement and optimisation of our site.",
+"reason_of_removal": "Service Provider Exemption",
+"justification": "The privacy policy states data is shared with 'Analytics and search engine providers that assist us'. This indicates data processing by a third party for analytics purposes.",
+"how_to_fix": "No action required. The policy language 'assist us' qualifies this as a service provider relationship, which is exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+"lang": "English"
+}
+]
+}
+```

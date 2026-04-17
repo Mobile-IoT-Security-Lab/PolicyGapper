@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "In the applications, it is possible to order historical weather data from the Windfinder archive. In the course of the ordering process, personal data such as name and address are collected for the purpose of contract fulfillment. These are used for invoicing and payment processing and stored in accordance with the statutory provisions. Data is transferred to PDFCrowd, Jaroslav Grešula, Kostelní náměstí 506/1, 288 02 Nymburk, Czech Republic (privacy policy (https://pdfcrowd.com/legal)) to generate the PDF files for the invoices. For payment processing, data is forwarded to PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (Privacy Policy (https://www.paypal.com/webapps/mpp/ua/privacy-prev)).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "In the applications, it is possible to order historical weather data from the Windfinder archive. In the course of the ordering process, personal data such as name and address are collected for the purpose of contract fulfillment. These are used for invoicing and payment processing and stored in accordance with the statutory provisions. Data is transferred to PDFCrowd, Jaroslav Grešula, Kostelní náměstí 506/1, 288 02 Nymburk, Czech Republic (privacy policy (https://pdfcrowd.com/legal)) to generate the PDF files for the invoices. For payment processing, data is forwarded to PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (Privacy Policy (https://www.paypal.com/webapps/mpp/ua/privacy-prev)).",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "In the applications, it is possible to order historical weather data from the Windfinder archive. In the course of the ordering process, personal data such as name and address are collected for the purpose of contract fulfillment. These are used for invoicing and payment processing and stored in accordance with the statutory provisions. Data is transferred to PDFCrowd, Jaroslav Grešula, Kostelní náměstí 506/1, 288 02 Nymburk, Czech Republic (privacy policy (https://pdfcrowd.com/legal)) to generate the PDF files for the invoices. For payment processing, data is forwarded to PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (Privacy Policy (https://www.paypal.com/webapps/mpp/ua/privacy-prev)).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "In addition, we may collect the following personal data when you use certain applications, provided that there is a registration and thus a contractual relationship between you and us or you transmit the data to us in some other way: (1) Personal master data (e.g. name); (2) Communication data (e.g. e-mail address), (3) Contract master data (e.g. on the product and corresponding contractual relationship); (4) Login data with password.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Via the Thunderforest application of the provider Gravitystorm Limited, 53 Ancaster Crescent, New Malden KT3 6BD, United Kingdom, we integrate maps of the \"OpenStreetMap\" service (https://www.openstreetmap.org (https://www.openstreetmap.org)), which are offered on the basis of the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF), 132 Maney Hill Road, Sutton Coldfield, West Midlands, B72 1JU, United Kingdom. To the best of our knowledge, OpenStreetMap uses user data exclusively for the purpose of displaying the map view; in addition, map material is loaded from an external server. This data may include, in particular, users' IP addresses and location data, which are not collected without their consent (usually as part of the settings of their mobile devices). The data may also be processed in the USA under certain circumstances. Please note that OpenStreetMap has its own privacy policy, which is independent of ours; further information can be found in OpenStreetMap's privacy policy https://osmfoundation.org/wiki/Privacy_Policy (https://osmfoundation.org/wiki/Privacy_Policy) and from Thunderforest here: https://www.thunderforest.com/privacy/ (https://www.thunderforest.com/privacy). Please inform yourself about these privacy policies before using our applications. Since we cannot provide our services to you as a user, or at least not in a meaningful way, without such use of maps, the use of OpenStreetMap is in the interest of an appealing presentation of our online services and to make it easy to find the places we indicate in the applications; this constitutes a legitimate interest within the meaning of Art. 6 para. 1 lit. f GDPR.",
+      "lang": "English"
+    }
+  ]
+}

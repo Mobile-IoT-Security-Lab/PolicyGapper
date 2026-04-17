@@ -1,0 +1,165 @@
+WHAT DO WE DO?
+We offer you access to our application and web application (together: the App) that enables you to relive
+your outdoor activities, explore new routes, meet people in communities and share your activities on our
+App.
+---
+SECTION 2 - DATA COLLECTION
+We may receive your data in a few different ways. We receive data you directly share with us, for example
+when you create an account or when you upload certain activities. Sometimes we also collect data
+ourselves, for example on how you use our Services. Finally, we may also receive data when you use third-
+party service providers that we facilitate via our App. Below we have explained in more detail which data we
+collect, how we use it and our legal motivation.
+---
+CONTENT DATA
+We gather information from the photos, posts, comments, ratings, reviews, and other content you share on
+the Services, including when you participate in challenges or create routes.
+---
+We process your activity data in order to provide our Services to you:
+i. We can record your activities and analyze your performances, in order to provide you with the relevant
+feedback;
+ii. You can interact with other users on the App. This allows you to participate in challenges, follow other
+users and communicate with each other;
+iii. We can manage your training. For example, to set goals and use your training dashboard;
+iv. Discover new places to go. For example, to discover routes where you can run or ride or to identify
+points of interest;
+v. To visualize your activities in new ways. For example, by creating personal heatmaps or personal
+videos.
+vi. To enrich the content in our App. For example, we can add publicly available photos of users to routes,
+unless you have opted out for this functionality.
+---
+DATA FROM THIRD PARTY PROVIDERS
+If you sign up via third parties (such as Google or Apple), we will receive profile data to create a Relive
+account. If you cancel the process of signing up, we cannot provide you with our Services and we will not
+save the data you entered.
+We also collaborate with third party applications like Garmin and Polar Flow (Trackers). You should exercise
+caution when sharing information through Trackers and you should carefully review the privacy practices of
+these third parties. By connecting your account with a Tracker, you give Relive permission to transfer and
+use data, provided by the Trackers, for the purposes of making a personal video or route. You can always
+disconnect these Trackers via your settings, upon which we will stop collecting data related to your
+activities and delete the imported data in accordance with the our retention periods.
+--- [PAGE BREAK] ---
+• profile information on the third party service in order to fill and update your Relive profile;
+• activity data: note that when you use Relive via a Tracker, the activity data may include health data
+such as your heart rate. We are not able to delete this data as it is often embedded in the received
+activity data.
+---
+Additionally, we use Snowplow to collect user experience data on the Website. This enables us to conduct
+optimisations on the Website. We collect the following data via Snowplow:
+• Timestamps
+•
+Details about the page visit
+•
+User agent details
+•
+Browser settings
+•
+Session identifier
+•
+Session index
+The detailed information is stored for 30 days. We also collect pseudonymised IP information and a visitor
+identifier based on a custom cookie which is valid for 30 days. This data is processed on the basis of
+legitimate interest (improving the website experience). And none of the data is shared across domains.
+---
+We also use Unbounce as a third-party service on our landing pages (e.g. www.relive.com) to enhance our
+website's functionality and improve user experience. Unbounce allows us to create, manage, and analyse
+landing pages to better serve our visitors. This service may collect and store data, such as your IP address,
+device information, and interaction with our landing pages. We utilise this data to optimize our content and
+marketing efforts. Unbounce adheres to strict data protection standards, and any data shared with them is
+managed in accordance with our privacy policy and relevant data protection laws. For more information on
+data protection and security at Unbounce, click here (https://unbounce.com/security/)..
+---
+More specifically, we can:
+•
+•
+•
+•
+Support community powered features: enable you to find new ways to interact through our Services.
+For example, we allow users to explore each other's routes or allow users to participate in challenges.
+Convert your data in aggregate form to enhance our Services: identify points of interest or popular
+areas, customize the Service (e.g. suggesting routes, challenges, etc.) and create global heat maps.
+Customize the Services: we may suggest routes or challenges that may interest you or new features
+you may want to try.
+Promote the Services: through Service-related email and product-related marketing campaigns to
+make you aware of our Services.
+---
+LEGAL OBLIGATIONS OR TO ESTABLISH, EXERCISE OR
+DEFEND LEGAL CLAIMS
+We process data if we are required to do so by law, for example in the context of a legally valid and binding
+legal action by a law enforcement agency to obtain certain data. In addition, we may be required to process
+data to establish, bring or defend civil or criminal claims in connection with actual or potential litigation, for
+example to protect Relive's services, our property or other legal rights, including those of our members or
+partners.
+---
+Please note that content you have shared with other users, for example photos, may remain visible even
+after you delete your account. We cannot delete the Personal Data you publicly shared, such as photos or
+videos you shared via social media. In addition, your public profile may appear in search engine results until
+the search engine refreshes its cache.
+---
+SECTION 5 – DATA SHARING
+PROCESSORS
+We may share your Personal Data with third parties that provide Services to Relive. These are Processors
+within the meaning of the Relevant Legislation. Processors are given access only to the Personal Data they
+need to perform these limited tasks on our behalf and are obligated to protect and safeguard your Personal
+Data. In addition, we agree with Processors that they will handle your Personal Data with care. We might
+share the following Personal Data with Processors:
+•
+Payment providers – your payment data for the execution of payment services;
+• Google Analytics – your behaviour on our Website and App, to help us improve our Services;
+•
+Wufoo - your email address, to provide you with contact forms.
+•
+Cloud and hosting providers - relevant data for the hosting and storage of our App;
+THIRD PARTIES
+Relives provides an Application Programming Interface (API) to enable easy Personal Data sharing between
+Relive and Trackers of your choice. Relive will only share your Personal Data with Trackers, if you have given
+your explicit consent by authorizing Tracker to do so. When you authorize Trackers to access your Personal
+Data stored on Relive on your behalf, the use of your Personal Data by the Tracker is governed by the
+relationship between you and the Tracker (e.g.: their privacy policy). Relive is not responsible for these
+Trackers or how they process your Personal Data.
+---
+OTHER
+If we have a legal obligation to share your Personal Data, we will do so. This is the case, for example, if a
+public authority legally requires us to share your Personal Data.
+---
+TRANSFER
+We shall process your Personal Data within the European Economic Area (EEA) to the extent possible. We
+will only process your Personal Data outside the EEA if that country offers an appropriate level of protection
+for your Personal Data. For the transfer of Personal Data we use, where appropriate, standard contractual
+clauses (SCC) approved by the European Commission. We shall never transfer your Personal Data to
+countries or parties other than those mentioned above without your consent.
+---
+SECTION 6 – PRIVACY SETTINGS
+We offer a variety of tools to manage the sharing of your information and encourage you to customize the
+settings to your desired experience.
+---
+PROFILE PRIVACY
+When you sign up for an account on Relive, you can choose in your settings between Everyone and
+Followers. If you set your account to Everyone, your Personal Data will be visible to everyone using our App
+and on the web. If you set your account to Followers, your Personal Data will only be visible to your
+approved followers. When you join Relive, your account is set to Everyone by default. You can change this at
+any time in the privacy settings. Some parts of your profile, such as your (user)name and profile picture, will
+always be publicly available to other users.
+---
+ACTIVITY PRIVACY
+An activity can be Public or Private. When you join Relive, your activities are in default set to Public,
+whether you set your account to Everyone or Followers. Public means that your activities can be found in
+the App in various places, depending on your profile settings. You can also set any activity to Private. An
+activity set to private will not be used for any purpose.
+---
+AGGREGATED DATA USE
+We may aggregate the information you and others make available to Relive to enhance the service. For
+example – we may aggregate your activity data to identify popular routes or points of interest to share with
+the community. When you join Relive your account is set to allow aggregated data use by default. You can
+change this at any time in the privacy settings.
+---
+PUBLIC PHOTOS ON ROUTES
+We may show photos that you have chosen to upload to Relive to other users when they are viewing Routes
+in our app. We do this by default for profiles set to Everyone who have activities set to Public. You can opt
+out of this at any time in the privacy settings.
+---
+Trackers may also allow you to create privacy zones. Please note that Trackers might not always accurately
+share this data with us, but rather give us the unfiltered data. If you see your route within your privacy zone,
+we advise you to contact the relevant Tracker to stop sharing locations within your privacy zone.
+---
+• Right to data portability - you can request a copy of your Personal Data. We can provide this copy to
+third parties at your request.

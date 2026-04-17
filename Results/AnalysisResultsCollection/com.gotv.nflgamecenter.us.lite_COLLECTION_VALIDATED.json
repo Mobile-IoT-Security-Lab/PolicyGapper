@@ -1,0 +1,184 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "App usage information, including how often you use our application, the events that occur within the application, usage, and performance data, and where the application was downloaded from;",
+      "justification": "The privacy policy states the collection of 'App usage information, including... the events that occur within the application'. This corresponds to the 'App interactions' data type.",
+      "how_to_fix": "Declare the collection of 'App interactions' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Search queries;",
+      "justification": "The privacy policy explicitly states the collection of 'Search queries'.",
+      "how_to_fix": "Declare the collection of 'In-app search history' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Comments and other information posted in our interactive online forums;",
+      "justification": "The privacy policy states the collection of 'Comments and other information posted in our interactive online forums', which falls under 'Other user-generated content'.",
+      "how_to_fix": "Declare the collection of 'Other user-generated content' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "App usage information, including how often you use our application, the events that occur within the application, usage, and performance data, and where the application was downloaded from;",
+      "justification": "The privacy policy states the collection of 'App usage information', which covers 'Other actions' performed by the user within the app.",
+      "how_to_fix": "Declare the collection of 'Other actions' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Sites and apps you visited before and after visiting, or while using, the Services;",
+      "justification": "The privacy policy states collection of 'Sites and apps you visited... while using, the Services', which implies collection of web browsing history through the app.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "App usage information, including how often you use our application, the events that occur within the application, usage, and performance data, and where the application was downloaded from;",
+      "justification": "The privacy policy states the collection of 'performance data', which includes 'Crash logs'.",
+      "how_to_fix": "Declare the collection of 'Crash logs' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "App usage information, including how often you use our application, the events that occur within the application, usage, and performance data, and where the application was downloaded from;",
+      "justification": "The privacy policy states the collection of 'performance data', which includes 'Diagnostics'.",
+      "how_to_fix": "Declare the collection of 'Diagnostics' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "App usage information, including how often you use our application, the events that occur within the application, usage, and performance data, and where the application was downloaded from;",
+      "justification": "The privacy policy explicitly states the collection of 'performance data'.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Other unique identifiers, including mobile device identification numbers and advertising identifiers (e.g., IDFA);",
+      "justification": "The privacy policy explicitly states the collection of 'mobile device identification numbers and advertising identifiers'.",
+      "how_to_fix": "Declare the collection of 'Device or other IDs' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may collect some or all of the following types of information... Other unique identifiers, such as a username or password...",
+      "justification": "The privacy policy states the collection of 'Other unique identifiers, such as a username or password'.",
+      "how_to_fix": "Declare the collection of 'User IDs' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may collect some or all of the following types of information... Identifiers, such as contact information, such as name, e-mail address, postal address...",
+      "justification": "The privacy policy explicitly states the collection of 'postal address'.",
+      "how_to_fix": "Declare the collection of 'Address' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "We may collect some or all of the following types of information... Demographic information, which may include gender, race, ethnicity...",
+      "justification": "The privacy policy explicitly states the collection of 'race, ethnicity'.",
+      "how_to_fix": "Declare the collection of 'Race and ethnicity' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "We may collect some or all of the following types of information... Demographic information, which may include gender, race, ethnicity, and sexual orientation...",
+      "justification": "The privacy policy explicitly states the collection of 'sexual orientation'.",
+      "how_to_fix": "Declare the collection of 'Sexual orientation' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may collect some or all of the following types of information... Additional information as otherwise described to you in this Privacy Notice, at the point of collection, or pursuant to your consent.",
+      "justification": "The privacy policy includes a catch-all statement for 'Additional information as otherwise described', which corresponds to 'Other info'.",
+      "how_to_fix": "Declare the collection of 'Other info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may collect some or all of the following types of information... Financial and commercial information, such as credit card or other payment information...",
+      "justification": "The privacy policy states the collection of 'credit card or other payment information'.",
+      "how_to_fix": "Declare the collection of 'User payment info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may collect some or all of the following types of information... Financial and commercial information, such as... records of products or services purchased...",
+      "justification": "The privacy policy states the collection of 'records of products or services purchased'.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "We may collect some or all of the following types of information... Information that could be considered health information, such as when you purchase accessible seating...",
+      "justification": "The privacy policy states the collection of 'Information that could be considered health information'.",
+      "how_to_fix": "Declare the collection of 'Health info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may collect some or all of the following types of information... Real-time geolocation information, which may include precise geolocation information...",
+      "justification": "The privacy policy states the collection of 'Real-time geolocation information'. Collection of precise location implies approximate location is also collected.",
+      "how_to_fix": "Declare the collection of 'Approximate location' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may collect some or all of the following types of information... Real-time geolocation information, which may include precise geolocation information...",
+      "justification": "The privacy policy explicitly states the collection of 'precise geolocation information'.",
+      "how_to_fix": "Declare the collection of 'Precise location' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Please also note that if you choose to engage in public activities on the Services, such as through interactive features like a chat room, forum, blog, or other community tool, you should be aware that the information you share there will be publicly available...",
+      "justification": "The privacy policy describes user communication in 'interactive features like a chat room, forum, blog', which falls under 'Other in-app messages'.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "If you authorize us to access your contacts, calendar, or photos, we may also collect that information to provide you with relevant functionality;",
+      "justification": "The privacy policy states that if authorized, the app may collect 'photos'.",
+      "how_to_fix": "Declare the collection of 'Photos' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "...the Services may also track your device's precise geolocation by responding to beacons or inaudible signals sent to your device's microphone.",
+      "justification": "The privacy policy states the app may use the 'device's microphone' to listen for signals, which constitutes collection of 'Voice or sound recordings'.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "If you authorize us to access your contacts, calendar, or photos, we may also collect that information to provide you with relevant functionality;",
+      "justification": "The privacy policy states that if authorized, the app may collect information from the user's 'calendar'.",
+      "how_to_fix": "Declare the collection of 'Calendar events' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "If you authorize us to access your contacts, calendar, or photos, we may also collect that information to provide you with relevant functionality;",
+      "justification": "The privacy policy states that if authorized, the app may collect information from the user's 'contacts'.",
+      "how_to_fix": "Declare the collection of 'Contacts' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Videos",
+      "policy_reference": "Information When You Attend An NFL Event: When you attend an NFL-event... we may capture your image, voice and/or likeness, including through the use of CCTV cameras and/or when we film or photograph you in a public location at an NFL Event.",
+      "reason_of_removal": "Data collected outside the app",
+      "justification": "The policy states this data is collected at physical events ('NFL Event'), not through the mobile application. This does not need to be declared in the app's Data Safety section.",
+      "how_to_fix": "No action needed for the app's Data Safety form as this data is not collected by the app.",
+      "lang": "en"
+    }
+  ]
+}
+```

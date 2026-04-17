@@ -1,0 +1,37 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "Payment Data: If you choose to purchase a subscription to our Service via credit card, debit card or other payment method, our third-party payments processors (Stripe or PayPal) will collect and process certain payment and billing information, such as billing zip code, payment card details, and authentication features on behalf of AllTrails. That information is collected by our payment processors directly, and we do not collect or store it. If you have questions about how our payment processors protect such information, please read Stripe's services agreement and privacy-policy as well as PayPal's services agreement and privacy_policy..",
+      "justification": "The policy states that a third-party payment processor collects 'billing zip code' on the app's behalf. Under Google Play policy, data collected by a service provider to enable app functionality must be declared.",
+      "how_to_fix": "Declare 'Address' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Data: If you choose to purchase a subscription to our Service via credit card, debit card or other payment method, our third-party payments processors (Stripe or PayPal) will collect and process certain payment and billing information, such as billing zip code, payment card details, and authentication features on behalf of AllTrails. That information is collected by our payment processors directly, and we do not collect or store it. If you have questions about how our payment processors protect such information, please read Stripe's services agreement and privacy-policy as well as PayPal's services agreement and privacy_policy..",
+      "justification": "The policy states that a third-party payment processor collects 'payment card details' on the app's behalf. This is considered 'User payment info' and must be declared.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "• User Generated Content: User-generated content, such as photos, images, videos, community posts, reviews, community comments, and other content or information that you generate, transmit, or otherwise make available on the Service, as well as associated metadata. Metadata includes information on how, when, where and by whom a piece of content was collected and how that content has been formatted or edited. Metadata also includes information that users can add or can have added to their content, such as keywords, geographical or location information, and other similar data.",
+      "justification": "The policy explicitly states the collection of 'User-generated content, such as... videos... that you generate, transmit, or otherwise make available on the Service', indicating it is sent off-device.",
+      "how_to_fix": "Declare 'Videos' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Global Privacy Controls and Do Not Track Signals: We and our third-party vendors and service providers, may use cookies, pixels, or other tracking technologies to collect Personal Data about your browsing activities over time and across different websites following your use of the Site and use that Personal Data to send targeted advertisements. Our Site honors Global Privacy Control (\"GPC\") opt-out preference signals in a frictionless manner. If our website detects that your browser",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy reference explicitly discusses data collection ('browsing activities') on the 'Site' and 'websites', not the mobile application. Data collected solely on a company's website is exempt from the app's Data Safety declaration.",
+      "how_to_fix": "No action is needed in the app's Data Safety form for this specific policy clause, as it pertains to website activity only.",
+      "lang": "English"
+    }
+  ]
+}
+```

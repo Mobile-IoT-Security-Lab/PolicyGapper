@@ -1,0 +1,104 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Partners: If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law. For example, depending on what Partner services you use, we may share personal information so that Netflix content and features can be suggested to you in the Partner's user interface. Partners may process your personal information for the following purposes: to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "justification": "The policy states data is shared with 'Partners' who may use it for their own purposes like research, analysis, and marketing. This constitutes 'sharing' with a third party and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare in the 'Data shared' section of your app's Data safety form that 'App interactions' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Partners: If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law. For example, depending on what Partner services you use, we may share personal information so that Netflix content and features can be suggested to you in the Partner's user interface. Partners may process your personal information for the following purposes: to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "justification": "The policy states data is shared with 'Partners' who may use it for their own purposes like research, analysis, and marketing. This constitutes 'sharing' with a third party and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare in the 'Data shared' section of your app's Data safety form that 'In-app search history' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Partners: If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law. For example, depending on what Partner services you use, we may share personal information so that Netflix content and features can be suggested to you in the Partner's user interface. Partners may process your personal information for the following purposes: to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "justification": "The policy states data is shared with 'Partners' who may use it for their own purposes like research, analysis, and marketing. This constitutes 'sharing' with a third party and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare in the 'Data shared' section of your app's Data safety form that 'Other actions' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Advertising Companies: We may disclose certain personal information to Advertising Companies (see definition above) in order to select Advertisements shown on Netflix, to facilitate interaction with Advertisements, and to measure and improve effectiveness of Advertisements. These companies may process your personal information for the following purposes: to support Advertisements.",
+      "justification": "The policy explicitly states that personal information, which commonly includes Device IDs, is disclosed to 'Advertising Companies' for ad selection and measurement. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your app's Data safety form that 'Device or other IDs' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• Matched Identifier Communications from Netflix. Some third party services allow us to reach users with online marketing about Netflix content or the Netflix service by sending privacy protected contact information to the third party. Privacy protected contact information means we use pseudonymization technologies (such as hashing) to convert the original contact information (such as an email address or phone number) into a value (typically a long alphanumeric sequence of characters) that cannot, by itself, reveal your identity or contact information. The third party compares Netflix's privacy protected contact information with privacy protected contact information in its own database and there will be a match only if you have used the same contact information with both Netflix and the third party. If there is a match, Netflix can then choose whether or not to send Netflix marketing to you on that third party service, and can optimize and better measure the effectiveness of such marketing. You can indicate your choices regarding the Matched Identifier Communications in the “Privacy and data settings” (for the relevant profile) within the “Account” section of our website.",
+      "justification": "The policy describes sharing pseudonymized contact information (derived from email addresses) with third-party services for marketing. The third party matches this against its own database, which is not a service provider function. This is considered 'sharing'.",
+      "how_to_fix": "Declare in the 'Data shared' section of your app's Data safety form that 'Email address' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• Matched Identifier Communications from Netflix. Some third party services allow us to reach users with online marketing about Netflix content or the Netflix service by sending privacy protected contact information to the third party. Privacy protected contact information means we use pseudonymization technologies (such as hashing) to convert the original contact information (such as an email address or phone number) into a value (typically a long alphanumeric sequence of characters) that cannot, by itself, reveal your identity or contact information. The third party compares Netflix's privacy protected contact information with privacy protected contact information in its own database and there will be a match only if you have used the same contact information with both Netflix and the third party. If there is a match, Netflix can then choose whether or not to send Netflix marketing to you on that third party service, and can optimize and better measure the effectiveness of such marketing. You can indicate your choices regarding the Matched Identifier Communications in the “Privacy and data settings” (for the relevant profile) within the “Account” section of our website.",
+      "justification": "The policy describes sharing pseudonymized contact information (derived from phone numbers) with third-party services for marketing. The third party matches this against its own database, which is not a service provider function. This is considered 'sharing'.",
+      "how_to_fix": "Declare in the 'Data shared' section of your app's Data safety form that 'Phone number' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "•\nPromotional collaborations: We may collaborate with third parties to offer promotions. To fulfill these types of promotions, we and the third parties may use your personal information for the following purposes: to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "justification": "The policy states that for 'Promotional collaborations', personal information is used by both the app and third parties for marketing and promotions. This sharing with a third-party collaborator is not exempt.",
+      "how_to_fix": "Declare in the 'Data shared' section of your app's Data safety form that 'Purchase history' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Advertising Companies: We may disclose certain personal information to Advertising Companies (see definition above) in order to select Advertisements shown on Netflix, to facilitate interaction with Advertisements, and to measure and improve effectiveness of Advertisements. These companies may process your personal information for the following purposes: to support Advertisements.",
+      "justification": "The policy explicitly states that personal information, which commonly includes location data for ad targeting, is disclosed to 'Advertising Companies' for ad selection. This is a non-exempt form of data sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your app's Data safety form that 'Approximate location' is shared with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Other Players\nInformation such as your game handle, your gameplay, chat, and user-generated content (including personal information and other information you provide in these features), and your online status will be publicly available to other players when you participate in a Netflix game with features such as leaderboards, local multiplayer, online multiplayer, chat, Netflix game controller, and user-generated content. Note that some games may allow you to play with players from other (non-Netflix) versions of the game, and in that case, this information will be available to those players. Please use good judgment when using chat and user-generated content functions (note that even if you remove text chat, or user-generated content, players that have already seen that information may have saved it).",
+      "reason_of_removal": "User-initiated action exemption",
+      "justification": "The policy states this data is made public only when the user actively participates in multiplayer or social game features (e.g., chat, leaderboards). This falls under the user-initiated action exemption and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action needed as this sharing is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Information such as your game handle, your gameplay, chat, and user-generated content (including personal information and other information you provide in these features), and your online status will be publicly available to other players when you participate in a Netflix game with features such as leaderboards, local multiplayer, online multiplayer, chat, Netflix game controller, and user-generated content. Note that some games may allow you to play with players from other (non-Netflix) versions of the game, and in that case, this information will be available to those players. Please use good judgment when using chat and user-generated content functions (note that even if you remove text chat, or user-generated content, players that have already seen that information may have saved it).",
+      "reason_of_removal": "User-initiated action exemption",
+      "justification": "The policy states the 'game handle' (a User ID) is made public only when the user actively participates in multiplayer or social game features. This falls under the user-initiated action exemption and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action needed as this sharing is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Information such as your game handle, your gameplay, chat, and user-generated content (including personal information and other information you provide in these features), and your online status will be publicly available to other players when you participate in a Netflix game with features such as leaderboards, local multiplayer, online multiplayer, chat, Netflix game controller, and user-generated content. Note that some games may allow you to play with players from other (non-Netflix) versions of the game, and in that case, this information will be available to those players. Please use good judgment when using chat and user-generated content functions (note that even if you remove text chat, or user-generated content, players that have already seen that information may have saved it).",
+      "reason_of_removal": "User-initiated action exemption",
+      "justification": "The policy states data like 'gameplay' and 'online status' are made public only when the user actively participates in multiplayer or social game features. This falls under the user-initiated action exemption and does not need to be declared as 'sharing'.",
+      "how_to_fix": "No action needed as this sharing is exempt from disclosure.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "•\nPartners: If you have a relationship with one or more of our Partners, we may share certain personal information with them to fulfill your requests in compliance with applicable law. For example, depending on what Partner services you use, we may share personal information so that Netflix content and features can be suggested to you in the Partner's user interface. Partners may process your personal information for the following purposes: to administer and operate our business; to research, analyze, and improve our services; to enable Partner integrations and promotions; and to send marketing and informational messages.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference for sharing data with 'Partners' is too generic and does not explicitly mention or logically imply the sharing of 'User payment info'.",
+      "how_to_fix": "No action needed as this is not considered an omission. However, if you do share this data, clarify it in your privacy policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Matched Identifier Communications from Netflix. Some third party services allow us to reach users with online marketing about Netflix content or the Netflix service by sending privacy protected contact information to the third party. Privacy protected contact information means we use pseudonymization technologies (such as hashing) to convert the original contact information (such as an email address or phone number) into a value (typically a long alphanumeric sequence of characters) that cannot, by itself, reveal your identity or contact information. The third party compares Netflix's privacy protected contact information with privacy protected contact information in its own database and there will be a match only if you have used the same contact information with both Netflix and the third party. If there is a match, Netflix can then choose whether or not to send Netflix marketing to you on that third party service, and can optimize and better measure the effectiveness of such marketing. You can indicate your choices regarding the Matched Identifier Communications in the “Privacy and data settings” (for the relevant profile) within the “Account” section of our website.",
+      "reason_of_removal": "Duplicate",
+      "justification": "This entry is an exact duplicate of another entry (same data type and policy reference) and has been removed to avoid redundancy.",
+      "how_to_fix": "No action needed.",
+      "lang": "English"
+    }
+  ]
+}
+```

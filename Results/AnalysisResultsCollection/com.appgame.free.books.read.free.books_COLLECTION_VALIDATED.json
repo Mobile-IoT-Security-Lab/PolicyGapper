@@ -1,0 +1,58 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Ad ID. The information that we request will be retained by us and used as described in this privacy policy.",
+      "justification": "The policy explicitly states the collection of 'Ad ID' and that it will be 'retained by us', indicating it is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Device or other IDs' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy describes collecting 'Log Data' in case of an 'error in the app' via 'third party products', which directly corresponds to the 'Crash logs' data type.",
+      "how_to_fix": "Declare the collection of 'Crash logs' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states that 'Log Data' is collected in case of an app error to gather information about the device and app state, which falls under 'Diagnostics'.",
+      "how_to_fix": "Declare the collection of 'Diagnostics' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy mentions collecting 'statistics' and 'the time and date of your use of the Service' as part of 'Log Data', which qualifies as 'Other app performance data'.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states that collected 'Log Data' includes 'the configuration of the app when utilizing our Service' and 'the time and date of your use', which are considered 'App interactions'.",
+      "how_to_fix": "Declare the collection of 'App interactions' in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states that 'Log Data' includes the 'device Internet Protocol (“IP”) address', which is used to derive a user's approximate location.",
+      "how_to_fix": "Declare the collection of 'Approximate location' in your app's Data Safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Ad ID. The information that we request will be retained by us and used as described in this privacy policy.",
+      "reason_of_removal": "Inconsistent: The policy's only example of an identifier is 'Ad ID', which is classified as 'Device or other IDs', not 'User IDs' (e.g., account ID, username).",
+      "justification": "The provided policy text does not mention the collection of user-created identifiers like account names, account numbers, or user names, which are required to justify the 'User IDs' data type.",
+      "how_to_fix": "Do not declare 'User IDs' based on this policy text. If you collect other identifiers like account IDs, ensure they are mentioned in your privacy policy.",
+      "lang": "English"
+    }
+  ]
+}
+```

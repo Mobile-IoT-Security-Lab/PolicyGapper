@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "3.1.1. Account Information: When creating a Comera account, you provide your mobile phone number and a profile name or nickname. You may also add an optional profile photo and status message to your profile.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "3.1.4. User Communications: When you contact Comera for support or otherwise communicate with us, you may provide us with your name, email address, and the content of your inquiry. We will retain such correspondence and information as needed to respond and resolve your issue, consistent with this Policy.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "6.2.2. Al Features Comera Souq may offer Al-driven features, such as an Al chatbot or smart assistant. If you choose to use these features, the content you input (e.g. your chatbot queries or messages) will be processed by the Al service provider to generate responses.",
+      "lang": "en"
+    }
+  ]
+}

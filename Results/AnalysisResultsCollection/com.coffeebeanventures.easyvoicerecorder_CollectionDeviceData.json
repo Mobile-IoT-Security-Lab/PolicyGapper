@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We collect the following categories of Personal Data as defined in the CCPA, and have done so in the past 12 months:\n1. Identifiers (your name, email or other contact information, when provided);\n2. Internet or other electronic network activity information on our Internet Web sites and applications, including, but not limited to, browsing history, search history, and\ninformation regarding your interaction with an Internet Web site, application, or advertisement; and\n3. Geolocation data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Certain parts of our Services may ask you to provide Personal Data voluntarily. For example, we may ask for certain information in order to use features in our Apps, register an\naccount with us, subscribe to marketing communications from us, and/or to submit enquiries to us, such as:\n•\nyour name, email address or other contact details.\n•\nany information you submit to our customer service team in the App or via email.\nThe Personal Data that you are asked to provide, and the reasons why you are asked to provide it, will be explained to you when we ask you to provide your Personal Data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "When you use our Services, we may also collect certain information automatically from you and/or your device which may be considered Personal Data under applicable data\nprotection laws, such as:\n• Data and analytics about your use of our Services (e.g. in-app usage, session length, preferred settings, which in-app advertisements you may have viewed, crash reports,\nand the means by which you were referred to our Services).\n• Your IP address, device identifiers such as your Advertising ID, other device information, and your general geographic location (e.g. country or city location) based on\nyour IP address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect the following categories of Personal Data as defined in the CCPA, and have done so in the past 12 months:\n1. Identifiers (your name, email or other contact information, when provided);\n2. Internet or other electronic network activity information on our Internet Web sites and applications, including, but not limited to, browsing history, search history, and\ninformation regarding your interaction with an Internet Web site, application, or advertisement; and\n3. Geolocation data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "When you use our Services, we may also collect certain information automatically from you and/or your device which may be considered Personal Data under applicable data\nprotection laws, such as:\n• Data and analytics about your use of our Services (e.g. in-app usage, session length, preferred settings, which in-app advertisements you may have viewed, crash reports,\nand the means by which you were referred to our Services).\n• Your IP address, device identifiers such as your Advertising ID, other device information, and your general geographic location (e.g. country or city location) based on\nyour IP address.",
+      "lang": "English"
+    }
+  ]
+}

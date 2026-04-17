@@ -1,0 +1,23 @@
+```json
+{
+    "omitted_declarations": [
+        {
+            "data_type": "Approximate location",
+            "policy_reference": "In order to provide you with more complete and high-quality products and services, we may share some of your personal information with our partners. Please note that we will only share your personal information for legal, legitimate, necessary, specific and clear purposes. At the same time, we require third parties to deal with shared information with confidentiality and security measures no less than those required by this policy. Once we discover any violation of dealing with the personal information, we will terminate the partnership immediately and pursue legal responsibility.\nDirectory of third-party SDKs that may be accessed\n\nCategory\nFunction\nTypes of information collected\nFirebase SDK\nData statistical analysis service\nApplication software list\nhttps://\nAdmob Ads SDK\nGet and display ads\nUnique device identification code\n(Android ID)\nhttps://p\nAppLovin Ads SDK\nGet and display ads\nDevice location information, unique\ndevice identification code (Android I\nD)\nhttps://v\nhttps://s\nGiphy SDK\nGet Gif picture\nNetwork status, unique device ident\nification code(Android ID)\ns/article\nivacy-Pc",
+            "justification": "The privacy policy states that 'Device location information' is collected by the 'AppLovin Ads SDK' to 'Get and display ads'. Sharing data with a third-party advertising network is not covered by the service provider exemption and must be declared as 'sharing'.",
+            "how_to_fix": "In your app's Data Safety form, declare that 'Approximate location' is 'Shared' with third parties.",
+            "lang": "English"
+        }
+    ],
+    "excluded_declarations": [
+        {
+            "data_type": "Installed apps",
+            "policy_reference": "In order to provide you with more complete and high-quality products and services, we may share some of your personal information with our partners. Please note that we will only share your personal information for legal, legitimate, necessary, specific and clear purposes. At the same time, we require third parties to deal with shared information with confidentiality and security measures no less than those required by this policy. Once we discover any violation of dealing with the personal information, we will terminate the partnership immediately and pursue legal responsibility.\nDirectory of third-party SDKs that may be accessed\n\nCategory\nFunction\nTypes of information collected\nFirebase SDK\nData statistical analysis service\nApplication software list\nhttps://\nAdmob Ads SDK\nGet and display ads\nUnique device identification code\n(Android ID)\nhttps://p\nAppLovin Ads SDK\nGet and display ads\nDevice location information, unique\ndevice identification code (Android I\nD)\nhttps://v\nhttps://s\nGiphy SDK\nGet Gif picture\nNetwork status, unique device ident\nification code(Android ID)\ns/article\nivacy-Pc",
+            "reason_of_removal": "Service Provider",
+            "justification": "The policy states 'Application software list' (Installed apps) is collected by the 'Firebase SDK' for 'Data statistical analysis service'. Using Firebase for first-party analytics is considered a transfer to a service provider acting on the developer's behalf, which is exempt from being declared as 'sharing'.",
+            "how_to_fix": "No action is required for this data type as its transfer to a service provider is exempt from the 'sharing' disclosure requirement.",
+            "lang": "English"
+        }
+    ]
+}
+```

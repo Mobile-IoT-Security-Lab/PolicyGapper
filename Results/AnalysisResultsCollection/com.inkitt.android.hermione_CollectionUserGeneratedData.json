@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Google Firebase: We use Firebase by Google LLC, 1600 Amphitheatre Pkwy, Mountain View, California 94043, USA for the purpose of analytics, sending push notification to users, and storing of storing chat messages. Your IP address, Instance IDs, Crash traces, User agents, Mobile ad IDs, IDFVs/Android IDs, Analytics App Instance IDs, All User events (button clicks, page views, etc) will be processed. Personal data is not stored.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Accessing the camera: If you select OK in the \"Access camera\" pop-up window, you allow the app to access its camera.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Microphone: Access location data: When you select OK in the \"Microphone\" pop-up, you allow the app to use your device's microphone.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Insofar as you apply to us online or otherwise respond to one of our job ads, we collect and process the personal applicant data for the purpose of handling the application process. The processing is primarily carried out electronically. This is particularly the case if corresponding application documents are submitted electronically to us, for example by e-mail or via a web form located on the website. If we conclude an employment contract, the transmitted data will be stored for the purpose of processing the employment relationship in compliance with the statutory provisions. If we do not conclude an employment contract, the application documents will be deleted six months after notification of the rejection decision - this retention period is justified by a potential obligation to provide evidence in proceedings under the General Equal Treatment Act (AGG). If consent was given, applications may also be retained for longer than six months.",
+      "lang": "en"
+    }
+  ]
+}

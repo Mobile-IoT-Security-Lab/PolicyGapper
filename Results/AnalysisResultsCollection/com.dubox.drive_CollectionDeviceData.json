@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Device information: This refers to information about the device used to access the Services and may include IP address, browser, and device information, web pages visited prior to accessing TeraBox, identifiers tied to the device, and location information depending on the device settings.",
+      "lang": "English"
+    }
+  ]
+}

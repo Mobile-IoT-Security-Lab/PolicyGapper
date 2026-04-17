@@ -1,0 +1,60 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We share your personal information with selected third parties in and outside your country, including:\n•\n→ other players and users. Social features are a core component of our games. Other players and users may, for example, see your profile\ndata, in-game activities and read the messages you have posted.\n•\n- partners working for CottonGame. CottonGame has partners to perform services for us. These partners process your data only at and\naccording to CottonGame´s instructions to provide the Service, such as hosting, player support, advertising, analytics and fraud prevention.\n→ other companies and public authorities. In order to combat fraud and illegal activity, we may exchange data with other companies and\norganizations and provide it to public authorities in response to lawful requests. We may also disclose your data based on your consent, to\ncomply with the law or to protect the rights, property or safety of us, our players or others.\n- elated group companies (CottonGame Technology Hong Kong Limited), with whom we share your personal information to operate\nthe Game Services;\n•\naw enforcement agencies, public authorities or other judicial bodies and organizations.\na third party that acquires all or substantially all of us or our business. We will disclose information to a third party in the event that\nwe sell or buy any business or undergo a merger, in which case we will disclose your data to the prospective buyer of such business. We will\nalso disclose information to a third party if we sell, buy, merge or partner with other companies or businesses, or sell some or all of our\nassets. In such transactions, user information may be among the transferred assets",
+      "justification": "The privacy policy states that personal information, which can include the user's name, is shared with 'related group companies' and third parties in the event of a merger or acquisition. This constitutes 'sharing' that must be declared in the Data Safety section.",
+      "how_to_fix": "In the Google Play Console, declare that 'Name' is shared with third parties. Ensure the purpose of sharing (e.g., app functionality) is also correctly declared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We share your personal information with selected third parties in and outside your country, including:\n•\n→ other players and users. Social features are a core component of our games. Other players and users may, for example, see your profile\ndata, in-game activities and read the messages you have posted.\n•\n- partners working for CottonGame. CottonGame has partners to perform services for us. These partners process your data only at and\naccording to CottonGame´s instructions to provide the Service, such as hosting, player support, advertising, analytics and fraud prevention.\n→ other companies and public authorities. In order to combat fraud and illegal activity, we may exchange data with other companies and\norganizations and provide it to public authorities in response to lawful requests. We may also disclose your data based on your consent, to\ncomply with the law or to protect the rights, property or safety of us, our players or others.\n- elated group companies (CottonGame Technology Hong Kong Limited), with whom we share your personal information to operate\nthe Game Services;\n•\naw enforcement agencies, public authorities or other judicial bodies and organizations.\na third party that acquires all or substantially all of us or our business. We will disclose information to a third party in the event that\nwe sell or buy any business or undergo a merger, in which case we will disclose your data to the prospective buyer of such business. We will\nalso disclose information to a third party if we sell, buy, merge or partner with other companies or businesses, or sell some or all of our\nassets. In such transactions, user information may be among the transferred assets",
+      "justification": "The privacy policy states that user data, which typically includes User IDs, is shared with 'related group companies' and third parties during a merger or acquisition. This is a declarable 'sharing' event under Google Play policies.",
+      "how_to_fix": "In the Google Play Console, declare that 'User IDs' are shared with third parties. Specify the purpose of this sharing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We share your personal information with selected third parties in and outside your country, including:\n•\n→ other players and users. Social features are a core component of our games. Other players and users may, for example, see your profile\ndata, in-game activities and read the messages you have posted.\n•\n- partners working for CottonGame. CottonGame has partners to perform services for us. These partners process your data only at and\naccording to CottonGame´s instructions to provide the Service, such as hosting, player support, advertising, analytics and fraud prevention.\n→ other companies and public authorities. In order to combat fraud and illegal activity, we may exchange data with other companies and\norganizations and provide it to public authorities in response to lawful requests. We may also disclose your data based on your consent, to\ncomply with the law or to protect the rights, property or safety of us, our players or others.\n- elated group companies (CottonGame Technology Hong Kong Limited), with whom we share your personal information to operate\nthe Game Services;\n•\naw enforcement agencies, public authorities or other judicial bodies and organizations.\na third party that acquires all or substantially all of us or our business. We will disclose information to a third party in the event that\nwe sell or buy any business or undergo a merger, in which case we will disclose your data to the prospective buyer of such business. We will\nalso disclose information to a third party if we sell, buy, merge or partner with other companies or businesses, or sell some or all of our\nassets. In such transactions, user information may be among the transferred assets",
+      "justification": "The policy describes sharing 'personal information' and 'user information' with 'related group companies' and in the case of a merger. This broad category, covered by 'Other info', represents declarable sharing with third parties.",
+      "how_to_fix": "In the Google Play Console, declare that 'Other info' is shared with third parties. If more specific data types are shared, declare those instead.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "a third party that acquires all or substantially all of us or our business. We will disclose information to a third party in the event that we sell or buy any business or undergo a merger, in which case we will disclose your data to the prospective buyer of such business. We will also disclose information to a third party if we sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets",
+      "justification": "The privacy policy states that 'user information', which can include in-app messages, may be transferred to a third party during a merger or acquisition. This transfer is considered 'sharing' and must be declared.",
+      "how_to_fix": "In the Google Play Console, declare that 'Other in-app messages' are shared with third parties, for example, in the context of business transfers.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• → other players and users. Social features are a core component of our games. Other players and users may, for example, see your profile data, in-game activities and read the messages you have posted.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy describes sharing in-game activities with other players as a core social feature of the game. This is a user-initiated action and does not need to be declared as 'sharing' with a third party.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' that requires a declaration in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• → other players and users. Social features are a core component of our games. Other players and users may, for example, see your profile data, in-game activities and read the messages you have posted.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy states that messages posted by the user are visible to other players. This is part of the app's core social functionality and is initiated by the user, exempting it from the 'sharing' declaration.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' that requires a declaration in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• → other players and users. Social features are a core component of our games. Other players and users may, for example, see your profile data, in-game activities and read the messages you have posted.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy describes sharing in-game activities with other players, which falls under 'Other actions'. This is a core, user-initiated social feature and is exempt from the 'sharing' declaration.",
+      "how_to_fix": "No action needed. This is not considered 'sharing' that requires a declaration in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

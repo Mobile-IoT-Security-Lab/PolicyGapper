@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We also share such identifiers and other information from your device with our social media, advertising and analytics partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We also share such identifiers and other information from your device with our social media, advertising and analytics partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We also share such identifiers and other information from your device with our social media, advertising and analytics partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We also share such identifiers and other information from your device with our social media, advertising and analytics partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We also share such identifiers and other information from your device with our social media, advertising and analytics partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We also share such identifiers and other information from your device with our social media, advertising and analytics partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We use the Replicate server to process facial data. We will save the user's facial image on our own Google server and also upload it to the Replicate server.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "Directory of third-party SDKs that may be accessed\nCategory\nFunction\nTypes of information collected\nFirebase SDK\nData statistical analysis service\nApplication software list\nAdmob Ads SDK\nGet and display ads\nUnique device identification code\n(Android ID)\nAppLovin Ads SDK\nGet and display ads\nDevice location information, unique\ndevice identification code (Android I\nD)\nGiphy SDK\nGet Gif picture\nNetwork status, unique device ident\nification code(Android ID)",
+      "justification": "The policy states the Firebase SDK collects the 'Application software list' for 'Data statistical analysis service', which means the data is sent off-device for processing and is not exempt.",
+      "how_to_fix": "Declare 'Installed apps' as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• Customer service and after-sales service:When you send feedback via email or provide us with an error report,we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services.",
+      "justification": "The policy states that 'email content' is collected when a user sends feedback. This data is sent off-device and is not processed ephemerally or under E2EE, so it is not exempt.",
+      "how_to_fix": "Declare 'Other User generated content' as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Directory of third-party SDKs that may be accessed\nCategory\nFunction\nTypes of information collected\nFirebase SDK\nData statistical analysis service\nApplication software list\nAdmob Ads SDK\nGet and display ads\nUnique device identification code\n(Android ID)\nAppLovin Ads SDK\nGet and display ads\nDevice location information, unique\ndevice identification code (Android I\nD)\nGiphy SDK\nGet Gif picture\nNetwork status, unique device ident\nification code(Android ID)",
+      "justification": "The policy indicates the Firebase SDK is used for 'Data statistical analysis service'. This involves collecting and sending performance-related data off-device and does not meet any exemption criteria.",
+      "how_to_fix": "Declare 'Other app performance data' as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Directory of third-party SDKs that may be accessed\nCategory\nFunction\nTypes of information collected\nFirebase SDK\nData statistical analysis service\nApplication software list\nAdmob Ads SDK\nGet and display ads\nUnique device identification code\n(Android ID)\nAppLovin Ads SDK\nGet and display ads\nDevice location information, unique\ndevice identification code (Android I\nD)\nGiphy SDK\nGet Gif picture\nNetwork status, unique device ident\nification code(Android ID)",
+      "justification": "The policy states that a 'Unique device identification code (Android ID)' is collected by multiple SDKs (Admob, AppLovin, Giphy). This ID is sent off-device for advertising and other services and is not exempt.",
+      "how_to_fix": "Declare 'Device or other IDs' as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Customer service and after-sales service:When you send feedback via email or provide us with an error report,we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services.",
+      "justification": "The policy states that 'username' is collected when users send feedback via email. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Name' as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Customer service and after-sales service:When you send feedback via email or provide us with an error report,we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services.",
+      "justification": "The policy states that 'email address' is collected when users send feedback via email. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Email address' as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Admob, AppLovin as advertisers of YouCut, may collect information generated during your use of our products and services, extract your preferences, and use them to show you ads that are more in line with your individual needs. We will use technical means to anonymize the data, and the anonymized information will not be able to identify the subject. If you are not interested in personalized display, you can choose to turn off the display of personalized content through \"Settings\"-\"Ad Personalization\". Please note that you may still see ads after turning off this option, but the relevance of ads will be reduced.",
+      "justification": "The policy states Admob and AppLovin collect information for personalized ads. This involves an advertising ID (a type of User ID) which is sent off-device. Anonymization after collection does not qualify for an exemption.",
+      "how_to_fix": "Declare 'User IDs' as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "• Customer service and after-sales service:When you send feedback via email or provide us with an error report,we will obtain your username, email address, and email content, so that we can communicate with you about problems encountered during the use of our products and services.",
+      "justification": "The policy states that 'email content' is collected when a user sends feedback. This data is sent off-device and is not processed ephemerally or under E2EE, so it is not exempt.",
+      "how_to_fix": "Declare 'Emails' as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "3) Cloud processing permission: When you choose to use Al features, we need this permission to upload your videos or images to our sever for processing, and then return the processed videos or images to you. We will delete the videos or images after the processed content is returned to you.",
+      "justification": "The policy explicitly states that images are uploaded to a server for processing ('upload your... images to our sever'). This is a clear case of off-device data transfer and is not exempt.",
+      "how_to_fix": "Declare 'Photos' as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "3) Cloud processing permission: When you choose to use Al features, we need this permission to upload your videos or images to our sever for processing, and then return the processed videos or images to you. We will delete the videos or images after the processed content is returned to you.",
+      "justification": "The policy explicitly states that videos are uploaded to a server for processing ('upload your videos... to our sever'). This is a clear case of off-device data transfer and is not exempt.",
+      "how_to_fix": "Declare 'Videos' as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

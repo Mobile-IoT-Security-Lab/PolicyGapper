@@ -1,0 +1,34 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "With your permission, the Application access information from your device, such as photo library, installed application list, and external SD card in order to function properly. If you choose to give us access, you may also link your use of the services with your cloud storage accounts.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "With your permission, the Application access information from your device, such as photo library, installed application list, and external SD card in order to function properly. If you choose to give us access, you may also link your use of the services with your cloud storage accounts.",
+"lang": "en"
+},
+{
+"data_type": "Music files",
+"policy_reference": "Files on shared device storage are used only to provide the services you have requested, such as file management, etc.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "Files on shared device storage are used only to provide the services you have requested, such as file management, etc.",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "Files on shared device storage are used only to provide the services you have requested, such as file management, etc.",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "When using the application, as appropriate, you may be asked to provide personal information. Personal information includes data such as (a) your name, email address, age, gender; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Application, and; (e) information you enter into our system when using the Application, such as contact information.",
+"lang": "en"
+}
+]
+}

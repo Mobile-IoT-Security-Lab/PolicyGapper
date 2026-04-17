@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    }
+  ]
+}

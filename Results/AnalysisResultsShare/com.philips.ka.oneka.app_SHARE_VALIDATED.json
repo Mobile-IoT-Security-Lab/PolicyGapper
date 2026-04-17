@@ -1,0 +1,38 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may also use your hashed and encrypted email address to identify and reach potential new customers who may share interests and/or behaviour similar to yours. We do so, for example, by creating segments and audiences and sharing this with platforms like Google, Meta or Amazon, where they can identify so-called lookalikes. With the support of Google, Meta or Amazon functionality, our ads are displayed to users in these audiences. It is a way to increase the efficiency of our marketing effort.",
+      "justification": "The policy states that user data (hashed email, which is linked to device IDs by the platforms) is shared with third-party advertising platforms like Google, Meta, and Amazon to create 'lookalike' audiences for marketing. This is a form of 'sharing' for advertising purposes that must be declared and is not covered by service provider exemptions.",
+      "how_to_fix": "In the Google Play Console Data safety section, declare that 'Device or other IDs' are 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may also use your hashed and encrypted email address to identify and reach potential new customers who may share interests and/or behaviour similar to yours. We do so, for example, by creating segments and audiences and sharing this with platforms like Google, Meta or Amazon, where they can identify so-called lookalikes. With the support of Google, Meta or Amazon functionality, our ads are displayed to users in these audiences. It is a way to increase the efficiency of our marketing effort.",
+      "justification": "The policy explicitly states that hashed and encrypted email addresses are shared with third-party platforms (Google, Meta, Amazon) to create 'lookalike' audiences for marketing. This constitutes 'sharing' for advertising purposes under Google Play's policy and is not covered by service provider exemptions.",
+      "how_to_fix": "In the Google Play Console Data safety section, declare that 'Email address' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Air Purifier Permissions:\nWeather and Air Quality information. When enabling this permission, the App shares your geo-location data (based on GPS, latitude and longitude) with a third party to provide you with a location map with air quality information in the Homepage of the App. This third party is AirMatters.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy indicates that location data is shared with a third party (AirMatters) for the sole purpose of providing a core app feature (air quality map) to the user. This qualifies as a service provider processing data on the developer's behalf and is exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required. This use case does not need to be declared as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "When you enable the Skill, Versuni allows you to connect your Amazon Account to the Versuni account you use to login to the App. When connecting your accounts, Versuni and Amazon independently adopt technical measures to validate your identity. Versuni shares account identifiers but does not share your account credentials, including name or email address, with Amazon.",
+      "reason_of_removal": "User-Initiated Action Exemption",
+      "justification": "The policy describes sharing 'account identifiers' as part of an explicit, user-initiated action ('When you enable the Skill... connect your Amazon Account'). Data transfers that are initiated by the user are exempt from being declared as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "No action required. This use case does not need to be declared as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

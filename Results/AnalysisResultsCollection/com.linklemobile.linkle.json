@@ -1,0 +1,59 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Usage Information. We collect information about your activity on our services, for instance how you use them (e.g., date and time you logged in, features you've been using, searches, clicks and pages which have been shown to you, referring webpage address) and how you interact with other users (e.g., users you connect and interact with, time and date of your exchanges, number of messages you send and receive).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Usage Information. We collect information about your activity on our services, for instance how you use them (e.g., date and time you logged in, features you've been using, searches, clicks and pages which have been shown to you, referring webpage address) and how you interact with other users (e.g., users you connect and interact with, time and date of your exchanges, number of messages you send and receive).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Device information. We collect information from and about the device(s) you use to access our services, including:\nΟ\nhardware and software information such as IP address, device ID and type, device-specific and apps settings an\ncharacteristics, app crashes, advertising IDs (such as Google's AAID and Apple's IDFA, both of which are\nrandomly generated numbers that you can reset by going into your device' settings), browser type, version and\nlanguage, operating system, time zones, identifiers associated with cookies or other technologies that may\nuniquely identify your device or browser (e.g., IMEI/UDID and MAC address);\nΟ\ninformation on your wireless and mobile network connection, like your service provider and signal strength;\ninformation on device sensors such as accelerometers, gyroscopes and compasses.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We use payment providers (e.g., Apple, Google) to process payments. When you subscribe to a paid service or make a purchase directly from us, you provide our payment service provider or us with information, such as your debit or credit card number or other financial information. Although we do not store any credit card information ourselves, we store a payment ID number that is given out by the respective provider and can be allocated to a person by that payment provider, as well as duration of your subscription, price, currency, VAT (based on countr info), and payment provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We use payment providers (e.g., Apple, Google) to process payments. When you subscribe to a paid service or make a purchase directly from us, you provide our payment service provider or us with information, such as your debit or credit card number or other financial information. Although we do not store any credit card information ourselves, we store a payment ID number that is given out by the respective provider and can be allocated to a person by that payment provider, as well as duration of your subscription, price, currency, VAT (based on countr info), and payment provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "We use payment providers (e.g., Apple, Google) to process payments. When you subscribe to a paid service or make a purchase directly from us, you provide our payment service provider or us with information, such as your debit or credit card number or other financial information. Although we do not store any credit card information ourselves, we store a payment ID number that is given out by the respective provider and can be allocated to a person by that payment provider, as well as duration of your subscription, price, currency, VAT (based on countr info), and payment provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may use and share non-personal data (meaning data that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other third parties (notably advertisers) to develop and deliver targeted advertising on our products or applications of third parties, and to analyze and report on advertising you see. We may combine this data with additional non-personal information or personal data in hashed, non-human readable form collected from other sources.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Other information with your consent. If you give us permission, we can collect your precise geolocation (latitude and longitude) through various means, depending on the service and device you're using, including GPS, Bluetooth or Wi-Fi connections. The collection of your geolocation may occur in the background even when you aren't using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your geolocation, we will not collect it. Similarly, if you consent, we may collect your photos and videos (for instance, if you want to publish a photo, video or streaming on the services).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We process your chats with other users as well as the content you publish, as part of the operation of the services.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Other information with your consent. If you give us permission, we can collect your precise geolocation (latitude and longitude) through various means, depending on the service and device you're using, including GPS, Bluetooth or Wi-Fi connections. The collection of your geolocation may occur in the background even when you aren't using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your geolocation, we will not collect it. Similarly, if you consent, we may collect your photos and videos (for instance, if you want to publish a photo, video or streaming on the services).",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Other information with your consent. If you give us permission, we can collect your precise geolocation (latitude and longitude) through various means, depending on the service and device you're using, including GPS, Bluetooth or Wi-Fi connections. The collection of your geolocation may occur in the background even when you aren't using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your geolocation, we will not collect it. Similarly, if you consent, we may collect your photos and videos (for instance, if you want to publish a photo, video or streaming on the services).",
+      "lang": "en"
+    }
+  ]
+}

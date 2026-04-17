@@ -1,0 +1,24 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "Hiface allows you to find your styles and in the Hiface application with other users, and if you choose to do so, your gender, photos, screenshots, and other communications will be stored on our servers. In addition, if you choose to share these items with other Hiface users, Hiface is not responsible for any use or misuse of information you share. In addition, in case your conversation partner reports your abusive behavior or language to us, then the conversation information such as voices, screenshots, or contents of conversation which has been stored only in your partner's device may be transferred to our servers. Such transferred information will be processed by us to ascertain the genuineness of the report and determine your penalty levels, if needed. The processed information will be removed after achieving the purpose, and we do not use such information for any purpose other than specified in this paragraph.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "Hiface may also collect and gather user contents (e.g., photos, screenshots, comments, and other materials) that you create on the Service. Your photo can be taken by other users on Hiface, and if they use the capturing function provided by Hiface, those photos can be stored and used for Hiface and third-party services (e.g., Facebook, etc.). You can change the sharing option of third parties on the Hiface settings. If you do not agree with all the terms of this Privacy Policy, please do not use the Service.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "Hiface allows you to find your styles and in the Hiface application with other users, and if you choose to do so, your gender, photos, screenshots, and other communications will be stored on our servers. In addition, if you choose to share these items with other Hiface users, Hiface is not responsible for any use or misuse of information you share. In addition, in case your conversation partner reports your abusive behavior or language to us, then the conversation information such as voices, screenshots, or contents of conversation which has been stored only in your partner's device may be transferred to our servers. Such transferred information will be processed by us to ascertain the genuineness of the report and determine your penalty levels, if needed. The processed information will be removed after achieving the purpose, and we do not use such information for any purpose other than specified in this paragraph.",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "The information you enter into your user profile (your “Profile”) may be shared with your Hiface contacts. You control your Profile, and you can access and modify your Profile from the Hiface application at any time. In addition, if you register with Hiface using your Facebook account (e.g., Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists, and birthdays). Your Profile is available to other users of the Service who are connected to you on Hiface.",
+"lang": "en"
+}
+]
+}

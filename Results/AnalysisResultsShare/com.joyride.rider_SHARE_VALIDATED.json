@@ -1,0 +1,21 @@
+```json
+{
+    "omitted_declarations": [
+        {
+            "data_type": "Device or other IDs",
+            "policy_reference": "To share your Personal Data amongst its subsidiaries, associate companies and jointly controlled entities as well as with its agent, vendor, supplier, partner, contractor or service provider who may communicate with you to market their products, services, events or promotions",
+            "justification": "The privacy policy states that personal data is shared with various third parties (subsidiaries, partners, service providers) for the purpose of marketing their own products and services. This is considered 'sharing' under Google Play's Data Safety policy and does not qualify for the service provider exemption, as the data is not being processed solely on the developer's behalf.",
+            "how_to_fix": "In your app's Data Safety form, declare that 'Device or other IDs' is 'Shared' with third parties.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Email address",
+            "policy_reference": "To share your Personal Data amongst its subsidiaries, associate companies and jointly controlled entities as well as with its agent, vendor, supplier, partner, contractor or service provider who may communicate with you to market their products, services, events or promotions",
+            "justification": "The privacy policy states that personal data is shared with various third parties (subsidiaries, partners, service providers) for the purpose of marketing their own products and services. This is considered 'sharing' under Google Play's Data Safety policy and does not qualify for the service provider exemption, as the data is not being processed solely on the developer's behalf.",
+            "how_to_fix": "In your app's Data Safety form, declare that 'Email address' is 'Shared' with third parties.",
+            "lang": "English"
+        }
+    ],
+    "excluded_declarations": []
+}
+```

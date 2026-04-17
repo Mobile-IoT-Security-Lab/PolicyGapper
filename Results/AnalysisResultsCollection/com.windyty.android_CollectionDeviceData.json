@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "For example, we automatically collect:\n•\nInformation about your device and device capabilities;\n•\nInformation about your device's operating system;\n•\nInformation about your browser;\n•\nInformation about how you use the Services;\n•\nYour activities on the Services;\n•\nMobile or internet carrier/provider;\n•\nBrowser type;\n•\nBrowser identifier;\n• Referring URL.\nThis information helps us to understand, analyze, and measure how users use\nthe Services; manage the Services' operations; diagnose problems; recognize\nrepeat visitors; and facilitate your access to and use of the Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "For example, we automatically collect:\n•\nInformation about your device and device capabilities;\n•\nInformation about your device's operating system;\n•\nInformation about your browser;\n•\nInformation about how you use the Services;\n•\nYour activities on the Services;\n•\nMobile or internet carrier/provider;\n•\nBrowser type;\n•\nBrowser identifier;\n• Referring URL.\nThis information helps us to understand, analyze, and measure how users use\nthe Services; manage the Services' operations; diagnose problems; recognize\nrepeat visitors; and facilitate your access to and use of the Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "For example, we automatically collect:\n•\nInformation about your device and device capabilities;\n•\nInformation about your device's operating system;\n•\nInformation about your browser;\n•\nInformation about how you use the Services;\n•\nYour activities on the Services;\n•\nMobile or internet carrier/provider;\n•\nBrowser type;\n•\nBrowser identifier;\n• Referring URL.\nThis information helps us to understand, analyze, and measure how users use\nthe Services; manage the Services' operations; diagnose problems; recognize\nrepeat visitors; and facilitate your access to and use of the Services.",
+      "lang": "English"
+    }
+  ]
+}

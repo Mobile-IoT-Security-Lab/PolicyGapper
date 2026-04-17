@@ -1,0 +1,62 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "3. Third-party SDK name: Sensors Data\nInformation collection types: IP address, sensor list, acceleration sensor, device information (device version, device manufacturer, device model information), device identification information (hardware serial number, IMEI, MAC address, IMSI information, IDFA, AndroidID), device status information, install application package name information, network information (WIFI parameter ssid), operator information, location information, IDFV, OAID, VAID, UUID, IMSI\nPurpose of use: It is used to initialize the SDK for data collection after the user agrees to the Privacy\nOperating systems: Android and iOS",
+      "justification": "The privacy policy states that 'install application package name information' is collected by the 'Sensors Data' SDK. The purpose is vaguely described as 'data collection', which does not clearly qualify for a service provider exemption. Sharing data with third-party SDKs for analytics or other non-exempt purposes must be declared.",
+      "how_to_fix": "In the Google Play Console, go to the 'Data safety' section. Under 'Data sharing', declare that 'Installed apps' data is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Third-Party Advertising Service Providers: We may collaborate with third-party advertising service providers to display relevant advertisements to you for the purposes described in this Privacy Policy and the Aqara Shop Privacy Policy. To improve service quality, enhance user experience, and support our business marketing activities, we may, in compliance with applicable laws and regulations, share certain personal information (such as your email address) with these partners when necessary to achieve the stated purposes. We are committed to sharing information only within the scope of lawful, legitimate, necessary, specific, and clearly defined purposes, and only to the extent required for the provision of advertising services. Our partners are prohibited from using the personal information they receive for any unauthorized purposes. We will not share your sensitive personal information (such as identification details, financial information, or biometric data) with any third parties-including advertising platforms, data brokers, or information resellers-without your explicit consent. Even with such consent, the sharing of sensitive information will be strictly limited to improving or delivering the functionality of our websites, applications, products, or services.",
+      "justification": "The privacy policy explicitly states that personal information, including email addresses, is shared with 'Third-Party Advertising Service Providers' to 'display relevant advertisements'. This is a non-exempt form of data sharing that must be declared.",
+      "how_to_fix": "In the Google Play Console, go to the 'Data safety' section. Under 'Data sharing', declare that 'Email address' is shared with third parties for advertising purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "4. Third-party SDK name: Application performance monitoring full-link version App monitoring SDK\nInformation collection types:\n(1) Device information: device ID, device model, operating system, system time zone, screen resolution, disk usage, memory usage, number of running threads, CPU information (frequency, model, architecture), mobile device country code (MCC), Mobile Device Network Coding (MNC), device dpi; Android ID, device brand, operating system api version, user agent, battery power, network traffic, device abi, ROM;\n(2) Application information: application version, application package name, process startup time, crash time, crashed thread name, active page name, all thread stacks of the current process, application service log information, application file name, application file size, disk size; fd list;\n(3) System and network identification information: user ID, IP address, operator information, network access mode.\nPurpose of use: Use automation programs and algorithms to identify devices, obtain device status (online, offline, and network environment), perform device count statistics, and debug single device problems.\nOperating systems: Android and iOS",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy indicates this data is processed by an 'Application performance monitoring' SDK for debugging and statistics. This qualifies as a service provider processing data on the developer's behalf, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This data transfer is exempt from the 'sharing' disclosure requirement as it is with a service provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "13. Third-party SDK name: Tencent Bugly Pro SDK\nInformation collection types: (1) For Android devices: Log information (including third-party developer custom logs, Logcat logs, and App crash stack information), device identification information (IMEI [for versions below Android Q], IMSI, MAC address, Android ID, and IDFV), phone model, phone brand, phone system API level, CPU architecture type, whether the device is rooted, disk space usage, SD card space usage, memory space usage, network information, network type, system name, system version, country code, phone serial number, current running process name and PID. (2) For iOS devices: Device model, operating system name and version, operating system internal version number, Wi-Fi status, CPU attributes, remaining memory space, disk space/disk remaining space, runtime phone status (memory used by processes, virtual memory, etc.), IDFV, whether the device is jailbroken, area code.\nPurpose of use: To collect statistics on APP abnormal situations and troubleshoot crashes.\nOperating systems: Android and iOS",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states the 'Tencent Bugly Pro SDK' is used to 'troubleshoot crashes'. This is a standard service provider function for app diagnostics and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This data transfer is exempt from the 'sharing' disclosure requirement as it is with a service provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "13. Third-party SDK name: Tencent Bugly Pro SDK\nInformation collection types: (1) For Android devices: Log information (including third-party developer custom logs, Logcat logs, and App crash stack information), device identification information (IMEI [for versions below Android Q], IMSI, MAC address, Android ID, and IDFV), phone model, phone brand, phone system API level, CPU architecture type, whether the device is rooted, disk space usage, SD card space usage, memory space usage, network information, network type, system name, system version, country code, phone serial number, current running process name and PID. (2) For iOS devices: Device model, operating system name and version, operating system internal version number, Wi-Fi status, CPU attributes, remaining memory space, disk space/disk remaining space, runtime phone status (memory used by processes, virtual memory, etc.), IDFV, whether the device is jailbroken, area code.\nPurpose of use: To collect statistics on APP abnormal situations and troubleshoot crashes.\nOperating systems: Android and iOS",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states the 'Tencent Bugly Pro SDK' is used to 'troubleshoot crashes'. This is a standard service provider function for app diagnostics and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This data transfer is exempt from the 'sharing' disclosure requirement as it is with a service provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "4. Third-party SDK name: Application performance monitoring full-link version App monitoring SDK\nInformation collection types:\n(1) Device information: device ID, device model, operating system, system time zone, screen resolution, disk usage, memory usage, number of running threads, CPU information (frequency, model, architecture), mobile device country code (MCC), Mobile Device Network Coding (MNC), device dpi; Android ID, device brand, operating system api version, user agent, battery power, network traffic, device abi, ROM;\n(2) Application information: application version, application package name, process startup time, crash time, crashed thread name, active page name, all thread stacks of the current process, application service log information, application file name, application file size, disk size; fd list;\n(3) System and network identification information: user ID, IP address, operator information, network access mode.\nPurpose of use: Use automation programs and algorithms to identify devices, obtain device status (online, offline, and network environment), perform device count statistics, and debug single device problems.\nOperating systems: Android and iOS",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy indicates this data is processed by an 'Application performance monitoring' SDK for debugging and statistics. This qualifies as a service provider processing data on the developer's behalf, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This data transfer is exempt from the 'sharing' disclosure requirement as it is with a service provider.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "2. Third-party SDK Name: Google SDK\nInformation Collection Types: Device Identifiers: IMEI or OAID, SN, IMSI, Android ID, GAID. Application Information: App registration and version number, operating status. Network Information:IP or domain connection results, current network type. Running Process Information.\nPurpose of Use: Google account authorization login\nOperating systems: Android and iOS",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states the Google SDK uses this data for 'Google account authorization login'. This is a core app function provided by a service provider on the developer's behalf and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action is required for this item. This data transfer is exempt from the 'sharing' disclosure requirement as it is with a service provider.",
+      "lang": "English"
+    }
+  ]
+}
+```

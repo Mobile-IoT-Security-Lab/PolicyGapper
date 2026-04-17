@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "There are various possible explanations for this:\n- you are browsing and clicking at a speed much faster than expected of a human\nbeing\n- something is preventing Javascript from working on your computer\n- there is a robot on the same network (IP 87.21.134.87) as you",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "There are various possible explanations for this:\n- you are browsing and clicking at a speed much faster than expected of a human\nbeing\n- something is preventing Javascript from working on your computer\n- there is a robot on the same network (IP 87.21.134.87) as you",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "There are various possible explanations for this:\n- you are browsing and clicking at a speed much faster than expected of a human\nbeing\n- something is preventing Javascript from working on your computer\n- there is a robot on the same network (IP 87.21.134.87) as you",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "There are various possible explanations for this:\n- you are browsing and clicking at a speed much faster than expected of a human\nbeing\n- something is preventing Javascript from working on your computer\n- there is a robot on the same network (IP 87.21.134.87) as you",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "There are various possible explanations for this:\n- you are browsing and clicking at a speed much faster than expected of a human\nbeing\n- something is preventing Javascript from working on your computer\n- there is a robot on the same network (IP 87.21.134.87) as you",
+      "lang": "English"
+    }
+  ]
+}

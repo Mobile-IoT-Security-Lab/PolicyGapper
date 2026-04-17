@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Log file: During the usage of the app, the data and information collected (through third-party products) on your phone in case of an error in the app called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when using the app, the time and date of your use of the Service, and other statistics.",
+      "lang": "English"
+    }
+  ]
+}

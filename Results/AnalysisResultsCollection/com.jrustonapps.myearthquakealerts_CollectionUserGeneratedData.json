@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User. These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User. These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.",
+      "lang": "en"
+    }
+  ]
+}

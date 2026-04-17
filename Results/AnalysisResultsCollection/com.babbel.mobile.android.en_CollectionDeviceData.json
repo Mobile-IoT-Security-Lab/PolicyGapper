@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "2.1.4 We process feedback and information you provide in\nstudies, research projects, surveys or (video) interviews.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Examples\nBrowsing history, search history, information regarding consumer's interaction\nwith a website, application, or advertisement.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Examples\nBrowsing history, search history, information regarding consumer's interaction\nwith a website, application, or advertisement.",
+      "lang": "English"
+    }
+  ]
+}

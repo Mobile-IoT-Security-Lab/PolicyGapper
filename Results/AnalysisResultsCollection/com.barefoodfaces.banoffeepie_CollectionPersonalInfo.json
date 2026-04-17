@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "For some personal data such as „Steps count“, „Heart rate“, „Location\", etc. to be shown on your watch the app may ask your permission. Those permissions are asked only to display data on your watch and data are not stored or sent to BarefootDials. You may refuse to give permissions but some parts of the watch face that rely on that permission may not work (for example temperatures from a weather watch face may not display without permission to location).",
+      "lang": "English"
+    }
+  ]
+}

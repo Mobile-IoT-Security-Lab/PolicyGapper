@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "1.5 - Correspondence Data. While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address (“Personal Information”). We may collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services. You have the right to request its deletion by contacting us. The personal information will be delisted within 30 days upon receiving the request.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "1.6 - Facial Data Processing, for not authorized users:\n• If you store your avatar that contains your face picture («selfie\"), you give us the right to store this picture on our server and you have the right to request its deletion by contacting us. The picture will be delisted within 30 days upon receiving the request.",
+"lang": "en"
+}
+]
+}

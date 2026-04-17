@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "User-Generated Content: When we provide you the opportunity to upload or share user-generated content, we will collect information that you provide to us through our Content, such as photographs, video images or other content that you may upload.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "User-Generated Content: When we provide you the opportunity to upload or share user-generated content, we will collect information that you provide to us through our Content, such as photographs, video images or other content that you may upload.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Certain functionalities on the Content permit interactions that you initiate between the Content and certain Third-Party Services, such as third-party social networks (\"Social Features\"). Examples of Social Features include: enabling you to send content such as contacts and photos between the Content and a Third-Party Service; \"liking\" or \"sharing\" SPE's content; logging in to the Content using your Third-Party Service account (e.g., using Facebook Connect to sign-in to the Service); and to otherwise connect the Content to a Third-Party Service (e.g., to pull or push information to or from the Content). If you use Social Features, and potentially other Third-Party Services, information you post or provide access to may be publicly displayed on the Content or by the Third-Party Service that you use. Similarly, if you post information on a Third-Party Service that references the Content (e.g., by using a hashtag associated with SPE or Sony group companies in a tweet or status update), your post may be used on or in connection with the Content or otherwise by SPE and Sony group companies. Also, both SPE and the third party may have access to certain information about you and your use of the Content and any Third-Party Service.",
+      "lang": "en"
+    }
+  ]
+}

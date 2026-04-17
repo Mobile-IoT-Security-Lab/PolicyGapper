@@ -1,0 +1,171 @@
+We have redesigned this Privacy Policy to help you understand what data we and our trusted
+partners collect, why we collect it and what we do with it. Please take your time and read this
+document carefully.
+---
+• "Partners" referring to 3rd party services that we use to provide you with our services -
+for a complete listing of our Partners and their Privacy Policies see the Our Partners
+section
+---
+2. Information we collect and use
+When you interact with our Apps, our trusted partners may collect information about your
+device. The process of collecting data is designed so that it avoids collection of information
+that identifies you personally, such as your name, address, email address or similar; instead,
+the information collected does enable us and our partners to recognize your device over time
+for purposes of improving the quality of our products and your experience with them.
+---
+Information that is collected by our partners may be divided into the following categories.
+---
+A. Information for showing personalized ads
+Note: This section (Section A) applies only to Apps that display ads. It does not apply to the
+following:
+
+1. Apps that do not display ads
+2. Pro (Ad-free) Apps that are available with a one-time purchase
+3. Apps that have been upgraded to Premium via a paid subscription and do not display ads
+
+In order to provide our Apps to you for free we display ads. To display ads, we work with our
+ad partners who may have their SDK/API integrated with our Apps. In order to improve user
+targeting, which is important for interest-based ads and marketing solutions relevant to the
+user, our partners may obtain and lawfully use information such as the following:
+
+a) Device and account identifiers - Ad id (advertising id), app set ID and other identifiers
+related to accounts that are signed-in on the device.
+b) IP address - Can be used to estimate the general location of a device
+c) User product interactions and interaction information - App launches, taps and video
+views
+d) Diagnostic information - Information is related to the performance of our Apps and the
+SDK, crash logs, app launch time, hang time and energy usage.
+e) Precise location - Ad networks may obtain your location in order to show to you relevant
+ads.
+---
+This information may be shared with their clients for the permitted purposes stated above
+(whether within or outside of the country of origin). All such collection permitted processing
+and transfer will be in accordance with applicable data privacy laws.
+---
+B. Information for analyzing application performance issues and
+crashes
+In order to improve our Apps, we use third party services (our analytics partners) to collect
+and analyze error and performance issues. The information collected in the case of an error
+is divided into two categories.
+
+• Device/hardware information
+Includes information such as device model, screen information, total memory, internal
+and external storage, device language, and Android version
+• Error or performance related information
+Includes error description, time that the error occurred, stack trace (a detailed error
+report), free memory and free disk space at the time of the error, etc.
+---
+When you use our Apps, we use our analytics partners to collect usage statistics and trends.
+The reason we collect this information is so that we can improve your experience with our
+Apps by improving existing functionality and adding new functionality.
+---
+Note that all mixes that you create (or have created) using our app will be shared with the
+rest of the members of the community once you join the Bliss Community.
+---
+a) Enable all members of the Bliss Community to have access to the mixes that each of the
+members shares.
+---
+Joining the Bliss Community/Signing-in
+
+You can join (sign-in to) the Bliss Community using any of the following ways:
+
+a) Using an existing Google account
+b) Using an existing Facebook account
+c) Using an existing email address to create a new account with us
+---
+4. Our Ad partners
+We use the following partners in order to serve ads to you. Make sure to click on each of the
+following services and review their Privacy Policy.
+
+• Google LLC
+• Meta Audience Network (Facebook).
+---
+• Amazon Publisher Services
+• Yandex LLC
+• Aarki
+• Triple Lift Inc
+• Liftoff Inc
+• Smaato Inc
+• AppLovin Corporation
+• Liftoff Mobile Inc
+• (Vidopia Inc) DBA Chocolate
+• Fluct
+• Index Exchange
+• Inmobi
+• Media.Net Advertising FZ-LLC
+• Mobfox US LLC
+• OneTag Limited
+• OpenX
+• PubMatic
+• Magnite
+• Equativ
+• TripleLift
+• Unruly, LLC
+---
+For a complete list of our ad-partners click here.
+---
+5. Our Analytics partners
+We use the following partners to collect error and performance information, identify issues in
+our Apps, analyze our traffic and usage trends and improve our services to you.
+
+• Google / Firebase (for Analytics and Crashlytics):
+Google Privacy Policy and Firebase Privacy and Security.
+• Adjust
+---
+In order to provide the above information, our partners may obtain and lawfully use
+information such as the following:
+
+• Crashlytics Installation UUIDs, Crash traces, Breakpad minidump formatted data
+(to provide crash-related information)
+• Firebase installation IDs (to help Firebase In-app messaging determine which devices
+to deliver a message, associate predictions with a project, deliver configuration values to
+end-user devices and more)
+• Mobile ad IDs, IDFVs/Android IDs, Firebase installation IDs, Analytics App Instance
+IDs (to provide analytics and attribution information)
+• Firebase user agent (used internally by Google to determine platform and version
+adoption in order to provide and improve Firebase services)
+---
+To opt-out of personal advertising and sharing or selling of your data you should not consent
+to information sharing for personalized ads. You can do this on the first popup screen that
+shows the first time you run our app. You may update your decision at any time by selecting
+the 'Update consent' option under the settings section of our apps.
+---
+To prevent ad partners from using your device's ad identifier being used for interest-based
+advertising you can change the relevant settings on your device. Please see
+optout.networkadvertising.org for details
+---
+If you live in the USA, Europe or Canada, you can also opt-out from the collection of your
+information by some or all of our advertising partners who participate in the Digital
+Advertising Alliance by visiting www.aboutads.info/choices (for US users),
+youronlinechoices.com (for European users) or youradchoices.ca/choices (for Canadian
+users).
+---
+If you have any questions regarding the collection of data you can contact our ad partners
+and analytics partners directly - see sections 3 and 4 above.
+---
+Privacy Rights for Virginia Residents
+
+If you are a resident of Virginia, you have rights and protections under the Virginia Consumer
+Data Protection Act (VCDPA) in relation to your personal data collected by businesses. This
+includes the right to access your personal data that we and our partners process, correct
+inaccuracies, delete your data, and opt out of certain data processing practices. To exercise
+your rights under the VCDPA related to data collected through use of our Android app, please
+contact us at the email provided under the Controller section with your request and we will
+assist with facilitating your VCDPA rights with our advertising and analytics partners. Please
+specify Virginia VCDPA in your request. We will confirm receipt of your VCDPA request within
+5 days and respond substantively to all valid requests within 45 days as required by Virginia
+law.
+---
+Data Retention
+
+As we do not directly collect or store any personal user data within our Android app, data
+retention responsibilities fall to our trusted advertising and analytics partners who may
+collect some usage data through interactions with our app. Based on our agreements, data
+retained by these companies related to our app is stored as long as necessary to fulfill their
+business purposes, which may include attribution, analytics, providing relevant advertising,
+personalization of services, compliance with legal obligations, and other legitimate interests.
+We encourage you to review the privacy policies of our partners to understand their specific
+retention periods that may apply to data linked to you through use of our app. As a general
+rule, most data is typically retained for anywhere from 6 months to 5 years, depending on the
+type of data and its use cases within their systems. However, you have the right to request
+deletion of your information by contacting our partners directly at any time.

@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Please note that certain features of the Services may be able to connect to your social networking sites to obtain additional information about you. In such cases, FLAVAPP may be able to collect certain information from your social networking profile when your social networking site permits it, and when you consent to allow your social networking site to make that information available to FLAVAPP. This information may include, but is not limited to, your name, profile picture, gender, user ID, email address, your country, your language, your time zone, the organizations and links on your profile page, the names and profile pictures of your social networking site “friends” and other information you have included in your social networking site profile. FLAVAPP may associate and/or combine as well as use information collected by FLAVAPP and/or obtained through such social networking sites in accordance with this Privacy Policy.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "For purposes of this Privacy Policy, “personal data” means personally identifiable information that specifically identifies you as an individual. Personal information collected by FLAVAPP is information voluntarily provided to us by you when you create your account or change your account information. The information includes your facebook id, name, gender, location and your friends'id on facebook. FLAVAPP also stores your game checkins, likes, dislikes, recommendations and messages. FLAVAPP may use collected personal data for purposes of analyzing usage of the Services, providing customer and technical support, managing and providing Services (including managing advertisement serving) and to further develop the Services and other FLAVAPP services and products. FLAVAPP may combine non-personal data with personal data.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Please note that certain features of the Services may be able to connect to your social networking sites to obtain additional information about you. In such cases, FLAVAPP may be able to collect certain information from your social networking profile when your social networking site permits it, and when you consent to allow your social networking site to make that information available to FLAVAPP. This information may include, but is not limited to, your name, profile picture, gender, user ID, email address, your country, your language, your time zone, the organizations and links on your profile page, the names and profile pictures of your social networking site “friends” and other information you have included in your social networking site profile. FLAVAPP may associate and/or combine as well as use information collected by FLAVAPP and/or obtained through such social networking sites in accordance with this Privacy Policy.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Please note that certain features of the Services may be able to connect to your social networking sites to obtain additional information about you. In such cases, FLAVAPP may be able to collect certain information from your social networking profile when your social networking site permits it, and when you consent to allow your social networking site to make that information available to FLAVAPP. This information may include, but is not limited to, your name, profile picture, gender, user ID, email address, your country, your language, your time zone, the organizations and links on your profile page, the names and profile pictures of your social networking site “friends” and other information you have included in your social networking site profile. FLAVAPP may associate and/or combine as well as use information collected by FLAVAPP and/or obtained through such social networking sites in accordance with this Privacy Policy.",
+      "lang": "en"
+    }
+  ]
+}

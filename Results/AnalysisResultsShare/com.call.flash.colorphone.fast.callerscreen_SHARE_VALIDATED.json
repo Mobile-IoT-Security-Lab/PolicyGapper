@@ -1,0 +1,30 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may allow the third-party online advertising network such as Google Admob and Facebook ads to collect information about your use of our App over time for playing or displaying ads that may be of interest to you.",
+      "justification": "The policy states that information about app usage is collected by third-party advertising networks for interest-based advertising. This constitutes 'sharing' for 'Advertising or marketing' purposes under Google Play's policy and is not exempt.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'App interactions' are 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "3) We do not sell your personal information. We do allow our advertising partners to collect certain device identifiers and electronic network activity via our app to show ads that are based on your interests. If you prefer to limit this activity, your device may include a feature'Opt Out of Interest-Based Ads' or 'Opt Out of Ads Personalization' on Android) that allows you to opt out of having certain information collected through mobile apps used for interest-based advertising purposes.",
+      "justification": "The policy explicitly states that 'device identifiers' are collected by advertising partners to show interest-based ads. This is a non-exempt 'sharing' activity under Google Play's policy.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'Device or other IDs' are 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "3) We do not sell your personal information. We do allow our advertising partners to collect certain device identifiers and electronic network activity via our app to show ads that are based on your interests. If you prefer to limit this activity, your device may include a feature'Opt Out of Interest-Based Ads' or 'Opt Out of Ads Personalization' on Android) that allows you to opt out of having certain information collected through mobile apps used for interest-based advertising purposes.",
+      "reason_of_removal": "Inconsistent: Policy reference does not mention this data type.",
+      "justification": "The policy text explicitly mentions the collection of 'device identifiers' but does not mention 'User IDs' (such as account IDs). Therefore, this specific data type is not supported by the provided reference.",
+      "how_to_fix": "If 'User IDs' are not shared, no action is needed. If they are shared for advertising, update the privacy policy to explicitly state this and declare it in the Data Safety form.",
+      "lang": "English"
+    }
+  ]
+}
+```

@@ -1,0 +1,84 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User Published Content\nIf you choose to publish content (such as a review or comment) on the Grab Platform, it will be shown publicly along with your personal data (such as username, uploaded photo(s)), and other information you have included in your content. For more information, see our Review Guidelines. (https://www.grab.com/sg/terms-policies/ugc-terms-reviews)",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "For business-tagged transactions, Grab discloses to Client information such as the Authorized User's identifiers and detailed booking information to facilitate corporate billing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Grab may allow third parties to use Cookies to collect the same type of Personal Data for the same purposes Grab does for itself. Third parties may be able to associate the Personal Data they collect with other Personal Data they have about you from other sources. We do not necessarily have access to or control over the Cookies they use.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We may need to share information with various parties for the Purposes. These parties include:\n•\nGD Customers, with whom you are registered as a user;\nOur subsidiaries and affiliates;\nOur service providers (for example, we use Amazon Web Services' cloud to host your information); and\n• Our legal advisors, law enforcement officials and government authorities.\nSave for the above mentioned parties, we will not disclose your information to any other third party.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "if you are a passenger, we may share your username, pick-up and drop-off locations with our driver partner fulfilling your service request;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you requested a service through a Grab partner or used a promotion provided by a Grab partner, Grab may share your Personal Data with that Grab partner.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Grab may allow third parties to use Cookies to collect the same type of Personal Data for the same purposes Grab does for itself. Third parties may be able to associate the Personal Data they collect with other Personal Data they have about you from other sources. We do not necessarily have access to or control over the Cookies they use.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "if you are using our GrabFood or GrabMart service, we may share your Personal Data with our delivery partner and selected merchant-partner, including your name, contact details, order information and drop off location;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "if you are using our GrabFood or GrabMart service, we may share your Personal Data with our delivery partner and selected merchant-partner, including your name, contact details, order information and drop off location;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We may provide Personal Data to our vendors, consultants, marketing partners, research firms, and other service providers or business partners. This includes:\n• payment processors and facilitators;\n• debt collectors;\n• credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit\nreporting organisations;\n• background check and anti-money laundering service providers;\n• risk intelligence and fraud assessment providers;\n• cloud storage providers;\n• document storage and management providers;\n• advertising and marketing partners and platform providers;\n• data analytics providers;\n• research partners, including those performing surveys or research projects in partnership with Grab or on Grab's\nbehalf;\n• educational and training institute partners;\n• fleet and merchant partners;\n•\ninsurance and financing partners;\n• third party intermediaries involved in the managed investment of funds, such as brokers, asset managers, and\ncustodians;\n• service providers who perform identity verification services; and\n• vehicle solutions partners, vendors or third-party vehicle suppliers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "your employer may receive transaction data (tagged as business expenses) when you use your employer's Grab for Business account.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "We may provide Personal Data to our vendors, consultants, marketing partners, research firms, and other service providers or business partners. This includes:\n• payment processors and facilitators;\n• debt collectors;\n• credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit\nreporting organisations;\n• background check and anti-money laundering service providers;\n• risk intelligence and fraud assessment providers;\n• cloud storage providers;\n• document storage and management providers;\n• advertising and marketing partners and platform providers;\n• data analytics providers;\n• research partners, including those performing surveys or research projects in partnership with Grab or on Grab's\nbehalf;\n• educational and training institute partners;\n• fleet and merchant partners;\n•\ninsurance and financing partners;\n• third party intermediaries involved in the managed investment of funds, such as brokers, asset managers, and\ncustodians;\n• service providers who perform identity verification services; and\n• vehicle solutions partners, vendors or third-party vehicle suppliers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "We may provide Personal Data to our vendors, consultants, marketing partners, research firms, and other service providers or business partners. This includes:\n• payment processors and facilitators;\n• debt collectors;\n• credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit\nreporting organisations;\n• background check and anti-money laundering service providers;\n• risk intelligence and fraud assessment providers;\n• cloud storage providers;\n• document storage and management providers;\n• advertising and marketing partners and platform providers;\n• data analytics providers;\n• research partners, including those performing surveys or research projects in partnership with Grab or on Grab's\nbehalf;\n• educational and training institute partners;\n• fleet and merchant partners;\n•\ninsurance and financing partners;\n• third party intermediaries involved in the managed investment of funds, such as brokers, asset managers, and\ncustodians;\n• service providers who perform identity verification services; and\n• vehicle solutions partners, vendors or third-party vehicle suppliers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "if you are a passenger, we may share your username, pick-up and drop-off locations with our driver partner fulfilling your service request;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "if you are a passenger, we may share your username, pick-up and drop-off locations with our driver partner fulfilling your service request;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• if you are participating in loyalty programmes or marketing activities organized by our merchant-partners, we may share your Personal Data with them, including your name and contact details;",
+      "lang": "English"
+    }
+  ]
+}

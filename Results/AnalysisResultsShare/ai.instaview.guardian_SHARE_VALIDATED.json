@@ -1,0 +1,60 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of our website and mobile application and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by InstaVision and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Your device may also include a feature ( \"Limit Ad Tracking\" on iOS, or \"Opt Out of Interest-Based Ads\" or \"Opt Out of Ads Personalization\" on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.",
+      "justification": "The policy states that third parties collect information such as 'pages viewed, time spent on pages or in apps, links clicked, and conversion information' for targeted advertising. This is considered sharing and must be declared.",
+      "how_to_fix": "Declare that the app shares 'App interactions' with third parties for 'Advertising or marketing' purposes in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of our website and mobile application and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by InstaVision and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Your device may also include a feature ( \"Limit Ad Tracking\" on iOS, or \"Opt Out of Interest-Based Ads\" or \"Opt Out of Ads Personalization\" on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.",
+      "justification": "The policy states that third parties collect information about the user's activity on 'our website and mobile application and other websites and applications' for targeted advertising. This is considered sharing and must be declared.",
+      "how_to_fix": "Declare that the app shares 'Web browsing history' with third parties for 'Advertising or marketing' purposes in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of our website and mobile application and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by InstaVision and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Your device may also include a feature ( \"Limit Ad Tracking\" on iOS, or \"Opt Out of Interest-Based Ads\" or \"Opt Out of Ads Personalization\" on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.",
+      "justification": "The policy explicitly states that third parties collect 'device identifiers' for targeted advertising. This is considered sharing and must be declared.",
+      "how_to_fix": "Declare that the app shares 'Device or other IDs' with third parties for 'Advertising or marketing' purposes in the Google Play Console's Data safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of our website and mobile application and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by InstaVision and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Your device may also include a feature ( \"Limit Ad Tracking\" on iOS, or \"Opt Out of Interest-Based Ads\" or \"Opt Out of Ads Personalization\" on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.",
+      "justification": "The policy states that third parties collect 'IP address', which can be used to determine approximate location, for targeted advertising. This is considered sharing and must be declared.",
+      "how_to_fix": "Declare that the app shares 'Approximate location' with third parties for 'Advertising or marketing' purposes in the Google Play Console's Data safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Photos",
+      "policy_reference": "We will not share data except in the following circumstances:\nWith vendors, consultants, and other service providers who need access to such information to carry\nout work on our behalf; In response to a request for information if we believe disclosure is in accordance\nwith, or required by, any applicable law or legal process, including lawful requests by public authorities\nto meet national security or law enforcement requirements; If we believe your actions are inconsistent\nwith our user agreements or policies, or to protect the rights, property, and safety of InstaVision or\nothers; In connection with, or during negotiations of, any merger, sale of company assets, financing or\nacquisition of all or a portion of our business by another company; and with your consent or at your\ndirection.",
+      "reason_of_removal": "Inconsistent: The policy reference is a generic sharing clause that does not mention the specific data type.",
+      "justification": "The provided policy text describes general circumstances for data sharing but does not confirm that 'Photos' are collected or shared by the app.",
+      "how_to_fix": "If the app does not collect or share this data type, no action is needed. If it does, update the privacy policy to explicitly mention this data type and its handling.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We will not share data except in the following circumstances:\nWith vendors, consultants, and other service providers who need access to such information to carry\nout work on our behalf; In response to a request for information if we believe disclosure is in accordance\nwith, or required by, any applicable law or legal process, including lawful requests by public authorities\nto meet national security or law enforcement requirements; If we believe your actions are inconsistent\nwith our user agreements or policies, or to protect the rights, property, and safety of InstaVision or\nothers; In connection with, or during negotiations of, any merger, sale of company assets, financing or\nacquisition of all or a portion of our business by another company; and with your consent or at your\ndirection.",
+      "reason_of_removal": "Inconsistent: The policy reference is a generic sharing clause that does not mention the specific data type.",
+      "justification": "The provided policy text describes general circumstances for data sharing but does not confirm that 'Videos' are collected or shared by the app.",
+      "how_to_fix": "If the app does not collect or share this data type, no action is needed. If it does, update the privacy policy to explicitly mention this data type and its handling.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We will not share data except in the following circumstances:\nWith vendors, consultants, and other service providers who need access to such information to carry\nout work on our behalf; In response to a request for information if we believe disclosure is in accordance\nwith, or required by, any applicable law or legal process, including lawful requests by public authorities\nto meet national security or law enforcement requirements; If we believe your actions are inconsistent\nwith our user agreements or policies, or to protect the rights, property, and safety of InstaVision or\nothers; In connection with, or during negotiations of, any merger, sale of company assets, financing or\nacquisition of all or a portion of our business by another company; and with your consent or at your\ndirection.",
+      "reason_of_removal": "Inconsistent: The policy reference is a generic sharing clause that does not mention the specific data type.",
+      "justification": "The provided policy text describes general circumstances for data sharing but does not confirm that 'Voice or sound recordings' are collected or shared by the app.",
+      "how_to_fix": "If the app does not collect or share this data type, no action is needed. If it does, update the privacy policy to explicitly mention this data type and its handling.",
+      "lang": "English"
+    }
+  ]
+}
+```

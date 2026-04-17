@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may share your personal information with our trusted third party partners for their own marketing purposes. We will only do this where you have given us your consent to do so. These third parties may include: Social media platforms such as Facebook, TikTok, Snapchat and Twitter to provide you with interest-based advertising on those platforms. Third party advertisers and advertising networks such as Google, to provide you with interest-based advertising.",
+      "lang": "English"
+    }
+  ]
+}

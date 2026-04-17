@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "When you request deletion of your data, our team will delete all: • collages backed up or stored on our server; • user records, including any email or device identifiers and avatars; • activity logs; • avatars, comments, or PicCollage Services related social activity we have stored from now-defunct PicCollage Social platform; and • data stored by us on third-party services we use, such as • Google Cloud • Amazon Web Services",
+      "lang": "English"
+    }
+  ]
+}

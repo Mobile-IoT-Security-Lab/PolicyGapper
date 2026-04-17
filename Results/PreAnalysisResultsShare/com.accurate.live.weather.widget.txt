@@ -1,0 +1,19 @@
+This Privacy Policy describes how we(Fillog Studio, Shenzhen Chai Lai Techenology Co., Ltd. and so on) collect the
+information when you use our applications downloaded from Google Play Store or Apple app store or other third party
+app store. The Policy also explains how we use and disclose the information collected from you.
+---
+■ Will the data be shared with any third parties? Where will this information be stored?
+We use the Replicate server to process facial data. We will save the user's facial image on our own Google server and also
+upload it to the Replicate server.
+---
+■ How long will facial data be retained?
+To be used as server cache, facial data is only retained on the server for 24 hours. Followed by a replicate privacy link,
+https://replicate.com/privacy
+---
+How We Use the Information above?
+We also share such identifiers and other information from your device with our social media, advertising and analytics
+partners.
+---
+Other
+Facebook Ads Privacy Policy:
+https://www.facebook.com/about/privacy/

@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator's own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, AdQuick, and Parse.ly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator's own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, AdQuick, and Parse.ly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator's own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, AdQuick, and Parse.ly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator's own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, AdQuick, and Parse.ly.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Creators: when you subscribe to a Creator's publication, we provide them the information necessary (including your name and email address) to provide you their publication(s). Please note that Creators control their own publications; accordingly, when you interact with a Creator's publication in a way that requires your personal information, including when commenting on a publication that you have not subscribed to, that personal information is provided directly to the Creator.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Creators: when you subscribe to a Creator's publication, we provide them the information necessary (including your name and email address) to provide you their publication(s). Please note that Creators control their own publications; accordingly, when you interact with a Creator's publication in a way that requires your personal information, including when commenting on a publication that you have not subscribed to, that personal information is provided directly to the Creator.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Prospective sellers or buyers: We may share and/or transfer customer information in connection with the sale or merger of our business or assets (subject to local laws). Also, if we go out of business, enter bankruptcy, or go through some other change of control.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Prospective sellers or buyers: We may share and/or transfer customer information in connection with the sale or merger of our business or assets (subject to local laws). Also, if we go out of business, enter bankruptcy, or go through some other change of control.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Prospective sellers or buyers: We may share and/or transfer customer information in connection with the sale or merger of our business or assets (subject to local laws). Also, if we go out of business, enter bankruptcy, or go through some other change of control.",
+      "lang": "English"
+    }
+  ]
+}

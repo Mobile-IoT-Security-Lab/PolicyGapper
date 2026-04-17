@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "•\nMobile Device Data. We automatically collect device information (such as your mobile\ndevice ID, model, and manufacturer), operating system, version information and system\nconfiguration information, device and application identification numbers, browser type and\nversion, hardware model Internet service provider and/or mobile carrier, and Internet Protocol\n(IP) address (or proxy server). If you are using our application(s), we may also collect\ninformation about the phone network associated with your mobile device, your mobile\ndevice's operating system or platform, the type of mobile device you use, your mobile\ndevice's unique device ID, and information about the features of our application(s) you\naccessed.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "•\nMobile Device Data. We automatically collect device information (such as your mobile\ndevice ID, model, and manufacturer), operating system, version information and system\nconfiguration information, device and application identification numbers, browser type and\nversion, hardware model Internet service provider and/or mobile carrier, and Internet Protocol\n(IP) address (or proxy server). If you are using our application(s), we may also collect\ninformation about the phone network associated with your mobile device, your mobile\ndevice's operating system or platform, the type of mobile device you use, your mobile\ndevice's unique device ID, and information about the features of our application(s) you\naccessed.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "This information is primarily needed to maintain the security and operation of our\napplication(s), for troubleshooting, and for our internal analytics and reporting purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "This information is primarily needed to maintain the security and operation of our\napplication(s), for troubleshooting, and for our internal analytics and reporting purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "This information is primarily needed to maintain the security and operation of our\napplication(s), for troubleshooting, and for our internal analytics and reporting purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "•\nMobile Device Data. We automatically collect device information (such as your mobile\ndevice ID, model, and manufacturer), operating system, version information and system\nconfiguration information, device and application identification numbers, browser type and\nversion, hardware model Internet service provider and/or mobile carrier, and Internet Protocol\n(IP) address (or proxy server). If you are using our application(s), we may also collect\ninformation about the phone network associated with your mobile device, your mobile\ndevice's operating system or platform, the type of mobile device you use, your mobile\ndevice's unique device ID, and information about the features of our application(s) you\naccessed.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Location Data. We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location Data. We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+This Privacy Policy (the "Policy") explains who we are, how we collect, share and use Personal Data about you, and how you can exercise your privacy rights.
+
+---
+
+We are Digipom Inc. ("Digipom"), a duly incorporated company in the province of Quebec, Canada. We are the creators of Easy Voice Recorder ("EVR"), Easy Voice Recorder
+Pro ("EVR Pro"), and more. It is the policy of Digipom to respect your privacy, and the privacy of all users of our applications and Services. This Policy applies to Personal Data
+that we collect through our mobile applications and other products ("Apps") and websites we control, such as www.digipom.com ("Website") (collectively "Services"). The
+Services are also governed by the Terms of Use. Digipom reserves the right, at any time and without prior notice, to modify the Policy.
+
+---
+
+Your privacy is very important to us and we want you to know everything we do and don't do with the data you provide. Our guiding principle is that any data we collect from
+you will be treated with the utmost care and respect, and every effort will be made to ensure the data is kept private.
+
+---
+
+Under applicable law, Digipom Inc. is the "data controller" of Personal Data collected through the Services. "Personal Data" is any data that identifies, relates to, describes, is
+capable of being associated with, or could reasonably be linked, directly or indirectly, with an identified or identifiable natural person, or a specific household. For the purposes
+of this Policy, "Personal Data" is equivalent to "Personal Information" as defined in the CCPA and PIPEDA.
+
+---
+
+What Personal Data does Digipom collect?
+The Personal Data we may collect about you through the Services falls into the general categories described below. Please see further in the section "Categories of Personal Data
+Collected under the CCPА".
+
+---
+
+Information that you provide voluntarily
+Certain parts of our Services may ask you to provide Personal Data voluntarily. For example, we may ask for certain information in order to use features in our Apps, register an
+account with us, subscribe to marketing communications from us, and/or to submit enquiries to us, such as:
+•
+your name, email address or other contact details.
+any information you submit to our customer service team in the App or via email.
+The Personal Data that you are asked to provide, and the reasons why you are asked to provide it, will be explained to you when we ask you to provide your Personal Data.
+
+---
+
+Information we collect automatically
+When you use our Services, we may also collect certain information automatically from you and/or your device which may be considered Personal Data under applicable data
+protection laws, such as:
+• Data and analytics about your use of our Services (e.g. in-app usage, session length, preferred settings, which in-app advertisements you may have viewed, crash reports,
+and the means by which you were referred to our Services).
+• Your IP address, device identifiers such as your Advertising ID, other device information, and your general geographic location (e.g. country or city location) based on
+your IP address.
+"Advertising ID" includes the Apple Identifier for Advertisers ("IDFA") on Apple, and the Google Advertising Identity ("GAID") on Android. These are unique identifiers for
+mobile devices that advertisers use for interest-based advertising. They are consistent across all apps and thus allow tracking across apps. These identifiers can be reset from the
+device's settings. On Apple, you can opt out by choosing the "limit ad tracking" option in the privacy settings. On Android, you can opt out by choosing "Opt out of interest
+based ads."
+Advertising IDs are non-permanent, non-personal identifiers uniquely associated with your device. Similar technologies include tracking pixels within ads. These technologies
+allow companies (including marketers and advertisers) to recognize your device when you use websites and applications.
+"Device information" means device type, model, manufacturer, operating system and language, or other technical data like supported application programming interfaces
+("APIs"), screen size, processor, or a combination of this data, available from a device for a developer to check the device's compatibility with a particular application.
+Some of this information may be collected using cookies and/or similar technologies, such as software development kits ("SDKs"). The Services may use cookies and other
+technologies such as pixel tags, local shared objects, hardware-based device identifiers, flash cookies, operating system-based identifiers, clear GIFs and web beacons. Cookies
+are pieces of data that sites and services can set on your browser or device that can be read on future visits. We may expand our use of cookies to save additional data as new
+features are added to our Services. However, you can disable cookies by changing your browser settings. Further information about how to disable cookies can be found on your
+Internet browser provider's help screen.
+
+---
+
+Information we obtain from third party sources
+(a) Third party service providers.
+We may receive Personal Data about you from third-party sources. We may obtain your Personal Data, for example, when you installed our App or when, prior to installation,
+you click on an advertisement for the App (see the "Third-Party Advertisements" section below for more information).
+In order to better understand our users of the Services, we may conduct research on our customer demographics, interests and behavior based on the information collected. This
+research may be compiled and analyzed on an aggregate basis, and we may share this aggregate data with our affiliates, agents and business partners. We may also disclose
+aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
+Digipom may use Google Analytics (see http://www.google.com/analytics/), Google Firebase Analytics (see https://firebase.google.com/features/analytics/), Firebase Crashlytics
+(see https://firebase.google.com/docs/crashlytics) or other similar services to collect such information.
+The Application makes use of Google Analytics Demographics and Interest Reporting (see https://support.google.com/analytics/answer/2799357) which gives Digipom certain
+demographic and interest information about our Application users. None of this information, however, can identify you personally to Digipom. The information may be used to
+serve you advertisements that will be of interest to you. You can disable this feature through your Android settings of your Device or the Google Settings App. You can also opt
+out of such Google advertising at any time by visiting your Google Ads Settings page (see https://www.google.com/settings/ads).
+(b) Advertising partners.
+From time to time, we may also receive Personal Data about you from other third-party sources. For example, if you clicked on an advertisement directing you to one of our
+Services (such as an ad for one of our Apps in another publishers' app), we will be provided with Data about which ad network and advertising campaign the install originated
+from. Please see the Advertising section below for more information.
+
+---
+
+Categories of Personal Data Collected under the CCPA
+We collect the following categories of Personal Data as defined in the CCPA, and have done so in the past 12 months:
+1. Identifiers (your name, email or other contact information, when provided);
+2. Internet or other electronic network activity information on our Internet Web sites and applications, including, but not limited to, browsing history, search history, and
+information regarding your interaction with an Internet Web site, application, or advertisement; and
+3. Geolocation data.
+
+---
+
+To improve our Services and keep them secure
+• To respond to your customer support requests (e.g. if you write to us with a complaint),
+• To receive error messages about any issues you or your device encounter with our Services to enable us to fix bugs and interoperability issues,
+• To detect and prevent illegal activities,
+• To track App installs (e.g. for purposes of measuring the effectiveness of marketing campaigns),
+• To conduct optional user feedback surveys,
+• To understand you, your preferences and user traffic to enhance your experience and enjoyment of our Services,
+• To conduct research.
+
+---
+
+In addition to Google advertisements, from time to time we may allow other third-party companies to serve ads and/or collect certain anonymous data when you use the
+Application. This list currently includes:
+• Fluct (see https://corp.fluct.jp/privacy/ads/)
+• InMobi (see https://www.inmobi.com/privacy-policy)
+• Meta Audience Network (see https://www.facebook.com/privacy/policy/)
+•
+Mobfox (see https://www.mobfox.com/privacy-policy/)
+• Pubmatic (see https://pubmatic.com/legal/privacy-policy/)
+• Tappx (see https://www.tappx.com/privacy-policy/)
+• Unity (see https://unity3d.com/legal/privacy-policy)
+Amazon Appstore, ONE store and Samsung Galaxy Store only:
+• Applovin Ads (see https://www.applovin.com/privacy/)
+Huawei AppGallery only:
+• Petal Ads (see https://consumer.huawei.com/en/privacy/privacy-policy/)
+
+---
+
+Legal basis for processing personal data
+Our legal basis for collecting and using the Personal Data described above will depend on the Personal Data concerned and the specific context in which we collect it. However,
+we will normally collect Personal Data from you only where (i) we need the Personal Data to perform a contract with you, (ii) the processing is in our legitimate interests and
+not superseded by your rights, or (iii) we have your consent to do so.
+
+---
+
+(d) If we ask you to provide Personal Data to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you
+whether the provision of your Personal Data is mandatory or not (as well as of the possible consequences if you do not provide your Personal Data).
+
+---
+
+How does Digipom keep my Personal Data secure?
+Digipom uses standard industry practice (physical, electronic and procedural) to protect all data collected (including Personal Data) secure. We take reasonable steps to protect
+the Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully
+secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what Personal Data you send to us via
+email. Please keep this in mind when disclosing any Personal Data via the Internet.
+
+---
+
+Data retention
+We retain Personal Data we collect from you where we have an ongoing legitimate business need to do so, for example, to provide you with a Service you have requested, or to
+comply with applicable legal, tax or accounting requirements. We generally retain Personal Data so long as it may be relevant to the purposes identified herein. To dispose of
+Personal Data, we may anonymize it, delete it or take other appropriate steps. Personal Data may persist in copies made for backup and business continuity purposes for
+additional time, but it will be deleted as soon as practicable.
+
+---
+
+(e) You have the right to file a complaint with a data protection authority about our collection and use of your Personal Data. For more information, please contact your local
+data protection authority.
+
+---
+
+You can control and limit the type of Personal Data we collect and process about you in a number of ways. For example, you can reset your mobile advertising identifier or limit
+ad tracking altogether using the settings on your phone. You can also limit or disable the use of cookies (or similar technologies). We will respond to all requests we receive from
+individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. Please note that the data protection rights available to you may
+vary depending on which data protection laws apply to you.
+
+---
+
+Use of device permissions
+The following is a listing and description of certain functions on the Device that are accessed and/or modified by our Apps, and which may require explicit user permission to
+access. You acknowledge that denying explicit user permission may affect or reduce your user experience with the App, or prevent the App from working at all.
+Android
+ACCESS MICROPHONE
+Allows the App to make Recordings using the microphone.
+CHANGE YOUR AUDIO SETTINGS
+Allows the App to modify global audio settings such as volume and which speaker is used for input/output.
+FULL NETWORK ACCESS
+Allows the App to create network sockets and use custom network protocols.
+PAIR WITH BLUETOOTH DEVICES / ADMINISTRATE BLUETOOTH
+Allows the App to view the configuration of Bluetooth on the Device, and to make and accept connections with paired devices.
+MODIFY OR DELETE THE CONTENTS OF YOUR USB STORAGE/MODIFY OR DELETE THE CONTENTS OF YOUR SD CARD
+Allows the App to read and write to the USB storage and / or SD card.
+PREVENT DEVICE FROM SLEEPING/PREVENT PHONE FROM SLEEPING
+Allows the App to prevent the Device from going to sleep to ensure continuous recording.
+MODIFY SYSTEM SETTINGS
+Allows the App to modify the system's settings data (i.e. to set a Recording as a ringtone).
+VIEW NETWORK CONNECTIONS
+Allows the App to view information about network connections such as which networks exist and are connected.
+READ PHONE STATE
+When enabled, allows the App to pause a Recording when a phone call is received.
+CHECK LICENSE
+Verifies the market license.
+iOS
+MICROPHONE
+Allows the App to make Recordings using the microphone.
+SPEECH RECOGNITION
+Allows the Application to generate transcriptions of the Recordings.
+
+---
+
+Age limit
+When we collect Personal Data we do not know the age of our users. If we discover we has inadvertently gathered Personal Data from a minor under 13 years of age, we will
+take reasonable measures to promptly delete such Personal Data from our records.

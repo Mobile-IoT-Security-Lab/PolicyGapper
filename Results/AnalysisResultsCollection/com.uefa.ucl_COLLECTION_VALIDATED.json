@@ -1,0 +1,105 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "(vi) Profile Data includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.",
+      "justification": "The privacy policy states that user feedback, survey responses, interests, and preferences are collected, which fall under 'Other user-generated content'.",
+      "how_to_fix": "Declare the collection of 'Other user-generated content' in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "UEFA also collects, including but not limited to, your Web browser software, your internet protocol (IP) address which identifies your computer, UEFA's cookies, the referring website, the page you requested, your location, and your online activity on UEFA Platforms.",
+      "justification": "The privacy policy explicitly states the collection of 'your online activity on UEFA Platforms', which corresponds to the 'Other actions' data type.",
+      "how_to_fix": "Declare the collection of 'Other actions' in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "UEFA also collects, including but not limited to, your Web browser software, your internet protocol (IP) address which identifies your computer, UEFA's cookies, the referring website, the page you requested, your location, and your online activity on UEFA Platforms.",
+      "justification": "The privacy policy mentions collecting 'the referring website' and 'the page you requested', which are components of 'Web browsing history'.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "UEFA also automatically receives and records non-sensitive information on its technical infrastructure logs about your computer when you visit UEFA Platforms, regardless of whether you have registered for an account or not by just browsing our servers.",
+      "justification": "The policy states that information is recorded on 'technical infrastructure logs', which is a form of 'Other app performance data'.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "(ii) Contact Data includes billing address, delivery address, email address and telephone numbers.",
+      "justification": "The privacy policy explicitly states that 'billing address' and 'delivery address' are collected.",
+      "how_to_fix": "Declare the collection of 'Address' in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "(ii) Contact Data includes billing address, delivery address, email address and telephone numbers.",
+      "justification": "The privacy policy explicitly states that 'telephone numbers' are collected.",
+      "how_to_fix": "Declare the collection of 'Phone number' in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "(iii) Financial Data includes bank account and payment card details.",
+      "justification": "The privacy policy states that 'bank account and payment card details' are collected, which falls under 'User payment info'.",
+      "how_to_fix": "Declare the collection of 'User payment info' in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "(iv) Transaction Data includes details about payments to and from you and other details of products and services you have purchased from us.",
+      "justification": "The policy states collection of 'details of products and services you have purchased from us', which constitutes 'Purchase history'.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "UEFA also collects, including but not limited to, your Web browser software, your internet protocol (IP) address which identifies your computer, UEFA's cookies, the referring website, the page you requested, your location, and your online activity on UEFA Platforms.",
+      "justification": "The privacy policy explicitly states the collection of 'your location'.",
+      "how_to_fix": "Declare the collection of 'Approximate location' or 'Precise location' in the Google Play Console, depending on the granularity of the data collected.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "(vii) contact us (including over the phone, or via email, post, live chat or social media messaging).",
+      "justification": "The policy mentions that data from 'live chat' is collected when users contact the company, which qualifies as 'Other in-app messages'.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "(x) Other. Other information you may provide to us, for example competition entries, photographs we take or video/audio recordings we make.",
+      "justification": "The privacy policy states that 'photographs' may be provided by the user or taken by the company.",
+      "how_to_fix": "Declare the collection of 'Photos' in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "(x) Other. Other information you may provide to us, for example competition entries, photographs we take or video/audio recordings we make.",
+      "justification": "The privacy policy states that 'video... recordings' may be provided by the user or made by the company.",
+      "how_to_fix": "Declare the collection of 'Videos' in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "(x) Other. Other information you may provide to us, for example competition entries, photographs we take or video/audio recordings we make.",
+      "justification": "The privacy policy states that 'audio recordings' may be provided by the user or made by the company.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "(x) Other. Other information you may provide to us, for example competition entries, photographs we take or video/audio recordings we make.",
+      "justification": "The privacy policy states that 'audio recordings' may be provided by the user or made by the company, which can be classified as 'Other audio files'.",
+      "how_to_fix": "Declare the collection of 'Other audio files' in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "Your content (e.g., photos, facial scans, comments, and other materials) that you post or upload to an Application",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "We may access metadata and other information associated with other files stored on your device. This may include, for example, your photographs in order to provide the functionality of the Applications.",
+"lang": "en"
+}
+]
+}

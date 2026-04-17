@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may allow the third-party online advertising network such as Google Admob and Facebook ads to collect information about your use of our App over time for playing or displaying ads that may be of interest to you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "3) We do not sell your personal information. We do allow our advertising partners to collect certain device identifiers and electronic network activity via our app to show ads that are based on your interests. If you prefer to limit this activity, your device may include a feature'Opt Out of Interest-Based Ads' or 'Opt Out of Ads Personalization' on Android) that allows you to opt out of having certain information collected through mobile apps used for interest-based advertising purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "3) We do not sell your personal information. We do allow our advertising partners to collect certain device identifiers and electronic network activity via our app to show ads that are based on your interests. If you prefer to limit this activity, your device may include a feature'Opt Out of Interest-Based Ads' or 'Opt Out of Ads Personalization' on Android) that allows you to opt out of having certain information collected through mobile apps used for interest-based advertising purposes.",
+      "lang": "English"
+    }
+  ]
+}

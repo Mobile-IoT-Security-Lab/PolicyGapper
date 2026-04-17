@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Hiface may also collect and gather non-personally identifiable information, such as certain profile information including country of residence and preferences. In addition, Hiface may collect and store information about your and others' usage of and interaction with the Service and our websites, including matches, numbers of matches made by members, match durations, text messages, usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views, network type and traffic to and from our websites.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Hiface may also collect and gather user contents (e.g., photos, screenshots, comments, and other materials) that you create on the Service. Your photo can be taken by other users on Hiface, and if they use the capturing function provided by Hiface, those photos can be stored and used for Hiface and third-party services (e.g., Facebook, etc.). You can change the sharing option of third parties on the Hiface settings. If you do not agree with all the terms of this Privacy Policy, please do not use the Service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Hiface may also collect and gather non-personally identifiable information, such as certain profile information including country of residence and preferences. In addition, Hiface may collect and store information about your and others' usage of and interaction with the Service and our websites, including matches, numbers of matches made by members, match durations, text messages, usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views, network type and traffic to and from our websites.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general, these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device, the device identifier, the time the error occurred, the feature being used, and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and fixing the error.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general, these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device, the device identifier, the time the error occurred, the feature being used, and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and fixing the error.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Hiface may also collect and gather non-personally identifiable information, such as certain profile information including country of residence and preferences. In addition, Hiface may collect and store information about your and others' usage of and interaction with the Service and our websites, including matches, numbers of matches made by members, match durations, text messages, usage by geographies, device and connection information, IP address, device capability, bandwidth, statistics on page views, network type and traffic to and from our websites.",
+      "lang": "English"
+    }
+  ]
+}

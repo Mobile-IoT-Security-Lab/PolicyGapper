@@ -1,0 +1,182 @@
+1. How do We Collect Your Personal Data
+
+---
+1.1 Personal Data
+When You access the Services by or through Your mobile device, We may automatically collect certain
+information, including but not limited to:
+• The type of mobile device You are using
+• The IP address of Your mobile device
+• The unique ID of Your mobile device
+• Your mobile OS
+• Unique device identifiers
+• The type of Internet browser You use
+• Pages of Our Services You visit
+• Time and date of Your visit
+• Other diagnostic data
+
+---
+Since this application involves facial recognition and other face-related manipulations, we will use unique facial
+recognition technology to detect critical points of any given face in the images you provide to achieve the
+enhancement you want through our server. We will only analyze the anonymous data collected from the
+images you provide and these data will not be uploaded or disclosed elsewhere without your explicit
+consent.
+
+---
+We may also collect information sent by Your browser when You visit or access Our Services by or through
+Your mobile device, the following list provides a non-exclusive list of personal data content:
+• Hardware model
+• Screen size and density
+• OS info & version
+• Language and country
+• Time zone
+• Unique Device Identifiers (e.g. IDFA)
+• Device mute status (related to reminder function)
+
+---
+To provide a better user experience, We have integrated statistical tools in the Application. They are only used
+for CRASH positioning and AB-testing for new functions and UI design. Details as described below:
+Application information
+• Application's Name
+• Application's Version Number
+• Application's Build
+• SDK Name
+• SDK Version
+Device information
+• Model
+• Screen Size
+• OEM Name
+Device system information
+• OS Name2
+• OS Version
+• OS Build
+• System Language
+• Time Zone
+• Carrier Country
+• Carrier Name
+Location information
+• Locale
+• Country Area
+
+---
+1.2 Mobile System Permission
+Storage permissions: when you use the photo enhance feature, we need permission to access your local
+media to select photographs for editing or save the finished photographs in your local media. This permission is
+only for editing and saving photographs. We will not automatically obtain any video or photos from your
+device, nor will we modify or delete the content in your local media storage.
+
+---
+In addition, we would collect your selected photographs to our server for photo processing when you select a
+photo to enhance. We shall make every effort to use these photos within reasonable limits. And the collected
+photos will be deleted permanently in 7 days.
+
+---
+1.3 Customer service and after-sales service:
+When you send feedback via email or provide us with an error report, we will obtain your username, email
+address, and email content, so that we can communicate with you about problems encountered during the use
+of our products and services. We will retain Your Personal Data only for as long as is necessary for the
+purposes described above.
+
+---
+We use the collected data for the following purposes. Except as provided in this Privacy Policy, We will not
+disclose any of Your Personal Data to third parties:
+• Enhance or edit the photos you provided.
+• Displays information about the enhancement or editing process related to this program.
+• Suggest the best-enhanced images for you.
+• If you would like to help us improve our application and promote the development and progress of our
+application, you can upload some images that we can learn in-depth to optimize the functionality of our
+product.
+
+---
+• Contact You. When you send feedback via email or provide us with an error report, we will obtain your
+username, email address, and email content, so that we can communicate with you about problems
+encountered during the use of our products and services.
+
+---
+4. How do We Use Cookies
+Cookie refers to a string of data stored on Your device's internal storage when using our application. Cookies
+are typically used to optimize Our Services, communicate with users or manage their accounts, develop
+content, or for research and analysis purposes. Certainly, You can set the application to refuse or accept
+cookies, or to indicate whether to send cookies on the application settings. Please note that if You choose to
+refuse, You may not be able to access certain Services.
+
+---
+Additionally, we allow our business partners, advertising vendors and service providers (including analytics
+vendors) to collect information about your online activities through Cookies. These third parties may use this
+information to display advertisements on our application to your interests, preferences, and characteristics. We
+are not responsible for the privacy practices of these third parties, and the privacy policy about these third
+parties can be seen at Article 5.
+
+---
+These providers may use information about Your visits to the Application that are contained in cookies.
+They also use and analyze the data You interact with advertising to show more targeted ads in the Application.
+We will never share any data about Your track in the Application with third-party advertisers and Your personal
+data will never be used for any commercial purposes.
+
+---
+• Google AdSense
+Advertisements published by Google AdSense are managed, categorized and maintained by Google. As a
+third party vendor, Google uses cookies to serve ads on Our Applications.
+
+---
+• DoubleClick cookies
+Google uses DoubleClick cookies to provide ads to You based on Your visit to Our Application or other
+websites on the Internet.
+
+---
+Visit the page for more details on how Google uses the collected information:
+https://policies.google.com/technologies/partner-sites
+
+---
+5.3 Analytics
+In order to provide a better user experience, We use third parties, like Google Analytics, to help Us analyze how
+Our Services are used. They collect information from You only to help Us improve Our Services. Google
+Analytics is a web analytics service offered by Google that tracks and reports website traffic. We mainly use
+Google Analytics to collect data from You to monitor and analyze the use of Our Service.
+
+---
+We do not store or collect any details of Your payment card. This information is submitted directly to Our third-
+party payment processors, whose use of Your personal data is governed by their Privacy Policy. These
+payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards
+Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS
+requirements help ensure the secure handling of payment information.
+
+---
+When You use Our Service to pay a product and/or Service via bank transfer, We may ask You to provide
+information to facilitate this transaction and to verify Your identity.
+
+---
+• The right to access. It's a basic tenet of the CCPA that Consumers have the right to access the personal
+data that a business holds on them. In other words, Consumers can access:
+o What information a business collects from them
+o Why the business collects this data
+o Where the information comes from
+o Third party applications or businesses the Company shares the data with
+
+---
+• The right to know. You may see this right also referred to as the right of notice, and it means the same
+thing (You must be properly notified which categories of Personal Data are being collected and the
+purposes for which the Personal Data is being used). You have the right to request and obtain from the
+Company information regarding the disclosure of the following:
+o The categories of Personal Data collected
+o The sources from which the Personal Data was collected
+o The business or commercial purpose for collecting or selling the Personal Data
+o Categories of third parties with whom We share Personal Data
+o The specific pieces of Personal Data We collected about You
+
+---
+• The right to delete Personal Data. You have the right to erase Your Personal Data that has been collected
+in the past 12 months.
+
+---
+Notice: You can also change the preferences on Your mobile device to stop the collection of Your mobile
+device's location data.
+
+---
+Our Company pays great attention to the security and protection of children's privacy and data. We can not
+identify whether the user is a child unless We are expressly notified of the same. Our Services are not
+directed to anyone under the age of 13, nor do We knowingly collect personally identifiable information
+from anyone under the age of 13.
+
+---
+If We become aware that We have collected Personal Data from children under the age of 13 without
+parental consent, We will take steps to delete all such information from Our servers.

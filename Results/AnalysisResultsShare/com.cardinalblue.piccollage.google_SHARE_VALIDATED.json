@@ -1,0 +1,39 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In some instances we also use Google Admob to show you advertising in the app. On Apple devices we do not allow Google to collect your identifying data. If you are using an Android device, you may request deletion or reset your advertising ID. This will delete any data in Google Admob that could be connected to your device via our services. To do this:\n1. On your Android device, go to Settings.\n2. For those on Pixel devices: Tap Privacy > Ads (sometimes Ads can appear in Advanced drop-down menu)\n3. For those on Samsung devices: Tap Google > All Services > Ads\n4. Tap Reset Advertising ID and confirm your changes.",
+      "justification": "The policy states that Google Admob is used for advertising, which involves sharing the Advertising ID, a type of 'Device or other ID'. This constitutes sharing with a third party for advertising purposes and is not exempt under the service provider clause for this use case.",
+      "how_to_fix": "Declare that 'Device or other IDs' are shared with third parties for 'Advertising or marketing' purposes in the Google Play Console Data Safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "In some instances we also use Google Admob to show you advertising in the app. On Apple devices we do not allow Google to collect your identifying data. If you are using an Android device, you may request deletion or reset your advertising ID. This will delete any data in Google Admob that could be connected to your device via our services. To do this:\n1. On your Android device, go to Settings.\n2. For those on Pixel devices: Tap Privacy > Ads (sometimes Ads can appear in Advanced drop-down menu)\n3. For those on Samsung devices: Tap Google > All Services > Ads\n4. Tap Reset Advertising ID and confirm your changes.",
+      "reason_of_removal": "Inconsistent Data Type",
+      "justification": "The policy reference discusses the 'advertising ID', which is classified as a 'Device or other ID' under Google Play's data types, not a 'User ID'.",
+      "how_to_fix": "No action required for this data type based on the provided policy text.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "With Whom We Share Your Personal Information\nPersonal Information (and non-personal information) collected through the\nPicCollage Services may be shared with companies and organizations that\nperform services on our behalf (for example, companies that provide data\nmanagement or other support services to us such as Heroku). We may share\nyour Personal Information (and non-personal information) with third-party\nadvertising services (including Google) to serve you relevant advertising and\nmarket our products, but we won't sell your Personal Information. We may also\nshare the content you are creating in the app with trusted third-party partners to\nprovide you with services within the app, such as OpenAl for image and video\nprocessing. Also, we may disclose the Personal Information we collect through the\nPicCollage Services to government authorities, industry peers or other third\nparties when we, in good faith, believe (i) there has been a violation of our terms,\npolicies, or the law or (ii) disclosure is required to:\n1. comply with a legal obligation;\n2. protect and defend our rights or property;\n3. detect, investigate or prevent fraud or other illegal activity;\n4. protect the safety, security, and integrity of our products, employees, users, or\nthe public;\n5. protect against legal liability;\n6. provide you with services in the app. We may upload your visual data (content\nyou are creating in the app that may include raw Face Data) to trusted third-\nparty services that we partner with for processing. These providers are\ncontractually obligated to handle user data in accordance with applicable\nprivacy laws and industry standards. Please review their privacy policies to\nunderstand how they store and use your data.\n• OpenAl. Privacy Policy: https://openai.com/privacy\n• Google Gemini. Privacy Policy:\nhttps://support.google.com/gemini/answer/13594961\n• Replicate. Privacy Policy: https://replicate.com/privacy\n• Flux. Privacy Policy: https://fluxl.ai/privacy\n7. enforce the Terms of Service or other agreements that govern your use of the\nPicCollage Services and/or any of our other services;",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states that photos ('visual data') are shared with third-party partners like OpenAI and Google Gemini for 'processing' to 'provide you with services in the app'. This falls under the service provider exemption, as these partners are processing data on the developer's behalf to enable app functionality.",
+      "how_to_fix": "No action required. This sharing does not need to be declared in the Data Safety section as it meets the service provider exemption criteria.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "With Whom We Share Your Personal Information\nPersonal Information (and non-personal information) collected through the\nPicCollage Services may be shared with companies and organizations that\nperform services on our behalf (for example, companies that provide data\nmanagement or other support services to us such as Heroku). We may share\nyour Personal Information (and non-personal information) with third-party\nadvertising services (including Google) to serve you relevant advertising and\nmarket our products, but we won't sell your Personal Information. We may also\nshare the content you are creating in the app with trusted third-party partners to\nprovide you with services within the app, such as OpenAl for image and video\nprocessing. Also, we may disclose the Personal Information we collect through the\nPicCollage Services to government authorities, industry peers or other third\nparties when we, in good faith, believe (i) there has been a violation of our terms,\npolicies, or the law or (ii) disclosure is required to:\n1. comply with a legal obligation;\n2. protect and defend our rights or property;\n3. detect, investigate or prevent fraud or other illegal activity;\n4. protect the safety, security, and integrity of our products, employees, users, or\nthe public;\n5. protect against legal liability;\n6. provide you with services in the app. We may upload your visual data (content\nyou are creating in the app that may include raw Face Data) to trusted third-\nparty services that we partner with for processing. These providers are\ncontractually obligated to handle user data in accordance with applicable\nprivacy laws and industry standards. Please review their privacy policies to\nunderstand how they store and use your data.\n• OpenAl. Privacy Policy: https://openai.com/privacy\n• Google Gemini. Privacy Policy:\nhttps://support.google.com/gemini/answer/13594961\n• Replicate. Privacy Policy: https://replicate.com/privacy\n• Flux. Privacy Policy: https://fluxl.ai/privacy\n7. enforce the Terms of Service or other agreements that govern your use of the\nPicCollage Services and/or any of our other services;",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states that videos ('visual data') are shared with third-party partners like OpenAI and Google Gemini for 'processing' to 'provide you with services in the app'. This falls under the service provider exemption, as these partners are processing data on the developer's behalf to enable app functionality.",
+      "how_to_fix": "No action required. This sharing does not need to be declared in the Data Safety section as it meets the service provider exemption criteria.",
+      "lang": "English"
+    }
+  ]
+}
+```

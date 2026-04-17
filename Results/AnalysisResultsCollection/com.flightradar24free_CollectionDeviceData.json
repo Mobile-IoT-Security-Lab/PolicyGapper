@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Usage information\nWhen you use the Services, certain information will be collected automatically, including (i) information about your use of the Services; (ii) content that you post, upload and/or contribute to the Services; (iii) technical data, which may include the URL you are accessing the Site from, your IP address, unique device ID, network and computer performance, browser type, language and identifying information and operating system.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Usage information\nWhen you use the Services, certain information will be collected automatically, including (i) information about your use of the Services; (ii) content that you post, upload and/or contribute to the Services; (iii) technical data, which may include the URL you are accessing the Site from, your IP address, unique device ID, network and computer performance, browser type, language and identifying information and operating system.",
+      "lang": "English"
+    }
+  ]
+}

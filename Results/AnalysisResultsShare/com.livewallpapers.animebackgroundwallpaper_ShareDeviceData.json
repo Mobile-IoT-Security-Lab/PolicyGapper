@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may use or allow third-party services (such as advertising networks and analytics tools) to collect anonymous information. This may include general device information, app usage data, and region/language settings. The purpose of this data collection is to display relevant advertisements, measure app performance, and improve our services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We do not sell or trade your personal information to third parties. However, we may share data with: • Service providers (ads, analytics, crash reporting) for operational purposes. • Legal authorities if required by law or to protect our rights.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may use or allow third-party services (such as advertising networks and analytics tools) to collect anonymous information. This may include general device information, app usage data, and region/language settings. The purpose of this data collection is to display relevant advertisements, measure app performance, and improve our services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may use or allow third-party services (such as advertising networks and analytics tools) to collect anonymous information. This may include general device information, app usage data, and region/language settings. The purpose of this data collection is to display relevant advertisements, measure app performance, and improve our services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may use or allow third-party services (such as advertising networks and analytics tools) to collect anonymous information. This may include general device information, app usage data, and region/language settings. The purpose of this data collection is to display relevant advertisements, measure app performance, and improve our services.",
+      "lang": "English"
+    }
+  ]
+}

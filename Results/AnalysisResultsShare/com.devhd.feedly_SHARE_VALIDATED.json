@@ -1,0 +1,35 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Business Transfers: Feedly may share or transfer Pl in connection with, any merger, sale of Feedly assets, financing, or acquisition of all or a portion of the business to another company. Feedly may share or transfer Aggregated Information to affiliate or related companies for its business purposes.",
+      "justification": "The policy states data may be transferred to another company during a business transfer (e.g., merger, acquisition). This is considered 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Google Play Console that this data type is 'Shared' with third parties for purposes such as 'Account management' or another relevant business practice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Business Transfers: Feedly may share or transfer Pl in connection with, any merger, sale of Feedly assets, financing, or acquisition of all or a portion of the business to another company. Feedly may share or transfer Aggregated Information to affiliate or related companies for its business purposes.",
+      "justification": "The policy states personal information (Pl), which includes identifiers, may be transferred to another company during a business transfer (e.g., merger, acquisition). This is considered 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Google Play Console that this data type is 'Shared' with third parties for purposes such as 'Account management' or another relevant business practice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Business Transfers: Feedly may share or transfer Pl in connection with, any merger, sale of Feedly assets, financing, or acquisition of all or a portion of the business to another company. Feedly may share or transfer Aggregated Information to affiliate or related companies for its business purposes.",
+      "justification": "The policy states personal information (Pl), which includes Name, may be transferred to another company during a business transfer (e.g., merger, acquisition). This is considered 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Google Play Console that this data type is 'Shared' with third parties for purposes such as 'Account management' or another relevant business practice.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Business Transfers: Feedly may share or transfer Pl in connection with, any merger, sale of Feedly assets, financing, or acquisition of all or a portion of the business to another company. Feedly may share or transfer Aggregated Information to affiliate or related companies for its business purposes.",
+      "justification": "The policy states personal information (Pl), which includes User IDs, may be transferred to another company during a business transfer (e.g., merger, acquisition). This is considered 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "Declare in the Google Play Console that this data type is 'Shared' with third parties for purposes such as 'Account management' or another relevant business practice.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

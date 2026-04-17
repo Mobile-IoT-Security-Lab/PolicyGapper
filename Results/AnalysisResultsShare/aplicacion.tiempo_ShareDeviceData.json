@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Advertising Partners. We may share the information we collect with the Advertising Partners so that they can supply relevant ads or content on their own websites or applications or on other third-party websites or applications and analyse and inform of the content or the ads the users see or with which they interact. The Advertising Partners may also collect information, or we may also provide information to the Advertising Partners. The information may include data about how the users interact with the Services, the information the users provide through an interactive ad, the content and ads the users have seen, the users' activities on other websites and online services, and the physical places the users have visited.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "By interacting with interactive advertising: we receive the information you provide when you send oral or written questions or comments through the interactive ads that are placed on the Services or on third-party platforms; and we may share this information with our Advertising Partners.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Advertising Partners. We may share the information we collect with the Advertising Partners so that they can supply relevant ads or content on their own websites or applications or on other third-party websites or applications and analyse and inform of the content or the ads the users see or with which they interact. The Advertising Partners may also collect information, or we may also provide information to the Advertising Partners. The information may include data about how the users interact with the Services, the information the users provide through an interactive ad, the content and ads the users have seen, the users' activities on other websites and online services, and the physical places the users have visited.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We also have certain third parties who use data collection technologies to track use of the Services, analyse it and notify data related to them. They are also responsible for analysing and optimising the performance of the Services (\"Analytical Partners\").",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We also have certain third parties who use data collection technologies to track use of the Services, analyse it and notify data related to them. They are also responsible for analysing and optimising the performance of the Services (\"Analytical Partners\").",
+      "lang": "English"
+    }
+  ]
+}

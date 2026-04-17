@@ -1,0 +1,105 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Technical and Usage Information: When you access our Services, we may collect (i) certain technical information about your mobile device or computer system, including IP Address, mobile device ID (IDFA, Google Advertising ID or other identifiers), and the version of your operating system; and (ii) usage statistics about your interactions with the Services. In certain Services we will create and assign to your device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as username, character name, or e-mail address. We may also access your contacts to enable you to invite friends to join you in the Services. This information is typically collected through the use of third-party mobile device software development kits. We may occasionally send you push notifications through our Services to send you game updates, high scores and other service-related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "InformationCollected by Customer Support: When you ask for assistance from our Customer Support team, we will collect and store the contact information you provide (generally your name and e-mail address), information about your gameplay or activity on the Services, and your user-name or ID number. We will also store the correspondence and any information contained within.",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Technical and Usage Information: When you access our Services, we may collect (i) certain technical information about your mobile device or computer system, including IP Address, mobile device ID (IDFA, Google Advertising ID or other identifiers), and the version of your operating system; and (ii) usage statistics about your interactions with the Services. In certain Services we will create and assign to your device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as username, character name, or e-mail address. We may also access your contacts to enable you to invite friends to join you in the Services. This information is typically collected through the use of third-party mobile device software development kits. We may occasionally send you push notifications through our Services to send you game updates, high scores and other service-related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Advertising. To the extent we display advertising in our Services, we may allow advertising networks of our affiliates and partner networks to collect information about your mobile device to enable them to serve targeted ads to you. Such mobile device data includes the following:\nDevice make, model and operating system;\nDevice properties related to screen size & orientation, audio volume and battery;\nCarrier;\nOperating system;\nName and properties of mobile application through which a consumer interacts with the\nServices;\nCountry, time zone and locale settings (country and preferred language);\nNetwork connection type and speed;\nIP Address;\nInternet browser user-agent used to access the Services; and\n- Advertising ID (IDFA on iOS devices and GAID on Android devices).",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Payment Information: When you order any good or service through the Services, including any virtual currency or virtual good, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment. Our payment processing service provider may also retain this information to enable you to purchase additional items through our Services without having to re-enter it each time. Please note that purchases from third parties may also be subject to additional policies",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Payment Information: When you order any good or service through the Services, including any virtual currency or virtual good, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment. Our payment processing service provider may also retain this information to enable you to purchase additional items through our Services without having to re-enter it each time. Please note that purchases from third parties may also be subject to additional policies",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Payment Information: When you order any good or service through the Services, including any virtual currency or virtual good, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment. Our payment processing service provider may also retain this information to enable you to purchase additional items through our Services without having to re-enter it each time. Please note that purchases from third parties may also be subject to additional policies",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Payment Information: When you order any good or service through the Services, including any virtual currency or virtual good, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment. Our payment processing service provider may also retain this information to enable you to purchase additional items through our Services without having to re-enter it each time. Please note that purchases from third parties may also be subject to additional policies",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Information: When you order any good or service through the Services, including any virtual currency or virtual good, our payment processing service provider will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment. Our payment processing service provider may also retain this information to enable you to purchase additional items through our Services without having to re-enter it each time. Please note that purchases from third parties may also be subject to additional policies",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may ask you to identify which country you are in when you use or access some of the Services, or we may rely on your IP address to identify which country you are located in. When we rely on your IP address, we cannot apply the terms of this section to any individual that masks or otherwise hides their location information from us so as not to appear located in the Designated Countries. If any terms in this section conflict with other terms contained in this Policy, the terms in this section shall apply to individuals in the Designated Countries.",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "InformationCollected by Customer Support: When you ask for assistance from our Customer Support team, we will collect and store the contact information you provide (generally your name and e-mail address), information about your gameplay or activity on the Services, and your user-name or ID number. We will also store the correspondence and any information contained within.",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "InformationCollected by Customer Support: When you ask for assistance from our Customer Support team, we will collect and store the contact information you provide (generally your name and e-mail address), information about your gameplay or activity on the Services, and your user-name or ID number. We will also store the correspondence and any information contained within.",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Registration Information: We may also offer you the option to complete a user profile that is visible to other LOGICLABS LIMITED users (“Account\"). If you create an Account, you may provide us you name, a username, e-mail address, a password and other information that helps us confirm that it is you accessing your Account. We may do this through in-game dialog boxes, which you may choose to skip. If you sign into the Services with Facebook Connect we will collect information that is visible via your Facebook account such as: (1) your first and last name, (2) Facebook ID, (3) Profile Picture/URL, and (4) list of Facebook friends. Your Account may be used to publicly identify you as part of social features of the Services, which may include user-to-user interaction, chat or messaging functionality, public leaderboards, head-to-head competition, and other similar features. The LOGICLABS LIMITED username will be public and will be shown to other users, but will only permit access to information that is considered public or that you have designated as public in your user profile settings.",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "We may also offer you the ability to import your contacts or manually enter e-mail addresses so that you can locate your contacts on LOGICLABS LIMITED and invite your contacts to join you in the Services. We will store those contacts for purposes of helping you and your contacts make connections through our Services.",
+      "justification": "The privacy policy states that this data is collected.",
+      "how_to_fix": "Declare this data type as 'collected' in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

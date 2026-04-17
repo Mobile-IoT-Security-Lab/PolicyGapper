@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Contact information, such as your name, email address or other contact information, if you have provided them to us (for example, if you create an account in our Services or subscribe to our communications),",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Contact information, such as your name, email address or other contact information, if you have provided them to us (for example, if you create an account in our Services or subscribe to our communications),",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Your payment related data for processing the billing of your Services subscriptions and other purchases you make,",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Your IP address to bring our product to your device, but also to get an idea of your general location through IP geolocation data (on city, state or country level) so that we can manage the content available in the Service in your territory or to show you pricing in your own currency and also to analyse our Service and its usage.",
+      "lang": "English"
+    }
+  ]
+}

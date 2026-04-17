@@ -1,0 +1,14 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may collect certain non-personal information automatically, including, but not limited to, the type of mobile device you use, your mobile operating system, your network service provider, and information about how you use the Application. For example, the settings, recording durations, and methods of starting and stopping recordings.",
+      "justification": "The privacy policy states the app automatically collects information about app usage, such as 'settings, recording durations, and methods of starting and stopping recordings.' This corresponds to the 'Other app performance data' type. The policy does not indicate that this data is processed only on the device or is end-to-end encrypted, thus it must be declared as collected.",
+      "how_to_fix": "Declare 'Other app performance data' under the 'App performance' category in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

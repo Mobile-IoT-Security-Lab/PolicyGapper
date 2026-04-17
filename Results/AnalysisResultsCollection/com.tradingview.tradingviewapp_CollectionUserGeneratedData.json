@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "2. Contact data. We also process any personal data you choose to give when corresponding with us by phone, email, or otherwise visiting and interacting with this Website or any other services we operate.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "7. Customer service. When you open a support ticket, we use your contact details as well as information about your device, server logs, a description of the problem, along with any other supporting materials (videos, screenshots, etc.) to help resolve the issue(s).",
+"lang": "en"
+}
+]
+}

@@ -1,0 +1,19 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "If you contact our Customer Support team via feedback features in our Service or through any other means, we may receive your email address, your IP address as well as the information you send to us to help resolve your query. When you provide feedback to us you automatically consent us to receive and use such information. You also consent that we are allowed to keep records of our communications with you, including any complaints that we receive from you about other users (and from other users about you).",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "g. Chat: You may use Achat Services to chat with other registered users, freely choose between text chat and/or voice chat according to your need. We collect your activity information including with whom you have talked, at which time and for how long. Unless specifically required by applicable laws, we will not access to the chat content including your text and/or voice information. If you do not want to provide such information, please do not use functions related to chatting.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "f. Content uploaded by users: When uploading Posts or commenting on other users' Posts, you agree to share with us the text information posted, pictures, audio and video uploaded. If you do not want to provide such information, please do not use functions related to content publication.",
+"lang": "en"
+}
+]
+}

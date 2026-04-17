@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:\n\n•\nTerms you search for\n•\nVideos you watch\n•\nViews and interactions with content and ads\n•\nVoice and audio information\n•\nPurchase activity\n•\nPeople with whom you communicate or share content\n•\nActivity on third-party sites and apps that use our services\n•\nChrome browsing history you've synced with your Google Account",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Depending on the products you're using and settings you choose, Google may use different types of location information to help make some services and products you use more helpful. These include:\n\n•\nGPS and other sensor data from your device\n•\nIP address\n•\n•\nActivity on Google services, such as from your searches or places you label like\nhome or work\nInformation about things near your device, such as Wi-Fi access points, cell towers,\nand Bluetooth-enabled devices",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": ">> Data collected in the context of reviews, chats and correspondence on the website or by email, fax and post",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": ">> Data collected in the context of reviews, chats and correspondence on the website or by email, fax and post",
+"lang": "en"
+}
+]
+}

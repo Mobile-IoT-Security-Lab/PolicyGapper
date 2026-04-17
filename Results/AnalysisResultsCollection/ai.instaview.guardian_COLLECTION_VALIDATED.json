@@ -1,0 +1,122 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Log Information: We collect log information about your use of the Services, including the type of browser you use, app version, your IP address, access times, pages viewed, and the page you visited before navigating to our Services.",
+      "justification": "The privacy policy states that App interactions are collected, as evidenced by the text: '...access times, pages viewed...'.",
+      "how_to_fix": "Declare the collection of 'App interactions' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We also collect any information you provide when you sign up for our mailing list, purchase a device, register your device, request customer support, participate in any interactive features of the Services, communicate with us via third-party social media sites, apply for a job, or otherwise communicate with us.",
+      "justification": "The privacy policy states that Other User generated content is collected, as evidenced by the text: '...participate in any interactive features of the Services, communicate with us...'.",
+      "how_to_fix": "Declare the collection of 'Other User generated content' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of our website and mobile application and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by InstaVision and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Your device may also include a feature ( \"Limit Ad Tracking\" on iOS, or \"Opt Out of Interest-Based Ads\" or \"Opt Out of Ads Personalization\" on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.",
+      "justification": "The privacy policy states that Other actions are collected, as evidenced by the text: '...links clicked, and conversion information.'.",
+      "how_to_fix": "Declare the collection of 'Other actions' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Log Information: We collect log information about your use of the Services, including the type of browser you use, app version, your IP address, access times, pages viewed, and the page you visited before navigating to our Services.",
+      "justification": "The privacy policy states that Web browsing history is collected, as evidenced by the text: '...the page you visited before navigating to our Services.'.",
+      "how_to_fix": "Declare the collection of 'Web browsing history' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Log Information: We collect log information about your use of the Services, including the type of browser you use, app version, your IP address, access times, pages viewed, and the page you visited before navigating to our Services.",
+      "justification": "The privacy policy states that Other app performance data is collected, as evidenced by the text: 'Log Information: We collect log information about your use of the Services, including... app version, your IP address, access times...'.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Device Information: We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers, and mobile network information.",
+      "justification": "The privacy policy states that Device or other IDs are collected, as evidenced by the text: '...unique device identifiers...'.",
+      "how_to_fix": "Declare the collection of 'Device or other IDs' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We collect information you provide directly to us. For instance, in order to use a device, we require you to register for an account by providing your name, email address, and phone number. In order to customize and enhance your experience and the messages we send you, we may ask you to provide additional information.",
+      "justification": "The privacy policy states that Name is collected, as evidenced by the text: '...register for an account by providing your name...'.",
+      "how_to_fix": "Declare the collection of 'Name' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We collect information you provide directly to us. For instance, in order to use a device, we require you to register for an account by providing your name, email address, and phone number. In order to customize and enhance your experience and the messages we send you, we may ask you to provide additional information.",
+      "justification": "The privacy policy states that Email address is collected, as evidenced by the text: '...register for an account by providing your... email address...'.",
+      "how_to_fix": "Declare the collection of 'Email address' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We collect information you provide directly to us. For instance, in order to use a device, we require you to register for an account by providing your name, email address, and phone number. In order to customize and enhance your experience and the messages we send you, we may ask you to provide additional information.",
+      "justification": "The privacy policy states that Phone number is collected, as evidenced by the text: '...register for an account by providing your... phone number.'.",
+      "how_to_fix": "Declare the collection of 'Phone number' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We also collect any information you provide when you sign up for our mailing list, purchase a device, register your device, request customer support, participate in any interactive features of the Services, communicate with us via third-party social media sites, apply for a job, or otherwise communicate with us.",
+      "justification": "The privacy policy implies that User payment info is collected, as evidenced by the text: '...purchase a device...'.",
+      "how_to_fix": "Declare the collection of 'User payment info' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We also collect any information you provide when you sign up for our mailing list, purchase a device, register your device, request customer support, participate in any interactive features of the Services, communicate with us via third-party social media sites, apply for a job, or otherwise communicate with us.",
+      "justification": "The privacy policy states that Purchase history is collected, as evidenced by the text: '...purchase a device...'.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "When you use our device, we collect real-time audio and video data from the device. We utilize this data to detect and gather information on various vital signs, including physiological indicators, as well as to identify and collect data on entities and objects present in the scene",
+      "justification": "The privacy policy states that Health info is collected, as evidenced by the text: '...detect and gather information on various vital signs, including physiological indicators...'.",
+      "how_to_fix": "Declare the collection of 'Health info' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "When you use our device, we collect real-time audio and video data from the device. We utilize this data to detect and gather information on various vital signs, including physiological indicators, as well as to identify and collect data on entities and objects present in the scene",
+      "justification": "The privacy policy states that Videos are collected, as evidenced by the text: '...collect real-time audio and video data from the device...'.",
+      "how_to_fix": "Declare the collection of 'Videos' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "When you use our device, we collect real-time audio and video data from the device. We utilize this data to detect and gather information on various vital signs, including physiological indicators, as well as to identify and collect data on entities and objects present in the scene",
+      "justification": "The privacy policy states that Voice or sound recordings are collected, as evidenced by the text: '...collect real-time audio and video data from the device...'.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in the 'Data collected' section of your app's Data Safety form on Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "When you use our device, we collect real-time audio and video data from the device. We utilize this data to detect and gather information on various vital signs, including physiological indicators, as well as to identify and collect data on entities and objects present in the scene",
+      "reason_of_removal": "Inconsistent: The policy mentions 'vital signs' and 'physiological indicators,' which directly map to 'Health info,' not 'Fitness info.'",
+      "justification": "The policy text does not support the collection of 'Fitness info'. It refers to 'vital signs' and 'physiological indicators', which are categorized as 'Health info'.",
+      "how_to_fix": "No action needed for this specific data type based on the provided policy text. Ensure 'Health info' is declared if applicable.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We collect information you provide directly to us. For instance, in order to use a device, we require you to register for an account by providing your name, email address, and phone number. In order to customize and enhance your experience and the messages we send you, we may ask you to provide additional information.",
+      "reason_of_removal": "Inconsistent: The policy states collection of 'email address,' not the content of 'Emails.'",
+      "justification": "The policy text confirms the collection of the user's 'Email address' for account registration, not the content of their 'Emails'.",
+      "how_to_fix": "No action needed for this specific data type. Ensure 'Email address' is declared.",
+      "lang": "en"
+    }
+  ]
+}
+```

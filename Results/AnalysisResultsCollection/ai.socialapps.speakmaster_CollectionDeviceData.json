@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "The personal information to be collected and transferred will include, but not limited to, days of your account registration, active hours of your account, the in-app virtual merchandise you have purchased, usage of your purchased in-app virtual merchandise, value of your purchased in-app virtual merchandise, etc.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "PolyBuzz will automatically collect and save user network logs, including browser type, browsing records, network diagnosis, so that we can evaluate use of PolyBuzz, optimize it and improve our Services.",
+      "lang": "English"
+    }
+  ]
+}

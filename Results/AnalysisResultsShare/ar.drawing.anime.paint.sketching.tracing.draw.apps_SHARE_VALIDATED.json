@@ -1,0 +1,107 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Advertising. To the extent we display advertising in our Services, we may allow advertising networks of our affiliates and partner networks to collect information about your mobile device to enable them to serve targeted ads to you. Such mobile device data includes the following:\n- Device make, model and operating system;\n- Device properties related to screen size & orientation, audio volume and battery;\n- Carrier;\n- Operating system;\n- Name and properties of mobile application through which a consumer interacts with the Services;\n- Country, time zone and locale settings (country and preferred language);\n- Network connection type and speed;\n- IP Address;\n- Internet browser user-agent used to access the Services; and\n- Advertising ID (IDFA on iOS devices and GAID on Android devices).",
+      "justification": "The privacy policy states that Advertising ID (a type of Device or other ID) is collected by third-party advertising networks to serve targeted ads, which constitutes sharing.",
+      "how_to_fix": "Declare that 'Device or other IDs' is 'Shared' with third parties for 'Advertising or marketing' purposes in the 'Data safety' section of the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Communicate with you about promotions, contests, rewards, upcoming events, and other news about products and services offered by LOGICLABS LIMITED and our selected partners;",
+      "justification": "The privacy policy states that the app communicates about offers from 'selected partners', implying that personal data like 'Name' is shared with these partners for marketing purposes.",
+      "how_to_fix": "Declare that 'Name' is 'Shared' with third parties for 'Advertising or marketing' purposes in the 'Data safety' section of the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Communicate with you about promotions, contests, rewards, upcoming events, and other news about products and services offered by LOGICLABS LIMITED and our selected partners;",
+      "justification": "The privacy policy states that the app communicates about offers from 'selected partners', implying that personal data like 'Email address' is shared with these partners for marketing purposes.",
+      "how_to_fix": "Declare that 'Email address' is 'Shared' with third parties for 'Advertising or marketing' purposes in the 'Data safety' section of the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Advertising. To the extent we display advertising in our Services, we may allow advertising networks of our affiliates and partner networks to collect information about your mobile device to enable them to serve targeted ads to you. Such mobile device data includes the following:\n- Device make, model and operating system;\n- Device properties related to screen size & orientation, audio volume and battery;\n- Carrier;\n- Operating system;\n- Name and properties of mobile application through which a consumer interacts with the Services;\n- Country, time zone and locale settings (country and preferred language);\n- Network connection type and speed;\n- IP Address;\n- Internet browser user-agent used to access the Services; and\n- Advertising ID (IDFA on iOS devices and GAID on Android devices).",
+      "justification": "The privacy policy states that Advertising ID (a type of User ID) is collected by third-party advertising networks to serve targeted ads, which constitutes sharing.",
+      "how_to_fix": "Declare that 'User IDs' is 'Shared' with third parties for 'Advertising or marketing' purposes in the 'Data safety' section of the Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Advertising. To the extent we display advertising in our Services, we may allow advertising networks of our affiliates and partner networks to collect information about your mobile device to enable them to serve targeted ads to you. Such mobile device data includes the following:\n- Device make, model and operating system;\n- Device properties related to screen size & orientation, audio volume and battery;\n- Carrier;\n- Operating system;\n- Name and properties of mobile application through which a consumer interacts with the Services;\n- Country, time zone and locale settings (country and preferred language);\n- Network connection type and speed;\n- IP Address;\n- Internet browser user-agent used to access the Services; and\n- Advertising ID (IDFA on iOS devices and GAID on Android devices).",
+      "justification": "The privacy policy states that IP Address and Country are collected by third-party advertising networks, which can be used to determine 'Approximate location'. This constitutes sharing.",
+      "how_to_fix": "Declare that 'Approximate location' is 'Shared' with third parties for 'Advertising or marketing' purposes in the 'Data safety' section of the Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Technical and Usage Information: When you access our Services, we may collect (i) certain technical information about your mobile device or computer system, including IP Address, mobile device ID (IDFA, Google Advertising ID or other identifiers), and the version of your operating system; and (ii) usage statistics about your interactions with the Services. In certain Services we will create and assign to your device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as username, character name, or e-mail address. We may also access your contacts to enable you to invite friends to join you in the Services. This information is typically collected through the use of third-party mobile device software development kits. We may occasionally send you push notifications through our Services to send you game updates, high scores and other service-related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy indicates data is collected via third-party SDKs for internal purposes like analytics, which qualifies for the service provider exemption.",
+      "how_to_fix": "No action required as this usage does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Technical and Usage Information: When you access our Services, we may collect (i) certain technical information about your mobile device or computer system, including IP Address, mobile device ID (IDFA, Google Advertising ID or other identifiers), and the version of your operating system; and (ii) usage statistics about your interactions with the Services. In certain Services we will create and assign to your device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as username, character name, or e-mail address. We may also access your contacts to enable you to invite friends to join you in the Services. This information is typically collected through the use of third-party mobile device software development kits. We may occasionally send you push notifications through our Services to send you game updates, high scores and other service-related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy indicates data is collected via third-party SDKs for internal purposes like analytics, which qualifies for the service provider exemption.",
+      "how_to_fix": "No action required as this usage does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Third Party Services. We may provide your information to third party companies to perform certain services, including but not limited to hosting services, payment processing, analytics, customer service and to assist us in our marketing efforts. Where we share your information with third-party service providers and business partners, we ensure that we have appropriate agreements in place to protect your information as required by applicable data protection laws.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that data is shared with third parties 'to perform certain services' like 'analytics', which is a clear service provider exemption.",
+      "how_to_fix": "No action required as this usage does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Third Party Services. We may provide your information to third party companies to perform certain services, including but not limited to hosting services, payment processing, analytics, customer service and to assist us in our marketing efforts. Where we share your information with third-party service providers and business partners, we ensure that we have appropriate agreements in place to protect your information as required by applicable data protection laws.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that data is shared with third parties 'to perform certain services' like 'analytics', which is a clear service provider exemption.",
+      "how_to_fix": "No action required as this usage does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Third Party Services. We may provide your information to third party companies to perform certain services, including but not limited to hosting services, payment processing, analytics, customer service and to assist us in our marketing efforts. Where we share your information with third-party service providers and business partners, we ensure that we have appropriate agreements in place to protect your information as required by applicable data protection laws.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that data is shared with third parties 'to perform certain services' like 'analytics', which is a clear service provider exemption.",
+      "how_to_fix": "No action required as this usage does not need to be declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Communicate with you about promotions, contests, rewards, upcoming events, and other news about products and services offered by LOGICLABS LIMITED and our selected partners;",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference discusses communicating about partner offers but does not mention sharing the 'Phone number' for this purpose.",
+      "how_to_fix": "No action required as the policy does not support this declaration.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "- Communicate with you about promotions, contests, rewards, upcoming events, and other news about products and services offered by LOGICLABS LIMITED and our selected partners;",
+      "reason_of_removal": "Duplicate",
+      "justification": "This entry is an exact duplicate of another entry in the list.",
+      "how_to_fix": "No action required.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Technical and Usage Information: When you access our Services, we may collect (i) certain technical information about your mobile device or computer system, including IP Address, mobile device ID (IDFA, Google Advertising ID or other identifiers), and the version of your operating system; and (ii) usage statistics about your interactions with the Services. In certain Services we will create and assign to your device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as username, character name, or e-mail address. We may also access your contacts to enable you to invite friends to join you in the Services. This information is typically collected through the use of third-party mobile device software development kits. We may occasionally send you push notifications through our Services to send you game updates, high scores and other service-related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.",
+      "reason_of_removal": "User-Initiated Action Exemption",
+      "justification": "The policy states that contacts are accessed 'to enable you to invite friends', which is a user-initiated action and exempt from being declared as 'sharing'.",
+      "how_to_fix": "No action required as this usage does not need to be declared as 'sharing'.",
+      "lang": "English"
+    }
+  ]
+}
+```

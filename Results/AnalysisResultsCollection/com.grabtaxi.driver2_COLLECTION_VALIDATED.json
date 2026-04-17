@@ -1,0 +1,105 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you choose to publish content (such as a review or comment) on the Grab Platform, it will be shown publicly along with your personal data (such as username, uploaded photo(s)), and other information you have included in your content. For more information, see our Review Guidelines. (https://www.grab.com/sg/terms-policies/ugc-terms-reviews)",
+      "justification": "The privacy policy states that user-generated content like reviews or comments is collected and published on the platform, which means it is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Other User generated content' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "perform internal operations necessary to provide our Services, including troubleshooting software bugs and operational problems, conducting data analysis, testing and research, monitoring and analysing usage and activity trends;",
+      "justification": "The policy states data is used for 'troubleshooting software bugs and operational problems', which falls under Diagnostics. These 'internal operations' imply data is sent off-device for analysis.",
+      "how_to_fix": "Declare the collection of 'Diagnostics' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "perform internal operations necessary to provide our Services, including troubleshooting software bugs and operational problems, conducting data analysis, testing and research, monitoring and analysing usage and activity trends;",
+      "justification": "The policy states data is used for 'monitoring and analysing usage and activity trends', which is considered app performance data. This analysis is an internal operation, implying data is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "Some Personal Data we collect may be sensitive in nature in certain jurisdictions. This may include your national ID information, religious beliefs, background information (including financial and criminal records, where legally permissible), health data, disability, marital status, location and biometric data, as applicable. We collect sensitive Personal Data only with your consent and/or in strict compliance with applicable laws. In the event that you are required to furnish any documentation or information to us for any Purpose which may contain such sensitive Personal Data (which is not required for that Purpose), you agree to redact such sensitive Personal Data before providing such documentation or information to us.",
+      "justification": "The policy explicitly states that 'religious beliefs' may be collected with user consent. This data is sent off-device and is not described as being exempt.",
+      "how_to_fix": "Declare the collection of 'Political or religious beliefs' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We collect your Personal Data when you provide it to us. For example, when you:\n• complete a user registration form or customize your profile (such as your name, contact information and other\nidentification where needed);\n• provide information to assess your eligibility to provide services as a Grab driver partner or delivery partner (such\nas your driver's license information, vehicle information and background check results);\n•\nfurnish supporting documents, such as proof of disability, discount eligibility, so that we can support you better\nas a Grab driver partner, delivery partner or user on our platform;\n• provide information to assess your suitability to be a Grab merchant partner, vendor, supplier, or other partner\n(such as the name and contact information of the authorized representative);\n• interact with our social media pages (such as your social media account ID, profile photo, and any content (e.g.\nphotos, videos, stories) you create for publication on our social media channels;\n• participate in contests or events organised by us (such as the pictures, audio, or videos you may submit, which\nmay include images of yourself);\n• fill up demographic information in surveys (such as your age, gender, and other information you may volunteer\nsuch as your marital status, occupation and income information);\n• grant us access to your calendar events (such as reservation dates, times and venue names or addresses,\nflights);\n• apply for loans, insurance claims or other financing products to enable us to assess your eligibility (such as\nearning statements, bank statements, accident information, medical certificates, proof of relationship and\nrelevant information you may volunteer);\n• contact us through our various customer support channels (such as chat, messages, emails, call recordings,\npictures you submit to support your claim);\nsubmit reviews, feedback, ratings, media, or other content about a place and/or any Services, that we may\nassociate with and display alongside your public profile page;\n• interact with other users in our in-app communication features;\nagree to take a ride with in-vehicle audio and/or video recording features;\n• use map-related features, such as Live Location Sharing, we may collect and use precise location information\nfrom your device with your permission;",
+      "justification": "The policy describes collecting a wide range of other information directly from the user, such as demographic information in surveys ('age, gender...marital status, occupation and income information'). This data is provided to the service and sent off-device.",
+      "how_to_fix": "Declare the collection of 'Other info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Personal Data may be passively collected through the normal operation or use of our Platforms. Some examples are:\n• your location information;\n• transaction information (such as payment method, settlement records, items purchased or paid through our\nServices);\nusage data (such as features used and content viewed);\n• device information (such as hardware model and serial number, IP addresses), file and app names and versions,\nGPS location, IMEI number, and advertising identifiers or any information that may indicate device or app\nmodification);\n• telematics data (such as speed, acceleration and braking data) collected through devices installed in vehicles for\nthe following purposes:\n• to ensure that vehicles are maintained appropriately and serviced in a timely fashion;\n• to help maintain the safety, security, and integrity and improve our products and Services;\n• for internal tracking of the vehicle, analysis and administrative purposes; and\n• to analyze driving patterns for insurance-related purposes, such as assessing risk, determining premiums\nand offering usage-based insurance programs\n• personal data that may be captured through your interaction with us, our agents, in-vehicle audio and/or video\nrecording during a ride (such as your image, video, r voice or a combination of these, and its related metadata).\n• our in-vehicle applications or devices\n■ we may install in-vehicle audio and/or video recording applications or devices to promote the safety\nand security of our driver partners, delivery partners and consumers.\n• personal in-vehicle applications or devices\n■ some Grab partners may install personal in-vehicle applications or devices in their vehicles for their\nown purposes. This practice is not endorsed nor prohibited by Grab;\n■ the collection, use and disclosure of Personal Data obtained from personal in-vehicle applications or\ndevices is the responsibility of the relevant partner. Please check with the relevant partner if you have\nany queries about their use of personal in-vehicle cameras.",
+      "justification": "The policy states that 'transaction information (such as... items purchased or paid through our Services)' is collected. This data is sent off-device to process transactions.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "We may collect Personal Data, including but not limited to information about you (such as customer information,\ncontact details, other identification information, and financial data where needed) from other sources. Such sources\ninclude:\n• Grab Group and Associates;\n• referral programmes;\n• our business partners, such as fleet partners, payment providers, ride-hailing partners and transport partners;\n• insurance and financial providers;\n• risk intelligence and fraud assessment providers;\n• credit bureaus, payment network providers, alternative credit scoring agencies and any other third party credit\nreporting organisations;\n• publicly available or governmental sources of data; and\n• marketing services providers or partners.",
+      "justification": "The policy states that data is collected from sources including 'credit bureaus' and 'alternative credit scoring agencies'. This data is collected by the developer and is not exempt.",
+      "how_to_fix": "Declare the collection of 'Credit score' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Some Personal Data we collect may be sensitive in nature in certain jurisdictions. This may include your national ID information, religious beliefs, background information (including financial and criminal records, where legally permissible), health data, disability, marital status, location and biometric data, as applicable. We collect sensitive Personal Data only with your consent and/or in strict compliance with applicable laws. In the event that you are required to furnish any documentation or information to us for any Purpose which may contain such sensitive Personal Data (which is not required for that Purpose), you agree to redact such sensitive Personal Data before providing such documentation or information to us.",
+      "justification": "The policy explicitly states that 'health data' and 'disability' information may be collected with user consent. This data is sent off-device and is not described as being exempt.",
+      "how_to_fix": "Declare the collection of 'Health info' in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "contact us through our various customer support channels (such as chat, messages, emails, call recordings, pictures you submit to support your claim);",
+      "justification": "The policy states that data from 'emails' is collected when a user contacts customer support. This data is sent to the developer and is not exempt.",
+      "how_to_fix": "Declare the collection of 'Emails' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "contact us through our various customer support channels (such as chat, messages, emails, call recordings, pictures you submit to support your claim);",
+      "justification": "The policy states that data from 'chat' and 'messages' is collected when a user contacts customer support. This data is sent to the developer and is not exempt.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "personal data that may be captured through your interaction with us, our agents, in-vehicle audio and/or video recording during a ride (such as your image, video, r voice or a combination of these, and its related metadata).",
+      "justification": "The policy states that 'video' may be captured via in-vehicle recordings. This data is collected by the service and is not exempt.",
+      "how_to_fix": "Declare the collection of 'Videos' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "contact us through our various customer support channels (such as chat, messages, emails, call recordings, pictures you submit to support your claim);",
+      "justification": "The policy states that 'call recordings' are collected when a user contacts customer support. This data is sent to the developer and is not exempt.",
+      "how_to_fix": "Declare the collection of 'Voice or sound recordings' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "participate in contests or events organised by us (such as the pictures, audio, or videos you may submit, which may include images of yourself);",
+      "justification": "The policy states that 'audio' files may be submitted for contests or events. This data is sent to the developer and is not exempt.",
+      "how_to_fix": "Declare the collection of 'Other audio files' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "grant us access to your calendar events (such as reservation dates, times and venue names or addresses, flights);",
+      "justification": "The policy states the app may 'grant us access to your calendar events'. This implies the data is sent off-device for processing and is not described as being exempt.",
+      "how_to_fix": "Declare the collection of 'Calendar events' in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

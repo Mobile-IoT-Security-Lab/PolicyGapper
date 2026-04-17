@@ -1,0 +1,56 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Advertising and Analytics Services Provided by Others We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information.",
+      "justification": "The policy states that third-party analytics services collect information about user activity within the app, such as pages viewed, time spent, and links clicked, which falls under 'App interactions'. This data is sent off-device for analysis.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in the Data Safety section of the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "When you create an account with us, you provide us with personal information that includes your name and email address. You can also choose to add a phone number or payment information to your account.",
+      "justification": "The policy explicitly states that the user's name is collected and sent off-device when they create an account.",
+      "how_to_fix": "Declare 'Name' as a collected data type in the Data Safety section of the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you create an account with us, you provide us with personal information that includes your name and email address. You can also choose to add a phone number or payment information to your account.",
+      "justification": "The policy states that users can provide a phone number for their account, which constitutes data collection sent off-device.",
+      "how_to_fix": "Declare 'Phone number' as a collected data type in the Data Safety section of the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "When you create an account with us, you provide us with personal information that includes your name and email address. You can also choose to add a phone number or payment information to your account.",
+      "justification": "The policy states that users can add payment information to their account, which is collected and sent off-device.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in the Data Safety section of the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may also collect information about your location when you use our services, which helps us offer features like directions. Your location can be determined with varying degrees of accuracy by: GPS and other sensor data from your device, IP address, Things near your device, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices.",
+      "justification": "The policy describes collecting location data from sources like IP addresses and Wi-Fi access points to provide services, indicating the data is sent off-device. This corresponds to 'Approximate location'.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in the Data Safety section of the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may also collect information about your location when you use our services, which helps us offer features like directions. Your location can be determined with varying degrees of accuracy by: GPS and other sensor data from your device, IP address, Things near your device, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices.",
+      "justification": "The policy describes collecting location data from GPS and other device sensors to provide services, indicating the data is sent off-device. This corresponds to 'Precise location'.",
+      "how_to_fix": "Declare 'Precise location' as a collected data type in the Data Safety section of the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "If you choose to register or log in to our Services using a social media account, we may have access to certain information about you. We collect your name, email address, and profile picture, as well as other information you choose to make public on such social media platform. The information we receive may vary by social media provider, but will be governed by the privacy notice and your privacy settings on the social media platform.",
+      "justification": "The policy states that the app collects the user's 'profile picture' from social media accounts, which is a type of photo sent to the developer's servers.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in the Data Safety section of the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

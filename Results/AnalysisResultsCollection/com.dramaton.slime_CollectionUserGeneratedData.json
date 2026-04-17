@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "Customer Support\nWe may use your or your child's information to send questions or requests to customer\nsupport. If you reach out to us for support, we will use your Personal Information to open\na support ticket, respond once to your email and resolve your queries and complaints\nand to facilitate support (e.g., retrieval of Game level). The Personal Information we\nprocess when doing so includes your identifiers, Dramaton specific ID, where you are\nlocated and any other information about you collected via our player support channels.\nAll support emails and user information will be deleted immediately after replying to the\nuser.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "User Generated Content and Content Sharing Feature\nCertain activities on our App allow users to create or manipulate content and save it on\ntheir Device, post the content publicly on social networks or share it with a third party for\nthe third party's own use. Examples of created content that may involve the collection of\nPersonal Information are:\n• The ability to “Send Slime Gifts to Friends” feature, which can be loaded and\nplayed on a third party's device. Gifts may be sent by clicking the gift icon and\nsharing a gift link via 3rd party messaging and social apps.\n• The ability to share images of slime from the app.",
+"lang": "en"
+}
+]
+}

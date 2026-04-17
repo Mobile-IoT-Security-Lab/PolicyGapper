@@ -1,0 +1,70 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Advertising Partners | We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can't be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage. | Account Data Profile Data Usage Data Technical Data |",
+      "justification": "The privacy policy states that 'Usage Data' is shared with third-party 'Advertising Partners' to improve ad relevance. In-app search history is a type of 'Usage Data'. This is considered 'sharing' under Google Play policy and is not exempt as a service provider action.",
+      "how_to_fix": "In the Play Console's Data safety section, declare that 'In-app search history' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Affiliates | We may share data with affiliates or receive data from them for the purposes laid out in Section 6 of this policy. | The categories of data will vary based on the reason for sharing, but it may include:. Account Data Profile Data Content Purchase Data Marketing, Survey and Research Data Third Party Data Customer Support Data Social Media Data Usage Data Technical Data Geolocation Data Face Geometry Data ID Data |",
+      "justification": "The privacy policy states that 'Content' is shared with 'Affiliates'. Sharing data with affiliates is considered 'sharing' with a third party under Google Play's policy and must be declared.",
+      "how_to_fix": "In the Play Console's Data safety section, declare that 'Other user-generated content' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Advertising Partners | We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can't be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage. | Account Data Profile Data Usage Data Technical Data |",
+      "justification": "The privacy policy states that 'Usage Data' is shared with third-party 'Advertising Partners' to improve ad relevance. 'Other actions' is a type of 'Usage Data'. This is considered 'sharing' under Google Play policy and is not exempt as a service provider action.",
+      "how_to_fix": "In the Play Console's Data safety section, declare that 'Other actions' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Advertising Partners | We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can't be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage. | Account Data Profile Data Usage Data Technical Data |",
+      "justification": "The privacy policy states that 'Technical Data' is shared with third-party 'Advertising Partners'. Crash logs are a type of 'Technical Data'. This is considered 'sharing' under Google Play policy and must be declared.",
+      "how_to_fix": "In the Play Console's Data safety section, declare that 'Crash logs' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Advertising Partners | We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can't be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage. | Account Data Profile Data Usage Data Technical Data |",
+      "justification": "The privacy policy states that 'Technical Data' is shared with third-party 'Advertising Partners'. Diagnostics data is a type of 'Technical Data'. This is considered 'sharing' under Google Play policy and must be declared.",
+      "how_to_fix": "In the Play Console's Data safety section, declare that 'Diagnostics' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Advertising Partners | We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can't be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage. | Account Data Profile Data Usage Data Technical Data |",
+      "justification": "The privacy policy states that 'Profile Data' is shared with third-party 'Advertising Partners'. Sexual orientation is a type of 'Profile Data'. This is considered 'sharing' under Google Play policy and must be declared.",
+      "how_to_fix": "In the Play Console's Data safety section, declare that 'Sexual orientation' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Affiliates | We may share data with affiliates or receive data from them for the purposes laid out in Section 6 of this policy. | The categories of data will vary based on the reason for sharing, but it may include:. Account Data Profile Data Content Purchase Data Marketing, Survey and Research Data Third Party Data Customer Support Data Social Media Data Usage Data Technical Data Geolocation Data Face Geometry Data ID Data |",
+      "justification": "The privacy policy explicitly states that 'Purchase Data' is shared with 'Affiliates'. Sharing data with affiliates is considered 'sharing' with a third party under Google Play's policy and must be declared.",
+      "how_to_fix": "In the Play Console's Data safety section, declare that 'Purchase history' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "| Recipients | Reasons for sharing | Categories of Personal Data |\n|---|---|---|\n| Affiliates | We may share data with affiliates or receive data from them for the purposes laid out in Section 6 of this policy. | The categories of data will vary based on the reason for sharing, but it may include:. Account Data Profile Data Content Purchase Data Marketing, Survey and Research Data Third Party Data Customer Support Data Social Media Data Usage Data Technical Data Geolocation Data Face Geometry Data ID Data |",
+      "justification": "The privacy policy explicitly states that 'Geolocation Data' is shared with 'Affiliates'. Sharing data with affiliates is considered 'sharing' with a third party under Google Play's policy and must be declared.",
+      "how_to_fix": "In the Play Console's Data safety section, declare that 'Precise location' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can't be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage.",
+      "justification": "The privacy policy explicitly states that the user's 'email address' is provided to or transformed by 'advertising partners' for marketing campaigns. This is considered 'sharing' under Google Play policy and is not exempt as a service provider action.",
+      "how_to_fix": "In the Play Console's Data safety section, declare that 'Email address' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

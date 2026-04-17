@@ -1,0 +1,9 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Photos",
+"policy_reference": "Our Game does not require you to provide your real name or upload your own image. Having a User's Name and User's Avatar is required, but if you do not want to provide them, they will be generated automatically. If you wish to personalize your account, you have the option of providing us with a User's Name yourself, unless it is already used by another player in our Game. If you do this, we will process your User's Name and User's Avatar, but you can delete or change them at any time. Also, to minimize the personal data we process, we assign a User's ID to your account.",
+"lang": "en"
+}
+]
+}

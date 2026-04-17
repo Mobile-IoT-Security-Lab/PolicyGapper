@@ -1,0 +1,56 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We use this information: for security and verification purposes; identify and address bugs and assess function for optimize action; solve crashes and optimize compatibility of devices; and to combat users registering for multiple accounts.",
+      "justification": "The policy states that information is used to 'solve crashes' and 'identify and address bugs', which directly corresponds to the collection of crash log data.",
+      "how_to_fix": "Declare 'Crash logs' under the 'Diagnostics' category in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We use this information: for security and verification purposes; identify and address bugs and assess function for optimize action; solve crashes and optimize compatibility of devices; and to combat users registering for multiple accounts.",
+      "justification": "The policy mentions using information to 'identify and address bugs', 'solve crashes', and 'optimize compatibility of devices', which are all forms of diagnostics data collection.",
+      "how_to_fix": "Declare 'Diagnostics' in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We use this information: for security and verification purposes; identify and address bugs and assess function for optimize action; solve crashes and optimize compatibility of devices; and to combat users registering for multiple accounts.",
+      "justification": "The policy states information is used to 'assess function for optimize action' and 'optimize compatibility of devices', which falls under the category of app performance data.",
+      "how_to_fix": "Declare 'Other app performance data' under the 'Diagnostics' category in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• information you provide when seeking help from us such as your name, telephone number and records of the issues you experience;",
+      "justification": "The policy explicitly states that when users seek help, the app may collect their 'telephone number'.",
+      "how_to_fix": "Declare 'Phone number' under the 'Personal info' category in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "billing information, such as your name, payment card number and payment account details;",
+      "justification": "The policy explicitly mentions the collection of 'billing information, such as your name, payment card number and payment account details'.",
+      "how_to_fix": "Declare 'User payment info' under the 'Financial info' category in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Demographic data (such as to determine the coarse location of your IP address)",
+      "justification": "The policy states the app collects 'Demographic data (such as to determine the coarse location of your IP address)', which is equivalent to collecting Approximate location.",
+      "how_to_fix": "Declare 'Approximate location' under the 'Location' category in your app's Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Chat Data\nIf you enable chat services (audio or text) then we will process such data in order to deliver your messages to other users.",
+      "justification": "The policy states that if 'audio' chat services are enabled, the app will 'process such data in order to deliver your messages', indicating the collection of voice or sound recordings.",
+      "how_to_fix": "Declare 'Voice or sound recordings' under the 'Audio files' category in your app's Data Safety form.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

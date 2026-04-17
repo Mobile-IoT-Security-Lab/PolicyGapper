@@ -1,0 +1,87 @@
+This Privacy Policy describes how we(Fillog Studio, Shenzhen Chai Lai Techenology Co., Ltd. and so on) collect the
+information when you use our applications downloaded from Google Play Store or Apple app store or other third party
+app store. The Policy also explains how we use and disclose the information collected from you.
+
+---
+
+What Information We Will Use ?
+We use the following information after your agreement to implement significant features and provide you better
+experience.
+
+---
+
+■ Device Information.
+We use device-specific information (such as your hardware manufacturer & model, operating system version, screen size,
+CPU model, mobile network information and installed apps) to implement app features, provide our services, and
+improve the app performance for all our users.
+
+---
+
+■ Local File and Storage.
+We use local shared objects to enhance user experience, for example, storing your city and weather data, pictures after
+processing, user preferences and settings.
+
+---
+
+■ App Usage Data.
+We use usage data includes information relating to the behavior and/or the habit when you are using the app to analyze
+and improve the user experience. We do not collect the content you may transmit or share within the app.
+
+---
+
+■ Photo in Gallery.
+We access your device gallery to implement features (such as duplicate photo remover, photo collage), but we will never
+store or transfer your album photos.
+
+---
+
+■ Camera Access.
+We only access your device camera when using app features like Flashlight or getting camera resolution.
+
+---
+
+■ Location Information.
+When you use a location-enabled Weather app service, we may collect and process information about your actual
+location, like GPS signals sent by a mobile device.
+
+--- [PAGE BREAK] ---
+
+About facial data
+■ What facial data does our app collect?
+Our application only collects user facial key points.
+
+---
+
+■ How do we use the collected facial data?
+Whenever you apply an effect that involves a face manipulation we use other special face recognition technologies on the
+server side in order to:
+detect a face in a photo;
+- find required facial key points (the set of points varies with the effect);
+and apply the effect to your photo based on the detected key points.
+In this case the key points are temporarily cached in server's RAM between processings and get removed shortly after
+the last effect has been applied to the corresponding photo.
+
+---
+
+■ Will the data be shared with any third parties? Where will this information be stored?
+We use the Replicate server to process facial data. We will save the user's facial image on our own Google server and also
+upload it to the Replicate server.
+
+---
+
+■ How long will facial data be retained?
+To be used as server cache, facial data is only retained on the server for 24 hours. Followed by a replicate privacy link,
+https://replicate.com/privacy
+
+---
+
+How We Use the Information above?
+We use the information above while you use our applications and services to provide you better features and experience
+on them. We also use the data to measure the performance and improve the apps and services.
+
+---
+
+For some apps using account system like KeepSafe, If you want to delete your account data, you can go to step "Me
+Page -> Settings(or click Setting button) -> Log out" to leave our app. Then you can contact us by email(you must provide
+your Facebook email or the email you have bind to our apps, which for us to find your account), we will help you delete
+your account data stored in our apps.

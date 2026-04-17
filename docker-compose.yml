@@ -1,0 +1,12 @@
+services:
+  dss-validator:
+    build: .
+    image: dss-validator:ubuntu25
+    environment:
+      - GEMINI_API_KEY=INSERT_YOUR_GEMINI_API_KEY_HERE
+    volumes:
+      - ./PolicyGapper/input:/app/PolicyGapper/input
+      - ./AnalysisResults:/app/PolicyGapper/AnalysisResults
+      - ./DSS:/app/DSS
+      - ./PPP:/app/PPP
+

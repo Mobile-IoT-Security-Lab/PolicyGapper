@@ -1,0 +1,4 @@
+Your phone number
+
+When register your account, you opt to set up a password recovery phone number. This
+number will only be used to send you a password recovery code, if you forget it.

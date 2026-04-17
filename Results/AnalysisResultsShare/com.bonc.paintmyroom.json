@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:\n• Google Play Services\n•\nGoogle Analytics for Firebase\n• Firebase Crashlytics\n• RevenueCat\n• AdMob\n• AppLovin\n• Meta\n• Liftoff\n• Unity.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:\n• Google Play Services\n•\nGoogle Analytics for Firebase\n• Firebase Crashlytics\n• RevenueCat\n• AdMob\n• AppLovin\n• Meta\n• Liftoff\n• Unity.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of
+Personal Information if anyone decided to use our Service.
+---
+If you choose to use our Service, then you agree to the collection and use of information in relation to this
+policy. The Personal Information that we collect is used for providing and improving the Service. We will
+not use or share your information with anyone except as described in this Privacy Policy.
+---
+[SECTION: Information Collection and Use]
+Information Collection and Use
+For a better experience, while using our Service, we may require you to provide us with certain personally
+identifiable information, including but not limited to name, surname, device id, phone number. The
+information that we request will be retained by us and used as described in this privacy policy.
+---
+The app does use third-party services that may collect information used to identify you.
+---
+Link to the privacy policy of third-party service providers used by the app
+*
+[Google Play Services](https://www.google.com/policies/privacy/)
+*
+*
+*
+*
+*
+*
+*
+*
+[AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+[Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+[Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+[Facebook](https://www.facebook.com/about/privacy/update/printable)
+[Unity](https://unity3d.com/legal/privacy-policy)
+[One Signal](https://onesignal.com/privacy_policy)
+[AppLovin](https://www.applovin.com/privacy/)
+[Vungle](https://vungle.com/privacy/)
+--- [PAGE BREAK] ---
+*
+*
+*
+[AdColony](https://www.adcolony.com/privacy-policy/)
+[Adjust](https://www.adjust.com/terms/privacy-policy)
+[RevenueCat](https://www.revenuecat.com/privacy)
+---
+[SECTION: Log Data]
+Log Data
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data
+and information (through third-party products) on your phone called Log Data. This Log Data may
+include information such as your device Internet Protocol (“IP”) address, device name, operating system
+version, the configuration of the app when utilizing our Service, the time and date of your use of the
+Service, and other statistics.
+---
+[SECTION: Cookies]
+Cookies
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers.
+These are sent to your browser from the websites that you visit and are stored on your device's internal
+memory.
+---
+This Service does not use these "cookies" explicitly. However, the app may use third-party code and
+libraries that use “cookies” to collect information and improve their services. You have the option to either
+accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to
+refuse our cookies, you may not be able to use some portions of this Service.
+---
+[SECTION: Service Providers]
+We want to inform users of this Service that these third parties have access to their Personal Information.
+The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to
+--- [PAGE BREAK] ---
+disclose or use the information for any other purpose.
+---
+[SECTION: Children's Privacy]
+Children's Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally
+identifiable information from children under 13 years of age. In the case we discover that a child under 13
+has provided us with personal information, we immediately delete this from our servers. If you are a
+parent or guardian and you are aware that your child has provided us with personal information, please
+contact us so that we will be able to do the necessary actions.
+---
+[SECTION: Extra information for IRMO - Al Video Photo Generator]
+Extra information for IRMO - Al Video Photo Generator
+Data Storage and Protection:
+•
+Purpose of Uploads:
+Users upload images solely to generate Al-powered visual results, such as virtual try-ons, Al portraits, Al
+--- [PAGE BREAK] ---
+videos, or similar effects. The app does not employ facial recognition technology for user identification or
+verification.
+---
+• Use of Face Data:
+Face data (i.e., the uploaded images containing faces) is used exclusively to:
+•
+•
+Generate Al-modified visuals such as virtual try-on previews, Al portraits, Al videos, or
+personalized image content.
+•
+Train a one-time Al model for the user's requested feature (e.g., image transformation, video
+creation).
+•
+Display and return processed results to the user within the app interface.
+---
+• Restrictions on Face Data Usage:
+The collected face data is never used for user identification, biometric analysis, surveillance, or
+advertising personalization.
+---
+• Data Storage Location:
+Data is stored temporarily on secure servers managed by IRMO and trusted cloud providers located in
+compliant regions (e.g., EU or US). Images are not accessible to any external users or parties beyond the
+required third-party processing pipeline.
+---
+• Data Retention and User Control:
+Face data is retained until the user chooses to delete it. This is because the app interface allows users to
+view both the original uploaded images and the Al-generated results at any time.
+•
+User Control: Images (both original and generated) are stored securely and remain available in the
+app until manually deleted by the user.
+•
+Deletion Request: If a user deletes a photo via the app interface, it is deleted from IRMO servers
+and third-party caches within 30 days.
+•
+Automatic Deletion (if incomplete): Temporary files from incomplete generation sessions are
+automatically deleted after 2 hours.
+•
+No Reuse: The face data is never reused for any other purpose and is not used for training,
+analysis, or sharing without user action.
+---
+• No Biometric or Identification Use:
+The technologies implemented in IRMO do not allow unique identification or authentication of a user.
+--- [PAGE BREAK] ---
+IRMO does not collect biometric identifiers or biometric information, and does not perform facial
+recognition or biometric analysis from uploaded photos.
+---
+[SECTION: Extra information for Haze - Photo Enhance, Colorize]
+Extra information for Haze - Photo Enhance, Colorize
+•
+Our application, Haze, is committed to user privacy and ensuring the secure handling of user data. It's
+important to note that our app does not collect, use, disclose, share, or retain any face data from the
+users' photos.
+---
+•
+All photo processing operations are carried out on our secure servers. After processing, both the
+original and the processed photos are deleted from our servers immediately. Processed photos are sent
+back to the user's device and stored there only. No photos or data from photos are stored on our servers
+or shared with third parties.
+---
+[SECTION: Extra Information for Adel - Al Powered Storytelling Platform]
+Extra Information for Adel - Al Powered Storytelling Platform
+The following provisions detail the specific privacy practices in place for Adel:
+Voice Cloning and Retention:
+•
+The user's cloned voice data is exclusively processed for the express purpose of enabling the
+narration functionality within the Adel platform. Under no circumstances is this data utilized for
+ancillary purposes or disseminated to external entities.
+---
+•
+Voice recordings are retained on encrypted servers for a duration of 30 days subsequent to the
+most recent custom story creation. Absent any activity within this specified period, such voice data will
+be subjected to automatic deletion protocols. Subsequent story narrations post this period will
+necessitate re-recording by the user.
+---
+Story Generation and Data Management:
+•
+Custom stories are formulated in collaboration with OpenAl's ChatGPT 3.5 and ChatGPT 4
+technologies. Post-generation, all data parameters utilized in the customization process are irrevocably
+deleted.
+--- [PAGE BREAK] ---
+Profile Data Management:
+•
+User-uploaded profile imagery and other personal data, including but not limited to name, age, and
+gender, are stored under stringent security protocols on dedicated servers. Such data remain in custody
+until the user elects to terminate their Adel profile, post which they are subjected to immediate deletion
+protocols.
+---
+[SECTION: Copyrighted Material:]
+Copyrighted Material:
+•
+User Responsibility: It is the user's responsibility to ensure that any lyrics or elements they input into
+Donna do not infringe on the copyrights of third parties. Donna does not claim ownership of the
+inputted material.
+---
+[SECTION: Intellectual Property:]
+Intellectual Property:
+•
+Protection of Intellectual Property: Users retain ownership of the original content they provide (e.g.,
+user-created lyrics). However, Donna does not provide any copyright protection services for the user-
+generated content. Users are responsible for protecting their own intellectual property rights.
+---
+[SECTION: Extra Information for Al Virtual Try On - GIGI]
+Extra Information for Al Virtual Try On - GIGI
+At GIGI, we prioritize the privacy and security of our users' data. We do not collect, store, or retain
+sensitive face data or biometric information. The following outlines how we handle your photos and how
+we protect your privacy:
+--- [PAGE BREAK] ---
+1. Face Data Retention
+Explicit Statement on Face Data:
+GIGI does not collect or store any face data or biometric information. Users upload their photos, which
+include their face, to create virtual try-ons. These photos are processed using Al algorithms to apply
+outfits to the images. After processing, the photos are stored temporarily until the user decides to
+delete them.
+---
+2. Reasons for Storing Photos
+The photos are used solely for the purpose of creating virtual try-ons. The images are temporarily stored
+to facilitate the processing of the virtual outfits and to allow users to review their try-ons. Users can delete
+their photos at any time.
+---
+3. Length of Time Photos Are Stored
+Temporary Storage:
+Photos are stored temporarily on our servers until the user decides to delete them. Once the user
+deletes a photo, it is removed from our servers within one month. This retention period is due to caching
+mechanisms that allow the app to handle data more efficiently. After one month, all data related to the
+photos, including cached images, is deleted from our servers.
+---
+Reason for Retention Period:
+The retention period allows us to clear cached data. Once the photo is deleted by the user, all related
+data is deleted from both the app and our servers within one month, ensuring that no photos are stored
+indefinitely.
+---
+4. Sharing Photos with Third Parties
+No Face Data Shared:
+GIGI does not share face data with third parties. However, user-uploaded photos are sent to third-party
+APIs to apply the virtual outfits and visualizations. These third-party services process the images
+temporarily to create the visualizations and return the processed data (outfit visualization) to GIGI.
+---
+5. Reasons for Sharing Photos with Third Parties
+We share the uploaded photos with third-party APIs for the sole purpose of applying virtual outfits and
+visualizations to the user's image. These third-party services are essential for processing the photos and
+providing the virtual try-on experience.
+---
+6. Third-Party Storage of Photos
+Do Third Parties Store Photos?
+The third-party services we use do not retain the photos after processing. Once the outfit visualization
+is applied, the data is returned to GIGI, and the photos are deleted from the third-party servers. No
+--- [PAGE BREAK] ---
+photos are stored by these services after the processing is complete.
+---
+Privacy Practices of Third Parties:
+The third-party services we use adhere to strict privacy standards and do not store any face data. The
+photos are processed temporarily, and once the virtual try-on process is complete, they are deleted.
+These services do not retain any user photos for future use.
+---
+We value your privacy and work to protect your data. GIGI ensures that no sensitive data, including face
+data, is collected or retained without your consent. Your photos are used solely for creating virtual try-ons,
+and once you delete them, they are removed from both the app and our servers as described above...

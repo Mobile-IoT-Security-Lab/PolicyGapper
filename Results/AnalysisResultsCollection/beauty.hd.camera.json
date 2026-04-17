@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The information we collect may include (where available) the type and model of the device you use, the device's unique device identifier, operating system, language options and mobile network information to allow you to use our services. We use this information to administer our services and for our internal operations including troubleshooting, data analysis, testing, research, statistical and survey purposes, to improve our services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "The information we collect may include (where available) the type and model of the device you use, the device's unique device identifier, operating system, language options and mobile network information to allow you to use our services. We use this information to administer our services and for our internal operations including troubleshooting, data analysis, testing, research, statistical and survey purposes, to improve our services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "The information we collect may include (where available) the type and model of the device you use, the device's unique device identifier, operating system, language options and mobile network information to allow you to use our services. We use this information to administer our services and for our internal operations including troubleshooting, data analysis, testing, research, statistical and survey purposes, to improve our services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Our partners may collect hardware and software information such as IP address, device ID and type, advertising IDs (such as Google's AAID, randomly generated numbers that you can reset by going into your device' settings), device language, operating system, time zones, and identifiers associated with cookies or other technologies that may uniquely identify your device.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location permission is required for geotagging of photos, but this is disabled by default. If enabled, your location is encoded in the saved image and video files (and it is only used for this purpose).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "CAMERA :\nCamera sensor, which is used for the purpose of taking photos.\nA permission is required to use the phone's camera hardware,It is necessary for the basic\nfunction of the application.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "AUDIO RECORD:\nMicrophone data, which is used for the purpose of recording videos.\nIt is a necessary permission for recording voices during video recording. It can not be used for\nany other purpose.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "AUDIO RECORD:\nMicrophone data, which is used for the purpose of recording videos.\nIt is a necessary permission for recording voices during video recording. It can not be used for\nany other purpose.",
+      "lang": "en"
+    }
+  ]
+}

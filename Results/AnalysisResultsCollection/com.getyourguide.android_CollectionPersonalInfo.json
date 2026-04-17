@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": ">> Data that you provide when setting up an account, such as your name, email address, telephone number, mobile phone number, address and data which will be provided depending on the service you use\n>> We collect, process and use transaction data regarding your activities on the websites (e.g. purchases, content that you generate or that relates to your account)\n>> Billing and other data you provide for the purchase\n>> Data collected in the context of reviews, chats and correspondence on the website or by email, fax and post\n>> Other personal data that we may ask you to provide for special purposes\n>> If you voluntarily provide us with additional personal data during registration, this data will also be used for the implementation of the usage relationship.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "We may obtain additional information about you from third parties to supplement our account information to the extent permitted by law. This includes demographic and navigation data, credit check data and other information from credit agencies, to the extent permitted by law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you download data, use our mobile applications or access one of our websites optimized for mobile devices, we may collect information about you and your mobile device as described above in this statement. This can include location data, for example, if you release it for our mobile application. We use this information to provide you with location-based services such as search results and other personalized content, if approved by you and your device. You can control or deactivate location services from the settings menu on most mobile devices. If you have questions about deactivating location services on your device, we recommend that you contact your mobile service provider or the manufacturer of your device.",
+      "lang": "English"
+    }
+  ]
+}

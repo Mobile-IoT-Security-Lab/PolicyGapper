@@ -1,0 +1,35 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "You may contact us by email indicated on our website, as well as this Privacy policy, with a question/request/complaint, etc. In such cases, we will have to process Personal Data you provide to give you the appropriate feedback on your inquiry.",
+      "justification": "The privacy policy states that when users contact the developer via email for support, the personal data they provide (which can include their name) is processed by the developer. This data is sent off the user's device and is therefore considered 'collected'.",
+      "how_to_fix": "Declare the collection of 'Name' in the 'User support' section of the Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "You may contact us by email indicated on our website, as well as this Privacy policy, with a question/request/complaint, etc. In such cases, we will have to process Personal Data you provide to give you the appropriate feedback on your inquiry.",
+      "justification": "The privacy policy states that when users contact the developer via email, their email address is processed to provide a response. This data is sent off the user's device and is therefore considered 'collected'.",
+      "how_to_fix": "Declare the collection of 'Email address' in the 'User support' section of the Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "From time to time, we may offer you paid features in the App. In order to receive payments, confirm payment status, provide you with paid features on the App, and ensure that you can receive a refund for in-app purchases, we require certain Personal Data that we receive from the Platform through which you download our App.",
+      "justification": "The privacy policy states that for handling in-app purchases, the developer receives personal data from the app platform (e.g., Google Play). This can include user or transaction IDs, which are collected and processed by the developer off the user's device.",
+      "how_to_fix": "Declare the collection of 'User IDs' in the 'App functionality' or 'Account management' section of the Google Play Console Data Safety form, specifying its use for in-app purchases.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "You may contact us by email indicated on our website, as well as this Privacy policy, with a question/request/complaint, etc. In such cases, we will have to process Personal Data you provide to give you the appropriate feedback on your inquiry.",
+      "justification": "The privacy policy states that when users contact the developer via email, the content of their communication is processed to provide a response. This data is sent off the user's device and is therefore considered 'collected'.",
+      "how_to_fix": "Declare the collection of 'Emails' in the 'User support' section of the Google Play Console Data Safety form.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

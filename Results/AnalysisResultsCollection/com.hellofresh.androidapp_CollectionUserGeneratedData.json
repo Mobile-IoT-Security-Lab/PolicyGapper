@@ -1,0 +1,39 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "Communications data that we exchange when you communicate with us, such as chat transcripts when you request support, contact us with questions or feedback or complete our surveys.",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "Communications data that we exchange when you communicate with us, such as chat transcripts when you request support, contact us with questions or feedback or complete our surveys.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.",
+"lang": "en"
+},
+{
+"data_type": "Music files",
+"policy_reference": "Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "Content data, such comments, text, images, audio, video or other content you post to or provide through the Service.",
+"lang": "en"
+}
+]
+}

@@ -1,0 +1,39 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "We may collect information that you directly and voluntarily provide to us. The information includes but is not limited to: your email address, the content of feedback, and the content of questionnaire answered by you.",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "We may collect information that you directly and voluntarily provide to us. The information includes but is not limited to: your email address, the content of feedback, and the content of questionnaire answered by you.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "Depending on the context of your interactions with us, we may ask you to provide certain permissions in order to let our app perform properly. You may choose to opt-out anytime, but please note that not giving us these permissions can result in malfunctioning of our app. The permissions we ask are listed below:\n•\nPhone: read phone status and identity\n• Photos/Media/Files: read the contents of your USB storage, modify or delete the contents of\nyour USB storage\n• Storage: read the contents of your USB storage, modify or delete the contents of your USB\nstorage\n•\nCamera: take pictures and videos\n•\nWi-Fi connection information: view Wi-Fi connections\n•\n•\nDevice ID & call information: read phone status and identity\n•\nOther: receive data from Internet, view network connections, full network access, close other\napps, run at startup, control vibration, prevent device from sleeping, install shortcuts, uninstall\nshortcuts",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "Depending on the context of your interactions with us, we may ask you to provide certain permissions in order to let our app perform properly. You may choose to opt-out anytime, but please note that not giving us these permissions can result in malfunctioning of our app. The permissions we ask are listed below:\n•\nPhone: read phone status and identity\n• Photos/Media/Files: read the contents of your USB storage, modify or delete the contents of\nyour USB storage\n• Storage: read the contents of your USB storage, modify or delete the contents of your USB\nstorage\n•\nCamera: take pictures and videos\n•\nWi-Fi connection information: view Wi-Fi connections\n•\n•\nDevice ID & call information: read phone status and identity\n•\nOther: receive data from Internet, view network connections, full network access, close other\napps, run at startup, control vibration, prevent device from sleeping, install shortcuts, uninstall\nshortcuts",
+"lang": "en"
+},
+{
+"data_type": "Music files",
+"policy_reference": "Depending on the context of your interactions with us, we may ask you to provide certain permissions in order to let our app perform properly. You may choose to opt-out anytime, but please note that not giving us these permissions can result in malfunctioning of our app. The permissions we ask are listed below:\n•\nPhone: read phone status and identity\n• Photos/Media/Files: read the contents of your USB storage, modify or delete the contents of\nyour USB storage\n• Storage: read the contents of your USB storage, modify or delete the contents of your USB\nstorage\n•\nCamera: take pictures and videos\n•\nWi-Fi connection information: view Wi-Fi connections\n•\n•\nDevice ID & call information: read phone status and identity\n•\nOther: receive data from Internet, view network connections, full network access, close other\napps, run at startup, control vibration, prevent device from sleeping, install shortcuts, uninstall\nshortcuts",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "Depending on the context of your interactions with us, we may ask you to provide certain permissions in order to let our app perform properly. You may choose to opt-out anytime, but please note that not giving us these permissions can result in malfunctioning of our app. The permissions we ask are listed below:\n•\nPhone: read phone status and identity\n• Photos/Media/Files: read the contents of your USB storage, modify or delete the contents of\nyour USB storage\n• Storage: read the contents of your USB storage, modify or delete the contents of your USB\nstorage\n•\nCamera: take pictures and videos\n•\nWi-Fi connection information: view Wi-Fi connections\n•\n•\nDevice ID & call information: read phone status and identity\n•\nOther: receive data from Internet, view network connections, full network access, close other\napps, run at startup, control vibration, prevent device from sleeping, install shortcuts, uninstall\nshortcuts",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "Depending on the context of your interactions with us, we may ask you to provide certain permissions in order to let our app perform properly. You may choose to opt-out anytime, but please note that not giving us these permissions can result in malfunctioning of our app. The permissions we ask are listed below:\n•\nPhone: read phone status and identity\n• Photos/Media/Files: read the contents of your USB storage, modify or delete the contents of\nyour USB storage\n• Storage: read the contents of your USB storage, modify or delete the contents of your USB\nstorage\n•\nCamera: take pictures and videos\n•\nWi-Fi connection information: view Wi-Fi connections\n•\n•\nDevice ID & call information: read phone status and identity\n•\nOther: receive data from Internet, view network connections, full network access, close other\napps, run at startup, control vibration, prevent device from sleeping, install shortcuts, uninstall\nshortcuts",
+"lang": "en"
+}
+]
+}

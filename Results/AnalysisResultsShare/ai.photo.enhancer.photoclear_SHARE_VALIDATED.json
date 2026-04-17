@@ -1,0 +1,55 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We use third-party Service Providers to display advertisements to You in order to improve and maintain Our Services. We work with Google AdSense, DoubleClick cookies and AdMob. These providers may use information about Your visits to the Application that are contained in cookies. They also use and analyze the data You interact with advertising to show more targeted ads in the Application. We will never share any data about Your track in the Application with third-party advertisers and Your personal data will never be used for any commercial purposes.",
+      "justification": "The privacy policy states that third-party advertising providers like AdMob use information about app visits and ad interactions for targeted advertising. This constitutes 'sharing' for advertising purposes under Google Play's policy and must be declared.",
+      "how_to_fix": "In the Data Safety form, declare that 'App interactions' data is 'Shared' with third parties. For the purpose of sharing, select 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "To provide a better user experience, We have integrated statistical tools in the Application. They are only used for CRASH positioning and AB-testing for new functions and UI design. Details as described below:\nApplication information\n• Application's Name\n• Application's Version Number\n• Application's Build\n•\nSDK Name\n•\nSDK Version\nDevice information\n•\nModel\n•\nScreen Size\n• OEM Name\nDevice system information\n•\nOS Name2\n•\nOS Version\n•\nOS Build\n•\nTime Zone\n•\n• System Language\nCarrier Country\n•\nCarrier Name\nLocation information\n•\nLocale\n• Country Area",
+      "reason_of_removal": "Service Provider exemption",
+      "justification": "The policy indicates that statistical tools are used for crash analysis on the developer's behalf to improve the app. This falls under the service provider exemption, as the third party processes data solely based on the developer's instructions.",
+      "how_to_fix": "No declaration of 'sharing' is required for this data type if it is only used with service providers for app functionality or analytics as described. Ensure this is declared as 'Collected' and its purpose is 'App functionality' and/or 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "To provide a better user experience, We have integrated statistical tools in the Application. They are only used for CRASH positioning and AB-testing for new functions and UI design. Details as described below:\nApplication information\n• Application's Name\n• Application's Version Number\n• Application's Build\n•\nSDK Name\n•\nSDK Version\nDevice information\n•\nModel\n•\nScreen Size\n• OEM Name\nDevice system information\n•\nOS Name2\n•\nOS Version\n•\nOS Build\n•\nTime Zone\n•\n• System Language\nCarrier Country\n•\nCarrier Name\nLocation information\n•\nLocale\n• Country Area",
+      "reason_of_removal": "Service Provider exemption",
+      "justification": "The policy describes using statistical tools for diagnostics (crash positioning) and analytics (A/B testing) to improve the app. This is a standard service provider function, exempt from 'sharing' disclosure.",
+      "how_to_fix": "No declaration of 'sharing' is required for this data type if it is only used with service providers for app functionality or analytics as described. Ensure this is declared as 'Collected' and its purpose is 'App functionality' and/or 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "To provide a better user experience, We have integrated statistical tools in the Application. They are only used for CRASH positioning and AB-testing for new functions and UI design. Details as described below:\nApplication information\n• Application's Name\n• Application's Version Number\n• Application's Build\n•\nSDK Name\n•\nSDK Version\nDevice information\n•\nModel\n•\nScreen Size\n• OEM Name\nDevice system information\n•\nOS Name2\n•\nOS Version\n•\nOS Build\n•\nTime Zone\n•\n• System Language\nCarrier Country\n•\nCarrier Name\nLocation information\n•\nLocale\n• Country Area",
+      "reason_of_removal": "Inconsistent data_type and policy_reference",
+      "justification": "The policy reference lists device information such as Model and OS Version for diagnostics, but it does not explicitly mention the collection of 'Device or other IDs' like Advertising ID or an installation ID.",
+      "how_to_fix": "If the app does not collect device IDs, this finding is correctly excluded. If it does, the privacy policy must be updated to explicitly state the collection of specific device IDs.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We do not store or collect any details of Your payment card. This information is submitted directly to Our third-party payment processors, whose use of Your personal data is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.",
+      "reason_of_removal": "Service Provider exemption",
+      "justification": "The policy states payment information is handled directly by third-party payment processors to facilitate transactions. This is a classic service provider role, exempt from 'sharing' disclosure.",
+      "how_to_fix": "No declaration of 'sharing' is required for this data type. Declare that 'User payment info' is 'Collected' for the purpose of 'App functionality' (e.g., processing payments).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "To provide a better user experience, We have integrated statistical tools in the Application. They are only used for CRASH positioning and AB-testing for new functions and UI design. Details as described below:\nApplication information\n• Application's Name\n• Application's Version Number\n• Application's Build\n•\nSDK Name\n•\nSDK Version\nDevice information\n•\nModel\n•\nScreen Size\n• OEM Name\nDevice system information\n•\nOS Name2\n•\nOS Version\n•\nOS Build\n•\nTime Zone\n•\n• System Language\nCarrier Country\n•\nCarrier Name\nLocation information\n•\nLocale\n• Country Area",
+      "reason_of_removal": "Service Provider exemption",
+      "justification": "The policy states location data (Country, Locale) is collected by statistical tools for crash analysis and A/B testing. This is data processing by a service provider on the developer's behalf and is exempt from 'sharing' disclosure.",
+      "how_to_fix": "No declaration of 'sharing' is required for this data type if it is only used with service providers for app functionality or analytics as described. Ensure this is declared as 'Collected' and its purpose is 'App functionality' and/or 'Analytics'.",
+      "lang": "English"
+    }
+  ]
+}
+```

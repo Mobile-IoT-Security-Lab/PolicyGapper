@@ -1,0 +1,69 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We collect contact information. For example, we collect personal identification data, online or in person, among other purposes, to manage your registration as a user, to manage your purchases of products or services, to respond to your queries, and, if you wish, to send you our customized including name, mailing address, email addresses and phone numbers. If you register as a user, we will also have you create a password. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We collect contact information. For example, we collect personal identification data, online or in person, among other purposes, to manage your registration as a user, to manage your purchases of products or services, to respond to your queries, and, if you wish, to send you our customized including name, mailing address, email addresses and phone numbers. If you register as a user, we will also have you create a password. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We collect contact information. For example, we collect personal identification data, online or in person, among other purposes, to manage your registration as a user, to manage your purchases of products or services, to respond to your queries, and, if you wish, to send you our customized including name, mailing address, email addresses and phone numbers. If you register as a user, we will also have you create a password. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We collect contact information. For example, we collect personal identification data, online or in person, among other purposes, to manage your registration as a user, to manage your purchases of products or services, to respond to your queries, and, if you wish, to send you our customized including name, mailing address, email addresses and phone numbers. If you register as a user, we will also have you create a password. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We collect demographic information and information about product preferences. This includes collecting your age and gender. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We collect information about your use of the Platforms. This includes browsing activity, how you interact with our websites and mobile apps, the products that you buy, and search terms entered. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We collect information about your device and location. We collect the type of device you use and location to access our Platforms, including the access and use of the Wi-Fi that we make available to our customers at our stores. We also collect information about the type of browser you are using. And, we may look at what site you came from or what site you go to when you leave us. If you are using our apps, we may also collect your device identification number or the advertising ID. If you use our app, we may look at how often you use the app and where you downloaded it. If you use any of the specific services that we may offer you (such as item finder, reserve a fitting room, etc.) available in some of ourstores, we also may process your location and contact information. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We collect information about your device and location. We collect the type of device you use and location to access our Platforms, including the access and use of the Wi-Fi that we make available to our customers at our stores. We also collect information about the type of browser you are using. And, we may look at what site you came from or what site you go to when you leave us. If you are using our apps, we may also collect your device identification number or the advertising ID. If you use our app, we may look at how often you use the app and where you downloaded it. If you use any of the specific services that we may offer you (such as item finder, reserve a fitting room, etc.) available in some of ourstores, we also may process your location and contact information. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We collect contact information. For example, we collect personal identification data, online or in person, among other purposes, to manage your registration as a user, to manage your purchases of products or services, to respond to your queries, and, if you wish, to send you our customized including name, mailing address, email addresses and phone numbers. If you register as a user, we will also have you create a password. In some cases, we may share this information for the purpose noted above.",
+      "lang": "English"
+    }
+  ]
+}

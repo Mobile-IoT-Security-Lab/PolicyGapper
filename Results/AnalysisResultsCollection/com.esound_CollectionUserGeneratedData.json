@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "The information you may provide includes your name, email, password, music listened, street address, payment method information, feedback and survey responses, and other information about you included within your messages to us.",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "We also obtain information about you from other sources, including transaction information from third-party app stores you use to install our app or purchase a subscription and name and contact information from third-party calendar services. Additionally, if you create or log into your account through a social media service account, we will have access to certain information from that account, such as your name and other account information, in accordance with the authorization procedures set by that social media service.",
+"lang": "en"
+}
+]
+}

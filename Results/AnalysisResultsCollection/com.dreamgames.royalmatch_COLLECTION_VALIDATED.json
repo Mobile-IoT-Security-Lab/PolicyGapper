@@ -1,0 +1,74 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User Generated Content, including any files, documents, videos, images, data, or information you choose to upload or transmit through your communications with us or your use of our Services.",
+      "justification": "The policy states the app collects 'User Generated Content, including any files, documents, videos, images, data, or information you choose to upload or transmit'.",
+      "how_to_fix": "Declare 'Other user-generated content' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Analytics Data, including a user ID that is associated with details about how you use and interact with our games, advertising and other Services; event and conversion data about how and when you use our Services; information about the device you use to access our Services; your Internet Protocol (“IP”) address; browsing history and interactions with our website; operating system and version; internet browser type and version and other details regarding the performance of our Services on your device, including crash logs and diagnostic information (such as battery life, loading time, latency, framerate, or other technical diagnostics);",
+      "justification": "The policy states the app collects 'crash logs and diagnostic information (such as battery life, loading time, latency, framerate, or other technical diagnostics)', which falls under app performance data.",
+      "how_to_fix": "Declare 'Crash logs' and/or 'Diagnostics' under the 'App performance' section as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may collect the following types of personal data from you depending on how you use our Services and where you are located:\n• Contact Information, including your country or region, name, surname, e-mail address or username.\n• User Generated Content, including any files, documents, videos, images, data, or information you choose to upload or transmit through your communications with us or your use of our Services.\n• Profile and Gameplay Information, such as your screen name, avatar or profile picture; your in-game progress, scores, achievements and payments (including what you paid for, when and for how much); the competitions you enter; details about how and when you use our Services; and information about your membership and participation in teams on our Services, including messages you send in team forums.\n• Survey Information, including feedback and ratings you provide relating to our Services.\n• Inferences, such as information generated from your use of our Services, reflecting predictions about your interests and preferences.\n• Parental Information, including your parent's e-mail address and PIN to be created, only if you activate parental control setting in our Services.",
+      "justification": "The policy explicitly states the collection of 'e-mail address' as part of 'Contact Information'.",
+      "how_to_fix": "Declare 'Email address' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "• User Generated Content, including any files, documents, videos, images, data, or information you choose to upload or transmit through your communications with us or your use of our Services.",
+      "justification": "The policy states the app collects 'User Generated Content, including... images' which you 'upload or transmit'.",
+      "how_to_fix": "Declare 'Photos' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "• User Generated Content, including any files, documents, videos, images, data, or information you choose to upload or transmit through your communications with us or your use of our Services.",
+      "justification": "The policy states the app collects 'User Generated Content, including... videos' which you 'upload or transmit'.",
+      "how_to_fix": "Declare 'Videos' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "• User Generated Content, including any files, documents, videos, images, data, or information you choose to upload or transmit through your communications with us or your use of our Services.",
+      "justification": "The policy states the app collects 'User Generated Content, including any files, documents' which you 'upload or transmit'.",
+      "how_to_fix": "Declare 'Files and docs' as collected in your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Analytics Data, including a user ID that is associated with details about how you use and interact with our games, advertising and other Services; event and conversion data about how and when you use our Services; information about the device you use to access our Services; your Internet Protocol (“IP”) address; browsing history and interactions with our website; operating system and version; internet browser type and version and other details regarding the performance of our Services on your device, including crash logs and diagnostic information (such as battery life, loading time, latency, framerate, or other technical diagnostics);",
+      "reason_of_removal": "Website collection exemption",
+      "justification": "The policy specifies that 'browsing history' is collected from interactions with the 'website', not the mobile app. Data collected outside the app is not required to be declared.",
+      "how_to_fix": "No action required. This data type does not need to be declared for the app as it is collected on the website.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "• Contact Information, including your country or region, name, surname, e-mail address or username.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy states the collection of 'e-mail address', which is a contact identifier, not the content of 'Emails' (e.g., subject line, body).",
+      "how_to_fix": "No action required. The data type 'Emails' does not appear to be collected based on this policy text. 'Email address' is the correct data type to declare.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "• Social Media: When you interact with our Services through various social media networks, such as when you \"Like\" our official page on Facebook or follow us, or share our official page's content on Google, Facebook, X, or other social networks, we may receive some information about you. The data we receive depends on your privacy settings with the social network and may include name, profile picture and friends list. You should always review and, if necessary, adjust your privacy settings on third-party websites, social media networks, and services before making your personal data publicly available and/or linking or connecting your account on one service to other services.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy refers to a social media 'friends list', which is distinct from the user's on-device 'Contacts' (address book). The 'Contacts' data type in Data Safety refers to the on-device address book.",
+      "how_to_fix": "No action required. The data type 'Contacts' does not appear to be collected based on this policy text.",
+      "lang": "en"
+    }
+  ]
+}
+```

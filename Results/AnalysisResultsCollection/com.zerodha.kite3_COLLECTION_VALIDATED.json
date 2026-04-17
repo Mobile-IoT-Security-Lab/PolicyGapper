@@ -1,0 +1,30 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Zerodha may from time to time collect information, i.e. Non-personal information which cannot be used to identify you personally, while You are using the website or mobile application. Zerodha may from time to time collect information such as Non-personal information such as IP (internet protocol) addresses, browser types, the name of your ISP (internet service provider), information about a third party link/URL from where You arrive to our website/mobile application, which pages/URLs do You click on the Zerodha website / mobile application, and the amount of time spent on each.",
+      "justification": "The privacy policy states this data (e.g., IP addresses) is collected when using the mobile application and is sent off-device. This does not meet any exemption criteria.",
+      "how_to_fix": "Declare 'Device or other IDs' as collected in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Zerodha, may or may not, request for sensitive information from You at the time of account opening, which would include but not be limited to, (i) setting a password; (ii) financial information such as Bank account or credit card or debit card or other payment instrument details; (iii) information such as name, contact number, gender, date of birth, residence and employment addresses, father's/mother's and spouses names, bank account details, scans/copies of document proofs of address & identity such as Photograph, PAN, passport, drivers license, Aadhaar (voluntarily) etc. (iv) uploading signature proof/photo etc. All such information would be for the purpose of: identity verification and background checking for account opening as per KYC & AML Rules, personalising services offered to you, keeping you updated of our products and services relevant to you, information pertaining to our services you've subscribed to, and for any legal and regulatory / audit purposes.",
+      "justification": "The policy describes uploading 'scans/copies of document proofs' and photos for account opening. This data is sent off-device for verification and does not meet any exemption criteria.",
+      "how_to_fix": "Declare 'Files and docs' as collected in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Zerodha may from time to time use cookies. Cookies are small data files that a website stores on Your computer. Zerodha may use persistent cookies which are permanently placed on your computer to store non-personal (Browser, ISP, OS, Clickstream information etc) and profiling information (age, gender, income etc). While cookies have unique identification nos, personal information (name, a/c no, contact nos etc) shall not be stored on the cookies. We will use the information stored in the cookies to improve Your browsing experience on our website, by throwing up relevant content where possible. We will also use the cookies to store visitor preferences to ease visitor navigation on the site.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy explicitly states this data is collected via cookies on the company's website, not through the mobile application. Data collection limited to websites is exempt from mobile app disclosure.",
+      "how_to_fix": "No action required for the app's Data Safety section, as this collection is outside the scope of the mobile application.",
+      "lang": "English"
+    }
+  ]
+}
+```

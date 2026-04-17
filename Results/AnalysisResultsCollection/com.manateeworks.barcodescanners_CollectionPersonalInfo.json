@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Cognex respects your privacy and recognizes your need for appropriate protection and management of any\npersonally identifiable information you share with us (any information by which you can be identified, such as\nname, address, and telephone number). That is why Cognex has established this privacy policy (this\n\"General Website Privacy Policy\") – so that you can understand the care with which we will treat your\ninformation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "From time to time, Cognex may contact you via phone, email, or postal mail\nto notify you of various products and services. If you do not want to receive such communication,\nsimply tell us when you provide your personal information. You can easily opt-out of receiving further\nmarketing information from Cognex by unsubscribing (https://go.cognex.com/email-unsubscribe) at any time.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Certain features, resources or services offered on or through the website may require You to register for an account (including setting up a username and password) for which You agree to: (a) provide true, accurate and complete information as prompted by the website's registration forms; and (b) maintain and promptly update such information to keep it true, accurate, current and complete. You agree that all information you provide to register with this website or otherwise, including, but not limited to, through the use of any interactive features on the website, is governed by our Privacy Policy (https://www.cognex.com/privacy-\npolicy), and You consent to all actions we take with respect to your information consistent with our Privacy Policy. Without limiting any other matter contained herein, access to or use of the website may be suspended or terminated if Cognex reasonably believes any account information is false, inaccurate or incomplete. If You choose, or are provided with, a username, password as part of our security procedures, You must treat such information as confidential, and you must not disclose it to any other person or entity. You are responsible for maintaining the confidentiality of your account information including your password (or other identifying information), and are solely responsible for all activities that occur under your account. You may not assign or transfer your account to any other person or entity without Cognex's prior written consent. You will not allow anyone else to use your account or password to access the website at any time. You agree to immediately notify Cognex of any unauthorized access to your account or password, or any other breach of security of which you become aware. You may be held liable for losses incurred by Cognex or other users of or visitor to the website due to someone else accessing the website using your account. Cognex will not be held liable for any loss or damage arising from a your failure to comply with these obligations. We have the right to disable any username, password, or other identifier, whether chosen by You or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, You have violated any provision of these Terms.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Cognex respects your privacy and recognizes your need for appropriate protection and management of any\npersonally identifiable information you share with us (any information by which you can be identified, such as\nname, address, and telephone number). That is why Cognex has established this privacy policy (this\n\"General Website Privacy Policy\") – so that you can understand the care with which we will treat your\ninformation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Cognex respects your privacy and recognizes your need for appropriate protection and management of any\npersonally identifiable information you share with us (any information by which you can be identified, such as\nname, address, and telephone number). That is why Cognex has established this privacy policy (this\n\"General Website Privacy Policy\") – so that you can understand the care with which we will treat your\ninformation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Advertising/targeting - Use an identification number to monitor personal preferences for the\npurposes of personalizing pages and gathering further information. For example, presenting adverts or\npromotions for products similar to those previously viewed or purchased.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Our web server collects IP addresses to obtain certain aggregate information concerning the use of our\nwebsite. An IP address is a number that is automatically assigned to your computer whenever you're surfing\nthe web. We do not link IP addresses to any personally identifiable information. Therefore, you can remain\nanonymous when you visit our website. Occasionally you may be asked to give us more specific information\nabout yourself, such as when you download software, register for a seminar or other event, respond to a\nsurvey, interact with the chat function on our website, enter a contest from our website, and register at the\ncustomer portal. Supplying such information to us is optional, but you may be unable to complete certain\ntransactions without giving such information.",
+      "lang": "English"
+    }
+  ]
+}

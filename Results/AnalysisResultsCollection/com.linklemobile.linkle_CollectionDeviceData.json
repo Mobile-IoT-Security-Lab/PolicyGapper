@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Usage Information. We collect information about your activity on our services, for instance how you use them (e.g., date and time you logged in, features you've been using, searches, clicks and pages which have been shown to you, referring webpage address) and how you interact with other users (e.g., users you connect and interact with, time and date of your exchanges, number of messages you send and receive).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Usage Information. We collect information about your activity on our services, for instance how you use them (e.g., date and time you logged in, features you've been using, searches, clicks and pages which have been shown to you, referring webpage address) and how you interact with other users (e.g., users you connect and interact with, time and date of your exchanges, number of messages you send and receive).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Device information. We collect information from and about the device(s) you use to access our services, including:\nΟ\nhardware and software information such as IP address, device ID and type, device-specific and apps settings an\ncharacteristics, app crashes, advertising IDs (such as Google's AAID and Apple's IDFA, both of which are\nrandomly generated numbers that you can reset by going into your device' settings), browser type, version and\nlanguage, operating system, time zones, identifiers associated with cookies or other technologies that may\nuniquely identify your device or browser (e.g., IMEI/UDID and MAC address);\nΟ\ninformation on your wireless and mobile network connection, like your service provider and signal strength;\ninformation on device sensors such as accelerometers, gyroscopes and compasses.",
+      "lang": "English"
+    }
+  ]
+}

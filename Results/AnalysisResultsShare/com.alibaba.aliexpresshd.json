@@ -1,0 +1,69 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The CCPA defines a \"sale\" as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and \"sharing\" includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising. While we do not disclose personal information to third parties in exchange for monetary compensation, like many websites, we may \"share\" (as defined in the CCPA) certain identifiers (i.e., IP address and online identifiers), usage data, and inferences to advertising networks, data analytics providers, operating systems and platforms, and social networks, including in the context of our use of certain cookies, pixel tags, and other similar tools and technologies. We do so in order to improve and evaluate our advertising campaigns and better reach customers and prospective customers with more relevant ads and content.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "The CCPA defines a \"sale\" as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and \"sharing\" includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising. While we do not disclose personal information to third parties in exchange for monetary compensation, like many websites, we may \"share\" (as defined in the CCPA) certain identifiers (i.e., IP address and online identifiers), usage data, and inferences to advertising networks, data analytics providers, operating systems and platforms, and social networks, including in the context of our use of certain cookies, pixel tags, and other similar tools and technologies. We do so in order to improve and evaluate our advertising campaigns and better reach customers and prospective customers with more relevant ads and content.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Third party rating / reviewing service providers, to carry out reviews or surveys of our services with customers if you choose to participate in reviewing or rating Platform products and/or services;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "The CCPA defines a \"sale\" as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and \"sharing\" includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising. While we do not disclose personal information to third parties in exchange for monetary compensation, like many websites, we may \"share\" (as defined in the CCPA) certain identifiers (i.e., IP address and online identifiers), usage data, and inferences to advertising networks, data analytics providers, operating systems and platforms, and social networks, including in the context of our use of certain cookies, pixel tags, and other similar tools and technologies. We do so in order to improve and evaluate our advertising campaigns and better reach customers and prospective customers with more relevant ads and content.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Marketing and advertising partners, such as Google, X, Facebook, and Instagram, and providers of analytics services relating to users' behavior such as Appsflyer and Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes. These partners may combine information they collect on our Platform with data on their platforms and data they collect from other websites or through other sources in order to conduct targeted advertising. The processing activities of these third parties marketing platforms are governed by their own privacy policies, not this Privacy Policy (please refer to Section F. COOKIES below);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Marketing and advertising partners, such as Google, X, Facebook, and Instagram, and providers of analytics services relating to users' behavior such as Appsflyer and Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes. These partners may combine information they collect on our Platform with data on their platforms and data they collect from other websites or through other sources in order to conduct targeted advertising. The processing activities of these third parties marketing platforms are governed by their own privacy policies, not this Privacy Policy (please refer to Section F. COOKIES below);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Marketing and advertising partners, such as Google, X, Facebook, and Instagram, and providers of analytics services relating to users' behavior such as Appsflyer and Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes. These partners may combine information they collect on our Platform with data on their platforms and data they collect from other websites or through other sources in order to conduct targeted advertising. The processing activities of these third parties marketing platforms are governed by their own privacy policies, not this Privacy Policy (please refer to Section F. COOKIES below);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Marketing and advertising partners, such as Google, X, Facebook, and Instagram, and providers of analytics services relating to users' behavior such as Appsflyer and Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes. These partners may combine information they collect on our Platform with data on their platforms and data they collect from other websites or through other sources in order to conduct targeted advertising. The processing activities of these third parties marketing platforms are governed by their own privacy policies, not this Privacy Policy (please refer to Section F. COOKIES below);",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "The CCPA defines a \"sale\" as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration, and \"sharing\" includes disclosing or making available personal information to a third party for purposes of cross-context behavioral advertising. While we do not disclose personal information to third parties in exchange for monetary compensation, like many websites, we may \"share\" (as defined in the CCPA) certain identifiers (i.e., IP address and online identifiers), usage data, and inferences to advertising networks, data analytics providers, operating systems and platforms, and social networks, including in the context of our use of certain cookies, pixel tags, and other similar tools and technologies. We do so in order to improve and evaluate our advertising campaigns and better reach customers and prospective customers with more relevant ads and content.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment service providers that provide payment processing services, such as Alipay Singapore E-Commerce Private Limited. Please note some activities of payment service providers may be governed by their own privacy policies, not this Privacy Policy;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "Credit risk assessment providers, to conduct risk assessment on Sellers to determine whether a Seller can be permitted to make an advance withdrawal or to conduct risk assessment on Buyers to determine whether a Buyer can be permitted to apply for some payment services (such as Buy now pay later);",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "The types of personal information that we may share include unique identifiers (e.g., cookies and similar technologies), device information, geolocation data, commercial data, behavioral data, and inferences.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "The types of personal information that we may share include unique identifiers (e.g., cookies and similar technologies), device information, geolocation data, commercial data, behavioral data, and inferences.",
+      "lang": "English"
+    }
+  ]
+}

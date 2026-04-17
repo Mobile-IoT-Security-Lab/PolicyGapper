@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+      "lang": "English"
+    }
+  ]
+}

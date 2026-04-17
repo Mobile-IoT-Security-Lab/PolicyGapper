@@ -1,0 +1,197 @@
+This Privacy Policy details how your personal information is collected, processed,
+used, and shared by Smart media internet marketing Itd. (referred to as "Walli”,
+"the Company”, “we”, “us”, or “our”) when you use the Walli mobile application (the
+"Application"). Smart media internet marketing ltd. is the legal entity acting as the
+data controller for the personal information collected and processed through Walli.
+---
+• Transaction-related information: such as when you respond to any offers, or
+download or use applications from us (Note: If you make purchases, payment
+information is typically processed by the app store provider, e.g., Google Play
+or Apple App Store, subject to their privacy policies).
+---
+• Crash Logs and Diagnostics: Information related to crashes and performance
+issues, including device state information, unique device identifiers, and
+location information, to help diagnose and fix problems. This data is often
+processed via third-party services like Firebase Crashlytics.
+---
+c) Access to Third-Party Service Accounts
+The Application may allow you to connect your account with third-party services
+like Facebook or Google for login or feature integration. These services require
+explicit authorization from you.
+• Access to Facebook account (Meta Platforms, Inc.): Allows connection with
+your Facebook account. Permissions asked: Email and Public Profile. Place of
+processing: US (and potentially other locations as per Meta's policy).
+• Access to Google account (Google LLC): Allows connection with your Google
+account. Permissions asked: Email and Profile ID. Place of processing: US
+(and potentially other locations as per Google's policy).
+---
+Users are responsible for any Personal Data of third parties obtained, published, or
+shared through this Application and confirm that they have the third party's
+consent to provide the Data to us.
+---
+• Consent (Article 6(1)(a) GDPR): We rely on your consent for certain
+processing activities, such as:
+o Sharing your Advertising ID with ad network partners for personalized
+advertising.
+o Collecting precise location data for location-based features or ads.
+o Sending marketing communications (where opt-in consent is required).
+You have the right to withdraw your consent at any time (see Section 9).
+---
+4. How Is Your Information Shared?
+We may disclose information about you to the following categories of third parties:
+• Service Providers: With trusted service providers who work on our behalf
+under contract, performing services such as data hosting (e.g., server hosting
+providers, CDN providers), database management, analytics, customer
+support, and technical operations. These providers do not have an
+independent right to use the information we disclose to them beyond what is
+necessary to provide the service to us and are obligated to protect your data.
+• Advertising Partners: With ad networks and advertising partners to serve
+advertisements within the Application. This may involve sharing your
+Advertising ID, IP address, location data (if enabled), and usage information to
+enable them to select and serve relevant ads, including personalized ads (if
+you have consented or not opted-out where applicable). Examples include (but
+are not limited to):
+■ Google AdMob/AdSense:
+https://policies.google.com/privacy/partners
+■ Meta (Facebook) Audience Network:
+https://www.facebook.com/about/privacy/
+■ AppLovin: https://www.applovin.com/privacy/
+■ Unity Ads: https://unity3d.com/legal/privacy-policy
+■ ironSource (now part of Unity): https://www.is.com/privacy-policy/
+■ Pangle: https://www.pangleglobal.com/privacy
+■ Vungle (now part of Liftoff): https://liftoff.io/privacy-policy/
+■ InMobi: https://www.inmobi.com/privacy-policy
+■ Adjust: https://www.adjust.com/terms/privacy-policy/
+■ Aarki: https://www.aarki.com/privacy
+■ Bidease: https://bidease.com/privacy-policy/
+■ Jampp: https://jampp.com/privacy-policy/
+■ AppsFlyer: https://www.appsflyer.com/legal/privacy-policy/
+Please consult the privacy policies of these partners for more information on
+their data practices.
+• Analytics Providers: With analytics companies to help us understand how the
+Application is used, monitor performance, and improve our services.
+Examples include:
+■ Google Firebase (including Analytics & Crashlytics):
+https://policies.google.com/privacy/partners
+■ Meta (Facebook) Analytics:
+https://www.facebook.com/about/privacy/
+■ Amplitude: https://amplitude.com/privacy
+■ Mixpanel: https://mixpanel.com/legal/privacy-policy/
+■ GrowthBook: https://www.growthbook.io/privacy
+■ UXCam: https://uxcam.com/privacy-policy/
+• Marketing and Communication Tools: With companies that provide services
+allowing us to send push notifications, emails, and in-app messages.
+o OneSignal: https://onesignal.com/privacy_policy
+• Social Features / Other Users: With other users when you use social features
+built into the Application (e.g., displaying your profile information if you are an
+artist).
+• Legal Requirements: As required by law, such as to comply with a subpoena,
+court order, or similar legal process.
+• Protection of Rights and Safety: When we believe in good faith that disclosure
+is necessary to protect our rights, protect your safety or the safety of others,
+investigate fraud, or respond to a government request.
+• Business Transfers: In connection with, or during negotiations of, any merger,
+sale of company assets, financing, or acquisition of all or a portion of our
+business by another company. You will be notified via email and/or a
+prominent notice within the Application or on our Website of any change in
+ownership or uses of this information, as well as any choices you may have
+regarding this information.
+---
+The use of information shared with third parties is governed by their respective
+privacy policies. We encourage you to review the privacy policies of these third
+parties.
+---
+Under certain laws like the CCPA, sharing data for personalized advertising may be
+considered a "sale" or "sharing". Please see Section 7 and Section 8 for
+information on your rights and opt-out choices related to this.
+---
+5. International Data Transfers
+Your information may be transferred to, and processed in, countries other than the
+country in which you are resident. These countries may have data protection laws
+that are different from the laws of your country.
+Specifically, our servers may be located in various regions, and our third-party
+service providers and partners operate around the world. This means that when we
+collect your personal information, we may process it in any of these countries.
+However, we have taken appropriate safeguards to require that your personal
+information will remain protected in accordance with this Privacy Policy. For
+transfers of personal information from the European Economic Area (EEA), UK, and
+Switzerland, we rely on mechanisms like the European Commission's Standard
+Contractual Clauses (SCCs), adequacy decisions, or other legally valid transfer
+mechanisms.
+---
+• Right to Know (Specific to certain jurisdictions like California): The right to
+know what personal information is collected, used, shared, or sold.
+---
+• Right to Opt-Out of Sale / Sharing / Targeted Advertising (Specific to certain
+jurisdictions like California & Virginia): The right to opt-out of the "sale" or
+"sharing" of your personal information, including for targeted advertising or
+certain types of profiling (see Section 8).
+---
+• Opt-Out of Personalized Advertising / Sale / Sharing:
+o Device Settings: You can limit ad tracking and opt-out of interest-based
+advertising through your mobile device's settings.
+■ For Android: Go to Settings > Google > Ads > Opt out of Ads
+Personalization (or Delete Advertising ID). Path may vary by
+device/OS version.
+■ For iOS: Go to Settings > Privacy & Security > Tracking > Turn off
+"Allow Apps to Request to Track". Also, go to Settings > Privacy &
+Security > Apple Advertising > Turn off “Personalized Ads". Path may
+vary by OS version.
+Opting out through device settings limits the use of your Advertising ID
+for personalized advertising across apps on that device.
+o "Do Not Sell or Share My Personal Information” (California & Virginia
+Residents): As required by the CCPA and VCDPA, you have the right to
+opt-out of the "sale" or "sharing" of your personal information (as defined
+under those laws, which can include sharing for targeted advertising). Το
+exercise this right, please contact us at privacy@tap.pm with the subject
+line "Do Not Sell/Share My Info" or manage your preferences within the
+Application's settings if such an option becomes available.
+o Third-Party Opt-Out Tools: Some advertising industry groups offer tools
+to opt-out of interest-based advertising from participating companies,
+such as the NAI (http://optout.networkadvertising.org/) and DAA
+(http://optout.aboutads.info/).
+---
+We are concerned about safeguarding the confidentiality of your information. We
+provide physical, electronic, and procedural safeguards to protect the information
+we process and maintain. For example, we limit access to this information to
+authorized employees and contractors who need to know that information to
+operate, develop, or improve our Application. Please be aware that, although we
+endeavor to provide reasonable security for information we process and maintain,
+no security system can prevent all potential security breaches.
+---
+a) California Residents (CCPA/CPRA)
+This section supplements the information above and applies solely to California
+residents.
+• Right to Know: You have the right to request information about the categories
+and specific pieces of personal information we have collected about you, the
+categories of sources, the purposes for collecting, selling, or sharing, and the
+categories of third parties to whom we disclose information.
+---
+• Right to Opt-Out of Sale/Sharing: You have the right to opt-out of the "sale" or
+"sharing" of your personal information. As noted in Section 8, you can exercise
+this right via device settings or by contacting us at privacy@tap.pm with the
+subject line "Do Not Sell/Share My Info". We do not knowingly sell or share the
+personal information of minors under 16 without appropriate consent.
+---
+• Categories of Personal Information Collected/Disclosed: In the preceding 12
+months, we may have collected and disclosed for a business purpose (and
+potentially "sold” or “shared” for advertising purposes) the categories of
+personal information listed in Section 1 (Identifiers like name, email, device ID,
+IP address, Advertising ID; Internet or other electronic network activity
+information like usage data; Geolocation data; Commercial information like
+transaction history if applicable; Profile data like preferences).
+---
+• Categories of Third Parties: As described in Section 4 (Service Providers,
+Advertising Partners, Analytics Providers, etc.).
+---
+b) Virginia Residents (VCDPA)
+This section supplements the information above and applies solely to Virginia
+residents.
+• Rights: You have the right to (1) confirm whether we are processing your
+personal data and access it, (2) correct inaccuracies, (3) delete your personal
+data, (4) obtain a copy of your data (data portability), and (5) opt-out of
+processing for targeted advertising, the sale of personal data, or profiling in
+furtherance of decisions that produce legal or similarly significant effects.
+---
+• Opt-Out: Το opt-out of targeted advertising or the "sale" of data, please follow
+the instructions in Section 8.

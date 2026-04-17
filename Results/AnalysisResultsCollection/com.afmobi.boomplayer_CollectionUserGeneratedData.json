@@ -1,0 +1,34 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "Behavioral information we collect about you. We also collect information regarding your use of the Services, e.g. your comments on Boomplay or any other content that you Posted on or through the Services, views and interactions on Boomplay. In addition, we link your contact or subscriber information with your activity on Boomplay across all your devices using your email or social media log-in details, engagement (including without limitation likes, shares, comments, repeated views) and relate users based on your behavior. Finally, we collect opt-ins and communication preferences.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "Metadata. When you Post content, including images, text and audio to Boomplay, you automatically upload certain metadata that is connected to the content. In essence, metadata describes other data and provides information about your content that will not always be evident to the viewer. In connection with your content the metadata can describe how, when and by whom the piece of content was collected and how that content is formatted. It further includes information such as your account name that enables other users to trace back the content to your user account. Metadata will further consist of additional data that you chose to provide with the content, e.g. any hashtags used to mark keywords to the comments.",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "Information on Your Device. We automatically collect certain data from you, including IP address or other unique device identifiers such as Google advertising ID, Android ID, Identifier for Advertising, Cookies (as defined below), mobile carrier, time zone and locale setting, operating system and platform, hardware and software versions, battery lowhat's Biompray strengtlist savaidavaltisingtoranewsspa controwser type, app and file names and types, Bluetooth signals, International Mobile Equipment Identity, International Mobile Subscriber Identity, data from device settings: information you allow us to receive through device settings you turn on, such as access to your GPS location, photos, videos and voice recordings and such other information on your device. Any automated decision-making, including profiling, based on the data automatically collected from you, will solely be used in optimizing the Services and tailoring it to your preferences.",
+"lang": "en"
+}
+]
+}

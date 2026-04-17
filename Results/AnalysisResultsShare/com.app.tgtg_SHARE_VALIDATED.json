@@ -1,0 +1,62 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "If you are an individually owned franchisee belonging to a franchise chain, we may share the following information with your franchisor depending on the agreement we have with your franchise chain:\n• name\n•\nemail address\n•\n•\n•\n•\n•\nStore name and address\ninformation about your Store's use of the Platform (e.g. saved meals, save ratio)\ninformation about User experiences with your Store, incl. ratings\ntransactional data, and\ninformation of relevance to the franchisor about communication and interactions that you have\nhad with our care team.",
+      "justification": "The privacy policy explicitly states that franchisee data, including 'Name', is shared with the franchisor. The franchisor is considered a third party, not a service provider acting on the developer's behalf. This sharing must be declared.",
+      "how_to_fix": "In your Google Play Console Data Safety section, declare that 'Name' is 'Shared' with third parties. Specify the purpose of this sharing (e.g., 'Account management').",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If you are an individually owned franchisee belonging to a franchise chain, we may share the following information with your franchisor depending on the agreement we have with your franchise chain:\n• name\n•\nemail address\n•\n•\n•\n•\n•\nStore name and address\ninformation about your Store's use of the Platform (e.g. saved meals, save ratio)\ninformation about User experiences with your Store, incl. ratings\ntransactional data, and\ninformation of relevance to the franchisor about communication and interactions that you have\nhad with our care team.",
+      "justification": "The privacy policy explicitly states that franchisee data, including 'Email address', is shared with the franchisor. The franchisor is considered a third party, not a service provider acting on the developer's behalf. This sharing must be declared.",
+      "how_to_fix": "In your Google Play Console Data Safety section, declare that 'Email address' is 'Shared' with third parties. Specify the purpose of this sharing (e.g., 'Account management').",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Technology and service providers – including Google LLC and its affiliates as providers of geolocation services (with your consent), as well as other providers supporting functionality, analytics, or security. In many cases, these providers act under our instructions and control; where they act independently, we will ensure any sharing is in line with this Schedule and applicable law.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is shared with providers for functionality and analytics who act 'under our instructions and control'. This qualifies for the service provider exemption.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Technology and service providers – including Google LLC and its affiliates as providers of geolocation services (with your consent), as well as other providers supporting functionality, analytics, or security. In many cases, these providers act under our instructions and control; where they act independently, we will ensure any sharing is in line with this Schedule and applicable law.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is shared with providers for functionality and analytics who act 'under our instructions and control'. This qualifies for the service provider exemption.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Technology and service providers – including Google LLC and its affiliates as providers of geolocation services (with your consent), as well as other providers supporting functionality, analytics, or security. In many cases, these providers act under our instructions and control; where they act independently, we will ensure any sharing is in line with this Schedule and applicable law.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is shared with providers for functionality and analytics who act 'under our instructions and control'. This qualifies for the service provider exemption.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "If you make a purchase in the App, which is available for delivery, we share the specified delivery address with our third party geo-location provider, Google, to validate the delivery address. Our legal basis for sharing this information is our legitimate interest in being able to verify that the specified delivery address is in fact an existing address so that our courier is able to deliver your order.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes sharing the address with Google for the specific purpose of 'validating the delivery address'. This is a core function performed on the developer's behalf, qualifying as a service provider.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "If you are a User of our Website we may share your approximate geo-location (city level) (subject to your consent as described in section 4.1) with our third party geo-location service provider, Google.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes sharing location with Google as a 'third party geo-location service provider'. This qualifies for the service provider exemption. The mention of consent further strengthens the case for exemption.",
+      "how_to_fix": "No action required. This use case is exempt from being declared as 'sharing'.",
+      "lang": "English"
+    }
+  ]
+}
+```

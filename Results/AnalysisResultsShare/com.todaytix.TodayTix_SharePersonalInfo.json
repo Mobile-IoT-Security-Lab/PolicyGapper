@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "6.3. Payment Processors. If you make a payment through the Website, your payment card details are provided to our payment processing service provider, Adyen. You may read Adyen's privacy policy at https://www.adyen.com/policies-and-disclaimer/privacy-policy to learn more about how they use and protect your information. We do not receive your full credit card or other payment information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "10.10. \"Shine the Light.\" In addition to the above rights, under California Civil Code Section 1798.83 (“Shine the Light\"), California residents may have the right to request in writing from businesses with whom they have an established business relationship: (a) a list of the categories of personal information, as defined under Shine the Light, such as name, email address, and mailing address, and the type of services provided to the customer that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes; and (b) the names and addresses of all such third parties. To request the above information, please contact us by email at dataprivacy@todaytixgroup.com. If you do not want your personal information shared with any third party who may use such information for direct marketing purposes, then you may opt out of such disclosures by emailing us at dataprivacy@todaytixgroup.com.",
+      "lang": "English"
+    }
+  ]
+}

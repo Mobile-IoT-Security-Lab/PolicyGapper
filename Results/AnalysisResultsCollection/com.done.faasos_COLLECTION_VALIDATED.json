@@ -1,0 +1,119 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Transaction Information: We collect transaction details related to your use of our Services, and information about your activity on the Services, including the full Uniform Resource Locators (URL), the type of Services you requested or provided, comments, domain names, search results selected, number of clicks, information and pages viewed and searched for, the order of those pages, length of your visit to our Services, the date and time you used the Services, amount charged, details regarding application of promotional code, methods used to browse away from the page and any phone number used to call our customer service number and other related transaction details;",
+      "justification": "The policy states 'We collect... information about your activity on the Services, including... number of clicks, information and pages viewed...'. This indicates collection of app interaction data.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Transaction Information: We collect transaction details related to your use of our Services, and information about your activity on the Services, including the full Uniform Resource Locators (URL), the type of Services you requested or provided, comments, domain names, search results selected, number of clicks, information and pages viewed and searched for, the order of those pages, length of your visit to our Services, the date and time you used the Services, amount charged, details regarding application of promotional code, methods used to browse away from the page and any phone number used to call our customer service number and other related transaction details;",
+      "justification": "The policy states 'We collect... search results selected, number of clicks, information and pages viewed and searched for...'. This confirms the collection of in-app search history.",
+      "how_to_fix": "Declare 'In-app search history' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Provide content to us, which may include reviews, ordering details and history, favorite vendors, special merchant requests, contact information of people you refer to us and other information you provide on the EatSure Platform (\"Your Content\").",
+      "justification": "The policy explicitly mentions collecting user-provided content such as 'reviews, ordering details and history, favorite vendors, special merchant requests'.",
+      "how_to_fix": "Declare 'Other user generated content' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Transaction Information: We collect transaction details related to your use of our Services, and information about your activity on the Services, including the full Uniform Resource Locators (URL), the type of Services you requested or provided, comments, domain names, search results selected, number of clicks, information and pages viewed and searched for, the order of those pages, length of your visit to our Services, the date and time you used the Services, amount charged, details regarding application of promotional code, methods used to browse away from the page and any phone number used to call our customer service number and other related transaction details;",
+      "justification": "The policy states collection of 'transaction details', 'amount charged', and 'details regarding application of promotional code', which fall under 'Other actions'.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Usage and Preference Information: We collect information as to how you interact with our Services, preferences expressed and settings chosen. EatSure Platform includes the EatSure advertising services (“Ad Services”), which may collect user activity and browsing history within the EatSure Platform and across third-party sites and online services, including those sites and services that include our ad pixels (“Pixels”), widgets, plug-ins, buttons, or related services or through the use of cookies. Our Ad Services collect browsing information including without limitation your Internet protocol (IP) address and location, your login information, browser type and version, date and time stamp, user agent, EatSure cookie ID (if applicable), time zone setting, browser plug-in types and versions, operating system and platform, and other information about user activities on the EatSure Platform, as well as on third party sites and services that have embedded our Pixels, widgets, plug-ins, buttons, or related services;",
+      "justification": "The policy explicitly states that its Ad Services 'may collect user activity and browsing history within the EatSure Platform and across third-party sites and online services'.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Information you give us This includes information submitted when you:\ni. Create or update your EatSure account, which may include your name, email, phone number, login name and password, address, payment or banking information, date of birth and profile picture. If you sign in to the EatSure Platform through third-party sign-in services such as Facebook, Google Plus or Gmail or any other social networking or similar site (collectively, “SNS”), an option of which may be provided to you by EatSure at its sole discretion, you will be allowing us to pass through and receive from the SNS your log-in information and other user data; or",
+      "justification": "The policy states collection of various personal details like 'date of birth and profile picture' when a user creates an account, which falls under 'Other info'.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Information you give us This includes information submitted when you:\niii. Use our Services, we may collect and store information about you to process your requests and automatically complete forms for future transactions, including (but not limited to) your phone number, address, email, billing information and credit or payment card information.",
+      "justification": "The policy states 'we may collect and store... billing information and credit or payment card information', which directly corresponds to 'User payment info'.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "When you communicate with us (via email, phone, through the EatSure Platform or otherwise), we may maintain a record of your communication;",
+      "justification": "The policy states that when a user communicates via email, the company may 'maintain a record of your communication', indicating collection.",
+      "how_to_fix": "Declare 'Emails' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "If you are a partner restaurant, merchant or a delivery partner, we will, additionally, record your calls with us made from the device used to provide Services, related call details, SMS details location and address details.",
+      "justification": "The policy explicitly states for partners that it will record 'SMS details', indicating collection.",
+      "how_to_fix": "Declare 'SMS or MMS' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "When you communicate with us (via email, phone, through the EatSure Platform or otherwise), we may maintain a record of your communication;",
+      "justification": "The policy states that for communication 'through the EatSure Platform', the company may 'maintain a record of your communication', indicating collection of in-app messages.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "Stored information and files: EatSure mobile application (EatSure app) may also access metadata and other information associated with other files stored on your mobile device. This may include, for example, photographs, audio and video clips, personal contacts and address book information. If you permit the EatSure app to access the address book on your device, we may collect names and contact information from your address book to facilitate social interactions through our services and for other purposes described in this Policy or at the time of consent or collection. If you permit the EatSure app to access the calendar on your device, we collect calendar information such as event title and description, your response (Yes, No, Maybe), date and time, location and number of attendees.",
+      "justification": "The policy states the app may 'access... video clips' from the device. The context of the paragraph, which mentions 'collection' for other data types accessed under permission, implies this data is sent off-device.",
+      "how_to_fix": "Declare 'Videos' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "If you are a partner restaurant, merchant or a delivery partner, we will, additionally, record your calls with us made from the device used to provide Services, related call details, SMS details location and address details.",
+      "justification": "The policy states for partners that 'we will, additionally, record your calls with us', indicating collection of voice recordings.",
+      "how_to_fix": "Declare 'Voice or sound recordings' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "Stored information and files: EatSure mobile application (EatSure app) may also access metadata and other information associated with other files stored on your mobile device. This may include, for example, photographs, audio and video clips, personal contacts and address book information. If you permit the EatSure app to access the address book on your device, we may collect names and contact information from your address book to facilitate social interactions through our services and for other purposes described in this Policy or at the time of consent or collection. If you permit the EatSure app to access the calendar on your device, we collect calendar information such as event title and description, your response (Yes, No, Maybe), date and time, location and number of attendees.",
+      "justification": "The policy states the app may 'access... audio... clips' from the device. The context of the paragraph, which mentions 'collection' for other data types accessed under permission, implies this data is sent off-device.",
+      "how_to_fix": "Declare 'Other audio files' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "If you sign up to use our Services as a merchant or a delivery partner, we may collect location details, copies of government identification documents and other details (KYC), call and SMS details",
+      "justification": "The policy states for partners, 'we may collect... copies of government identification documents and other details (KYC)', which are files and documents.",
+      "how_to_fix": "Declare 'Files and docs' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Calendar events",
+      "policy_reference": "Stored information and files: EatSure mobile application (EatSure app) may also access metadata and other information associated with other files stored on your mobile device. This may include, for example, photographs, audio and video clips, personal contacts and address book information. If you permit the EatSure app to access the address book on your device, we may collect names and contact information from your address book to facilitate social interactions through our services and for other purposes described in this Policy or at the time of consent or collection. If you permit the EatSure app to access the calendar on your device, we collect calendar information such as event title and description, your response (Yes, No, Maybe), date and time, location and number of attendees.",
+      "justification": "The policy explicitly states, 'If you permit the EatSure app to access the calendar on your device, we collect calendar information'.",
+      "how_to_fix": "Declare 'Calendar events' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Stored information and files: EatSure mobile application (EatSure app) may also access metadata and other information associated with other files stored on your mobile device. This may include, for example, photographs, audio and video clips, personal contacts and address book information. If you permit the EatSure app to access the address book on your device, we may collect names and contact information from your address book to facilitate social interactions through our services and for other purposes described in this Policy or at the time of consent or collection. If you permit the EatSure app to access the calendar on your device, we collect calendar information such as event title and description, your response (Yes, No, Maybe), date and time, location and number of attendees.",
+      "justification": "The policy explicitly states, 'If you permit the EatSure app to access the address book on your device, we may collect names and contact information from your address book'.",
+      "how_to_fix": "Declare 'Contacts' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

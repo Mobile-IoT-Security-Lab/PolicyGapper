@@ -1,0 +1,15 @@
+```json
+{
+"omitted_declarations": [],
+"excluded_declarations": [
+{
+"data_type": "User payment info",
+"policy_reference": "Our apps use some Google third-party libraries (AdMob to show ads, In App Billing for purchases, Firebase\nservices) which can collect some information from you. You can check their Private Policy at:\n•\n•\n•\nGoogle Admob https://support.google.com/admob/answer/6128543,\nhttps://policies.google.com/technologies/ads,\nhttps://developers.google.com/admob/android/privacy/play-data-\ndisclosure#data_collected_and_shared_automatically\nGoogle Firebase Service (Analytics, Cloud Messaging, In App Messaging, Remote Config, Crashlytics)\nhttps://firebase.google.com/docs/android/play-data-disclosure,\nhttps://firebase.google.com/support/privacy/dpo,\nhttps://marketingplatform.google.com/about/analytics/terms/us/\nGoogle Play's billing - https://support.google.com/googleplay/android-\ndeveloper/answer/10281818\nYou can also check Data Safety section for each app at Google Play to find out what exactly third-party libraries\ncollect.",
+"reason_of_removal": "Service Provider",
+"justification": "The policy states the app uses 'In App Billing for purchases'. Google Play's billing system acts as a service provider, processing payment data on the developer's behalf. This type of data transfer is exempt from being declared as 'sharing' under the Google Play User Data Policy.",
+"how_to_fix": "No action required. This data transfer is exempt from being declared as 'sharing' in the Data Safety section as it is with a service provider.",
+"lang": "English"
+}
+]
+}
+```

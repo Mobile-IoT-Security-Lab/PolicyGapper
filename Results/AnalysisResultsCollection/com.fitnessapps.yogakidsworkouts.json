@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "The types of technical data (you or your children) we might collect include:\n• Timestamps of when you install or first open the app;\n• Data on how you interact with the app;\n• Your device ID;\n•\n• URLs you visited before or after using the app;\nInformation shared by advertising platforms like Unity, Inmobi, and Google Ads;\n• Ads you view or click on; and\n• General online behavior patterns.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We collect this information to improve performance and reliability of our Games and to get a better understanding of what users in general prefer. We do not link any of this Information in any way to individuals or any other information we might obtain. We do not share, sell or in any other way give other persons or companies. We don't rent or sell your email address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "When you or your children use our apps, we might collect certain personal information, including your email address, name, and age. This user/children's data is used for the following purposes:\n• To verify your age;\n• To save and track your game progress;\n• To create and manage your user account;\n• To enable gameplay across multiple devices;\n•\nTo send promotional emails (if you have given consent); and\n• To respond to any support inquiries you may send.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you or your children use our apps, we might collect certain personal information, including your email address, name, and age. This user/children's data is used for the following purposes:\n• To verify your age;\n• To save and track your game progress;\n• To create and manage your user account;\n• To enable gameplay across multiple devices;\n•\nTo send promotional emails (if you have given consent); and\n• To respond to any support inquiries you may send.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "The types of technical data (you or your children) we might collect include:\n• Timestamps of when you install or first open the app;\n• Data on how you interact with the app;\n• Your device ID;\n•\n• URLs you visited before or after using the app;\nInformation shared by advertising platforms like Unity, Inmobi, and Google Ads;\n• Ads you view or click on; and\n• General online behavior patterns.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "When you or your children use our apps, we might collect certain personal information, including your email address, name, and age. This user/children's data is used for the following purposes:\n• To verify your age;\n• To save and track your game progress;\n• To create and manage your user account;\n• To enable gameplay across multiple devices;\n•\nTo send promotional emails (if you have given consent); and\n• To respond to any support inquiries you may send.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "When you or your children use our apps and services, certain information may be collected automatically. This helps us improve our apps and make them more engaging for kids and other users. We also use this data for internal purposes, such as enhancing our services. We might use Firebase (https://firebase.google.com), a third-party analytics service provided by Google. Firebase automatically collects the following technical and non-personal data:\n• IP address;\n• Number of sessions;\n•\nSession duration;\n• Retention metrics;\n• Events triggered during app usage;\n•\nInstall source; and\n•\nIDFA (Identifier for Advertisers).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "When you or your children use our apps, we might collect certain personal information, including your email address, name, and age. This user/children's data is used for the following purposes:\n• To verify your age;\n• To save and track your game progress;\n• To create and manage your user account;\n• To enable gameplay across multiple devices;\n•\nTo send promotional emails (if you have given consent); and\n• To respond to any support inquiries you may send.",
+      "lang": "en"
+    }
+  ]
+}

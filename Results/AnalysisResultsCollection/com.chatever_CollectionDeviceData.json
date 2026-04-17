@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "9.1. In order to guarantee an optimal level of usability and performance and to ensure relevance of promoted services, the Company uses cookies and similar technologies in order to track the interaction of Clients with the App. This section explains the different types of cookies that may be set when the Client uses the App, helping to understand and manage them as he/she wishes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "b. When completing his/her profile, the Client could provide additional information, such as details on his/her physical characteristics (including height, weight, body type and sexual preferences), background (including education, financial situation, housing situation and ownership of a vehicle), personality (including purpose of acquaintance, sociability and attitude towards children), lifestyle (including attitude towards alcohol and smoking), date of birth, interests and other details about the Client, as well as content, such as pictures and photos.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Internet or Other Electronic Network Activity : Includes device identifiers, application usage data, and connection information (e.g., technical data from the Client's device and internet connection).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "c. Third-party analytics services. The Company uses the following services (list of services is provided alongside with privacy policies of the relevant services):\n•\nAppmetrica -\nhttps://metrica.yandex.com/about/info/privacy-policy\n•\nAppsFlyer -\nhttps://www.appsflyer.com/services-privacy-policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "c. Third-party analytics services. The Company uses the following services (list of services is provided alongside with privacy policies of the relevant services):\n•\nAppmetrica -\nhttps://metrica.yandex.com/about/info/privacy-policy\n•\nAppsFlyer -\nhttps://www.appsflyer.com/services-privacy-policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "c. Third-party analytics services. The Company uses the following services (list of services is provided alongside with privacy policies of the relevant services):\n•\nAppmetrica -\nhttps://metrica.yandex.com/about/info/privacy-policy\n•\nAppsFlyer -\nhttps://www.appsflyer.com/services-privacy-policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "When the Client is using the Company's App, the Service may collect data regarding the device(s) the Client uses to access the Service (such as his/her IP address, device identifier (including unique advertising device identifiers, for example Google Advertiser ID and IDFA), technical and statistical data (including data about the Internet connection, cellular service provider and application usage data) and location data (upon a separate consent from the Client).",
+      "lang": "English"
+    }
+  ]
+}

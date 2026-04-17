@@ -1,0 +1,44 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We may disclose personal information that we collect, or you provide:\n0.1. Disclosure for Law Enforcement.\nUnder certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in\nresponse to valid requests by public authorities.\n0.2. Business Transaction.\nIf we or our subsidiaries are involved in a merger, acquisition or asset sale, your Personal Data may be\ntransferred.\n0.3. Other cases. We may disclose your information also:\n0.3.1. to our subsidiaries and affiliates;\n0.3.2. to contractors, service providers, and other third parties we use to support our business;\n0.3.3. to fulfill the purpose for which you provide it;\n0.3.4. for the purpose of including your company's logo on our website;\n0.3.5. for any other purpose disclosed by us when you provide the information;\n0.3.6. with your consent in any other cases;\n0.3.7. if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company,\nour customers, or others.",
+      "justification": "The privacy policy states this data may be shared with third parties (e.g., affiliates, in a business transaction), which is not declared in your Data Safety form.",
+      "how_to_fix": "Update your Data Safety form to declare that this data type is shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may disclose personal information that we collect, or you provide:\n0.1. Disclosure for Law Enforcement.\nUnder certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in\nresponse to valid requests by public authorities.\n0.2. Business Transaction.\nIf we or our subsidiaries are involved in a merger, acquisition or asset sale, your Personal Data may be\ntransferred.\n0.3. Other cases. We may disclose your information also:\n0.3.1. to our subsidiaries and affiliates;\n0.3.2. to contractors, service providers, and other third parties we use to support our business;\n0.3.3. to fulfill the purpose for which you provide it;\n0.3.4. for the purpose of including your company's logo on our website;\n0.3.5. for any other purpose disclosed by us when you provide the information;\n0.3.6. with your consent in any other cases;\n0.3.7. if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company,\nour customers, or others.",
+      "justification": "The privacy policy states this data may be shared with third parties (e.g., affiliates, in a business transaction), which is not declared in your Data Safety form.",
+      "how_to_fix": "Update your Data Safety form to declare that this data type is shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may disclose personal information that we collect, or you provide:\n0.1. Disclosure for Law Enforcement.\nUnder certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in\nresponse to valid requests by public authorities.\n0.2. Business Transaction.\nIf we or our subsidiaries are involved in a merger, acquisition or asset sale, your Personal Data may be\ntransferred.\n0.3. Other cases. We may disclose your information also:\n0.3.1. to our subsidiaries and affiliates;\n0.3.2. to contractors, service providers, and other third parties we use to support our business;\n0.3.3. to fulfill the purpose for which you provide it;\n0.3.4. for the purpose of including your company's logo on our website;\n0.3.5. for any other purpose disclosed by us when you provide the information;\n0.3.6. with your consent in any other cases;\n0.3.7. if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company,\nour customers, or others.",
+      "justification": "The privacy policy states this data may be shared with third parties (e.g., affiliates, in a business transaction), which is not declared in your Data Safety form.",
+      "how_to_fix": "Update your Data Safety form to declare that this data type is shared.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may disclose personal information that we collect, or you provide:\n0.1. Disclosure for Law Enforcement.\nUnder certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in\nresponse to valid requests by public authorities.\n0.2. Business Transaction.\nIf we or our subsidiaries are involved in a merger, acquisition or asset sale, your Personal Data may be\ntransferred.\n0.3. Other cases. We may disclose your information also:\n0.3.1. to our subsidiaries and affiliates;\n0.3.2. to contractors, service providers, and other third parties we use to support our business;\n0.3.3. to fulfill the purpose for which you provide it;\n0.3.4. for the purpose of including your company's logo on our website;\n0.3.5. for any other purpose disclosed by us when you provide the information;\n0.3.6. with your consent in any other cases;\n0.3.7. if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company,\nour customers, or others.",
+      "justification": "The privacy policy states this data may be shared with third parties (e.g., affiliates, in a business transaction), which is not declared in your Data Safety form.",
+      "how_to_fix": "Update your Data Safety form to declare that this data type is shared.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "11. Analytics\nWe may use third-party Service Providers to monitor and analyze the use of our Service.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy states data is shared with 'Service Providers' to perform services on the developer's behalf, which is exempt from sharing disclosure.",
+      "how_to_fix": "No action required for this item as it falls under a policy exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

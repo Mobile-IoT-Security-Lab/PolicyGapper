@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "lang": "English"
+    }
+  ]
+}

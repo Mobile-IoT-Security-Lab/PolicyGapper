@@ -1,0 +1,35 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "This app uses Google AdMob for advertising. AdMob may collect and use certain data for advertising purposes, as described in Google's Privacy Policy. This may include device information, location data, and other information to serve personalized ads. Users can manage their ad preferences through their device's settings.",
+      "justification": "The policy states the app uses Google AdMob, which collects 'device information' for advertising. The Advertising ID is a type of 'Device or other ID' and is sent off-device to Google's servers. This constitutes data collection and is not exempt.",
+      "how_to_fix": "Declare 'Device or other IDs' as collected in your Data Safety form, and link it to the 'Advertising or marketing' purpose.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "This app uses Google Analytics for Firebase to collect anonymous usage data to help improve the app. This may include information about how the app is used, such as features accessed and session duration. This data is aggregated and does not personally identify any user.",
+      "justification": "The policy states the app uses Google Analytics for Firebase to collect usage data like 'features accessed and session duration'. This data is sent off-device for analysis and falls under the 'App interactions' data type. It is not processed solely on-device, therefore it is not exempt.",
+      "how_to_fix": "Declare 'App interactions' as collected in your Data Safety form, and link it to the 'Analytics' purpose.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "This app uses Google Analytics for Firebase to collect anonymous usage data to help improve the app. This may include information about how the app is used, such as features accessed and session duration. This data is aggregated and does not personally identify any user.",
+      "justification": "The policy states the app uses Google Analytics for Firebase to collect usage data 'to help improve the app'. Analytics services typically collect performance and crash data, which falls under 'Diagnostics'. This data is sent off-device and is not exempt.",
+      "how_to_fix": "Declare 'Diagnostics' as collected in your Data Safety form, and link it to the 'Analytics' purpose. This is often collected alongside 'App interactions' by services like Firebase.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states that Log Data, including the device's IP address, is collected and sent off-device. An IP address is used to determine 'Approximate location'. This constitutes data collection and is not exempt.",
+      "how_to_fix": "Declare 'Approximate location' as collected in your Data Safety form, and link it to relevant purposes such as 'Analytics' or 'App functionality' (for crash reporting).",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,24 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "InformationCollected by Customer Support: When you ask for assistance from our Customer Support team, we will collect and store the contact information you provide (generally your name and e-mail address), information about your gameplay or activity on the Services, and your user-name or ID number. We will also store the correspondence and any information contained within.",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "InformationCollected by Customer Support: When you ask for assistance from our Customer Support team, we will collect and store the contact information you provide (generally your name and e-mail address), information about your gameplay or activity on the Services, and your user-name or ID number. We will also store the correspondence and any information contained within.",
+"lang": "en"
+},
+{
+"data_type": "Photos",
+"policy_reference": "Registration Information: We may also offer you the option to complete a user profile that is visible to other LOGICLABS LIMITED users (“Account\"). If you create an Account, you may provide us you name, a username, e-mail address, a password and other information that helps us confirm that it is you accessing your Account. We may do this through in-game dialog boxes, which you may choose to skip. If you sign into the Services with Facebook Connect we will collect information that is visible via your Facebook account such as: (1) your first and last name, (2) Facebook ID, (3) Profile Picture/URL, and (4) list of Facebook friends. Your Account may be used to publicly identify you as part of social features of the Services, which may include user-to-user interaction, chat or messaging functionality, public leaderboards, head-to-head competition, and other similar features. The LOGICLABS LIMITED username will be public and will be shown to other users, but will only permit access to information that is considered public or that you have designated as public in your user profile settings.",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "We may also offer you the ability to import your contacts or manually enter e-mail addresses so that you can locate your contacts on LOGICLABS LIMITED and invite your contacts to join you in the Services. We will store those contacts for purposes of helping you and your contacts make connections through our Services.",
+"lang": "en"
+}
+]
+}

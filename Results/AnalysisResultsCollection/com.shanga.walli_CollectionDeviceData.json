@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you register with us and use the Application: your full name, email address, username, password, website, links to your social networks (Instagram, Facebook, Twitter, etc.), and your biography.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Information you enter into our system when using the Application: such as likes, downloads, artists you follow, and content you interact with.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Crash Logs and Diagnostics: Information related to crashes and performance issues, including device state information, unique device identifiers, and location information, to help diagnose and fix problems. This data is often processed via third-party services like Firebase Crashlytics.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Crash Logs and Diagnostics: Information related to crashes and performance issues, including device state information, unique device identifiers, and location information, to help diagnose and fix problems. This data is often processed via third-party services like Firebase Crashlytics.",
+      "lang": "English"
+    }
+  ]
+}

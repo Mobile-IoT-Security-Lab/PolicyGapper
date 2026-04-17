@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "In a second step, you will connect your Facebook profile with the service for which you would like to register. At this point, you will be told which data from your Facebook profile will be transmitted to us. This information is usually your \"public information\" on Facebook and information which you have made available to the public or authorized for the application in question. Information of this type generally includes your name, profile picture and cover photo, your gender, your networks, your username (Facebook URL), and your user ID number (Facebook ID). We will also use the email address you have saved with Facebook in order to contact you outside of Facebook. You can see an overview of information in your profile that is available to the public via the General Account Settings menu of your Facebook profile (https://www.facebook.com/settings?tab=applications).",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Our app contains a contact form with which you can send us messages. The transfer of your data is encrypted.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "In a second step, you will connect your Facebook profile with the service for which you would like to register. At this point, you will be told which data from your Facebook profile will be transmitted to us. This information is usually your \"public information\" on Facebook and information which you have made available to the public or authorized for the application in question. Information of this type generally includes your name, profile picture and cover photo, your gender, your networks, your username (Facebook URL), and your user ID number (Facebook ID). We will also use the email address you have saved with Facebook in order to contact you outside of Facebook. You can see an overview of information in your profile that is available to the public via the General Account Settings menu of your Facebook profile (https://www.facebook.com/settings?tab=applications).",
+      "lang": "en"
+    }
+  ]
+}

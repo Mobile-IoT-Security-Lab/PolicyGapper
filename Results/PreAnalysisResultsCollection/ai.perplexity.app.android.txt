@@ -1,0 +1,290 @@
+This Privacy Policy describes how Perplexity Al, Inc. (“we”, “us,” “our”) collects, uses and discloses information about individuals who use
+our websites (www.perplexity.ai and https://labs.perplexity.ai) to access the free version of our product or Perplexity Pro, other
+applications, services, tools and features, or who purchase our products or otherwise interact with us (collectively, the “Services”). For the
+purposes of this Privacy Policy, we are the data controller, and “you” and “your” means you as the user of the Services, whether you are a
+customer, website visitor, job applicant, representative of a company with whom we do business, or another individual whose information
+we have collected pursuant to this Privacy Policy. This Privacy Policy does not cover the use of the Perplexity API or Enterprise Pro, where
+we act solely as a processor, and which are governed by the applicable Terms and Conditions, including the Data Processing Addendum
+incorporated therein, that you agree to when signing up for a subscription to the Business Services.
+
+---
+
+Please read this Privacy Policy carefully. By using any of the Services, you agree to the collection, use, and disclosure of your information
+as described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use or access the Services.
+
+--- [PAGE BREAK] ---
+
+If we make material changes to the way in which we use or disclose information we collect, we will use reasonable efforts to notify you
+(such as by emailing you at the last email address you provided us, by posting notice of such changes on the Services, or by other means
+consistent with applicable law) and will take additional steps as required by applicable law. If you do not agree to any updates to this
+Privacy Policy, please do not continue using or accessing the Services.
+
+--- [SECTION: 2. COLLECTION AND USE OF YOUR INFORMATION] ---
+
+When you use or access the Services, we collect certain categories of information about you from a variety of sources.
+
+---
+
+Information You Provide to Us:
+
+---
+
+Some features of the Services may require you to directly provide us with certain information about yourself. You may elect not to provide
+this information, but doing so may prevent you from using or accessing these features. Information that you directly submit through our
+Services includes:
+
+---
+
+• Basic contact details, such as name, address, phone number, and email ("Contact Information”). We use this information where
+necessary to perform our contract with you to provide the Services, and to communicate with you (including, with your consent where
+required, to tell you about certain promotions or products or services that may be of interest to you).
+
+---
+
+• Account information, such as name, username, email and password (“Account Information”). We use this information where necessary
+to perform our contract with you to provide the Services and to maintain and secure your account with us. If you choose to register an
+account, you are responsible for keeping your account credentials safe. We recommend you do not share your access details with
+anyone else. If you believe your account has been compromised, please contact us immediately at support@perplexity.ai.
+
+--- [PAGE BREAK] ---
+
+• Payment information, such as credit or debit card information and billing address, which we collect using a third party payment
+processor ("Payment Information”). We use this information where necessary to perform our contract with you to process your
+payment and provide the Services.
+
+---
+
+• Applicant details, such as information included in your resume or CV, references, and job history ("Applicant Information”). We use
+applicant details in our legitimate interests to process your application for employment and to evaluate your candidacy. For Singapore,
+we use this information for evaluative purposes and for the purposes of entering into an employment relationship with you.
+
+---
+
+• Your input and output, such as questions, prompts and other content that you input, upload or submit to the Services, and the output
+that you create, and any collections or pages that you generate using the Services (“Service Interaction Information”). This content may
+constitute or contain personal information, depending on the substance and how it is associated with your account. We use this
+information where necessary to perform our contract with you to generate and output new content as part of the Services. If you make
+content publicly available or share content with third parties, please note that it may be stored, displayed, reproduced, published, or
+otherwise used or disclosed without your permission, and may or may not be attributed to you.
+
+---
+
+• Any other information you choose to include in communications with us when necessary to perform our contract with you, for example,
+when sending a message through the Services or providing your size when purchasing certain products (“Other Information You
+Provide").
+
+---
+
+Information Collected Automatically:
+
+---
+
+We and certain third parties also automatically collect certain information about your interaction with the Services (“Usage Data") through
+the use of cookies, pixels, tags and other tracking technologies (“Tracking Technologies”). Usage Data includes:
+
+---
+
+Device information, such as device type, operating system, unique device identifier, and internet protocol (IP) address.
+
+---
+
+Location information, such as approximate location.
+
+--- [PAGE BREAK] ---
+
+• Other information regarding your interaction with the Services, such as browser type, log data, date and time stamps, clickstream data,
+interactions with marketing emails, and ad impressions.
+
+---
+
+We use Usage Data in our legitimate interests to tailor features and content to you, run analytics and measure and better understand user
+interaction with the Services, and we may permit third parties to use Usage Data for such purposes. For more information on how we use
+Tracking Technologies and your choices, see the section below, Cookies and Other Tracking Technologies.
+
+---
+
+Information Collected From Other Sources:
+
+---
+
+We may obtain information about you from outside sources, including information that we collect directly from third parties and
+information from third parties that you choose to share with us. Such information includes:
+
+---
+
+• Analytics data we receive from analytics providers such as Google Analytics (“Analytics Information”), which we use in our legitimate
+interests to understand your interaction with, and improve, our Services.
+
+---
+
+• Information we receive from career websites, such as LinkedIn, Monster, or Indeed, which we use in our legitimate interests to process
+your application for employment (“Employment Information"). For Singapore, we use this information for evaluative purposes and for
+the purposes of entering into an employment relationship with you.
+
+---
+
+• Information we receive from consumer marketing databases or other data enrichment companies, which we use in our legitimate
+interests to better customize advertising and marketing to you (“Advertising Information”).
+
+---
+
+• Information we receive from business partners and other companies that we partner with to provide you with free or discounted
+access to the Services or other offers or promotions, which we use in our legitimate interests to provide you with free or discounted
+access to the Services (“Partner Information").
+
+--- [PAGE BREAK] ---
+
+Information we receive when you choose to link any third-party platforms to your account, such as when you sign into your account
+through Google or Apple (“Third Party Platform Information”). We use this information only where necessary to perform our contract
+with you, to maintain your account and login information and to provide you with the Services, including to generate and output new
+content. Third Party Platform Information may includes your name, profile picture and email address.
+
+---
+
+• Information from publicly accessible sources, such as information that's publicly available online (like articles, websites, and journals) or
+from other public sources, which we use where necessary to perform our contract with you (“Public Information").
+
+---
+
+You may also have the ability to sync your third party email account or calendar (such as Gmail and Google Calendar) with the Services. If
+you choose to sync these accounts, we will have access to your contacts and information from the email messages and calendar
+appointments in your email account, including the content of your emails (together, “Email Service Information”). Notwithstanding
+anything else in this Privacy Policy, we only use and disclose Email Service Information to provide the Services or as otherwise required by
+applicable law, and we do not use or disclose Email Service Information to create, train, improve or fine-tune Al models. If you sync your
+Google account with the Services, we only use and disclose information from your Google account in accordance with the Google API
+Services User Data Policy, including the Limited Use requirements.
+
+---
+
+Finally, we may, in our legitimate interests, deidentify or anonymize your information such that it cannot reasonably be used to infer
+information about you or otherwise be linked to you ("Deidentified Information”) (or we may collect information that has already been
+deidentified/anonymized), and we may use such Deidentified Information for any purpose. To the extent we possess or process any
+deidentified information, we will maintain and use such information in deidentified/anonymized form and not attempt to reidentify the
+information, except solely for the purpose of determining whether our deidentification/anonymization process satisfies legal requirements.
+
+---
+
+Any information we receive from outside sources will be treated in accordance with this Privacy Policy. We are not responsible for the
+accuracy of the information provided to us by third parties and are not responsible for any third party's policies or practices. For more
+
+--- [PAGE BREAK] ---
+
+information, see the section below, Third Party Websites and Links. To the extent the laws in your jurisdiction do not recognize the legal
+basis of legitimate interest or another legal basis specified above for a particular purpose, you consent to the processing of your personal
+data for that purpose through using the Services.
+
+--- [SECTION: 3. COOKIES AND OTHER TRACKING TECHNOLOGIES] ---
+
+Most browsers accept cookies automatically, but you may be able to control the way in which your devices permit the use of Tracking
+Technologies. If you so choose, you may block or delete our cookies from your browser or limit cross-site tracking; however, blocking or
+deleting cookies may cause some of the Services, including certain features and general functionality, to work incorrectly. If you have
+questions regarding the specific information about you that we process or retain, as well as your choices regarding our collection and use
+practices, please contact us using the information listed below.
+
+--- [PAGE BREAK] ---
+
+Certain features of the Services may allow you to initiate interactions between the Services and third-party services or platforms, such as
+Discord, X (formerly Twitter) and other social networks (“Social Features”). Social Features include features that allow you to access our
+pages on third-party platforms, and from there 'like' or 'share' our content. Use of Social Features may allow a third party to collect and/or
+use your information. If you use Social Features, information you post or make accessible may be publicly displayed by the third-party
+service. Both we and the third party may have access to information about you and your use of both the Services and the third-party
+service. For more information, see the section below, Third Party Websites and Links.
+
+--- [SECTION: 7. CHILDREN'S PRIVACY] ---
+
+Children under the age of 13 are not permitted to use the Services, and we do not seek or knowingly collect any personal information
+about children, particularly those under 13 years of age or in the case of a region where the minimum age for processing personal
+information differs, such different age. For users above the age of 13 but below the age where you are able to consent to the processing of
+your personal information, please obtain your parent or guardian's consent prior to using the Services.
+
+---
+
+If we become aware that we have unknowingly collected information about a child under 13 years of age or the relevant minimum age in
+your jurisdiction, we will make commercially reasonable efforts to delete such information. If you are the parent or guardian of a child
+under the relevant minimum age who has provided us with their personal information, you may contact us using the below information to
+request that it be deleted.
+
+--- [PAGE BREAK] ---
+
+Processing of Personal Information:
+
+---
+
+In the preceding 12 months, we collected and disclosed for a business purpose the following categories of personal information and
+sensitive personal information (denoted by *) about residents:
+
+---
+
+• Identifiers, such as name, e-mail address and IP address
+• Personal information categories listed in the California Customer Records statute such as name, address and telephone number
+• Commercial information such as records of products or services purchased
+• Internet or other similar network activity such as Usage Data
+Geolocation data such as IP address
+
+--- [PAGE BREAK] ---
+
+Professional or employment-related information such as title of profession, employer, professional background and other information
+provided by you when you apply for a job with us
+• Non-public education information collected by certain federally funded institutions such as education records that you provide when
+you apply for a job with us
+• Account access credentials* for the Services
+• The contents of email messages in the email inboxes that you connect to your Perplexity account, and the content of email messages
+you send through Perplexity*
+
+---
+
+The specific business or commercial purposes for which we have collected and disclosed your personal information and the categories of
+sources from which we collect your personal information are described in the section above, Collection and Use Your Information. The
+third parties that we have disclosed your information to are described in Section 4 (Disclosure of Your Information) above. We only use
+and disclose sensitive personal information for the purposes specified in the CCPA or otherwise in line with your consent. The criteria we
+use to determine how long to retain your personal information is described in the section above, Data Security and Retention.
+
+---
+
+Selling and/or Sharing of Personal Information:
+
+---
+
+We do not "sell” or “share” (as those terms are defined under the CCPA) personal information, nor have we done so in the preceding 12
+months. Further, we do not have actual knowledge that we “sell” or “share” personal information of residents under 16 years of age.
+
+--- [PAGE BREAK] ---
+
+The personal information that we collect will be transferred to, stored at/processed in, or accessed from countries outside the jurisdiction
+in which you are based in, for the purposes described in this Privacy Policy, including countries in which our service providers or other
+third parties described in Section 4 are located. Specifically, we have servers for the Service in the US. We also have support, engineering
+and other teams who may support the Service, including from the United States.
+
+---
+
+We commit to resolve DPF Principles-related complaints about our collection and use of personal information. Individuals in the EU and
+UK with inquiries or complaints regarding our compliance with the DPF should first contact us, at support@perplexity.ai. If you have an
+unresolved complaint concerning our handling of personal information received in reliance on the DPF that we have not addressed
+
+--- [PAGE BREAK] ---
+
+11. YOUR RIGHTS AND CHOICES
+
+---
+
+Depending on where you live, you may have some or all of the rights listed below in relation to personal information that we have collected
+about you. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
+
+---
+
+• Right to Access / Know. You may have a right to request access to personal information that we hold about you, or to request
+information about our collection, use and disclosure of your personal information, such as the categories of personal information we
+have collected or disclosed for a business purpose.
+
+--- [PAGE BREAK] ---
+
+You may exercise any of these rights by contacting us using the information provided below. We will not discriminate against you for
+exercising any of these rights. We may need to collect information from you to verify your identity, such as your email address and
+government issued ID, before providing a substantive response to the request. You may designate, in writing or through a power of
+attorney document, an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an
+agent, we will require that the agent provide proof you have authorized them to act on your behalf, and we may need you to verify your
+identity directly with us. If we deny your request, you may appeal our decision by contacting us using the information provided below. You
+may opt out of information collection for Al (which would prohibit us from using your search information to improve our Al models) in your
+settings page if you are logged into the Services. You may also request to delete your account through the settings page or by contacting
+us at support@perplexity.ai. If you delete your account, we aim to delete your personal information from our servers within 30 days. Please
+contact us at support@perplexity.ai to request deletion.

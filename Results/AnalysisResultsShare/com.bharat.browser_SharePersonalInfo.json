@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "The Wi-Fi routers closest to you, Mobile IDs of the mobile phone base stations closest to you, The IP address that is currently assigned to your device, doesn't have control over third-party websites or their privacy practices, so be cautious when sharing your location with a website.",
+      "lang": "English"
+    }
+  ]
+}

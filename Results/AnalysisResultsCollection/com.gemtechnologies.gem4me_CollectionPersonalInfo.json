@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "When you register for and use a GemSpace account, you provide a minimal set of data necessary for identification and interaction with other users. This may include your mobile phone number, username, profile picture, and other details that you choose to display in your profile. These details are used for:\na. User Identification: Ensuring secure access to our services.\nb. Facilitating Communication: Helping you connect and interact with other users on the platform.\nc. Profile Customization: Allowing you to set up a public profile that other users can recognize, without requiring additional personal details unless you voluntarily provide them.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you enable additional security features (for example, two-factor authentication or account recovery), you may be asked to provide an email address. This email address is used exclusively for:\na. Account Recovery: Sending a password recovery code if you lose access.\nb. Alternative Login Options: Facilitating login via third-party services (such as \"Sign in with Google\" or \"Sign in with Apple\").",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Your mobile phone number is used as a unique identifier for your GemSpace account, facilitating a smooth transition from other messaging platforms and helping you maintain your network of contacts.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Your mobile phone number is used as a unique identifier for your GemSpace account, facilitating a smooth transition from other messaging platforms and helping you maintain your network of contacts.\nWith your consent, we may synchronize your contacts to:\na. Notify you when your contacts join GemSpace.\nb. Display the names of your contacts in notifications and within the application interface.\nOnly the minimal necessary data (phone numbers and names) is stored to support this functionality. You may disable contact synchronization or delete your synchronized contacts at any time via the settings.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "You may choose to voluntarily provide additional data, such as:\na. Birthdate: Adding your birthdate to your profile may be used to verify age restrictions for certain content. You control who can see this information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "If you share your location within a chat, GemSpace treats that data with the same security measures as other types of messages.",
+      "lang": "English"
+    }
+  ]
+}

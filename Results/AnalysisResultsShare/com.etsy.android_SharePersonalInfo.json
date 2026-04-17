@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Publicly Displayed Information: By using the Services, certain information about you will be publicly displayed on the Site and Apps, such as Buyer Public Profile Information and Seller Public Profile Information (as defined in Section 2). Buyers and Sellers can choose to make certain information and activities private through their account or Public Profile settings. We will also display other information connected with your use of the Services, including the date you joined, information relating to items you review (including the content of the reviews), photos or videos of items you purchased, your Favorites and Collections, followers, those you follow, comments you post in our community spaces, and information you decide to share via social networks. Your reviews of shops or items you've purchased may also be shared on other platforms and indexed by search engines, including Google.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Business Partners: Etsy works closely with a number of business partners, such as our delivery and payment partners, that assist us with providing the Services in accordance with our Terms of Use. When one of these companies assists us in facilitating your transaction, we or they may need to share information related to the transaction in order to complete your order, monitor activity on the Sites and Apps, such as transaction activity, or to resolve post purchase support or transaction related issues, such as refunds or disputes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Publicly Displayed Information: By using the Services, certain information about you will be publicly displayed on the Site and Apps, such as Buyer Public Profile Information and Seller Public Profile Information (as defined in Section 2). Buyers and Sellers can choose to make certain information and activities private through their account or Public Profile settings. We will also display other information connected with your use of the Services, including the date you joined, information relating to items you review (including the content of the reviews), photos or videos of items you purchased, your Favorites and Collections, followers, those you follow, comments you post in our community spaces, and information you decide to share via social networks. Your reviews of shops or items you've purchased may also be shared on other platforms and indexed by search engines, including Google.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Business Partners: Etsy works closely with a number of business partners, such as our delivery and payment partners, that assist us with providing the Services in accordance with our Terms of Use. When one of these companies assists us in facilitating your transaction, we or they may need to share information related to the transaction in order to complete your order, monitor activity on the Sites and Apps, such as transaction activity, or to resolve post purchase support or transaction related issues, such as refunds or disputes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We rely on your consent to personalize the ads you see on third-party platforms and sites.\nThis targeted marketing includes third-party tools, including those offered by Facebook\nCustom Audience and Google Customer Match, and we may use analytics aggregated\nfrom your Service Usage Information including, for example, search keywords,\nfavorites, browsing history, and purchase history in combination with the Information\nCategories listed here.",
+      "lang": "English"
+    }
+  ]
+}

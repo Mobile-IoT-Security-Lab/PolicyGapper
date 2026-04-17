@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We want to inform you that whenever you use our Service, in the event of an error in the app, we collect data and information (through third-party products) on your device known as Log Data. This Log Data may include details such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app during use, the time and date of your use, and other relevant statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes collecting diagnostic data through a third-party product to handle app errors. This is a core service provider function, which is exempt from 'sharing' disclosure under Google Play's User Data Policy.",
+      "how_to_fix": "No action required. Data processing by service providers for app functionality is not considered 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We want to inform you that whenever you use our Service, in the event of an error in the app, we collect data and information (through third-party products) on your device known as Log Data. This Log Data may include details such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app during use, the time and date of your use, and other relevant statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes collecting diagnostic data through a third-party product to handle app errors. This is a core service provider function, which is exempt from 'sharing' disclosure under Google Play's User Data Policy.",
+      "how_to_fix": "No action required. Data processing by service providers for app functionality is not considered 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We want to inform you that whenever you use our Service, in the event of an error in the app, we collect data and information (through third-party products) on your device known as Log Data. This Log Data may include details such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app during use, the time and date of your use, and other relevant statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes collecting diagnostic data through a third-party product to handle app errors. This is a core service provider function, which is exempt from 'sharing' disclosure under Google Play's User Data Policy.",
+      "how_to_fix": "No action required. Data processing by service providers for app functionality is not considered 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We want to inform you that whenever you use our Service, in the event of an error in the app, we collect data and information (through third-party products) on your device known as Log Data. This Log Data may include details such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app during use, the time and date of your use, and other relevant statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes collecting diagnostic data through a third-party product to handle app errors. This is a core service provider function, which is exempt from 'sharing' disclosure under Google Play's User Data Policy.",
+      "how_to_fix": "No action required. Data processing by service providers for app functionality is not considered 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We want to inform you that whenever you use our Service, in the event of an error in the app, we collect data and information (through third-party products) on your device known as Log Data. This Log Data may include details such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app during use, the time and date of your use, and other relevant statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes collecting diagnostic data (including device name) through a third-party product to handle app errors. This is a core service provider function, which is exempt from 'sharing' disclosure under Google Play's User Data Policy.",
+      "how_to_fix": "No action required. Data processing by service providers for app functionality is not considered 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We want to inform you that whenever you use our Service, in the event of an error in the app, we collect data and information (through third-party products) on your device known as Log Data. This Log Data may include details such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app during use, the time and date of your use, and other relevant statistics.",
+      "reason_of_removal": "Inconsistent: Policy reference does not mention User IDs",
+      "justification": "The provided policy text describes the collection of Log Data such as IP address and device name, but does not mention the collection of any user-specific account IDs.",
+      "how_to_fix": "This finding can be disregarded as it is not supported by the provided policy text.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We want to inform you that whenever you use our Service, in the event of an error in the app, we collect data and information (through third-party products) on your device known as Log Data. This Log Data may include details such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app during use, the time and date of your use, and other relevant statistics.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy describes collecting diagnostic data (including IP address, which can infer location) through a third-party product to handle app errors. This is a core service provider function, which is exempt from 'sharing' disclosure under Google Play's User Data Policy.",
+      "how_to_fix": "No action required. Data processing by service providers for app functionality is not considered 'sharing'.",
+      "lang": "English"
+    }
+  ]
+}
+```

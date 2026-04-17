@@ -1,0 +1,81 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We aim to ensure that our advertising and marketing remain relevant and interesting to you. To achieve this, we use third-party advertising and technology companies as data processors to serve ads and/or provide aggregated data to assist in ad delivery when you visit or use our Services. This includes third-party technology companies that collect data about you to create a profile of your preferences based on your interactions when you use our Services. These companies also automatically collect data when you use our Services to assist us identify the ads that are served to you and what you do after seeing those ads. In addition, we also share data with providers of web analytics tools, such as Google Analytics, which we use to analyse your use of the Services.",
+      "justification": "The policy states user interactions are collected by third-party technology companies to create preference profiles for advertising. This is considered 'sharing' for advertising purposes and is not exempt.",
+      "how_to_fix": "In the Data Safety form, declare that 'App interactions' are 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We aim to ensure that our advertising and marketing remain relevant and interesting to you. To achieve this, we use third-party advertising and technology companies as data processors to serve ads and/or provide aggregated data to assist in ad delivery when you visit or use our Services. This includes third-party technology companies that collect data about you to create a profile of your preferences based on your interactions when you use our Services. These companies also automatically collect data when you use our Services to assist us identify the ads that are served to you and what you do after seeing those ads. In addition, we also share data with providers of web analytics tools, such as Google Analytics, which we use to analyse your use of the Services.",
+      "justification": "The policy states user interactions, which can include search history, are collected by third-party technology companies to create preference profiles for advertising. This is considered 'sharing' and is not exempt.",
+      "how_to_fix": "In the Data Safety form, declare that 'In-app search history' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We aim to ensure that our advertising and marketing remain relevant and interesting to you. To achieve this, we use third-party advertising and technology companies as data processors to serve ads and/or provide aggregated data to assist in ad delivery when you visit or use our Services. This includes third-party technology companies that collect data about you to create a profile of your preferences based on your interactions when you use our Services. These companies also automatically collect data when you use our Services to assist us identify the ads that are served to you and what you do after seeing those ads. In addition, we also share data with providers of web analytics tools, such as Google Analytics, which we use to analyse your use of the Services.",
+      "justification": "The policy states user actions and interactions are collected by third-party technology companies to create preference profiles for advertising. This is considered 'sharing' and is not exempt.",
+      "how_to_fix": "In the Data Safety form, declare that 'Other actions' are 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Third-Party Cookies: These cookies come from external sources, not our Websites. They are often employed by our advertising or analytics partners (eg. Google, Meta, etc.) to follow your activity across various sites, which allows for personalized advertising and helps gather broad usage statistics.",
+      "justification": "The policy states that third-party advertising partners use cookies to track user activity across sites for personalized advertising. This constitutes 'sharing' of web browsing history and is not exempt.",
+      "how_to_fix": "In the Data Safety form, declare that 'Web browsing history' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We aim to ensure that our advertising and marketing remain relevant and interesting to you. To achieve this, we use third-party advertising and technology companies as data processors to serve ads and/or provide aggregated data to assist in ad delivery when you visit or use our Services. This includes third-party technology companies that collect data about you to create a profile of your preferences based on your interactions when you use our Services. These companies also automatically collect data when you use our Services to assist us identify the ads that are served to you and what you do after seeing those ads. In addition, we also share data with providers of web analytics tools, such as Google Analytics, which we use to analyse your use of the Services.",
+      "justification": "The policy describes sharing data with third-party advertising and analytics companies for profiling and ad delivery, a process that typically involves device or other identifiers. This is considered 'sharing' and is not exempt.",
+      "how_to_fix": "In the Data Safety form, declare that 'Device or other IDs' are 'Shared' with third parties for the purpose of 'Advertising or marketing' and 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Social media and advertising partners. When we use social media for marketing purposes, your Personal Data (limited to only your name and email address) may be shared with the social media platforms so that they can check if you also hold an account with them. If you do, we may ask the advertising company or social media provider to:\nΟ\nΟ\nΟ\nuse your Personal Data to sent our ads to you, because we think that you might be\ninterested in new Fever products or services;\nnot send you our ads, because the marketing related to a service that you already use;\nsend our ads to people who have a similar profile to you (lookalike audiences) and custom\naudiences. Please note that your Personal Data is hashed before we send it to the\nadvertising partner and they are only allowed to use it in the ways described above.",
+      "justification": "The policy explicitly states that the user's name is shared with social media and advertising partners for marketing purposes, such as creating lookalike audiences. This is 'sharing' and is not exempt.",
+      "how_to_fix": "In the Data Safety form, declare that 'Name' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Social media and advertising partners. When we use social media for marketing purposes, your Personal Data (limited to only your name and email address) may be shared with the social media platforms so that they can check if you also hold an account with them. If you do, we may ask the advertising company or social media provider to:\nΟ\nΟ\nΟ\nuse your Personal Data to sent our ads to you, because we think that you might be\ninterested in new Fever products or services;\nnot send you our ads, because the marketing related to a service that you already use;\nsend our ads to people who have a similar profile to you (lookalike audiences) and custom\naudiences. Please note that your Personal Data is hashed before we send it to the\nadvertising partner and they are only allowed to use it in the ways described above.",
+      "justification": "The policy explicitly states that the user's email address is shared with social media and advertising partners for marketing purposes, such as creating lookalike audiences. This is 'sharing' and is not exempt.",
+      "how_to_fix": "In the Data Safety form, declare that 'Email address' is 'Shared' with third parties for the purpose of 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We aim to ensure that our advertising and marketing remain relevant and interesting to you. To achieve this, we use third-party advertising and technology companies as data processors to serve ads and/or provide aggregated data to assist in ad delivery when you visit or use our Services. This includes third-party technology companies that collect data about you to create a profile of your preferences based on your interactions when you use our Services. These companies also automatically collect data when you use our Services to assist us identify the ads that are served to you and what you do after seeing those ads. In addition, we also share data with providers of web analytics tools, such as Google Analytics, which we use to analyse your use of the Services.",
+      "reason_of_removal": "Inconsistent: The policy reference does not mention the specified data type.",
+      "justification": "The provided policy text discusses sharing data for advertising, user profiling, and general analytics, but does not mention the collection or sharing of crash logs.",
+      "how_to_fix": "If crash logs are shared with a third party (e.g., a crash reporting service), this should be explicitly stated in the privacy policy and declared in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We aim to ensure that our advertising and marketing remain relevant and interesting to you. To achieve this, we use third-party advertising and technology companies as data processors to serve ads and/or provide aggregated data to assist in ad delivery when you visit or use our Services. This includes third-party technology companies that collect data about you to create a profile of your preferences based on your interactions when you use our Services. These companies also automatically collect data when you use our Services to assist us identify the ads that are served to you and what you do after seeing those ads. In addition, we also share data with providers of web analytics tools, such as Google Analytics, which we use to analyse your use of the Services.",
+      "reason_of_removal": "Inconsistent: The policy reference does not mention the specified data type.",
+      "justification": "The provided policy text discusses sharing data for advertising, user profiling, and general analytics, but does not mention the collection or sharing of diagnostic data.",
+      "how_to_fix": "If diagnostic data is shared with a third party, this should be explicitly stated in the privacy policy and declared in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We aim to ensure that our advertising and marketing remain relevant and interesting to you. To achieve this, we use third-party advertising and technology companies as data processors to serve ads and/or provide aggregated data to assist in ad delivery when you visit or use our Services. This includes third-party technology companies that collect data about you to create a profile of your preferences based on your interactions when you use our Services. These companies also automatically collect data when you use our Services to assist us identify the ads that are served to you and what you do after seeing those ads. In addition, we also share data with providers of web analytics tools, such as Google Analytics, which we use to analyse your use of the Services.",
+      "reason_of_removal": "Inconsistent: The policy reference does not mention the specified data type.",
+      "justification": "The provided policy text discusses sharing data for advertising, user profiling, and general analytics, but does not mention the collection or sharing of other app performance data.",
+      "how_to_fix": "If other app performance data is shared with a third party, this should be explicitly stated in the privacy policy and declared in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

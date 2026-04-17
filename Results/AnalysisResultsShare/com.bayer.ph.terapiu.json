@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Il nostro sito Web utilizziamo un servizio di analisi web di Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, Stati Uniti (\"Google\"). Google analizzerà l'utilizzo del nostro sito web per nostro conto. A tal fine, utilizziamo i cookie descritti in modo più dettagliato nella tabella precedente. Le informazioni raccolte da Google in relazione all'utilizzo del nostro sito Web (ad esempio l'URL di riferimento, le nostre pagine web visitate dall'utente, il tipo di browser, le impostazioni della lingua, il sistema operativo, la risoluzione dello schermo) verranno trasmesse a un server di Google negli Stati Uniti, dove verranno archiviate e analizzate. I rispettivi risultati saranno quindi messi a nostra disposizione in forma anonima. I tuoi dati di utilizzo non saranno connessi al tuo indirizzo IP completo durante questo processo. Abbiamo attivato sul nostro sito web la funzione di anonimizzazione IP offerta da Google, che eliminerà gli ultimi 8 bit (tipo IPv4) o gli ultimi 80 bit (tipo IPv6) del tuo indirizzo IP dopo ogni trasferimento di dati a Google.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Se tuttavia ci riferisci effetti collaterali indesiderati o altri problemi relativi alla sicurezza o alla qualità dei prodotti Bayer, saremo legalmente obbligati a gestire la tua comunicazione e potremmo doverti contattare per chiarimenti. Successivamente, dobbiamo informare le autorità sanitarie competenti dei problemi da te segnalati. In questo contesto, le tue informazioni possono essere inoltrato in forma pseudonima, cioè nessuna informazione con cui potresti essere identificato direttamente verrà trasmessa. Potremmo anche essere costretti a trasmettere queste notifiche pseudonime alle società del nostro gruppo e ai nostri partner, nella misura in cui queste sono parimenti obbligate a notificare rispettivamente alle autorità sanitarie competenti.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Il nostro sito Web utilizziamo un servizio di analisi web di Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, Stati Uniti (\"Google\"). Google analizzerà l'utilizzo del nostro sito web per nostro conto. A tal fine, utilizziamo i cookie descritti in modo più dettagliato nella tabella precedente. Le informazioni raccolte da Google in relazione all'utilizzo del nostro sito Web (ad esempio l'URL di riferimento, le nostre pagine web visitate dall'utente, il tipo di browser, le impostazioni della lingua, il sistema operativo, la risoluzione dello schermo) verranno trasmesse a un server di Google negli Stati Uniti, dove verranno archiviate e analizzate. I rispettivi risultati saranno quindi messi a nostra disposizione in forma anonima. I tuoi dati di utilizzo non saranno connessi al tuo indirizzo IP completo durante questo processo. Abbiamo attivato sul nostro sito web la funzione di anonimizzazione IP offerta da Google, che eliminerà gli ultimi 8 bit (tipo IPv4) o gli ultimi 80 bit (tipo IPv6) del tuo indirizzo IP dopo ogni trasferimento di dati a Google.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Il nostro sito Web utilizziamo un servizio di analisi web di Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, Stati Uniti (\"Google\"). Google analizzerà l'utilizzo del nostro sito web per nostro conto. A tal fine, utilizziamo i cookie descritti in modo più dettagliato nella tabella precedente. Le informazioni raccolte da Google in relazione all'utilizzo del nostro sito Web (ad esempio l'URL di riferimento, le nostre pagine web visitate dall'utente, il tipo di browser, le impostazioni della lingua, il sistema operativo, la risoluzione dello schermo) verranno trasmesse a un server di Google negli Stati Uniti, dove verranno archiviate e analizzate. I rispettivi risultati saranno quindi messi a nostra disposizione in forma anonima. I tuoi dati di utilizzo non saranno connessi al tuo indirizzo IP completo durante questo processo. Abbiamo attivato sul nostro sito web la funzione di anonimizzazione IP offerta da Google, che eliminerà gli ultimi 8 bit (tipo IPv4) o gli ultimi 80 bit (tipo IPv6) del tuo indirizzo IP dopo ogni trasferimento di dati a Google.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Il nostro sito Web utilizziamo un servizio di analisi web di Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, Stati Uniti (\"Google\"). Google analizzerà l'utilizzo del nostro sito web per nostro conto. A tal fine, utilizziamo i cookie descritti in modo più dettagliato nella tabella precedente. Le informazioni raccolte da Google in relazione all'utilizzo del nostro sito Web (ad esempio l'URL di riferimento, le nostre pagine web visitate dall'utente, il tipo di browser, le impostazioni della lingua, il sistema operativo, la risoluzione dello schermo) verranno trasmesse a un server di Google negli Stati Uniti, dove verranno archiviate e analizzate. I rispettivi risultati saranno quindi messi a nostra disposizione in forma anonima. I tuoi dati di utilizzo non saranno connessi al tuo indirizzo IP completo durante questo processo. Abbiamo attivato sul nostro sito web la funzione di anonimizzazione IP offerta da Google, che eliminerà gli ultimi 8 bit (tipo IPv4) o gli ultimi 80 bit (tipo IPv6) del tuo indirizzo IP dopo ogni trasferimento di dati a Google.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Potremmo condividere i tuoi dati personali con le nostre consociate del Gruppo Bayer, ove necessario per le finalità sopra descritte.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Potremmo condividere i tuoi dati personali con le nostre consociate del Gruppo Bayer, ove necessario per le finalità sopra descritte.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Potremmo condividere i tuoi dati personali con le nostre consociate del Gruppo Bayer, ove necessario per le finalità sopra descritte.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "Potremmo condividere i tuoi dati personali con le nostre consociate del Gruppo Bayer, ove necessario per le finalità sopra descritte.",
+      "lang": "Italian"
+    }
+  ]
+}

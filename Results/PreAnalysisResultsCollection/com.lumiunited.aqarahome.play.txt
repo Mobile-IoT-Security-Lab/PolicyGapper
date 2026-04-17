@@ -1,0 +1,575 @@
+This Privacy Policy sets out how Lumi United Technology Co., Ltd. ("Lumi Company", "we", "our" or
+"us") collects, uses, discloses, processes and protects any personal information that you give us
+when you use our products and services. Should we ask you to provide certain information by which
+you can be identified when using Lumi Company's products and services, it will only be used in
+accordance with this Privacy Policy and/or our terms and conditions for users.
+
+---
+
+The Privacy Policy is designed with you in mind, and it is important that you have a comprehensive
+understanding of our personal information collection and usage practices, as well as full confidence
+that ultimately, you have control of any personal information provided to Lumi Company.
+
+---
+
+In this Privacy Policy, "personal information" means information that can be used to identify an
+individual, either from that information alone or from that information combined with other information
+Lumi Company has access to about that individual. Such personal information may include but not
+limit to the information you provide to us or upload, device-related information, etc.
+
+---
+
+WHAT INFORMATION IS COLLECTED AND HOW WE CAN USE IT
+
+---
+
+TYPES OF INFORMATION COLLECTED
+
+---
+
+[PAGE BREAK]
+
+---
+
+In order to provide our services to you, we will ask you to provide personal information that is
+necessary to provide those services to you. If you do not provide your personal information, we may
+not be able to provide you with our products or services.
+
+---
+
+We will only collect the information that is necessary for its specified, explicit and legitimate purposes
+and not further processed in a manner that is incompatible with those purposes. We may collect the
+following types of information (which may or may not be personal information):
+
+---
+
+• Account information. We may collect information related to your account, including your Aqara
+Account nickname, profile photo, shared Aqara Account, phone number (if any), e-mail address.
+
+---
+
+• Device information. We may collect and use information related to your device, including
+device name, manufacturer, model, firmware version, serial number, hardware version, battery
+voltage, device board temperature, network information, software system version, desktop
+shortcut settings.
+
+---
+
+• Location information (We do not use or collect your precise geographic location unless
+your separate consent is sought).We may collect the following location information of the
+device(s) on which you installed Aqara Home: region, country code, city code, mobile network
+code, mobile country code, cell identity, district name, longitude and latitude information, time
+zone settings, language settings. Such information may be obtained from User's handheld device
+or actively provided by users, and such information is necessary for assigning a server and
+setting users' time zone. If the data are not collected, the user may not enjoy the relevant
+services
+
+---
+
+• Network information. We may collect information related to your network, like Wi-Fi
+information, device IP, Android ID and MAC address.
+
+---
+
+• Automation settings information. We may collect information related to your Automation
+setting, like automation name, automation execution logs, condition and action list, effective time
+period setting, execution result notification setting, settings that enable or disable
+automation. You can set up automation and add scenarios in the Aqara Home App.
+
+---
+
+• At this time, we will collect your specific settings and relevant automation and scenario execution
+logs to provide you with the above services. In order to enjoy this function, we may collect the
+family location information set by you and the precise location information set in the geofencing
+function to provide you with the above services. The intelligent automation scenario requires you
+to actively set it up. After the setting, the intelligent automation scenario will take effect. If you do
+not set it, the data or functions we collect will not automatically make any decisions that affect
+the work of the device for you.
+
+---
+
+• Feedback information. We may collect the feedback information that you provide, including
+feedback content (including product usage or quality problems), router model, basic contact
+information and error logs.
+
+---
+
+• The Information collected related to the Software Value-Added Services (Including but not
+limited to: camera cloud storage, log cloud storage) provided by our organization encompasses
+the following data points:
+Account information, device ID, package type, service validity period and days, order number,
+payment time, payment amount, payment currency, activation status, renewal amount,
+renewal date, payment method.
+
+---
+
+[PAGE BREAK]
+
+---
+
+Such data is necessary for supporting your Software Value-Added Service benefits and if the
+data are not provided, your Software Value-Added Services benefits cannot be completed.
+If you need us to send invoices related to Software Value-Added Services, you also need to
+provide us with the consignee's name, address, telephone number, fax number and email
+address for receiving the invoice.
+
+---
+
+• Information collected by Hub device (Control Hub). Including: night light on/off, color,
+brightness data; alarm timing setting data, alarm trigger device list information, alarm delay
+effective time, Hub alarm ring tone list information, alarm volume, alarm red light flashing
+duration, linkage alarm list data, alarm messages and logs; Hub language, Hub volume;
+automatic night light settings; timed color light settings; sub-device list information.
+
+---
+
+• Information collected by sub-device. We may collect information from sub-device which is
+connected. Please refer to the the data-collected description of the corresponding sub-device in
+Aqara Home (Please go to the "Device Privacy Policy" in the settings item of the device details
+page to view it, you may find an overview of the data-collected descriptions for each sub-
+device). You can use the Aqara Home app to connect to the sub-devices or triple press the Hub
+button to add the sub-devices. In order to ensure the smooth operation of the device and provide
+you with device services, after the device connects to the app or hub, it means that you agree to
+the information collected by the device, and we will collect data about the device.
+
+---
+
+• Personalized service (recommended automation) based on device information, automation and
+scene setting information: in order to provide you with personalized smart home products and
+automation services that can better meet your personal needs and improve your smart home
+user experience, we will provide you with personalized recommendations and displays of smart
+home products, services or other information based on the following necessary information:
+automation and scene names, execution log, conditions and operation lists, valid time period
+settings, execution result notification settings, and settings to enable or disable automation.
+Relevant information about the devices you are using, which includes device model, device
+settings, MAC address and IMEI, Android ID, device identification code, device
+environment, device models, Model information, device ID, SN number, hardware version
+number, firmware version number, and location information assigned by the device.
+Based on your information above, we will use big data and algorithms to conduct comprehensive
+statistics and analysis in order to understand your needs and preferences, and recommend or
+display products, services or other information that may be of your interest. If you are not
+interested in the personalized recommended products, services or other information or do not
+want us to provide you with personalized recommendation services, you can turn off
+personalized recommendation service in "Personalized Recommendation Management"
+interface in settings. Once it is turned off, content that may be of your interest will not be
+recommended to you.
+
+---
+
+• Information collected by "device diagnosis service". We provide you with the "Device
+diagnosis service" based on service authorization: If there's any problem with your Aqara smart
+device or Aqara Home application, you may contact our customer service and report the
+problem. If necessary, we will deliver the "Device diagnosis service" to you. After obtaining your
+authorization, we will get related account information of the device, device identification
+information and log data, so as to improve user experience of the smart device.
+"Device diagnosis service" is the service of remote device diagnosis and analysis provided by us
+for you. We attach great importance to your personal information and privacy protection. We will
+provide related safety protection measures for your personal information according to legal
+
+---
+
+[PAGE BREAK]
+
+---
+
+requirements and mature safety standards of the industry. Specifically, we need to collect the
+following information of yours:
+(1) Account information: Including the information of the registered account;
+(2) Device information: Including device identifier, device list, hardware information of the device,
+device use information, device operation log, system log;
+(3) Linkage information: Scene list, condition set list, linkage execution log;
+(4) Application information: Including application software information, application use
+information;
+(5) Network information: Including network information of the application software and smart
+device.
+We will analyze the collected data, find faults and repair. We will find the experience problem
+and improve it, and enhance product quality. If your data authorization expires, we will stop
+inquiring and analyzing your data. If you do not provide this type of information, we cannot
+acquire your fault and experience problems on your smart device, nor analyze and give
+solutions.
+
+---
+
+• Advertising and Marketing Services. When you use our services, in order to maintain,
+improve, optimize our products and/or services and enhance user experience, we will provide
+you with commercial electronic information ("advertising") as needed, including:
+Aqara Advertisements: We will process the information you provide us, including the terminal
+device information of your client terminal device (client type, client version number, device
+model, operating system version number, operating system language, operating system type,
+Device manufacturer, device screen width, device screen height, device screen density, device
+screen orientation), client device identification code (Android ID, IDFA, OAID), location
+information (province/city/district), network information (network connection method, operator) or
+used in combination with other information to promote Aqara's own products and business
+advertising; this information is necessary to implement this function. If you disagree with the
+collection and use of this data, you may not be able to use this function.
+
+---
+
+[PAGE BREAK]
+
+---
+
+• Analysis and Improvement of Services (Non-personal Information). When you use our
+services, in order to help us provide you with more useful information, understand which parts of
+our website, products, and services you are most interested in, and improve the services we
+offer to you, we may also collect other information that cannot be used to identify a specific
+individual (i.e., information that does not fall within the category of personal information). For
+example, we may collect aggregated statistical data generated when you use specific services,
+such as users' operation behaviors (including clicks, page jumps, browsing time, and function
+usage). The categories and quantity of the collected information depend on how you use our
+products and/or services. We use such information in an aggregated form to enhance your
+experience when using our application. For the purposes of this privacy policy,
+aggregated data is considered non-personal information and cannot be used to identify
+your identity.If we combine non-personal information with personal information, during the
+period of combined use, such information will be regarded as personal information, and we will
+use this information in strict compliance with this privacy policy.
+
+---
+
+INFORMATION COLLECTED BY THE THIRD PARTIES
+
+---
+
+Please be aware that in order to realize the relevant functions and ensure the safety and stability of
+the service, we have accessed the software tool development kit (SDK) provided by a third party, and
+we will conduct strict security monitoring on the SDK obtained by the partner to protect the data
+security.
+
+---
+
+In the following table, we list the types of third-party SDKs accessed in the Aqara Home app, as well
+as the types of personal information you collect and the purpose of use: 1. Third-party SDK name:
+Shangyun (CS2 Network)
+Information collection types: Camera device ID, network information (IP, current network type and
+name)
+Purpose of use: It is used to set up the p2p connection of the camera after the camera device is
+added
+Operating systems: Android and iOS
+
+---
+
+1. Third-party SDK name: Facebook open-source framework
+Information collection types: Device information (including device model, device identifier
+(AndroidID/IDFA/OPENUDID/GUID/OAID)
+Purpose of use: It is used to log in Facebook
+Operating systems: Android and iOS
+
+---
+
+2. Third-party SDK Name: Google SDK
+Information Collection Types: Device Identifiers: IMEI or OAID, SN, IMSI, Android ID, GAID.
+Application Information: App registration and version number, operating status. Network
+Information:IP or domain connection results, current network type. Running Process Information.
+Purpose of Use: Google account authorization login
+Operating systems: Android and iOS
+
+---
+
+3. Third-party SDK name: Sensors Data
+Information collection types: IP address, sensor list, acceleration sensor, device information
+(device version, device manufacturer, device model information), device identification
+information (hardware serial number, IMEI, MAC address, IMSI information, IDFA, AndroidID),
+
+---
+
+[PAGE BREAK]
+
+---
+
+device status information, install application package name information, network information
+(WIFI parameter ssid), operator information, location information, IDFV, OAID, VAID, UUID, IMSI
+Purpose of use: It is used to initialize the SDK for data collection after the user agrees to the
+Privacy
+Operating systems: Android and iOS
+
+---
+
+4. Third-party SDK name: Application performance monitoring full-link version App
+monitoring SDK
+Information collection types:
+(1) Device information: device ID, device model, operating system, system time zone, screen
+resolution, disk usage, memory usage, number of running threads, CPU information (frequency,
+model, architecture), mobile device country code (MCC), Mobile Device Network Coding (MNC),
+device dpi; Android ID, device brand, operating system api version, user agent, battery power,
+network traffic, device abi, ROM;
+(2) Application information: application version, application package name, process startup time,
+crash time, crashed thread name, active page name, all thread stacks of the current process,
+application service log information, application file name, application file size, disk size; fd list;
+(3) System and network identification information: user ID, IP address, operator information,
+network access mode.
+Purpose of use: Use automation programs and algorithms to identify devices, obtain device
+status (online, offline, and network environment), perform device count statistics, and debug
+single device problems.
+Operating systems: Android and iOS
+
+---
+
+5. Third-party SDK name: International translation platform SDK
+Information collection types:
+(1) Device information: device brand, device model, operating system;
+(2) Application information: application package name;
+(3) System or network identification information: network access mode (WIFI status);
+(4) Personal location information: System country/region information.
+Purpose of use: Obtain the i18n copy configured by the customer on the translation platform.
+This parameter will be used by the server to configure the grayscale dimension selection for
+grayscale delivery.
+Operating systems: Android and iOS
+
+---
+
+6. Third-party SDK name: AndroidX Webkit (chromium)
+Information collection types: SSID, BSSID, MAC address, WIFI information, AndroidX Webkit
+(chromium) needs to monitor the WIFI switch and signal status, and will obtain WIFI information,
+MAC address, SSID, installed APP information, and sensor information multiple times.
+Purpose of use: AndroidX auxiliary development tools provided by Google, based on the
+WebKit browser engine, provide web browsing services
+Operating systems: Android
+
+---
+
+7. Third-party SDK name: GeTui
+Information collection types: Device ID, device model, app version number, system version
+number, device platform, device manufacturer, network information and position-related
+information, application list information
+Purpose of use: It is used to provide the message pushing service for models of the iOS
+system
+Operating systems: iOS
+
+---
+
+[PAGE BREAK]
+
+---
+
+8. Third-party SDK name: Ali Mobile PUSH (EMAS)
+Information collection types: Device identification information (operating system, device
+model, IP, operator information)
+Purpose of use: It is used to recognize the pushing device and push messages to the single
+device
+Operating systems: Android
+
+---
+
+9. Third-party SDK name: Xiaomi PUSH
+Information collection types: Device identification information (IMEI [targeting at the following
+versions of Android Q], OAID, Android ID and MAC address), setting information of the
+notification bar, network status information (IP, current network type and name)
+Purpose of use: It is used to provide the message pushing service for the mobile terminal of Mi
+brand
+Operating systems: Android
+
+---
+
+10. Third-party SDK name: OPPO PUSH
+Information collection types: Device-related information (such as IMEI [targeting at the
+following versions of Android Q], Android ID), application list
+Purpose of use: It is used to provide the message pushing service for the mobile terminal of
+OPPO brand
+Operating systems: Android
+
+---
+
+11. Third-party SDK name: vivo PUSH
+Information collection types: Device-related information (such as IMEI [targeting at the
+following versions of Android Q], Android ID), application list
+Purpose of use: It is used to provide the message pushing service for the mobile terminal of
+vivo brand
+Operating systems: Android
+
+---
+
+12. Third-party SDK name: FCM PUSH
+Information collection types: List of applications in operation
+Purpose of use: It is used to receive the message pushing service when the overseas device is
+used in the overseas region, including APNS push
+Operating systems: Android
+
+---
+
+13. Third-party SDK name: Tencent Bugly Pro SDK
+Information collection types: (1) For Android devices: Log information (including third-party
+developer custom logs, Logcat logs, and App crash stack information), device identification
+information (IMEI [for versions below Android Q], IMSI, MAC address, Android ID, and IDFV),
+phone model, phone brand, phone system API level, CPU architecture type, whether the device
+is rooted, disk space usage, SD card space usage, memory space usage, network information,
+network type, system name, system version, country code, phone serial number, current running
+process name and PID. (2) For iOS devices: Device model, operating system name and version,
+operating system internal version number, Wi-Fi status, CPU attributes, remaining memory
+space, disk space/disk remaining space, runtime phone status (memory used by processes,
+virtual memory, etc.), IDFV, whether the device is jailbroken, area code.
+Purpose of use: To collect statistics on APP abnormal situations and troubleshoot crashes.
+Operating systems: Android and iOS
+
+---
+
+[PAGE BREAK]
+
+---
+
+3. We may use the Network information, Device Time Zone data to analyze the network status
+of your device to help resolve your issue. We obtain location information to assign a server
+when you register an account, and to automatically set your time zone. The frequency of
+collecting such information depends on that of your request for changing locations. In
+addition, we may further use IP information to get the rough statistics of the geographic
+location of the online device, but this will never disclose any other information about you,
+such as your precise geographic location information.
+
+---
+
+4. We may use Automation settings information to provide you with smart automation scenes.
+Automation requires you to set up scenes on your own. After setting up, automation scenes
+take effect. If you have not set it up, the data or functions we collect will not automatically
+make any decisions that affect the operation of the device.
+
+---
+
+5. We may collect feedback information to help us analyze and resolve feedback issues and
+contact you in a timely manner to inform you of the solution to your problem.
+
+---
+
+[PAGE BREAK]
+
+---
+
+For the avoidance of doubt, Lumi Company may collect, use or disclose your personal information
+without your consent if it is and only to the extent it is allowed explicitly under local data protection
+laws. Such disclosure may be brought about by the necessity to protect our rights, ensure the safety
+of you and other people, and comply with the requirements of the local government to facilitate the
+investigations of illegal activities.
+
+---
+
+[SECTION: SECURITY SAFEGUARDS]
+---
+
+LUMI COMPANY'S SECURITY MEASURES
+We are committed to ensuring that your personal information is secure. In order to prevent
+unauthorized access, disclosure or other similar risks, we have put in place reasonable physical,
+electronic and managerial procedures to safeguard and secure the information we collect from your
+using of Lumi Company products and services and on Lumi Company's websites. We will use all
+reasonable efforts to safeguard your personal information.
+
+---
+
+For example, when you access your Aqara Account, you can choose to use authorization code
+verification process for better security. When you send or receive data from your Lumi Company's
+
+---
+
+[PAGE BREAK]
+
+---
+
+device to our servers, we make sure they are encrypted using Secure Sockets Layer ("SSL") and
+other algorithms.
+
+---
+
+We make sure that our employees and Third Party Service Providers who access the information to
+help provide you with our products and services are subject to strict contractual confidentiality
+obligations and may be disciplined or terminated if they fail to meet such obligations. We have special
+access controls for cloud based data storage as well. All in all, we regularly review our information
+collection, storage and processing practices, including physical security measures, to guard against
+any unauthorized access and use.
+
+---
+
+[SECTION: RETENTION POLICY]
+---
+
+Personal information will be held for as long as it is necessary to fulfill the purpose for which it was
+collected, or as required or permitted by applicable laws. We will cease to retain and delete or
+anonymize personal information, or remove the means by which the personal information can be
+associated with particular individuals, as soon as it is reasonable to assume that the purpose for
+which that personal information was collected is no longer being served by retention of the personal
+information.If further processing is for archiving purposes in the public interest, scientific or historical
+research purposes or statistical purposes according to the applicable laws, the data can be further
+retained by Lumi Company even if the further processing is incompatible with original purposes.
+
+---
+
+[PAGE BREAK]
+
+---
+
+ACCESSING OTHER FEATURES ON YOUR DEVICE
+Our applications may need access to certain features on your device such as Wi-Fi network status.
+This information is used to allow the applications to run on your device and allow you to interact with
+the applications. At any time, you may revoke your permissions by turning these off at the device
+level or contacting us at privacy@lumiunited.com
+
+---
+
+CONTROLLING SETTINGS
+Lumi Company recognizes that privacy concerns differ from person to person. Therefore, we provide
+examples of ways Lumi Company makes available for you to choose to restrict the collection, use,
+disclosure or processing of your personal information and control your privacy settings:
+
+---
+
+Based on the requirements of applicable laws, a copy of your personal data collected and
+processed by us will be provided to you upon your request free of charge. For any extra request
+of the same information, we may charge a reasonable fee based on actual administrative costs
+according to the applicable laws.
+
+---
+
+[PAGE BREAK]
+
+---
+
+WITHDRAWAL OF CONSENT
+You can change the scope of your consent or withdraw your authorization in the Aqara Home App by
+deleting, correcting information, or disabling related device permission functions on your device, or
+you can click "Profile"-"Settings"- "Terms of Use and Privacy Policy"-"Revocation of Terms of Use and
+Privacy Policy Authorization" to revoke your authorization.
+You may withdraw your consent for the collection, use and/or disclosure of your personal information
+in our possession or control by submitting a request. This may be done bysending e-mail to
+privacy@lumiunited.com. We will process your request within a reasonable time from when the
+request was made, and thereafter not collect, use and/or disclose your personal information as per
+your request. The withdrawal of your consent or authorization will not affect the validity of our
+processing carried out on the basis of the consent up until the point of withdrawal.
+
+---
+
+[PAGE BREAK]
+
+---
+
+7666666lt is our policy not to require personal information from minors or offer to send any
+promotional materials to persons in that category. Lumi Companydoes not seek or intend to seek to
+receive any personal information from minors. Should a parent or guardian have reasons to believe
+that a minor has provided Lumi Companywith personal information without their prior consent, please
+contact us to ensure that the personal information is removed and the minor unsubscribes from any
+of the applicable Lumi Company's services.
+
+---
+
+UPDATES TO THE PRIVACY POLICY
+We keep our Privacy Policy under regular review and may update this privacy policy to reflect
+changes to our information practices. If we make material changes to our Privacy Policy, we will notify
+you by email (sent to the e-mail address specified in your account) or post the changes on all the
+Lumi Company websites or through software, so that you may be aware of the information we collect
+and how we use it. Such changes to our Privacy Policy shall apply from the effective date as set out
+in the notice or on the website. We encourage you to periodically review this page for the latest
+information on our privacy practices. Your continued use of products and services on the websites,
+mobile phones and/or any other device will be taken as acceptance of the updated Privacy Policy.
+We will seek consent from you again before we collect more personal information from you or when
+we wish to use or disclose your personal information for new purposes.
+
+---
+
+CONTACT US
+If you have any comments or questions about this Privacy Policy or any questions relating to Lumi
+Company's collection, use or disclosure of your personal information, please contact us at the
+address below referencing "Privacy Policy":
+
+---
+
+[PAGE BREAK]
+
+---
+
+We collect, use, disclose and retain your personal information in the same way as described in the
+main body of this Privacy Policy.

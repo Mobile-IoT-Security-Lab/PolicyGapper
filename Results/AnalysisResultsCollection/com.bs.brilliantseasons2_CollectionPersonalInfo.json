@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "These services may collect non-personally identifiable data, including Log Data, such as device name, operating system version, IP address, app configuration details, and usage statistics. Additionally, depending on their terms, they may also collect personal information. This data is used solely for monitoring app performance, identifying causes for app crashes, and improving the app's functionality. The legal basis for this processing is legitimate interest in maintaining",
+      "lang": "English"
+    }
+  ]
+}

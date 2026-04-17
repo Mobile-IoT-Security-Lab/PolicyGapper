@@ -1,0 +1,35 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Wallapop obtains and uses the IP data and other identifiers provided by the device from which you browse our website or application, as well as the Data you provide when registering as a Wallapop \"User\", alongside the Data obtained as a result of your browsing, requests, publications, conversations, searches, purchases, ratings from other users, participation in competitions and the Data derived, where appropriate, from the linking of your registration on our website or application with your Facebook or Google account.",
+      "justification": "The policy states that user-generated content such as 'publications, conversations, searches, purchases, ratings' is collected from the 'application'. This data is sent off-device to enable core service functionality and does not qualify for any collection exemptions.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "In accordance with the choice of cookies provided (if and when applicable), when you use our Platform for informational purposes only (e.g., you do not register on the Platform, shop through the Platform or otherwise submit your data), your Internet browser automatically collects, and transfers to us, certain basic information related to your use of the Platform. Such registration data may include the type and version of your browser, your operating system and interface, the device being used, language preference, the website from which you are visiting us (referring URL), the page(s) you visit on our Platforms, the date and time of your visit, part of your Internet Protocol address (IP), your actions taken on the Platforms, and the name of your access provider.",
+      "justification": "The policy explicitly states that browsing data, including 'referring URL' and 'page(s) you visit on our Platforms', is collected and 'transfers to us'. This confirms the data is sent off-device and is not exempt from declaration.",
+      "how_to_fix": "Declare 'Web browsing history' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "• Collected data: name, surname, first name, ID number, passport, VAT information, postal address, date and place of birth, bank card details, bank account details, country of residence.",
+      "justification": "The policy lists 'bank card details' and 'bank account details' as collected data. This information is sent off-device for processing and is not covered by any collection exemptions.",
+      "how_to_fix": "Declare 'Other financial info' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Additionally, if you give us your consent, Wallapop will also process the location of your device to inform you of the items that are closest to you, thus allowing you to enjoy our services in a complete way.",
+      "justification": "The policy states the app will 'process the location of your device to inform you of the items that are closest to you'. This functionality requires sending location data off-device to a server for querying. No on-device-only processing is mentioned, so it is not exempt.",
+      "how_to_fix": "Declare 'Approximate location' and/or 'Precise location' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may collect other non-personal information about the use of our Software Applications, visits to our websites or use of additional services, including links you have clicked, software or information you have downloaded, as well as other actions related to the use of our products or services. We may also collect certain technical information necessary for the operation and update of our products/services and the collection of anonymous statistics on the use of such products/services, along with any error reports about our products.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may collect other non-personal information about the use of our Software Applications, visits to our websites or use of additional services, including links you have clicked, software or information you have downloaded, as well as other actions related to the use of our products or services. We may also collect certain technical information necessary for the operation and update of our products/services and the collection of anonymous statistics on the use of such products/services, along with any error reports about our products.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may collect other non-personal information about the use of our Software Applications, visits to our websites or use of additional services, including links you have clicked, software or information you have downloaded, as well as other actions related to the use of our products or services. We may also collect certain technical information necessary for the operation and update of our products/services and the collection of anonymous statistics on the use of such products/services, along with any error reports about our products.",
+      "lang": "English"
+    }
+  ]
+}

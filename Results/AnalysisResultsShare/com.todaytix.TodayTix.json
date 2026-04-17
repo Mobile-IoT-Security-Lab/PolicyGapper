@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "6.6. Business and Advertising Partners. We may share your Personal Data with third parties who partner with us to promote products and services, provide marketing and advertisements, or use the data for other commercial purposes. We do not control how these third parties use and share your Personal Data once they receive it. You will need to contact such third parties directly for information about their privacy practices or to exercise any rights you may have (including if you would like to opt-out of marketing messages).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "9.1. Targeted Advertising / Behavioral Advertising. We may ourselves, or with third-party vendors, use your information to deliver targeted advertising to you when you visit the Services or other websites. Cookies, clickstream data, and other similar technologies described below may be used in this process. For example, if you are searching for information on a particular product, we or our vendor may cause an advertisement to appear on other websites you view with information on that product. This form of advertising, sometimes called “targeted advertising,” \"behavioral advertising,” or “cross-context behavioral advertising,” enables us and our vendors to know about your interests in connection with the delivery of a specific ad. We believe that such advertising is helpful because it allows you to see advertisements that are relevant to your interests. If you would like to opt out of these interest-based advertisements, please follow the opt-out process described in the section titled Your Choices above.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Analytics. We may work with third-party vendors who use the technologies described in this section to conduct website analytics to help us track and understand how visitors use our Services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "6.3. Payment Processors. If you make a payment through the Website, your payment card details are provided to our payment processing service provider, Adyen. You may read Adyen's privacy policy at https://www.adyen.com/policies-and-disclaimer/privacy-policy to learn more about how they use and protect your information. We do not receive your full credit card or other payment information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "10.10. \"Shine the Light.\" In addition to the above rights, under California Civil Code Section 1798.83 (“Shine the Light\"), California residents may have the right to request in writing from businesses with whom they have an established business relationship: (a) a list of the categories of personal information, as defined under Shine the Light, such as name, email address, and mailing address, and the type of services provided to the customer that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes; and (b) the names and addresses of all such third parties. To request the above information, please contact us by email at dataprivacy@todaytixgroup.com. If you do not want your personal information shared with any third party who may use such information for direct marketing purposes, then you may opt out of such disclosures by emailing us at dataprivacy@todaytixgroup.com.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "II CCPA richiede alle imprese che \"vendono\" informazioni personali, secondo la definizione del termine \"vendita\" previsto dal CCPA, di fornire un'opzione per rifiutare tali operazioni di vendita. Alcuni ritengono che, quando un sito web utilizza cookie di terze parti o tecnologie simili per scopi di analisi o pubblicità, ciò costituisca una \"vendita\" ai sensi del CCPA, se le terze parti hanno la possibilità di utilizzare, divulgare o conservare i dati per migliorare il proprio servizio o per scopi che vanno oltre la semplice fornitura del servizio al sito/app. In alcuni casi, questa posizione viene adottata anche nel caso in cui sia il sito web a pagare la terza parte (e non viceversa) e, nella maggior parte dei casi, si limiti a fornire alla terza parte l'opportunità di raccogliere dati direttamente, anziché trasmetterle le informazioni personali. Nell'ambito di questi servizi di analisi e pubblicità, tali tecnologie possono accedere a identificatori (come indirizzi IP), a informazioni sull'attività Internet o su altre reti elettroniche (come i dati di navigazione dell'utente sui nostri servizi) e a informazioni commerciali (come il fatto che un browser abbia visitato una pagina rivolta a utenti che stanno considerando l'utilizzo dei nostri servizi) per aziende di questo tipo. Sebbene non riteniamo che tali attività costituiscano \"vendite\", secondo la definizione del CCPA, puoi comunque rifiutare tali attività visitando questo link: Non vendere né condividere le mie informazioni personali. In aggiunta, il CCPA richiede alle imprese che \"condividono\" informazioni personali di fornire un'opzione per rifiutare tali condivisioni. Secondo il CCPA, la \"condivisione\" è definita come la somministrazione mirata della pubblicità a un consumatore sulla base delle informazioni personali ottenute dalla sua attività sui siti. \"Condividiamo\" informazioni a questi fini per fornire pubblicità a te più pertinenti e personalizzate riguardo ai nostri servizi. Nell'ambito di tale pubblicità, possiamo \"condividere\" identificatori (come indirizzi IP ed e-mail), informazioni sull'attività su internet o su altre reti elettroniche (come informazioni relative alle interazioni di navigazione di un individuo sul nostro sito) e informazioni commerciali (come il fatto che un browser abbia visitato una pagina diretta alle persone che stanno considerando un abbonamento ai servizi) con piattaforme e reti pubblicitarie. Puoi rifiutare qualsiasi attività che possa essere considerata vendita o condivisione cliccando su \"Non vendere nẻ condividere le mie informazioni personali\" nella parte inferiore della home del sito web o nelle Impostazioni della privacy nell'app.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "| Per inviarti informazioni di marketing riguardanti i nostri eventi, offerte e servizi. | • Nome • Indirizzo e-mail • Indirizzo postale • Nome utente di Instagram • Numero di telefono | Sei tu a fornirci queste informazioni. | Consenso I nostri interessi legittimi nel promuovere la nostra attività e i nostri prodotti, nel rispetto di tutte le leggi applicabili alle nostre attività di marketing. |",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Fai attenzione a pubblicare dettagli personali sensibili sul tuo profilo o ad aggiungere certi badge di Bumble, come credo religioso, preferenze politiche, preferenze sessuali e informazioni sulla salute. Anche se puoi scegliere volontariamente di fornirci queste informazioni quando crei il tuo profilo, la loro condivisione non è obbligatoria. Ricorda che anche le foto pubblicate su Bumble possono rivelare delle informazioni su di te.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "Puoi anche scegliere di (i) verificare volontariamente la tua foto, così da aggiungere un badge grigio \"verificato\" al tuo profilo e di (ii) verificare la tua identità con un documento ufficiale, ottenendo un badge blu \"verificato\". Se scegli di verificare la foto del profilo, analizzeremo ogni immagine che invii. Questa analisi può includere l'uso di tecnologie di riconoscimento facciale per confrontare le foto inviate con quella del profilo, aiutandoci a confermare che sei davvero chi dici di essere. Se scegli di verificare anche il tuo documento, il controllo sarà effettuato dal nostro partner Veriff, che confronterà un tuo selfie con il documento di identità. Questa analisi può includere l'uso di tecnologie di riconoscimento facciale, ma se non desideri che tali tecnologie vengano utilizzate, puoi richiedere una revisione manuale.",
+      "lang": "it"
+    }
+  ]
+}

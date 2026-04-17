@@ -1,0 +1,54 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "• Your Communications with Us. We collect personal information from you such as your name, email address, phone number, or mailing address when you request information about our Services, register for an account, signup for marketing from us, register for our newsletter, or otherwise communicate with us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• Your Communications with Us. We collect personal information from you such as your name, email address, phone number, or mailing address when you request information about our Services, register for an account, signup for marketing from us, register for our newsletter, or otherwise communicate with us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "• Your Communications with Us. We collect personal information from you such as your name, email address, phone number, or mailing address when you request information about our Services, register for an account, signup for marketing from us, register for our newsletter, or otherwise communicate with us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• Your Communications with Us. We collect personal information from you such as your name, email address, phone number, or mailing address when you request information about our Services, register for an account, signup for marketing from us, register for our newsletter, or otherwise communicate with us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Demographic information, such as your gender, age, health information, and physical characteristics or description, which may be protected by law.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Commercial information, including your payment information and records of the Services or devices you purchased, obtained, or considered (for example, if you added them to your shopping cart on the Fitbit online store but did not purchase them).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Commercial information, including your payment information and records of the Services or devices you purchased, obtained, or considered (for example, if you added them to your shopping cart on the Fitbit online store but did not purchase them).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Biometric information, such as your exercise, activity, sleep, or health data, including the number of steps you take, distance traveled, calories burned, weight, heart rate, sleep stages, active minutes, and any similar information to which you grant us access from another service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "Biometric information, such as your exercise, activity, sleep, or health data, including the number of steps you take, distance traveled, calories burned, weight, heart rate, sleep stages, active minutes, and any similar information to which you grant us access from another service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Automatic Data Collection. We may collect certain information automatically when you use the Services. This information may include your Internet protocol (IP) address, user settings, MAC address, cookie identifiers, mobile advertising and other unique identifiers, details about your browser, operating system or device, location information (including inferred location based off of your IP address), Internet service provider, mobile carrier, pages that you visit before, during and after using the Services, information about the links you click, information about how you interact with the Services, including the frequency and duration of your activities, and other information about how you use the Services.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Like most online services, we use cookies and similar tracking technologies in our app and website to store preferences and gather analytics data. For example, cookies help us keep you logged in on our web portal and remember your choices. We also use cookies or mobile SDKs to analyze how users interact with our Services (e.g., which features are most used) and to customize your experience. You can manage cookie preferences via our website's cookie settings or your browser settings. For mobile app analytics, you can reset your advertising identifier or opt out of personalized ads in your device settings. For more information, please see our Cookie Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Al Features Comera Souq may offer Al-driven features, such as an Al chatbot or smart assistant. If you choose to use these features, the content you input (e.g. your chatbot queries or messages) will be processed by the Al service provider to generate responses.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When creating a Comera account, you provide your mobile phone number and a profile name or nickname. You may also add an optional profile photo and status message to your profile.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you contact Comera for support or otherwise communicate with us, you may provide us with your name, email address, and the content of your inquiry. We will retain such correspondence and information as needed to respond and resolve your issue, consistent with this Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "If you share your location in a chat, we will collect and transmit your geolocation to your chosen contacts with your permission; we do not track your location in the background or use your location for any other purpose without consent.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may collect information such as your name, billing address, and transaction details (item purchased, amount, date and time). This information is used to process your order, provide you with customer support, and comply with financial record-keeping requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may collect information such as your name, billing address, and transaction details (item purchased, amount, date and time). This information is used to process your order, provide you with customer support, and comply with financial record-keeping requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We do not store your full credit/debit card numbers on Comera's servers. Such financial details are transmitted directly to our payment processor via secure encryption and handled in accordance with industry security standards (e.g., PCI-DSS). The payment provider may return to us a token or reference number which we store to keep track of your purchase.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "3.1.1. Account Information: When creating a Comera account, you provide your mobile phone number and a profile name or nickname. You may also add an optional profile photo and status message to your profile.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "3.1.4. User Communications: When you contact Comera for support or otherwise communicate with us, you may provide us with your name, email address, and the content of your inquiry. We will retain such correspondence and information as needed to respond and resolve your issue, consistent with this Policy.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "6.2.2. Al Features Comera Souq may offer Al-driven features, such as an Al chatbot or smart assistant. If you choose to use these features, the content you input (e.g. your chatbot queries or messages) will be processed by the Al service provider to generate responses.",
+      "lang": "en"
+    }
+  ]
+}

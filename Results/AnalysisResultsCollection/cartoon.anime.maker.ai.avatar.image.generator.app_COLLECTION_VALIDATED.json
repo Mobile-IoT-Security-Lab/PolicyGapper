@@ -1,0 +1,21 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We want to inform you that whenever you use our Service, in the event of an error in the app, we collect data and information (through third-party products) on your device known as Log Data. This Log Data may include details such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app during use, the time and date of your use, and other relevant statistics.",
+      "justification": "The privacy policy states that Log Data is collected upon an app error, which includes 'the configuration of the app during use' and 'the time and date of your use'. These activities fall under the 'Other actions' data type.",
+      "how_to_fix": "Declare the collection of 'Other actions' under the 'App activity' section in your Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We want to inform you that whenever you use our Service, in the event of an error in the app, we collect data and information (through third-party products) on your device known as Log Data. This Log Data may include details such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app during use, the time and date of your use, and other relevant statistics.",
+      "justification": "The privacy policy mentions the collection of the device's 'Internet Protocol (IP) address' as part of Log Data. An IP address is used to infer a user's approximate location.",
+      "how_to_fix": "Declare the collection of 'Approximate location' under the 'Location' section in your Google Play Console Data Safety form.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

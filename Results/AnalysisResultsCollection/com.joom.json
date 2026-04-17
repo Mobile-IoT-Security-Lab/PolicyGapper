@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We collect information about your activity on our Services, such as search queries you run, pages you visit, your browser type, your IP address, your location, referred URL, and other log information. We also collect information about your device, such as the type of device, the operating system, the device ID, and the apps you have installed. We may also collect information about your browsing history on other websites, if you have given us your consent. We use this information to provide and improve our Services, to personalize your experience, and to show you relevant ads. We may share this information with our partners, such as advertising partners and analytics providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "We may also collect sensitive personal data, such as information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, and data concerning your health, sex life, or sexual orientation. We will only collect this information where it is necessary for the purposes of providing our services to you and where we have your explicit consent to do so.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "We may also collect sensitive personal data, such as information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, and data concerning your health, sex life, or sexual orientation. We will only collect this information where it is necessary for the purposes of providing our services to you and where we have your explicit consent to do so.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "We may also collect sensitive personal data, such as information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, and data concerning your health, sex life, or sexual orientation. We will only collect this information where it is necessary for the purposes of providing our services to you and where we have your explicit consent to do so.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "We may also collect sensitive personal data, such as information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, and data concerning your health, sex life, or sexual orientation. We will only collect this information where it is necessary for the purposes of providing our services to you and where we have your explicit consent to do so.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "3.8 Profile Data includes your username and password, unique account reference number, bids, offers and purchases made by you on the platform, your search preferences, feedback, survey responses, and other correspondence.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "3.8 Profile Data includes your username and password, unique account reference number, bids, offers and purchases made by you on the platform, your search preferences, feedback, survey responses, and other correspondence.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "4.3 Automated technologies or interactions. As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our cookie policy here for further details.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "3-2-2-Your voice or correspondences with our call center",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "3-2-2-Your voice or correspondences with our call center",
+      "lang": "en"
+    }
+  ]
+}

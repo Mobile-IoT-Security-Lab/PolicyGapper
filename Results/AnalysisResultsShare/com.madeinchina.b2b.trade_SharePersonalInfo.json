@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "3) If you participate in a lucky draw or similar advertising promotion, your information (name, phone number (including mobile phone number), and address) will be provided to courier service providers, such as SF Express, YTO Express and DHL (as indicated on the website), or the relevant suppliers to the extent necessary for Buyer App or prizes and goods suppliers to deliver the relevant prizes and goods to you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "3) If you participate in a lucky draw or similar advertising promotion, your information (name, phone number (including mobile phone number), and address) will be provided to courier service providers, such as SF Express, YTO Express and DHL (as indicated on the website), or the relevant suppliers to the extent necessary for Buyer App or prizes and goods suppliers to deliver the relevant prizes and goods to you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "3) If you participate in a lucky draw or similar advertising promotion, your information (name, phone number (including mobile phone number), and address) will be provided to courier service providers, such as SF Express, YTO Express and DHL (as indicated on the website), or the relevant suppliers to the extent necessary for Buyer App or prizes and goods suppliers to deliver the relevant prizes and goods to you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "| Tencent LiteAV | Tencent Technology (Shenzhen) Co., Ltd. | Live streaming function | Get rough locations, get accurate locations, cameras, read external memory cards, read status of the mobile phone and identity, record audios, input entries of external memory cards, retrieve running applications, and background geolocation. For more information, please visit: https://cloud.tencent.com/document/product/301 /11470 |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "| Tencent LiteAV | Tencent Technology (Shenzhen) Co., Ltd. | Live streaming function | Get rough locations, get accurate locations, cameras, read external memory cards, read status of the mobile phone and identity, record audios, input entries of external memory cards, retrieve running applications, and background geolocation. For more information, please visit: https://cloud.tencent.com/document/product/301 /11470 |",
+      "lang": "English"
+    }
+  ]
+}

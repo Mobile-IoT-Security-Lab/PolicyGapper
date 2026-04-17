@@ -1,0 +1,85 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Google Analytics: Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.",
+      "justification": "The privacy policy states that data collected by Google Analytics is shared with other Google services and may be used by Google to 'personalize the ads of its own advertising network'. This use of data for the third party's own purposes constitutes 'sharing' under Google Play policy and is not covered by the service provider exemption.",
+      "how_to_fix": "Declare that 'App interactions' data is shared with third parties for 'Advertising or marketing' and 'Analytics' purposes in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may use third-party Service Providers to monitor and analyze the use of our Service.\n• Google Analytics: Google Analytics is a web analytics service offered by\nGoogle that tracks and reports website traffic. Google uses the data\ncollected to track and monitor the use of our Service. This data is shared\nwith other Google services. Google may use the collected data to\ncontextualize and personalize the ads of its own advertising network.\nFor more information on the privacy practices of Google, please visit the Google\nPrivacy Terms web page: http://www.google.com/intl/en/policies/privacy/",
+      "justification": "The privacy policy indicates that data collected via Google Analytics, which includes user identifiers, is shared with other Google services and may be used by Google to 'personalize the ads of its own advertising network'. This use by a third party for its own purposes is defined as 'sharing' and is not exempt under the service provider clause.",
+      "how_to_fix": "Declare that 'User IDs' data is shared with third parties for 'Advertising or marketing' and 'Analytics' purposes in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "6.2. Company may disclose the Client's Personal Data with third parties in the following cases:\na. Other Clients of the Company :\nThe Client shares information with other Clients of the Company by way of\nvoluntarily disclosing information on the Service (including but not limited to\ninformation in the Client's profile).\nIt is in the Client's discretion to choose the information to be disclosed with the\nService and the Company rescinds from responsibility for the other Clients of the\nService regarding the way they might use such information, disclosed by the\nClient.\nb. Third-party advertising services (Data Processors or Service Providers). The\nCompany uses the following services (list is provided alongside with privacy\npolicies of the relevant services):\n•\n•\n•\n•\n•\n•\nFacebook - https://www.facebook.com/policy.php\nGoogle Admob - https://policies.google.com/privacy\nAppLovin - https://www.applovin.com/privacy/\nMyTarget - https://target.my.com/optout/\nMoPub https://www.mopub.com/legal/privacy/\nUnityAds https://unity3d.com/legal/privacy-policy\nc. Third-party analytics services . The Company uses the following services (list of\nservices is provided alongside with privacy policies of the relevant services):\n•\n•\nAppmetrica - https://metrica.vandex.com/about/info/privacy-policy_\nAppsFlyer - https://www.appsflyer.com/services-privacy-policy\nd. Cloud services providers :\n•\nAmazon - https://aws.amazon.com/privacy/",
+      "justification": "The policy states that 'Personal Data' may be disclosed to 'Third-party advertising services' such as Google Admob, Facebook, and AppLovin. Sharing personal data with third-party ad networks for advertising purposes is considered 'sharing' and must be declared.",
+      "how_to_fix": "Declare that 'Email address' is shared with third parties for 'Advertising or marketing' purposes in the Data Safety section.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Google Analytics: Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.",
+      "reason_of_removal": "Inconsistent: Policy reference does not mention crash logs.",
+      "justification": "The provided policy text for Google Analytics describes tracking user activity and advertising personalization, but does not explicitly mention the collection of crash logs.",
+      "how_to_fix": "If the app does not share this data, no action is needed. If it does, update the privacy policy to explicitly mention sharing crash logs with a third party.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Google Analytics: Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.",
+      "reason_of_removal": "Inconsistent: Policy reference does not mention in-app search history.",
+      "justification": "The provided policy text for Google Analytics is general and does not specify the collection of in-app search history.",
+      "how_to_fix": "If the app does not share this data, no action is needed. If it does, update the privacy policy to explicitly mention sharing in-app search history with a third party.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Google Analytics: Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.",
+      "reason_of_removal": "Inconsistent: Policy reference does not mention user-generated content.",
+      "justification": "The provided policy text for Google Analytics does not mention the collection of user-generated content.",
+      "how_to_fix": "If the app does not share this data, no action is needed. If it does, update the privacy policy to explicitly mention sharing user-generated content with a third party.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We may use third-party Service Providers to monitor and analyze the use of our Service.\n• Google Analytics: Google Analytics is a web analytics service offered by\nGoogle that tracks and reports website traffic. Google uses the data\ncollected to track and monitor the use of our Service. This data is shared\nwith other Google services. Google may use the collected data to\ncontextualize and personalize the ads of its own advertising network.\nFor more information on the privacy practices of Google, please visit the Google\nPrivacy Terms web page: http://www.google.com/intl/en/policies/privacy/",
+      "reason_of_removal": "Inconsistent: Policy reference does not mention this data type.",
+      "justification": "The provided policy text for Google Analytics does not explicitly state that 'Name' is collected or shared.",
+      "how_to_fix": "If the app does not share this data, no action is needed. If it does, update the privacy policy to explicitly mention sharing 'Name' with a third party.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may use third-party Service Providers to monitor and analyze the use of our Service.\n• Google Analytics: Google Analytics is a web analytics service offered by\nGoogle that tracks and reports website traffic. Google uses the data\ncollected to track and monitor the use of our Service. This data is shared\nwith other Google services. Google may use the collected data to\ncontextualize and personalize the ads of its own advertising network.\nFor more information on the privacy practices of Google, please visit the Google\nPrivacy Terms web page: http://www.google.com/intl/en/policies/privacy/",
+      "reason_of_removal": "Inconsistent: Policy reference does not mention this data type.",
+      "justification": "The provided policy text for Google Analytics does not explicitly state that 'Email address' is collected or shared.",
+      "how_to_fix": "If the app does not share this data, no action is needed. If it does, update the privacy policy to explicitly mention sharing 'Email address' with a third party.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may use third-party Service Providers to monitor and analyze the use of our Service.\n• Google Analytics: Google Analytics is a web analytics service offered by\nGoogle that tracks and reports website traffic. Google uses the data\ncollected to track and monitor the use of our Service. This data is shared\nwith other Google services. Google may use the collected data to\ncontextualize and personalize the ads of its own advertising network.\nFor more information on the privacy practices of Google, please visit the Google\nPrivacy Terms web page: http://www.google.com/intl/en/policies/privacy/",
+      "reason_of_removal": "Inconsistent: Policy reference does not mention this data type.",
+      "justification": "The provided policy text for Google Analytics does not explicitly state that 'Phone number' is collected or shared.",
+      "how_to_fix": "If the app does not share this data, no action is needed. If it does, update the privacy policy to explicitly mention sharing 'Phone number' with a third party.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may use third-party Service Providers to monitor and analyze the use of our Service.\n• Google Analytics: Google Analytics is a web analytics service offered by\nGoogle that tracks and reports website traffic. Google uses the data\ncollected to track and monitor the use of our Service. This data is shared\nwith other Google services. Google may use the collected data to\ncontextualize and personalize the ads of its own advertising network.\nFor more information on the privacy practices of Google, please visit the Google\nPrivacy Terms web page: http://www.google.com/intl/en/policies/privacy/",
+      "reason_of_removal": "Inconsistent: Data type is too vague and not supported by policy reference.",
+      "justification": "The data type 'Other info' is not specific, and the policy text for Google Analytics does not provide sufficient detail to support this declaration.",
+      "how_to_fix": "If the app does not share this data, no action is needed. If it does, update the privacy policy to explicitly mention the specific types of 'Other info' shared with a third party.",
+      "lang": "English"
+    }
+  ]
+}
+```

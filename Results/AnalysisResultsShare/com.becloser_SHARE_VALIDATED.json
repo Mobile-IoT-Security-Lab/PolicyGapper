@@ -1,0 +1,63 @@
+```json
+{
+    "omitted_declarations": [],
+    "excluded_declarations": [
+        {
+            "data_type": "App interactions",
+            "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+            "reason_of_removal": "Exempted sharing (Service Provider, Legal, Consent)",
+            "justification": "The policy states data is shared with service providers acting on the developer's behalf, for legal purposes, or with user consent. These are all exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+            "how_to_fix": "No action required. This sharing does not need to be declared in the Data Safety section as it falls under standard exemptions.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Crash logs",
+            "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+            "reason_of_removal": "Exempted sharing (Service Provider, Legal, Consent)",
+            "justification": "The policy states data is shared with service providers acting on the developer's behalf, for legal purposes, or with user consent. These are all exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+            "how_to_fix": "No action required. This sharing does not need to be declared in the Data Safety section as it falls under standard exemptions.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Diagnostics",
+            "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+            "reason_of_removal": "Exempted sharing (Service Provider, Legal, Consent)",
+            "justification": "The policy states data is shared with service providers acting on the developer's behalf, for legal purposes, or with user consent. These are all exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+            "how_to_fix": "No action required. This sharing does not need to be declared in the Data Safety section as it falls under standard exemptions.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Device or other IDs",
+            "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+            "reason_of_removal": "Exempted sharing (Service Provider, Legal, Consent)",
+            "justification": "The policy states data is shared with service providers acting on the developer's behalf, for legal purposes, or with user consent. These are all exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+            "how_to_fix": "No action required. This sharing does not need to be declared in the Data Safety section as it falls under standard exemptions.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Name",
+            "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+            "reason_of_removal": "Exempted sharing (Service Provider, Legal, Consent)",
+            "justification": "The policy states data is shared with service providers acting on the developer's behalf, for legal purposes, or with user consent. These are all exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+            "how_to_fix": "No action required. This sharing does not need to be declared in the Data Safety section as it falls under standard exemptions.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Email address",
+            "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+            "reason_of_removal": "Exempted sharing (Service Provider, Legal, Consent)",
+            "justification": "The policy states data is shared with service providers acting on the developer's behalf, for legal purposes, or with user consent. These are all exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+            "how_to_fix": "No action required. This sharing does not need to be declared in the Data Safety section as it falls under standard exemptions.",
+            "lang": "English"
+        },
+        {
+            "data_type": "Precise location",
+            "policy_reference": "We may share your information in the following circumstances:\nWith your consent\nWith service providers who assist us in operating our Services\nTo comply with legal obligations\nTo protect our rights and the rights of others\nIn connection with a business transfer or acquisition",
+            "reason_of_removal": "Exempted sharing (Service Provider, Legal, Consent)",
+            "justification": "The policy states data is shared with service providers acting on the developer's behalf, for legal purposes, or with user consent. These are all exempt from being declared as 'sharing' under Google Play's User Data Policy.",
+            "how_to_fix": "No action required. This sharing does not need to be declared in the Data Safety section as it falls under standard exemptions.",
+            "lang": "English"
+        }
+    ]
+}
+```

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "Payment Data: If you choose to purchase a subscription to our Service via credit card, debit card or other payment method, our third-party payments processors (Stripe or PayPal) will collect and process certain payment and billing information, such as billing zip code, payment card details, and authentication features on behalf of AllTrails. That information is collected by our payment processors directly, and we do not collect or store it. If you have questions about how our payment processors protect such information, please read Stripe's services agreement and privacy-policy as well as PayPal's services agreement and privacy_policy..",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Data: If you choose to purchase a subscription to our Service via credit card, debit card or other payment method, our third-party payments processors (Stripe or PayPal) will collect and process certain payment and billing information, such as billing zip code, payment card details, and authentication features on behalf of AllTrails. That information is collected by our payment processors directly, and we do not collect or store it. If you have questions about how our payment processors protect such information, please read Stripe's services agreement and privacy-policy as well as PayPal's services agreement and privacy_policy..",
+      "lang": "English"
+    }
+  ]
+}

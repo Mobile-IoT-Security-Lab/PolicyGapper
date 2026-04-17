@@ -1,0 +1,129 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• Automatic Data Collection. We may collect certain information automatically when you use the Services. This information may include your Internet protocol (IP) address, user settings, MAC address, cookie identifiers, mobile advertising and other unique identifiers, details about your browser, operating system or device, location information (including inferred location based off of your IP address), Internet service provider, mobile carrier, pages that you visit before, during and after using the Services, information about the links you click, information about how you interact with the Services, including the frequency and duration of your activities, and other information about how you use the Services.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Other information that you provide, including account information such as your biography or country; information for features of the App, products, and services, for example, an alarm, information about your friends, and logs for food, weight, sleep, or water; messages on the App; and information recorded by your device which may vary depending on the device you use.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• Health plan creation You can use the health plan feature in the app. According to the health plan you create, this feature will remind you to exercise and/or drink water timely. To perform this feature, we will collect information on the health plan you've created. We also provide you with access to articles about health. When you browse through such articles, we may collect your information including forwarding and article likes.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Automatic Data Collection. We may collect certain information automatically when you use the Services. This information may include your Internet protocol (IP) address, user settings, MAC address, cookie identifiers, mobile advertising and other unique identifiers, details about your browser, operating system or device, location information (including inferred location based off of your IP address), Internet service provider, mobile carrier, pages that you visit before, during and after using the Services, information about the links you click, information about how you interact with the Services, including the frequency and duration of your activities, and other information about how you use the Services.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "• Your Communications with Us. We collect personal information from you such as your name, email address, phone number, or mailing address when you request information about our Services, register for an account, signup for marketing from us, register for our newsletter, or otherwise communicate with us.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "• Your Communications with Us. We collect personal information from you such as your name, email address, phone number, or mailing address when you request information about our Services, register for an account, signup for marketing from us, register for our newsletter, or otherwise communicate with us.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "• Your Communications with Us. We collect personal information from you such as your name, email address, phone number, or mailing address when you request information about our Services, register for an account, signup for marketing from us, register for our newsletter, or otherwise communicate with us.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• Your Communications with Us. We collect personal information from you such as your name, email address, phone number, or mailing address when you request information about our Services, register for an account, signup for marketing from us, register for our newsletter, or otherwise communicate with us.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Demographic information, such as your gender, age, health information, and physical characteristics or description, which may be protected by law.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Biometric information, such as your exercise, activity, sleep, or health data, including the number of steps you take, distance traveled, calories burned, weight, heart rate, sleep stages, active minutes, and any similar information to which you grant us access from another service.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "Biometric information, such as your exercise, activity, sleep, or health data, including the number of steps you take, distance traveled, calories burned, weight, heart rate, sleep stages, active minutes, and any similar information to which you grant us access from another service.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Automatic Data Collection. We may collect certain information automatically when you use the Services. This information may include your Internet protocol (IP) address, user settings, MAC address, cookie identifiers, mobile advertising and other unique identifiers, details about your browser, operating system or device, location information (including inferred location based off of your IP address), Internet service provider, mobile carrier, pages that you visit before, during and after using the Services, information about the links you click, information about how you interact with the Services, including the frequency and duration of your activities, and other information about how you use the Services.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Your Communications with Us. We collect personal information from you such as your name, email address, phone number, or mailing address when you request information about our Services, register for an account, signup for marketing from us, register for our newsletter, or otherwise communicate with us.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Other information that you provide, including account information such as your biography or country; information for features of the App, products, and services, for example, an alarm, information about your friends, and logs for food, weight, sleep, or water; messages on the App; and information recorded by your device which may vary depending on the device you use.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Electronic, visual, or similar information, such as your profile photo or other photos.",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Commercial information, including your payment information and records of the Services or devices you purchased, obtained, or considered (for example, if you added them to your shopping cart on the Fitbit online store but did not purchase them).",
+      "reason_of_removal": "Websites collection",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Commercial information, including your payment information and records of the Services or devices you purchased, obtained, or considered (for example, if you added them to your shopping cart on the Fitbit online store but did not purchase them).",
+      "reason_of_removal": "Websites collection",
+      "justification": "...",
+      "how_to_fix": "...",
+      "lang": "English"
+    }
+  ]
+}
+```

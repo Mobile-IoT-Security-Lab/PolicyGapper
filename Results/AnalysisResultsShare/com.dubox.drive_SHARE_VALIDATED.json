@@ -1,0 +1,151 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may share infrastructure, systems, and technology with Flextech affiliates to deliver, optimize, protect, and promote the Services. These affiliates will use your information in conjunction with us and the information you have listed in the \"What information is collected and for what purpose\" section for the purposes described therein. We will be responsible for granting these companies access to your information.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with affiliates to provide and optimize services, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Sharing with affiliates acting as service providers on the developer's behalf is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may share infrastructure, systems, and technology with Flextech affiliates to deliver, optimize, protect, and promote the Services. These affiliates will use your information in conjunction with us and the information you have listed in the \"What information is collected and for what purpose\" section for the purposes described therein. We will be responsible for granting these companies access to your information.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with affiliates to provide and optimize services, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Sharing with affiliates acting as service providers on the developer's behalf is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We may share infrastructure, systems, and technology with Flextech affiliates to deliver, optimize, protect, and promote the Services. These affiliates will use your information in conjunction with us and the information you have listed in the \"What information is collected and for what purpose\" section for the purposes described therein. We will be responsible for granting these companies access to your information.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with affiliates to provide and optimize services, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Sharing with affiliates acting as service providers on the developer's behalf is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may share infrastructure, systems, and technology with Flextech affiliates to deliver, optimize, protect, and promote the Services. These affiliates will use your information in conjunction with us and the information you have listed in the \"What information is collected and for what purpose\" section for the purposes described therein. We will be responsible for granting these companies access to your information.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with affiliates to provide and optimize services, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Sharing with affiliates acting as service providers on the developer's behalf is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may share infrastructure, systems, and technology with Flextech affiliates to deliver, optimize, protect, and promote the Services. These affiliates will use your information in conjunction with us and the information you have listed in the \"What information is collected and for what purpose\" section for the purposes described therein. We will be responsible for granting these companies access to your information.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with affiliates to provide and optimize services, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Sharing with affiliates acting as service providers on the developer's behalf is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may share infrastructure, systems, and technology with Flextech affiliates to deliver, optimize, protect, and promote the Services. These affiliates will use your information in conjunction with us and the information you have listed in the \"What information is collected and for what purpose\" section for the purposes described therein. We will be responsible for granting these companies access to your information.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with affiliates to provide and optimize services, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Sharing with affiliates acting as service providers on the developer's behalf is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "You may choose to connect to your TeraBox account through a third-party service. By connecting to a service of this kind, you allow the third parties and us to exchange the information listed in the \"What information is collected and for what purpose\" section of this Privacy Policy so that the third parties and we can deliver, optimize, protect, and promote their services. In these cases, the use of your information will be governed by the privacy policies and terms of service of the third parties whose services you choose to connect through.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy describes exchanging data with third-party services when a user chooses to connect their account, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Data sharing initiated by a user action with prominent disclosure is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "You may choose to connect to your TeraBox account through a third-party service. By connecting to a service of this kind, you allow the third parties and us to exchange the information listed in the \"What information is collected and for what purpose\" section of this Privacy Policy so that the third parties and we can deliver, optimize, protect, and promote their services. In these cases, the use of your information will be governed by the privacy policies and terms of service of the third parties whose services you choose to connect through.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy describes exchanging data with third-party services when a user chooses to connect their account, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Data sharing initiated by a user action with prominent disclosure is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "You may choose to connect to your TeraBox account through a third-party service. By connecting to a service of this kind, you allow the third parties and us to exchange the information listed in the \"What information is collected and for what purpose\" section of this Privacy Policy so that the third parties and we can deliver, optimize, protect, and promote their services. In these cases, the use of your information will be governed by the privacy policies and terms of service of the third parties whose services you choose to connect through.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy describes exchanging data with third-party services when a user chooses to connect their account, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Data sharing initiated by a user action with prominent disclosure is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "You may choose to connect to your TeraBox account through a third-party service. By connecting to a service of this kind, you allow the third parties and us to exchange the information listed in the \"What information is collected and for what purpose\" section of this Privacy Policy so that the third parties and we can deliver, optimize, protect, and promote their services. In these cases, the use of your information will be governed by the privacy policies and terms of service of the third parties whose services you choose to connect through.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy describes exchanging data with third-party services when a user chooses to connect their account, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Data sharing initiated by a user action with prominent disclosure is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "You may choose to connect to your TeraBox account through a third-party service. By connecting to a service of this kind, you allow the third parties and us to exchange the information listed in the \"What information is collected and for what purpose\" section of this Privacy Policy so that the third parties and we can deliver, optimize, protect, and promote their services. In these cases, the use of your information will be governed by the privacy policies and terms of service of the third parties whose services you choose to connect through.",
+      "reason_of_removal": "User-Initiated/Consent",
+      "justification": "The policy describes exchanging data with third-party services when a user chooses to connect their account, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Data sharing initiated by a user action with prominent disclosure is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy mentions transferring user information during a merger or acquisition, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Transfer of data as part of a merger, acquisition, or sale of assets is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy mentions transferring user information during a merger or acquisition, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Transfer of data as part of a merger, acquisition, or sale of assets is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy mentions transferring user information during a merger or acquisition, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Transfer of data as part of a merger, acquisition, or sale of assets is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy mentions transferring user information during a merger or acquisition, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Transfer of data as part of a merger, acquisition, or sale of assets is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy mentions transferring user information during a merger or acquisition, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Transfer of data as part of a merger, acquisition, or sale of assets is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy mentions transferring user information during a merger or acquisition, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Transfer of data as part of a merger, acquisition, or sale of assets is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "In the event of a reorganization, merger, or acquisition of Flextech or the sale of our assets, your information may be transferred to the surviving entity, acquirer, or successor of the transaction. We will notify you of any such transaction (for example, by a message to the email address associated with your account) and outline your choices in that event.",
+      "reason_of_removal": "Legal Purposes",
+      "justification": "The policy mentions transferring user information during a merger or acquisition, which was flagged as potential third-party sharing.",
+      "how_to_fix": "No action needed. Transfer of data as part of a merger, acquisition, or sale of assets is exempt from disclosure as 'sharing'.",
+      "lang": "English"
+    }
+  ]
+}
+```

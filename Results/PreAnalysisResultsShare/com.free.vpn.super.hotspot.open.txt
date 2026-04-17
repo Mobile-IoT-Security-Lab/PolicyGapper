@@ -1,0 +1,535 @@
+Welcome
+Security and privacy are at the heart of what we do.
+Accordingly, we think it is important to be transparent
+about what personal data we collect, how we use it,
+with whom we share it, and how we store it. This Privacy
+Notice describes how we process and handle data
+provided to us in connection with your use of certain of
+our products, services, apps, and websites that link to
+this notice (we refer to these collectively as our
+"services").
+
+---
+• Since we do not collect your VPN browsing
+activities, even if we were compelled to share
+user activity data, there would be nothing to give.
+• Free versions of our VPN products are supported
+by personalized ads, but these ads are not
+personalized based on any of your VPN browsing
+activity, nor do we share any such activity with
+our advertising partners. Personalization is
+conducted by our advertising partners, who
+collect personal data such as your user-
+resettable advertising identifier (e.g. AAID or
+IDFA) and combine it with the information they
+have to show you ads that they believe are more
+relevant to you. Google allows you to disable your
+advertising identifier via Google account settings.
+You can disable the Apple advertising identifier
+via Apple device settings.
+• Paid versions of our VPN products do not contain
+ads, and therefore do not send information to
+these advertising partners.
+
+---
+• Transactional information. If you purchase
+services from us, you will need to provide
+payment information to make your purchase. We
+use industry-standard payment processor
+services to handle payment information. Such
+services are subject to separate terms and
+privacy policies. We also collect information
+about what you are purchasing, such as billing
+address, subscription types, currency, purchase
+dates, and amounts.
+
+---
+• Device information. We and our ad networks
+collect information from and about the device
+you use to access our services. We may collect
+device model, device settings, operating system,
+network information, and application version
+numbers. Our ad networks only collect this
+information for free users.
+
+---
+• Advertising identifiers. Our ad networks may
+collect your device identifier for marketing and
+analytics purposes. Google allows you to disable
+your advertising identifier via Google account
+settings. You can disable the Apple advertising
+identifier via Apple device settings.
+
+---
+Information provided to us by third parties
+• Referrals. If you are invited to use our service, the
+person who invited you may submit your personal
+data, such as your email address or other contact
+information.
+• Third Party Accounts. Some services may allow
+you to register an account using a third party
+account (such as a Google or Microsoft account).
+If you do so, that third party may send us some
+information about you that they have. You may be
+able to control what information they send us via
+your privacy settings for that third party account.
+• Threat Information. We may receive information
+from reputable members of the security industry
+who provide information to help us to provide,
+develop, test, and improve our services (for
+example, lists of malicious URLs, spam blacklists,
+phone number blacklists, and sample malware).
+Some of this information may contain personal
+data on an incidental basis.
+
+---
+• For legal compliance. We internally use your
+information as required by applicable law, legal
+process, or regulation. For example, we may use
+your billing address to ensure we comply with
+embargoes and sanctions. To learn about our
+practices regarding sharing your information with
+third parties for legal compliance purposes, see
+Section 3 below. We use your information to
+enforce our legal rights and resolve disputes. We
+use your information to determine local taxes.
+
+---
+Note that we may use and disclose aggregated data
+and data that is de-identified such that it no longer
+reveals the identity of an individual user for regulatory
+compliance, research, and analysis, our own or third
+party marketing and advertising activities, and other
+legitimate business purposes.
+
+---
+3. With whom do we disclose your personal
+information?
+We may disclose your information in the following
+circumstances:
+• In accordance with your instructions or consent.
+For example, some services may allow you to
+register an account using a third party account
+(such as a Google or Microsoft account). If you
+choose to do so, we will collect your email
+address and name from the third party account
+provider. The third party account provider may
+collect registration and sign in information.
+• Affiliates and third party service providers. To
+help us provide some aspects of our services, we
+work with our affiliates and trusted third parties.
+To protect your data, we enter into appropriate
+confidentiality and data processing terms with
+these third parties, review their security
+practices, and limit information sharing to the
+scope of what they are helping us with. Examples
+of activities that third parties help us with
+include:
+• processing customer payments
+• providing analytics about our services
+• providing sales and customer support
+• maintaining the infrastructure required to
+provide our services
+• delivering our marketing and advertising
+content
+• serving advertising content
+• To a new owner. If ownership or control of all or
+part of our services, assets, or business changes,
+we may transfer your information to the new
+owner.
+• To comply with legal processes and the law. For
+our VPN products, we protect your privacy by
+ensuring that we do not log or record online
+activities that you conduct over a VPN
+connection in any way that can be tied back to
+you, meaning that we do not have any data to
+share with law enforcement and government
+agencies who make requests for information
+about what you were doing through a VPN
+connection. Subject to the foregoing, we may
+disclose your information related to your account
+such as your email address if we are required to
+do so by applicable law; to comply with our legal
+obligations; to comply with legal processes; and
+to respond to valid law enforcement requests
+relating to a criminal investigation, or alleged or
+suspected illegal activity that may expose us,
+you, or any of our other users to legal liability. If
+we disclose your information for these purposes,
+we limit the information disclosed to what is
+legally necessary, and challenge information
+requests that we believe are unlawful, overbroad,
+or otherwise invalid.
+• To enforce our rights and prevent fraud and
+abuse. We may disclose limited amounts of your
+information to enforce and administer our
+agreements with customers and users, and to
+respond to claims asserted against us. We may
+also disclose your information to protect against
+fraud and abuse against us, our affiliates, users,
+and others.
+
+---
+4. Use of Advertising Services With Free VPN
+Products
+For users of our free VPN products, we may serve ads
+through the use of third party advertising services. As
+previously noted, we do not collect VPN browsing
+information or share VPN browsing information with
+advertising service providers. However, as with any
+online advertising service, the entities will have access
+to the information associated with ad delivery such as
+which website or app the ad was delivered to, and
+certain device-specific information.
+
+To display ads in our apps, we may use third party
+software development kits (SDKs), which consist of
+software code provided by a third party that is
+embedded in our apps. These SDKs may collect the
+following information from your device or use:
+• Device or mobile advertising identifiers
+(controlled by your mobile operating system)
+• IP address, which may reveal your approximate
+geographic location as determined by your
+carrier or ISP. However, when using the VPN
+service, this may replace your actual location
+with an alternative geographic location.
+• Device-specific information such as make,
+model, OS version, language, time zone, and
+other information.
+• The name of the app or website serving the ad.
+
+As some ads may be personalized based on your
+mobile advertising identifier or IP address, you may see
+an AdChoices icon on an ad. You can click this icon to
+learn more about the ad network that provided the ad,
+its privacy policy, and your choices regarding opting out
+from any personalized advertising. If you opt out from
+personalized advertising, you may still see non-
+personalized ads. While we request you not to use ad
+blockers to prevent the display of ads because that is
+how we support our free services, our services can
+continue functioning if you do use ad blockers.
+
+---
+Advertising services we use to provide ads with our free
+VPN products may include:
+Vendor
+Google Admob
+/ Google
+Analytics
+IronSource
+AdColony
+Privacy Policy
+https://policies.google.com/technologies/partner-
+sites
+https://developers.is.com/ironsource-
+mobile/air/ironsource-mobile-privacy-policy/
+https://www.adcolony.com/privacy-policy/
+DT
+https://www.digitalturbine.com/dt-clients-privacy-
+Exchange/Fyber
+policy/
+Unity Ads
+https://unity.com/legal/privacy-policy
+LiftOff/Vungle
+https://liftoff.io/privacy-policy/
+Meta/Facebook
+Bigo Ads
+StartApp
+https://www.facebook.com/privacy/policy/
+https://www.adsbigo.com/privacy.html
+https://www.start.io/policy/privacy-policy-site/
+https://docs.chartboost.com/en/legal/privacy-
+Chartboost
+policy/
+
+In addition, you may opt out of interest-based mobile
+advertising by utilizing the Digital Advertising Alliance
+(DAA) AppChoices app.
+
+---
+SDKs
+SDKs or software development kits are software code
+provided by our advertising network or other business
+partners that let our software interact with the services
+those partners provide. For example, in certain of our
+mobile apps, we may use an SDK to enable our app to
+serve ads from an advertising network. Sometimes
+these interactions will involve that business partner
+collecting, using, and tracking some information from
+the device on which the software is run. See above
+regarding the type of information that is collected and
+used for advertising purposes.
+
+---
+Cookies are small portions of text that are stored on
+the device you use to access our services. Cookies
+enable us (or third parties that we allow to set cookies
+on your device) to recognize repeat users. Cookies may
+expire after a period of time, depending on what they
+are used for. We use cookies:
+
+---
+• For advertising-related purposes. We advertise
+our services online with the help of third parties
+who show ads and marketing about us on sites
+around the internet.
+
+---
+Third Parties
+We may allow our business partners to place certain
+tracking technologies in our services. These partners
+use these technologies for the following purposes:
+• To provide our services. Some business partners
+who help us to provide our services may use
+these technologies to support those efforts.
+• For Analytics. To help us understand how you use
+our services.
+• For Marketing. To help us market and advertise
+our services to you, including on third party
+websites. Cookies are used in connection with
+this to measure the performance of our
+advertising, attribute actions you take with our
+ads with actions you take on our services, deliver
+ad retargeting (serving ads based on your past
+interactions with our services), and target ads at
+similar audiences.
+• To Serve Ads. Ad networks may use these
+technologies to display ads which they think will
+be more relevant to you. For more information,
+please see the "Displaying Advertisements”
+section above.
+
+---
+• Third Party Advertising Cookies: For information
+on how to opt out of personalized or interest-
+based advertising, you can visit the following
+pages:some text
+• Network Advertising Initiative opt out page
+• Digital Advertising Alliance opt out page
+• Your Online Choices (for Australian
+residents)
+• Your Online Choices (for EU residents)
+• Google Ads. To opt out from Google ad
+personalization, visit the Google Ads Settings page.
+These opt out mechanisms are not provided by
+us and we are not responsible for the availability
+or operation of them. Note that after opting out
+of personalized advertising you may still see non-
+personalized ads.
+• Google Analytics. We use Google Analytics to
+help us understand how users use our services.
+Google makes available a Google Analytics Opt Out
+Browser Add-On if you do not want to participate
+in Google Analytics.
+
+---
+7. International Data Transfers
+We may transfer your personal data to countries other
+than the one in which you reside. We do this to facilitate
+our operations, and transferees include our group
+companies, service providers, and partners. Laws in
+other countries may be different to those that apply
+where you reside. For example, personal data collected
+within Switzerland, United Kingdom or the European
+Economic Area (EEA) may be transferred and
+processed outside Switzerland, United Kingdom or the
+EEA for purposes described in this policy.
+However, we put in place appropriate safeguards that
+help to ensure that such data receives an adequate
+level of protection. You may contact us if you would like
+more information about such safeguards.
+
+---
+Third Party Links. The services may include links to
+third-party websites, plug-ins and applications. Except
+where we post, link to or expressly adopt or refer to this
+notice, this notice does not apply to, and we are not
+responsible for, any personal information practices of
+third-party websites and online services or the
+practices of other third parties. To learn about the
+personal information practices of third parties, please
+visit their respective privacy policies.
+
+---
+• request that we provide you with the categories
+of personal data we collect, disclose or sell about
+you; the categories of sources of such
+information; the business or commercial purpose
+for collecting or selling your personal data; and
+the categories of third parties with whom we
+disclose personal data. This information may also
+be provided in this Privacy Policy.
+
+---
+• Right of Access: You may have the right to obtain
+• some text;
+• copy of the personal information we hold
+about you;
+• information about the categories of
+recipients with whom we may share your
+personal information;
+• information about the categories of
+personal information we are processing,
+the purposes for which we process your
+personal information and information as to
+how we determine applicable retention
+periods;
+• confirmation of whether, and where, we
+are processing your personal information.
+
+---
+• Right of Portability: You may have the right, in
+certain circumstances, to receive a copy of the
+personal information you have provided to us in a
+structured, commonly used, machine-readable
+format that supports re-use, or to request the
+transfer of your personal information to another
+person.
+
+---
+• Right to Opt-Out: You may have the right to opt-
+out of certain processing activities. For example,
+you may have the right to opt-out of the use of
+your personal information for targeted
+advertising purposes, or to "sell” or “share” your
+personal information with third parties in certain
+contexts.
+
+---
+R2.2. California "Shine the Light" disclosure
+The California "Shine the Light” law gives residents of
+California the right under certain circumstances to opt
+out of the disclosure of certain categories of personal
+information (as defined in the Shine the Light law) with
+third parties for their direct marketing purposes, or in
+the alternative, that we provide a cost-free means for
+consumers to opt out of any such disclosure. We do not
+currently disclose your personal information to third
+parties for their own direct marketing purposes.
+
+---
+R2.3. Third Party Disclosure Requests
+California law permits users who are California
+residents to request and obtain from us once a year,
+free of charge, a list of the third parties to whom we
+have disclosed their “personal information" (if any) as
+defined under California Civil Code 1798.83 for their
+direct marketing purposes in the prior calendar year, as
+well as the type of personal information disclosed to
+those parties. See the “Contact Us" section for where
+to send such requests. Note that we do not share
+personal information with third parties for their own
+direct marketing purposes without your prior consent.
+
+---
+R2.4. Opt-Out From Sale
+You may have the right to opt out of the "sale" of your
+personal information as defined by the California
+Consumer Privacy Act (CCPA). The CCPA broadly
+defines "sale" such that it may include allowing third
+parties to receive certain information, e.g. cookies, to
+deliver personalized advertising on our services.
+
+---
+We do not "sell” (as defined by the CCPA) your personal
+information except in the context of certain versions of
+our products that are supported by personalized
+advertising. Advertising, including personalized
+advertising, enables us to provide certain of our
+products for free, to provide offers relevant to you, and,
+because we believe it's important that everyone has the
+opportunity, regardless of their situation, to have
+secure and private access to the internet. Personalized
+advertising enables ads to be shown that are more
+relevant to you.
+
+---
+R2.5. Sale of Personal Information
+As is common practice among companies that operate
+online, in the last 12 months, we have allowed certain
+third-party providers to collect information about
+consumers directly through our website and other
+online services for purposes of analyzing and optimizing
+our services, delivering ads, providing content and ads
+that are more relevant, measuring statistics and the
+success of ad campaigns, and detecting and reporting
+fraud. As a result of this practice, in the last 12 months,
+we have sold (per the CCPA's broad definition) the
+following categories of personal information to these
+third-party providers, subject to each consumer's
+settings and their right to opt-out:
+• Identifiers, such as IP address.
+• Commercial Information, such as service
+information, including services of interest or
+orders made in connection with our services.
+• Internet/Network Information, such as log data
+(including operating system and browser type)
+and analytics data (including usage and activity
+on our website and online services). Note this
+excludes VPN browsing activity data.
+• Geolocation Data, such as general geographic
+location based on IP address.
+• Since our services are not directed to, and we do
+not intend to, or knowingly, collect or solicit
+personal information from children under the age
+of 16, we do not sell personal information of
+consumers we know to be under the age of 16.
+
+---
+Categories of Personal Information Collected and
+with Whom we Share It
+To opt out of our use of your information for such
+purposes, visit: Do Not Sell My Personal Information.
+Please note that we do not knowingly sell the personal
+information of minors under 16 years of age without
+legally-required affirmative authorization.
+
+---
+• provide you the
+categories of personal
+information we have collected or disclosed about
+you in the last twelve months, the categories of
+sources of such information, the business or
+commercial purpose for collecting or selling your
+personal information, and the categories of third
+parties with whom we shared personal
+information. This information is provided in this
+Notice;
+
+---
+R2.6. Summary of How we Handle your Personal
+Information
+The California Consumer Privacy Act (CCPA) requires
+that we make certain disclosures to California
+residents, including the categories of personal
+information we collect, the purposes for which we use
+that information, the categories of sources of personal
+information, and the categories of third parties with
+whom we share personal information. This section lays
+out this information in the manner specified by the
+CCPA, but it does not differ in substance from the
+information in the rest of this policy.
+
+---
+• Third parties (such as service providers, other
+users or marketing partners who may refer you to
+our services)
+
+---
+Categories of Third Parties with Whom we Share Your
+Personal Information.
+The categories of personal information collected, as
+described above, may be shared with the following
+categories of third parties:
+• Our corporate affiliates which are companies
+under our common control or a party that may
+acquire us or our assets.
+• Third party service providers that perform
+services on our behalf (e.g. payment processors,
+analytics providers)
+• Third party ad networks (e.g. Google)
+• Third parties for legal purposes (e.g. in response
+to legal process)
+• Others with your consent or at your direction

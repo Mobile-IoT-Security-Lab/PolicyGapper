@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "The app does use third party services that may collect information used to identify you.\nLink to privacy policy of third party service providers used by the app\n•\n•\nAdMob (https://support.google.com/admob/answer/6128543?hl=en)\n•\nFirebase Analytics (https://firebase.google.com/policies/analytics)\n• Crashlytics (https://firebase.google.com/support/privacy)\n• Google Places API for Android (http://www.google.com/policies/privacy/)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "The app does use third party services that may collect information used to identify you.\nLink to privacy policy of third party service providers used by the app\n•\n•\nAdMob (https://support.google.com/admob/answer/6128543?hl=en)\n•\nFirebase Analytics (https://firebase.google.com/policies/analytics)\n• Crashlytics (https://firebase.google.com/support/privacy)\n• Google Places API for Android (http://www.google.com/policies/privacy/)",
+      "lang": "English"
+    }
+  ]
+}

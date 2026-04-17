@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "3 \"Tap\" behaviour information when you use and operate FlashGet (e.g. the behaviour of tapping \"File Transferring\" button, \"Apps\", \"Backup\" button, etc.) | • Develop new Services • Improve our Services • Statistical analysis",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "6 Information when you communicate with us whether in person, through our websites, via email, through other feedback channels provided by us, including: • Your contact details (this may include your social media account if that is the way you communicate with us) • The details of your communications with us • Log files you submitted from within FlashGet for product support | • Answer any issues or concerns • Monitor customer communications for quality improvement and training purposes • Develop new services • Improve our Services • Personalise our Services • Troubleshoot",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "6 Information when you communicate with us whether in person, through our websites, via email, through other feedback channels provided by us, including: • Your contact details (this may include your social media account if that is the way you communicate with us) • The details of your communications with us • Log files you submitted from within FlashGet for product support | • Answer any issues or concerns • Monitor customer communications for quality improvement and training purposes • Develop new services • Improve our Services • Personalise our Services • Troubleshoot",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "2 When you access and use our Services, we will collect: • IP address • Your account settings • Your account preferences • Device information, such as your IMEI, IMSI, MAC, Android ID, operating system version, system language, CPU model, memory, hard disk and its usage, etc. | • Provision of Services • Identify issues with our Services • Improve our Services",
+      "lang": "English"
+    }
+  ]
+}

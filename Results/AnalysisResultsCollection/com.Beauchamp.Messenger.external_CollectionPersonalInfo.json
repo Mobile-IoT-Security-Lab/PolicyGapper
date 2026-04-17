@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Personal Information Provided by You. We collect email addresses; names; and other similar information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "A. Identifiers\nContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address and account name\nYES",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "A. Identifiers\nContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address and account name\nYES",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "B. Personal information categories\nlisted in the California Customer\nRecords statute\nName, contact information, education, employment, employment history\nand financial information\nYES",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "B. Personal information categories\nlisted in the California Customer\nRecords statute\nName, contact information, education, employment, employment history\nand financial information\nYES",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location Data. We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Services.",
+      "lang": "English"
+    }
+  ]
+}

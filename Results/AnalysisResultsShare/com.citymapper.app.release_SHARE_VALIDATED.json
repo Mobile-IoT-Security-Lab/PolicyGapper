@@ -1,0 +1,49 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "• Transportation and booking business partners: We may offer you the opportunity to use our Services to purchase transit tickets or book journeys with transportation providers (including those made available to you by our affiliates) as well as other features and services such as to connect to a third-party ride hailing or scooter sharing company. In those cases, we may share information with such partners to enable them to provide these services to you including to process transactions, etc. For example, we may share your name, contact information, and location data with transportation providers to facilitate journeys booked through the Services and we may share your journey data through an API integration to enable you to use their services efficiently. Note that these third parties collect and use your personal information under their own policies and practices.",
+      "justification": "The policy states that journey data is shared with transportation partners. Crucially, it specifies that 'these third parties collect and use your personal information under their own policies and practices,' which disqualifies them as 'service providers' under Google Play's policy and constitutes 'sharing' that must be declared.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'In-app search history' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content(for example, user bios, notes, or open-ended responses)",
+      "policy_reference": "• Survey and Rewards Program Information: We may offer you the opportunity to participate in surveys, quizzes, contests, interviews, rewards programs or promotions. If you choose to participate, we may collect or ask you to provide personal information to participate in such opportunities, which may include your contact information, feedback to the survey, other information related to the eligibility of such rewards programs, etc. This information might be provided directly to us, or to our third-party partners which manage the applicable program through their platforms.",
+      "justification": "The policy mentions that information from surveys, including user feedback, may be provided to 'third-party partners which manage the applicable program'. The language does not specify that these partners act solely as service providers on the developer's behalf, so this transfer must be declared as 'sharing'.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Other user-generated content' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions(Any other user activity or actions in-app not listed here such as gameplay, likes, and dialog options.)",
+      "policy_reference": "• Usage Information: We collect information about how you interact with our Services. Like most providers of online services and platforms, we automatically collect information about the electronic path you take to our Services, through our Services and when exiting our Services, and your usage and activity on our Services, and may but is not limited to, log data, information about when and how you downloaded the Citymapper Apps or created your User Account; your access and login activity; your preferences; details about any transportation or delivery services you request or participate in through our Services; your transactions; the specific components of the Citymapper Apps, websites, platforms or any other aspect of our Services you visit or use, along with details about your views or use of these components and actions made, such as the links, objects, features, settings, products and benefits you view, click, or otherwise interact with as well as the duration and time and date stamp and URLs which directed you to our Citymapper websites; any alerts or communications we send you in connection with your use of our Services and your interactions with such communications; and any errors that may have occurred during your use of our Services. This information may be collected and stored by us, or by our third-party service providers and business partners, using cookies, related technologies (such as pixels and web beacons), and third-party analytics tools. For more details, please review our Cookie Notice.",
+      "justification": "The policy states that usage information ('Other actions') may be collected and stored by 'third-party service providers and business partners'. While sharing with 'service providers' is exempt, sharing with 'business partners' is not, as they are not explicitly defined as acting solely on the developer's behalf. This constitutes declarable sharing.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Other actions' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Transportation and booking business partners: We may offer you the opportunity to use our Services to purchase transit tickets or book journeys with transportation providers (including those made available to you by our affiliates) as well as other features and services such as to connect to a third-party ride hailing or scooter sharing company. In those cases, we may share information with such partners to enable them to provide these services to you including to process transactions, etc. For example, we may share your name, contact information, and location data with transportation providers to facilitate journeys booked through the Services and we may share your journey data through an API integration to enable you to use their services efficiently. Note that these third parties collect and use your personal information under their own policies and practices.",
+      "justification": "The policy states that to process transactions for transit tickets, information is shared with transportation partners. It explicitly notes that 'these third parties collect and use your personal information under their own policies and practices,' which defines them as independent third parties, not 'service providers'. Therefore, this sharing must be declared.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Purchase history' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Transportation and booking business partners: We may offer you the opportunity to use our Services to purchase transit tickets or book journeys with transportation providers (including those made available to you by our affiliates) as well as other features and services such as to connect to a third-party ride hailing or scooter sharing company. In those cases, we may share information with such partners to enable them to provide these services to you including to process transactions, etc. For example, we may share your name, contact information, and location data with transportation providers to facilitate journeys booked through the Services and we may share your journey data through an API integration to enable you to use their services efficiently. Note that these third parties collect and use your personal information under their own policies and practices.",
+      "justification": "The policy states that 'location data' is shared with transportation partners to facilitate journeys. The clause 'these third parties collect and use your personal information under their own policies and practices' confirms this is a transfer to an independent third party, not an exempt 'service provider'. This sharing must be declared.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Approximate location' is shared with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Transportation and booking business partners: We may offer you the opportunity to use our Services to purchase transit tickets or book journeys with transportation providers (including those made available to you by our affiliates) as well as other features and services such as to connect to a third-party ride hailing or scooter sharing company. In those cases, we may share information with such partners to enable them to provide these services to you including to process transactions, etc. For example, we may share your name, contact information, and location data with transportation providers to facilitate journeys booked through the Services and we may share your journey data through an API integration to enable you to use their services efficiently. Note that these third parties collect and use your personal information under their own policies and practices.",
+      "justification": "The policy states that 'location data' is shared with transportation partners to facilitate journeys. The clause 'these third parties collect and use your personal information under their own policies and practices' confirms this is a transfer to an independent third party, not an exempt 'service provider'. This sharing must be declared.",
+      "how_to_fix": "Declare in the 'Data shared' section of your Data Safety form that 'Precise location' is shared with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

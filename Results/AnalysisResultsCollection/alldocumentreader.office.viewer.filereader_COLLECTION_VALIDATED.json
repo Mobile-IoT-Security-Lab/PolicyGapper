@@ -1,0 +1,80 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "In order to provide a better user experience, we have integrated data statistics tools in the App, they won't collect users' health data or privacy data and are only used for CRASH targeting and AB-testing for new features and design, The details are as follows:\nDevice information\n• Screen Size\n• OEM Name\n• Model",
+      "justification": "The policy states that data statistics tools are used for 'CRASH targeting and AB-testing', which involves collecting device information. This constitutes the collection of app performance data that is sent off-device.",
+      "how_to_fix": "Declare 'Crash logs' and 'Other app performance data' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "In order to provide a better preview experience, when the file recognition fails, we may upload your file to our cloud server to locate and fix the issue. Please rest assured that we will never share your information with any third parties except with your permission, as described in this Privacy Policy, or in connection with the provision of document reading services.",
+      "justification": "The policy explicitly states, 'we may upload your file to our cloud server'. Files created or provided by the user are considered User-generated content and are being sent off-device.",
+      "how_to_fix": "Declare 'Other user-generated content' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.",
+      "justification": "The policy states the app may collect personal data from a Third-Party Social Media Service account, explicitly mentioning 'Your name'.",
+      "how_to_fix": "Declare 'Name' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.",
+      "justification": "The policy states the app may collect personal data from a Third-Party Social Media Service account, explicitly mentioning 'Your email address'.",
+      "how_to_fix": "Declare 'Email address' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "When You use Our Service to pay a product and/or service via bank transfer, We may ask You to provide information to facilitate this transaction and to verify Your identity.",
+      "justification": "The policy states, 'We may ask You to provide information to facilitate this transaction' for bank transfers. This indicates the collection of financial information beyond standard payment processing.",
+      "how_to_fix": "Declare 'Other financial info' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Device system information\n• OS Name\n• OS Version\n•\nOS Build\n• Time Zone\n• System Language\n• Carrier Country\n• Carrier Name\nLocation information\n•\nLocale\n• Country Area\nApplication information\n• App Name\n• App Build\n• APP Version Number\n• SDK Name\n•\nSDK Version",
+      "justification": "The policy lists the collection of 'Carrier Country' and 'Country Area'. This data can be used to determine the user's approximate location.",
+      "how_to_fix": "Declare 'Approximate location' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "In order to provide a better preview experience, when the file recognition fails, we may upload your file to our cloud server to locate and fix the issue. Please rest assured that we will never share your information with any third parties except with your permission, as described in this Privacy Policy, or in connection with the provision of document reading services.",
+      "justification": "The policy explicitly states, 'we may upload your file to our cloud server'. This is a direct reference to collecting user files and documents.",
+      "how_to_fix": "Declare 'Files and docs' in the Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.",
+      "justification": "The policy states the app may collect data from a Third-Party Social Media Service account, explicitly mentioning 'Your contact list'.",
+      "how_to_fix": "Declare 'Contacts' in the Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We will not store or collect Your payment card details. That information is provided directly to Our third-party payment processors whose use of Your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.",
+      "reason_of_removal": "Data is collected directly by a third-party payment processor and not accessed by the app developer, as stated in the policy.",
+      "justification": "The policy states, 'We will not store or collect Your payment card details. That information is provided directly to Our third-party payment processors'. This meets Google Play's exemption criteria for data handled exclusively by a third-party payment provider where the app does not access the information.",
+      "how_to_fix": "No action needed. This data type is correctly omitted from the declaration as it qualifies for an exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.",
+      "reason_of_removal": "Duplicate entry.",
+      "justification": "This entry is a duplicate of another entry with the data type 'Email address' and the same policy reference. Only one declaration is needed for this data type.",
+      "how_to_fix": "No action needed. The data type is covered by another entry.",
+      "lang": "en"
+    }
+  ]
+}
+```

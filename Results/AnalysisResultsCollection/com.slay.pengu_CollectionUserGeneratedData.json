@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Contact form: If users contact us via our contact form, e-mail or other communication channels, we process the data communicated to us in this context to process the communicated request; Legal basis: Contract performance and pre-contractual requests (Art. 6 para. 1 p. 1 lit. b) DSGVO), Legitimate interests (Art. 6 para. 1 p. 1 lit. f) DSGVO).When contacting us (e.g. by contact form, e-mail, telephone or via social media) as well as in the context of existing user and business relationships, the information of the inquiring persons is processed to the extent necessary to respond to the contact requests and any requested measures.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Contact form: If users contact us via our contact form, e-mail or other communication channels, we process the data communicated to us in this context to process the communicated request; Legal basis: Contract performance and pre-contractual requests (Art. 6 para. 1 p. 1 lit. b) DSGVO), Legitimate interests (Art. 6 para. 1 p. 1 lit. f) DSGVO).When contacting us (e.g. by contact form, e-mail, telephone or via social media) as well as in the context of existing user and business relationships, the information of the inquiring persons is processed to the extent necessary to respond to the contact requests and any requested measures.",
+      "lang": "en"
+    }
+  ]
+}

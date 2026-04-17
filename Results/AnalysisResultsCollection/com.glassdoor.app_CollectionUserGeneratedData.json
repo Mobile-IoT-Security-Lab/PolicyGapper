@@ -1,0 +1,29 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Other in-app messages",
+"policy_reference": "Direct Messages | Direct messages and associated Content | Identifiers",
+"lang": "en"
+},
+{
+"data_type": "Videos",
+"policy_reference": "Submitted Content | Employer reviews, salary reports, benefit reviews, interview reviews, photos, posts, comments, documents, audio, video, etc. submitted to the services | Audio, electronic, visual, thermal, olfactory, or similar information; professional or employment-related information",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "Submitted Content | Employer reviews, salary reports, benefit reviews, interview reviews, photos, posts, comments, documents, audio, video, etc. submitted to the services | Audio, electronic, visual, thermal, olfactory, or similar information; professional or employment-related information",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "Submitted Content | Employer reviews, salary reports, benefit reviews, interview reviews, photos, posts, comments, documents, audio, video, etc. submitted to the services | Audio, electronic, visual, thermal, olfactory, or similar information; professional or employment-related information",
+"lang": "en"
+},
+{
+"data_type": "Contacts",
+"policy_reference": "We may allow you to sync or upload a list of contacts in order to facilitate these communications.",
+"lang": "en"
+}
+]
+}

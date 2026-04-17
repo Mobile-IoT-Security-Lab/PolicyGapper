@@ -1,0 +1,44 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "5 Information on transaction, e.g. when you purchase our Services | • Complete the transaction • Store as transaction history for future reference",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "5 Information on transaction, e.g. when you purchase our Services | • Complete the transaction • Store as transaction history for future reference",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "1 Information provided during your account set-up process, which includes: • Your username • Your password • Your email address • IP address For FlashGet Business only: • Your full name • Your company name • Your company address and phone number | • Set up and register account for you and enable you to log in the account • Process your purchase order for our Services • Verify users' identity and prevent fraud and security risks • Know more how you use your account and personalize your experience",
+      "lang": "English"
+    }
+  ]
+}

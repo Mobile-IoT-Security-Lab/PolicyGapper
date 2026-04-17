@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Videos",
+      "policy_reference": "You will be asked to consent to the following:\n• photos/storage: to collect the photos that you wish to upload and display to other users, or train our Al\nalgorithm (photos will be uploaded to our back-end server)\n• Microphone: to input texts via voice input feature\n• Internet access: to view WLAN state and network connections to optimize Internet access by cellular\nnetwork status camera: to take photos and/or videos for your questions identity: to link to and enable\nlogin through a third-party account (e.g., Google or Apple)\n• precise geolocation: to train our Al algorithm\n• Contacts: to provide an easy way for you to screen if any of your contact persons are using PolyBuzz,\nand establish connections within PolyBuzz",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "You will be asked to consent to the following:\n• photos/storage: to collect the photos that you wish to upload and display to other users, or train our Al\nalgorithm (photos will be uploaded to our back-end server)\n• Microphone: to input texts via voice input feature\n• Internet access: to view WLAN state and network connections to optimize Internet access by cellular\nnetwork status camera: to take photos and/or videos for your questions identity: to link to and enable\nlogin through a third-party account (e.g., Google or Apple)\n• precise geolocation: to train our Al algorithm\n• Contacts: to provide an easy way for you to screen if any of your contact persons are using PolyBuzz,\nand establish connections within PolyBuzz",
+      "lang": "en"
+    }
+  ]
+}

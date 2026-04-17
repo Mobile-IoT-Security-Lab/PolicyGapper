@@ -1,0 +1,21 @@
+```json
+{
+    "omitted_declarations": [
+        {
+            "data_type": "Device or other IDs",
+            "policy_reference": "*Third-party Partners' Privacy Policy\nFacebook Ads Privacy Policy:\nhttps://www.facebook.com/about/privacy/\nAdMob: https://policies.google.com/privacy\nFacebook: https://business.facebook.com/privacy/explanation",
+            "justification": "The privacy policy discloses the use of third-party advertising partners (AdMob, Facebook Ads) that collect device identifiers. This constitutes 'sharing' with third parties for advertising purposes and must be declared in the Data Safety section.",
+            "how_to_fix": "In your app's Data Safety form, declare that 'Device or other IDs' is collected and shared with third parties for 'Advertising or marketing' purposes.",
+            "lang": "English"
+        },
+        {
+            "data_type": "App interactions",
+            "policy_reference": "*Third-party Partners' Privacy Policy\nFacebook Ads Privacy Policy:\nhttps://www.facebook.com/about/privacy/\nAdMob: https://policies.google.com/privacy\nFacebook: https://business.facebook.com/privacy/explanation",
+            "justification": "The policy states that third-party partners like AdMob and Facebook Ads are used. These services track user interactions for analytics and ad personalization, which qualifies as 'sharing' under Google Play's policy.",
+            "how_to_fix": "In your app's Data Safety form, declare that 'App interactions' is collected and shared with third parties for 'Advertising or marketing' and/or 'Analytics' purposes.",
+            "lang": "English"
+        }
+    ],
+    "excluded_declarations": []
+}
+```

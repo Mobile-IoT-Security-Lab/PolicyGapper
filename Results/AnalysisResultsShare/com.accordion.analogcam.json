@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Additionally, we also passively collect information with tracking tools like Google Firebase Analytics, Google Admob, and Meta. These tools allow us to collect data on your usage our App.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Additionally, we also passively collect information with tracking tools like Google Firebase Analytics, Google Admob, and Meta. These tools allow us to collect data on your usage our App.",
+      "lang": "English"
+    }
+  ]
+}

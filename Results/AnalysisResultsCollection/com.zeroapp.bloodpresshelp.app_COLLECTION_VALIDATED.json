@@ -1,0 +1,49 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "■ Optional Data: You may also choose to enter additional health data points relevant to your Dr.\nBlood Pressure: Diabetes management, such as time of day, medications taken, and notes about\nyour readings. We will only collect this data if you explicitly enter it.",
+      "justification": "The policy states the app collects 'notes about your readings' when explicitly entered by the user. This is a form of user-generated content that is collected by the app and must be declared.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "■ Device Data: We collect certain device information to ensure the App functions properly and to improve\nyour experience. This information may include:\n■ Device model (e.g., Pixel 6 Pro)\n■ Operating system (e.g., Android 13)\n■ De-identified crash logs (to identify and fix bugs)",
+      "justification": "The policy states the app collects 'Device model', 'Operating system', and 'De-identified crash logs'. These are considered device or other identifiers under the Data Safety policy and must be declared.",
+      "how_to_fix": "Declare 'Device or other IDs' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "■ Communicate: Contact you with updates, security alerts, and promotional messages through email or\nother forms of communication.",
+      "justification": "The policy states the app will 'Contact you with updates, security alerts, and promotional messages through email', which requires the collection of the user's email address.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Health Data:\n■ Dr. Blood Pressure: Diabetes Readings: The core function of the App is to allow you to record and\nmonitor your Dr. Blood Pressure: Diabetes readings. This data is vital for you to track your health\ntrends and make informed decisions.",
+      "justification": "The policy states the core function is to 'record and monitor your Dr. Blood Pressure: Diabetes readings'. This is explicitly defined as Health info and must be declared.",
+      "how_to_fix": "Declare 'Health info' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Communicate: Contact you with updates, security alerts, and promotional messages through email or other forms of communication.",
+      "justification": "The policy states the app will 'Contact you with updates... through email'. This implies sending emails, a form of communication covered by the 'Emails and text messages' data type.",
+      "how_to_fix": "Declare 'Emails and text messages' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Permission 3: android.permission.READ_EXTERNAL_STORAGE\nAllows the app to import images of blood sugar or blood pressure meters that users select for recording\nactivity.",
+      "justification": "The policy states the app can 'import images'. Accessing user photos constitutes collection unless the policy explicitly states the data is processed only on-device. This policy lacks that specific exemption language.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

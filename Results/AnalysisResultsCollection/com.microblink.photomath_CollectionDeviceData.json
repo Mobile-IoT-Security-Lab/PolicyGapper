@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Usage data: We collect information on the ways in which you use the Service, such as how long you spend on certain parts on the Service. This information helps us understand better how people use our Service and how we can improve their user experience. Additionally, details of transactions you carry out through the Service, such as in-app purchase history or math problems, may also be collected. Such information might be stored on a device storage and sent to the Service servers;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We collect information you provide directly to us. In particular, we may collect the following information from our users that may, in certain circumstances, constitute personal data:\n• Images and text you send for the purpose of providing feedback about the Service;",
+      "lang": "English"
+    }
+  ]
+}

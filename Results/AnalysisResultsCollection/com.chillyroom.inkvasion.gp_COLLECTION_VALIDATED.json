@@ -1,0 +1,21 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may use third-party Service Providers to monitor and analyze the use of our Service.\nFirebase\nFirebase is analytics service provided by Google Inc.\nYou may opt-out of certain Firebase features through your mobile device settings, such as your device\nadvertising settings or by following the instructions provided by Google in their Privacy Policy:\nhttps://policies.google.com/privacy?hl=en",
+      "justification": "The policy states the use of Firebase, a third-party analytics service, to 'monitor and analyze the use of our Service'. This service collects data on user interactions within the app, which is sent off-device for analysis.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in the 'App activity' section of your Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may use third-party Service Providers to monitor and analyze the use of our Service.\nFirebase\nFirebase is analytics service provided by Google Inc.\nYou may opt-out of certain Firebase features through your mobile device settings, such as your device\nadvertising settings or by following the instructions provided by Google in their Privacy Policy:\nhttps://policies.google.com/privacy?hl=en",
+      "justification": "The policy mentions using Firebase for analytics to 'monitor and analyze the use of our Service'. This typically includes tracking various user actions beyond simple interactions, which falls under the 'Other actions' data type.",
+      "how_to_fix": "Declare 'Other actions' as a collected data type in the 'App activity' section of your Google Play Console Data Safety form.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

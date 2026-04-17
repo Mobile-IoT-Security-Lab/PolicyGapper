@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We collect personal information in any messages you send to us, as well as our social media channels (such as user feedback, messages and search queries). We may also collect personal information in content you submit or upload to the Service (such as text prompts, images, photos, videos and other media and the metadata about your content) as well as the resulting material you generate through the Service, such as images or videos (together, “Content“). We use this information to operate, maintain,",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "When you visit the Service, we, and our third-party partners, will send cookies to your computer that uniquely identifies your browser and lets us do things like help you log in faster, enhance your navigation through the site, remember your preferences and generally improve the user experience. Cookies also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service) and allow us or our business partners to track your usage of the Service over time. They also allow us to measure traffic and usage trends for the Service, deliver personalised advertisements that may be of interest to you and measure their effectiveness, and find potential new users of the Service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "No cookies are used in our mobile apps. However, a unique user ID (no cross-device ID) is used, which allows us to track, for example, the source and target language settings, how many characters are translated or improved, whether the copy button is used, and if so, how it is used. The processing of this data is based on our legitimate interest (Art. 6 para. 1 sentence 1 lit. f) GDPR) to better understand the needs of our users and to be able to adapt the app according to customer requirements.",
+      "justification": "The policy states this data is used for tracking and analytics, implying it is sent off-device. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'App interactions' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "No cookies are used in our mobile apps. However, a unique user ID (no cross-device ID) is used, which allows us to track, for example, the source and target language settings, how many characters are translated or improved, whether the copy button is used, and if so, how it is used. The processing of this data is based on our legitimate interest (Art. 6 para. 1 sentence 1 lit. f) GDPR) to better understand the needs of our users and to be able to adapt the app according to customer requirements.",
+      "justification": "The policy states a 'unique user ID' is used for tracking, which is sent off-device. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'Device or other IDs' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "When translating or improving texts with our apps, for technical reasons - regardless of whether you use our paid or free service - your device will automatically transmit certain data. The following data which you can transmit to us, is stored:\n•\nDate and time of access\n•\nVersion of the app\n•\nOperating system\n• Volume of data transmitted\n•\nNotification of successful data retrieval\n• Abbreviated/anonymized IP address\n•\nFull IP address\n•\nDiagnostic information in the event of errors\n•\nType of mobile device (only for iOS and Android app)\n• Language in use\n• Time zone difference from Greenwich Mean Time (GMT)\n• Access status/HTTP status code",
+      "justification": "The policy explicitly states that diagnostic data is automatically transmitted and stored off-device. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'Diagnostics' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "When using our free services, please only enter content that you wish to transfer to our services. The transmission of this content is necessary in order for us to provide the translation or improvement and offer you our service. We process the content you upload and their translations or improvements for a limited period of time to train and improve our neural networks and algorithms. This also applies to corrections you make to our translation or improvement suggestions. If you use the glossary feature within our free services without a DeepL account and enter certain pairs of terms there, this data is only stored locally and is not forwarded to DeepL. Therefore, you cannot use your glossary entries in another browser or on another device. If you use the glossary feature while being logged into your DeepL account, glossaries may be forwarded to DeepL.",
+      "justification": "The policy states that user-entered content for translation is transferred and processed off-device to provide the service and for training. While a specific feature ('glossary without an account') is local, the primary function involves off-device data transfer, which is not exempt.",
+      "how_to_fix": "Declare the collection of 'In-app search history' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When using our free services, please only enter content that you wish to transfer to our services. The transmission of this content is necessary in order for us to provide the translation or improvement and offer you our service. We process the content you upload and their translations or improvements for a limited period of time to train and improve our neural networks and algorithms. This also applies to corrections you make to our translation or improvement suggestions. If you use the glossary feature within our free services without a DeepL account and enter certain pairs of terms there, this data is only stored locally and is not forwarded to DeepL. Therefore, you cannot use your glossary entries in another browser or on another device. If you use the glossary feature while being logged into your DeepL account, glossaries may be forwarded to DeepL.",
+      "justification": "The policy states that user-uploaded content is transferred and processed off-device to provide the service and for training. This does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'Other User generated content' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "No cookies are used in our mobile apps. However, a unique user ID (no cross-device ID) is used, which allows us to track, for example, the source and target language settings, how many characters are translated or improved, whether the copy button is used, and if so, how it is used. The processing of this data is based on our legitimate interest (Art. 6 para. 1 sentence 1 lit. f) GDPR) to better understand the needs of our users and to be able to adapt the app according to customer requirements.",
+      "justification": "The policy states user actions are tracked to understand user needs, implying data is sent off-device for analysis. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'Other actions' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "When translating or improving texts with our apps, for technical reasons - regardless of whether you use our paid or free service - your device will automatically transmit certain data. The following data which you can transmit to us, is stored:\n•\nDate and time of access\n•\nVersion of the app\n•\nOperating system\n• Volume of data transmitted\n•\nNotification of successful data retrieval\n• Abbreviated/anonymized IP address\n•\nFull IP address\n•\nDiagnostic information in the event of errors\n•\nType of mobile device (only for iOS and Android app)\n• Language in use\n• Time zone difference from Greenwich Mean Time (GMT)\n• Access status/HTTP status code",
+      "justification": "The policy explicitly states that app performance data is automatically transmitted and stored off-device. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "If, after creating a DeepL account, you sign up for a DeepL Pro subscription, additionally the following personal data will be collected and processed for the purposes of concluding and fulfilling the contract (Art. 6 para. 1 sentence 1 lit. b) GDPR):\n•\nFirst name, surname, and where applicable, company name\n• Address\n•\nPayment details",
+      "justification": "The policy states names are collected and processed for contract fulfillment (subscriptions), which requires off-device storage. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'Name' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "No cookies are used in our mobile apps. However, a unique user ID (no cross-device ID) is used, which allows us to track, for example, the source and target language settings, how many characters are translated or improved, whether the copy button is used, and if so, how it is used. The processing of this data is based on our legitimate interest (Art. 6 para. 1 sentence 1 lit. f) GDPR) to better understand the needs of our users and to be able to adapt the app according to customer requirements.",
+      "justification": "The policy states a 'unique user ID' is used for tracking, which is sent off-device. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'User IDs' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "If, after creating a DeepL account, you sign up for a DeepL Pro subscription, additionally the following personal data will be collected and processed for the purposes of concluding and fulfilling the contract (Art. 6 para. 1 sentence 1 lit. b) GDPR):\n•\nFirst name, surname, and where applicable, company name\n• Address\n•\nPayment details",
+      "justification": "The policy states addresses are collected and processed for contract fulfillment (subscriptions), which requires off-device storage. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'Address' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "If, after creating a DeepL account, you sign up for a DeepL Pro subscription, additionally the following personal data will be collected and processed for the purposes of concluding and fulfilling the contract (Art. 6 para. 1 sentence 1 lit. b) GDPR):\n•\nFirst name, surname, and where applicable, company name\n• Address\n•\nPayment details",
+      "justification": "The policy states payment details are collected and processed for contract fulfillment (subscriptions), which requires off-device processing. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'User payment info' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "In addition to the aforementioned data, we process further (usage-)data relevant for the provision and billing of our service, such as subscription ID, date and time of the subscription conclusion, billing period, successful payment processing, logins, number of translated or improved characters and documents, upgrades and downgrades. The processing and storage of the aforementioned data is necessary for the conclusion of the contract as well as its performance and is therefore justified according to Art. 6 para. 1 sentence 1 lit. b) GDPR. If you yourself are not a party to the contract, but DeepL Pro is provided to you, e.g. by your employer or an organization to which you belong, we justify the processing of the data mentioned in section 6.1 and the aforementioned usage data via Art. 6 para. 1 sentence 1 lit. f) GDPR, as this is necessary for the performance of the business relationship with our customers, i.e. your employer or your organization.",
+      "justification": "The policy states data related to subscriptions and usage is processed and stored for billing and service provision, which is an off-device activity. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "If, after creating a DeepL account, you sign up for a DeepL Pro subscription, additionally the following personal data will be collected and processed for the purposes of concluding and fulfilling the contract (Art. 6 para. 1 sentence 1 lit. b) GDPR):\n•\nFirst name, surname, and where applicable, company name\n• Address\n•\nPayment details\n• Tax numbers (where applicable)\n• Selected subscription option\n•\nPossibly other, additional data you provided during the registration process.",
+      "justification": "The policy states that tax numbers and subscription options are collected for contract fulfillment, which requires off-device processing. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'Other financial info' in the Google Play Console Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "On the Platform, we will publish and make available your name (not your email address) together with any optional account or profile information (except for information that you designate as non-public) that you add on the Platform. We will also publish and make available any content you post on the Platform (such as posts, comments, votes). The Platform will not be made public in the early access phase.",
+      "justification": "The policy states that content posted to the platform (e.g., comments, posts) will be published, which is an off-device activity. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "You can translate documents in different file formats both with DeepL Pro (.docx, .pptx, .html, .pdf and .txt) as well as with DeepL Translator (.docx, .pptx and .pdf). When using document translation in DeepL Translator, section 3 of this privacy policy applies. If you translate documents of the file types mentioned above while you are logged in to your DeepL Pro account, the texts you submit will only be processed temporarily and will be deleted after the completion of the translation process, including the translations themselves (see also section 4 and 6.3 of this privacy policy). With both DeepL Pro and DeepL Translator, the translation of your documents will be provided exclusively by DeepL and processed on our infrastructure in the EEA.",
+      "justification": "The policy states that documents are submitted and processed on the company's infrastructure for translation, which is an off-device activity. It does not qualify for any exemption.",
+      "how_to_fix": "Declare the collection of 'Files and docs' in the Google Play Console Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Phone number",
+      "policy_reference": "If you would like to send us a sales enquiry in order to receive further information about our products and subscription plans or to start contract negotiations, you are welcome to use our sales contact forms. In addition to your email address, you are required to provide your name and telephone number; all other information is optional. For the provision of our contact forms, we use the HubSpot service (see section 14).",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states this data is collected via 'sales contact forms', which are external to the mobile app's core functionality and qualify for the website collection exemption.",
+      "how_to_fix": "No action needed. This declaration is not required as the data collection is exempt.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Based on your IP address, we also use geolocation to determine the region from which you are visiting our website. We use this information to check whether we can offer you the DeepL Pro service in your region, which corresponds to our legitimate interests pursuant to Art. 6 para. 1 sentence 1 lit. f) GDPR. The storage of the full IP address for the users of the DeepL free version for a maximum period of 14 days is also justified by our legitimate interest in achieving the listed purposes, Art. 6 para. 1 sentence 1 lit. f) GDPR. The storage of IP addresses of users of the paid DeepL Pro subscription for the duration of the contract is justified by Art. 6 para. 1 sentence 1 lit. b) GDPR.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy explicitly states this data is collected from users 'visiting our website', not from the mobile app itself. This qualifies for the website collection exemption.",
+      "how_to_fix": "No action needed. This declaration is not required as the data collection is exempt.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "You have various possibilities to connect with us, including via contact forms on our website, having calls with our customer team as well as by using our chatbot. You can also contact us directly by email. We will process your personal data that you provide to us as part of these communications. This may include your name, email address and any other personal data you disclose to us.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states this data is collected via 'contact forms on our website' or 'directly by email', both of which are outside the mobile app. This qualifies for the website collection exemption.",
+      "how_to_fix": "No action needed. This declaration is not required as the data collection is exempt.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We also use a service provided by UserTesting, Inc. 144 Townsend Street, San Francisco, CA 94107 USA to conduct interviews with you. As a user (Contributor) of UserTesting, you can register for our interviews on UserTesting's platform. We also contact selected customers to make them aware of the interviews and invite them to attend. The interviews are recorded with images and sound and stored by us for two years on the UserTesting platform. We process your data on the basis of your given consent, Art. 6 para. 1 sentence 1 lit. a) GDPR. You can withdraw your consent at any time with effect for the future by sending an email to privacy(at)deepl.com. Please state the exact day and, if possible, the time of the interview. We have concluded a data processing agreement with UserTesting and UserTesting may only process the data according to our instructions and not for its own purposes. UserTesting uses different subcontractors - such as Zoom - which are also partly located in third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to the USA. Further information on the handling of personal data at UserTesting can be found here and here.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states this data is collected through an optional interview process on an external service, 'UserTesting's platform', not by the app itself. This qualifies for the website/external collection exemption.",
+      "how_to_fix": "No action needed. This declaration is not required as the data collection is exempt.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We also use a service provided by UserTesting, Inc. 144 Townsend Street, San Francisco, CA 94107 USA to conduct interviews with you. As a user (Contributor) of UserTesting, you can register for our interviews on UserTesting's platform. We also contact selected customers to make them aware of the interviews and invite them to attend. The interviews are recorded with images and sound and stored by us for two years on the UserTesting platform. We process your data on the basis of your given consent, Art. 6 para. 1 sentence 1 lit. a) GDPR. You can withdraw your consent at any time with effect for the future by sending an email to privacy(at)deepl.com. Please state the exact day and, if possible, the time of the interview. We have concluded a data processing agreement with UserTesting and UserTesting may only process the data according to our instructions and not for its own purposes. UserTesting uses different subcontractors - such as Zoom - which are also partly located in third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to the USA. Further information on the handling of personal data at UserTesting can be found here and here.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The policy states this data is collected through an optional interview process on an external service, 'UserTesting's platform', not by the app itself. This qualifies for the website/external collection exemption.",
+      "how_to_fix": "No action needed. This declaration is not required as the data collection is exempt.",
+      "lang": "en"
+    }
+  ]
+}
+```

@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We use third-party Service Providers to display advertisements to You in order to improve and maintain Our Services. We work with Google AdSense, DoubleClick cookies and AdMob. These providers may use information about Your visits to the Application that are contained in cookies. They also use and analyze the data You interact with advertising to show more targeted ads in the Application. We will never share any data about Your track in the Application with third-party advertisers and Your personal data will never be used for any commercial purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "To provide a better user experience, We have integrated statistical tools in the Application. They are only used for CRASH positioning and AB-testing for new functions and UI design. Details as described below:\nApplication information\n• Application's Name\n• Application's Version Number\n• Application's Build\n•\nSDK Name\n•\nSDK Version\nDevice information\n•\nModel\n•\nScreen Size\n• OEM Name\nDevice system information\n•\nOS Name2\n•\nOS Version\n•\nOS Build\n•\nTime Zone\n•\n• System Language\nCarrier Country\n•\nCarrier Name\nLocation information\n•\nLocale\n• Country Area",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "To provide a better user experience, We have integrated statistical tools in the Application. They are only used for CRASH positioning and AB-testing for new functions and UI design. Details as described below:\nApplication information\n• Application's Name\n• Application's Version Number\n• Application's Build\n•\nSDK Name\n•\nSDK Version\nDevice information\n•\nModel\n•\nScreen Size\n• OEM Name\nDevice system information\n•\nOS Name2\n•\nOS Version\n•\nOS Build\n•\nTime Zone\n•\n• System Language\nCarrier Country\n•\nCarrier Name\nLocation information\n•\nLocale\n• Country Area",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "To provide a better user experience, We have integrated statistical tools in the Application. They are only used for CRASH positioning and AB-testing for new functions and UI design. Details as described below:\nApplication information\n• Application's Name\n• Application's Version Number\n• Application's Build\n•\nSDK Name\n•\nSDK Version\nDevice information\n•\nModel\n•\nScreen Size\n• OEM Name\nDevice system information\n•\nOS Name2\n•\nOS Version\n•\nOS Build\n•\nTime Zone\n•\n• System Language\nCarrier Country\n•\nCarrier Name\nLocation information\n•\nLocale\n• Country Area",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "We do not store or collect any details of Your payment card. This information is submitted directly to Our third-party payment processors, whose use of Your personal data is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "To provide a better user experience, We have integrated statistical tools in the Application. They are only used for CRASH positioning and AB-testing for new functions and UI design. Details as described below:\nApplication information\n• Application's Name\n• Application's Version Number\n• Application's Build\n•\nSDK Name\n•\nSDK Version\nDevice information\n•\nModel\n•\nScreen Size\n• OEM Name\nDevice system information\n•\nOS Name2\n•\nOS Version\n•\nOS Build\n•\nTime Zone\n•\n• System Language\nCarrier Country\n•\nCarrier Name\nLocation information\n•\nLocale\n• Country Area",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "We may process your information included in your personal profile on our websites, in our apps, and in our products (\"profile data\"). The profile data may include your name, address, telephone number, email address, educational details, and employment details and other preferences related to product use. The profile data may be processed for the purposes of enabling and monitoring your use of our websites, and products. The legal basis for this processing is our legitimate interests, namely the proper administration of our websites, apps, and products, the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We may process your information included in your personal profile on our websites, in our apps, and in our products (\"profile data\"). The profile data may include your name, address, telephone number, email address, educational details, and employment details and other preferences related to product use. The profile data may be processed for the purposes of enabling and monitoring your use of our websites, and products. The legal basis for this processing is our legitimate interests, namely the proper administration of our websites, apps, and products, the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Your personal data is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems and are required to keep the information confidential. In addition, all personal and credit card information you supply is encrypted via Secure Socket Layer (SSL) technology.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may process information relating to transactions, including purchases of products, or products that you sell, through our websites and products (\"transaction data\"). The transaction data may",
+      "lang": "English"
+    }
+  ]
+}

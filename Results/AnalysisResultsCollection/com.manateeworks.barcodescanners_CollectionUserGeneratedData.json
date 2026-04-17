@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "From time to time, Cognex may contact you via phone, email, or postal mail to notify you of various products and services. If you do not want to receive such communication, simply tell us when you provide your personal information. You can easily opt-out of receiving further marketing information from Cognex by unsubscribing (https://go.cognex.com/email-unsubscribe) at any time.",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "Our web server collects IP addresses to obtain certain aggregate information concerning the use of our website. An IP address is a number that is automatically assigned to your computer whenever you're surfing the web. We do not link IP addresses to any personally identifiable information. Therefore, you can remain anonymous when you visit our website. Occasionally you may be asked to give us more specific information about yourself, such as when you download software, register for a seminar or other event, respond to a survey, interact with the chat function on our website, enter a contest from our website, and register at the customer portal. Supplying such information to us is optional, but you may be unable to complete certain transactions without giving such information.",
+"lang": "en"
+}
+]
+}

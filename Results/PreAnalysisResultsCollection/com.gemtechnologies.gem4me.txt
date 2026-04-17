@@ -1,0 +1,239 @@
+• "Data" refers to any information you provide during registration and use of the Platform. This data, or any combination thereof, may
+constitute your personal data under the laws of certain territories and countries. When we refer to personal data, we mean any
+information relating to an identified or identifiable natural person. This excludes any data that has been anonymized or depersonalized to
+the extent that an individual cannot be identified or recovered.
+
+---
+
+• "Processing" means any operation or set of operations performed on your Data, whether or not by automated means, such as collection,
+storage, organization, structuring, alteration, retrieval, consultation, use, disclosure, dissemination, or any other form of access, as well
+as alignment, combination, restriction, erasure, or destruction.
+
+---
+
+b. User Consent:
+For certain types of data processing, particularly when handling sensitive data or processing data for purposes that are not strictly necessary
+for the provision of our services, we obtain your explicit consent. This includes, for example, marketing communications or enabling additional
+features that require extra personal data. You have the right to withdraw your consent at any time, and doing so will not affect the lawfulness of
+processing carried out before your withdrawal.
+
+---
+
+Data Shared: - Contact information (email address, phone number) - Basic profile data (username, user preferences) - Platform usage analytics
+(anonymized where possible) - Communication preferences and interaction history
+
+---
+
+3. What Personal Data We Use
+
+---
+
+3.1. Basic Account Information
+When you register for and use a GemSpace account, you provide a minimal set of data necessary for identification and interaction with other
+users. This may include your mobile phone number, username, profile picture, and other details that you choose to display in your profile. These
+details are used for:
+a. User Identification: Ensuring secure access to our services.
+b. Facilitating Communication: Helping you connect and interact with other users on the platform.
+c. Profile Customization: Allowing you to set up a public profile that other users can recognize, without requiring additional personal details
+unless you voluntarily provide them.
+
+---
+
+3.2. You may choose to voluntarily provide additional data, such as:
+a. Birthdate: Adding your birthdate to your profile may be used to verify age restrictions for certain content. You control who can see this
+information.
+
+---
+
+3.3. Email Address
+When you enable additional security features (for example, two-factor authentication or account recovery), you may be asked to provide an
+email address. This email address is used exclusively for:
+a. Account Recovery: Sending a password recovery code if you lose access.
+b. Alternative Login Options: Facilitating login via third-party services (such as "Sign in with Google" or "Sign in with Apple").
+
+---
+
+The email address provided for authentication purposes is stored separately and used only for sending recovery or authentication codes. It will
+be retained until you update it or delete your account.
+
+---
+
+3.4. Messaging, Public Content
+
+---
+
+3.4.1. Chats
+All messages, photos, videos, and documents sent via our messaging service ("Chats") are stored on GemSpace servers. This storage
+mechanism enables you to access your data seamlessly from any device, providing enhanced convenience and continuity of service.
+GemSpace employs industry-standard security measures and advanced encryption protocols during both data transit and storage.
+However, please be aware that, unlike end-to-end encryption, our Chats do not preclude the possibility of data access in response to
+legitimate legal requests or in the event of a security incident. By using our platform, you acknowledge and accept that the protection of
+your communications is subject to these technical and legal constraints, and GemSpace shall not be held liable for any unauthorized
+access or disclosure arising from circumstances beyond our reasonable control.
+
+---
+
+3.4.2. Public Chats and Channels
+Content posted in public chats or channels is stored on our servers and is, by design, accessible to all users of the platform. Publicly shared
+information is subject to standard encryption during transit and storage; however, once posted publicly, such content is inherently available to
+any member of the GemSpace community. Users are solely responsible for the content they choose to share in public areas. GemSpace
+expressly disclaims any liability for the public dissemination of user-generated content and reserves the right to remove or moderate any
+content that violates our terms of use or applicable laws, without incurring any liability for such actions.
+
+---
+
+3.5. Phone Number and Contacts
+Your mobile phone number is used as a unique identifier for your GemSpace account, facilitating a smooth transition from other messaging
+platforms and helping you maintain your network of contacts.
+With your consent, we may synchronize your contacts to:
+a. Notify you when your contacts join GemSpace.
+b. Display the names of your contacts in notifications and within the application interface.
+Only the minimal necessary data (phone numbers and names) is stored to support this functionality. You may disable contact synchronization or
+delete your synchronized contacts at any time via the settings.
+
+---
+
+3.6. Location Data
+If you share your location within a chat, GemSpace treats that data with the same security measures as other types of messages.
+
+---
+
+[PAGE BREAK]
+
+---
+
+3.7. Cookies
+For users accessing GemSpace via the web, we use only those cookies that are essential for the operation and enhancement of our services.
+These cookies help us:
+a. Ensure the proper functioning of the platform.
+b. Customize and personalize your user experience.
+We do not use cookies for profiling or advertising purposes. You may control or block cookies through your browser settings; however, please
+note that disabling these cookies may affect your ability to log in to GemSpace Web and could limit certain functionalities.
+
+---
+
+4. How We Use Information
+We use the information we collect from you - subject to your preferences and applicable law - to operate, maintain, and improve the services
+provided by GemSpace. Specifically, your information is used in the following ways:
+
+---
+
+b. Service Improvement:
+Your usage data helps us understand how users interact with GemSpace, allowing us to optimize performance, troubleshoot issues, and
+develop new features to enhance your experience.
+
+---
+
+c. Customization:
+Information about your interactions with the platform enables us to tailor our services to better meet your needs and preferences.
+
+---
+
+a. Account Verification and Activity Monitoring:
+We use your information to verify account authenticity, monitor activity, and detect any suspicious behavior, ensuring that the platform
+remains secure.
+
+---
+
+b. Prevention of Abuse:
+Your data is instrumental in identifying and combating harmful conduct, including spam and fraudulent activities, thereby protecting all
+users.
+
+---
+
+[PAGE BREAK]
+
+---
+
+5. Data Storage on Google Servers
+
+---
+
+5.1. Storage on Google Cloud:
+GemSpace utilizes Google Cloud services to store and process personal data. This means that your data is hosted on Google servers,
+which are maintained in globally distributed data centers. These data centers are designed to offer high levels of availability, redundancy,
+and security.
+
+---
+
+[PAGE BREAK]
+
+---
+
+By using the GemSpace Platform, you acknowledge and consent that your personal data may be stored and processed on Google Cloud
+servers under the robust security and compliance framework described above.
+
+---
+
+[PAGE BREAK]
+
+---
+
+In the event that GemSpace receives a valid legal request or order from competent judicial or law enforcement authorities - particularly in cases
+where there is a reasonable suspicion that your account is involved in criminal activities or violations of our Terms of Service we may conduct
+a legal review of the request and, if required, disclose your personal data (such as your IP address and registered phone number) to the relevant
+authorities. Any such disclosures will be documented and may be included in our periodic transparency reports, subject to applicable law.
+
+---
+
+6.5. Translation of Chats at the Request of the User
+GemSpace may offer a translation feature to convert your text messages into your preferred language. When you choose to use this feature, the
+following process takes place:
+Data Transferred:
+Only the content of the message you wish to translate is transmitted to the designated third-party service provider (for example, Google LLC or
+its affiliates). No additional personal data (such as your IP address, account details, or metadata) is shared during this process.
+
+---
+
+[PAGE BREAK]
+
+---
+
+6.5. Transcription of Voice and Video Messages at the Request of the User
+For your convenience, GemSpace may offer a transcription service for voice and video messages. If you elect to use this feature, the following
+provisions apply:
+Data Transferred:
+The audio content of your voice or video message will be sent to a third-party service provider (for example, Google LLC or its affiliates) solely
+for the purpose of generating a text transcript. Only the audio data strictly necessary for transcription is shared. No additional personal data,
+such as your IP address, account details, or location data, is transmitted.
+
+---
+
+[PAGE BREAK]
+
+---
+
+7. Your Rights Regarding the Personal Data You Provide to Us
+
+---
+
+a. Access Your Data:
+Request a complete copy of the personal data we maintain about you and, if desired, receive that information in a portable format for
+transfer to another data controller.
+
+---
+
+[PAGE BREAK]
+
+---
+
+a. Service Termination: When you terminate your account, personal data that is no longer necessary for the purposes for which it was
+collected will be deleted or irreversibly anonymized.
+
+---
+
+[PAGE BREAK]
+
+---
+
+a. Access Your Data:
+You have the right to request a complete copy of all personal data we hold about you, along with details regarding the purposes of
+processing, the categories of data processed, the recipients to whom the data has been or will be disclosed, the planned retention
+period, and the source of the data (if it was not provided by you).
+
+---
+
+c. Erasure ("Right to be Forgotten"):
+You have the right to request the deletion of your personal data when, under certain conditions, the data is no longer necessary for the
+purposes for which it was collected, or if you withdraw your consent and there is no other legal basis for processing it. Please note that
+this right is subject to applicable legal obligations which may require us to retain certain data.

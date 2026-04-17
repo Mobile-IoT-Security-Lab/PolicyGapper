@@ -1,0 +1,56 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you register with us and use the Application: your full name, email address, username, password, website, links to your social networks (Instagram, Facebook, Twitter, etc.), and your biography.",
+      "justification": "The privacy policy states that user-provided information like 'your biography' and 'links to your social networks' are collected during registration and use of the application.",
+      "how_to_fix": "Declare the collection of 'Other user-generated content' in your app's Data Safety section in the Google Play Console. Also, consider declaring 'Name', 'Email address', 'User IDs', and 'Passwords' as they are explicitly mentioned.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Information you enter into our system when using the Application: such as likes, downloads, artists you follow, and content you interact with.",
+      "justification": "The privacy policy explicitly states that user actions such as 'likes, downloads, artists you follow, and content you interact with' are collected.",
+      "how_to_fix": "Declare the collection of 'Other actions' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Crash Logs and Diagnostics: Information related to crashes and performance issues, including device state information, unique device identifiers, and location information, to help diagnose and fix problems. This data is often processed via third-party services like Firebase Crashlytics.",
+      "justification": "The privacy policy states that 'Crash Logs and Diagnostics' are collected and processed via third-party services, indicating the data is sent off-device.",
+      "how_to_fix": "Declare the collection of 'Diagnostics' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Crash Logs and Diagnostics: Information related to crashes and performance issues, including device state information, unique device identifiers, and location information, to help diagnose and fix problems. This data is often processed via third-party services like Firebase Crashlytics.",
+      "justification": "The privacy policy states that data related to 'performance issues' is collected and processed, which falls under 'Other app performance data'.",
+      "how_to_fix": "Declare the collection of 'Other app performance data' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Categories of Personal Information Collected/Disclosed: In the preceding 12 months, we may have collected and disclosed for a business purpose (and potentially \"sold” or “shared” for advertising purposes) the categories of personal information listed in Section 1 (Identifiers like name, email, device ID, IP address, Advertising ID; Internet or other electronic network activity information like usage data; Geolocation data; Commercial information like transaction history if applicable; Profile data like preferences).",
+      "justification": "The privacy policy mentions the collection of 'Commercial information like transaction history', which is equivalent to 'Purchase history'.",
+      "how_to_fix": "Declare the collection of 'Purchase history' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• Location Information (if enabled): When you use the Application, we may use GPS technology (or other similar technology) to determine your current location (e.g., city level) to personalize content, display relevant advertisements, and improve our services. You can control location access via your device settings or within the Application settings (see Section 8 below).",
+      "justification": "The privacy policy states that location data at the 'city level' may be collected, which corresponds to 'Approximate location'.",
+      "how_to_fix": "Declare the collection of 'Approximate location' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "• Location Information (if enabled): When you use the Application, we may use GPS technology (or other similar technology) to determine your current location (e.g., city level) to personalize content, display relevant advertisements, and improve our services. You can control location access via your device settings or within the Application settings (see Section 8 below).",
+      "justification": "The privacy policy states that 'GPS technology' may be used to determine the user's current location, which corresponds to 'Precise location'.",
+      "how_to_fix": "Declare the collection of 'Precise location' in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

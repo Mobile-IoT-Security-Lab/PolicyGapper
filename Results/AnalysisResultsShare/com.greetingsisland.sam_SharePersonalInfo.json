@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "In the last 12 months we have \"sold\" or \"shared\" or processed for targeted advertising, Internet or other electronic network activity information, Geolocation Data, and Commercial Information of Users with our analytics and advertising partners and service providers.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "We use device-specific information (such as your hardware manufacturer & model, operating system version, screen size, CPU model, mobile network information and installed apps) to implement app features, provide our services, and improve the app performance for all our users.",
+      "justification": "The policy explicitly states that 'installed apps' are collected and used to 'provide our services, and improve the app performance', indicating the data is sent off-device for processing.",
+      "how_to_fix": "Declare 'Installed apps' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We use the Replicate server to process facial data. We will save the user's facial image on our own Google server and also upload it to the Replicate server.",
+      "justification": "The policy states that the user's 'facial image', a form of user-generated content, is saved on a 'Google server' and uploaded to a 'Replicate server', confirming it is sent off-device.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "For some apps using account system like KeepSafe, If you want to delete your account data, you can go to step \"Me Page -> Settings(or click Setting button) -> Log out\" to leave our app. Then you can contact us by email(you must provide your Facebook email or the email you have bind to our apps, which for us to find your account), we will help you delete your account data stored in our apps.",
+      "justification": "The policy requires users to send their 'email' to the developer to process an account deletion request. This constitutes off-device collection.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "For some apps using account system like KeepSafe, If you want to delete your account data, you can go to step \"Me Page -> Settings(or click Setting button) -> Log out\" to leave our app. Then you can contact us by email(you must provide your Facebook email or the email you have bind to our apps, which for us to find your account), we will help you delete your account data stored in our apps.",
+      "justification": "The policy states that an email address is used to 'find your account'. An email used for account identification is considered a 'User ID' and is sent off-device to the developer.",
+      "how_to_fix": "Declare 'User IDs' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We use the Replicate server to process facial data. We will save the user's facial image on our own Google server and also upload it to the Replicate server.",
+      "justification": "The policy explicitly states that the user's 'facial image' (a photo) is saved on a 'Google server' and uploaded to a 'Replicate server', confirming it is sent off-device.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

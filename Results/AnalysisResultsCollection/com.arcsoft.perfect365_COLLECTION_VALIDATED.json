@@ -1,0 +1,49 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "Predicted or actual data about a user such as age, gender, date of birth, street address; predicted or actual characteristics or interests; and any information that users provide to us or to our users.",
+      "justification": "The privacy policy explicitly states that 'street address' is collected.",
+      "how_to_fix": "Declare 'Address' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Information. If you complete an in-app purchase through an Application using either a traditional payment method or virtual currency, we or our third-party payment or virtual currency processors collect information necessary to process and facilitate your transactions, including: The date, time, and amount of a transaction For traditional payment transactions, payment (e.g., credit card) and billing information. For virtual currency transactions, information identifying your account information and the account you are transacting with, your public wallet address, your account balance, your transaction history, blockchain transaction identifiers (e.g., the transaction hash), and the public wallet address of payers and payees. You should be aware that when you earn and spend using virtual currency, your blockchain transactions will be publicly visible to anyone who has access to the blockchain.",
+      "justification": "The privacy policy states that for traditional payments, 'payment (e.g., credit card) and billing information' is collected by the developer or their third-party processors, which constitutes collection.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Payment Information. If you complete an in-app purchase through an Application using either a traditional payment method or virtual currency, we or our third-party payment or virtual currency processors collect information necessary to process and facilitate your transactions, including: The date, time, and amount of a transaction For traditional payment transactions, payment (e.g., credit card) and billing information. For virtual currency transactions, information identifying your account information and the account you are transacting with, your public wallet address, your account balance, your transaction history, blockchain transaction identifiers (e.g., the transaction hash), and the public wallet address of payers and payees. You should be aware that when you earn and spend using virtual currency, your blockchain transactions will be publicly visible to anyone who has access to the blockchain.",
+      "justification": "The privacy policy states that 'transaction history' and 'The date, time, and amount of a transaction' are collected, which constitutes purchase history.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "Payment Information. If you complete an in-app purchase through an Application using either a traditional payment method or virtual currency, we or our third-party payment or virtual currency processors collect information necessary to process and facilitate your transactions, including: The date, time, and amount of a transaction For traditional payment transactions, payment (e.g., credit card) and billing information. For virtual currency transactions, information identifying your account information and the account you are transacting with, your public wallet address, your account balance, your transaction history, blockchain transaction identifiers (e.g., the transaction hash), and the public wallet address of payers and payees. You should be aware that when you earn and spend using virtual currency, your blockchain transactions will be publicly visible to anyone who has access to the blockchain.",
+      "justification": "The privacy policy states that for virtual currency transactions, 'public wallet address', 'account balance', and 'blockchain transaction identifiers' are collected.",
+      "how_to_fix": "Declare 'Other financial info' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Your content (e.g., photos, facial scans, comments, and other materials) that you post or upload to an Application",
+      "justification": "The privacy policy states that 'photos' that users 'post or upload' are collected. Uploading data means it is sent off the device.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "We may access metadata and other information associated with other files stored on your device. This may include, for example, your photographs in order to provide the functionality of the Applications.",
+      "justification": "The policy states the app may 'access...files stored on your device'. Since it does not explicitly state this data is only processed locally and not sent off-device, it must be declared as collected.",
+      "how_to_fix": "Declare 'Files and docs' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

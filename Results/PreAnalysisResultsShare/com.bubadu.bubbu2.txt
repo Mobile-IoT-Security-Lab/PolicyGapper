@@ -1,0 +1,1063 @@
+Contextual advertising. In order to offer some of our Apps for
+free, we show you ads from third party advertisers, that are
+based on the content of the App you are using (“contextual ads”).
+Since we do not track our users, we will never show you ads
+based on your behavior or interest.
+
+---
+
+We engage third party ad network providers ("Advertising
+Providers") who assist us in delivering advertisements (banners,
+interstitials, rewarded videos) to you. We have integrated
+Advertising Providers' SDKs (a piece of code) into our Apps
+enabling us to connect ad networks to run in-app ads and to
+collect the Information needed to display advertisements. The
+Information is used for ad serving features such as frequency
+capping (so that you are not displayed with the same ad twice
+etc.) and ad mediation. The Information may be stored on your
+device through generally accepted industry technologies used
+within our Apps (such as local storage).
+
+---
+
+Our Apps may contain links to third party websites, products, or
+services. For example, the Apps may feature offers from third
+party advertisers or the ability to engage in transactions with
+such entities. Please note that while using such third party
+offerings, you are using sites, products, and services developed
+and administered by people or companies not affiliated with or
+controlled by us. We are not responsible for the actions of those
+people or companies, the content of their sites, products or
+services, the use of information you provide to them, or any
+
+--- [PAGE BREAK] ---
+
+products or services they may offer. Our link to such third parties
+does not constitute our sponsorship of or affiliation with, those
+people or companies. Nor is such linking an endorsement of such
+third party's privacy or information security policies or practices
+or their compliance with laws. Information collected by third
+parties, which may include such things as location information or
+contact details, is governed by their privacy practices. These
+other websites or services may place their own cookies or other
+files on your computing device, collect information or solicit
+personal information from you. We encourage you to learn about
+the privacy practices of third parties with which you interact. We
+are not responsible or liable for your interaction with such third
+parties, the information requests initiated by such third parties,
+or the subsequent use, treatment or dissemination of the
+information you voluntarily choose to provide to them.
+
+---
+
+FOR INTERNAL ANALYTICS AND DIAGNOSTICS
+We check how you use our Apps and Services with the help of
+third party analytics providers (the “Analytics Providers") and by
+processing Analytical Information (please see section "The data
+we collect" of this Policy) to constantly improve our Apps and
+make them better for you. With the help of identifiers, such as
+analytics IDs, namely, Bubadu Identifier, Firebase Installation ID,
+App Set ID (Android) and IDFV (iOS) assigned to your device we
+can collect Analytical Information and use it to understand and
+optimize how our Apps are used, improve our marketing efforts,
+provide content and features that are of interest to you, and
+conduct statistics, analytics, research and development in order
+to continuously improve our Apps and make them better for you.
+This includes correcting technical malfunctions, customization,
+providing better and improved content, developing new offers,
+measuring traffic and usage of our Apps, promoting the Apps
+and improving the user experience. We do not process any
+information which could directly identify you. We use data log
+files (IP address, app version, date, OS version, requests, states
+etc.) and information about your activity within the Apps for
+internal analytics to improve our Apps.
+
+---
+
+We choose our Analytics Providers carefully and require them to
+comply with applicable legislation. To learn what Analytics
+
+--- [PAGE BREAK] ---
+
+providers we use please see the section 'Who has access to your
+data' of this policy.
+
+---
+
+DISCLOSURE FOR LEGAL PURPOSES
+We may also disclose information in the following cases:
+• if required by law, for example, to comply with a court order,
+subpoena, regulation, legal process or other governmental
+request;
+• to exercise or protect the rights, property or personal
+safety of the Company, our users or others;
+• to enforce this privacy statement, including investigation of
+potential violations thereof;
+
+--- [PAGE BREAK] ---
+
+•
+upon fulfilling legal requirements of local legislation (for
+example verifiable parental consent of a legal guardian for
+child directed apps in the US etc.) in order to supply certain
+services/information third party might legally request from
+US;
+• to detect, prevent, or otherwise address fraud, security or
+technical issues;
+• If Bubadu is involved in a merger, acquisition, or sale of all
+or a portion of its assets, you will be notified of any change
+in ownership or uses of your information via our website;
+• to respond to claims that any content published on the
+Bubadu Apps violates any right of a third party
+
+---
+
+IP ADDRESS. We will collect your IP address on third party web
+servers for security reasons to help us detect and prevent
+fraudulent activity and to get the country information needed
+for cross promotion.
+
+---
+
+ANALYTICS IDENTIFIER. The analytics provider Firebase
+Analytics (GA4F) automatically generates and assigns a Firebase
+Installation ID (app-installation ID) to identify a unique
+installation of our App. The Firebase Installation ID is used to
+compute your metrics throughout analytics. The analytics
+provider Singular uses analytics identifiers, namely App Set ID
+
+--- [PAGE BREAK] ---
+
+(Android) and IDFV (iOS). We use Bubadu Identifier to perform
+analytics for cross promotion purposes.
+
+---
+
+ADVERTISING DATA
+We use the "do not track" option for all our Apps which means
+that we do not collect advertising identifiers (such as Android
+Advertising ID and Advertising Identifier for iOS) and do not pass
+them to advertisers.
+We have integrated Advertising Providers' SDKs (a piece of code)
+into our Apps enabling us to connect ad networks to run in-app
+ads and to collect the Information needed to display
+advertisements such as IP address, location data (specific
+enough to identify a state for cross promo ads and city for
+
+--- [PAGE BREAK] ---
+
+analytics), raw data log files on servers (IP address, date, time,
+requests, state etc.), data about the add (campaign id, creative,
+country, Bubadu Identifier (not shared with advertisers), date,
+timestamp, app, orientation, store, status of the ad – requested,
+loaded, displayed, clicked ad). Contextual advertising can come
+from the type of device being used, the game/app genre, or the
+selected language.
+
+---
+
+We analyze advertisement response (including clicks on ads, if it
+originated a follow-up action to a third party e.g., "conversion"
+event), which advertisements are shown, the date and time a
+particular ad is served, angle view, and information about the
+advertisements reviewed by the user.
+
+---
+
+Our Advertising Providers collect data regarding advertisement
+performance, user interaction with ads and our Apps. For more
+information please read the section “Who has access to your
+data".
+
+---
+
+We use StoreKit Ad Network, or SKAdNetwork, a privacy-centric
+API operated by Apple. It helps ad networks and advertisers
+measure their ad activity (such as impressions, clicks, and app
+installs) on an aggregated level.
+
+--- [PAGE BREAK] ---
+
+We perform analytics with the help of identifiers, namely IP
+address and analytics provider's unique ID, namely, Firebase
+Installation ID assigned to your device for Google Analytics, App
+Set ID (Android) and IDFV (iOS) for Singular and Bubadu Identifier.
+
+--- [PAGE BREAK] ---
+
+Our Practices for Disclosing Children's Information
+We do not share, sell, rent, or transfer children's personal
+information other than as described in this section.
+We may disclose aggregated information about many of our
+users, and information that does not identify any individual or
+device. In addition, we may disclose children's personal
+information:
+• To third parties we use to support the internal operations
+of our App/Service and who are bound by contractual or
+
+--- [PAGE BREAK] ---
+
+other obligations to use the information only for such
+purpose and to keep the information confidential.
+• If we are required to do so by law or legal process, such as
+to comply with any court order or subpoena or to respond
+to any government or regulatory request.
+• If we believe disclosure is necessary or appropriate to
+protect the rights, property, or safety of Bubadu, our
+customers or others, including to:
+○ protect the safety of a child;
+○ protect the safety and security of the App/Service; ог
+○ enable us to take precautions against liability.
+• To law enforcement agencies or for an investigation related
+to public safety.
+
+---
+
+If Bubadu is involved in a merger, divestiture, restructuring,
+reorganization, dissolution, or other sale or transfer of some or
+all of Bubadu's assets, whether as a going concern or as part of
+bankruptcy, liquidation, or similar proceeding or event, we may
+transfer the personal information we have collected or maintain
+to the buyer or other successor.
+
+---
+
+Who receives or maintains Information from Children
+A list of all Providers that may collect or maintain personal
+information from children through the App/Service is available
+within the 'Third Party Service Providers' section. Please direct
+inquiries about any third-party operator's privacy practices and
+use of children's information through the contact information
+provided within their privacy policy.
+
+--- [PAGE BREAK] ---
+
+Kids Privacy Assured by PRIVO: COPPA Safe Harbor
+Certification
+Bubadu d.o.o. is a member of the PRIVO Kids Privacy Assured
+COPPA Safe Harbor Certification Program ("the Program"). The
+Program certification applies to the digital properties listed on
+the validation page that is viewable by clicking on the PRIVO seal.
+PRIVO is an independent, third-party organization committed to
+safeguarding children's information collected online. The PRIVO
+COPPA certification seal posted on this page indicates Bubadu
+d.o.o. has established COPPA compliant privacy practices and has
+agreed to submit to PRIVO's oversight and consumer dispute
+resolution process. If you have questions or concerns about our
+privacy practices, please contact us at +38617096 060 ог
+privacy@bubadu.com. If you have further concerns after you
+have contacted us, you can contact PRIVO directly at
+privacy@privo.com.
+
+---
+
+IV. WHO HAS ACCESS TO YOUR DATA
+We cannot provide all the services necessary for the successful
+operation of our Apps by ourselves. We therefore engage third
+party service providers (“Providers”) and enable them to collect
+some Information from you. We strive to obligate our Providers
+to comply with this Policy, but we cannot provide any guarantee
+on their behalf. We adhere to the generally accepted industry
+practices regarding the collection and usage of Information by
+
+--- [PAGE BREAK] ---
+
+our Providers and strive to limit their usage to the services they
+provide for us. We have entered into Data Processing
+Agreements with our Providers to make sure your data is safe.
+
+---
+
+When using third party services, you adhere to their data
+processing practices, as defined in their privacy policies available
+below. We encourage you to read the privacy policies before
+using such services. You recognize and agree that Bubadu is not
+liable for the Provider's terms and conditions and their use of
+your Information. If you for example click on the ad within our
+App and get redirected to a third-party site, your data processing
+will be governed by such third party provider's terms and privacy
+policy. For more information on the third party provider data
+processing practices, please read their privacy policies.
+
+---
+
+By voluntarily signing into Providers' functionalities within our
+App, you allow the usage of your data to such third parties.
+
+---
+
+PAYMENT PROVIDERS
+In-App purchases. Our Apps enable in-app purchases. We do not
+process payments for in-app purchases nor have access to your
+credit card information. Payment transactions for in-app
+purchases are completed through the app store via your app
+store account. Any post-purchases are controlled by the selected
+app store and are subject to specific terms of such app store.
+Please review the privacy policy and terms of service of your app
+store.
+
+---
+
+In order to make a purchase you must use our third party
+checkout options to finalize and pay for your order. In-app
+purchases may be made only upon entering the app store
+password and you are responsible for maintaining the security
+of such password. Your authentication and security maintenance
+is subject to specific terms of the selected app store and the OS
+of your mobile device. You should be aware of the iOS 15-minute
+and Android 30-minute window after the payment downloading
+of an Application, during which in-app purchases may be made
+without inserting an in-app store password.
+
+--- [PAGE BREAK] ---
+
+Apple App Store. If you choose to use the App Store to finalize
+and pay for your order, you will provide your credit card number
+directly to Apple. Apple's Privacy Policy will apply to the
+information you provide to Apple, available here
+http://www.apple.com/legal/privacy/.
+
+---
+
+Amazon. If you choose to use Amazon to finalize and pay for
+your order, you will provide your credit card number directly to
+Amazon. Amazon's Privacy Policy will apply to the information
+you provide to Amazon, available here
+https://www.amazon.in/gp/help/customer/display.html?
+nodeId=202136010.
+
+---
+
+Huawei AppGallery. If you choose to use the Huawei AppGallery,
+please read their User Agreement and Privacy Statement
+available here
+https://privacy.consumer.huawei.com/legal/hiapp/terms.htm?
+country=DE&branchid=1&language=en GB, and
+https://privacy.consumer.huawei.com/legal/hiapp/privacy-
+statement.htm?country=DE&branchid=2&language=en_ GB.
+
+---
+
+Google Play. If you choose to use Google Play by Google Inc.,
+please read their Privacy Policy
+(https://policies.google.com/privacy) and Terms of Service
+(https://play.google.com/intl/ALL_uk/about/play-terms/).
+
+---
+
+APP MARKETPLACES
+You can find our Apps on different marketplaces.
+
+---
+
+App Store. If you choose to use the App Store from Apple Inc.,
+please read the Apple Customer Privacy Policy
+(https://www.apple.com/legal/privacy/) and Terms of Use
+(https://www.apple.com/legal/internet-services/terms/site.html).
+
+---
+
+Google Play. If you choose to use Google Play by Google Inc.,
+please read their Privacy Policy
+(https://policies.google.com/privacy) and Terms of Service
+(https://play.google.com/intl/ALL_uk/about/play-terms/).
+
+--- [PAGE BREAK] ---
+
+Huawei AppGallery. If you choose to use the Huawei AppGallery,
+please read their User Agreement and Privacy Statement
+available here
+https://privacy.consumer.huawei.com/legal/hiapp/terms.htm?
+country=DE&branchid=1&language=en_GB, and
+https://privacy.consumer.huawei.com/legal/hiapp/privacy-
+statement.htm?country=DE&branchid=2&language=en_GB.
+
+---
+
+Amazon Appstore. If you choose to use Amazon Appstore by
+Amazon.com Services LLC, please read Amazon Appstore for
+Android Terms of Use
+(https://www.amazon.com/gp/help/customer/display.html?
+nodeId=201485660) and Amazon.com Privacy Notice
+(https://www.amazon.com/gp/help/customer/display.html?
+nodeId=GX7NJQ4ZB8MHFRNJ).
+
+---
+
+ADVERTISING PROVIDERS
+We use third party ad network providers ("Advertising providers")
+to show ads within our Apps and Services. We select Advertising
+Providers attentively to maintain compliance with applicable
+privacy laws hence we only allow the display of contextual
+advertisements that are child directed within our Apps.
+Furthermore, we flag to Advertising Providers that users of our
+Apps fall into the child directed to ensure our Advertising
+Providers can comply with child protection legislation, namely
+COPPA restrictions in the US territory. This means they are
+allowed to use your Information (if any) solely for the purposes
+of internal operations and contextual advertising but are
+prohibited from contacting a user, including through behavioral
+advertising; to amass a profile on a user or use the Information
+for any other purpose.
+
+---
+
+Our Advertising Providers are allowed to use the Information
+collected through the SDK to provide contextual advertisements,
+conduct ad mediation, support internal operations and improve
+their products by conducting research and analysis with the use
+of advertising information to understand and optimize how the
+advertisements are used. Our Advertising Providers may use
+cookies and other web-tracking technologies to collect non-
+personal information in case the user clicks on any of their
+advertisements.
+
+--- [PAGE BREAK] ---
+
+We have contracted with certain third party advertising
+networks that assist us in delivering advertising to you.
+
+---
+
+EEA territory. For the purposes of compliance with European
+data processing legislation, such as the General Data Protection
+Regulation (the “GDPR'), we have entered into Data Processing
+Agreements with Advertising Providers and provide the
+possibility for users to exercise their GDPR rights (see section
+'Your rights'). Some of our Advertising Providers store or transfer
+data outside EEA. The data is transferred to countries with a
+current determination of adequacy, such as the EU-US Data
+Privacy Framework (DPF) and similar adequacy decisions
+between countries, adhering to Binding Corporate Rules,
+Standard contractual clauses approved by the European
+Commission or other appropriate safeguards to protect the
+transfer of the data,
+
+---
+
+List of Advertising Providers that we engage:
+
+---
+
+Kidoz. Kidoz is the leading COPPA & GDPR compliant contextual
+mobile advertising network. Kidoz SDK, which is integrated into
+our Apps, is a piece of software that allows us to provide you
+with customized advertisements designated to children, both in
+terms of children's safe content, as well as in terms of data
+collection. Meaning, that Kidoz will not collect through their SDK
+any Personal Data without parental consent, except as permitted
+under applicable law and detailed below. Kidoz does NOT use any
+Personal Information collected for profiling (e.g., behavioral
+advertising) or cross device tracking. Kidoz solely serves
+contextual ads (e.g., if you are interacting with a painting app,
+they will present advertisements related to painting). In case
+Kidoz needs to collect any other Personal Information, which is
+not listed in their privacy policy, Kidoz will ensure parental
+consent is obtained before doing so, in the event required by
+applicable law.
+
+--- [PAGE BREAK] ---
+
+Kidoz collects Non-Personal Information: your aggregated usage
+information and technical information transmitted by your
+device, including: (i) certain software and hardware information
+such as type of operating system, type of device, language
+preference, etc.; and (ii) approximate geo-location (Country), and
+Personal Information: certain identifiers, such as your Internet
+Protocol ("IP") addresses (the addresses of computers on the
+Internet), or Advertising ID, IDFA (“Identifiers”), if you give the
+permission. For more information on what data Kidoz collects
+and how it uses it please read https://kidoz.net/privacy-
+policies#safe-ad-policy and https://kidoz.net/website-and-
+kidoz-sdk-privacy-policy.
+
+---
+
+Google AdMob. AdMob is a mobile advertising subsidiary of
+Google. AdMob automatically blocks any ad sources that haven't
+been self-certified by Google Play from serving ads in apps that
+are designed specifically for children. For this purpose, we have
+included a code that calls a specific method for ad requests
+served to children and specifies the maximum ad content rating.
+To learn more about Google AdMob please read Google Ads Data
+Protection Terms (https://business.safety.google/adsservices/).
+
+---
+
+Unity Ads. We use Unity Ads ad network provider to show you
+contextual ads within our App and Services. Since our Apps are
+child oriented we have sent a signal to Unity which indicates that
+Unity needs to limit data collection and serve non-personalized
+ads. For this purpose, Unity has reduced its data collection for its
+Ads Service. In such instances, they will only collect the Personal
+Information listed below. Unity collects this Personal Information
+for internal operations and their legitimate interests in providing
+the Service to us.
+• IP address is used to provide a compliant experience
+suitable for your region.
+•
+Unique Installation-specific ID is used for operational
+purposes related to the serving of contextual
+advertisements.
+For more information please read Game Player and App User
+Privacy Policy, https://unity.com/legal/game-player-and-app-
+user-privacy-policy.
+
+--- [PAGE BREAK] ---
+
+Vungle. We use Vungle as an ad network provider to show you
+contextual ads within our App and Services. As required by
+COPPA, Vungle will enable a flag in their system because we have
+indicated that our Apps are subject to COPPA, meaning that your
+device history will be disassociated, and the only personal
+information used by the Vungle Ad Services would be persistent
+identifiers (e.g., IP address and other identifiers) to provide
+"support for internal operations" of the Vungle Ad Services (as
+permitted by COPPA). To learn more about what information
+Vungle collects through Vungle's SDK please read their privacy
+notice https://vungle.com/privacy.
+
+---
+
+ironSource. We use the ironSource ad network, owned by
+ironSource Mobile Ltd., in order to show you contextual ads
+within our Apps and Services. ironSource uses and shares the
+data that they collect (including the advertising ID if obtained
+based on your permission and IP address) from a child-directed
+app only to serve contextual ads, for frequency capping, for
+fraud prevention, and for other activities to support our internal
+operations or the internal operations of the app, as permitted by
+the COPPA and other applicable regulations. ironSource supports
+Google Play's “Designed For Families" program requirements for
+publishers who have followed the ironSource Designed for
+Family SDK Functionality instructions. ironSource will not share
+persistent identifiers with third party external bidders such as
+DSPs, SSPs, exchanges, and marketplaces, except if specifically
+directed by us for support for internal operations as defined by
+the COPPA. For more information please read
+https://developers.ironsrc.com/ironsource-
+mobile/air/ironsource-mobile-privacy-policy.
+
+---
+
+SuperAwesome: SuperAwesome Trading Limited
+("SuperAwesome”) is a provider of kid-safe advertising services
+that are designed specifically for the compliance requirements
+of younger audiences, including those aged under 13.
+SuperAwesome places contextual advertising on applications
+without collecting any personally identifiable information,
+including persistent identifiers. SuperAwesome is certified as
+COPPA-compliant by the kidSAFE Seal Program, an FTC-Approved
+COPPA Safe Harbor Program. Please go to www.kidsafeseal.com
+for more information. SuperAwesome is a valid licensee, and
+
+--- [PAGE BREAK] ---
+
+participating member, of the Entertainment Software Rating
+Board's Privacy Certified Program (“ESRB Privacy Certified"). To
+protect your privacy, SuperAwesome has voluntarily undertaken
+this privacy initiative, and its services have been reviewed and
+certified by ESRB Privacy Certified to meet established online
+information collection, use and disclosure practices. As a licensee
+of this privacy program, SuperAwesome's services are subject to
+frequent audits and other enforcement and accountability
+mechanisms administered independently by ESRB Privacy
+Certified. SuperAwesome also provides advertising services in
+compliance with the General Data Protection Regulation (EU
+1996/679). Adopting an approach of 'privacy by design and by
+default, SuperAwesome utilises proprietary technologies so that
+it neither collects, stores nor shares your personal data to
+provision advertisements or target advertising to you. You may
+contact SuperAwesome directly
+at privacy@superawesome.com on + 44 203 668 6677, or by post:
+Privacy Team, SuperAwesome Trading Limited, 22 Long Acre,
+London WC2E 9LY, United Kingdom.
+
+---
+
+Mintegral. Mintegral, owned by Mintegral International Limited,
+is a global mobile advertising platform, providing user
+acquisition, monetisation and creative solutions for advertisers
+and mobile publishers. Mintegral's COPPA solution is designed so
+that any persistent identifiers collected about you are processed
+according to the requirements of COPPA and not used to serve
+behaviorally-targeted ads or track users for such purposes. In
+addition, Mintegral will not knowingly collect any other personal
+information under COPPA (such as the precise geolocation of
+your device) from you. For more information about kids safety
+please read https://www.mintegral.com/en/blog/mintegral-
+passes-kidsafe-coppa-seal-annual-audit. To learn about what
+information Mintegral collects and how it uses it, please read
+Mintegral's privacy policy
+https://www.mintegral.com/en/privacy#privacy-policy-of-the-
+mintegral-services.
+
+---
+
+Petal ads. Petal Ads is an ads platform provided by Aspiegel SE, a
+subsidiary of Huawei incorporated in Ireland, that we use to
+serve ads on HUAWEI apps. The Aspiegel SE and Petal Ads
+participate in the IAB Europe Transparency & Consent
+
+--- [PAGE BREAK] ---
+
+Framework and comply with its Specifications and Policies.
+Aspiegel's identification number within the framework is 856.
+Aspiegel also operates a private Consent Management Platform
+with the identification number 386, which is used by different
+Huawei Mobile Services apps provided by Aspiegel. Aspiegel
+collects and uses the following personal data for the purposes of
+Petal Ads. Please read Statement About Petal Ads and Privacy
+https://privacy.consumer.huawei.com/legal/ads/privacy-
+statement.htm?&code=EU&language=en-
+us&branchid=0&contenttag=default and Statement About
+HUAWEI ID and Privacy for more information.
+
+---
+
+Digital Turbine. Digital Turbine, owned by Digital Turbine, Inc. is
+an advertising platform that we use to show you ads within our
+Apps. Digital Tribune collects device and other IDs and uses this
+information for the purposes of analytics, fraud prevention,
+security and compliance and to serve non-personalised
+advertising. For more information please read DT Privacy Notice
+(https://www.digitalturbine.com/dt-clients-privacy-
+policy/# heading=h.17dp8vu) and Privacy documents available at
+https://developer.digitalturbine.com/hc/en-
+us/sections/360002877558-Privacy.
+
+---
+
+ANALYTICS PROVIDERS
+Google Analytics 4 (GA4F). We use Google Analytics for
+Firebase (GA4F) SDK and Big Query to collect data on the usage
+of our Apps. We use your data only for the purposes of our
+internal analytics to improve our Apps and we do not allow
+sharing of your data with other parties and their products or
+services.
+
+---
+
+GA4F collects the following information through the default
+implementation: number of users, session statistics,
+approximate geolocation, browser and device information. See a
+full list of the default events and user properties collected by
+GA4F. GA4F also collects enhanced measurement events (when
+enabled) from web data streams and in-app purchases from app
+data streams.
+
+--- [PAGE BREAK] ---
+
+GA4F SDK automatically generates and assigns a Firebase
+Installation ID (the “Installation ID) to each instance of our App.
+GA4F uses the Installation ID to identify unique installations of
+our App and compute your metrics. Learn more about the app-
+instance ID. GA4F uses Installation IDs to track particular
+audiences. Data associated with Installation IDs is
+generally not personally-identifying, but is associated with a
+device and used to identify the same device, and events the
+device performs.
+
+---
+
+The SDK collects identifiers for mobile devices (for example,
+Android Advertising ID and Advertising Identifier for iOS) based
+on your consent and uses technologies similar to cookies.
+
+---
+
+On iOS, the SDK collects the Advertising Identifier (IDFA) if it is
+available. On Android, the SDK collects the Advertising ID by
+default based on your consent. If the Advertising ID is not
+available it will collect Android ID (SSAID). Any attempts to access
+the identifier will receive a string of zeros instead of the
+identifier.
+
+---
+
+When GA4F collects measurement data, all IP lookups are
+performed on EU-based servers before forwarding traffic to
+GA4F analytics servers for processing.
+
+---
+
+To get more information about how your data is being collected
+and processed you can visit the site “How Google uses data when
+you use our partners' sites or apps located at
+https://policies.google.com/technologies/partner-sites.
+
+--- [PAGE BREAK] ---
+
+Firebase relies on Standard Contractual Clauses approved by the
+European Commission which are incorporated into contracts for
+relevant data transfers.
+
+---
+
+Google Big Query. We can draw and analyse data from Firebase
+Analytics using Google BigQuery. For more information, please
+see Google Service Specific Terms.
+
+---
+
+Singular. We use Singular, owned by Singular Labs, Inc. as a
+Marketing Analytics and Attribution provider. In order to provide
+the services to us, they process some personal information. They
+do this as a data processor (also known as a service provider) on
+our behalf and under our instructions.
+
+---
+
+Generally, Singular processes personal data regarding the
+behavior and usage patterns of our end-users of mobile
+applications and other mobile properties operated by us. Subject
+to our discretion, the personal data processed by Singular can
+include, among others, your IP address, Android device ID (App
+Set ID), iOS device ID (IDFV) carrier user “ID”, and geo-location
+information. For more info please read their privacy policy
+https://www.singular.net/privacy-policy/.
+
+---
+
+STORAGE PROVIDERS
+Digital Ocean
+We use Digital Ocean services to store the data on their servers
+based in the US. DigitalOcean is committed to protecting your
+information. To do so, they employ a variety of security
+technologies and measures designed to protect information
+from unauthorized access, use, or disclosure. The measures they
+use are designed to provide a level of security appropriate to the
+risk of processing your personal data.
+
+--- [PAGE BREAK] ---
+
+With respect to Personal Data of Data Subjects located in the
+EEA, Switzerland, or the United Kingdom that Bubadu transfers
+to DigitalOcean or permits DigitalOcean to access, we have
+agreed that by executing the DPA they also execute the Standard
+Contractual Clauses, which will be incorporated by reference and
+form an integral part of the DPA.
+
+---
+
+Webserver Providers
+We use third party Webserver Providers, namely Cloudflare to
+store your IP address for the purposes of security to help us
+detect and prevent fraudulent activity. These services may
+collect your information when you use our services, web
+applications, and APIs. The information may include but is not
+limited to IP addresses, traffic routing data, system configuration
+information, and other information about traffic to and from our
+Apps (collectively, “Customer Logs”). The Webserver Providers
+collect and use Customer Logs to operate, maintain, and improve
+their Services for the purpose of providing security. For example,
+Customer Logs can help us detect new threats, identify malicious
+third parties, and provide more robust security protection for
+our services. Where Webservers Providers use information
+collected from Resolver Users to operate and improve the
+Cloudflare Resolver, such as to assist us in our debugging efforts
+if an issue arises, they will not combine the information collected
+from DNS queries with any other data in any way that can be
+used to identify individual end users. Cloudflare is a data
+processor for Customer Logs, and processes such information
+based on our instructions, meaning that Bubadu is the controller
+of such data. Some of the Webserver Providers store or transfer
+data outside EEA. Whenever a Cloudflare company transfers
+personal information originating in the EEA, the UK, oг
+Switzerland with another member of the Cloudflare group or a
+third party service provider or partner outside the EEA, the UK, oг
+Switzerland, they will implement appropriate safeguards,
+consistent with the laws of the territory from which the data is
+
+--- [PAGE BREAK] ---
+
+exported. For example, where transfers are made from the EEA,
+we rely on the EU standard contractual clauses, including
+supplementary measures as necessary. Please see these
+providers' privacy policies for more
+info: https://www.cloudflare.com/privacypolicy.
+
+---
+
+VIDEO SHARING PROVIDERS
+YouTube. We use YouTube, owned by Google LLC, to share and
+show videos about our Apps on our website
+(https://bubadu.com/). Our YouTube channel is set as Made For
+Kids, this limits data collection when you watch our videos and
+prevents personalised adverts being shown. For more
+information please read Google's Privacy Policy
+(https://policies.google.com/privacy?hl=en-GB).
+
+---
+
+If you have chosen to block third-party cookies via your browser,
+cookies will not be stored on your device.
+
+---
+
+Most third-party cookies can be blocked by activating the setting
+on your browser that allows you to refuse the setting of all or
+some cookies. Some people prefer not to allow cookies, which is
+why most browsers give you the ability to manage cookies to suit
+you. For more information on how to modify your browser
+settings or how to block, manage, delete or filter cookies can be
+found in your browser's help file or through such sites
+as: https://www.aboutcookies.org.uk/.
+
+--- [PAGE BREAK] ---
+
+OPT OUT OF THIRD PARTY PROVIDERS
+
+--- [PAGE BREAK] ---
+
+You are always free to opt out of the information collection by
+Third Party Providers by not logging in or using their services.
+Please note that you cannot opt out of Providers, that we use to
+offer you the Services, for example, Storage Providers. If you
+don't agree with such usage please don't use our Services.
+
+---
+
+When you use our free App version you have the right to object
+to data processing for advertising by choosing the option
+"Remove Ads" within your in-App settings and paying the 'No ads'
+fee or by buying the App feature that includes the ‘Remove ads'
+option' or subscribing to a VIP subscription. When you choose
+this option we disable any future third party advertising and stop
+sharing and using your data for advertising.
+
+--- [PAGE BREAK] ---
+
+You have the right to data portability, i.e. to receive your data in
+a structured, common and machine-readable format and to
+transmit it or have it transmitted to another data controller.
+
+---
+
+CALIFORNIA RESIDENCE PRIVACY INFORMATION (CCPA
+RIGHTS)
+If you are a California resident, the California Consumer Privacy
+Act (CCPA), as amended by the California Privacy Rights Act (CPR)
+requires us to provide you with some additional information
+regarding your rights with respect to your "personal information".
+We may transfer your personal data to third party providers in
+order to achieve the purposes of the processing listed in the
+section "How we use your data" above. Third party providers act
+as service providers (data processors on our behalf) meaning
+
+--- [PAGE BREAK] ---
+
+that they are not allowed to use your data for their own
+purposes. Please see the section “Who has access to your data" to
+learn about what third party processors we use.
+
+--- [PAGE BREAK] ---
+
+We may transfer your personal data to third party processors in
+order to achieve the purposes of the processing listed in 'How we
+use your data' above, but only with the third-party processors
+with whom we have a data protection agreement in place. A full
+list of our third-party processors can be found in section ‘Third
+Party Services Providers. We may also share your personal
+information by disclosing it to a third party for a business
+purpose, and for any other purpose with your consent. We only
+make these business purpose disclosures under written
+contracts that describe the purposes, require the recipient to
+keep the personal information confidential, and prohibit using
+the disclosed information for any purpose except performing
+the contract. In the preceding twelve (12) months, we have
+disclosed personal information for a business purpose to the
+categories of third parties indicated in the chart below.
+
+---
+
+| Personal Information Category | Category(ies) of Third-Party Recipients | Business Purpose |
+|---|---|---|
+| A: Identifiers. | Service providers. | To provide our Services to you, perfrom Internal Analytics and Contextual Advertising. |
+
+--- [PAGE BREAK] ---
+
+| F: Internet or other similar network activity. | Service providers. | To provide our Services to you, perfrom Internal Analytics and Contextual Advertising |
+
+--- [PAGE BREAK] ---
+
+Right to request disclosure of any personal information we
+collect. This means in particular that you have:
+• the right to request disclosure of the categories of
+personal information we collected from you, together with
+the categories of sources from which it was collected
+(please see above),
+• the purpose of the collection (please see above),
+• the categories of third parties with whom we shared your
+personal information (please see above), and
+• the specific pieces of personal information that have been
+collected (please see the section above).
+
+---
+
+Right to request deletion of any personal information that
+we collected from you. This means that after we have verified
+your request to delete your personal information, we shall delete
+it from our records and direct any service providers to delete
+your personal information from their records, except when
+Article 1798.105 (d) CCPA is applicable (e.g. in case the personal
+information is necessary to provide the Services, to detect
+security incidents, to identify and repair errors that impair
+existing intended functionality of the Services, or to comply with
+a legal obligation).
+
+--- [PAGE BREAK] ---
+
+Right to Opt-Out of Sale. You have the right to opt out of the
+sale of your personal information to third parties (as those terms
+are defined in the CCPA). We have contracted with Providers that
+offer their services to us as “service providers' meaning that they
+do not use the Information that you share for their own
+purposes and such disclosure does not constitute a sale as per
+the CCPA definition. We are not selling any information to third
+parties and we don't allow tracking by third parties.
+
+---
+
+VIRGINIA RESIDENCE PRIVACY INFORMATION (VCDPA)
+If you are a Virginia resident, the Virginia Consumer Data
+Protection Act (“VCDPA”) requires us to provide you with some
+additional information regarding your rights with respect to your
+"personal information”.
+
+---
+
+Consistent with "The Data We Collect" and "How We Use Your
+Data"sections of this Policy, we may collect certain categories of
+information about Virginia consumers (“Personal Data”). The
+section below summarizes the Personal Data we process, the
+purposes for processing this data, the categories of personal
+data that we share with third parties, and the categories of third
+parties that we share the data as specified in the VCDPA. We do
+not sell personal data to third parties.
+
+--- [PAGE BREAK] ---
+
+Categories of Third Parties With Which We Share Personal
+Data
+We share your Personal Data with Service Providers, as described
+within the "Third Party Services Providers' section.
+
+---
+
+Right to Access Personal Data/Correct Inaccurate Personal
+Data
+You have the right to request access to Personal Data collected
+about you and information regarding the purposes for which we
+collect it and the third parties and service providers with which
+we share it. Additionally, you have the right to correct inaccurate
+or incomplete Personal Information. You may submit such a
+request by sending us an email to support@bubadu.com.
+
+--- [PAGE BREAK] ---
+
+You have the right to opt out of the sale of your Personal Data to
+third parties (as those terms are defined in the VCDPA). We do
+not sell your Personal Data to third parties. We have contracted
+with Providers that offer their services to us as "processors" (as
+defined with VCDPA) meaning that they do not use the Personal
+Data that you share for their own purposes, but only in
+accordance with our instructions.
+
+--- [PAGE BREAK] ---
+
+• obtain information about the third parties with whom we
+share your personal information;
+• obtain, upon your express request, the portability of your
+personal information (except for anonymized information)
+to another service or product provider, provided that our
+commercial and industrial secrets are safeguarded;
+
+--- [PAGE BREAK] ---
+
+In the event that you file a rectification, deletion, anonymization
+or personal information blocking request, we will make sure to
+immediately communicate your request to other parties with
+whom we have shared your personal information in order to
+enable such third parties to also comply with your request –
+
+--- [PAGE BREAK] ---
+
+except in cases where such communication is proven impossible
+or involves a disproportionate effort on our side.
+
+---
+
+Transfer of personal information outside of Brazil permitted
+by the law
+As Bubadu is based in Slovenia, we only transfer your data to
+Slovenia to provide our Services. In addition to that Bubadu uses
+third party services outlined in the section “Who has access to
+your data" to transfer data to third countries.
+
+---
+
+We are allowed to transfer your personal information outside of
+the Brazilian territory in the following cases:
+• When we offer and provide guarantees of our compliance
+with the LGPD principles, the data subject's rights, and the
+data protection regime, in the form of:
+• specific contractual clauses for a particular transfer;
+• standard contractual clauses;
+• binding corporate rules; or
+• regularly issued certificates and codes.
+• When necessary:
+• for international legal cooperation between
+government intelligence, investigative, and
+prosecutorial bodies, under international law;
+○ to protect the data subject's or a third party's life oг
+physical safety;
+○ to execute a public policy or to fulfill a government
+legal duty;
+○ to comply with the controller's compliance with a legal
+or regulatory obligation;
+• to perform an agreement or preliminary procedures
+relating to an agreement with the data subject; or
+○ to exercise rights in court, administrative, or
+arbitration.
+• When the ANDP authorizes the transfer.
+• When resulting from a commitment made in an
+international cooperation agreement.
+• When the data subject has provided specific and distinct
+consent for the international transfer, clearly distinguishing
+
+--- [PAGE BREAK] ---
+
+STORING
+We use Digital Ocean and Cloudflare for storing information.
+Please see the section 'Storage Providers' for more information.
+
+--- [PAGE BREAK] ---
+
+We store our data on the US territory so we will transfer the data
+to the US if you are using our Apps elsewhere. Please see section
+'Transfer' below for more information.
+
+---
+
+TRANSFER
+We provide our Services globally, so we need to transfer your
+Information to Providers across borders and from your country
+to other countries around the world. Please note that not all
+these countries have the same data protection laws as your own
+country, but we take appropriate steps to safeguard the privacy
+of your Information.
+
+---
+
+We will transfer your Information to our Providers only when the
+transfer is based on one of the following safeguards:
+• to a country with adequate protection, meaning that the
+country has an adequate level of protection in accordance
+with European data protection legislation
+• Based on standard contractual clauses (SCC), meaning
+that we have entered into SCC with Providers, that are
+adopted by the Commission of the European Union in
+accordance with European data protection legislation
+• Other appropriate safeguards, such as approved
+certification mechanisms like privacy shield frameworks

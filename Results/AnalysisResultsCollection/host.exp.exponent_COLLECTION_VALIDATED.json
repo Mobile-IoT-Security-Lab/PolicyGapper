@@ -1,0 +1,79 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Information we collect automatically. We collect internet, or other electronic network activity information automatically from the devices and browsers that you use, including your IP address, browser type and operating system (including mobile device information, if applicable), errors, performance metrics, and webpage and app interactions. We also collect usage and performance statistics from Expo projects.",
+      "justification": "The privacy policy states that the app collects 'app interactions' and 'usage and performance statistics'.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Profile Information and Survey Responses, including feedback, company name, website, location, bio, GitHub or Twitter usernames, and survey responses.",
+      "justification": "The privacy policy states that the app collects user-provided content such as 'feedback', 'bio', and 'survey responses'.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Information we collect automatically. We collect internet, or other electronic network activity information automatically from the devices and browsers that you use, including your IP address, browser type and operating system (including mobile device information, if applicable), errors, performance metrics, and webpage and app interactions. We also collect usage and performance statistics from Expo projects.",
+      "justification": "The privacy policy states that the app collects 'errors, performance metrics' and 'usage and performance statistics'.",
+      "how_to_fix": "Declare 'Crash logs' and/or 'Diagnostics' as collected data types in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Information you provide directly to us:\n•\n•\n•\n•\n•\n•\nContact Information, like name and email address.\nSign-In Information, including your username, password, and\nsite registrations.\nProfile Information and Survey Responses, including feedback,\ncompany name, website, location, bio, GitHub or Twitter usernames, and\nsurvey responses.\nTransaction and Billing Data, including your bank account and payment card\ndetails (credit card number, expiration date, and credit card security code,\nwhere needed to complete a transaction) and billing address.\nCommercial information, including records of products or services\npurchased, obtained, or considered, or other purchasing or consuming\nhistories or tendencies.\nWhen end-users use apps made with Expo, we may collect the end-users'\npush tokens, if you are utilizing Expo's push notification service.",
+      "justification": "The privacy policy explicitly states the collection of 'Contact Information, like name'.",
+      "how_to_fix": "Declare 'Name' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Information you provide directly to us:\n•\n•\n•\n•\n•\n•\nContact Information, like name and email address.\nSign-In Information, including your username, password, and\nsite registrations.\nProfile Information and Survey Responses, including feedback,\ncompany name, website, location, bio, GitHub or Twitter usernames, and\nsurvey responses.\nTransaction and Billing Data, including your bank account and payment card\ndetails (credit card number, expiration date, and credit card security code,\nwhere needed to complete a transaction) and billing address.\nCommercial information, including records of products or services\npurchased, obtained, or considered, or other purchasing or consuming\nhistories or tendencies.\nWhen end-users use apps made with Expo, we may collect the end-users'\npush tokens, if you are utilizing Expo's push notification service.",
+      "justification": "The privacy policy explicitly states the collection of 'Contact Information, like... email address'.",
+      "how_to_fix": "Declare 'Email address' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "Information you provide directly to us:\n•\n•\n•\n•\n•\n•\nContact Information, like name and email address.\nSign-In Information, including your username, password, and\nsite registrations.\nProfile Information and Survey Responses, including feedback,\ncompany name, website, location, bio, GitHub or Twitter usernames, and\nsurvey responses.\nTransaction and Billing Data, including your bank account and payment card\ndetails (credit card number, expiration date, and credit card security code,\nwhere needed to complete a transaction) and billing address.\nCommercial information, including records of products or services\npurchased, obtained, or considered, or other purchasing or consuming\nhistories or tendencies.\nWhen end-users use apps made with Expo, we may collect the end-users'\npush tokens, if you are utilizing Expo's push notification service.",
+      "justification": "The privacy policy states the collection of 'billing address'.",
+      "how_to_fix": "Declare 'Physical address' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Information you provide directly to us:\n•\n•\n•\n•\n•\n•\nContact Information, like name and email address.\nSign-In Information, including your username, password, and\nsite registrations.\nProfile Information and Survey Responses, including feedback,\ncompany name, website, location, bio, GitHub or Twitter usernames, and\nsurvey responses.\nTransaction and Billing Data, including your bank account and payment card\ndetails (credit card number, expiration date, and credit card security code,\nwhere needed to complete a transaction) and billing address.\nCommercial information, including records of products or services\npurchased, obtained, or considered, or other purchasing or consuming\nhistories or tendencies.\nWhen end-users use apps made with Expo, we may collect the end-users'\npush tokens, if you are utilizing Expo's push notification service.",
+      "justification": "The privacy policy states the collection of 'Transaction and Billing Data, including your bank account and payment card details'.",
+      "how_to_fix": "Declare 'User payment info' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Information you provide directly to us:\n•\n•\n•\n•\n•\n•\nContact Information, like name and email address.\nSign-In Information, including your username, password, and\nsite registrations.\nProfile Information and Survey Responses, including feedback,\ncompany name, website, location, bio, GitHub or Twitter usernames, and\nsurvey responses.\nTransaction and Billing Data, including your bank account and payment card\ndetails (credit card number, expiration date, and credit card security code,\nwhere needed to complete a transaction) and billing address.\nCommercial information, including records of products or services\npurchased, obtained, or considered, or other purchasing or consuming\nhistories or tendencies.\nWhen end-users use apps made with Expo, we may collect the end-users'\npush tokens, if you are utilizing Expo's push notification service.",
+      "justification": "The privacy policy states the collection of 'Commercial information, including records of products or services purchased, obtained, or considered'.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Information you provide directly to us:\n•\n•\n•\n•\n•\n•\nContact Information, like name and email address.\nSign-In Information, including your username, password, and\nsite registrations.\nProfile Information and Survey Responses, including feedback,\ncompany name, website, location, bio, GitHub or Twitter usernames, and\nsurvey responses.\nTransaction and Billing Data, including your bank account and payment card\ndetails (credit card number, expiration date, and credit card security code,\nwhere needed to complete a transaction) and billing address.\nCommercial information, including records of products or services\npurchased, obtained, or considered, or other purchasing or consuming\nhistories or tendencies.\nWhen end-users use apps made with Expo, we may collect the end-users'\npush tokens, if you are utilizing Expo's push notification service.",
+      "justification": "The privacy policy states that 'Profile Information' provided by the user can include 'location'.",
+      "how_to_fix": "Declare 'Approximate location' or 'Precise location' as a collected data type in your app's Data Safety section on Google Play, depending on the specificity of the data collected.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "Correspondence you send to us, such as emails.",
+      "reason_of_removal": "Data is not collected by the app. The policy refers to user-initiated correspondence (e.g., support emails), which is not considered data collected by the app under the Data Safety policy.",
+      "justification": "The privacy policy mentions receiving emails from users.",
+      "how_to_fix": "No action needed. This data type is exempt from declaration as it's not collected by the app.",
+      "lang": "en"
+    }
+  ]
+}
+```

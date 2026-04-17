@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "We also allow other organizations to use tracking technologies for these advertising purposes. In addition, we work with third-party platforms and websites (such as social networking platforms) to serve targeted advertisements on such third-party services and platforms to you or others, and we may convert your email address, telephone number, or other information into a unique value and provide it to these third-party platforms for matching purposes. You can find information about these third-party platforms and websites in our Cookie Consent Tool.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Affiliate Sharing. We share your Personal Data with other SPE entities which are involved when we process data for the purposes listed above. We may also share your Personal Data with other Sony_group companies for analytics purposes, account authentication, account management, and for direct marketing purposes in accordance with applicable law. The entity responsible for management of Personal Data shared pursuant to this section is listed here.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Usage Information: We and our third-party partners and service providers, such as Google Analytics and/or Adobe Analytics, may use a variety of technologies that collect and provide information about how the Content is accessed and used. Usage Information may consist of your internet browser type and version, operating system, service provider, the webpages, videos and apps you viewed, the time you viewed them and for how long, game or video history, skill level, demographic information about you (such as your age, gender, language, location and interest areas, where available), time zone, language, and what you looked at before accessing our Content. For more information about the collection of some of this information, please also see the section on Cookies and Similar Tracking Technology.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "COOKIES AND SIMILAR TRACKING TECHNOLOGY\n\nCookies, web beacons (also known as \"tracking pixels\") and other tracking technologies may be used by SPE and third parties including other Sony group companies to collect information about your interactions with the Content or the emails which SPE sends to you, including information about your browsing and purchasing behavior.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Usage Information: We and our third-party partners and service providers, such as Google Analytics and/or Adobe Analytics, may use a variety of technologies that collect and provide information about how the Content is accessed and used. Usage Information may consist of your internet browser type and version, operating system, service provider, the webpages, videos and apps you viewed, the time you viewed them and for how long, game or video history, skill level, demographic information about you (such as your age, gender, language, location and interest areas, where available), time zone, language, and what you looked at before accessing our Content. For more information about the collection of some of this information, please also see the section on Cookies and Similar Tracking Technology.",
+      "lang": "English"
+    }
+  ]
+}

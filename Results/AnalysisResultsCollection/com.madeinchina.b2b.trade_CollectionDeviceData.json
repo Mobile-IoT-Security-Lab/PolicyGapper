@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "1. Device Information: We will receive and record, according to the specific operations during your installation and/or use of software, information about the device you are using (including but not limited to the device model, version of the operating system, device settings, unique device identifier, device environment, mobile application list, IP address and operator information) and information about the location of your device (including but not limited to the GPS location authorized by you).",
+      "lang": "English"
+    }
+  ]
+}

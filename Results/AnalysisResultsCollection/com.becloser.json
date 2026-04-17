@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include: Account information (name, email address, username) Profile information you choose to provide Communications with us User-generated content",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We also automatically collect certain information about your device and use of our Services, including: Device information (device type, operating system, unique device identifiers) Usage information (features used, time spent, interactions) Log information (IP address, access times, app crashes) Location information (if you grant permission)",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "We collect information you provide directly to us, such as when you create an account, use our Services, or contact us for support. This may include:\nAccount information (name, email address, username)\nProfile information you choose to provide\nCommunications with us\nUser-generated content",
+      "lang": "en"
+    }
+  ]
+}

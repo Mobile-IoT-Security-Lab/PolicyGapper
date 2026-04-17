@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We use mobile analytics software to allow us to better understand and improve the functionality of our Services. Such software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "When you use our Services on your mobile device, we will collect information about your device, including its International Mobile Equipment Identity (IMEI), Unique Device Identifier (UDID) or Android ID, Universally Unique Identifier (GUUID), User ID (UID), Identifier for Advertising (IDFA) and Identifier for Vendor (IDFV), Open Anonymous Device Identifier (OAID), Integrated Circuit Card Identifier (ICCID), Media Access Control (MAC) address, the type of device you use, device platform, device manufacturer, device brand, device model, operating system version, a list of mobile applications installed on your device and resolution, which will be used by us for statistical and/or analytical reasons, including without limitation to improve our technical functionality, server load-balancing, analysis of technical data relating to your mobile device so as to optimize our Services and graphics adaptation.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "When you use our Services, we might recommend you sign up for an account with us to take full advantage of our Services and all their features. When you create an account, we will collect the following information that can be used to identify you or provide our Services to you:\n\no Mandatory: mobile phone number, device ID\n\no Optional: name, username, gender, date of birth, location, profile picture and password.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We use mobile analytics software to allow us to better understand and improve the functionality of our Services. Such software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use \"cookies\" that store and retrieve information of user's usage from time to time provide customized Services for each user. Cookies are small amounts of information that the server uses to operate the app/website, sends to the user's device and are also stored on the hard disk in the user's device. You may refuse the installation of cookies. Information collected may include information about your Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), referring and exit pages, your operating system, dates and timestamps, and clickstream data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "When you use some of our Services, including generating and browsing certain content, we will automatically collect certain relevant log information stored in Wink (\"Log Information”). Log Information may include (i) details on when and how often you use our Services, (ii) device statistics, including critical operation paths, errors, crashes, language and time zone. This Log Information is used to improve our Services and is NOT USED to identify our users individually.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "When you use some of our Services, including generating and browsing certain content, we will automatically collect certain relevant log information stored in Wink (\"Log Information”). Log Information may include (i) details on when and how often you use our Services, (ii) device statistics, including critical operation paths, errors, crashes, language and time zone. This Log Information is used to improve our Services and is NOT USED to identify our users individually.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We use mobile analytics software to allow us to better understand and improve the functionality of our Services. Such software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "When you use our Services on your mobile device, we will collect information about your device, including its International Mobile Equipment Identity (IMEI), Unique Device Identifier (UDID) or Android ID, Universally Unique Identifier (GUUID), User ID (UID), Identifier for Advertising (IDFA) and Identifier for Vendor (IDFV), Open Anonymous Device Identifier (OAID), Integrated Circuit Card Identifier (ICCID), Media Access Control (MAC) address, the type of device you use, device platform, device manufacturer, device brand, device model, operating system version, a list of mobile applications installed on your device and resolution, which will be used by us for statistical and/or analytical reasons, including without limitation to improve our technical functionality, server load-balancing, analysis of technical data relating to your mobile device so as to optimize our Services and graphics adaptation.",
+      "lang": "English"
+    }
+  ]
+}

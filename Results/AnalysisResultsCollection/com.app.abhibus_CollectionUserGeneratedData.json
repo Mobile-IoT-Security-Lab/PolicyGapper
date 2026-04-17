@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "I. If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. Weretain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "i. data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc.;",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "d. SMS: If you allow us to access your SMS, we read your SMS to autofill or prepopulate 'OTP' while making a transaction and to validate your mobile number. This provides you with a seamless purchase experience while making a booking and you don't need to moveout of the app to read the SMS and then enter it in the app.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "f. Contacts: If you allow us to access your contacts, it enables us to provide a lot of social features to you such as sharing tickets or location with your friends. This permission also allows you to select numbers from your contacts for mobile recharges done on the app.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "g. Photo/Media/ Files:The libraries in the app use these permissions to allow users to save and upload multimedia reviews.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "g. Photo/Media/ Files:The libraries in the app use these permissions to allow users to save and upload multimedia reviews.",
+      "lang": "en"
+    }
+  ]
+}

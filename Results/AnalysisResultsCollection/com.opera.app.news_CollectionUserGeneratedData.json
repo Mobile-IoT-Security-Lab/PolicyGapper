@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Depending on where you live, you may be able to access the Hype messaging service within the Software. If you choose to use Hype, you will be prompted to provide your phone number, which is required to operate the service. You will also be asked if you agree to give Hype access to your contacts, in order to connect with other Hype users. You do not need to share your contacts in order to use the service. We will retain your phone number and contacts for as long as you use Hype. Additionally, you also have the option to upload profile information at your discretion, including a user name, avatar, and your friends. We use the data you provide in order to provide the service. If you delete your account, or go inactive for a while, we will retain this data for a short period of time in case you decide to reactivate.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Our Software's core function is to provide you with news content tailored to your interests. In order to do this, we collect various data about you and your interests through the Software. We process advertising IDs, device data (phone manufacturer and model, device preferences) and information about your general location (specific to approximately which city you live in). If you choose to provide it to us by filling in your profile, we may also collect your phone contact list, and personal information like gender, education, occupation, birthdate, and other profile-related information. Additionally, if you log in with Facebook, we may receive your Facebook friends list. We retain this data for up to four years. We also collect data about which articles, videos, or other content you view, share, like, or respond to, which we retain for up to one year. We process this data based on your consent. If you would like to withdraw your consent, you may do so through the \"Settings\" menu.",
+      "lang": "en"
+    }
+  ]
+}

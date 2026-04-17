@@ -1,0 +1,49 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We use crash log information regarding your device's use of the Application for troubleshooting and to improve our Application. Crash logs do not contain your IP addresses or other personal information.",
+      "justification": "The policy states 'We use crash log information... for troubleshooting', indicating the data is collected and sent off-device for analysis. This does not qualify for on-device or E2EE exemptions.",
+      "how_to_fix": "Declare 'Crash logs' as a collected data type in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We track the services you have enabled and the amount of data you have transferred via the Application. We also use performance data to understand how the Application impacts your Internet connection and to improve our Application. Performance Data does not include personal information.",
+      "justification": "The policy states 'We track the services... We also use performance data', indicating the data is collected and sent off-device for analysis. This does not qualify for on-device or E2EE exemptions.",
+      "how_to_fix": "Declare 'Diagnostics' as a collected data type in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We track the services you have enabled and the amount of data you have transferred via the Application. We also use performance data to understand how the Application impacts your Internet connection and to improve our Application. Performance Data does not include personal information.",
+      "justification": "The policy states 'We track the services... We also use performance data', indicating the data is collected and sent off-device for analysis. This does not qualify for on-device or E2EE exemptions.",
+      "how_to_fix": "Declare 'Other app performance data' as a collected data type in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We use account information, such as your account ID, to administer your account and authorize Internet requests from your device to the Cloudflare network.",
+      "justification": "The policy states 'We use account information, such as your account ID, to administer your account and authorize Internet requests', indicating the ID is sent off-device. This does not qualify for on-device or E2EE exemptions.",
+      "how_to_fix": "Declare 'User IDs' as a collected data type in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "If you subscribe to Paid Application Services, we use subscription information, such as your order ID, to administer those subscriptions.",
+      "justification": "The policy states 'we use subscription information, such as your order ID, to administer those subscriptions', indicating the data is sent off-device for account management. This does not qualify for on-device or E2EE exemptions.",
+      "how_to_fix": "Declare 'Purchase history' as a collected data type in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "We require your email address when you provide feedback and bug reports. When you provide feedback, you can choose whether to share your console logs. Console logs can include your device name and IP address. We use this information for troubleshooting and to improve our Application. Your email address will be deleted 6 months from the date of collection.",
+      "justification": "The policy states users can 'share your console logs' and 'We use this information for troubleshooting', indicating these files are sent off-device. This does not qualify for on-device or E2EE exemptions.",
+      "how_to_fix": "Declare 'Files and docs' as a collected data type in the app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

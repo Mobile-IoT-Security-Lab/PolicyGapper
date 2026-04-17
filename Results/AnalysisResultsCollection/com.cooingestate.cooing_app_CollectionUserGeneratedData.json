@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "We collect information from you when you visit our website/app, register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.\n• Name / Username\n---\n• Phone Numbers\n---\n• Email Addresses",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We are committed to helping our customers meet the data subject rights requirements of GDPR. Nawy processes or stores all personal data in fully vetted, DPA compliant vendors. We do store all conversation and personal data for up to 6 years unless your account is deleted. In which case, we dispose of all data in accordance with our Terms of Service and Privacy Policy, but we will not hold it longer than 60 days.",
+      "lang": "en"
+    }
+  ]
+}

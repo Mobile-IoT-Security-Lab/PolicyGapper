@@ -1,0 +1,28 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "When you use our Devices and/or the Services we collect personal data. Personal data is any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, identification number, location data, or an online identifier. In this section we will summarize how we collect data and what we do with it. You will find more detailed information under the indicated sections below.\n• Your personal data might be disclosed to third parties that are located outside your country of residence; potentially, different data protection standards may apply.",
+      "justification": "The privacy policy states, 'Your personal data might be disclosed to third parties'. App interactions are a form of personal data collected by the app, and this disclosure constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'App interactions' is a data type that is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "When you use our Devices and/or the Services we collect personal data. Personal data is any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, identification number, location data, or an online identifier. In this section we will summarize how we collect data and what we do with it. You will find more detailed information under the indicated sections below.\n• Your personal data might be disclosed to third parties that are located outside your country of residence; potentially, different data protection standards may apply.",
+      "justification": "The privacy policy states, 'Your personal data might be disclosed to third parties'. Crash logs can contain personal identifiers, and this disclosure constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'Crash logs' is a data type that is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "When you use our Devices and/or the Services we collect personal data. Personal data is any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, identification number, location data, or an online identifier. In this section we will summarize how we collect data and what we do with it. You will find more detailed information under the indicated sections below.\n• Your personal data might be disclosed to third parties that are located outside your country of residence; potentially, different data protection standards may apply.",
+      "justification": "The privacy policy explicitly mentions collecting identifiers ('identification number', 'online identifier') and states, 'Your personal data might be disclosed to third parties'. This constitutes 'sharing' of 'Device or other IDs' that must be declared.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'Device or other IDs' is a data type that is 'Shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,32 @@
+Privacy Policy - Permission
+NoteCam is a camera app for Android phones and tablets. It uses the following permissions.
+• Camera permission, CAMERA, is required for taking pictures. Users cannot disable it.
+• Storage permission [Android 10+] is unnecessary. This is a Google privacy changes in Android 10. Android 10+ no
+longer requires the storage permission.
+• Storage permission [Android 9-], WRITE_EXTERNAL_STORAGE and MOUNT_UNMOUNT_FILESYSTEMS, is
+required for saving photos. Users cannot disable it.
+• Location permission, ACCESS_FINE_LOCATION and ACCESS_COARSE_LOCATION, is required for geotagging of
+photos. Users can disable it. However, the coordinate information will not be displayed on photos.
+• Network permission, INTERNET, is unnecessary. However, please understand that A-GPS coordinates need to access
+the network. Geotagging requires access to Google Geodatabase too. In the lite/free version, Google ads require the use
+of the Internet.
+
+---
+Privacy Policy - Information Collection
+The App uses third-party services, Google AdMob, to display advertisements. These services may collect:
+•
+•
+•
+Device information (e.g., model, OS version)
+Advertising ID (e.g., Google Advertising ID)
+Usage data (e.g., ad impressions, interactions)
+
+---
+Privacy Policy - Use of Information
+Collected data is used to:
+•
+•
+•
+Provide personalized advertising
+Improve ad performance and quality
+Analyze user behavior to improve app experience

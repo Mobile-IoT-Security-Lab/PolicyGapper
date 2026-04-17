@@ -1,0 +1,60 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may share your information with our third-party partners for marketing and advertising purposes. This may include your email address, device identifiers, and information about your orders and browsing behaviour. You can opt-out of this sharing.",
+      "justification": "The policy states data is shared with third parties for marketing and advertising purposes. This is considered 'sharing' under Google Play's policy and is not exempt.",
+      "how_to_fix": "Declare that this data type is 'Shared' with third parties in your app's Data Safety section on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We may share your information with our third-party partners for marketing and advertising purposes. This may include your email address, device identifiers, and information about your orders and browsing behaviour. You can opt-out of this sharing.",
+      "justification": "The policy states data is shared with third parties for marketing and advertising purposes. This is considered 'sharing' under Google Play's policy and is not exempt.",
+      "how_to_fix": "Declare that this data type is 'Shared' with third parties in your app's Data Safety section on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We use location data to show you restaurants and retail partners near you, to provide more accurate delivery times, and for advertising and analytics purposes. We may share your location data with our third-party partners for these purposes.",
+      "justification": "The policy states location data is shared with third-party partners for advertising and analytics purposes. This is considered 'sharing' under Google Play's policy and is not exempt.",
+      "how_to_fix": "Declare that this data type is 'Shared' with third parties in your app's Data Safety section on Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We use location data to show you restaurants and retail partners near you, to provide more accurate delivery times, and for advertising and analytics purposes. We may share your location data with our third-party partners for these purposes.",
+      "justification": "The policy states location data is shared with third-party partners for advertising and analytics purposes. This is considered 'sharing' under Google Play's policy and is not exempt.",
+      "how_to_fix": "Declare that this data type is 'Shared' with third parties in your app's Data Safety section on Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "When you place an order, we share your information with the restaurant or retail partner to facilitate the order. This may include your name, delivery address, and phone number.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy states this data is shared with a third party (restaurant/retail partner) to fulfill a service explicitly requested by the user (placing an order). This is exempt from being declared as 'sharing' under the 'user-initiated action' clause of the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this specific sharing practice as it is exempt. Do not declare it as 'Shared' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "When you place an order, we share your information with the restaurant or retail partner to facilitate the order. This may include your name, delivery address, and phone number.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy states this data is shared with a third party (restaurant/retail partner) to fulfill a service explicitly requested by the user (placing an order). This is exempt from being declared as 'sharing' under the 'user-initiated action' clause of the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this specific sharing practice as it is exempt. Do not declare it as 'Shared' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you place an order, we share your information with the restaurant or retail partner to facilitate the order. This may include your name, delivery address, and phone number.",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy states this data is shared with a third party (restaurant/retail partner) to fulfill a service explicitly requested by the user (placing an order). This is exempt from being declared as 'sharing' under the 'user-initiated action' clause of the Google Play User Data Policy.",
+      "how_to_fix": "No action is required for this specific sharing practice as it is exempt. Do not declare it as 'Shared' in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

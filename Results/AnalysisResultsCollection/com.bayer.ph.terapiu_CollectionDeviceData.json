@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Il nostro sito Web utilizziamo un servizio di analisi web di Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, Stati Uniti (\"Google\"). Google analizzerà l'utilizzo del nostro sito web per nostro conto. A tal fine, utilizziamo i cookie descritti in modo più dettagliato nella tabella precedente. Le informazioni raccolte da Google in relazione all'utilizzo del nostro sito Web (ad esempio l'URL di riferimento, le nostre pagine web visitate dall'utente, il tipo di browser, le impostazioni della lingua, il sistema operativo, la risoluzione dello schermo) verranno trasmesse a un server di Google negli Stati Uniti, dove verranno archiviate e analizzate. I rispettivi risultati saranno quindi messi a nostra disposizione in forma anonima. I tuoi dati di utilizzo non saranno connessi al tuo indirizzo IP completo durante questo processo. Abbiamo attivato sul nostro sito web la funzione di anonimizzazione IP offerta da Google, che eliminerà gli ultimi 8 bit (tipo IPv4) o gli ultimi 80 bit (tipo IPv6) del tuo indirizzo IP dopo ogni trasferimento di dati a Google.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Il nostro sito Web utilizziamo un servizio di analisi web di Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, Stati Uniti (\"Google\"). Google analizzerà l'utilizzo del nostro sito web per nostro conto. A tal fine, utilizziamo i cookie descritti in modo più dettagliato nella tabella precedente. Le informazioni raccolte da Google in relazione all'utilizzo del nostro sito Web (ad esempio l'URL di riferimento, le nostre pagine web visitate dall'utente, il tipo di browser, le impostazioni della lingua, il sistema operativo, la risoluzione dello schermo) verranno trasmesse a un server di Google negli Stati Uniti, dove verranno archiviate e analizzate. I rispettivi risultati saranno quindi messi a nostra disposizione in forma anonima. I tuoi dati di utilizzo non saranno connessi al tuo indirizzo IP completo durante questo processo. Abbiamo attivato sul nostro sito web la funzione di anonimizzazione IP offerta da Google, che eliminerà gli ultimi 8 bit (tipo IPv4) o gli ultimi 80 bit (tipo IPv6) del tuo indirizzo IP dopo ogni trasferimento di dati a Google.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Quando accedi al nostro sito Web, il tuo browser trasferirà determinate informazioni al nostro server web. Questo viene fatto per motivi tecnici e necessario per rendere disponibili le informazioni richieste. Per facilitare l'accesso al sito Web, vengono raccolte, archiviate e utilizzate brevemente le seguenti informazioni:\n•\nIndirizzo IP\n•\nData e ora di accesso\n•\n•\nDifferenza di fuso orario con l'ora di Greenwich (GMT)\nContenuto della richiesta (sito specifico)\n• Stato di accesso/codice di stato HTTP\n• Volume trasferito di dati\n• Sito Web che richiede l'accesso\n• Browser, impostazioni della lingua, versione del sistema operativo software del browser e surface",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Quando accedi al nostro sito Web, il tuo browser trasferirà determinate informazioni al nostro server web. Questo viene fatto per motivi tecnici e necessario per rendere disponibili le informazioni richieste. Per facilitare l'accesso al sito Web, vengono raccolte, archiviate e utilizzate brevemente le seguenti informazioni:\n•\nIndirizzo IP\n•\nData e ora di accesso\n•\n•\nDifferenza di fuso orario con l'ora di Greenwich (GMT)\nContenuto della richiesta (sito specifico)\n• Stato di accesso/codice di stato HTTP\n• Volume trasferito di dati\n• Sito Web che richiede l'accesso\n• Browser, impostazioni della lingua, versione del sistema operativo software del browser e surface",
+      "lang": "English"
+    }
+  ]
+}

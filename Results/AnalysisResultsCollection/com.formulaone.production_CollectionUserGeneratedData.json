@@ -1,0 +1,24 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "■ Audio, electronic, visual, thermal, olfactory, or similar information, such as your calls, emails and other correspondence (e.g. through chatbots) to our customer service recorded as permitted by law; and",
+"lang": "en"
+},
+{
+"data_type": "Other in-app messages",
+"policy_reference": "■ Audio, electronic, visual, thermal, olfactory, or similar information, such as your calls, emails and other correspondence (e.g. through chatbots) to our customer service recorded as permitted by law; and",
+"lang": "en"
+},
+{
+"data_type": "Voice or sound recordings",
+"policy_reference": "■ Audio, electronic, visual, thermal, olfactory, or similar information, such as your calls, emails and other correspondence (e.g. through chatbots) to our customer service recorded as permitted by law; and",
+"lang": "en"
+},
+{
+"data_type": "Other audio files",
+"policy_reference": "■ Audio, electronic, visual, thermal, olfactory, or similar information, such as your calls, emails and other correspondence (e.g. through chatbots) to our customer service recorded as permitted by law; and",
+"lang": "en"
+}
+]
+}

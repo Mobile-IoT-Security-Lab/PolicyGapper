@@ -1,0 +1,28 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "we want to inform you that whenever you use our Service, in a case of an These error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states that in case of an app error, \"Log Data\" is collected, which includes device IP address, device name, OS version, and other statistics. This falls under the \"Diagnostics\" data type as it relates to crash logs and app performance.",
+      "how_to_fix": "In the Google Play Console, under Data safety, declare that your app collects \"Diagnostics\".",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "we want to inform you that whenever you use our Service, in a case of an These error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (\"IP\") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "justification": "The policy states that \"Log Data\" is collected, including device IP address, device name, OS version, app configuration, and usage time/date. This information is used to understand app performance and falls under \"Other app performance data\".",
+      "how_to_fix": "In the Google Play Console, under Data safety, declare that your app collects \"Other app performance data\".",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Our apps work without registration, anyway personal data is still processed. The Gluak apps provide the following basic functions: • Favourite team and competitions • Provision of results of football matches in the apps and via push notifications In order to use the basic functions, the apps generate a number which is specific to the device when opened for the first time. This number cannot be assigned to a specific person. In addition, in order to technically display the named content, the operating system used (for example, Android or iOS), the hostname of th e accessing device (IP address) and the time of the server request are processed. Due to the way the Internet functions, the brief saving of the IP address is technically necessary. On the basis of the IP address, a location search will be ca rried out. For reasons connected to data protection, this only takes place on the geographical level of the country from where the access is taking place. By me ans of this, it is not possible to trace the concrete location or place of residence of a user. The data in technical protocols (so-called log files) are evaluated by us in anonymised form in order to continually improve our apps and make them more user friendly, as well as in order to find and correct errors more quickly. The data processing is necessary so that you can find out about the content of our apps. us with certain e request will be retained by us and used as described in this privacy policy.",
+      "justification": "The policy explicitly states, \"On the basis of the IP address, a location search will be ca rried out... this only takes place on the geographical level of the country\". Deriving a country-level location from an IP address is considered collection of \"Approximate location\".",
+      "how_to_fix": "In the Google Play Console, under Data safety, declare that your app collects \"Approximate location\".",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

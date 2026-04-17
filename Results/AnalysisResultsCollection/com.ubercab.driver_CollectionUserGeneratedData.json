@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "e. Communications data. This refers to the data we collect when you communicate with drivers and delivery people through Uber's apps. • Communication type (phone or text message) • Content (including recordings of phone calls solely when users are notified of the recording in advance) • Date and time",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "d. User content. This refers to the data that we collect when you: • • • Contact Uber for customer support or other inquiries. Use features that enable you to create Lists or reviews of restaurants or merchants Upload photos and recordings (including those submitted for purposes of customer support) • Provide ratings or feedback for drivers, delivery people, restaurants or • Chat logs and call recordings • Ratings or feedback • User created Lists or reviews of • restaurants or merchants Uploaded photos and recordings, including in-app audio recordings",
+      "lang": "en"
+    },
+    {
+      "data_type": "Files and docs",
+      "policy_reference": "c. Identity verification information. This refers to the data that we collect to verify your account or identity. • Government-issued identification documents, such as driver's licenses or passports (which may contain identification photos and numbers, expiration date, date of birth, and gender) • User-submitted selfies",
+      "lang": "en"
+    }
+  ]
+}

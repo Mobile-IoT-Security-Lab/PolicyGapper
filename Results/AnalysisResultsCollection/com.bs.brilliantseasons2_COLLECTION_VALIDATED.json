@@ -1,0 +1,14 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "These services may collect non-personally identifiable data, including Log Data, such as device name, operating system version, IP address, app configuration details, and usage statistics. Additionally, depending on their terms, they may also collect personal information. This data is used solely for monitoring app performance, identifying causes for app crashes, and improving the app's functionality. The legal basis for this processing is legitimate interest in maintaining",
+      "justification": "The privacy policy states that third-party services collect the user's IP address for app performance monitoring and crash reporting. An IP address is used to determine a user's approximate location. This data is sent off-device and is not described as being end-to-end encrypted, thus it must be declared as 'collected'.",
+      "how_to_fix": "Declare the collection of 'Approximate location' in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

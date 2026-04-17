@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We process your activity data in order to provide our Services to you: i. We can record your activities and analyze your performances, in order to provide you with the relevant feedback; ii. You can interact with other users on the App. This allows you to participate in challenges, follow other users and communicate with each other; iii. We can manage your training. For example, to set goals and use your training dashboard; iv. Discover new places to go. For example, to discover routes where you can run or ride or to identify points of interest; v. To visualize your activities in new ways. For example, by creating personal heatmaps or personal videos. vi. To enrich the content in our App. For example, we can add publicly available photos of users to routes, unless you have opted out for this functionality.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "We request your consent to process your data for certain purposes and you are entitled to withdraw your consent at any time. We ask your consent: • For collecting and processing data from Trackers which you connect to your Relive account, including possible health information such as your heart rate • To access photos, location and contact information through your device-based settings, after you have enabled the settings If we process the data, you provide us subject to your consent, your consent is limited to the specific content of such a consent. You have the right to withdraw your consent at any time through our settings.",
+      "lang": "en"
+    }
+  ]
+}

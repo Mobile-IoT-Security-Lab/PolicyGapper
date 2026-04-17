@@ -1,0 +1,98 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may use cookies to personalize content and advertisements, to provide social media features and to analyze our traffic. We may also share information about your use of our Services with our social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services.",
+      "justification": "The policy states data is shared with advertising and analytics partners who may 'combine it with other information' they have collected. This indicates they are not acting solely as a service provider, which constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare in your Data Safety form that 'In-app search history' is 'Shared' with third parties for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may use cookies to personalize content and advertisements, to provide social media features and to analyze our traffic. We may also share information about your use of our Services with our social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services.",
+      "justification": "The policy states data is shared with advertising and analytics partners who may 'combine it with other information' they have collected. This indicates they are not acting solely as a service provider, which constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare in your Data Safety form that 'Other actions' is 'Shared' with third parties for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The policy states that third-party advertising companies use data about visits to 'our Services and other websites/ applications' for personalized advertising. This use of cross-app/site data is defined as 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare in your Data Safety form that 'Web browsing history' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The policy explicitly states that 'name' may be used by third-party advertising companies to provide personalized ads. This is a declarable 'sharing' activity.",
+      "how_to_fix": "Declare in your Data Safety form that 'Name' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The policy explicitly states that 'email' may be used by third-party advertising companies to provide personalized ads. This is a declarable 'sharing' activity.",
+      "how_to_fix": "Declare in your Data Safety form that 'Email address' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may use cookies to personalize content and advertisements, to provide social media features and to analyze our traffic. We may also share information about your use of our Services with our social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services.",
+      "justification": "The policy states data is shared with advertising and analytics partners who may 'combine it with other information' they have collected. This process typically involves User IDs (e.g., advertising ID) and constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare in your Data Safety form that 'User IDs' are 'Shared' with third parties for 'Advertising or marketing' and 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The policy explicitly states that 'location' may be used by third-party advertising companies to provide personalized ads. This is a declarable 'sharing' activity.",
+      "how_to_fix": "Declare in your Data Safety form that 'Precise location' and/or 'Approximate location' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The policy explicitly states that 'email' may be used by third-party advertising companies to provide personalized ads. This is a declarable 'sharing' activity.",
+      "how_to_fix": "Declare in your Data Safety form that 'Emails' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The policy explicitly states that 'photos' may be used by third-party advertising companies to provide personalized ads. This is a declarable 'sharing' activity.",
+      "how_to_fix": "Declare in your Data Safety form that 'Photos' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Videos",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The policy states that 'media files on your device' may be used by third-party advertising companies for personalized ads. This category includes videos and is a declarable 'sharing' activity.",
+      "how_to_fix": "Declare in your Data Safety form that 'Videos' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The policy explicitly states that 'audio' may be used by third-party advertising companies to provide personalized ads. This is a declarable 'sharing' activity.",
+      "how_to_fix": "Declare in your Data Safety form that 'Voice or sound recordings' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The policy states that 'audio' and 'media files' may be used by third-party advertising companies for personalized ads. This category includes music files and is a declarable 'sharing' activity.",
+      "how_to_fix": "Declare in your Data Safety form that 'Music files' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "We may use third-party advertising companies to serve ads when you utilize our Services. These companies may use information (such as but not limited to your name, email, photos, media files on your device, location, audio etc.) about your visits to our Services and other websites/ applications in order to provide advertisements about goods and services of interest to you. However, we do not store this data in our environment.",
+      "justification": "The policy explicitly states that 'audio' may be used by third-party advertising companies to provide personalized ads. This is a declarable 'sharing' activity.",
+      "how_to_fix": "Declare in your Data Safety form that 'Other audio files' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

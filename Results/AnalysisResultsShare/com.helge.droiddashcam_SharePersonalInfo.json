@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Our apps use some Google third-party libraries (AdMob to show ads, In App Billing for purchases, Firebase\nservices) which can collect some information from you. You can check their Private Policy at:\n•\n•\n•\nGoogle Admob https://support.google.com/admob/answer/6128543,\nhttps://policies.google.com/technologies/ads,\nhttps://developers.google.com/admob/android/privacy/play-data-\ndisclosure#data_collected_and_shared_automatically\nGoogle Firebase Service (Analytics, Cloud Messaging, In App Messaging, Remote Config, Crashlytics)\nhttps://firebase.google.com/docs/android/play-data-disclosure,\nhttps://firebase.google.com/support/privacy/dpo,\nhttps://marketingplatform.google.com/about/analytics/terms/us/\nGoogle Play's billing - https://support.google.com/googleplay/android-\ndeveloper/answer/10281818\nYou can also check Data Safety section for each app at Google Play to find out what exactly third-party libraries\ncollect.",
+      "lang": "English"
+    }
+  ]
+}

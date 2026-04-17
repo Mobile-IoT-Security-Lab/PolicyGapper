@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Potremmo condividere i tuoi dati personali con le nostre consociate del Gruppo Bayer, ove necessario per le finalità sopra descritte.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Potremmo condividere i tuoi dati personali con le nostre consociate del Gruppo Bayer, ove necessario per le finalità sopra descritte.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "Potremmo condividere i tuoi dati personali con le nostre consociate del Gruppo Bayer, ove necessario per le finalità sopra descritte.",
+      "lang": "Italian"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "Potremmo condividere i tuoi dati personali con le nostre consociate del Gruppo Bayer, ove necessario per le finalità sopra descritte.",
+      "lang": "Italian"
+    }
+  ]
+}

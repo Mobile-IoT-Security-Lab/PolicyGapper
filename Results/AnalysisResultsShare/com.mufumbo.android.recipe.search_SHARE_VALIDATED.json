@@ -1,0 +1,37 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We and our third-party partners, such as advertising networks, social media widgets, and analytics providers, use cookies and similar technologies to provide, support and improve Cookpad Service and each of the uses outlined and described in this Privacy Policy. Our partners also may collect information about your online activities over time, on other devices, and on other websites or apps. Those third parties may have their own privacy policies governing their use of your Personal Information. To switch off cookies, you need to change your browser settings. For further information about how to do this please visit http://www.aboutcookies.org/. Please note that if you choose to switch off cookies on your device that will mean certain functions of our Site and App cannot operate properly and the usability of the Cookpad Service will be affected.",
+      "justification": "The policy states that third-party partners, including advertising networks, collect information about users' online activities across other websites or apps. This constitutes sharing for advertising and analytics purposes and is not covered by the service provider exemption, as these partners may use the data for their own purposes under their own privacy policies.",
+      "how_to_fix": "Declare 'Web browsing history' as 'Shared' with third parties in the 'Advertising or marketing' and 'Analytics' sections of your Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Advertisers and advertising networks that require information to select and serve relevant adverts to you and others. We do not disclose Personal Information to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 users from France have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the Personal Information we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience. Read our Cookie Policy to learn more about opting out of personalized advertising.",
+      "justification": "The policy states that personal information, which includes User IDs like advertising IDs, is used to enable advertisers and ad networks to display targeted advertisements. This is a clear case of sharing data with third parties for advertising purposes and is not exempt.",
+      "how_to_fix": "Declare 'User IDs' as 'Shared' with third parties in the 'Advertising or marketing' section of your Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Trusted Cookpad Partners: We may share your Personal Information with the following trusted partners and agents only if they need such information to perform their specific obligations or services to us. You may request a copy of the list of these partners by using the contact details here.\n• The trusted partners, suppliers, sub-contractors and agents who cooperate with us to provide you with Cookpad Service and advertising, such as IT service providers, mailing houses and companies which store our data.\n• The trusted partners, suppliers, sub-contractors and agents who cooperate with us to provide the Site and App, or in collecting, storing or processing your information for us.\n• Advertisers and advertising networks that require information to select and serve relevant adverts to you and others. We do not disclose Personal Information to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 users from France have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the Personal Information we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience. Read our Cookie Policy to learn more about opting out of personalized advertising.\n• Analytics and search engine providers, and research institutions and suppliers, that assist us in the improvement and optimisation of, and understanding of the use of and behaviour on, the Site, App and Cookpad Service. For example, we may use Google Analytics to collect and process information about how Cookpad Service is used.",
+      "justification": "The policy explicitly states that Personal Information, which can include Email address, is shared with 'Advertisers and advertising networks' and 'Analytics... providers'. Sharing data with ad networks for advertising is not covered by any exemption and requires a declaration.",
+      "how_to_fix": "Declare 'Email address' as 'Shared' with third parties in the 'Advertising or marketing' and 'Analytics' sections of your Data Safety form, as applicable based on your specific data flows.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "• select participants for user interviews or testing conducted by us or other trusted partners; or",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy indicates that data is shared with 'trusted partners' for the specific purpose of conducting user interviews or testing. This falls under the service provider exemption, as the partner is processing data on the developer's behalf to perform a service.",
+      "how_to_fix": "No declaration of 'sharing' is required for this specific use case, as it qualifies for the service provider exemption. Ensure your contracts with these partners obligate them to process data only on your behalf.",
+      "lang": "English"
+    }
+  ]
+}
+```

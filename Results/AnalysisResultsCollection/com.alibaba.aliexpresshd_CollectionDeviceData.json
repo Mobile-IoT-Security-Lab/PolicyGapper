@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Complaint Information | Such as information connected with the Platform or goods and/or services purchased via the Platform as such information relates to a complaint, for example, the photographs you upload for the products reviews or complaints.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Platform Activity Information | Such as details on the types and specifications of the goods sold and purchased, pricing and delivery information, any dispute records, communications between Buyers and Sellers and any information disclosed in any discussion forum.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+We may collect data that you voluntarily provide to us, data that we collect automatically through your
+use of the services, and certain data we obtain from third party sources.
+
+---
+
+1.3 Personal Data We Received from Third Parties
+We may also receive information about you from third parties, including:
+• Social Media Platforms.
+When you choose to log in with a Google account, we use the account verification service provided
+by it and will receive necessary information, such as login code (encrypted), login status, to enable
+account functionality. Please note that your use of any third-party solution for sign-up, and the
+personal data you provide to that third party or data collected by them, will be explained by that
+third party and access to their sign-up services is governed by their terms of use, privacy policies,
+and other policies. You may check its privacy policy for details at:
+https://policies.google.com/privacy.
+When you participate in activities hosted on third-party platforms, we may receive the information
+about your participation, based on your authorization, which shall be subject to the notification of
+the relevant activities.
+• App Marketplaces.
+When you make in-app subscriptions through the Apple App Store and Google Play, we receive your
+device ID, payment time, payment order (encrypted), and payment status. Please note that payment
+transactions for in-app subscription are completed through the app marketplace via your app
+marketplace account. We do not process payments for in-app subscriptions, nor do we have access
+to your credit card information.
+
+---
+
+3. How We Share Your Personal Data
+In order to provide you with more convenient and prompt services, we may share your personal data
+with our partners or engage a data processor (and/or sub-processor) to process your personal data for
+the purposes in this Policy, in which case we will request the data recipients to keep your personal data
+in strict confidence and only process data to the extent it is necessary to perform its contractual or
+statutory obligations within our controllable scope. We will not disclose your personal data to third
+parties unless we have obtained your consent or there are other legal bases for such sharing. We may
+share your personal data with the following categories of third parties:
+• Our affiliates. Your personal data may be shared with our affiliates insofar as necessary for fulfilling
+the processing purposes set in this Policy, to provide you the Services as requested or for the
+necessary IT maintenance and operation, during which we will abide by applicable data protection
+laws and ensure the adequate level of protection of your personal data.
+• Technical service providers. To provide you with our basic service, we may engage some service
+providers into our Products and Services, including:
+  ◦ Data storage service provider: We use the cloud storage service provided by Amazon Web
+    Services, Inc. You may check its privacy policy for details at: https://aws.amazon.com/privacy.
+  ◦ Crash analysis service provider: We use the “bugsnag SDK" provided by SmartBear (Ireland)
+    Limited. You may check its privacy policy for details at: https://smartbear.com/privacy.
+  ◦ Information push service provider: We use the "Firebase Cloud Messaging" service provided
+    by Google LLC through "Google Firebase SDK". You may check its privacy policy for details at:
+    https://policies.google.com/privacy.
+  ◦ Privacy management service provider: We use the "Google UMP SDK" provided by Google LLC
+    for privacy management. You may check its privacy policy for details at:
+    https://policies.google.com/privacy.
+• Advertising partners. We may share your data with advertising partners to recognize you or your
+device and to serve ads to you or your device and measure the effectiveness of those ads. The data
+we shared may include device identifiers (GAID or IDFA), IP address, and other information regarding
+the delivery of advertisements and your interaction with them such as data related to the device,
+display screen, App, version, user agent, network, SIM card, time zone, and cell location.
+These providers may use APIs, SDKs, cookies or similar tracking technologies to collect information
+about your device and your Service use. We use a CMP to manage the consent and permission for
+our advertising based activity, and require our advertising partners to process personal data
+according to the permission situation we have transmitted. These partners may process your data
+under their own privacy policies. For further information, please refer to 'Appendix-Advertising
+Partners List'. If you'd like to withdraw consent, or opt-out from advertisements related matters,
+please see the Section 6 'Your Legal Rights' below.
+Some third-party services also let you post information about your game activity to their sites to share
+with others. If you use these features, those third-party services' privacy policies and terms govern
+your actions on those sites and the information that those services collect.
+In addition, we may disclose your personal data in the following cases:
+• Where we choose to sell, transfer or merge parts of our business or our assets, in such a case the
+new owners will assume all our rights and obligations in this Policy;
+• Where it is necessary for the purposes of national security, law enforcement, or public interests.
+
+---
+
+4. International Transfer of Personal Data
+To facilitate our operations across global markets, we may choose to store your personal data on a
+local server or a server located in a foreign country depending upon the IT configurations of our
+Services, and may transfer and process your personal data with our service providers located at
+different countries, which may be adjusted from time to time. Currently, the personal data we collected
+is stored on AWS Cloud in the United States.
+Where the transfer of your personal data to a recipient located in a foreign country satisfies the
+definition of international transfer or cross-border transfer of personal data under the applicable law,
+we will determine the legal basis for the transfer and take appropriate security measures to ensure a
+level of protection as required under the applicable law. Particularly:
+If you reside in the EEA, and
+• If your personal data is transferred to entities located in countries/territories with adequacy decision
+(e.g., Israel, UK and US (commercial organisations participating in the EU-US Data Privacy
+Framework)), the cross-border transfer is subject to the mechanism of an adequacy decision;
+• If your personal data is transferred to entities in other countries/territories, we will evaluate the
+ability of personal data protection and network security safeguards and take measures from the
+catalogue set out in applicable laws. With recipient entities in other countries outside the EEA we
+usually agree to apply the EU standard contractual clauses (SCC) to ensure an adequate level of
+protection in accordance with legal requirements. You can find further information on SCC (including
+a copy) here: https://commission.europa.eu/publications/standard-contractual-clauses-
+international-transfers_en.
+
+---
+
+• Portability right. You may request us to help you transfer your personal data to other entities. If
+your country/territory of origin is within the EEA, you have the right to receive from us personal data
+concerning you, which you have provided to us, in a structured, commonly used and machine-
+readable format, as well as the right to request us to forward this personal data to another controller
+under the following conditions:
+  ◦ the data processing is based on consent or the contract;
+  ◦ the processing is carried out by automated means.
+
+---
+
+• Withdrawal of consent. You may withdraw your consent at any time. As a result, we are no longer
+allowed to continue the processing based on this consent in the future. This does not affect the
+legality of the processing carried out on the basis of the consent up to the point of withdrawal.
+Where applicable, we use a CMP to gather and share consent and permissions for our advertising-
+based activity. You can change your preferences at any time in the Privacy settings of our Games.
+You may manage your consent related to advertisement through the in-game settings interface.
+Please note that you may still receive advertisements from us and third parties on our Services even
+if you withdraw your consent of tailored advertising; but these ads will not be tailored to you.
+
+---
+
+◦ the categories of third parties to whom we disclosed personal data about you and the categories
+of personal data that was disclosed (if applicable) and the purpose for disclosing the personal
+data about you;
+
+---
+
+• Right to opt-out of the sale or sharing of your personal data.In some cases, you may have the right
+to request a restriction of the processing of your personal data. You are always free to opt out from
+the future collection of your personal data by us and other companies by choosing one of the
+following methods:
+  ◦ Turning on “Do Not Sell My Data" in our app settings.
+  ◦ Sending your requests regarding your personal data to exercise your rights to
+    privacy@hungrystudio.com at any time.
+
+---
+
+Appendix: Advertising Partners List
+
+---
+
+| Partners | Services/Products | Privacy Policy |
+|---|---|---|
+| Amazon (US) | Amazon Ads API | https://advertising.amazon.com/legal/privacy-notice |
+| AppLovin Corporation (US) | AppLovin SDK and Applovin MAX SDK | https://www.applovin.com/privacy |
+| Appsflyer Ltd. (Israel) | AppsFlyer SDK | https://www.appsflyer.com/privacy-policy |
+| ByteDance Pte. Ltd. (Singapore) | Pangle SDK | https://www.pangleglobal.com/privacy |
+| Digital Turbine (IL) Ltd / Fyber Group (Israel) | Fyber (DT Exchange) SDK | https://www.digitalturbine.com/legal/privacy-policy |
+| Facebook, Inc. (US) | Facebook Analytics Facebook Audience Network | https://www.facebook.com/about/privacy |
+| InMobi PTE Ltd (Singapore) | Inmobi SDK | https://www.inmobi.com/privacy-policy |
+| Ogury Ltd (UK) | Ogury SDK; ironSource Ads SDK | https://privacy.ogury.com |
+| Unity Ads Inc. (US) | Unityads SDK | https://unity3d.com/legal/privacy-policy |
+| Vungle, Inc. (US) | Vungle(Liftoff) SDK | https://vungle.com/privacy/ |
+| Verve Group, Inc. (US) | Verve SDK | https://www.verve.com/privacy-policy |
+| Google Inc. (US) and its partners (e.g., Ad4game Inc Canada, Arsus Technologies Ltd Turkey) | Google AdMob SDK | https://policies.google.com/privacy |

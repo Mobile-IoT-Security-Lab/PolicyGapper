@@ -1,0 +1,51 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.",
+      "justification": "The policy states the app collects 'information about the way you use the Application,' which corresponds to the 'App interactions' data type.",
+      "how_to_fix": "Declare 'App interactions' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:\n• Google Play Services\n• AdMob\n• Firebase Crashlytics\n• One Signal",
+      "justification": "The policy explicitly lists the use of 'Firebase Crashlytics,' a service dedicated to collecting crash log data.",
+      "how_to_fix": "Declare 'Crash logs' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.",
+      "justification": "The policy mentions collecting technical information like 'the type of mobile device you use... your mobile operating system, the type of mobile Internet browsers you use,' which falls under 'Diagnostics'.",
+      "how_to_fix": "Declare 'Diagnostics' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.",
+      "justification": "The policy explicitly states the collection of 'your mobile devices unique device ID,' which directly maps to the 'Device or other IDs' data type.",
+      "how_to_fix": "Declare 'Device or other IDs' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.",
+      "justification": "The policy states the app collects the 'IP address of your mobile device,' which can be used to determine an approximate location.",
+      "how_to_fix": "Declare 'Approximate location' as a collected data type in your app's Data Safety section on Google Play.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy mentions collecting 'unique device ID,' which corresponds to 'Device or other IDs,' not 'User IDs' (e.g., account ID, name, email). The evidence does not support the collection of user-specific account identifiers.",
+      "how_to_fix": "Do not declare 'User IDs' unless your policy explicitly mentions collecting user account identifiers. The current evidence only supports declaring 'Device or other IDs'.",
+      "lang": "English"
+    }
+  ]
+}
+```

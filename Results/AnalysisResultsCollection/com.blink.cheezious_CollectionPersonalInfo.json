@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "When you sign up to become a Registered User or enter a promotion or our referral program, you may be required to provide us with some personal information (the \"Personal Information\") about yourself, such as your name, address, phone number, and e-mail address. We may also collect information regarding your business, such as your company name, business type and industry, corporate registration details and information about your business license.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When you sign up to become a Registered User or enter a promotion or our referral program, you may be required to provide us with some personal information (the \"Personal Information\") about yourself, such as your name, address, phone number, and e-mail address. We may also collect information regarding your business, such as your company name, business type and industry, corporate registration details and information about your business license.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "When you sign up to become a Registered User or enter a promotion or our referral program, you may be required to provide us with some personal information (the \"Personal Information\") about yourself, such as your name, address, phone number, and e-mail address. We may also collect information regarding your business, such as your company name, business type and industry, corporate registration details and information about your business license.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "When you sign up to become a Registered User or enter a promotion or our referral program, you may be required to provide us with some personal information (the \"Personal Information\") about yourself, such as your name, address, phone number, and e-mail address. We may also collect information regarding your business, such as your company name, business type and industry, corporate registration details and information about your business license.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "From You. Additional information about yourself that you voluntarily provide to us, such as your food orders, gender, birthdate, interests, favorite foods, and favorite restaurants.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "In order to submit orders through the Platform, you will be required to provide certain information in addition to the Personal Information noted above. Such information may include a debit card number, credit card number, billing address, and similar information (collectively, the \"Billing Information\").",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "From You. Additional information about yourself that you voluntarily provide to us, such as your food orders, gender, birthdate, interests, favorite foods, and favorite restaurants.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "In order to provide access to the Services while you are using a mobile device, we automatically collect geolocational information from your mobile device, your wireless carrier, or certain third-party service providers (“Geolocational Information”). The collection of such Geolocational Information occurs only when the Services are running on your mobile device. You may control the collection of Geolocational Information through the user settings on your device. You may decline to allow us to collect such Geolocational Information, in which case we will not be able to provide certain services to you. Please be sure to manage your mobile device and privacy preferences on the Platform on an ongoing basis.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "In order to provide access to the Services while you are using a mobile device, we automatically collect geolocational information from your mobile device, your wireless carrier, or certain third-party service providers (“Geolocational Information”). The collection of such Geolocational Information occurs only when the Services are running on your mobile device. You may control the collection of Geolocational Information through the user settings on your device. You may decline to allow us to collect such Geolocational Information, in which case we will not be able to provide certain services to you. Please be sure to manage your mobile device and privacy preferences on the Platform on an ongoing basis.",
+      "lang": "English"
+    }
+  ]
+}

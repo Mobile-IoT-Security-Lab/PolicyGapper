@@ -1,0 +1,49 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "6) Activity information relating to internet or other electronic networks such as browsing or searching history, or interaction with a Website, ad, or app\nCollected: YES",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "6) Activity information relating to internet or other electronic networks such as browsing or searching history, or interaction with a Website, ad, or app\nCollected: YES",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Other information that may be linked to personal information\n•\nContent You Post Publicly or Privately on Your Glam Labs Account;\n•\nSearches Completed through the Website;\n•\nPreference Settings;\n•\nStored Information or Files Created or Stored on Website or through the Services;\n• Any Emails You Send to Glam Labs;\n•\nTimes of Access to Website;\n•\nWebsites that Referred to Glam Labs;\n•\nYour Operating System Type",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Indirectly from you. For example, from observing your actions on our Website or through the use of our App(s) or Services or interactions with our advertisers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "6) Activity information relating to internet or other electronic networks such as browsing or searching history, or interaction with a Website, ad, or app\nCollected: YES",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We retain your data for the following periods:\n1. Account Data\n•\nActive accounts: Duration of account existence\n•\nDeleted accounts: 30 days after deletion\n•\nPayment information: 7 years (legal requirement)\n2. Usage Data\n•\nLogin records: 90 days\n• Activity logs: 30 days\n•\nError logs: 60 days\n3. Communication Records\n•\nSupport tickets: 2 years\n•\nEmail correspondence: 1 year\n•\nChat logs: 90 days\n4. Al-Generated Content\n•\nGenerated images: 30 days\n• Training data: Deleted immediately after processing\n•\nModel data: Not retained",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Cookie Categories\n1. Essential Cookies (No Consent Required)\n• Security\n• Load balancing\n• User authentication\n2. Functional Cookies (Consent Required)\n• Language preferences\n• User customization\n• Session management\n3. Analytics Cookies (Consent Required)\n• Usage statistics\n• Performance monitoring\n• Error tracking\n4. Marketing Cookies (Explicit Consent Required)\n• Advertising\n• Social media integration\n• Behavioral tracking",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Cookie Categories\n1. Essential Cookies (No Consent Required)\n• Security\n• Load balancing\n• User authentication\n2. Functional Cookies (Consent Required)\n• Language preferences\n• User customization\n• Session management\n3. Analytics Cookies (Consent Required)\n• Usage statistics\n• Performance monitoring\n• Error tracking\n4. Marketing Cookies (Explicit Consent Required)\n• Advertising\n• Social media integration\n• Behavioral tracking",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "1). Identifiers, such as: names, e-mail addresses, Internet Protocol addresses, or other similar identifiers.\nCollected: YES",
+      "lang": "English"
+    }
+  ]
+}

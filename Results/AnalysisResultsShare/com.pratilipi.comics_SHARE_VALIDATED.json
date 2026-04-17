@@ -1,0 +1,47 @@
+```json
+{
+  "omitted_declarations": [],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "3. API Calls: API Calls consists of data generated when a User performs an activity on the Website/Application such as navigating to different pages, clicking on buttons, reading content etc. This data is collected and used by Company and may be shared with authorized third parties as described in this Privacy Policy.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is shared with authorized third parties for analytics to improve the service. These entities (like Google Analytics, Firebase, as listed elsewhere in the policy) act as service providers processing data on the developer's behalf, which is an exemption from 'sharing' disclosure.",
+      "how_to_fix": "No action required. Sharing with service providers for app functionality or analytics is not considered 'sharing' that needs to be declared in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "4. User Published Material: Company enables Users to interact with each other in its community building endeavours between authors and readers. Therefore, Users' names, comments, likes etc are public and can be viewed by other Users. Users must ensure they do not put up any Inputs on the Website/Application which they do not intend to make public.",
+      "reason_of_removal": "User-Initiated Action",
+      "justification": "The policy states that user-generated content like names and comments is made public as part of the app's community features. This is a user-initiated action and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. Data made public by a clear user action does not need to be declared as 'shared' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "4. User Published Material: Company enables Users to interact with each other in its community building endeavours between authors and readers. Therefore, Users' names, comments, likes etc are public and can be viewed by other Users. Users must ensure they do not put up any Inputs on the Website/Application which they do not intend to make public.",
+      "reason_of_removal": "User-Initiated Action",
+      "justification": "The policy states that user actions like posting comments and likes are made public. This is a user-initiated action and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. Data made public by a clear user action does not need to be declared as 'shared' in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "1. Business Partners: Authorized third party business partners, who handle the User Information in accordance with their own privacy policies as mentioned in the table, engaged for:\ni. Analysing the User Information, for improving the Website/Application and the Services such as below:\nServices offered Entity Name Links to privacy policy\nAmplitude https://amplitude.com/privacy. (Location: USA),\nClevertap https://clevertap.com/privacy-policy/\nFacebook Analytics https://www.facebook.com/policy.php\nAnalytics Services Google Analytics https://www.google.com/policies/privacy/partners/ (Location USA)\nGoogle Firebase https://firebase.google.com/support/privacy. https://policies.google.com/privacy#infosecurity. Notifications (Location: US-central) https://support.google.com/analytics/answer/6004245\nTo deliver content to Users Limelight Cloudflare https://media.limelight.com/documents/Limelight+Networks+Privacy+Policy+06-2018.pdf https://www.cloudflare.com/privacypolicy/\nTo process payment Razorpay https://razorpay.com/privacy/",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy lists third parties (Amplitude, Firebase, etc.) engaged for analytics, content delivery, and payment processing. These are service providers processing data on the developer's behalf to provide core app functionality, which is an exemption from 'sharing' disclosure.",
+      "how_to_fix": "No action required. Sharing with service providers for app functionality or analytics is not considered 'sharing' that needs to be declared in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "4. User Published Material: Company enables Users to interact with each other in its community building endeavours between authors and readers. Therefore, Users' names, comments, likes etc are public and can be viewed by other Users. Users must ensure they do not put up any Inputs on the Website/Application which they do not intend to make public.",
+      "reason_of_removal": "User-Initiated Action",
+      "justification": "The policy describes user comments as public interactions within the app's community. This is a user-initiated action and is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action required. Data made public by a clear user action does not need to be declared as 'shared' in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

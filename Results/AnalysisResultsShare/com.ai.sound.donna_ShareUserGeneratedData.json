@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "Story Generation and Data Management:\n•\nCustom stories are formulated in collaboration with OpenAl's ChatGPT 3.5 and ChatGPT 4\ntechnologies. Post-generation, all data parameters utilized in the customization process are irrevocably\ndeleted.",
+      "lang": "English"
+    }
+  ]
+}

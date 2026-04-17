@@ -1,0 +1,28 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Emails",
+      "policy_reference": "This policy applies only to the information Eternal collects through its Services, in email, text and other electronic communications sent through or in connection with its Services.",
+      "justification": "The privacy policy states that it applies to information the app collects in 'email...sent through or in connection with its Services', indicating the collection of this data type.",
+      "how_to_fix": "Declare the collection of 'Emails' in the 'Messages' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "This policy applies only to the information Eternal collects through its Services, in email, text and other electronic communications sent through or in connection with its Services.",
+      "justification": "The privacy policy states that it applies to information the app collects in 'text...sent through or in connection with its Services', indicating the collection of this data type.",
+      "how_to_fix": "Declare the collection of 'SMS or MMS' in the 'Messages' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "This policy applies only to the information Eternal collects through its Services, in email, text and other electronic communications sent through or in connection with its Services.",
+      "justification": "The privacy policy states that it applies to information the app collects in 'other electronic communications sent through or in connection with its Services', which covers other in-app messages.",
+      "how_to_fix": "Declare the collection of 'Other in-app messages' in the 'Messages' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

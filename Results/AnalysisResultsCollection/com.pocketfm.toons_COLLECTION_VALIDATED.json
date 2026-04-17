@@ -1,0 +1,60 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "c. Commercial and financial information: customers you follow and who follows your account; payment information",
+      "justification": "The privacy policy states that this data is collected, but it was not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "a. Personal identifiers: name, email address, Instagram and Facebook profile links, contact numbers, account name and password, profile photo/image IP address, location details, language preferences.",
+      "justification": "The privacy policy states that this data is collected, but it was not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "a. Personal identifiers: name, email address, Instagram and Facebook profile links, contact numbers, account name and password, profile photo/image IP address, location details, language preferences.",
+      "justification": "The privacy policy states that this data is collected, but it was not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "f. Audio information: recordings of customer service calls",
+      "justification": "The privacy policy states that this data is collected, but it was not declared in the app's Data Safety section.",
+      "how_to_fix": "Declare the collection of this data type in the app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "d. Internet or other electronic activity information: information regarding your interaction with our Sites and advertisements.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The privacy policy states this data is collected, but the context is explicitly limited to the developer's websites, not the mobile app.",
+      "how_to_fix": "No action is required for the app's Data Safety section, as this data collection is out of scope.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "d. Internet or other electronic activity information: information regarding your interaction with our Sites and advertisements.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The privacy policy states this data is collected, but the context is explicitly limited to the developer's websites, not the mobile app.",
+      "how_to_fix": "No action is required for the app's Data Safety section, as this data collection is out of scope.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "These categories of personal information are shared for cross-context behavioral advertising or targeted advertising with, advertising networks and other companies that facilitate digital advertising. We engage in such sharing to facilitate digital advertising that is able to reach people that are most likely to be interested in the Services we provide. We do so by allowing third parties to place cookies or other tracking technologies on our website that may collect information about your online activities over time and across different websites or applications. For more information about the use of cookies and other tracking technologies, see the section \"Our Use of Cookies and Analytics\" below.",
+      "reason_of_removal": "Websites collection",
+      "justification": "The privacy policy states this data is collected, but the context is explicitly limited to the developer's websites, not the mobile app.",
+      "how_to_fix": "No action is required for the app's Data Safety section, as this data collection is out of scope.",
+      "lang": "English"
+    }
+  ]
+}
+```

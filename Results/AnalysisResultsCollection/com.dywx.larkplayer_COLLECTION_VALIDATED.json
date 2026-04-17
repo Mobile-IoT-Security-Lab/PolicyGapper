@@ -1,0 +1,32 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Services Usage Data. We will collect your personal data when you are accessing or using the Lark Player services, such as playlists information, including playlists you create, liked songs, most played, recently played, play queue; playing data, including playing length of music/videos; playing history, including video playing history, search records, and hide setting records.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Technical Data. We will collect data when you use the built-in H5 pages/Flash of third parties, such as the third-party website link you shared with other social media Apps.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Subscription Information. We will collect [information] when you subscribe to our VIP services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Subscription Information. We will collect [information] when you subscribe to our VIP services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "Contact Information. We will collect your contact information, your feedback or your request when you contact us for customer service.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

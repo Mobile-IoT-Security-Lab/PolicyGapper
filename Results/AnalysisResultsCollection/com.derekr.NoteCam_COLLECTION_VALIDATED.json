@@ -1,0 +1,14 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location permission, ACCESS_FINE_LOCATION and ACCESS_COARSE_LOCATION, is required for geotagging of photos. Users can disable it. However, the coordinate information will not be displayed on photos.",
+      "justification": "The policy confirms the use of ACCESS_FINE_LOCATION for geotagging, which is the collection of 'Precise location'. The policy does not state that this data is processed exclusively on the device or is end-to-end encrypted, so it does not qualify for an exemption and must be declared as 'collected'.",
+      "how_to_fix": "Declare 'Precise location' as a collected data type in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

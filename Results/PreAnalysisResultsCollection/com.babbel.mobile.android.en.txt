@@ -1,0 +1,546 @@
+This Policy is designed to help you better understand how we collect, use, store
+or share any personal information about you (your “Personal Data”). It also
+describes your rights in relation to your Personal Data. Under data protection law,
+the term Personal Data refers to all information that relates to an identified or
+identifiable person. At Babbel, we only process Personal Data in compliance with
+applicable data protection laws and regulations. Babbel is responsible as
+controller for the data processing described in this Policy, unless stated
+otherwise. The term “controller” under data protection law refers to the entity
+which decides what to do with the Personal Data that has been collected, and
+how to do it.
+
+---
+2. What kinds of Personal Data do we use,
+and for what purposes?
+At Babbel, we collect and use (process) your Personal Data in different ways,
+depending on how you interact with Babbel - whether you are a:
+User who uses Babbel to learn languages;
+User of the Toucan by Babbel add-on;
+Visitor to our websites;
+Contact person at a (prospective) B2B customer who enables the employees of
+the B2B customer to use Babbel;
+● Job applicant who wants to join our team;
+Contact person at a service provider, supplier, business partner or a freelancer
+with whom we cooperate; or
+
+---
+Visitor to our social media websites and/or apps.
+For more details regarding the data processed in relation to each category, please
+see below.
+
+---
+2.1 Babbel Users
+2.1.1 If you are a Babbel user, we process the Personal Data
+that you provide when you register with Babbel, when you
+complete your profile, sign up for a subscription, purchase
+other content or interact with a specific service. This
+includes, for example, your name and email address,
+device information, as well as your payment details
+(including bank information, account number and/or the
+card you use for payment). You may choose to provide us
+with your mobile number in order to use certain services.
+
+---
+2.1.2 We process information about your learning
+behavior, personal vocabulary and learning progress. This
+includes content and (transcriptions of) voice recordings,
+if applicable, and if specifically mentioned below.
+This Personal Data is processed for the following purposes, and on the following
+legal bases:
+Deploying the app and adapting our services to your needs and skills;
+● Measuring your learning. For this purpose, voice recordings may be transcribed
+and the transcriptions may be processed, including with the help of Al;
+● Reviewing your pronunciation. Voice recordings will be processed for this
+purpose, including with the help of Al. The processing of voice recordings is
+limited to the specific lesson, and the recordings are not used for any other
+purposes;
+● Provision of conversational language learning features. When you use a
+learning feature that enables Al-powered real-time conversations,
+transcriptions of voice recordings will be processed. Voice recordings will only
+be shared with Al providers for transcribing purposes and will be deleted after
+transcription. The transcription itself can be stored and used for later
+conversations.
+
+---
+2.1.3 We process pseudonymized information about how
+you behave on our app. This includes server log files, IP
+addresses, and user IDs, some of which are assigned by or
+provided to third-party providers.
+This Personal Data is processed for the following purposes, and on the following
+legal bases:
+● Scientific research purposes for the areas of machine learning, artificial
+intelligence, natural language processing and deep learning (transmission to
+third parties only after prior anonymization);
+● Ensuring the security, operability and stability of our services, including
+defense against cyber-attacks.
+Legal basis: legitimate interest in the improvement and further development of
+our services and in ensuring the security, functionality and stability of our
+services, including defense against cyber attacks.
+To measure our reach and analyze user behavior to optimize our products,
+increase customer satisfaction and improve error analysis;
+● Engaging in marketing and advertising activities on Babbel and on third-party
+services (therefore, persistent identifiers may be collected by, and/or
+transmitted by Babbel to, such third-party providers through our services via
+pixels, cookies and other tracking mechanisms);
+● Tracking and conversion tracking to measure our reach and conversion rate
+tracking of our business affiliate partners.
+
+---
+2.1.4 We process feedback and information you provide in
+studies, research projects, surveys or (video) interviews.
+
+---
+2.1.5 We process information about how you interact with
+us when we send you notifications, e.g. push notifications
+or emails.
+
+---
+2.1.6 If you get in touch with our customer support team
+(e.g. via email or our Al customer service chatbot "Bab")
+or otherwise provide feedback to us, we process your
+contact data as well as the content of your inquiry and
+feedback. We will furthermore process metadata, such as
+information on your subscriptions (including payment
+information) and information regarding your browser or
+the mobile device you are using when accessing our
+services.
+
+---
+2.1.7 In case you use Babbel through your employer, we
+might process information about how you use our
+services in order to make this available to your employer
+in the form of usage reports. This includes, in particular,
+information about how often you use our app, what
+content you access via the app, and which live classes you
+have participated in.
+
+---
+2.2 Users of the Toucan by Babbel add-on
+
+---
+2.2.1 If you are a user of Toucan by Babbel, we process the
+Personal Data that you provide when you use the Toucan
+by Babbel add-on. This includes, for example, your name,
+email address and account information (including
+username and password). We usually collect this data
+ourselves. When you link, connect, or login to our services
+with a third-party service (e.g. Google or Facebook), you
+direct the service to send us information such as your
+registration and profile information as controlled by that
+service or as authorized by you via your privacy settings in
+that service.
+
+---
+2.2.2 We process pseudonymized information about how
+you behave on the Toucan by Babbel add-on. This
+includes server log files, IP addresses, device type (such as
+phone, computer or tablet), browser type, date and time
+stamps, operating system, clickstream data, ad
+impressions and other information regarding your
+interaction with the services of the Toucan by Babbel
+add-on.
+
+---
+2.3 Website Visitors
+2.3.1 We process data you provide to us in contact forms
+about yourself or the company you work for, such as your
+name, email address and telephone number.
+
+---
+2.3.2 Pseudonymized information about the device and
+browser you are using, server log files, your network
+connection, and your IP address.
+
+---
+2.3.3 Information about how you behave on our websites.
+This may include your IP address and user IDs, some of
+which are assigned by third-party providers, technical
+information regarding your device and your internet
+connection, non-precise geolocation as well as
+information on interactions with our websites, such as
+page views, click behavior and length of stay, technical
+characteristics of the end device and browser used and
+the origin of the website visit (e.g. referrer URL)
+(hereinafter also referred to as event data).
+
+---
+2.3.4 Information about how you behave on our websites,
+as described in 2.3.3. We process this data as a joint
+controller with several partners under the following
+conditions and for the following purposes:
+● This includes the event data collected via pixel tracking as part of conversion
+tracking which is used for targeting our advertisements, improving ad delivery
+on third-party platforms (particularly social media platforms), personalizing
+features and content, and enhancing the advertisements of our products on
+third-party platforms. For this purpose, the event data collected on our website
+via the pixel is transmitted to and analyzed by the providers of these platforms
+(particularly social media platforms). The collection and transmission of event
+data are carried out jointly by us and the platform providers as joint controllers.
+For any processing of the transmitted event data that occurs after transmission,
+the platform providers (particularly social media platforms) act as sole
+controllers.
+● Joint controllership is also relevant for data processing activities regarding
+advertising campaigns. In those cases, we transfer your personal data
+collected on our websites to our advertising partners, which then decide
+whether to display an advertisement and, if yes, which ad should be displayed
+on your device. We are jointly responsible with our advertisement partner
+regarding the collection of your personal data. However, we have no influence
+on further data processing activities by the advertisement partner.
+
+---
+2.4 Contact persons at (prospective) B2B
+customers who enable their own employees to
+use Babbel
+
+---
+2.4.1 We process data you provide to us about yourself and
+the company you work for, such as your name, email
+address and telephone number.
+
+---
+2.4.2 If you get in touch with our team via email or our
+chatbot "Babbel Bot", we process your contact data as
+well as the content of your inquiry. The chatbot has AI-
+functions that serve primarily as a first point of contact in
+order to allocate your inquiry to a fitting customer
+support employee. Your interactions with our chatbot will
+not be used in order to train the Al system.
+
+---
+2.4.3 We process data you provide us by
+participating in our B2B events. This includes
+your name, business email address and
+information about the company you are working
+for. It is possible that we take photos and videos of
+the event in which you are recognizable and post
+them online (e.g. on social media such as
+LinkedIn).
+
+---
+2.5 Job Applicants
+2.5.1 We process data that you provide to us as part of your
+job application, or that a recruiter provides to us, or that
+we collect during the application process. This includes
+information about your resume or curriculum vitae, your
+career to date and other data that you provide to us before
+or during the application process.
+
+---
+Duration of storage of Personal Data of applicants: If we are unable to offer you
+employment, we will retain the data you have provided to us for up to six months
+after any rejection for the purpose of answering questions in connection with your
+application and rejection. This time period does not apply if legal provisions
+prevent deletion, if further storage is necessary for the purpose of providing
+evidence or if you have expressly agreed to a longer storage period.
+
+---
+2.5.2 We process your contact information and your CV
+that we have received during the application process.
+
+---
+2.6 Contact person(s) at service providers,
+suppliers, business partners and freelancers
+We process data you provide to us about yourself and/or the company you work
+for, such as your name, email address and telephone number.
+
+---
+2.7.1 Controller
+Social media provider
+Data Processing
+When you visit our social media pages (Facebook, Instagram, LinkedIn, TikTok),
+through which we present our company or individual products from our range,
+certain information about you as a visitor is processed.
+
+---
+The social media providers collect and process event data and send us
+anonymized statistics and insights for our pages, which help us gain insights into
+the types of actions people take on our page (so-called “page insights"). These
+page insights are created based on certain information about people who have
+visited our site(s).
+
+---
+2.7.3 Controller
+Babbel GmbH
+Data Processing
+We process information that you have provided to us via our social media page on
+the respective social media platform. This information may be the username used,
+contact details or a message to us.
+
+---
+To receive your Personal Data, which you have provided to us, in a structured,
+commonly used, and machine-readable format, and the right to transfer your
+Personal Data to another company.
+
+---
+4.1 AI tools in our products and services
+Babbel uses Al tools to operate, optimize and improve our services, and to
+provide you with new product features. Babbel uses Al tools in particular for the
+purposes of speech recognition and assessment of your speech, as well as
+converting audio to text and generating answers when you access a learning
+feature that enables Al-powered real-time conversations.
+Personal Data is processed in this context. This applies in particular to data that
+you provide to us or that you input when using our features that are provided with
+the help of Al tools, including your voice, if applicable. This data is processed in
+order to generate content and to provide our speech assessment services to you.
+This data may also be used to train our Al and to further develop and optimize our
+services. We also reserve the right to analyze the usage data for quality assurance
+
+---
+The input of Personal Data only takes place in specific, legally allowed use cases
+and only to the most minimal extent necessary, e.g. by our customer support
+team when translating or summarizing customer support chats or in data analysis
+projects.
+
+---
+6. How do we use “cookies” and other
+tracking technologies?
+We use cookies and similar technologies on our website and in providing our
+services via our apps. We have compiled more information about how we use
+these technologies in our cookie banners. The banners are accessible from the
+footer of any of our websites. There you will also find a list of other companies
+that place cookies on our websites, a list of cookies that we place, and an
+explanation of how you can refuse certain types of cookies. In our mobile apps,
+you can access this information under Settings > Privacy in your profile.
+
+---
+From the end of the calendar year in which the data was collected,
+we will retain Personal Data contained in our accounting records for eight to ten
+years and Personal Data contained in commercial letters and contracts for six
+years.
+
+---
+10. Joint Controllership
+As a global company, we work closely with Babbel Inc. based in the USA. If we are
+joint controllers of your Personal Data (joint controllership according to Art. 26
+GDPR), you will be informed of this in the descriptions of the individual data
+processing operations below.
+
+---
+Controller
+Babbel Inc. and Babbel GmbH
+Data Processing
+Data processing in connection with customer acquisition and lead generation in
+the USA
+More Information
+The data collection is carried out by both Babbel Inc. and Babbel GmbH. The
+technical and organizational measures are largely ensured by Babbel Inc. Data
+storage as well as the fulfillment of all other obligations of the GDPR are carried
+out by Babbel GmbH.
+
+---
+12.1 Information We Collect; How We Collect It;
+How We Use It
+The section in this Policy titled “What kinds of Personal Data do we use?”
+describes the Personal Data that we collect. The categories of such information
+are as follows:
+
+---
+12.1.1 Category
+Identifiers
+Examples
+Name, email address, mobile number, online identifier, internet protocol (IP)
+address or other similar identifiers.
+
+---
+12.1.2 Category
+Commercial information
+Examples
+Records of products or services purchased; Purchasing or consuming histories or
+tendencies.
+
+---
+12.1.3 Category
+Internet or other similar network activity information
+
+---
+Examples
+Browsing history, search history, information regarding consumer's interaction
+with a website, application, or advertisement.
+
+---
+12.1.4 Category
+Professional or employment-related information
+Examples
+Employer, employment history, resumes and curriculum vitae, background
+checks, and other employment-related information.
+
+---
+12.2 How We Use and Disclose Your Personal
+Information
+We collect and disclose your personal information as follows:
+
+---
+12.2.1 Category
+Identifiers
+Source
+Directly from consumers when interacting with our services
+
+---
+12.2.2 Category
+Commercial information
+Source
+Directly from consumers when interacting with our services
+
+---
+12.2.3 Category
+Internet or other similar network activity information
+Source
+Directly from consumers when interacting with our services
+
+---
+12.2.4 Category
+Professional or employment-related information
+
+---
+Source
+Directly from job applicants when interacting with our services
+
+---
+12.3.1 Right to Know
+As a California consumer, you have the right to ask us to tell you certain
+information about our collection, use, disclosure, or sale of your personal
+information. Once we receive and confirm your verifiable consumer request
+(see Exercising Your Rights, below), and subject to certain limitations that we
+describe below, we will give you this information. You have the right to ask for any
+or all of the following:
+The categories of personal information we collected about you;
+The categories of sources from which the personal information is collected;
+● Our business or commercial purpose for collecting or selling that personal
+information;
+The categories of third parties with whom we share that personal information;
+and/or
+The specific pieces of personal information we collected about you.
+
+---
+12.3.2 Right to Delete
+You have the right to ask us to delete any of your personal information that we
+collected from you and stored, with certain exceptions.
+
+---
+12.3.3 Right to Data Portability
+You have the right to ask for a copy of personal information that we have
+collected and maintained about you. You may ask for your information from us up
+to twice during a 12-month period. We will provide our response in a readily
+usable (and usually electronic) format.
+
+---
+13.1 Information We Collect; How We Collect It;
+How We Use It
+The section in this Policy titled “What kinds of Personal Data do we use?”
+describes the Personal Data that we collect. The categories of such information
+are as follows:
+
+---
+13.1.1 Category
+Identifiers
+
+---
+Examples
+Name, email address, mobile number, online identifier, internet protocol (IP)
+address or other similar identifiers.
+
+---
+13.1.2 Category
+Commercial information
+Examples
+Records of products or services purchased; Purchasing or consuming histories or
+tendencies.
+
+---
+13.1.3 Category
+Internet or other similar network activity information
+Examples
+Browsing history, search history, information regarding consumer's interaction
+with a website, application, or advertisement.
+
+---
+13.1.4 Category
+Professional or employment-related information
+Examples
+Employer, employment history, resumes and curriculum vitae, background
+checks, and other employment-related information.
+
+---
+13.2 How We Use and Disclose Your Personal
+Information
+We collect and disclose your personal information as follows:
+
+---
+13.2.1 Category
+Identifiers
+Source
+Directly from consumers when interacting with our services
+
+---
+13.2.2 Category
+Commercial information
+Source
+Directly from consumers when interacting with our services
+
+---
+13.2.3 Category
+Internet or other similar network activity information
+
+---
+Source
+Directly from consumers when interacting with our services
+
+---
+13.2.4 Category
+Professional or employment-related information
+Source
+Directly from job applicants when interacting with our services
+
+---
+● Right to know: You have the right to know whether we process your personal
+information and to access this personal information. You may also have the
+right to request that we disclose certain information to you about our
+collection, use, or disclosure of your personal information. Delaware residents
+have the right to obtain a list of the categories of third parties to which we have
+disclosed personal information.
+
+---
+● Right to data portability: You have the right to get a copy of your personal
+information that you previously provided to us or that we have obtained in a
+portable and, to the extent technically possible, readily usable format that
+allows you to transmit the data to another business without difficulty, where the
+processing is carried out by automated means.
+Right to delete: You may have the right to delete personal information that you
+have provided to us or that we have obtained about you. Please note that we
+may deny requests to delete if the requested deletion falls under an exception
+described in the applicable State Laws.
+
+---
+14. FINANCIAL INCENTIVES
+We may at times offer you financial incentives, including discounts, coupons, gift
+cards, or other rewards, for sharing Personal Data through programs that we may
+provide from time to time (collectively, our “Programs"). For example, we may
+offer you free products or discount codes for your participation in surveys or
+sweepstakes, for making reviews on our products, as part of invitations to events,
+or in relation to other offers. When we offer our Programs to you, we believe that
+the value of the different pricing or services you receive exceeds the cost of
+providing your Personal Data. Your participation in these Programs is completely
+optional and subject to the terms provided to you at the time you sign up. You
+may withdraw from participation in a Program at any time by contacting us using
+the designated method set forth in the applicable Program rules. You may also
+withdraw from or opt out of our Programs at any time by contacting us at
+privacy@babbel.com.
+
+---
+15. ADDITIONAL INFORMATION FOR
+RESIDENTS OF CANADA
+Babbel collects, uses and discloses (in other words, processes) your Personal
+Data in connection with your access and use of our services in compliance with
+Canadian privacy laws, specifically the Personal Information Protection and
+Electronic Documents Act (PIPEDA) and relevant provincial privacy laws. This
+
+---
+15.1 Consent
+We may obtain your consent to our collection, use and disclosure of your Personal
+Data either expressly, for stated purposes, or impliedly when the purposes are
+indicated by the relevant circumstances or follow logically from other stated
+purposes.
+By providing us with your Personal Data, you consent to the collection, use and
+disclosure of that information relating to providing our services, managing our
+relationship with you, administering our business and as permitted or required by
+law, in accordance with this Policy.

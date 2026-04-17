@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Please note that we may share your activity logs with Apple to help verify your usage of the app if you request a refund. This process simply ensures a fair and transparent review of any accidental subscription claims, and your privacy is important to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Additionally, we allow our service providers (including analytics vendors and advertising networks) to collect information about your online activities through cookies. These third parties may use this information to display advertisements on our application and elsewhere online tailored to your interests, preferences, and characteristics. We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "SMS or MMS",
+      "policy_reference": "Purpose To share data with our service providers, such as those that host data for us, including Amazon Web Services To share data with our affiliates To market our products and services as well as enable third parties to provide advertisements to you via the Application To respond to law enforcement organization, or other government officials where we have a legal obligation, including complying with legal demands and complying with production and court orders. We will notify user of the information request or submission as, and if, allowed. The day to day running and management of the business including to monitor, maintain and improve the processes, information and data, technology and communications solutions and services we use; protect our legal rights and interests; and share such personal information with third parties that acquire or are interested in acquiring all or part of our assets or shares, or that succeeds us in carrying on our business;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "Purpose To share data with our service providers, such as those that host data for us, including Amazon Web Services To share data with our affiliates To market our products and services as well as enable third parties to provide advertisements to you via the Application To respond to law enforcement organization, or other government officials where we have a legal obligation, including complying with legal demands and complying with production and court orders. We will notify user of the information request or submission as, and if, allowed. The day to day running and management of the business including to monitor, maintain and improve the processes, information and data, technology and communications solutions and services we use; protect our legal rights and interests; and share such personal information with third parties that acquire or are interested in acquiring all or part of our assets or shares, or that succeeds us in carrying on our business;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "Purpose To share data with our service providers, such as those that host data for us, including Amazon Web Services To share data with our affiliates To market our products and services as well as enable third parties to provide advertisements to you via the Application To respond to law enforcement organization, or other government officials where we have a legal obligation, including complying with legal demands and complying with production and court orders. We will notify user of the information request or submission as, and if, allowed. The day to day running and management of the business including to monitor, maintain and improve the processes, information and data, technology and communications solutions and services we use; protect our legal rights and interests; and share such personal information with third parties that acquire or are interested in acquiring all or part of our assets or shares, or that succeeds us in carrying on our business;",
+      "lang": "English"
+    }
+  ]
+}

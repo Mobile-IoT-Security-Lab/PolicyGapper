@@ -1,0 +1,52 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Internet and other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements, which we share with our service providers, advertising partners, and other vendorsão Services; and",
+      "justification": "The policy states that search history is shared with 'advertising partners'. Sharing data with advertising partners for their own purposes is considered 'sharing' and must be disclosed in the Data Safety section.",
+      "how_to_fix": "In the Data Safety form, declare that 'In-app search history' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Internet and other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements, which we share with our service providers, advertising partners, and other vendorsão Services; and",
+      "justification": "The policy states that browsing history is shared with 'advertising partners'. Sharing data with advertising partners for their own purposes is considered 'sharing' and must be disclosed in the Data Safety section.",
+      "how_to_fix": "In the Data Safety form, declare that 'Web browsing history' is 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Emails",
+      "policy_reference": "(6) Categories of Personal Information Disclosed for a Business Purpose: In the preceding 12 months, we may have disclosed the following categories of personal information about you for a business purpose: identifiers, other identifying information (e.g., social security number), financial information, commercial information, internet and other electronic network activity information, sensory information, and inferences.",
+      "justification": "The policy states that 'identifiers' (which include emails) are 'disclosed for a business purpose'. This broad disclosure to third parties, without being limited to exempt service providers acting solely on the developer's behalf, constitutes 'sharing' under Google Play policy.",
+      "how_to_fix": "In the Data Safety form, declare that 'Emails' are 'Shared' with third parties.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "(6) Categories of Personal Information Disclosed for a Business Purpose: In the preceding 12 months, we may have disclosed the following categories of personal information about you for a business purpose: identifiers, other identifying information (e.g., social security number), financial information, commercial information, internet and other electronic network activity information, sensory information, and inferences.",
+      "justification": "The policy states that 'sensory information' (which includes photos) is 'disclosed for a business purpose'. This broad disclosure to third parties, without being limited to exempt service providers acting solely on the developer's behalf, constitutes 'sharing' under Google Play policy.",
+      "how_to_fix": "In the Data Safety form, declare that 'Photos' are 'Shared' with third parties.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Partners. Payment and purchase information is collected and processed by payment partners for payment processing and anti-fraud.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is transferred to 'payment partners' for the explicit purpose of 'payment processing and anti-fraud'. This is a transfer to a service provider acting on the developer's behalf, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action needed. This transfer is exempt from being declared as 'sharing' under the service provider exemption.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Payment Partners. Payment and purchase information is collected and processed by payment partners for payment processing and anti-fraud.",
+      "reason_of_removal": "Service Provider",
+      "justification": "The policy indicates data is transferred to 'payment partners' for the explicit purpose of 'payment processing and anti-fraud'. This is a transfer to a service provider acting on the developer's behalf, which is exempt from disclosure as 'sharing'.",
+      "how_to_fix": "No action needed. This transfer is exempt from being declared as 'sharing' under the service provider exemption.",
+      "lang": "English"
+    }
+  ]
+}
+```

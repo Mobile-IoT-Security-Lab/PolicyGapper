@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "d. Internet or other electronic activity information: information regarding your interaction with our Sites and advertisements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "d. Internet or other electronic activity information: information regarding your interaction with our Sites and advertisements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "These categories of personal information are shared for cross-context behavioral advertising or targeted advertising with, advertising networks and other companies that facilitate digital advertising. We engage in such sharing to facilitate digital advertising that is able to reach people that are most likely to be interested in the Services we provide. We do so by allowing third parties to place cookies or other tracking technologies on our website that may collect information about your online activities over time and across different websites or applications. For more information about the use of cookies and other tracking technologies, see the section \"Our Use of Cookies and Analytics\" below.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "c. Commercial and financial information: customers you follow and who follows your account; payment information",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "a. Personal identifiers: name, email address, Instagram and Facebook profile links, contact numbers, account name and password, profile photo/image IP address, location details, language preferences.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "a. Personal identifiers: name, email address, Instagram and Facebook profile links, contact numbers, account name and password, profile photo/image IP address, location details, language preferences.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "f. Audio information: recordings of customer service calls",
+      "lang": "en"
+    }
+  ]
+}

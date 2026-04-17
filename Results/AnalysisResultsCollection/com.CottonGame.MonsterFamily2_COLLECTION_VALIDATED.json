@@ -1,0 +1,133 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We automatically collect certain data from you when you use the Game, including your Ip address and device information (such as application version, network type, OS) and information regarding your use of the Game, such as date and time stamps of actions. We also collect and store your data each time you interact with us, for example, when you use in-app support to communicate with us.",
+      "justification": "The privacy policy states that App interactions is collected: 'information regarding your use of the Game, such as date and time stamps of actions'. This data is collected and stored, indicating it is sent off-device.",
+      "how_to_fix": "Declare the collection of App interactions in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "You may provide additional information as part of your profile (such as gender). You may also provide or generate information when you communicate with other users in the Game (e.g., chat log data, chat content).",
+      "justification": "The privacy policy states that Other User generated content is collected: 'You may also provide or generate information when you communicate with other users in the Game (e.g., chat log data, chat content)'. Communication between users requires data to be sent off-device.",
+      "how_to_fix": "Declare the collection of Other User generated content in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We automatically collect certain data from you when you use the Game, including your Ip address and device information (such as application version, network type, OS) and information regarding your use of the Game, such as date and time stamps of actions. We also collect and store your data each time you interact with us, for example, when you use in-app support to communicate with us.",
+      "justification": "The privacy policy states that Other actions is collected: 'information regarding your use of the Game, such as date and time stamps of actions'. This data is collected and stored, indicating it is sent off-device.",
+      "how_to_fix": "Declare the collection of Other actions in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "Security-Related Information We use this information:for security and verification purposes; identify and address bugs and assess game function for optimize action; solve game crashes and optimize compatibility of devices with the game; and to combat users registering for multiple accounts.",
+      "justification": "The privacy policy states that data is used to 'solve game crashes'. This implies the collection of crash logs, which are sent off-device for analysis.",
+      "how_to_fix": "Declare the collection of Crash logs in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Security-Related Information We use this information:for security and verification purposes; identify and address bugs and assess game function for optimize action; solve game crashes and optimize compatibility of devices with the game; and to combat users registering for multiple accounts.",
+      "justification": "The privacy policy states that data is used to 'identify and address bugs' and 'solve game crashes'. This implies the collection of diagnostics data, which is sent off-device for analysis.",
+      "how_to_fix": "Declare the collection of Diagnostics in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Security-Related Information We use this information:for security and verification purposes; identify and address bugs and assess game function for optimize action; solve game crashes and optimize compatibility of devices with the game; and to combat users registering for multiple accounts.",
+      "justification": "The privacy policy states that data is used to 'assess game function for optimize action' and 'optimize compatibility'. This implies the collection of app performance data, which is sent off-device for analysis.",
+      "how_to_fix": "Declare the collection of Other app performance data in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We automatically collect certain data from you when you use the Game, including your Ip address and device information (such as application version, network type, OS) and information regarding your use of the Game, such as date and time stamps of actions. We also collect and store your data each time you interact with us, for example, when you use in-app support to communicate with us.",
+      "justification": "The privacy policy states that Device or other IDs are collected: 'including your Ip address and device information'. This data is automatically collected and stored, indicating it is sent off-device.",
+      "how_to_fix": "Declare the collection of Device or other IDs in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "• - when you register for the Game (including your nominated nickname, or custom accounts and information we import from your connected social media account (WeChat, Facebook, Google) in order to set up your profile, including your name as it appears on your social media profile and your profile picture);",
+      "justification": "The privacy policy states that Name is collected: 'your name as it appears on your social media profile'. This data is used for the user's profile, which is stored off-device.",
+      "how_to_fix": "Declare the collection of Name in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "If we make material changes in the way we collect, use, retain or share your personal information, we will notify you by sending you an email at the last email address that you provided us, or by posting notice of the changes on the services covered by this privacy policy.",
+      "justification": "The privacy policy implies collection of Email address by stating they will use it for notifications: 'sending you an email at the last email address that you provided us'. To do this, they must collect and store it off-device.",
+      "how_to_fix": "Declare the collection of Email address in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We automatically collect certain data from you when you use the Game, including your Ip address and device information (such as application version, network type, OS) and information regarding your use of the Game, such as date and time stamps of actions. We also collect and store your data each time you interact with us, for example, when you use in-app support to communicate with us.",
+      "justification": "The privacy policy states that data related to a user's account and device is collected and stored, which functions as a User ID. This data is sent off-device.",
+      "how_to_fix": "Declare the collection of User IDs in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "• information you provide when seeking help from us such as your name, telephone number and records of the issues you experience;",
+      "justification": "The privacy policy states that Phone number is collected when a user seeks help: 'information you provide when seeking help from us such as your... telephone number'. This is sent off-device to a support system.",
+      "how_to_fix": "Declare the collection of Phone number in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "You may provide additional information as part of your profile (such as gender). You may also provide or generate information when you communicate with other users in the Game (e.g., chat log data, chat content).",
+      "justification": "The privacy policy states that Other info is collected: 'You may provide additional information as part of your profile (such as gender)'. Profile data is stored off-device.",
+      "how_to_fix": "Declare the collection of Other info in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "• Billing information, such as your name, payment card number and payment account details;",
+      "justification": "The privacy policy states that User payment info is collected: 'Billing information, such as your name, payment card number and payment account details'. This data is sent off-device for processing.",
+      "how_to_fix": "Declare the collection of User payment info in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "Transaction Records: payments on Google Play or iOS AppStore\nWe use this information to maintain a record of your transaction history.",
+      "justification": "The privacy policy states that Purchase history is collected: 'maintain a record of your transaction history'. This record is stored off-device.",
+      "how_to_fix": "Declare the collection of Purchase history in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "• - Demographic data (such as to determine the coarse location of your Ip address)",
+      "justification": "The privacy policy states that Approximate location is collected by deriving it from the user's IP address, which is sent off-device.",
+      "how_to_fix": "Declare the collection of Approximate location in the app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "You may also provide or generate information when you communicate with other users in the Game (e.g., chat log data, chat content).",
+      "justification": "The privacy policy states that Other in-app messages are collected: 'communicate with other users in the Game (e.g., chat log data, chat content)'. This data is sent off-device to facilitate communication.",
+      "how_to_fix": "Declare the collection of Other in-app messages in the app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "- when you register for the Game (including your nominated nickname, or custom accounts and information we import from your connected social media account (WeChat, Facebook, Google) in order to set up your profile, including your name as it appears on your social media profile and your profile picture);",
+      "justification": "The privacy policy states that Photos are collected in the form of a 'profile picture'. This is uploaded and stored off-device.",
+      "how_to_fix": "Declare the collection of Photos in the app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "If you enable chat services (audio or text) then we will process such data in order to deliver your messages to other users.",
+      "justification": "The privacy policy states that Voice or sound recordings are collected for audio chat: 'If you enable chat services (audio or text) then we will process such data'. This data is sent off-device to be delivered to other users.",
+      "how_to_fix": "Declare the collection of Voice or sound recordings in the app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We share personal data, including customer telephone number and names (redacted where possible), with other users when sending or receiving e-money or issuing statements containing information such as transaction history.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may work with background checks companies and credit referencing agencies who help us to verify users' identity and background information, and to screen users, including in connection with sanctions, anti-money laundering and know-your-customer requirements.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We share personal data, including customer telephone number and names (redacted where possible), with other users when sending or receiving e-money or issuing statements containing information such as transaction history.",
+      "lang": "English"
+    }
+  ]
+}

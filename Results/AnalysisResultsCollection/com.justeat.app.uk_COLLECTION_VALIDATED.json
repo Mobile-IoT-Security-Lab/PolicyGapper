@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Information you provide to us: We collect information you provide when you create an account, place an order, or contact customer support. This may include your name, email address, phone number, delivery address, and payment information. We also collect your order details, including the items you purchase, special instructions, and your feedback and ratings.",
+      "justification": "The privacy policy states that the app collects user-generated content such as 'special instructions', 'feedback and ratings'.",
+      "how_to_fix": "Declare 'Other user-generated content' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Technical Data: We and our partners use cookies and similar technologies to collect information about your browsing activities, device type, operating system, and other technical details to ensure our Services function correctly, to analyze performance, and to deliver personalized advertising. This may include unique identifiers associated with your device.",
+      "justification": "The privacy policy indicates collection of technical data to 'analyze performance' and ensure services 'function correctly'.",
+      "how_to_fix": "Declare 'Other app performance data' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "If you choose to link your Just Eat account with a social network account (such as Facebook), you may be asked to provide us with your username and password for your social network accounts. We may also receive certain information from the social network, such as your name, profile picture, gender, friend lists and any other information you have chosen to make available. This information is used by us to create your Just Eat account.",
+      "justification": "The privacy policy states that when linking a social network, the app collects the 'username' to create the app account, which functions as a User ID.",
+      "how_to_fix": "Declare 'User IDs' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "If you choose to link your Just Eat account with a social network account (such as Facebook), you may be asked to provide us with your username and password for your social network accounts. We may also receive certain information from the social network, such as your name, profile picture, gender, friend lists and any other information you have chosen to make available. This information is used by us to create your Just Eat account.",
+      "justification": "The privacy policy states the app may receive 'profile picture, gender, friend lists and any other information you have chosen to make available' from a linked social network.",
+      "how_to_fix": "Declare 'Other info' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "We process health information about you only where you volunteer this to us, for example if you specify any food allergies. We will only do this with your consent.",
+      "justification": "The privacy policy explicitly states the app processes 'health information' such as 'food allergies' when volunteered by the user.",
+      "how_to_fix": "Declare 'Health info' as a collected data type in your app's Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We may also collect information that you provide to us when you correspond with us (for example, by email, chat or phone). This includes information you provide when you register to use our Platforms, subscribe to our service, search for a product, place an Order on our Platforms, participate in discussion boards or other social media functions on our Platforms, enter a competition, promotion or survey, submit a query or report a problem with our Platforms. The information you give us may include your name, address, email address and phone number, financial and credit card information, personal description and photograph.",
+      "justification": "The privacy policy states the app collects information from user correspondence via 'email, chat or phone'.",
+      "how_to_fix": "Declare 'Other in-app messages' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may also collect information that you provide to us when you correspond with us (for example, by email, chat or phone). This includes information you provide when you register to use our Platforms, subscribe to our service, search for a product, place an Order on our Platforms, participate in discussion boards or other social media functions on our Platforms, enter a competition, promotion or survey, submit a query or report a problem with our Platforms. The information you give us may include your name, address, email address and phone number, financial and credit card information, personal description and photograph.",
+      "justification": "The privacy policy states that information provided by the user may include a 'photograph'.",
+      "how_to_fix": "Declare 'Photos' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We may record and monitor any communications we have with you, including phone conversations and emails, for the purposes of training, fraud prevention and quality assurance.",
+      "justification": "The privacy policy explicitly states that the app may 'record and monitor... phone conversations'.",
+      "how_to_fix": "Declare 'Voice or sound recordings' as a collected data type in your app's Data Safety section.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

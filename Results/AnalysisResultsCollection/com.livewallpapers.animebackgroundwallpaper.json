@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Device type, operating system, language, region, app usage statistics, and interactions within the app. This information is collected to help us improve app performance and enhance the user experience.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "Device type, operating system, language, region, app usage statistics, and interactions within the app. This information is collected to help us improve app performance and enhance the user experience.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may use or allow third-party services (such as advertising networks and analytics tools) to collect anonymous information. This may include general device information, app usage data, and region/language settings. The purpose of this data collection is to display relevant advertisements, measure app performance, and improve our services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Advertising & Analytics Data:\nWe may use or allow third-party services (such as advertising networks and\nanalytics tools) to collect anonymous information.\nThis may include general device information, app usage data, and region/language\nsettings.\nThe purpose of this data collection is to display relevant advertisements, measure\napp performance, and improve our services.",
+      "lang": "English"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "If the app includes a rating system, we collect in this context the following data: date and time of the given rating, the number of given stars, if available the written message of the writer, IP address, the operating system, the operating system version, as well as details of the used device. These data are collected for the continuous improvement of the app and after 14 days partially deleted and anonymized, so that they can no longer be assigned to a user.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "If the app includes a rating system, we collect in this context the following data: date and time of the given rating, the number of given stars, if available the written message of the writer, IP address, the operating system, the operating system version, as well as details of the used device. These data are collected for the continuous improvement of the app and after 14 days partially deleted and anonymized, so that they can no longer be assigned to a user.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "For statistical evaluations, after opening the app, the IP address, the operating system version, date and time and the manufacturer of the device as well as details of the used device are recorded. These data are partially deleted and anonymized after 14 days, so that they can no longer be assigned to a user.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "For statistical evaluations, after opening the app, the IP address, the operating system version, date and time and the manufacturer of the device as well as details of the used device are recorded. These data are partially deleted and anonymized after 14 days, so that they can no longer be assigned to a user.",
+      "lang": "English"
+    }
+  ]
+}

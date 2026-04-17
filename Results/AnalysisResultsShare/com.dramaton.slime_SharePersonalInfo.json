@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We use the following ad networks in our apps. These ad networks may collect an IP address, advertising ID and device ID to serve contextual ads and for ad frequency capping.\n• Chartboost\n•\nDigital Turbine\n• Google AdMob and Ad Manager\n• IronSource\n• KIDOZ\n•\nUnity\n• Liftoff (formerly Vungle)\n• Mintegral\n• SuperAwesome",
+      "lang": "English"
+    }
+  ]
+}

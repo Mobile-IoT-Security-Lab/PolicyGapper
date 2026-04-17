@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "You can give us the information by filling the request form at Amber, over call, email or at various offline promotional events. The informational you give us may include your name, phone number, email id. For booking your accommodation at Amber you may need to give further personal information (ex. Birth date, country of origin, guarantor's details, University name etc) on call or email or other messaging services as necessary",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "You can give us the information by filling the request form at Amber, over call, email or at various offline promotional events. The informational you give us may include your name, phone number, email id. For booking your accommodation at Amber you may need to give further personal information (ex. Birth date, country of origin, guarantor's details, University name etc) on call or email or other messaging services as necessary",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "You can give us the information by filling the request form at Amber, over call, email or at various offline promotional events. The informational you give us may include your name, phone number, email id. For booking your accommodation at Amber you may need to give further personal information (ex. Birth date, country of origin, guarantor's details, University name etc) on call or email or other messaging services as necessary",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "You can give us the information by filling the request form at Amber, over call, email or at various offline promotional events. The informational you give us may include your name, phone number, email id. For booking your accommodation at Amber you may need to give further personal information (ex. Birth date, country of origin, guarantor's details, University name etc) on call or email or other messaging services as necessary",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Using our online chat functionality may also mean that we collect information on your country and IP address. This information will not be used for any purpose other than to enhance the functionality the website.",
+      "lang": "English"
+    }
+  ]
+}

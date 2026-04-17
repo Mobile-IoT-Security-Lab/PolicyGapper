@@ -1,0 +1,62 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We also work with third party analytics providers who use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, and links clicked. This information may be used by Medium and others to, among other things analyze and track data determine the popularity of certain cookies and how to disable them, see Your Choices below.",
+      "justification": "The policy states data is shared with third-party analytics providers and may be used by 'Medium and others', which implies the third party may use the data for their own purposes, constituting 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare that 'App interactions' data is 'shared' with third parties in your Google Play Console Data Safety form.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We also work with third party analytics providers who use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, and links clicked. This information may be used by Medium and others to, among other things analyze and track data determine the popularity of certain cookies and how to disable them, see Your Choices below.",
+      "justification": "The policy states device identifiers are collected by third-party analytics providers and may be used by 'Medium and others', which implies the third party may use the data for their own purposes, constituting 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare that 'Device or other IDs' data is 'shared' with third parties in your Google Play Console Data Safety form.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We share personal information with other users of the Services. For example, if you use our Services to publish content, post comments or send private notes, certain information about you will be visible to others, such as your name, photo, bio, other account information you may provide, and information about your activities on our Services (e.g., your followers and who you follow, recent posts, claps, highlights, and responses).",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing that occurs as a direct result of a specific user action (e.g., publishing content, posting a comment). This is exempt from being declared as 'sharing' under the user-initiated action exemption.",
+      "how_to_fix": "No action required. This is not considered 'sharing' that needs to be declared in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We share personal information with other users of the Services. For example, if you use our Services to publish content, post comments or send private notes, certain information about you will be visible to others, such as your name, photo, bio, other account information you may provide, and information about your activities on our Services (e.g., your followers and who you follow, recent posts, claps, highlights, and responses).",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing of user activities (e.g., followers, claps, responses) that occurs as a direct result of a specific user action. This is exempt from being declared as 'sharing' under the user-initiated action exemption.",
+      "how_to_fix": "No action required. This is not considered 'sharing' that needs to be declared in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "We share personal information with other users of the Services. For example, if you use our Services to publish content, post comments or send private notes, certain information about you will be visible to others, such as your name, photo, bio, other account information you may provide, and information about your activities on our Services (e.g., your followers and who you follow, recent posts, claps, highlights, and responses).",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing the user's name as a direct result of a specific user action (e.g., publishing content, posting a comment). This is exempt from being declared as 'sharing' under the user-initiated action exemption.",
+      "how_to_fix": "No action required. This is not considered 'sharing' that needs to be declared in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other in-app messages",
+      "policy_reference": "We share personal information with other users of the Services. For example, if you use our Services to publish content, post comments or send private notes, certain information about you will be visible to others, such as your name, photo, bio, other account information you may provide, and information about your activities on our Services (e.g., your followers and who you follow, recent posts, claps, highlights, and responses).",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing that occurs when a user takes the specific action of sending a private note to another user. This is exempt from being declared as 'sharing' under the user-initiated action exemption.",
+      "how_to_fix": "No action required. This is not considered 'sharing' that needs to be declared in the Data Safety section.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We share personal information with other users of the Services. For example, if you use our Services to publish content, post comments or send private notes, certain information about you will be visible to others, such as your name, photo, bio, other account information you may provide, and information about your activities on our Services (e.g., your followers and who you follow, recent posts, claps, highlights, and responses).",
+      "reason_of_removal": "User-initiated sharing",
+      "justification": "The policy describes sharing the user's photo as a direct result of a specific user action (e.g., publishing content, posting a comment). This is exempt from being declared as 'sharing' under the user-initiated action exemption.",
+      "how_to_fix": "No action required. This is not considered 'sharing' that needs to be declared in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

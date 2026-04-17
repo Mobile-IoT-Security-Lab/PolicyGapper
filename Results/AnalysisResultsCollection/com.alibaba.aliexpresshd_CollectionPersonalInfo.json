@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other info",
+      "policy_reference": "Questionnaire Information | Such as any response to questionnaires for market research/analytics which you choose to partake in which can include marital status, nationality, gender, date of birth, annual income and spending preferences. In some circumstances this could include or constitute information which is considered more sensitive. If you prefer not to provide such information, the use of our services and products will not be affected.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payment Information | Such as credit card or similar payment information that you intend to purchase with; billing and delivery address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "Questionnaire Information | Such as any response to questionnaires for market research/analytics which you choose to partake in which can include marital status, nationality, gender, date of birth, annual income and spending preferences. In some circumstances this could include or constitute information which is considered more sensitive. If you prefer not to provide such information, the use of our services and products will not be affected.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "General Personal Information | When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and weight. For example, this information may be used by us to recommend clothing sizes or styles, personalization, or to provide fit prediction services for you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Platform Usage Information | Such as information relating to how you use and engage with the Platform including IP addresses, date and time of access to the Platform, device type, unique device identification numbers, browser type, broad geographic location (e.g., country or city-level location), browsing patterns and details of how you have interacted with our Platform and the goods and services available on it. In addition, we gather information about the Platform and visitors to the Platform including browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors.",
+      "lang": "English"
+    }
+  ]
+}

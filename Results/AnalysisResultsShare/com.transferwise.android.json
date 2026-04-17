@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We use third-party social media plugins, such as the Facebook Like button, on our website. These plugins may collect your IP address and information about your browsing activity. We use this information to allow you to share our content on social media.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We collect and process your location data to provide you with location-based services, such as finding nearby ATMs, and for fraud prevention and security purposes. We may share this data with our partners to help us provide these services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We collect and process your location data to provide you with location-based services, such as finding nearby ATMs, and for fraud prevention and security purposes. We may share this data with our partners to help us provide these services.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Credit score",
+      "policy_reference": "We may share your personal data with third parties, including: ... Credit reference agencies: for the purposes of identity verification and credit checking.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Photos",
+      "policy_reference": "We may share your personal data with: ... Fraud and crime prevention agencies, to help fight fraud, money laundering and terrorist financing.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "We may share your personal data with: ... Fraud and crime prevention agencies, to help fight fraud, money laundering and terrorist financing.",
+      "lang": "English"
+    }
+  ]
+}

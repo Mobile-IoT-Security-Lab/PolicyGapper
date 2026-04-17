@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "We also collect the following personal information to help us learn more about how you use the app, the ads you interact with in the app or make a purchase in the app:\n• Device ID\n• Advertising IDs (IDFA, AAID/GAID, IDFV)\n• IP Address\n•\nDramaton user ID",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "We may use your or your child's information to send questions or requests to customer support. If you reach out to us for support, we will use your Personal Information to open a support ticket, respond once to your email and resolve your queries and complaints and to facilitate support (e.g., retrieval of Game level). The Personal Information we process when doing so includes your identifiers, Dramaton specific ID, where you are located and any other information about you collected via our player support channels. All support emails and user information will be deleted immediately after replying to the user.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may collect and store your Device's source IP address which may disclose the location of your Device or take other applicable measures in order to disclose your Device's location, all provided and subject to the App being installed on your Device. Advertisements and certain content related to our App could be directed to you as a result of this information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Your Personal Information will be collected by our billing partners if you make an in-game purchase. Please note that we only sell Dramaton in-app virtual items related to the applicable App, and we don't sell or market any third-party products. If making such a purchase, your credit card or other payment information will be collected and processed by the third-party service provider (e.g., Google Play, Apple App Store), but will never be passed on to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "We collect Information to perform our contractual obligation towards you to allow you to play the Games, we process necessary Information including Information you provide to us when playing the Games, identifiers, information you generate and display when playing the Games, information regarding your use of the Games and information regarding your in Game purchases",
+      "lang": "English"
+    }
+  ]
+}

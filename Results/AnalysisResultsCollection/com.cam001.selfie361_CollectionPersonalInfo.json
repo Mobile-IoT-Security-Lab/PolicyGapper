@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "Where we process registration data, we do this for as long as you are an active user of our sites and for 12 months after this.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "We collect information about your device, including the hardware model, operating system and version, unique device identifiers (including MAC address and IMEI), browser type and language, mobile device phone number, and mobile network information. We also collect certain device information that will help us diagnose problems in the (hopefully rare) event you experience any crash or other problem while using our Services. So, for example, if we detect a crash or other problematic event, we may collect the list of apps on your device and other information about your device's performance at the time of the event for troubleshooting purposes.",
+      "lang": "English"
+    }
+  ]
+}

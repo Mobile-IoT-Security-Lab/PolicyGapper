@@ -1,0 +1,39 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "The analysis of user interactions is carried out using the analysis service of Firebase Analytics. This service helps us to record our users' interactions. Events such as the first time an app is opened, the uninstalling of an app, updates, crashes or the frequency of use of the app are recorded. Certain user interests are also recorded and evaluated. The information processed by Google Firebase may be used with other Google services, such as Google Analytics and Google marketing services. In this case, only pseudonymous information, such as the Android Advertising ID or the Advertising Identifier for iOS, will be processed to identify users' mobile devices. Additional information on the use of data for marketing purposes by Google can be found on the summary page: https://www.google.com/policies/technologies/ads, Google's privacy policy is available at https://www.google.com/policies/privacy. The legal basis for use is Art. 6 paragraph 1 sentence 1 letter f GDPR. If users wish to object to interest-based advertising through Google marketing services, they can use the settings and opt-out options provided by Google: http://www.google.com/ads/preferences.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "We use the services of SurveyMonkey Inc (San Mateo, One Curiosity Way, San Mateo, California 94403, \"SurveyMonkey”) to conduct the surveys. SurveyMonkey collects additional information from participants in the form of cookies, which are only intended to ensure that the survey service is fully usable and that the surveys run as intended.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Use of technologies belonging to Taboola Inc. (Taboola Inc., Atrium Tower, 2 Jabotinsky St., 32nd fl., Ramat Gan 5250501 Tel Aviv) allows us to utilize user-specific advertising based on surfing behavior and customer interests. Taboola uses cookies (or similar technologies) to determine which websites you visit frequently and record your movements on our website. Taboola gathers device-related data and protocol data and creates usage profiles using pseudonyms. The usage profiles are not merged with the data about the bearer of the pseudonym and do not allow conclusions to be drawn on personal data. To do this, we communicate your IP address to Taboola. This processing is carried on the legal basis of our legitimate economic interest (Art. 6 paragraph 1 letter f GDPR.) You can object to inclusion in the tracking via the following link: https://www.taboola.com/privacy-policy#user-choices-and-optout. Once you have successfully opted out, you will no longer see personalized content/adverts.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We use the service Bugsnag of Bugsnag Inc. (USA) in some of our games. This service enables us to quickly identify errors in our games that have caused a malfunction or crash and thus improve our service. If an error occurs, the player ID, the player name and, if applicable, details of the page or the app where the error occurred and the data built into them are transmitted to Bugsnag for error evaluation. You can find more information in Bugsnag's privacy policy: https://docs.bugsnag.com/legal/privacy-policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We use the service Bugsnag of Bugsnag Inc. (USA) in some of our games. This service enables us to quickly identify errors in our games that have caused a malfunction or crash and thus improve our service. If an error occurs, the player ID, the player name and, if applicable, details of the page or the app where the error occurred and the data built into them are transmitted to Bugsnag for error evaluation. You can find more information in Bugsnag's privacy policy: https://docs.bugsnag.com/legal/privacy-policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We use the service Bugsnag of Bugsnag Inc. (USA) in some of our games. This service enables us to quickly identify errors in our games that have caused a malfunction or crash and thus improve our service. If an error occurs, the player ID, the player name and, if applicable, details of the page or the app where the error occurred and the data built into them are transmitted to Bugsnag for error evaluation. You can find more information in Bugsnag's privacy policy: https://docs.bugsnag.com/legal/privacy-policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "The advertising displayed through our partners is either personalized or non-personalized (context-related). The data you provide when using advertising media is collected and analyzed, which will be explained in more detail below. Our SDK service providers Fyber (Fyber N.V., Johannisstraße 20, 10117 Berlin) and Admob by Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland; \"Google\") allow us to put this type of ad monetization into practice. If a player decides to watch a video ad, the service providers take over control of the in-game advertising networks. This involves the following parameters being shared via an interface with the advertising networks: Advertising ID, IP address, browser, operating system, version, country, city, placement ID and bundle ID. The aim of this transmission of information is to display the best possible advertising material for the user. The SDKs for the advertising networks mentioned may possibly also process personal data, such as advertising ID and IP address, in order to be able to provide that advertising material.",
+      "lang": "English"
+    }
+  ]
+}

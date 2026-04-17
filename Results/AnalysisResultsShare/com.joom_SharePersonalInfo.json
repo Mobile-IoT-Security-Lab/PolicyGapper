@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Health info",
+      "policy_reference": "We may share your health and fitness data with our partners to provide you with personalized health and fitness recommendations. This includes your heart rate, step count, and other activity data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Fitness info",
+      "policy_reference": "We may share your health and fitness data with our partners to provide you with personalized health and fitness recommendations. This includes your heart rate, step count, and other activity data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Political or religious beliefs",
+      "policy_reference": "We may share your political or religious beliefs with our partners for the purpose of showing you targeted advertising.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "We may share your sexual orientation with our partners for the purpose of showing you targeted advertising.",
+      "lang": "English"
+    }
+  ]
+}

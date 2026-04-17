@@ -1,0 +1,111 @@
+1. What information do Kidslox apps collect and how is it used?
+1.1. We collect and store the information that you provide to us when you
+first become a Kidslox app user – that is, your name and your email address.
+The main reason to collect your email address is to make it easy for you to
+use Kidslox apps. We also use this information to keep in contact with you,
+to provide information about Kidslox apps (including our products and offers
+that we make available from time to time) and seek your feedback. We may
+in the future use it to provide you with information about any future partners
+and the various services they may offer, or create anonymous and/or de-
+identified data records from your personal information by excluding
+information (such as your name) that make the data personally identifiable to
+you.
+---
+Additionally, if you have granted Kidslox apps access to any data connected
+to your Google account, you can revoke this access via the Google security
+settings page at https://security.google.com/settings/security/permissions
+---
+1.2. We also collect, automatically, information about how you have used
+Kidslox apps: about your schedules, your devices' operating systems, IP
+address, etc.
+We analyse this information to troubleshoot any issues users encountered, to
+work out how our products are being used and how to improve them.
+--- [PAGE BREAK] ---
+1.3. If you turn on the location tracking feature on a device, we also collect
+that device's location data, as well as any geo-fence zones you set up.
+Location data is used solely for the delivery of the location tracking feature
+and is deleted from our systems 7 days after it is collected.
+---
+1.4. Some Kidslox app features use YouTube API services to help you
+understand what videos are being viewed on devices you are supervising. By
+using these features, you also agree to be bound by the Google Privacy
+Policy (which you can find in full here
+http://www.google.com/policies/privacy). Specifically, Kidslox apps collect
+and store video viewing history, for the sole purpose of presenting this
+information to the user. This data is deleted from our systems 7 days after it
+is collected.
+---
+1.5. Kidslox “Telescope” feature takes screenshots of any Android device
+(Android 11+) being monitored by your account, the screenshots (and any
+data which happens to be held therein) are collected for the sole purpose of
+presenting this information to the user. These screenshots are encrypted,
+accessible only by the account owner, and are stored on Kidslox server for
+14 days, after which they are deleted.
+---
+1.6. Kidslox “Nudity scanner” feature detects nudity in photos in the device
+gallery or taken by Kidslox “Telescope” feature. It does this directly on the
+controlled device, without sending the data anywhere off-device. If it detects
+something suspicious in an image, that image is not sent off the device for
+any reason, even to the parent. Instead the parent will recieve a notification
+about it.
+--- [PAGE BREAK] ---
+3. What about children's data?
+Depending on how you use the services of Kidslox apps, you might provide
+us with data from which it would in theory be possible to identify your
+children. This would occur if you (i) use an email address from which it is
+possible to identify you; (ii) use your children's names to identify the
+children's devices that are controlled by Kidslox apps; and (iii) the
+combination of your name and your children's names is sufficient to identify
+the children. We do not use this data and the only purposes for which any
+person has access to it are those which are a necessary part of maintaining
+and developing Kidslox Inc's products.
+---
+4. What do you do in relation to payment data?
+If you make any direct purchases from us (that is, purchases not made
+through an app store), your credit card or debit card information (such as card
+type and expiration date) and other financial data that we need to process
+your payment may be collected and stored by the payment processors with
+which we work. In addition, the payment processors generally provide us
+with some limited information related to you, such as a unique token that
+enables you to make additional purchases using the information they've
+stored, including recurring payments if you authorize automatic renewals,
+and your card's type, expiration date, and certain digits of your card number.
+--- [PAGE BREAK] ---
+6. What about GDPR?
+We have considered the European Union's General Data Protection
+Regulation (or "GDPR”) and are satisfied that we are compliant. To the
+extent we use your personal data, we consider that this is reasonably
+necessary to protect and promote your and our legitimate interests in the
+provision of Kidslox Inc's products and services. In particular, (i) we do not
+collect any information other than that which we need to collect in order to
+provide products and services; (ii) we use contact details to provide you with
+information about our products and services; (iii) we also use contact details
+to provide information about offers and additional products and services,
+which is in your and our interests; (iv) we take reasonable steps to secure the
+data which we collect; and (v) we do not retain data of those who have
+ceased to be Kidslox Inc customers.
+---
+7. How can you contact us if you have any questions?
+If you have any questions or concerns or complaints about our Privacy Policy
+or our data collection or processing practices, or if you want to report any
+security violations to us, please contact us at the following email address:
+support@kidslox.com.
+---
+8. What if this privacy policy changes?
+This Privacy Policy is subject to occasional revision, and if we make any
+material changes in the way we use your personal information, we will notify
+you by sending you an e-mail to the last e-mail address you provided to us
+and/or by prominently posting notice of the changes on our website. Please
+note that at all times you are responsible for updating your personal
+information to provide us with your most current e-mail address. In the event
+that the last e-mail address that you have provided us is not valid, or for any
+reason is not capable of delivering to you the notice described above, our
+dispatch of the e-mail containing such notice will nonetheless constitute
+effective notice of the changes described in the notice. In any event, changes
+to this Privacy Policy may affect our use of personal information that you
+provided us prior to our notification to you of the changes. If you do not wish
+to permit changes in our use of your personal information, you must notify us
+prior to the effective date of the changes. Continued use of our services,
+following notice of such changes shall indicate your acknowledgement of
+such changes and agreement to be bound by the terms and conditions of
+such changes.

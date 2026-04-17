@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "On Boomplay, we use third-party analytics tools to help us measure traffic and usage trends for the Services. Traffic refers to the different data flows surrounding activities of the users on the Services. These tools, for example, collect information sent by your device or our Services, including the pages you visit, add-ons, and other information that assists us in improving the Service. The information will be used to report and evaluate user activities and to assist us in providing our Services to provide services in accordance with these activities.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• Information you share with us. This is the information about you or relating to you that is voluntarily shared by you on Boomplay. Information you share with us may include without limitation postings that you make on Boomplay (including your public profile, name, identification number, address, email address, social media login details, telephone number, information about your device, your browsing records, the comments you make on Boomplay, as well as account and billing details, the lists you create, and photos, videos and voice recordings as accessed with your prior consent through your device settings you turn on), any postings from others that you re-post and location data and log data associated with such postings. Information you share with us also includes information about you (including location data and log data) that others who are using Boomplay share about you. Information you share with us will remain publicly-available for so long as you or a user that has shared such information retains it.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Targeting Cookies. These Cookies record your visit to Boomplay, the pages you have visited and the links you have followed. We will use this information to make Boomplay and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may share your personal data with selected third parties in or outside your country, including without limitation:\n• Our business partners so that we can make you special offers via Boomplay;\n• With respect to on-screen ads, advertisers and advertising networks that require the data to select and serve advertisements to you and others. Without your consent, we will not share your contact details to our business partners to avoid direct contact from them, but we may share other information so that they can make you offers tailored to your requirements;\n• Cloud storage providers to store the information you provide and for disaster recovery services, as well as for the performance of any contract we have entered into with you;\n• Analytics and search engine providers that assist us in the improvement and optimization of Boomplay.\n• IT service providers that help develop, maintain, secure and optimize the Boomplay framework;\n• Our data center and the servers of our host providers.",
+      "lang": "English"
+    }
+  ]
+}

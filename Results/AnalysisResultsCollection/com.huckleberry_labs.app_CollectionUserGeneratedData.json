@@ -1,0 +1,14 @@
+{
+"omitted_declarations": [
+{
+"data_type": "Emails",
+"policy_reference": "If you choose to contact us by sending us an email, fax, or letter, we collect your email address, fax number, or mailing address, and any information contained in the email, fax, or letter you send us.",
+"lang": "en"
+},
+{
+"data_type": "Files and docs",
+"policy_reference": "If you choose to contact us by sending us an email, fax, or letter, we collect your email address, fax number, or mailing address, and any information contained in the email, fax, or letter you send us.",
+"lang": "en"
+}
+]
+}

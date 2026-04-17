@@ -1,0 +1,44 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may use or allow third-party services (such as advertising networks and analytics tools) to collect anonymous information. This may include general device information, app usage data, and region/language settings. The purpose of this data collection is to display relevant advertisements, measure app performance, and improve our services.",
+      "justification": "The privacy policy states that app usage data is collected by third-party advertising networks to display relevant advertisements. This transfer of data to an independent third party for advertising purposes is considered 'sharing' under Google Play's Data Safety policy and is not covered by the service provider exemption.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'App interactions' is 'Shared' with third parties. Specify the purpose as 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may use or allow third-party services (such as advertising networks and analytics tools) to collect anonymous information. This may include general device information, app usage data, and region/language settings. The purpose of this data collection is to display relevant advertisements, measure app performance, and improve our services.",
+      "justification": "The privacy policy states that data related to app performance is collected by third-party advertising networks and analytics tools. When used for advertising, this is considered 'sharing' under Google Play's Data Safety policy and is not covered by the service provider exemption.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'Diagnostics' is 'Shared' with third parties. Specify the purpose as 'Advertising or marketing' and/or 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "We may use or allow third-party services (such as advertising networks and analytics tools) to collect anonymous information. This may include general device information, app usage data, and region/language settings. The purpose of this data collection is to display relevant advertisements, measure app performance, and improve our services.",
+      "justification": "The privacy policy states that app performance data is collected by third-party advertising networks and analytics tools. When used for advertising, this is considered 'sharing' under Google Play's Data Safety policy and is not covered by the service provider exemption.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'Other app performance data' is 'Shared' with third parties. Specify the purpose as 'Advertising or marketing' and/or 'Analytics'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may use or allow third-party services (such as advertising networks and analytics tools) to collect anonymous information. This may include general device information, app usage data, and region/language settings. The purpose of this data collection is to display relevant advertisements, measure app performance, and improve our services.",
+      "justification": "The privacy policy states that 'general device information' is collected by third-party advertising networks. This typically includes device identifiers used for advertising, which constitutes 'sharing' under Google Play's Data Safety policy and is not covered by the service provider exemption.",
+      "how_to_fix": "In your app's Data Safety form, declare that 'Device or other IDs' is 'Shared' with third parties. Specify the purpose as 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We do not sell or trade your personal information to third parties. However, we may share data with: • Service providers (ads, analytics, crash reporting) for operational purposes. • Legal authorities if required by law or to protect our rights.",
+      "reason_of_removal": "Service Provider Exemption",
+      "justification": "The policy explicitly states that crash log data is shared with 'service providers' for 'crash reporting' for 'operational purposes'. This is a permitted transfer to a service provider acting on the developer's behalf and does not need to be declared as 'sharing' in the Data Safety section.",
+      "how_to_fix": "No action needed. This data transfer is exempt from being declared as 'sharing' in the Data Safety section.",
+      "lang": "English"
+    }
+  ]
+}
+```

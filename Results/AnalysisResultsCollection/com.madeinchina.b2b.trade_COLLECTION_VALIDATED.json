@@ -1,0 +1,49 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Installed apps",
+      "policy_reference": "1. Device Information: We will receive and record, according to the specific operations during your installation and/or use of software, information about the device you are using (including but not limited to the device model, version of the operating system, device settings, unique device identifier, device environment, mobile application list, IP address and operator information) and information about the location of your device (including but not limited to the GPS location authorized by you).",
+      "justification": "The privacy policy states that the app collects the 'mobile application list', which corresponds to the 'Installed apps' data type. The policy indicates this data is 'received and recorded', implying it is sent off-device.",
+      "how_to_fix": "Declare 'Installed apps' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "(2) Scope and Destination of Personal Information in Cross-Border Transfers\nThe personal information involved in cross-border transfers includes: email, country of origin, name, gender, company name, phone number, delivery address, and nickname. Your personal information will be synchronized between our data centers in the United States, Germany, and China. This means your data will be transferred, stored, and processed on servers located in these countries. This transfer is essential to ensure the continuous and high-quality service we offer.",
+      "justification": "The privacy policy states that data such as 'gender', 'company name', and 'nickname' are collected and transferred off-device to data centers. These fall under the 'Other info' data type.",
+      "how_to_fix": "Declare 'Other info' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "1. Membership services: to register as a member and use our membership services, you need to provide the member name and password to be used, the mailbox address and password to create a platform account. If you only need to use browsing and search services, you do not need to register as our member and provide the above Pl. We mainly collect your email address, country, name, company name, mobile phone number and sourcing products, type of company, annual purchase volume, purchase frequency and other information. Such Pl is collected to implement the service terms of Buyer App and provide you with the services we promise, so that potential partners or our staff can contact you in a timely manner to facilitate trade cooperation or solve possible problems. You can modify the above contents by logging in with the member name and password or the mailbox address and password.",
+      "justification": "The privacy policy states that 'annual purchase volume' and 'purchase frequency' are collected to facilitate trade cooperation, implying off-device processing. This corresponds to the 'Other financial info' data type.",
+      "how_to_fix": "Declare 'Other financial info' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "1. Device Information: We will receive and record, according to the specific operations during your installation and/or use of software, information about the device you are using (including but not limited to the device model, version of the operating system, device settings, unique device identifier, device environment, mobile application list, IP address and operator information) and information about the location of your device (including but not limited to the GPS location authorized by you).",
+      "justification": "The privacy policy states the app will 'receive and record... information about the location of your device'. This implies data is sent off-device and covers 'Approximate location'.",
+      "how_to_fix": "Declare 'Approximate location' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "1. Device Information: We will receive and record, according to the specific operations during your installation and/or use of software, information about the device you are using (including but not limited to the device model, version of the operating system, device settings, unique device identifier, device environment, mobile application list, IP address and operator information) and information about the location of your device (including but not limited to the GPS location authorized by you).",
+      "justification": "The privacy policy explicitly states the app will 'receive and record... GPS location', which is 'Precise location'. This implies the data is sent off-device.",
+      "how_to_fix": "Declare 'Precise location' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Fresco\tFacebook, Inc.\tLoad images.\tVisit phone storage, contacts. For more information, Please visit:\nhttps://opensource.fb.com/legal/privacy",
+      "justification": "The privacy policy states the app will 'Visit... contacts'. As there is no explicit statement that this data is processed only on-device, it does not qualify for an exemption and must be declared as collected.",
+      "how_to_fix": "Declare 'Contacts' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

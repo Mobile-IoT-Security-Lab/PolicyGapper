@@ -1,0 +1,26 @@
+• Network permission, INTERNET, is unnecessary. However, please understand that A-GPS coordinates need to access
+the network. Geotagging requires access to Google Geodatabase too. In the lite/free version, Google ads require the use
+of the Internet.
+---
+Privacy Policy - Information Collection
+The App uses third-party services, Google AdMob, to display advertisements. These services may collect:
+•
+Device information (e.g., model, OS version)
+•
+•
+Advertising ID (e.g., Google Advertising ID)
+Usage data (e.g., ad impressions, interactions)
+---
+Privacy Policy - Third-Party Services
+We use third-party service providers, including but not limited to:
+•
+Google AdMob
+These providers process your data in accordance with their own privacy policies.
+--- [PAGE BREAK] ---
+Crime warning
+In some areas, our app is used for crime. If you are the following two kinds of people, please read the following instructions.
+• For law enforcement officers, we cannot do anything for you. This app does not collect any user information. Therefore,
+we cannot provide anything. (If it does collect information, it would be a malware. This would violate Google's policy. It will
+be removed from the Google Play Store.) Providing user information to a third party is illegal in most countries. Law
+enforcement officers cannot violate the law. Of course, you cannot ask us to break the law to help you find the person who
+breaks the law.

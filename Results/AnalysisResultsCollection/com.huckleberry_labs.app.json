@@ -1,0 +1,59 @@
+{
+    "omitted_declarations": [
+        {
+            "data_type": "Emails",
+            "policy_reference": "If you choose to contact us by sending us an email, fax, or letter, we collect your email address, fax number, or mailing address, and any information contained in the email, fax, or letter you send us.",
+            "lang": "en"
+        },
+        {
+            "data_type": "Files and docs",
+            "policy_reference": "If you choose to contact us by sending us an email, fax, or letter, we collect your email address, fax number, or mailing address, and any information contained in the email, fax, or letter you send us.",
+            "lang": "en"
+        },
+        {
+      "data_type": "Other User generated content",
+      "policy_reference": "If you choose to add information to your user profile, we will collect that information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "When you use our Products, we record actions you have taken in our Products, for example what buttons you click; events that occur; and your usage, progress, and performance data.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "When you use our Products, we record actions you have taken in our Products, for example what buttons you click; events that occur; and your usage, progress, and performance data.",
+      "lang": "English"
+    },
+     {
+      "data_type": "Address",
+      "policy_reference": "9. If you choose to contact us by sending us an email, fax, or letter, we collect your email address, fax number, or mailing address, and any information contained in the email, fax, or letter you send us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "5. Specific Products may ask you for and collect additional information, such as your date of birth or phone number (to assist with customer service).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "2. Information that we may ask for about your child used strictly and confidentially to provide the sleep and behavioral improvement services are:\nA. Your child's name.\nB. Your child's age and birthdate.\nC. Your child's gender.\nD. The time zone where your child resides.\nE. Your child's daily activities including but not limited to:\ni. Your child's sleep patterns and how he or she falls asleep or wakes up.\nii. How your child is cared for during the day.\niii. Scheduling information such as when your child eats meals, activities, when the child gets ready for bed and when the child is first put down to sleep.\niv. Your child's eating habits and feeding schedules.\nv. Temperament.\nvi. Bathroom habits.\nvii. Other child development and behavioral improvement markers and behaviors.\nF. Information that you voluntarily provide to us about your child.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "10. When you pay for one of our Products, we collect your complete credit card or other payment method information. We do not store such information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "2. Information that we may ask for about your child used strictly and confidentially to provide the sleep and behavioral improvement services are:\nA. Your child's name.\nB. Your child's age and birthdate.\nC. Your child's gender.\nD. The time zone where your child resides.\nE. Your child's daily activities including but not limited to:\ni. Your child's sleep patterns and how he or she falls asleep or wakes up.\nii. How your child is cared for during the day.\niii. Scheduling information such as when your child eats meals, activities, when the child gets ready for bed and when the child is first put down to sleep.\niv. Your child's eating habits and feeding schedules.\nv. Temperament.\nvi. Bathroom habits.\nvii. Other child development and behavioral improvement markers and behaviors.\nF. Information that you voluntarily provide to us about your child.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "1. When you use our Products, we record certain information automatically, for example your Internet protocol (“IP”) address, browser type and plugins, operating systems, screen size and resolution, the time and date at which you access our Products, and an estimate of your geographic location.",
+      "lang": "English"
+    }
+    ]
+}

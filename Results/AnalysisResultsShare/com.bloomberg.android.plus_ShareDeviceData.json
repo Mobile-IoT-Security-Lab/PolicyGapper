@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "We may share personal data with our advertising partners to show you ads that we think may interest you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "We may share personal data with our analytics partners to analyze traffic and usage trends for the Services and to create and review aggregated and anonymous reporting.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may share personal data with our advertising partners to show you ads that we think may interest you.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Crash logs",
+      "policy_reference": "We may share personal data with our analytics partners to analyze traffic and usage trends for the Services and to create and review aggregated and anonymous reporting.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "We may share personal data with our analytics partners to analyze traffic and usage trends for the Services and to create and review aggregated and anonymous reporting.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "We may share personal data with our advertising partners to show you ads that we think may interest you.",
+      "lang": "English"
+    }
+  ]
+}

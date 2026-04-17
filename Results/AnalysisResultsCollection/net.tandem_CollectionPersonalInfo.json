@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Address",
+      "policy_reference": "Personal data is all information about an identified or identifiable person. This includes the following categories of personal data that we process:\n• Your contact details (such as first and last name, address, email address, location). We will never share your last name with other Tandem members.\n•\nInformation within your profile (such as your age, gender, city),\n• Personal images you provide within your profile,\n•\nInformation you share within your messages (images, voice messages, comments, correction, topics),\n• Your correspondence with us,\n• Log files with information about your visit to our website and apps,\n•\nOnline identifiers (such as cookie IDs, IP addresses, advertising IDs),\n• Awards (such as language certificates),\n• Activity on our apps and websites (e.g. clicks, screens viewed, pages visited).",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "Payments processed via the Google Play Store (Google Ireland Limited): Tandem uses a payment service provided by Google Ireland Limited that allows the Owner to offer the purchase of the app itself or in-app purchases. Personal Data processed to complete the purchases are processed by Google, as described in the privacy policy for the Google Play Store. Personal Data processed: payment data. Place of processing: Ireland - Privacy Policy.",
+      "lang": "English"
+    }
+  ]
+}

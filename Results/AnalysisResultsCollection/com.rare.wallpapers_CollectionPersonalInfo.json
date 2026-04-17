@@ -1,0 +1,29 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Name",
+      "policy_reference": "Registration\nInformation:\nIf you are required to\nregister and create an\naccount through our\nApp, we will collect the\nPersonal Data that\nyou are required to\nprovide us during the\nregistry process, such\nas your full name and\nemail address.\nFurther, during the\nregistration process\nyou will be supplied\nwith username and\npassword for your\naccount, at which time\nyou thereby represent\nand warrant that you\nare responsible for\nmaintaining the\nconfidentiality of your\ndetails and password.\nYou represent and\nwarrant that you will\nnot provide us with\ninaccurate, misleading\nor false information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "Registration\nInformation:\nIf you are required to\nregister and create an\naccount through our\nApp, we will collect the\nPersonal Data that\nyou are required to\nprovide us during the\nregistry process, such\nas your full name and\nemail address.\nFurther, during the\nregistration process\nyou will be supplied\nwith username and\npassword for your\naccount, at which time\nyou thereby represent\nand warrant that you\nare responsible for\nmaintaining the\nconfidentiality of your\ndetails and password.\nYou represent and\nwarrant that you will\nnot provide us with\ninaccurate, misleading\nor false information.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "In-App Payment\nInformation:\nWhen you make a\npayment through our\nApp and offered\nServices, all payments\nare in-app payments\nand are subject to the\napplicable App Store\nterms and privacy\npolicy.\nGoogle Terms of\nService\nGoogle Privacy Policy\nApp Store Terms of\nUse\nPURPOSE AND OPERATIONS\nWe use in app payment processors; the\nregistration and payment information are\nsolely processed by the applicable app store\nprovider. We do not store nor process any\nPersonal Data when you process the\npayment.\nWe receive an order number which is\nconnected to a user ID which was\ngenerated when installing the app (non\nidentifiable).",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Non-Personal Data\nDuring your interaction with our website and Services, we may collect aggregated, non-\npersonal non-identifiable information, which may be made available or gathered via your\naccess to and use of the Services (“Non-Personal Data “). We are not aware of the identity of\nthe user from which the Non-Personal Data is collected. The Non-Personal Data being\ncollected may include your aggregated usage information and technical information\ntransmitted by your device, such as: the type of browser or device you use, language\npreference, time and date stamp, country location, etc.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "GPS Location\nInformation:\nCertain features may\nrequire access to your\nGPS location\npermissions.\nIn addition, in certain\nfeatures we will use\nyour “Access Fine\nLocation” permission\nin the background\nwhile you are using\nthe App so that we are\nable to locate the wifi\nnetworks and\nconnection to provide\nthe Services.",
+      "lang": "English"
+    }
+  ]
+}

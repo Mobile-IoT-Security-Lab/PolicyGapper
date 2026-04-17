@@ -1,0 +1,49 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• AdMob (Google Inc.): AdMob is an advertising service provided by Google Inc. In order to understand Google's use of data, consult Google's partner policy. Personal Data collected: cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and usage data. Place of processing: United States – Privacy Policy – Opt Out.",
+      "justification": "The policy states that the AdMob advertising service collects 'usage data'. Transferring data to a third-party advertising service is considered 'sharing' under Google Play policy and is not exempt.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'App interactions' is 'Shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "• AdMob (Google Inc.): AdMob is an advertising service provided by Google Inc. In order to understand Google's use of data, consult Google's partner policy. Personal Data collected: cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and usage data. Place of processing: United States – Privacy Policy – Opt Out.",
+      "justification": "The policy states that the AdMob advertising service collects 'usage data'. Transferring data to a third-party advertising service is considered 'sharing' under Google Play policy and is not exempt.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Other actions' is 'Shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "• AdMob (Google Inc.): AdMob is an advertising service provided by Google Inc. In order to understand Google's use of data, consult Google's partner policy. Personal Data collected: cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and usage data. Place of processing: United States – Privacy Policy – Opt Out.",
+      "justification": "The policy explicitly states that AdMob collects 'unique device identifiers for advertising'. This is a clear instance of sharing data with a third party for advertising purposes.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Device or other IDs' is 'Shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "Ads (e.g. banners, interstitials, and native ads) help us make money and continue to provide most of Tandem's features for free. When we tell advertisers your age, gender, location and device information, the ads you see on Tandem are more relevant and we earn more from them. We only pass on your personal data with your express consent. If you do not want your data to be passed on, you can revoke your consent at any time. Below you will find information and terms of use. Some of the services listed below may use cookies or mobile advertising identifiers to identify users, or they may use the technique of behavioral retargeting, i.e. displaying ads tailored to the user's interests and behavior, including those outside of Tandem recognized. Further information can be found in the privacy policies of the respective services. In addition to any opt-out offered by any of the services below, the user may opt out of a third-party service's use of cookies by visiting the Network Advertising Initiative opt-out page. Another option for disabling ad personalization is the preference management of YourOnlineChoices https://youronlinechoices.com.",
+      "justification": "The policy states 'we tell advertisers your age, gender'. This is direct sharing of personal information with third parties for advertising. The mention of user consent does not exempt this from disclosure requirements.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Personal info' (which covers age and gender) is 'Shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Ads (e.g. banners, interstitials, and native ads) help us make money and continue to provide most of Tandem's features for free. When we tell advertisers your age, gender, location and device information, the ads you see on Tandem are more relevant and we earn more from them. We only pass on your personal data with your express consent. If you do not want your data to be passed on, you can revoke your consent at any time. Below you will find information and terms of use. Some of the services listed below may use cookies or mobile advertising identifiers to identify users, or they may use the technique of behavioral retargeting, i.e. displaying ads tailored to the user's interests and behavior, including those outside of Tandem recognized. Further information can be found in the privacy policies of the respective services. In addition to any opt-out offered by any of the services below, the user may opt out of a third-party service's use of cookies by visiting the Network Advertising Initiative opt-out page. Another option for disabling ad personalization is the preference management of YourOnlineChoices https://youronlinechoices.com.",
+      "justification": "The policy states 'we tell advertisers your... location'. This is direct sharing of location data with third parties for advertising and must be declared.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Approximate location' is 'Shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Ads (e.g. banners, interstitials, and native ads) help us make money and continue to provide most of Tandem's features for free. When we tell advertisers your age, gender, location and device information, the ads you see on Tandem are more relevant and we earn more from them. We only pass on your personal data with your express consent. If you do not want your data to be passed on, you can revoke your consent at any time. Below you will find information and terms of use. Some of the services listed below may use cookies or mobile advertising identifiers to identify users, or they may use the technique of behavioral retargeting, i.e. displaying ads tailored to the user's interests and behavior, including those outside of Tandem recognized. Further information can be found in the privacy policies of the respective services. In addition to any opt-out offered by any of the services below, the user may opt out of a third-party service's use of cookies by visiting the Network Advertising Initiative opt-out page. Another option for disabling ad personalization is the preference management of YourOnlineChoices https://youronlinechoices.com.",
+      "justification": "The policy states 'we tell advertisers your... location'. Since the level of precision is not specified, sharing of precise location must also be declared to be fully compliant.",
+      "how_to_fix": "In the Google Play Console's Data safety section, declare that 'Precise location' is 'Shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Usage Information: We collect information about you and your use of Netflix games, such as:\nΟ\nYour leaderboard status, score, and game achievements;\nΟ\nWhether you are online and/or playing a game in order to display your online or availability status\nto other players in the game and/or to your friend or team list;\nΟ\nYour searches for and connections with other players within a Netflix game (for example,\nsearching for and connecting to a player);\nΟ\nYour gameplay, interactions, or chat with other players as a part of local multiplayer and online\nmultiplayer features;\nΟ\nYour reports of violations of the Netflix Games Community Guidelines\n(help.netflix.com/legal/gamescommunityguidelines) and any similar guidelines for Netflix games,\nand reports from other players about your potential violations; and\nΟ\nYour input of user-generated content within a Netflix game, such as drawings, uploaded content\n(such as photos, videos, sound recordings, or other content), or your selection of content from a\nthird party service.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other app performance data",
+      "policy_reference": "Device and network information: We collect information about your computer or other Netflix\ncapable devices you might use to access our service (such as smart TVs, mobile devices, set top\nboxes, gaming systems, and other streaming media devices), your network, and network devices. The\ninformation includes:\nΟ\ndevice IDs or other unique identifiers, including for your network devices (such as your router),\nand devices that are Netflix capable on your network;\nΟ\nIP addresses (which can be used to tell us the general location of your device, such as your city,\nstate/province, and postal code);\nΟ\ndevice and software characteristics (such as type and configuration), referring source (for\nexample, referrer URLs), standard web browser and mobile app log information, and connection\ninformation including type (such as wifi or cellular);\nΟ\nΟ\nperformance data such as crash reports, timestamps, and debug log messages; and\ncookie data, resettable device identifiers, advertising identifiers and other unique identifiers\n(described below in the section “Cookies and other Technologies”).",
+      "lang": "English"
+    }
+  ]
+}

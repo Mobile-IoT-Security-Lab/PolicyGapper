@@ -1,0 +1,9 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "In some instances we also use Google Admob to show you advertising in the app. On Apple devices we do not allow Google to collect your identifying data. If you are using an Android device, you may request deletion or reset your advertising ID. This will delete any data in Google Admob that could be connected to your device via our services. To do this:\n1. On your Android device, go to Settings.\n2. For those on Pixel devices: Tap Privacy > Ads (sometimes Ads can appear in Advanced drop-down menu)\n3. For those on Samsung devices: Tap Google > All Services > Ads\n4. Tap Reset Advertising ID and confirm your changes.",
+      "lang": "English"
+    }
+  ]
+}

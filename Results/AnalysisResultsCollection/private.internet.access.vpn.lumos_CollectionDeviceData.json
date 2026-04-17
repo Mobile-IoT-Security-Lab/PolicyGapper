@@ -1,0 +1,14 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "• Your Content: When using some of our Services, you can create, post, upload or share content by providing us with access to your photos, media and files, and your device's camera and microphone. You voluntarily provide this information to us.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Cookies & Similar Tracking Information: We use cookies and similar tracking technologies to collect information about your interactions with our Services. The information we collect includes, but is not limited to, account activation time, content displayed to you and whether you clicked on it, advertisements displayed to you and whether you clicked on them, URLs you have visited, notifications that have appeared on your mobile device, your Internet Protocol (“IP”) address, your mobile country code, and your user ID.",
+      "lang": "English"
+    }
+  ]
+}

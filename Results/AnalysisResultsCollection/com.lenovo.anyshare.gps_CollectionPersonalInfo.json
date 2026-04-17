@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other info",
+      "policy_reference": "(a) Personal details, which includes your age range, gender, nickname;",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "(b) Contact details, which includes your email address when you create an account or communicate with us;you may\nchoose to provide us your phone number or payment information when you use certain Services such as\nparticipating in-app activities;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "(d) Transactional information, which includes your requests, queries, or complaints when you use our subscription\nservice or participate in reward activities;",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "(b) subject to requirements under applicable law, your IP addresses, network carrier and network type; coarse geo-\nlocation data we receive based on your Internet Protocol (IP) address or Wi-Fi SSID;",
+      "lang": "English"
+    }
+  ]
+}

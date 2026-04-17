@@ -1,0 +1,37 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "• Mobile advertising identifiers, which are used by mobile operating systems and made available to advertising providers to gather metrics on mobile apps (Apple's IDFA or Google's AAID) to help us and advertisers provide ads that may be more relevant to your interests;",
+      "justification": "The policy states that mobile advertising identifiers (like AAID) are shared with 'advertising providers' to help 'us and advertisers' provide relevant ads. This constitutes sharing data with a third party for advertising purposes and must be declared.",
+      "how_to_fix": "In the Google Play Console Data safety section, declare that 'Device or other IDs' are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "App interactions",
+      "policy_reference": "• Cookies, small pieces of data to enable us to provide certain features, which are collected by us or our business partners to measure and understand the web pages you click on and how you use Bigo Services, enhance your experience using Bigo Services.",
+      "justification": "The policy states that data on how you use the service is collected by 'our business partners'. Without explicit language confirming they are 'service providers' acting solely on the developer's behalf, this is considered sharing with a third party for analytics.",
+      "how_to_fix": "In the Google Play Console Data safety section, declare that 'App interactions' are 'Shared' with third parties for 'Analytics' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "• Cookies, small pieces of data to enable us to provide certain features, which are collected by us or our business partners to measure and understand the web pages you click on and how you use Bigo Services, enhance your experience using Bigo Services.",
+      "justification": "The policy states that data on 'web pages you click on' is collected by 'our business partners'. Without explicit language confirming they are 'service providers' acting solely on the developer's behalf, this is considered sharing with a third party for analytics.",
+      "how_to_fix": "In the Google Play Console Data safety section, declare that 'Web browsing history' is 'Shared' with third parties for 'Analytics' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "User IDs",
+      "policy_reference": "• Mobile advertising identifiers, which are used by mobile operating systems and made available to advertising providers to gather metrics on mobile apps (Apple's IDFA or Google's AAID) to help us and advertisers provide ads that may be more relevant to your interests;",
+      "reason_of_removal": "Inconsistent data type",
+      "justification": "The policy reference explicitly mentions 'Mobile advertising identifiers' (like Apple's IDFA or Google's AAID). According to Google Play's data type definitions, these fall under 'Device or other IDs', not 'User IDs'. The declaration for 'Device or other IDs' already covers this.",
+      "how_to_fix": "No action needed for this specific item as it's a miscategorization. The correct data type 'Device or other IDs' is already being addressed.",
+      "lang": "English"
+    }
+  ]
+}
+```

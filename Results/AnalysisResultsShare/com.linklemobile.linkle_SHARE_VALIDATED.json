@@ -1,0 +1,52 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other actions",
+      "policy_reference": "We may use and share non-personal data (meaning data that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other third parties (notably advertisers) to develop and deliver targeted advertising on our products or applications of third parties, and to analyze and report on advertising you see. We may combine this data with additional non-personal information or personal data in hashed, non-human readable form collected from other sources.",
+      "justification": "The policy states that 'general behavioral data' (which corresponds to 'Other actions') is shared with third parties ('notably advertisers') for targeted advertising. This is a declarable 'sharing' event under Google Play's policy.",
+      "how_to_fix": "Declare in the Data Safety section that 'Other actions' data is 'shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "We may ask for your consent to share your data with third parties. In any such case, we will make it clear why we want to share the information. We may use and share non-personal data (meaning data that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other third parties (notably advertisers) to develop and deliver targeted advertising on our products or applications of third parties, and to analyze and report on advertising you see. We may combine this data with additional non-personal information or personal data in hashed, non-human readable form collected from other sources.",
+      "justification": "The policy states that various data types ('device information, general demographics') are shared with third parties ('notably advertisers') for targeted advertising. This constitutes 'sharing' under Google Play's policy.",
+      "how_to_fix": "Declare in the Data Safety section that 'Other info' is 'shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "We may ask for your consent to share your data with third parties. In any such case, we will make it clear why we want to share the information. We may use and share non-personal data (meaning data that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other third parties (notably advertisers) to develop and deliver targeted advertising on our products or applications of third parties, and to analyze and report on advertising you see. We may combine this data with additional non-personal information or personal data in hashed, non-human readable form collected from other sources.",
+      "justification": "The policy states that 'geolocation in de-identified form' is shared with third parties ('notably advertisers') for targeted advertising. This is a declarable 'sharing' event under Google Play's policy, even if de-identified, as it's used for advertising.",
+      "how_to_fix": "Declare in the Data Safety section that 'Approximate location' is 'shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "We may ask for your consent to share your data with third parties. In any such case, we will make it clear why we want to share the information. We may use and share non-personal data (meaning data that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other third parties (notably advertisers) to develop and deliver targeted advertising on our products or applications of third parties, and to analyze and report on advertising you see. We may combine this data with additional non-personal information or personal data in hashed, non-human readable form collected from other sources.",
+      "justification": "The policy states that 'geolocation' is shared with third parties ('notably advertisers') for targeted advertising. The term 'geolocation' can encompass precise location, and sharing it for advertising requires disclosure.",
+      "how_to_fix": "Declare in the Data Safety section that 'Precise location' is 'shared' with third parties for 'Advertising or marketing'.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "You share information with other users when you voluntarily disclose information on the service (including your public profile). Please be careful with your information and make sure that the content you share is stuff that you're comfortable being publically viewable since neither you nor we can control what others do with your information once you share it. If you choose to limit the audience for all or part of your profile or for certain content or information about you, then it will be visible according to your settings.",
+      "reason_of_removal": "Exempt: User-initiated sharing.",
+      "justification": "The policy describes an action where the user voluntarily shares their profile information with other users. This is a user-initiated action and is exempt from being declared as 'sharing' with a third party.",
+      "how_to_fix": "No action needed as this activity is exempt from the 'sharing' disclosure requirement.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "We may ask for your consent to share your data with third parties. In any such case, we will make it clear why we want to share the information. We may use and share non-personal data (meaning data that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other third parties (notably advertisers) to develop and deliver targeted advertising on our products or applications of third parties, and to analyze and report on advertising you see. We may combine this data with additional non-personal information or personal data in hashed, non-human readable form collected from other sources.",
+      "reason_of_removal": "Inconsistent: Policy reference does not explicitly mention this specific data type.",
+      "justification": "The policy mentions sharing 'general demographics', which is too broad to confirm the sharing of the specific and sensitive 'Race and ethnicity' data type. The reference does not logically support the data type.",
+      "how_to_fix": "If this data is shared, the privacy policy must be updated to explicitly state it. Otherwise, no action is needed.",
+      "lang": "English"
+    }
+  ]
+}
+```

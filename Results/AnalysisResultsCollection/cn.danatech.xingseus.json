@@ -1,0 +1,24 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "User content: We will collect any user content you create, share, or post to the Application, which may include information contained in your user account, as well as photos or other image files and associated metadata. Please note that other users of the Application may be able to download and extract any images shared publicly on the Application.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Additionally, we allow our service providers (including analytics vendors and advertising networks) to collect information about your online activities through cookies. These third parties may use this information to display advertisements on our application and elsewhere online tailored to your interests, preferences, and characteristics. We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Policy.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "Location Information: When you use our services, we don't collect your precise location information using geo-location technology. However, we do collect your IP address from which we can only determine your coarse location and cannot identify your physical location. This allows us to enhance our services and your experience, and ensure that you are receiving relevant content.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "If you have any queries regarding privacy issues or if you wish to exercise your data rights as described above, email us or visit any of our branches for more information. To ensure that we carry out your instructions accurately, to help us continually improve our service and in the interests of security, we may monitor and/or record your telephone calls with us.",
+      "lang": "en"
+    }
+  ]
+}

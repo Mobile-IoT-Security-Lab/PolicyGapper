@@ -1,0 +1,133 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an internet website, application, or advertisement;",
+      "justification": "The privacy policy states the collection of information regarding a user's interaction with an application, which corresponds to the 'App interactions' data type.",
+      "how_to_fix": "Declare 'App interactions' in the 'App activity' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an internet website, application, or advertisement;",
+      "justification": "The privacy policy explicitly mentions the collection of 'search history' in the context of application interaction.",
+      "how_to_fix": "Declare 'In-app search history' in the 'App activity' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other User generated content",
+      "policy_reference": "Information You have provided as part of any feedback, comment, inquiry, or survey.",
+      "justification": "The policy states that feedback, comments, and survey responses are collected, which are forms of user-generated content.",
+      "how_to_fix": "Declare 'Other user-generated content' in the 'User-generated content' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other actions",
+      "policy_reference": "Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an internet website, application, or advertisement;",
+      "justification": "The policy's reference to collecting information about a user's 'interaction with an... application' covers other in-app actions not specified elsewhere.",
+      "how_to_fix": "Declare 'Other actions' in the 'App activity' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an internet website, application, or advertisement;",
+      "justification": "The privacy policy explicitly states the collection of 'browsing history'. This is relevant if your app includes a web-view component.",
+      "how_to_fix": "Declare 'Web browsing history' in the 'App activity' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Device or other IDs",
+      "policy_reference": "Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, social security number, passport number, or other similar identifiers;",
+      "justification": "The policy states the collection of 'unique personal identifier, online identifier, internet protocol address,' which fall under 'Device or other IDs'.",
+      "how_to_fix": "Declare 'Device or other IDs' in the 'Device or other IDs' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "a.Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, social security number, passport number, or other similar identifiers;",
+      "justification": "The policy states the collection of identifiers like 'unique personal identifier', 'online identifier', and 'account name', which are considered User IDs.",
+      "how_to_fix": "Declare 'User IDs' in the 'Personal info' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "a.Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, social security number, passport number, or other similar identifiers;",
+      "justification": "The privacy policy explicitly states the collection of 'postal address'.",
+      "how_to_fix": "Declare 'Address' in the 'Personal info' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "Your contact information, such as Your full name, email address, telephone number, and other Sign-up information.",
+      "justification": "The privacy policy explicitly states the collection of 'telephone number'.",
+      "how_to_fix": "Declare 'Phone number' in the 'Personal info' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "c.Protected classification characteristics under California or federal law such as gender and date of birth;",
+      "justification": "The policy states the collection of 'gender and date of birth', which falls under the 'Other info' data type.",
+      "how_to_fix": "Declare 'Other info' in the 'Personal info' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "b.Signature, physical characteristics or description, telephone number, bank account number, credit card number, debit card number or any other financial information, medical information or health insurance information;",
+      "justification": "The policy states the collection of 'bank account number, credit card number, debit card number,' which constitutes user payment information.",
+      "how_to_fix": "Declare 'User payment info' in the 'Financial info' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "• Creation of a User account, verification of a User's identity and help a User log into Our Platform. <br> • To communicate to a User any updates on the Platform which may be of interest to such User. <br> • To market events based on your interests, city of preference, etc. <br> • To Process any transaction during the sale of the tickets.",
+      "justification": "The policy states that data is used to 'Process any transaction during the sale of the tickets,' which implies the collection of purchase history.",
+      "how_to_fix": "Declare 'Purchase history' in the 'Financial info' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "b.Signature, physical characteristics or description, telephone number, bank account number, credit card number, debit card number or any other financial information, medical information or health insurance information;",
+      "justification": "The policy states the collection of 'bank account number, credit card number, debit card number or any other financial information'.",
+      "how_to_fix": "Declare 'Other financial info' in the 'Financial info' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Health info",
+      "policy_reference": "b.Signature, physical characteristics or description, telephone number, bank account number, credit card number, debit card number or any other financial information, medical information or health insurance information;",
+      "justification": "The privacy policy explicitly states the collection of 'medical information or health insurance information'.",
+      "how_to_fix": "Declare 'Health info' in the 'Health and fitness' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "e.Geolocation data;",
+      "justification": "The privacy policy explicitly states the collection of 'Geolocation data'.",
+      "how_to_fix": "Declare 'Precise location' in the 'Location' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Voice or sound recordings",
+      "policy_reference": "8.2The categories of Personal Information We have collected in the twelve (12) months prior to the Effective Date and that We may collect include: a.Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, social security number, passport number, or other similar identifiers; b.Signature, physical characteristics or description, telephone number, bank account number, credit card number, debit card number or any other financial information, medical information or health insurance information; c.Protected classification characteristics under California or federal law such as gender and date of birth; d.Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an internet website, application, or advertisement; e. f. Geolocation data; Audio, electronic, visual, thermal, olfactory, or similar information.",
+      "justification": "The privacy policy states the collection of 'Audio... or similar information,' which includes voice or sound recordings.",
+      "how_to_fix": "Declare 'Voice or sound recordings' in the 'Audio files' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Music files",
+      "policy_reference": "8.2The categories of Personal Information We have collected in the twelve (12) months prior to the Effective Date and that We may collect include: a.Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, social security number, passport number, or other similar identifiers; b.Signature, physical characteristics or description, telephone number, bank account number, credit card number, debit card number or any other financial information, medical information or health insurance information; c.Protected classification characteristics under California or federal law such as gender and date of birth; d.Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an internet website, application, or advertisement; e. f. Geolocation data; Audio, electronic, visual, thermal, olfactory, or similar information.",
+      "justification": "The privacy policy states the collection of 'Audio... or similar information,' which can include music files.",
+      "how_to_fix": "Declare 'Music files' in the 'Audio files' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    },
+    {
+      "data_type": "Other audio files",
+      "policy_reference": "8.2The categories of Personal Information We have collected in the twelve (12) months prior to the Effective Date and that We may collect include: a.Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, social security number, passport number, or other similar identifiers; b.Signature, physical characteristics or description, telephone number, bank account number, credit card number, debit card number or any other financial information, medical information or health insurance information; c.Protected classification characteristics under California or federal law such as gender and date of birth; d.Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an internet website, application, or advertisement; e. f. Geolocation data; Audio, electronic, visual, thermal, olfactory, or similar information.",
+      "justification": "The privacy policy states the collection of 'Audio... or similar information,' which corresponds to the 'Other audio files' data type.",
+      "how_to_fix": "Declare 'Other audio files' in the 'Audio files' section of your app's Data Safety form in the Google Play Console.",
+      "lang": "en"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

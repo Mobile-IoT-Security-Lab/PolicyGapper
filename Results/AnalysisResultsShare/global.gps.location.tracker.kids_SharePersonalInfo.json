@@ -1,0 +1,19 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Email address",
+      "policy_reference": "5.4. Email service providers. We use the Rocket Science Group LLC (“Mailchimp\") https://www.intuit.com/privacy/statement/ and eSputnik Inc. partners to send You email notifications; these partners may have access to Your email address.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User IDs",
+      "policy_reference": "5.5. Advertising and Advertising Measurement Partners: we may share Your personal information in order to facilitate targeting, delivery, and measurement of online advertising on third-party services, or otherwise facilitate the transmission of information that may be useful, relevant, or of interest to you. Such partners include: Facebook Inc. (https://www.facebook.com/privacy/policy/). We do not share children's personal information for these purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "AppsFlyer (USA), Adjust (a country of the owner of this service depends on your country)\nWe are using the aforementioned services for attribution and marketing analytics services that allows us measure and analyze the effectiveness of our marketing campaigns by understanding which marketing campaigns contributed to the installation of our mobile applications and such other conversion metric; and measure and analyze certain events and actions within our applications, such as in-app purchases made by End Users. For more information about AppsFlyer privacy practices, please see the https://www.appsflyer.com/legal/services-privacy-policy/ and https://www.adjust.com/terms/privacy-policy/.",
+      "lang": "English"
+    }
+  ]
+}

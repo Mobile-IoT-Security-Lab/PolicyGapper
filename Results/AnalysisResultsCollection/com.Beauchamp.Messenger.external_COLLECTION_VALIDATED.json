@@ -1,0 +1,63 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Web browsing history",
+      "policy_reference": "We automatically collect certain information when you visit, use or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.",
+      "justification": "The privacy policy states that referring URLs and information about how and when the Services are used is collected for analytics and reporting, which implies it is sent off-device. No exemption criteria are met.",
+      "how_to_fix": "Declare 'Web browsing history' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "Personal Information Provided by You. We collect email addresses; names; and other similar information.",
+      "justification": "The privacy policy explicitly states that 'names' are collected. No exemption criteria are met.",
+      "how_to_fix": "Declare 'Name' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Address",
+      "policy_reference": "A. Identifiers\nContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address and account name\nYES",
+      "justification": "The privacy policy explicitly lists 'postal address' as a collected identifier. No exemption criteria are met.",
+      "how_to_fix": "Declare 'Address' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Phone number",
+      "policy_reference": "A. Identifiers\nContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address and account name\nYES",
+      "justification": "The privacy policy explicitly lists 'telephone or mobile contact number' as a collected identifier. No exemption criteria are met.",
+      "how_to_fix": "Declare 'Phone number' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "User payment info",
+      "policy_reference": "B. Personal information categories\nlisted in the California Customer\nRecords statute\nName, contact information, education, employment, employment history\nand financial information\nYES",
+      "justification": "The privacy policy states that 'financial information' is collected, which covers user payment info. No exemption criteria are met.",
+      "how_to_fix": "Declare 'User payment info' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other financial info",
+      "policy_reference": "B. Personal information categories\nlisted in the California Customer\nRecords statute\nName, contact information, education, employment, employment history\nand financial information\nYES",
+      "justification": "The privacy policy states that 'financial information' is collected, which covers other financial info. No exemption criteria are met.",
+      "how_to_fix": "Declare 'Other financial info' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "Location Data. We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Services.",
+      "justification": "The privacy policy explicitly states that 'precise' location data is collected using GPS. The context implies it is sent off-device to enable 'certain aspects of the Services'. No exemption criteria are met.",
+      "how_to_fix": "Declare 'Precise location' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Contacts",
+      "policy_reference": "Our Services offers you the ability to register and login using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, profile picture as well as other information you choose to make public on such social media platform.",
+      "justification": "The privacy policy states that the service will 'receive' a 'friends list' from social media providers, which is equivalent to collecting contacts. This data is sent off-device. No exemption criteria are met.",
+      "how_to_fix": "Declare 'Contacts' as collected in your app's Data Safety section in the Google Play Console.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": []
+}
+```

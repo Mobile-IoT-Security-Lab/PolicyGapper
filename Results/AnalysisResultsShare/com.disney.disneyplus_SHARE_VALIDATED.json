@@ -1,0 +1,53 @@
+```json
+{
+  "omitted_declarations": [
+    {
+      "data_type": "App interactions",
+      "policy_reference": "When we provide you with relevant advertising on third-party sites and applications, we may share limited personal information about you, such as certain identifiers or hashed email address, with third parties. We may also share such information to provide you with and to measure relevant third-party advertising on our sites and applications. To learn more about how we use your information for personalization and tracking, please visit Online Tracking Technologies and Advertising (https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/).",
+      "justification": "The privacy policy states that user activity data (e.g., 'identifiers' used for tracking) is shared with third parties for advertising. This constitutes 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "In the 'Data safety' section of the Play Console, declare that 'App interactions' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "In-app search history",
+      "policy_reference": "When we provide you with relevant advertising on third-party sites and applications, we may share limited personal information about you, such as certain identifiers or hashed email address, with third parties. We may also share such information to provide you with and to measure relevant third-party advertising on our sites and applications. To learn more about how we use your information for personalization and tracking, please visit Online Tracking Technologies and Advertising (https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/).",
+      "justification": "The privacy policy indicates that user activity, which can include search history, is used to create identifiers that are shared with third parties for advertising. This is considered 'sharing' and must be declared.",
+      "how_to_fix": "In the 'Data safety' section of the Play Console, declare that 'In-app search history' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    },
+    {
+      "data_type": "Email address",
+      "policy_reference": "When we provide you with relevant advertising on third-party sites and applications, we may share limited personal information about you, such as certain identifiers or hashed email address, with third parties. We may also share such information to provide you with and to measure relevant third-party advertising on our sites and applications. To learn more about how we use your information for personalization and tracking, please visit Online Tracking Technologies and Advertising (https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/).",
+      "justification": "The privacy policy explicitly states that 'hashed email address' is shared with third parties for advertising purposes. This is 'sharing' under Google Play's policy and must be declared.",
+      "how_to_fix": "In the 'Data safety' section of the Play Console, declare that 'Email address' is 'Shared' with third parties for 'Advertising or marketing' purposes.",
+      "lang": "English"
+    }
+  ],
+  "excluded_declarations": [
+    {
+      "data_type": "Diagnostics",
+      "policy_reference": "When we provide you with relevant advertising on third-party sites and applications, we may share limited personal information about you, such as certain identifiers or hashed email address, with third parties. We may also share such information to provide you with and to measure relevant third-party advertising on our sites and applications. To learn more about how we use your information for personalization and tracking, please visit Online Tracking Technologies and Advertising (https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/).",
+      "reason_of_removal": "Inconsistent",
+      "justification": "The policy reference describes sharing data for advertising and tracking, which does not logically correspond to the 'Diagnostics' data type (e.g., crash logs, performance data).",
+      "how_to_fix": "N/A",
+      "lang": "English"
+    },
+    {
+      "data_type": "Name",
+      "policy_reference": "When you allow us to share your personal information with another company, by electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services;",
+      "reason_of_removal": "User Consent",
+      "justification": "The policy states data is shared only when the user explicitly 'allows' or 'elects' to share it. This is a user-initiated transfer and is exempt from being declared as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "N/A",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "When you allow us to share your personal information with another company, by electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services;",
+      "reason_of_removal": "User Consent",
+      "justification": "The policy states data is shared only when the user explicitly 'allows' or 'elects' to share it. This is a user-initiated transfer and is exempt from being declared as 'sharing' under the Google Play User Data Policy.",
+      "how_to_fix": "N/A",
+      "lang": "English"
+    }
+  ]
+}
+```

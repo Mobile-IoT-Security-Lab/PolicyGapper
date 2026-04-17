@@ -1,0 +1,14 @@
+```json
+{
+    "omitted_declarations": [
+        {
+            "data_type": "User IDs",
+            "policy_reference": "The App uses third-party services, Google AdMob, to display advertisements. These services may collect:\n•\nDevice information (e.g., model, OS version)\n•\n•\nAdvertising ID (e.g., Google Advertising ID)\n•\nUsage data (e.g., ad impressions, interactions)",
+            "justification": "The privacy policy states that the app uses Google AdMob for advertising, which may collect the Advertising ID. The Advertising ID is a type of User ID that must be declared as shared with third parties for Advertising or marketing purposes.",
+            "how_to_fix": "In your Google Play Console's Data safety form, declare that 'User IDs' (specifically, Advertising ID) are 'Shared' with third parties for 'Advertising or marketing' purposes.",
+            "lang": "English"
+        }
+    ],
+    "excluded_declarations": []
+}
+```

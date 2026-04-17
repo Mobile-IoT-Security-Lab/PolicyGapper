@@ -1,0 +1,324 @@
+4. Transmission of Data
+Unless otherwise stated in the following sections, data will be processed on the servers of technical
+service providers commissioned by us for this purpose. These service providers will only process the
+data after having received express instructions and they are contractually obliged to guarantee
+adequate technical and organizational measures for data protection.
+Insofar as we refer to integrated services of other providers in this Data Protection Declaration, it can
+be assumed that personal data will be transmitted to the specified headquarters of these providers.
+These providers may be based in a so-called third country outside the European Union or the
+European Economic Area. Further information can be found in the sections describing each service.
+---
+9. Facebook Connect
+We also offer you the option of easier registration for our games and services through Facebook. You
+can use your existing Facebook user account for this purpose. By clicking the “Log in with Facebook"
+link, you can use this registration method via our online portal. To do this, you need to already have a
+Facebook account or have access to Facebook.
+If you would like to register for one of our services using your Facebook account, the first step in the
+registration process will immediately redirect you to Facebook. Facebook will then ask you to log in or
+to register. Under no circumstances will we receive your personal access data (user name and
+password).
+In a second step, you will connect your Facebook profile with the service for which you would like to
+register. At this point, you will be told which data from your Facebook profile will be transmitted to us.
+This information is usually your "public information" on Facebook and information which you have
+made available to the public or authorized for the application in question. Information of this type
+generally includes your name, profile picture and cover photo, your gender, your networks, your
+username (Facebook URL), and your user ID number (Facebook ID). We will also use the email address
+you have saved with Facebook in order to contact you outside of Facebook. You can see an overview
+of information in your profile that is available to the public via the General Account Settings menu of
+your Facebook profile (https://www.facebook.com/settings?tab=applications).
+The legal basis for data collection and storage is your consent, within the meaning of Art. 6 paragraph 1
+sentence 1 letter a GDPR.
+--- [PAGE BREAK] ---
+If you would like to remove the connection between Facebook Connect and our service, please log in
+to Facebook and make the required changes to your profile. We will then no longer have the right to
+use information from your Facebook profile. We guarantee the adequacy of data transfer to the third
+country USA through the agreement of EU standard contractual clauses.
+---
+11. External Game Developers
+We use data processors for game development which might process personal data upon our
+instruction. We have entered into data processing agreements with all our processors. Some of our
+third party processors are located outside of the EU/EEA, with which we have concluded standard
+contractual clauses with these processors.
+---
+12. Payments made through our App
+In principle, you can enjoy our games without having to provide personal contact data. If you pay for
+chargeable activities in our games, your personal data will be collected by the corresponding payment
+service providers listed.
+All payment-relevant data, such as your contact and payment data, are initially collected and
+processed by the corresponding payment provider. The legal basis for this data processing is Article
+6(1)(b) GDPR.
+For payments, we collect the geolocation of your IP address, which allows us to determine in which
+country you are located. The legal basis for this data collection is Art. 6 paragraph 1 sentence 1 letter c
+GDPR, as the processing is necessary for compliance with a legal obligation. The legal obligation arises
+from Directive 2006/112/EC (MOSS Directive).
+We also receive information from payment providers related to payment fraud prevention. The legal
+basis for this data collection is Art. 6 paragraph 1 sentence 1 letter c GDPR, as the processing is
+necessary for compliance with a legal obligation.
+---
+Newsletters are sent with the help of an EU-based external service provider, whom we have engaged
+for this processing activity in accordance with statutory requirements. The newsletters contain pixels
+that are retrieved by the server of the service provider that sends the newsletter as soon as the
+newsletter is opened. Within the scope of this retrieval, some information such us your IP address and
+time of retrieval are collected. This information is used for technical improvement or to analyze the
+target groups and their reading behavior on the basis of their retrieval locations (which can be
+determined using the IP address) or access times. The statistical data collection also includes
+determining if and when the newsletters are opened and which links are clicked and when they are
+clicked. For technical reasons, this information can be assigned to the individual newsletter recipients.
+These analyses are primarily intended to help us to identify the reading habits of our users and to adapt
+our content to them or to send different content based on user interests. The personalized analysis is
+performed with your consent, which we obtain when collecting your email address. The legal basis is
+Art. 6 paragraph 1 sentence 1 letter a GDPR. You can revoke your consent at any time with effect for the
+future. You can do so easily by using the link at the bottom of each of our communications or by using
+our support form. Unfortunately, you cannot request separate cancellations for the service provider
+that sends the newsletter or for the statistical analysis. If you wish to cancel, you must cancel the entire
+subscription.
+---
+15. Surveys
+We conduct occasional customer satisfaction surveys for our games. For this purpose, we collect and
+process your contact data as provided in the surveys.
+The legal basis for the use of this information is your consent in accordance with Art. 6 paragraph 1
+sentence 1 letter a GDPR. Your participation in the survey is voluntary. Your consent to its use may be
+revoked at any time.
+We use the services of SurveyMonkey Inc (San Mateo, One Curiosity Way, San Mateo, California
+94403, "SurveyMonkey”) to conduct the surveys. SurveyMonkey collects additional information from
+participants in the form of cookies, which are only intended to ensure that the survey service is fully
+--- [PAGE BREAK] ---
+usable and that the surveys run as intended.
+The legal basis for processing this additional information is Art. 6 paragraph 1 sentence 1 letter f GDPR.
+If you do not participate in our survey, no personal information will be collected.
+We guarantee the adequacy of data transfer to the third country USA through the agreement of EU
+standard contractual clauses.
+---
+17. Bugsnag
+We use the service Bugsnag of Bugsnag Inc. (USA) in some of our games. This service enables us to
+quickly identify errors in our games that have caused a malfunction or crash and thus improve our
+service. If an error occurs, the player ID, the player name and, if applicable, details of the page or the
+app where the error occurred and the data built into them are transmitted to Bugsnag for error
+evaluation. You can find more information in Bugsnag's privacy
+policy: https://docs.bugsnag.com/legal/privacy-policy.
+We guarantee the adequacy of data transfer to the third country USA through the agreement of EU
+standard contractual clauses. The legal basis of the processing is Art. 6 paragraph 1 letter f GDPR, as
+the service serves our legitimate interest to solve technical errors in a targeted manner. The
+transmission of the above mentioned information to Bugsnag is technically necessary. Objections
+against this processing will be handled by our support: https://support.goodgamestudios.com/
+---
+18. Combating Fraud
+We process pseudonymous information, such as the IP address or device ID, for the analysis of signals
+in order to identify fraud by third parties in the context of customer acquisition. To accomplish this, we
+are supported by external service providers whom we have ensured are committed to the same
+statutory requirements. The legal basis of Art. 6, paragraph 1, sentence 1, letter f GDPR. This
+processing helps the organizational security of the app.
+---
+19. Facebook SDK
+We use Facebook's Software Development Kit (SDK) within our app. The Facebook SDK is issued and
+administered by Facebook. By means of this integration, we can link various Facebook services with
+our app. For example, this enables users to be able to use the Facebook SDK to share content from our
+apps within their Facebook timeline or to send messages to other Facebook users. Further information
+about the Facebook SDK within iOS can be found here: https://developers.facebook.com/docs/ios. For
+Android, please refer to: https://developers.facebook.com/docs/android.
+--- [PAGE BREAK] ---
+The legal basis for the storage of this data is Art. 6 paragraph 1 sentence 1 letter b GDPR.
+Facebook App Events: We use the Facebook App Events service though the Facebook SDK to track
+the reach of our advertising campaigns and the use of the Facebook SDK. Facebook merely provides
+us with an aggregated analysis of user behavior with our app. We have no influence beyond that on the
+information that will be processed through App Events by Facebook. The legal basis for this processing
+is Art. 6 paragraph 1 sentence 1 letter f GDPR. In our app settings, you can opt out of using App Events
+for these purposes.
+We guarantee the adequacy of data transfer to the third country USA through the agreement of EU
+standard contractual clauses.
+---
+Processing of Page Insights
+Facebook provides us with anonymized statistics and insights for our Facebook page, which help us to
+understand the types of actions that people take on our Page (so-called “Page Insights"). These Page
+Insights are created based on specific information about individuals who have visited our Page. This
+processing of personal data is carried out by Facebook and by us as joint controllers. The processing
+serves our legitimate interest to evaluate the types of actions being taken on our Page and to improve
+our Page based on these findings. The legal basis for this processing is Article 6 paragraph 1 letter f
+GDPR. We are in no case able to assign the information obtained via Page Insights to a specific
+Facebook profile using the “Like” data for our Page.
+We have reached an agreement with Facebook to share joint responsibility for the processing, in which
+the division of data protection obligations between ourselves and Facebook is set out. Details about
+the processing of personal data for creating Page Insights and the agreement entered into between
+ourselves and Facebook can be found
+at https://www.facebook.com/legal/terms/information_about_page_insights_data.
+---
+21. Google Marketing Services
+On our app we use the marketing and re-marketing services of Google Ireland Limited (Gordon House,
+Barrow Street, Dublin 4, Ireland; “Google”). These services allow us to display advertisements in a
+more targeted manner in order to present advertisements of interest to users. Through remarketing ads
+and products are displayed to users relating to an interest established by activity on other apps within
+the Google Network. For these purposes, a code is used by Google when our app is accessed and
+what are referred to as (re)marketing tags are incorporated into the app. With their help, an individual
+cookie, i.e. a small file, is stored on the user's device (comparable technologies may also be used
+instead of cookies). Cookies can be set by various domains, including google.com, doubleclick.net,
+invitemedia.com, admeld.com, googlesyndication.com or googleadservices.com. This file records
+which apps users have visited, which content they are interested in and which offers have been used.
+In addition, technical information about the browser and operating system, referring apps, the length of
+the visit as well as any additional data about the use of the online products and services are stored.
+The IP address of users is also recorded, although we would like inform you that within the framework
+of Google Analytics, IP addresses within Member States of the European Union or in other contracting
+states to the Agreement on the European Economic Area are truncated.
+All user data will only be processed as pseudonymous data. Google does not store any names or e-
+mail addresses. All displayed ads are therefore not displayed specifically for a person, but for the
+owner of the cookie. This information is collected by Google and transmitted to and stored by servers
+in the USA.
+One of the Google marketing services we use is the online advertising program Google AdWords. In
+the case of Google AdWords, each AdWords customer receives a different conversion cookie. Cookies
+can therefore not be tracked through the apps of AdWords customers. The information collected by
+the cookie is used to generate conversion statistics for AdWords customers who have opted for
+conversion tracking. AdWords customers see the total number of users who clicked on their ad and
+were redirected to a page with a conversion tracking tag. However, they will not receive any
+information that personally identifies users.
+We may include third-party advertisements based on the Google Marketing Service called
+DoubleClick. DoubleClick uses cookies to enable Google and its partner apps to place ads based on
+users' visits to this app or other apps on the Internet.
+Google services make use of Google's Tag Manager. For more information about Google's use of data
+for marketing purposes, please see the summary
+page: https://www.google.com/policies/technologies/ads, Google's privacy policy is available
+at https://www.google.com/policies/privacy.
+The legal basis for the use of this service is Article Art. 6 paragraph 1 sentence 1 letter f GDPR. If you
+wish to object to interest-based advertising by Google marketing services, you can do so using the
+settings and opt-out options provided by Google: http://www.google.com/ads/preferences.
+A transmission of your data to the USA cannot be excluded. We guarantee the adequacy of data
+transfer to the third country USA through the agreement of EU standard contractual clauses.
+---
+22. Google SDK (Firebase Analytics)
+We use the developer platform called “Google Firebase” as well as the associated functions and
+services of Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Ireland; "Google"). Google
+Firebase is a platform for developing apps for mobile devices and websites. Google Firebase offers a
+variety of features, which are can be found on the following summary
+page: https://firebase.google.com/products/ The functions include the storage of apps, including
+users' personal data, such as content they have created or information regarding their interaction with
+the apps. Google Firebase also offers interfaces that allow interaction between the users of the app
+and other services. The analysis of user interactions is carried out using the analysis service of
+Firebase Analytics. This service helps us to record our users' interactions. Events such as the first time
+an app is opened, the uninstalling of an app, updates, crashes or the frequency of use of the app are
+recorded. Certain user interests are also recorded and evaluated. The information processed by
+Google Firebase may be used with other Google services, such as Google Analytics and Google
+marketing services. In this case, only pseudonymous information, such as the Android Advertising ID
+or the Advertising Identifier for iOS, will be processed to identify users' mobile devices. Additional
+information on the use of data for marketing purposes by Google can be found on the summary
+page: https://www.google.com/policies/technologies/ads, Google's privacy policy is available
+at https://www.google.com/policies/privacy. The legal basis for use is Art. 6 paragraph 1 sentence 1
+letter f GDPR. If users wish to object to interest-based advertising through Google marketing services,
+they can use the settings and opt-out options provided by
+Google: http://www.google.com/ads/preferences.
+A transmission of your data to the USA cannot be excluded. We guarantee the adequacy of data
+transfer to the third country USA through the agreement of EU standard contractual clauses.
+---
+23. AppsFlyer SDK
+Our app is analyzed with technologies from AppsFlyer Inc. (111 New Montgomery Street, San
+Francisco, California 94105). Various session and interaction data are collected from you and stored for
+this purpose. We need this information to improve the content and usability of our games and to
+optimize the user experience for you. The session and interaction data are at no time processed in
+personalized form, but under a pseudonym. For more information on data processing by AppsFlyer,
+please refer to the privacy policy of the provider: https://www.appsflyer.com/privacy-policy/. Appsflyer
+is used by various advertising partners such as Jampp Limited (CanalotStudios, 222 Kensal Road,
+London, United Kingdom). Their privacy policy can be found at https://jampp.com/privacy.html. The
+legal basis for use is Art. 6 paragraph 1 sentence 1 letter f GDPR. If you do not wish to be tracked by
+AppsFlyer in the future, you can opt out at any time here: https://www.appsflyer.com/optout.
+We guarantee the adequacy of data transfer to the third country USA through the agreement of EU
+standard contractual clauses.
+---
+24. Microsoft Bing Ads
+We use the conversion and tracking tool Bing Ads from Microsoft Corporation (One Microsoft Way,
+Redmond, WA 98052-6399, “Microsoft”) as part of our app. Microsoft stores a cookie on the user's
+device to enable an analysis of the use of our online services. The prerequisite for this is that the user
+has accessed our app through an ad from Microsoft Bing Ads. This enables Microsoft and us to know
+that someone has clicked on an ad, has been redirected to our online services and has reached a
+--- [PAGE BREAK] ---
+predetermined target page. We only see the total number of users who clicked on a Bing ad and were
+then forwarded to the target page (conversions). No IP addresses are stored. No other personal
+information about the identity of the user is disclosed. Users can find further information on data
+protection and the cookies used at Microsoft Bing ads in Microsoft's privacy
+statement: https://privacy.microsoft.com/de-de/privacystatement. The legal basis for the use of this
+service is Art. 6 paragraph 1 sentence 1 letter f GDPR. If you do not wish to participate in the Bing Ads
+tracking process, you can communicate your objection to Microsoft
+here: http://choice.microsoft.com/de-DE/opt-out.
+We guarantee the adequacy of data transfer to the third country USA through the agreement of EU
+standard contractual clauses.
+---
+25. Taboola
+Use of technologies belonging to Taboola Inc. (Taboola Inc., Atrium Tower, 2 Jabotinsky St., 32nd fl.,
+Ramat Gan 5250501 Tel Aviv) allows us to utilize user-specific advertising based on surfing behavior
+and customer interests. Taboola uses cookies (or similar technologies) to determine which websites
+you visit frequently and record your movements on our website. Taboola gathers device-related data
+and protocol data and creates usage profiles using pseudonyms. The usage profiles are not merged
+with the data about the bearer of the pseudonym and do not allow conclusions to be drawn on
+personal data. To do this, we communicate your IP address to Taboola. This processing is carried on
+the legal basis of our legitimate economic interest (Art. 6 paragraph 1 letter f GDPR.) You can object to
+inclusion in the tracking via the following link: https://www.taboola.com/privacy-policy#user-choices-
+and-optout. Once you have successfully opted out, you will no longer see personalized
+content/adverts.
+---
+26. Pinterest
+We use advertising services provided by the social network Pinterest, which is operated by Pinterest
+Europe Ltd., Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Ireland. We use the site to book
+advertising space on pins within Pinterest. If you land on one of our offers via a pin we have booked,
+this information will be processed by Pinterest and communicated to us as statistics (conversion). This
+allows us to find out, for instance, how many users have clicked on our pins. We obtain no information
+that allows users to be personally identified. Furthermore, we analyze whether a user then goes on to
+download our app. Insofar as personal data is processed, this is carried out on the legal basis of article
+6 paragraph 1 letter f GDPR. You can object to inclusion in the tracking via the following
+link: https://help.pinterest.com/de/articles/personalization-and-data
+---
+27. Advertising in apps
+Our apps allow you to view video sequences from third-party providers funded through advertising.
+This allows paid content, for example, to be used free of charge. Viewing the videos is voluntary, and
+must be actively confirmed by you, the user.
+The advertising displayed through our partners is either personalized or non-personalized (context-
+related). The data you provide when using advertising media is collected and analyzed, which will be
+explained in more detail below. Our SDK service providers Fyber (Fyber N.V., Johannisstraße 20, 10117
+Berlin) and Admob by Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland; "Google")
+allow us to put this type of ad monetization into practice. If a player decides to watch a video ad, the
+--- [PAGE BREAK] ---
+service providers take over control of the in-game advertising networks. This involves the following
+parameters being shared via an interface with the advertising networks: Advertising ID, IP address,
+browser, operating system, version, country, city, placement ID and bundle ID. The aim of this
+transmission of information is to display the best possible advertising material for the user. The SDKs
+for the advertising networks mentioned may possibly also process personal data, such as advertising
+ID and IP address, in order to be able to provide that advertising material.
+Fyber also operates its own advertising networks (Fyber Marketplace and Heyzap Ad Network), which
+are used to display both personalized and context-related advertising. Fyber only uses information
+from the app's general access permissions for this purpose. This data is processed on our behalf.
+Further information about Fyber's data processing can be found here: https://www.fyber.com/gdpr-
+faqs/.
+The legal basis for the processing is our legitimate financial interests (Art. 6 paragraph 1 letter f GDPR).
+As a user, you can switch this form of personalized advertising off at any time in our app settings (opt-
+out). In such a case, all pseudonymous information is anonymized by us, meaning that only context-
+related advertising will be shown. You can also deactivate personalized advertising in the settings of
+your mobile device. In order to do this, please follow the instructions below:
+Android
+1. Depending on your device, you can find the Google settings in one of the following locations: – In a
+separate app called "Google settings" – Scroll through your main app “Settings” and tap on Google
+2. Tap on "Ads"
+3. Tap on the toggle button next to Opt out of Ads Personalization
+iOS
+iOS devices use Apple's Advertising Identifier. Further information on the different options for using this
+Identifier can be found in the Settings app of your mobile device. This can be found by:
+1. Opening "Settings"
+2. Selecting "Privacy"
+3. Selecting "Advertising”
+Here you can choose between specific settings using a toggle button.
+Advertising partners
+Service partner
+1. Service partner, 2. Processing role, 3. Type of ads, 4. Additional information
+Unity Ads
+1. Unity Technologies, 30 3rd Street, San Francisco, CA 94103, USA
+2. Joint controllers
+3. Personalized and contextual ads
+4. Specific information on privacy and opting out of personalized advertising is also displayed
+transparently in the video player.
+https://unity3d.com/de/legal/privacy-policy.
+--- [PAGE BREAK] ---
+Facebook Audience Network SDK
+1. Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland
+2. Joint controllers
+3. Personalized ads
+4. As a Facebook user, you can switch off personalized advertising on third-party sites in the
+settings. https://www.facebook.com/about/ads
+AdColony
+1. AdColony, Inc 11400 W Olympic Blvd #1200, Los Angeles, CA 90064, USA
+2. Joint controllers
+3. Personalized and contextual ads
+4. https://www.adcolony.com/privacy-policy/

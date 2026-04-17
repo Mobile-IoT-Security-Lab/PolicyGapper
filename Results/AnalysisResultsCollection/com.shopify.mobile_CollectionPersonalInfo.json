@@ -1,0 +1,34 @@
+{
+  "omitted_declarations": [
+    {
+      "data_type": "Race and ethnicity",
+      "policy_reference": "| • Information you voluntarily disclose that may reveal certain characteristics about you such as your racial or ethnic origin or sexual orientation | |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Sexual orientation",
+      "policy_reference": "| • Information you voluntarily disclose that may reveal certain characteristics about you such as your racial or ethnic origin or sexual orientation | |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Other info",
+      "policy_reference": "| • Other information you provide; and | |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Purchase history",
+      "policy_reference": "| • Commercial information, including products you purchase, place in your shopping cart, favorite or review (if you are a customer) and information you provide us about | • Merchants whose shops you visit or make purchases from; |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Approximate location",
+      "policy_reference": "| • Geolocation data, including your mailing and billing address; | |",
+      "lang": "English"
+    },
+    {
+      "data_type": "Precise location",
+      "policy_reference": "| • Your device's precise location (if you are a Shop App user, but only when you allow Shop to access this information); | |",
+      "lang": "English"
+    }
+  ]
+}
