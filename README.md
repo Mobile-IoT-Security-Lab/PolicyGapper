@@ -12,6 +12,9 @@ The framework applies to  **Android**  application packages and operates **witho
 
 The system is composed of **five cooperating modules**, orchestrated according to the workflow shown in [Figure 1](#fig-architecture).
 
+
+Paper:
+ <a href="https://arxiv.org/abs/2604.16128">PolicyGapper: Automated Detection of Inconsistencies Between Google Play Data Safety Sections and Privacy Policies Using LLMs</a>
 ---
 
 ## 🧩 Overview
