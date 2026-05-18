@@ -16,7 +16,7 @@ The system is composed of **five cooperating modules**, orchestrated according t
 Paper:
  <a href="https://arxiv.org/abs/2604.16128">PolicyGapper: Automated Detection of Inconsistencies Between Google Play Data Safety Sections and Privacy Policies Using LLMs</a>
 
- '''
+```yml
 @misc{ferrari2026policygapperautomateddetectioninconsistencies,
       title={PolicyGapper: Automated Detection of Inconsistencies Between Google Play Data Safety Sections and Privacy Policies Using LLMs}, 
       author={Luca Ferrari and Billel Habbati and Meriem Guerar and Mariano Ceccato and Luca Verderame},
@@ -26,7 +26,7 @@ Paper:
       primaryClass={cs.CR},
       url={https://arxiv.org/abs/2604.16128}, 
 }
- '''
+```
 ---
 
 ## 🧩 Overview
